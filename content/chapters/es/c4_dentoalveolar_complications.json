@@ -1,7 +1,7 @@
 {
   "id": "C4",
   "title": "Complicaciones en Cirugía Dentoalveolar",
-  "subtitle": "Bloque C — Infecciones Postoperatorias, Lesión Nerviosa, Comunicaciones Oroantales, Osteomielitis",
+  "subtitle": "Bloque C — Infecciones Posoperatorias, Lesión Nerviosa, Comunicaciones Oronasales, Osteomielitis",
   "block": "C",
   "block_name": "Cirugía Dentoalveolar e Implantología",
   "level": "R2-3",
@@ -14,40 +14,40 @@
     "Dodson TB et al. Nerve Injuries After Third Molar Removal. J Oral Maxillofac Surg (2012)"
   ],
   "learning_objectives": [
-    "Clasificar las infecciones de los espacios odontogénicos y sus límites anatómicos para orientar las decisiones de drenaje quirúrgico",
-    "Reconocer los criterios de la angina de Ludwig y manejar la vía aérea en infecciones graves de espacios profundos",
-    "Diagnosticar y clasificar la osteomielitis de los maxilares con los protocolos de imagen y tratamiento adecuados",
-    "Manejar las comunicaciones oroantales: criterios de cierre primario inmediato y estrategias de tratamiento diferido",
-    "Identificar, clasificar y determinar los umbrales de reparación microquirúrgica de las lesiones del nervio dentario inferior y lingual",
-    "Manejar las fracturas mandibulares como complicación de la exodoncia"
+    "Clasificar las infecciones de los espacios odontogénicos y sus límites anatómicos para guiar las decisiones de drenaje quirúrgico",
+    "Reconocer los criterios de angina de Ludwig y manejar la vía aérea en infecciones graves de espacios profundos",
+    "Diagnosticar y clasificar la osteomielitis de los maxilares con protocolos de imagen y tratamiento apropiados",
+    "Manejar las comunicaciones oronasales: criterios de cierre primario inmediato y estrategias de manejo diferido",
+    "Identificar, clasificar y determinar los umbrales de reparación microquirúrgica para lesiones del nervio dentario inferior y lingual",
+    "Manejar las fracturas mandibulares que ocurren como complicación de la extracción dentaria"
   ],
   "sections": [
     {
       "id": "C4-S1",
-      "title": "Infecciones de los Espacios Odontogénicos: Anatomía y Clasificación",
+      "title": "Infecciones Odontogénicas de los Espacios: Anatomía y Clasificación",
       "blocks": [
         {
           "type": "text",
-          "content": "Las infecciones de los espacios odontogénicos se originan con mayor frecuencia a partir de abscesos periapicales, enfermedad periodontal y pericoronitis. El conocimiento de la anatomía de los espacios fasciales de la cabeza y el cuello es fundamental para predecir los patrones de propagación, guiar el drenaje y detectar presentaciones potencialmente mortales. Los espacios primarios —aquellos directamente adyacentes a los dientes— incluyen el espacio bucal, sublingual, submentoniano, submandibular, masticador (que comprende los espacios masetérico, pterigomandibular y temporal superficial) y parafaríngeo. Los espacios secundarios son aquellos alcanzados por propagación contigua: el retrofaríngeo, el espacio peligroso (danger space) y el prevertebral, que constituyen una vía directa hacia el mediastino.\n\nLa dirección de propagación de la infección está determinada por la posición del ápice dentario en relación con las inserciones musculares. Los molares mandibulares cuyos ápices se sitúan por debajo de la inserción del músculo milohioideo drenan hacia el espacio submandibular; si están por encima, drenan hacia el sublingual. Los dientes posteriores superiores con perforación de la cortical vestibular por debajo de la inserción del buccinador alcanzan el espacio bucal; si es por encima, alcanzan el espacio infraorbitario o canino. El espacio masticador —delimitado por el músculo masetero lateralmente, el pterigoideo medial medialmente y la rama mandibular posteriormente— se infecta con mayor frecuencia a partir de los terceros molares mandibulares y se manifiesta con trismo como signo clínico cardinal, causado por el espasmo de los músculos masetero y pterigoideo."
+          "content": "Las infecciones de los espacios odontogénicos surgen más comúnmente de abscesos periapicales, enfermedad periodontal y pericoronitis. Comprender la anatomía del espacio fascial de la cabeza y el cuello es esencial para predecir los patrones de propagación, guiar el drenaje e identificar presentaciones potencialmente mortales. Los espacios primarios — los directamente adyacentes a los dientes — incluyen el bucal, sublingual, submentoniano, submandibular, masticatorio (que contiene los espacios masetérico, pterigomandibular y temporal superficial) y los espacios parafaríngeos. Los espacios secundarios son aquellos alcanzados por extensión contigua: los espacios retrofaríngeo, del peligro y prevertebral, que proporcionan un conducto directo al mediastino.\n\nLa vía de propagación de la infección está determinada por la posición del ápice dentario en relación con las inserciones musculares. Los molares mandibulares con ápices por debajo de la inserción del milohioideo drenan al espacio submandibular; si están por encima, al sublingual. Los dientes posteriores maxilares con perforación de la placa vestibular por debajo de la inserción del buccinador llegan al espacio bucal; por encima, alcanzan el espacio infraorbitario o canino. El espacio masticatorio — limitado por el masetero lateralmente, el pterigoideo medial medialmente y la rama posteriormente — se infecta con mayor frecuencia desde los terceros molares mandibulares y se presenta con trismus como característica clínica patognomónica, causada por espasmo de los músculos masetero y pterigoideo."
         },
         {
           "type": "table",
-          "title": "Espacios Fasciales Odontogénicos Primarios: Límites, Orígenes y Características Clínicas",
-          "headers": ["Espacio", "Límites", "Fuente primaria", "Rasgo clínico principal"],
+          "title": "Espacios Fasciales Odontogénicos Primarios: Límites, Fuentes y Características Clínicas",
+          "headers": ["Espacio", "Límites", "Fuente Primaria", "Característica Clínica Clave"],
           "rows": [
-            ["Bucal", "Buccinador (medial), piel (lateral), cigoma (superior), borde inferior mandibular (inferior)", "Molares y premolares maxilares y mandibulares", "Edema facial; trismo infrecuente"],
-            ["Sublingual", "Milohioideo (inferior), mucosa oral (superior), mandíbula (lateral)", "Dientes anteriores/premolares mandibulares (ápice por encima del milohioideo)", "Elevación del suelo de la boca, disfagia"],
-            ["Submandibular", "Milohioideo (superior/medial), platisma (lateral), digástrico (posterior)", "Molares mandibulares (ápice por debajo del milohioideo)", "Edema submandibular, edema cervical"],
-            ["Submentoniano", "Sínfisis (posterior), platisma (anterior/lateral), milohioideo (suelo)", "Incisivos mandibulares (por propagación submentoniana)", "Edema mentoniano, induración"],
-            ["Masticador", "Rama, masetero (lateral), pterigoideo medial (medial), arco cigomático (superior)", "Terceros molares mandibulares", "Trismo, edema facial lateral"],
-            ["Parafaríngeo", "Faringe (medial), pterigoideo/parótida (lateral), base del cráneo (superior)", "Extensión desde el espacio masticador/submandibular", "Desplazamiento medial de la pared faríngea, estridor"]
+            ["Bucal", "Buccinador (medial), piel (lateral), cigoma (superior), borde inferior mandíbula (inferior)", "Molares y premolares maxilares/mandibulares", "Tumefacción facial; trismus poco frecuente"],
+            ["Sublingual", "Milohioideo (inferior), mucosa oral (superior), mandíbula (lateral)", "Dientes anteriores/premolares mandibulares (ápice sobre milohioideo)", "Elevación del suelo de la boca, disfagia"],
+            ["Submandibular", "Milohioideo (superior/medial), platisma (lateral), digástrico (posterior)", "Molares mandibulares (ápice bajo milohioideo)", "Tumefacción submandibular, edema cervical"],
+            ["Submentoniano", "Sínfisis (posterior), platisma (anterior/lateral), milohioideo (suelo)", "Incisivos mandibulares (por extensión submentoniana)", "Tumefacción del mentón, induración"],
+            ["Masticatorio", "Rama, masetero (lateral), pterigoideo medial (medial), arco cigomático (superior)", "Terceros molares mandibulares", "Trismus, tumefacción facial lateral"],
+            ["Parafaríngeo", "Faringe (medial), pterigoideo/parótida (lateral), base de cráneo (superior)", "Extensión desde masticatorio/submandibular", "Desplazamiento medial de la pared faríngea, estridor"]
           ]
         },
         {
           "type": "callout",
           "variant": "warning",
-          "title": "Afectación del Espacio Peligroso — Riesgo de Mediastinitis",
-          "content": "El espacio retrofaríngeo comunica directamente con el espacio peligroso (situado entre la fascia alar y la fascia prevertebral), que se extiende hasta el mediastino posterior sin barrera anatómica. La TC de cuello Y tórax con contraste es obligatoria cuando se sospecha extensión retrofaríngea. La mortalidad por mediastinitis necrosante descendente se aproxima al 40% incluso con un tratamiento agresivo. La consulta precoz al cirujano torácico es imprescindible."
+          "title": "Afectación del Espacio del Peligro — Riesgo de Mediastinitis",
+          "content": "El espacio retrofaríngeo se comunica directamente con el espacio del peligro (entre la fascia alar y prevertebral), que se extiende al mediastino posterior sin barrera anatómica. La TC de cuello Y tórax con contraste es obligatoria cuando se sospecha extensión retrofaríngea. La mortalidad por mediastinitis necrotizante descendente se aproxima al 40% incluso con un manejo agresivo. La consulta precoz a cirugía torácica es esencial."
         }
       ]
     },
@@ -57,19 +57,19 @@
       "blocks": [
         {
           "type": "text",
-          "content": "La angina de Ludwig es una celulitis bilateral de rápida progresión y potencialmente mortal de los espacios submandibular, sublingual y submentoniano; los tres deben estar afectados simultáneamente para cumplir la definición clásica. Descrita por primera vez por Wilhelm Friedrich von Ludwig en 1836, la entidad se caracteriza por una induración leñosa y en tabla del suelo de la boca y el cuello, elevación de la lengua, disfagia, sialorrea y odinofagia. A diferencia de un absceso simple, la angina de Ludwig implica una celulitis difusa por organismos predominantemente estreptocócicos y anaerobios mixtos, más que una colección de pus bien localizada; la aspiración obtiene gas (de organismos gaseógenos) hasta en el 45% de los casos.\n\nEl manejo de la vía aérea es la prioridad absoluta. La lengua es empujada hacia arriba y atrás por el edema del suelo de la boca, y la laringoscopia convencional puede ser imposible o catastróficamente peligrosa. Debe anticiparse el escenario de «no se puede intubar, no se puede oxigenar». Los abordajes preferidos incluyen: intubación nasotraqueal con fibroscopio en el paciente despierto bajo anestesia tópica (primera elección cuando la vía aérea sigue accesible), traqueostomía en el paciente despierto bajo anestesia local (si hay deterioro rápido), y vía aérea quirúrgica como rescate final. Los intentos de intubación oral ciega están contraindicados. Los corticoides (dexametasona 8–16 mg IV) se utilizan para reducir el edema en casos seleccionados, aunque la evidencia es observacional.\n\nEl tratamiento médico requiere antibióticos intravenosos a dosis elevadas con cobertura de estreptococos, estafilococos y anaerobios: penicilina G más metronidazol, amoxicilina-clavulánico en monoterapia, o clindamicina más metronidazol en caso de alergia a la penicilina. El drenaje quirúrgico mediante incisión submandibular (1–2 cm por debajo y paralela al borde inferior de la mandíbula) con descompresión bilateral está indicado cuando la TC confirma la formación de absceso o cuando el deterioro clínico continúa a pesar de los antibióticos. Las incisiones deben descomprimir los tres espacios del suelo de la boca; puede ser necesario un drenaje en la línea media. La mortalidad en la era preantibiótica superaba el 50%; con el tratamiento moderno, ha descendido al 0–5%."
+          "content": "La angina de Ludwig es una celulitis bilateral de rápida progresión y potencialmente fatal de los espacios submandibular, sublingual y submentoniano — los tres deben estar afectados simultáneamente para cumplir la definición clásica. Descrita por primera vez por Wilhelm Friedrich von Ludwig en 1836, la afección se caracteriza por una induración dura e inflamatoria del suelo de la boca y el cuello, elevación de la lengua, disfagia, sialorrea y odinofagia. A diferencia de un simple absceso, la angina de Ludwig implica celulitis difusa con organismos predominantemente estreptocócicos y anaerobios mixtos en lugar de una colección de pus bien localizada — la aspiración produce gas (de organismos formadores de gas) en hasta el 45% de los casos.\n\nEl manejo de la vía aérea es la preocupación primordial. La lengua es empujada superior y posteriormente por el edema del suelo de la boca, y la laringoscopia convencional puede ser imposible o catastróficamente peligrosa. El escenario 'no se puede intubar, no se puede oxigenar' debe anticiparse. Los abordajes preferidos incluyen: intubación nasotraqueal fibroóptica despierto bajo anestesia tópica (primera elección cuando la vía aérea aún es accesible), traqueotomía despierto bajo anestesia local (si hay deterioro rápido) y vía aérea quirúrgica como rescate final. Los intentos de intubación oral a ciegas están contraindicados. Los esteroides (dexametasona 8-16 mg IV) se usan para reducir el edema en casos seleccionados, aunque la evidencia es observacional.\n\nEl manejo médico requiere antibióticos intravenosos de alta dosis que cubran estreptococos, estafilococos y anaerobios: penicilina G más metronidazol, o amoxicilina-clavulánico en monoterapia, o clindamicina más metronidazol en alergia a la penicilina. El drenaje quirúrgico mediante incisión submandibular (1-2 cm por debajo y paralela al borde inferior de la mandíbula) con descompresión bilateral está indicado cuando la TC confirma formación de absceso o cuando el deterioro clínico continúa a pesar de los antibióticos. Las incisiones deben descomprimir los tres espacios del suelo de la boca; puede ser necesario un drenaje en la línea media. La mortalidad en la era preantibiótica superaba el 50%; con el manejo moderno ha caído al 0-5%."
         },
         {
           "type": "callout",
           "variant": "pearl",
           "title": "Angina de Ludwig — Regla de los Tres Espacios",
-          "content": "La angina de Ludwig requiere específicamente la afectación BILATERAL simultánea de los espacios submandibular + sublingual + submentoniano. Una infección submandibular unilateral, por grave que sea, NO es una angina de Ludwig. La induración leñosa bilateral la distingue clínicamente. El trismo está ausente (el espacio masticador no está afectado), pero la disfagia y la sialorrea son prominentes. La vía aérea debe asegurarse antes de cualquier intento de drenaje."
+          "content": "La angina de Ludwig requiere específicamente afectación BILATERAL de los espacios submandibular + sublingual + submentoniano simultáneamente. La infección submandibular unilateral, por grave que sea, NO es angina de Ludwig. La induración bilateral dura la distingue clínicamente. El trismus está ausente (el espacio masticatorio no está afectado) pero la disfagia y la sialorrea son prominentes. La vía aérea debe asegurarse antes de cualquier intento de drenaje."
         },
         {
           "type": "callout",
           "variant": "clinical",
-          "title": "Contexto Clínico — Fascitis Necrosante Cervical",
-          "content": "La fascitis necrosante cervicofacial es distinta de la angina de Ludwig: implica necrosis de la fascia y del tejido subcutáneo con decoloración cutánea característica (violácea), flictenas y crepitación. El agente causal es el Streptococcus del grupo A o microorganismos mixtos sinérgicos. La TC muestra gas siguiendo los planos fasciales. El tratamiento requiere desbridamiento quirúrgico agresivo con amplia escisión cutánea, desbridamiento repetido a las 24–48 horas y consideración de oxígeno hiperbárico. La mortalidad supera el 20% a pesar del tratamiento agresivo."
+          "title": "Contexto Clínico — Fascitis Necrotizante Cervical",
+          "content": "La fascitis necrotizante cervicofacial es diferente de la angina de Ludwig: implica necrosis de fascia y tejido subcutáneo con coloración cutánea característica (violácea), ampollas y crepitación. Estreptococo del grupo A u organismos sinérgicos mixtos. La TC muestra gas siguiendo los planos fasciales. El tratamiento requiere desbridamiento quirúrgico agresivo con amplia escisión cutánea, repetición del desbridamiento a las 24-48 horas y consideración de oxígeno hiperbárico. La mortalidad supera el 20% a pesar del tratamiento agresivo."
         }
       ]
     },
@@ -79,99 +79,99 @@
       "blocks": [
         {
           "type": "text",
-          "content": "La osteomielitis de los maxilares —definida como la infección del hueso y la médula ósea— se clasifica como aguda (síntomas <4 semanas), subaguda (4–6 semanas) o crónica (>6 semanas). La mandíbula se afecta entre 10 y 15 veces más frecuentemente que el maxilar superior debido a su densa cortical ósea con escasa vascularización, patrón arterial terminal y limitada circulación colateral. Los microorganismos causales más frecuentes son Staphylococcus aureus (fase aguda primaria), anaerobios mixtos (forma crónica) y Actinomyces israelii (actinomicosis cervicofacial crónica, forma especial).\n\nLos factores predisponentes para la osteomielitis incluyen la radioterapia previa (la más importante — la osteorradionecrosis es una osteomielitis inducida por radiación), el tratamiento con bisfosfonatos o denosumab (OMRM), la diabetes mellitus, las neoplasias hematológicas, la inmunosupresión y la desnutrición grave. El sistema de clasificación de Zurich (Baltensperger 2004) proporciona un marco contemporáneo que distingue la osteomielitis crónica primaria (OCP — sin causa supurativa identificable, predominantemente en adolescentes, asociada al síndrome SAPHO) de la osteomielitis secundaria (con etiología odontogénica o traumática identificable).\n\nEl diagnóstico se basa en hallazgos clínicos, radiológicos e histopatológicos. Las radiografías simples muestran un patrón característico «en polilla» en la enfermedad establecida; la TC proporciona un detalle cortical superior; la RM es la más sensible para la afectación precoz de la médula ósea y la extensión a partes blandas. La gammagrafía ósea con tecnecio-99m es muy sensible pero inespecífica. La biopsia es obligatoria en todos los casos para excluir malignidad y obtener muestras microbiológicas para el estudio de sensibilidad antibiótica.\n\nEl tratamiento de la osteomielitis aguda incluye antibióticos IV durante 4–6 semanas (penicilina G o clindamicina de forma empírica, ajustados según los resultados del cultivo), secuestrectomía del hueso necrótico y extracción del diente causante. La osteomielitis crónica requiere desbridamiento quirúrgico, decorticación (extirpación de la cortical infectada para exponer el hueso medular vascularizado) y tratamiento antibiótico prolongado (6–12 semanas). Los casos refractarios pueden requerir resección segmentaria con reconstrucción."
+          "content": "La osteomielitis de los maxilares — definida como infección del hueso y la médula ósea — se clasifica como aguda (síntomas <4 semanas), subaguda (4-6 semanas) o crónica (>6 semanas). La mandíbula se afecta 10-15 veces más frecuentemente que el maxilar superior debido a su denso hueso cortical con suministro sanguíneo limitado, patrón vascular terminal y circulación colateral limitada. Los organismos causales más frecuentes son el Staphylococcus aureus (agudo primario), los anaerobios mixtos (crónico) y el Actinomyces israelii (actinomicosis cervicofacial crónica — una forma especial).\n\nLos factores predisponentes para la osteomielitis incluyen la radioterapia previa (más importante — la osteorradionecrosis es la osteomielitis inducida por radiación), la terapia con bisfosfonatos o denosumab (OIAM), la diabetes mellitus, las neoplasias hematológicas, la inmunosupresión y la desnutrición grave. El sistema de clasificación de Zurich (Baltensperger 2004) proporciona un marco contemporáneo que distingue la osteomielitis crónica primaria (OCP — sin causa supurativa identificable, predominantemente en adolescentes, asociada con el síndrome SAPHO) de la osteomielitis secundaria (con etiología odontogénica o traumática identificable).\n\nEl diagnóstico se basa en hallazgos clínicos, radiográficos e histopatológicos. Las radiografías simples muestran un patrón característico 'apolillado' en la enfermedad establecida; la TC proporciona detalle cortical superior; la RM es la más sensible para la afectación medular precoz y la extensión a tejidos blandos. La gammagrafía ósea con tecnecio-99m es muy sensible pero no específica. La biopsia es obligatoria en todos los casos para excluir malignidad y proporcionar muestras microbiológicas para las pruebas de sensibilidad antibiótica.\n\nEl tratamiento de la osteomielitis aguda implica antibióticos IV durante 4-6 semanas (penicilina G o clindamicina empírica, ajustada a los resultados del cultivo), secuestrectomía del hueso necrótico y retirada del diente causante. La osteomielitis crónica requiere desbridamiento quirúrgico, decorticación (eliminación de la cortical infectada para exponer el hueso medular vascular) y terapia antibiótica prolongada (6-12 semanas). Los casos refractarios pueden requerir resección segmentaria con reconstrucción."
         },
         {
           "type": "table",
-          "title": "Clasificación y Tratamiento de la Osteomielitis",
-          "headers": ["Tipo", "Duración", "Microbiología", "Hallazgo radiológico", "Tratamiento"],
+          "title": "Clasificación y Manejo de la Osteomielitis",
+          "headers": ["Tipo", "Duración", "Microbiología", "Característica Radiográfica", "Tratamiento"],
           "rows": [
             ["Supurativa aguda", "<4 semanas", "S. aureus, estreptococos, anaerobios mixtos", "Reacción perióstica, lisis ósea precoz", "Antibióticos IV 4-6 sem + secuestrectomía"],
-            ["Crónica secundaria", ">6 semanas", "Anaerobios mixtos, S. aureus", "Secuestro, involucro, cloaca", "Decorticación + antibióticos 6-12 sem"],
-            ["Crónica primaria (OCP)", ">6 semanas, sin foco séptico", "Generalmente estéril (cultivo negativo)", "Esclerosis difusa, laminación perióstica", "AINEs, bisfosfonatos, cortisona"],
-            ["Actinomicótica", "Semanas–meses", "Actinomyces israelii", "En polilla, «mandíbula de madera»", "Penicilina a dosis elevadas 6-12 meses"],
-            ["Osteorradionecrosis", "Post-RT, cualquier duración", "Infección secundaria (Pseudomonas, MRSA)", "Hueso expuesto, secuestro, fístula", "HBO + desbridamiento ± resección"],
-            ["OMRM", "Post-antirresortivos, ≥8 sem", "Secundaria (Actinomyces frecuente)", "Esclerosis, secuestro, ONJ", "Según estadio (protocolo AAOMS 2022)"]
+            ["Crónica secundaria", ">6 semanas", "Anaerobios mixtos, S. aureus", "Secuestro, involucro, cloaca", "Decorticación + 6-12 sem antibióticos"],
+            ["Crónica primaria (OCP)", ">6 semanas, sin foco séptico", "Habitualmente estéril (cultivo neg)", "Esclerosis difusa, estratificación perióstica", "AINEs, bisfosfonatos, cortisona"],
+            ["Actinomicótica", "Semanas-meses", "Actinomyces israelii", "Apolillado, 'mandíbula de madera'", "Penicilina a dosis alta 6-12 meses"],
+            ["Osteorradionecrosis", "Post-RT, cualquier duración", "Infección secundaria (Pseudomonas, SARM)", "Hueso expuesto, secuestro, fístula", "OHB + desbridamiento ± resección"],
+            ["OIAM", "Post-antirresortivo, ≥8 sem", "Secundaria (Actinomyces frecuente)", "Esclerosis, secuestro, ONJ", "Dependiente del estadio (protocolo AAOMS 2022)"]
           ]
         },
         {
           "type": "callout",
           "variant": "warning",
-          "title": "Secuestro vs Involucro — Distinción Imprescindible",
-          "content": "El secuestro es hueso muerto avascular que se ha separado del hueso vivo; aparece como una isla radiopaca densa rodeada de radiolucidez. Requiere extirpación quirúrgica. El involucro es la capa de hueso nuevo reactivo formada alrededor del secuestro por el periostio superviviente. La cloaca es un canal a través del involucro por el que drena el pus. Reconocer estos tres hallazgos en la TC confirma una osteomielitis crónica establecida y guía la extensión del desbridamiento quirúrgico."
+          "title": "Secuestro vs. Involucro — Debe Distinguirse",
+          "content": "Un secuestro es hueso muerto y avascular que se ha separado del hueso vivo — aparece como una isla radioopaca densa rodeada de radiolucencia. Requiere extracción quirúrgica. Un involucro es la corteza de hueso nuevo reactivo formado alrededor del secuestro por el periostio superviviente. Una cloaca es un canal a través del involucro a través del cual drena el pus. Reconocer estas tres características en la TC confirma la osteomielitis crónica establecida y guía la extensión del desbridamiento quirúrgico."
         }
       ]
     },
     {
       "id": "C4-S4",
-      "title": "Comunicaciones Oroantales",
+      "title": "Comunicaciones Oronasales",
       "blocks": [
         {
           "type": "text",
-          "content": "Una comunicación oroantral (COA) es una apertura anómala entre la cavidad oral y el seno maxilar, que se produce con mayor frecuencia tras la extracción de dientes posteriores superiores —especialmente el primer molar— cuyos ápices radiculares proyectan hacia el seno o están separados de su suelo únicamente por una delgada lámina ósea. La prevalencia de COA tras la extracción de molares superiores se estima en el 1–3%. La fístula oroantral (FOA) es una COA crónica y epitelizada que ha persistido más de 48–72 horas; presenta un trayecto revestido de epitelio que requiere exéresis quirúrgica en lugar de un simple cierre mucoso.\n\nLos predictores preoperatorios de riesgo de COA incluyen la proximidad de los ápices radiculares al seno en la ortopantomografía o la CBCT, la neumatización del seno (expansión del seno hacia la región dentoalveolar), la hipercementosis radicular y la patología periapical. Los signos intraoperatorios son: la prueba de Valsalva (positividad con burbujeo a través del alveolo cuando el paciente espira con los orificios nasales ocluidos), la visualización directa de la apertura y el sondaje del seno.\n\nEl cierre primario inmediato es el estándar asistencial para una COA identificada en el momento de la extracción cuando el defecto es ≤5 mm o el alveolo puede rellenarse con esponja de gelatina reabsorbible. Para defectos >5 mm, se requiere el cierre mediante colgajo local. El **colgajo de avance vestibular (colgajo de Rehrmann)** es la técnica más habitual: se eleva un colgajo mucoperióstico trapezoidal del surco vestibular con una incisión de descarga perióstica en la base para permitir el avance sin tensión. El **colgajo de rotación palatino (colgajo de Ahlfors)** utiliza la arteria palatina mayor como pedículo vascular y aporta tejido queratinizado; es preferible cuando el surco vestibular se ha visto comprometido por cirugías previas. El **colgajo de la almohadilla grasa del carrillo (bola de Bichat)** se emplea para defectos de mayor tamaño (>3 cm), aprovechando la excelente vascularización de dicho cuerpo graso; se deja que epitelice de forma secundaria en 3–4 semanas."
+          "content": "Una comunicación oroantral (COA) es una abertura anormal entre la cavidad oral y el seno maxilar, que ocurre con mayor frecuencia tras la extracción de los dientes posteriores superiores — particularmente el primer molar — donde los ápices radiculares se proyectan hacia el seno o están separados del suelo del seno solo por una delgada placa ósea. La prevalencia de la COA tras la extracción del molar superior se estima en el 1-3%. Una fístula oroantral (FOA) es una COA crónica, epitelizada, que ha persistido más de 48-72 horas; tiene un trayecto revestido de epitelio que requiere escisión quirúrgica en lugar de un simple cierre mucoso.\n\nLos predictores preoperatorios del riesgo de COA incluyen la proximidad de los ápices radiculares al seno en la OPG o CBCT, la neumatización del seno (expansión del seno hacia la región dentoalveolar), la hipercementosis radicular y la patología periapical. Los signos intraoperatorios incluyen: la prueba de Valsalva (burbujeo positivo a través del alveolo cuando el paciente exhala con la nariz cerrada), la visualización directa de la abertura y el paso de una sonda al seno.\n\nEl cierre primario inmediato es el estándar de cuidado para la COA identificada en el momento de la extracción cuando el defecto es ≤5 mm o el alveolo puede rellenarse con esponja de gelatina reabsorbible. Para los defectos >5 mm, se requiere el cierre con colgajo local. El **colgajo de avance vestibular (colgajo de Rehrmann)** es la técnica más frecuente: se levanta un colgajo mucoperióstico trapezoidal desde el vestíbulo vestibular con incisión liberadora de periostio en la base para permitir el avance sin tensión. El **colgajo de rotación palatino (colgajo de Ahlfors)** usa la arteria palatina mayor como pedículo vascular y proporciona tejido queratinizado; se prefiere cuando el vestíbulo vestibular ha sido comprometido por cirugía previa. El **colgajo de bola de grasa bucal** se usa para defectos más grandes (>3 cm), aprovechando la excelente vascularidad del cuerpo adiposo de Bichat — se deja epitelizar secundariamente durante 3-4 semanas."
         },
         {
           "type": "table",
-          "title": "Algoritmo de Tratamiento de las Comunicaciones Oroantales",
-          "headers": ["Tamaño del defecto / Momento", "Estado del seno", "Técnica preferida", "Notas"],
+          "title": "Algoritmo de Manejo para Comunicaciones Oronasales",
+          "headers": ["Tamaño del Defecto / Momento", "Estado del Seno", "Técnica Preferida", "Notas"],
           "rows": [
-            ["≤5 mm, inmediato", "Sano", "Esponja de gelatina + sutura en ocho", "No requiere colgajo si es pequeño y primario"],
-            [">5 mm, inmediato", "Sano", "Colgajo de avance vestibular (Rehrmann)", "Descarga perióstica obligatoria para cierre sin tensión"],
-            ["Cualquier tamaño, inmediato", "Tejido vestibular insuficiente", "Colgajo de rotación palatino (Ahlfors)", "Requiere identificación del foramen palatino mayor"],
-            ["Grande (>3 cm), inmediato", "Cualquiera", "Colgajo de la almohadilla grasa del carrillo", "Se deja epitelizar; carece de tejido queratinizado"],
-            ["FOA (epitelizada, >48-72h)", "Inflamado/sinusitis", "Tratar primero la sinusitis, luego exéresis del trayecto + colgajo", "Puede requerirse cirugía endoscópica funcional del seno (CEFS/FESS)"],
-            ["FOA con sinusitis crónica", "Sinusitis crónica, pólipos", "FESS + cierre oral combinados", "Manejo conjunto con ORL"]
+            ["≤5 mm, inmediata", "Sano", "Esponja de gelatina + sutura en ocho", "No se requiere colgajo si es pequeño y primario"],
+            [">5 mm, inmediata", "Sano", "Colgajo de avance vestibular (Rehrmann)", "Liberación perióstica obligatoria para avance sin tensión"],
+            ["Cualquier tamaño, inmediata", "Tejido vestibular limitado", "Colgajo de rotación palatino (Ahlfors)", "Requiere identificación del foramen palatino mayor"],
+            ["Grande (>3 cm), inmediata", "Cualquiera", "Colgajo de bola de grasa bucal", "Se deja epitelizar; falta tejido queratinizado"],
+            ["FOA (epitelizada, >48-72h)", "Inflamado/sinusitis", "Tratar primero la sinusitis, luego escindir el trayecto + colgajo", "Puede requerirse cirugía endoscópica nasosinusal (CENS)"],
+            ["FOA con SOMA", "Sinusitis crónica, pólipos", "CENS combinada + cierre oral", "Co-manejo con ORL"]
           ]
         },
         {
           "type": "callout",
           "variant": "pearl",
-          "title": "Signo de Epistaxis Positivo Tras la Extracción",
-          "content": "La instrumentación durante la extracción que perfora la membrana de Schneider puede provocar sangrado inmediato por la fosa nasal (epistaxis) antes de que se cree una COA en el alveolo. Este signo indica disrupción del suelo del seno y debe motivar la realización de la prueba de Valsalva. Del mismo modo, la epistaxis postoperatoria inmediata o la queja del paciente de que los líquidos pasan a la nariz durante la deglución son diagnósticas de COA. Documentar el tamaño, tratar de inmediato; nunca ignorarlos."
+          "title": "Signo de Sangrado Nasal Positivo tras la Extracción",
+          "content": "La instrumentación durante la extracción que perfora la membrana de Schneiderian puede causar sangrado inmediato por la fosa nasal (epistaxis) antes de que se cree una COA en el alveolo. Este signo indica disrupción del suelo del seno y debe motivar la prueba de Valsalva. Igualmente, la epistaxis postoperatoria inmediata o la queja del paciente de que los líquidos pasan a la nariz al tragar son diagnósticos de COA. Documentar el tamaño, manejar de inmediato; nunca ignorar."
         }
       ]
     },
     {
       "id": "C4-S5",
-      "title": "Lesión Nerviosa: Clasificación, Diagnóstico y Tratamiento",
+      "title": "Lesión Nerviosa: Clasificación, Diagnóstico y Manejo",
       "blocks": [
         {
           "type": "text",
-          "content": "Las lesiones nerviosas como complicación de la cirugía dentoalveolar representan la causa más frecuente de reclamaciones medicolegales en cirugía oral y maxilofacial. El nervio dentario inferior (NDI) y el nervio lingual (NL) son las estructuras más frecuentemente afectadas tras la extracción de cordales. La **clasificación de Sunderland** (1951) proporciona el marco estándar para graduar la severidad de las lesiones nerviosas periféricas:\n\n**Grado I (Neuropraxia)**: Desmielinización focal únicamente; continuidad axonal conservada; se espera recuperación espontánea completa, generalmente en días o semanas. **Grado II (Axonotmesis)**: Interrupción axonal con endoneuro intacto; se produce degeneración walleriana distal; la recuperación es completa pero puede tardar meses, guiada por la regeneración a razón de 1 mm/día. **Grado III**: Interrupción axonal y del endoneuro; perineuro intacto; es probable una recuperación incompleta por el tejido cicatricial en el punto de lesión. **Grado IV**: Solo el epineuro permanece intacto; cicatrización grave; la recuperación espontánea es escasa; está indicada la reparación quirúrgica. **Grado V (Neurotmesis)**: Sección nerviosa completa; sin recuperación espontánea; se requiere reparación primaria inmediata o diferida.\n\nLa evaluación clínica utiliza la escala sensorial del Medical Research Council (MRC, S0–S4) y el test de monofilamentos de Semmes-Weinstein para cuantificar los umbrales sensoriales. Las pruebas de discriminación de dos puntos estática y dinámica evalúan la recuperación sensorial funcional. Los estudios de electromiografía (EMG) y velocidad de conducción nerviosa (VCN) son útiles en las lesiones del nervio facial pero tienen aplicación limitada en las ramas del trigémino.\n\nLa decisión de reparación microquirúrgica se basa en: el mecanismo de la lesión (sección vs. tracción), el estado de continuidad del nervio (confirmado en la exploración), la duración de la anestesia sin mejoría y la trayectoria clínica. El consenso actual (revisado en el documento de posicionamiento de la AAOMS de 2012) apoya: observación durante 3 meses en lesiones iatrogénicas con continuidad probable; exploración y reparación a los 3–6 meses si no hay signos de recuperación (mejoría de la sensibilidad, signo de Tinel); y reparación inmediata en secciones confirmadas (por ejemplo, de una osteotomía). La reparación del nervio lingual tiene mejor pronóstico que la del NDI, con una recuperación funcional significativa reportada en más del 70% de los casos tras neurorrafia microquirúrgica."
+          "content": "Las lesiones nerviosas que complican la cirugía dentoalveolar representan la causa más frecuente de reclamaciones medicolegales en cirugía oral y maxilofacial. El nervio dentario inferior (NDI) y el nervio lingual (NL) son las estructuras afectadas con mayor frecuencia tras la extracción del tercer molar. La **clasificación de Sunderland** (1951) proporciona el marco estándar para la gravedad de la lesión nerviosa periférica:\n\n**Grado I (Neuropraxia)**: Solo desmielinización focal; continuidad axonal preservada; se espera recuperación espontánea completa, típicamente en días a semanas. **Grado II (Axonotmesis)**: Interrupción axonal con endoneuro intacto; ocurre degeneración walleriana distalmente; la recuperación es completa pero puede tardar meses, guiada por la regeneración a 1 mm/día. **Grado III**: Interrupción axonal y endoneural; perineuro intacto; recuperación incompleta probable por tejido cicatricial en el lugar de lesión. **Grado IV**: Solo epineuro intacto; cicatrización grave; recuperación espontánea deficiente; reparación quirúrgica indicada. **Grado V (Neurotmesis)**: Sección nerviosa completa; sin recuperación espontánea; reparación primaria inmediata o diferida necesaria.\n\nLa evaluación clínica utiliza la escala sensorial del Medical Research Council (MRC) (S0-S4) y el test de monofilamentos de Semmes-Weinstein para cuantificar los umbrales sensoriales. Los tests de discriminación de dos puntos estática y dinámica evalúan la recuperación sensorial funcional. La electromiografía (EMG) y los estudios de velocidad de conducción nerviosa (VCN) son útiles para las lesiones del nervio facial pero tienen aplicación limitada para las ramas del trigémino.\n\nLa decisión de reparación microquirúrgica se basa en: mecanismo de lesión (sección vs. tracción), estado de continuidad nerviosa (confirmado en la exploración), duración de la anestesia sin mejoría y trayectoria clínica. El consenso actual (revisado en el documento de posición de la AAOMS 2012) apoya: observación durante 3 meses para lesiones iatrogénicas cuando la continuidad es probable; exploración y reparación a los 3-6 meses si no hay signos de recuperación (mejoría sensorial, signo de Tinel); y reparación inmediata en la sección confirmada (p. ej., por osteotomía). La reparación del nervio lingual tiene mejor pronóstico que la reparación del NDI, con recuperación significativa reportada en >70% tras la neurorrafia microquirúrgica."
         },
         {
           "type": "table",
-          "title": "Clasificación de Sunderland Aplicada a las Lesiones Nerviosas en Cirugía Dentoalveolar",
-          "headers": ["Grado", "Nivel de lesión", "Continuidad", "Recuperación espontánea", "Actuación"],
+          "title": "Clasificación de Sunderland Aplicada a las Lesiones Nerviosas Dentoalveolares",
+          "headers": ["Grado", "Nivel de Lesión", "Continuidad", "Recuperación Espontánea", "Actuación"],
           "rows": [
-            ["I (Neuropraxia)", "Mielina únicamente", "Conservada", "Completa; días–semanas", "Observar; tranquilizar al paciente"],
-            ["II (Axonotmesis)", "Axón + mielina", "Endoneuro intacto", "Completa; semanas–meses", "Observar 3 meses; si no hay mejoría, reevaluar"],
+            ["I (Neuropraxia)", "Solo mielina", "Preservada", "Completa; días-semanas", "Observar; tranquilizar al paciente"],
+            ["II (Axonotmesis)", "Axón + mielina", "Endoneuro intacto", "Completa; semanas-meses", "Observar 3 meses; si no mejora, reevaluar"],
             ["III", "Axón + endoneuro", "Perineuro intacto", "Parcial; meses", "Observar 3 meses; considerar exploración si no hay recuperación"],
-            ["IV", "Todo excepto epineuro", "Epineuro únicamente", "Escasa", "Explorar a los 3 meses si no hay recuperación; reparar"],
-            ["V (Neurotmesis)", "Sección completa", "Ninguna", "Ninguna", "Reparación inmediata si se confirma; o planificar a los 3 meses"]
+            ["IV", "Todo excepto epineuro", "Solo epineuro", "Deficiente", "Explorar a los 3 meses si no hay recuperación; reparar"],
+            ["V (Neurotmesis)", "Sección completa", "Ninguna", "Ninguna", "Reparación inmediata si confirmada; o planificar a los 3 meses"]
           ]
         },
         {
           "type": "callout",
           "variant": "clinical",
           "title": "Contexto Clínico — Momento de la Reparación Microquirúrgica",
-          "content": "La ventana para la reparación microquirúrgica del nervio no es ilimitada. Más allá de los 12 meses, la sensibilización central y la degeneración de los órganos terminales receptores periféricos reducen la probabilidad de una recuperación funcional significativa. La ventana óptima es de 3–6 meses tras la lesión para la mayoría de las lesiones nerviosas iatrogénicas. En las secciones confirmadas (visibles en la exploración), la neurorrafia primaria inmediata con suturas epineurales (nylon 9-0 o 10-0) sin tensión ofrece el mejor pronóstico. Si la distancia supera 1–2 cm, se requiere injerto nervioso (nervio sural, nervio auricular mayor) o reparación con conducto."
+          "content": "La ventana para la reparación nerviosa microquirúrgica no es ilimitada. Más allá de los 12 meses, la sensibilización central y la degeneración de los órganos receptores periféricos reducen la probabilidad de recuperación funcional significativa. La ventana óptima es de 3-6 meses postlesión para la mayoría de las lesiones nerviosas iatrogénicas. Para las secciones confirmadas (visibles en la exploración), la neurorrafia primaria inmediata con suturas epineurales (nylon 9-0 o 10-0) sin tensión ofrece el mejor pronóstico. Si el espacio supera 1-2 cm, se requiere injerto nervioso (nervio sural, nervio auricular mayor) o reparación con conducto."
         }
       ]
     },
     {
       "id": "C4-S6",
-      "title": "Fractura Mandibular Iatrogénica Durante la Extracción",
+      "title": "Fractura Mandibular Iatrogénica durante la Extracción",
       "blocks": [
         {
           "type": "text",
-          "content": "La fractura mandibular iatrogénica durante la extracción o inmediatamente después es una complicación infrecuente pero grave, que se produce con mayor frecuencia durante la extracción quirúrgica de terceros molares mandibulares profundamente impactados —especialmente los clasificados como Pell-Gregory Clase III y Posición C— y en pacientes con reducción ósea significativa por osteoporosis relacionada con la edad, radioterapia previa, lesión patológica o cirugía mandibular anterior. La incidencia se estima en el 0,0034% de todas las extracciones y en el 0,0049% de las extracciones de terceros molares mandibulares.\n\nLos factores de riesgo incluyen: impactación profunda que requiere extirpación ósea extensa, raíces dilaceradas o hipercementóticas que precisan sección, el uso de fuerza excesiva con el elevador (el mecanismo más frecuente), quistes o tumores odontogénicos adyacentes al diente, el tratamiento con bisfosfonatos (fragilidad ósea), la osteoporosis y los cambios óseos inducidos por la radioterapia. Las fracturas intraoperatorias son habitualmente reconocidas de inmediato por el cirujano al notar o escuchar la fractura. Las fracturas diferidas (0–30 días tras la extracción) pueden presentarse con dolor, maloclusión, trismo y movilidad mandibular anómala en el seguimiento.\n\nEl tratamiento sigue los principios estándar de las fracturas mandibulares: estabilización inmediata (arco de titanio con fijación intermaxilar o fijación con miniplacas según el patrón de fractura y el desplazamiento), estudio de imagen (ortopantomografía ± TC) y profilaxis antibiótica. Un ángulo de fractura favorable respecto a la tracción muscular puede manejarse de forma conservadora con dieta blanda y seguimiento estrecho; las fracturas desfavorables y desplazadas requieren reducción abierta y fijación interna (RAFI) con miniplacas de titanio. El paciente y su familia deben ser informados de la complicación de inmediato, y la documentación precisa en la historia clínica es obligatoria. La documentación tardía o la falta de comunicación constituyen un riesgo medicolegal."
+          "content": "La fractura mandibular iatrogénica durante o inmediatamente después de la extracción dentaria es una complicación infrecuente pero grave, que ocurre con mayor frecuencia durante la extracción quirúrgica de terceros molares mandibulares profundamente incluidos — particularmente los clasificados como Pell-Gregory clase III y posición C, y en pacientes con reducción ósea significativa por osteoporosis relacionada con la edad, radiación previa, lesión patológica o cirugía mandibular anterior. La incidencia se estima en el 0,0034% de todas las extracciones y en el 0,0049% de las extracciones del tercer molar mandibular.\n\nLos factores de riesgo incluyen: inclusión profunda que requiere extensa eliminación ósea, raíces dilaceradas o hipercementóticas que requieren sección, el uso de fuerza excesiva con el elevador (el mecanismo más frecuente), quistes u odontomas adyacentes al diente, terapia con bisfosfonatos (fragilidad ósea), osteoporosis y cambios óseos inducidos por radiación. Las fracturas intraoperatorias suelen reconocerse inmediatamente al sentir o escuchar la fractura el cirujano. Las fracturas diferidas (0-30 días postextracción) pueden presentarse con dolor, maloclusión, trismus y movilidad mandibular anormal en la revisión.\n\nEl manejo sigue los principios estándar de fractura mandibular: estabilización inmediata (barras de arco y fijación intermaxilar o fijación con placas según el patrón de fractura y el desplazamiento), imagen (OPG ± TC) y profilaxis antibiótica. Un ángulo de fractura favorable relativo a la tracción muscular puede manejarse de forma conservadora con dieta blanda y seguimiento estrecho; las fracturas desfavorables y desplazadas requieren reducción abierta y fijación interna (RAFI) con miniplacas de titanio. El paciente y su familia deben ser informados de la complicación de inmediato, y la documentación precisa en la historia clínica es obligatoria. La documentación tardía o el no comunicarlo constituye un riesgo medicolegal."
         },
         {
           "type": "callout",
           "variant": "warning",
-          "title": "Técnica de Elevador — Desplazamiento de la Raíz hacia el Canal Dentario Inferior",
-          "content": "La presión apical del elevador sobre las raíces de un tercer molar profundamente impactado puede desplazar un fragmento radicular hacia el canal dentario inferior, el suelo de la boca o la faringe. Nunca se debe aplicar fuerza apical ciega sobre un fragmento radicular que no sea visible. Si un fragmento radicular se desplaza, DETENER de inmediato: obtener una CBCT para localizar el fragmento en tres dimensiones y, a continuación, recuperarlo bajo visión directa (si es accesible) o derivar a una unidad especializada. Los intentos de recuperación ciega conllevan el riesgo de laceración del NDI, hemorragia del canal o mayor desplazamiento del fragmento hacia el mediastino a través de los planos fasciales."
+          "title": "Técnica con Elevador — Desplazamiento de Raíz al Canal Dentario Inferior",
+          "content": "La presión apical del elevador sobre raíces profundamente incluidas de terceros molares puede desplazar un fragmento radicular al canal del nervio dentario inferior, al suelo de la boca o a la faringe. Nunca aplicar fuerza apical ciega a un fragmento de raíz que no sea visible. Si se desplaza un fragmento radicular, PARAR inmediatamente: obtener imagen de CBCT para localizar el fragmento en tres dimensiones, luego recuperarlo bajo visión directa (si es accesible) o derivar a una unidad especializada. Los intentos de recuperación a ciegas arriesgan la laceración del NDI, la hemorragia del canal o el desplazamiento adicional del fragmento hacia el mediastino por los planos fasciales."
         }
       ]
     },
@@ -181,161 +181,161 @@
       "blocks": [
         {
           "type": "text",
-          "content": "El uso de antibióticos profilácticos en la cirugía dentoalveolar rutinaria sigue siendo uno de los temas más debatidos en cirugía oral y maxilofacial. La guía basada en la evidencia actual distingue claramente entre profilaxis (administrada antes de un procedimiento limpio o limpio-contaminado en un paciente de riesgo) y antibióticos terapéuticos (para una infección establecida). La guía NICE NG35 (2024) sobre prescripción antimicrobiana en odontología establece que NO deben prescribirse antibióticos profilácticos de forma rutinaria para la extracción de terceros molares en pacientes inmunocompetentes sin signos de infección; esto se basa en revisiones Cochrane que demuestran una reducción mínima de las tasas de infección postoperatoria frente a un riesgo significativo de resistencia antimicrobiana y efectos adversos de los fármacos.\n\nLas indicaciones de profilaxis perioperatoria en cirugía dentoalveolar incluyen: pacientes inmunodeprimidos (neoplasia hematológica, trasplante de órganos, VIH con CD4 <200, diabetes no controlada), cardiopatías que requieren profilaxis de endocarditis (válvulas protésicas, endocarditis infecciosa previa, cardiopatías congénitas específicas según NICE CG64 2008/2016), tercer molar muy impactado con pericoronitis que requiere extracción quirúrgica en fase aguda, y procedimientos programados de aumento óseo. Cuando está indicada, la pauta estándar es amoxicilina 2 g por vía oral 1 hora antes de la cirugía; clindamicina 600 mg es la alternativa en pacientes alérgicos a la penicilina.\n\nEn las infecciones odontogénicas establecidas (absceso periapical, pericoronitis, absceso periodontal), el tratamiento antibiótico debe combinarse siempre con el drenaje quirúrgico y/o la eliminación del foco causante; los antibióticos solos son insuficientes para tratar colecciones localizadas. La pauta preferida para las infecciones odontogénicas en el Reino Unido/Europa es amoxicilina 500 mg cada 8 horas más metronidazol 400 mg cada 8 horas durante 5 días (cobertura combinada frente a anaerobios y estreptococos), con amoxicilina-clavulánico 625 mg cada 8 horas como alternativa. El ensayo GABA (Lodi et al., Cochrane 2021) confirmó que los antibióticos adyuvantes no aportan beneficio en pacientes inmunocompetentes con absceso apical agudo tratado únicamente mediante incisión y drenaje."
+          "content": "El uso de antibióticos profilácticos en la cirugía dentoalveolar habitual sigue siendo uno de los temas más debatidos en la cirugía oral y maxilofacial. La orientación actual basada en evidencia distingue claramente entre profilaxis (administrada antes de un procedimiento limpio o limpio-contaminado en un paciente en riesgo) y antibióticos terapéuticos (para infección establecida). La guía NICE NG35 (2024) sobre la prescripción antimicrobiana en odontología establece que los antibióticos profilácticos NO deben prescribirse rutinariamente para las extracciones del tercer molar en pacientes inmunocompetentes sin signos de infección — esto se basa en revisiones Cochrane que muestran una reducción mínima de las tasas de infección posoperatoria frente al riesgo significativo de resistencia antimicrobiana y efectos adversos de los fármacos.\n\nLas indicaciones de profilaxis perioperatoria en la cirugía dentoalveolar incluyen: pacientes inmunodeprimidos (neoplasia hematológica, trasplante de órgano, VIH con CD4 <200, diabetes no controlada), condiciones cardíacas que requieren profilaxis de endocarditis (válvulas protésicas, endocarditis infecciosa previa, defectos cardíacos congénitos específicos según NICE CG64 2008/2016), tercer molar severamente incluido con pericoronitis que requiere extracción quirúrgica en un contexto agudo y procedimientos de aumento óseo planificados. Cuando está indicado, la amoxicilina 2 g por vía oral 1 hora antes de la intervención es el estándar; la clindamicina 600 mg es la alternativa para pacientes alérgicos a la penicilina.\n\nPara las infecciones odontogénicas establecidas (absceso periapical, pericoronitis, absceso periodontal), el tratamiento antibiótico siempre debe combinarse con drenaje quirúrgico y/o eliminación del foco — los antibióticos solos son inadecuados para tratar las colecciones localizadas. El régimen preferido para las infecciones odontogénicas en el Reino Unido/Europa es amoxicilina 500 mg TDS más metronidazol 400 mg TDS durante 5 días (cobertura anaerobia/estreptocócica combinada), con amoxicilina-clavulánico 625 mg TDS como alternativa. El ensayo GABA (Lodi et al., Cochrane 2021) confirmó que no hay beneficio de los antibióticos adyuvantes en pacientes inmunocompetentes con absceso apical agudo tratado solo por incisión y drenaje."
         },
         {
           "type": "callout",
           "variant": "pearl",
           "title": "Profilaxis de Endocarditis — NICE CG64 (Actualización 2016)",
-          "content": "La guía NICE CG64 (publicada originalmente en 2008, confirmada en 2016) NO recomienda la profilaxis antibiótica para procedimientos dentales en pacientes con factores de riesgo cardíaco SALVO que presenten: válvula cardíaca protésica, endocarditis infecciosa previa o cardiopatía congénita específica no reparada/reparada. Esto contradice la práctica anterior. El fundamento es que la bacteriemia procedente de actividades cotidianas (cepillado dental) es cuantitativamente mucho más relevante que la de procedimientos dentales esporádicos, y la profilaxis no ha demostrado reducir la mortalidad. Conocer bien esta postura de NICE para el examen: es pregunta frecuente."
+          "content": "NICE CG64 (originalmente 2008, confirmado 2016) NO recomienda la profilaxis antibiótica para procedimientos dentales en pacientes con factores de riesgo cardíaco A MENOS QUE tengan: válvula cardíaca protésica, endocarditis infecciosa previa o enfermedad cardíaca congénita específica sin reparar/reparada. Esto contradice la práctica antigua. La justificación es que la bacteriemia de las actividades diarias habituales (cepillado dental) es mucho más significativa que la de los procedimientos dentales esporádicos, y la profilaxis no proporciona ningún beneficio probado en mortalidad. Conocer esta posición de NICE para el examen — se evalúa con frecuencia."
         }
       ]
     }
   ],
   "consolidation": {
-    "intro": "Pon a prueba tus conocimientos sobre complicaciones en cirugía dentoalveolar con 20 preguntas tipo MIR.",
+    "intro": "Pon a prueba tus conocimientos sobre las complicaciones de la cirugía dentoalveolar con 20 preguntas tipo board.",
     "questions": [
       {
         "id": "C4-Q1",
-        "stem": "Un varón de 34 años con diabetes tipo 1 mal controlada se presenta con edema submandibular y sublingual bilateral, elevación del suelo de la boca, sialorrea y estridor, 48 horas después de la extracción de un primer molar inferior izquierdo cariado. Temperatura 39,2 °C, frecuencia cardíaca 112 lpm. Al abrir la boca se visualiza la úvula, pero la lengua está marcadamente elevada. ¿Cuál es la PRIMERA prioridad en el manejo?",
+        "stem": "Un hombre de 34 años con diabetes tipo 1 mal controlada presenta tumefacción bilateral submandibular y sublingual, elevación del suelo de la boca, sialorrea y estridor tras la extracción de un primer molar inferior izquierdo cariado 48 horas antes. Temperatura 39,2°C, frecuencia cardíaca 112 lpm. Al abrir la boca puedes visualizar la úvula pero la lengua está notablemente elevada. ¿Cuál es la PRIMERA prioridad en el manejo?",
         "options": {
-          "A": "Administrar amoxicilina-clavulánico IV y solicitar TC urgente de cuello y tórax",
-          "B": "Asegurar la vía aérea mediante intubación nasotraqueal con fibroscopio en paciente despierto",
+          "A": "Administrar amoxicilina-clavulánico IV y realizar TC urgente de cuello y tórax",
+          "B": "Asegurar la vía aérea mediante intubación nasotraqueal fibroóptica despierto",
           "C": "Realizar incisiones submandibulares bilaterales para drenaje quirúrgico bajo anestesia local",
-          "D": "Iniciar dexametasona IV a dosis elevadas para reducir el edema del suelo de la boca"
+          "D": "Iniciar dexametasona IV a alta dosis para reducir el edema del suelo de la boca"
         },
         "correct": "B",
         "explanation": {
-          "correct": "Este paciente presenta una angina de Ludwig con estridor, lo que indica un compromiso inminente de la vía aérea. El manejo de la vía aérea tiene prioridad absoluta sobre cualquier otra intervención. La intubación nasotraqueal con fibroscopio en paciente despierto bajo anestesia tópica es la técnica preferida, ya que permite la evaluación en tiempo real de la vía aérea manteniendo la ventilación espontánea del paciente. La intubación oral ciega está contraindicada por la anatomía distorsionada. La traqueostomía en paciente despierto bajo anestesia local es la alternativa si falla el fibroscopio o no está disponible.",
+          "correct": "Este paciente tiene angina de Ludwig con estridor, lo que indica compromiso inminente de la vía aérea. El manejo de la vía aérea tiene prioridad absoluta antes que cualquier otra intervención. La intubación nasotraqueal fibroóptica despierto bajo anestesia tópica es la técnica preferida ya que permite la evaluación en tiempo real de la vía aérea mientras se mantiene el esfuerzo respiratorio propio del paciente. La intubación oral a ciegas está contraindicada por la anatomía distorsionada. La traqueotomía despierto bajo anestesia local es el recurso alternativo si la fibroóptica falla o no está disponible.",
           "wrong": {
-            "A": "La TC es importante pero no debe preceder al manejo de la vía aérea en un paciente con estridor. Enviar a un paciente con vía aérea inestable al escáner puede ser fatal.",
-            "C": "El drenaje quirúrgico es necesario, pero primero debe asegurarse la vía aérea. Realizar el drenaje bajo anestesia local con una vía aérea comprometida conlleva el riesgo de obstrucción completa por el decúbito o el sangrado.",
-            "D": "La dexametasona puede desempeñar un papel en la reducción del edema, pero no es la primera prioridad. El estridor indica que la vía aérea ya está críticamente comprometida."
+            "A": "La TC es importante pero no debe preceder al manejo de la vía aérea en un paciente con estridor. Enviar a un paciente con la vía aérea inestable a la sala de TC puede ser fatal.",
+            "C": "El drenaje quirúrgico es necesario pero la vía aérea debe asegurarse primero. Realizar el drenaje bajo anestesia local con una vía aérea comprometida arriesga la obstrucción completa por la posición o el sangrado.",
+            "D": "La dexametasona puede tener un papel en la reducción del edema pero no es la primera prioridad. El estridor indica que la vía aérea ya está críticamente comprometida."
           },
-          "guideline": "NICE CG168 (Infecciones de cabeza y cuello 2019) — el manejo de la vía aérea es la primera prioridad en la angina de Ludwig con estridor o disnea",
-          "trial": "Moreland LW et al. Ludwig's angina — report of a case and review of the literature. Arch Intern Med (1988): la mortalidad desciende de >50% (era preantibiótica) a <5% con manejo precoz de la vía aérea y antibióticos IV",
-          "pearl": "En la angina de Ludwig con estridor: LA VÍA AÉREA PRIMERO. El principio es «asegurar la vía aérea, después tratar la infección». La intubación nasotraqueal con fibroscopio en paciente despierto es preferible a la laringoscopia convencional porque preserva la ventilación espontánea del paciente durante un procedimiento que puede ser técnicamente imposible con laringoscopia estándar."
+          "guideline": "NICE CG168 (Infecciones de Cabeza y Cuello 2019) — el manejo de la vía aérea es la primera prioridad en la angina de Ludwig con estridor o disnea",
+          "trial": "Moreland LW et al. Ludwig's angina — report of a case and review of the literature. Arch Intern Med (1988): la mortalidad baja de >50% (era preantibiótica) a <5% con manejo precoz de la vía aérea y antibióticos IV",
+          "pearl": "En la angina de Ludwig con estridor: VÍA AÉREA PRIMERO. El mantra es 'asegurar la vía aérea, luego tratar la infección'. La intubación nasotraqueal fibroóptica despierto se prefiere sobre la laringoscopia estándar porque preserva la ventilación propia del paciente durante un procedimiento que puede ser técnicamente imposible con la laringoscopia estándar."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q2",
-        "stem": "¿Qué TRES espacios deben estar afectados simultáneamente para cumplir la definición clásica de angina de Ludwig?",
+        "stem": "¿Qué TRES espacios deben estar simultáneamente afectados para cumplir la definición clásica de angina de Ludwig?",
         "options": {
-          "A": "Espacios masticador, parafaríngeo y retrofaríngeo",
+          "A": "Espacios masticatorio, parafaríngeo y retrofaríngeo",
           "B": "Espacios submandibular, sublingual y submentoniano (bilateral)",
           "C": "Espacios bucal, submandibular y sublingual",
           "D": "Espacios parafaríngeo, retrofaríngeo y prevertebral"
         },
         "correct": "B",
         "explanation": {
-          "correct": "La angina de Ludwig se define por la afectación bilateral sincrónica de los espacios submandibular, sublingual y submentoniano, los tres simultáneamente. Esto la distingue de un absceso submandibular simple o de una infección unilateral de un espacio. La naturaleza bilateral genera la induración leñosa característica que eleva la lengua y el suelo de la boca. El trismo está notablemente ausente salvo que se produzca afectación secundaria del espacio masticador.",
+          "correct": "La angina de Ludwig se define por la afectación bilateral sincrónica de los espacios submandibular, sublingual y submentoniano — los tres simultáneamente. Esto la distingue de un simple absceso submandibular o infección de espacio unilateral. La naturaleza bilateral crea la característica induración dura que eleva la lengua y el suelo de la boca. El trismus está notablemente ausente a menos que se produzca afectación secundaria del espacio masticatorio.",
           "wrong": {
-            "A": "La afectación del espacio masticador provoca trismo, que en realidad es infrecuente en la angina de Ludwig clásica. La afectación retrofaríngea es una complicación secundaria, no parte de los criterios definitorios.",
-            "C": "El espacio bucal no forma parte de la definición de angina de Ludwig. Su afectación produciría edema de la mejilla, no la elevación del suelo de la boca característica de esta entidad.",
-            "D": "Estos espacios más profundos representan una propagación secundaria —complicaciones graves de la angina de Ludwig, pero no parte de su definición."
+            "A": "La afectación del espacio masticatorio causa trismus, que en realidad es poco frecuente en la angina de Ludwig clásica. La afectación retrofaríngea es una complicación secundaria, no parte de los criterios definitorios.",
+            "C": "El espacio bucal no forma parte de la definición de la angina de Ludwig. Su afectación produciría tumefacción de la mejilla, no la elevación del suelo de la boca característica de la angina de Ludwig.",
+            "D": "Estos espacios más profundos representan extensión secundaria — complicaciones peligrosas de la angina de Ludwig pero no parte de su definición."
           },
           "guideline": "Flynn TR. The swollen face: severe odontogenic infections. Emerg Med Clin North Am (2000) — la definición clásica requiere los 3 espacios del suelo de la boca bilateralmente",
           "trial": "Moreland LW et al. Arch Intern Med (1988) — criterios originales confirmados: espacios submandibular + sublingual + submentoniano bilaterales = angina de Ludwig",
-          "pearl": "Angina de Ludwig = 3 espacios bilaterales: SubMandibulaR + SubLingual + SubMentoniano. Sin espacio masticador = sin trismo. La elevación de la lengua + sialorrea + disfagia son los rasgos clínicos cardinales."
+          "pearl": "Angina de Ludwig = 3 espacios bilaterales: SubMandibular + SubLingual + SubMentoniano. Sin espacio masticatorio = sin trismus. La elevación de la lengua + sialorrea + disfagia son los signos clínicos patognomónicos."
         },
         "difficulty": 1
       },
       {
         "id": "C4-Q3",
-        "stem": "Una mujer de 58 años presenta 3 meses de evolución de hueso expuesto en el sector posterior mandibular izquierdo tras la extracción de un segundo molar inferior. Lleva tomando alendronato oral 70 mg semanales durante 7 años por osteoporosis. La zona expuesta mide aproximadamente 8 mm de diámetro con mucosa perilesional eritematosa. No hay antecedentes de radioterapia en cabeza y cuello ni de cirugía mandibular previa. Según los criterios de la AAOMS 2022, ¿cuál es el diagnóstico correcto?",
+        "stem": "Una mujer de 58 años presenta 3 meses de evolución de dolor mandibular, hueso expuesto en la mandíbula posterior izquierda tras la extracción de un segundo molar inferior. Lleva tomando alendronato oral 70 mg semanales durante 7 años por osteoporosis. La zona expuesta mide aproximadamente 8 mm de diámetro con mucosa eritematosa circundante. No hay antecedentes de radioterapia de cabeza y cuello. No ha tenido cirugía mandibular previa. Según los criterios de la AAOMS 2022, ¿cuál es el diagnóstico correcto?",
         "options": {
-          "A": "OMRM estadio 0 — sin hueso expuesto pero con síntomas inespecíficos",
-          "B": "OMRM estadio 1 — hueso expuesto sin signos de infección",
-          "C": "OMRM estadio 2 — hueso expuesto con dolor y datos clínicos de infección",
+          "A": "OIAM estadio 0 — sin hueso expuesto pero con síntomas inespecíficos",
+          "B": "OIAM estadio 1 — hueso expuesto, sin signos de infección",
+          "C": "OIAM estadio 2 — hueso expuesto con dolor y evidencia clínica de infección",
           "D": "Osteorradionecrosis — debe estadificarse según la clasificación HBO de Marx"
         },
         "correct": "C",
         "explanation": {
-          "correct": "Esta paciente cumple los tres criterios de OMRM: tratamiento antirresortivo (alendronato), hueso expuesto con más de 8 semanas de evolución y ausencia de antecedentes de radioterapia. La mucosa perilesional eritematosa indica infección clínica, lo que la sitúa en el estadio 2 (hueso expuesto/necrótico con dolor y signos de infección). El estadio 1 presentaría hueso expuesto sin infección. El estadio 3 requeriría osteólisis que se extienda hasta el borde inferior, fractura patológica, fístula extraoral o comunicación oronasal/oroantral.",
+          "correct": "Esta paciente cumple los tres criterios de la OIAM: terapia antirresortiva (alendronato), hueso expuesto >8 semanas de duración, y sin antecedentes de radiación. La mucosa eritematosa circundante indica infección clínica, lo que la sitúa en el Estadio 2 (hueso expuesto/necrótico con dolor y signos de infección). El Estadio 1 tendría hueso expuesto sin infección. El Estadio 3 requeriría osteólisis que se extiende al borde inferior, fractura patológica, fístula extraoral o comunicación orona­sal/oroantral.",
           "wrong": {
-            "A": "El estadio 0 de la OMRM implica síntomas inespecíficos sin hueso expuesto clínicamente visible. Esta paciente tiene hueso expuesto visible, lo que excluye el estadio 0.",
-            "B": "El estadio 1 requiere hueso expuesto SIN signos de infección. La mucosa eritematosa indica infección, lo que obliga a clasificarla como estadio 2.",
-            "D": "La osteorradionecrosis requiere antecedentes de radioterapia en los maxilares. Esta paciente no tiene historia de radioterapia; su cuadro es una OMRM secundaria al uso oral de bisfosfonatos."
+            "A": "El estadio 0 de la OIAM implica síntomas inespecíficos sin hueso expuesto clínicamente visible. Esta paciente tiene hueso expuesto visible, descartando el Estadio 0.",
+            "B": "El Estadio 1 requiere hueso expuesto SIN signos de infección. La mucosa eritematosa indica infección, requiriendo clasificación como Estadio 2.",
+            "D": "La osteorradionecrosis requiere antecedentes de radioterapia en el maxilar. Esta paciente no tiene antecedentes de radiación; su afección es OIAM por uso de bisfosfonatos orales."
           },
-          "guideline": "Documento de posición de la AAOMS sobre OMRM (2022) — 3 criterios diagnósticos; sistema de estadificación estadio 0-III basado en hallazgos clínicos",
-          "trial": "Ruggiero SL et al. American Association of Oral and Maxillofacial Surgeons Position Paper on MRONJ — 2022 Update. J Oral Maxillofac Surg (2022): estadio 2 = hueso expuesto + datos de infección",
-          "pearl": "OMRM estadio 2 = hueso expuesto + infección. Tratamiento: antibióticos orales (base penicilínica + metronidazol), colutorios de clorhexidina y desbridamiento conservador. La «vacación farmacológica» de los bisfosfonatos orales no ha demostrado beneficio en la OMRM establecida — NO está recomendada en el documento de posición de la AAOMS 2022 para el manejo agudo."
+          "guideline": "Documento de Posición de la AAOMS sobre la OIAM (2022) — 3 criterios para el diagnóstico; sistema de estadificación Estadio 0-III basado en hallazgos clínicos",
+          "trial": "Ruggiero SL et al. American Association of Oral and Maxillofacial Surgeons Position Paper on MRONJ — 2022 Update. J Oral Maxillofac Surg (2022): Estadio 2 = hueso expuesto + evidencia de infección",
+          "pearl": "OIAM Estadio 2 = hueso expuesto + infección. Tratamiento: antibióticos orales (base penicilínica + metronidazol), enjuagues de clorhexidina y desbridamiento conservador. Las vacaciones farmacológicas para los bisfosfonatos orales no tienen beneficio probado en la OIAM establecida — NO se recomienda en el documento de posición de la AAOMS 2022 para el manejo agudo."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q4",
-        "stem": "Durante la extracción de un primer molar superior izquierdo en una mujer sana de 42 años, se obtiene una prueba de Valsalva positiva y se confirma una apertura de 6 mm hacia el seno maxilar. El seno tiene aspecto sano sin pólipos. La mucosa vestibular es adecuada y no hay cicatrices quirúrgicas previas. ¿Cuál es el tratamiento inmediato más adecuado?",
+        "stem": "Durante la extracción de un primer molar superior izquierdo en una mujer sana de 42 años, se obtiene una prueba de Valsalva positiva y se confirma una apertura de 6 mm hacia el seno maxilar. El seno parece sano sin pólipos. La mucosa bucal es adecuada y no hay cicatrices quirúrgicas previas. ¿Cuál es el manejo inmediato más apropiado?",
         "options": {
-          "A": "Cerrar únicamente con suturas en ocho y prescribir descongestionantes nasales",
-          "B": "Empaquetar con celulosa oxidada y aconsejar que no se suene la nariz durante 2 semanas",
-          "C": "Elevar un colgajo de avance vestibular (Rehrmann) para cierre primario tras descarga perióstica",
-          "D": "Dejar abierto y derivar a ORL para FESS en 6 semanas"
+          "A": "Cerrar con suturas en ocho solamente y prescribir descongestionantes nasales",
+          "B": "Rellenar con celulosa oxidada y aconsejar no sonarse la nariz durante 2 semanas",
+          "C": "Levantar un colgajo de avance vestibular (Rehrmann) para el cierre primario tras la liberación del periostio",
+          "D": "Dejar abierto y gestionar la derivación a CENS en ORL en 6 semanas"
         },
         "correct": "C",
         "explanation": {
-          "correct": "Una COA de 6 mm con seno sano, identificada de forma inmediata en el momento de la extracción, se trata mejor con cierre quirúrgico primario. El colgajo de avance vestibular de Rehrmann es el estándar para defectos >5 mm: se eleva un colgajo mucoperióstico trapezoidal desde el surco vestibular y la incisión de descarga perióstica en la base del colgajo es obligatoria para permitir el avance sin tensión sobre el defecto. Esto consigue una cobertura primaria con tejido queratinizado sin morbilidad del área donante.",
+          "correct": "Una COA de 6 mm con seno sano identificada inmediatamente en la extracción se maneja mejor con cierre quirúrgico primario. El colgajo de avance vestibular de Rehrmann es el estándar de oro para defectos >5 mm: se eleva un colgajo mucoperióstico trapezoidal desde el vestíbulo vestibular, y la incisión liberadora de periostio en la base del colgajo es obligatoria para permitir el avance sin tensión sobre el defecto. Esto consigue cobertura primaria de tejido queratinizado sin morbilidad del área donante.",
           "wrong": {
-            "A": "Las suturas en ocho aisladas son insuficientes para un defecto de 6 mm. Pueden ser adecuadas para defectos ≤5 mm combinadas con esponja de gelatina reabsorbible, pero no para este tamaño.",
-            "B": "El taponamiento sin cierre con colgajo no conseguirá un sellado fiable de un defecto de 6 mm. La celulosa oxidada es útil en defectos menores como coadyuvante, no como tratamiento único.",
-            "D": "Dejar una COA abierta permite la epitelización del trayecto (convirtiendo la COA en FOA en 48–72 horas), lo que dificulta el cierre posterior. El cierre primario inmediato siempre es preferible cuando es factible."
+            "A": "Las suturas en ocho solas son insuficientes para un defecto de 6 mm. Pueden ser apropiadas para defectos ≤5 mm combinadas con relleno de esponja de gelatina reabsorbible, pero no para este tamaño.",
+            "B": "El relleno solo sin cierre con colgajo no conseguirá un sellado fiable de un defecto de 6 mm. La celulosa oxidada es útil en defectos más pequeños como complemento, no como tratamiento único.",
+            "D": "Dejar una COA abierta permite la epitelización del trayecto (convirtiendo la COA en FOA en 48-72 horas), haciendo el cierre posterior más difícil. El cierre primario inmediato siempre es preferible cuando es factible."
           },
-          "guideline": "Guía Clínica de la EACMFS sobre Comunicaciones Oroantales (2023) — cierre primario inmediato con colgajo para COA >5 mm; el colgajo de Rehrmann es de primera línea",
+          "guideline": "Guía Clínica de la EACMFS sobre Comunicaciones Oronasales (2023) — cierre primario inmediato con colgajo para COA >5 mm; el colgajo de Rehrmann es de primera línea",
           "trial": "Visscher SH et al. Review of the Closure of Oro-Antral Communications. J Oral Maxillofac Surg (2010): tasa de éxito del colgajo de Rehrmann del 92-98% para el cierre primario inmediato",
-          "pearl": "Tratamiento de la COA según el tamaño: ≤5 mm = esponja de gelatina + sutura; >5 mm = colgajo de avance vestibular de Rehrmann (descarga perióstica obligatoria para avance sin tensión). Una COA se convierte en FOA tras 48–72 horas de epitelización: la ventana para el cierre primario es estrecha."
+          "pearl": "Manejo de la COA por tamaño: ≤5 mm = esponja de gelatina + sutura; >5 mm = colgajo de avance vestibular de Rehrmann (liberación perióstica obligatoria para el avance sin tensión). Una COA se convierte en FOA a las 48-72 horas de epitelización — la ventana para el cierre primario es estrecha."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q5",
-        "stem": "Una estudiante de Odontología de 28 años se somete a la extracción quirúrgica de un tercer molar inferior derecho impactado. En la revisión a las 6 semanas, refiere entumecimiento persistente del labio y el mentón derechos sin mejoría desde la intervención. La sensibilidad lingual es normal. La exploración revela ausencia de sensibilidad al tacto en la distribución del nervio mentoniano derecho. ¿Qué grado de Sunderland es MENOS compatible con esta presentación clínica a las 6 semanas sin recuperación?",
+        "stem": "Una estudiante de odontología de 28 años se somete a la extracción quirúrgica de un tercer molar inferior derecho incluido. En la revisión a las 6 semanas, refiere entumecimiento persistente del labio inferior derecho y del mentón sin mejoría desde la operación. La sensación lingual es normal. La exploración revela ausencia de sensación táctil en la distribución del nervio mentoniano derecho. ¿Qué grado de Sunderland es MENOS compatible con esta presentación clínica a las 6 semanas de ausencia de recuperación?",
         "options": {
           "A": "Grado I (neuropraxia)",
           "B": "Grado II (axonotmesis)",
           "C": "Grado III",
-          "D": "Grados IV–V"
+          "D": "Grados IV-V"
         },
         "correct": "A",
         "explanation": {
-          "correct": "El grado I de Sunderland (neuropraxia) implica únicamente desmielinización focal con axones intactos. Se espera la recuperación de la neuropraxia en días a semanas, con certeza en 6 semanas. La anestesia total persistente a las 6 semanas es incompatible con una lesión de grado I, que debería haber recuperado completamente en ese momento. Los grados II–V son todos compatibles con la ausencia de recuperación a las 6 semanas, con el grado II mostrando recuperación progresiva más allá de las 6 semanas y los grados III–V mostrando recuperación parcial o ausente.",
+          "correct": "El Grado I de Sunderland (neuropraxia) implica solo desmielinización focal con axones intactos. Se espera la recuperación de la neuropraxia en días a semanas — ciertamente dentro de las 6 semanas. La anestesia total persistente a las 6 semanas es incompatible con la lesión de Grado I, que debería haber recuperado completamente en este momento. Los Grados II-V son todos compatibles con la ausencia de recuperación a las 6 semanas, con el Grado II mostrando recuperación progresiva más allá de las 6 semanas y los Grados III-V mostrando recuperación parcial o ausente.",
           "wrong": {
-            "B": "El grado II (axonotmesis) implica degeneración walleriana y recuperación a 1 mm/día. A las 6 semanas, puede no haberse producido aún una recuperación significativa a nivel del nervio mentoniano, lo que hace que el grado II sea compatible con esta presentación.",
-            "C": "El grado III implica disrupción del endoneuro con recuperación probablemente incompleta. La ausencia de recuperación a las 6 semanas es totalmente compatible con el grado III.",
-            "D": "Los grados IV y V presentan un potencial de recuperación espontánea escaso o nulo, lo que hace que la anestesia persistente a las 6 semanas sea muy consistente con estos grados."
+            "B": "El Grado II (axonotmesis) implica degeneración walleriana y recuperación a 1 mm/día. A las 6 semanas, puede que aún no haya ocurrido una recuperación significativa a nivel del nervio mentoniano, haciendo compatible el Grado II con esta presentación.",
+            "C": "El Grado III implica disrupción endoneural con recuperación incompleta probable. Ninguna recuperación a las 6 semanas es completamente compatible con el Grado III.",
+            "D": "Los Grados IV y V tienen potencial de recuperación espontánea deficiente o nulo, haciendo la anestesia persistente a las 6 semanas muy consistente con estos grados."
           },
-          "guideline": "Documento de posición de la AAOMS sobre lesiones nerviosas tras la extracción de terceros molares (2012) — la recuperación del grado I se espera en días-semanas; la lesión persistente a las 6 semanas requiere reevaluación y consideración de exploración",
-          "trial": "Dodson TB et al. Nerve injuries after third molar removal. J Oral Maxillofac Surg (2012): la recuperación de la neuropraxia grado I se produce en 4 semanas en >95% de los casos",
-          "pearl": "Grado I de Sunderland = neuropraxia = SIEMPRE se recupera completamente en días a semanas. La anestesia total persistente a las 6 semanas descarta el grado I. Si no hay recuperación a los 3 meses, considerar exploración y reparación microquirúrgica. La ventana óptima para la reparación nerviosa es de 3–6 meses tras la lesión."
+          "guideline": "Documento de Posición de la AAOMS sobre Lesiones Nerviosas tras la Extracción del Tercer Molar (2012) — se espera la recuperación del Grado I en días-semanas; el déficit persistente a las 6 semanas requiere reevaluación y consideración de la exploración",
+          "trial": "Dodson TB et al. Nerve injuries after third molar removal. J Oral Maxillofac Surg (2012): la recuperación de la neuropraxia Grado I ocurre en 4 semanas en >95% de los casos",
+          "pearl": "Grado I de Sunderland = neuropraxia = SIEMPRE se recupera completamente en días a semanas. La anestesia total persistente a las 6 semanas descarta el Grado I. Si no hay recuperación a los 3 meses, considerar la exploración y la reparación microquirúrgica. La ventana para la reparación nerviosa óptima es de 3-6 meses postlesión."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q6",
-        "stem": "En una ortopantomografía, ¿qué signo es el MÁS predictivo de contacto del nervio dentario inferior (NDI) con la raíz de un tercer molar mandibular impactado?",
+        "stem": "En una radiografía panorámica, ¿qué característica es MÁS predictiva del contacto del nervio dentario inferior (NDI) con la raíz de un tercer molar mandibular incluido?",
         "options": {
-          "A": "Deflexión del ápice radicular alrededor del canal dentario inferior",
-          "B": "Interrupción de la línea radiopaca cortical blanca del canal dentario inferior",
-          "C": "Oscurecimiento de la raíz en el punto de superposición con el canal",
-          "D": "Estrechez del canal dentario inferior"
+          "A": "Desviación del ápice radicular alrededor del canal dentario inferior",
+          "B": "Interrupción de la línea cortical blanca radioopaca del canal dentario inferior",
+          "C": "Oscurecimiento de la raíz en el punto de solapamiento con el canal",
+          "D": "Estrechamiento del canal dentario inferior"
         },
         "correct": "C",
         "explanation": {
-          "correct": "La revisión sistemática de Rood y Shehab (1990) sobre los signos ortopantomográficos estableció que el OSCURECIMIENTO de la raíz (pérdida de radiopacidad en el punto donde el canal se superpone a la raíz) es el signo estadísticamente MÁS predictivo de contacto del NDI o proximidad íntima. Se produce porque la pared del canal es comprimida por la raíz, eliminando el hueso cortical normal entre la dentina radicular y el contenido del canal. Este signo por sí solo indica que debe considerarse la CBCT para cuantificar el riesgo antes de la extracción.",
+          "correct": "La revisión sistemática de Rood y Shehab (1990) de los signos en OPG estableció que el OSCURECIMIENTO de la raíz (pérdida de radiopacidad en el punto donde el canal se solapa con la raíz) es el signo ESTADÍSTICAMENTE MÁS PREDICTIVO de contacto del NDI o proximidad íntima. Ocurre porque la pared del canal es comprimida por la raíz, eliminando el hueso cortical normal entre la dentina de la raíz y el contenido del canal. Solo este signo indica que debe considerarse la CBCT para cuantificar el riesgo antes de la extracción.",
           "wrong": {
-            "A": "La deflexión radicular (desviación) es un signo de Rood-Shehab indicativo de relación íntima con el canal, pero es menos predictivo que el oscurecimiento. La deflexión indica que la raíz se curva alrededor del canal pero no confirma el contacto directo.",
-            "B": "La interrupción de la línea radiopaca del canal es un signo de Rood-Shehab y, cuando se asocia al oscurecimiento, aumenta significativamente el riesgo, pero el oscurecimiento aislado tiene el mayor valor predictivo positivo de contacto con el NDI.",
-            "D": "La estrechez del canal es uno de los siete signos de Rood-Shehab, pero es menos específica y menos predictiva que el oscurecimiento radicular."
+            "A": "La desviación radicular (desvío) es un signo de Rood-Shehab que indica relación íntima con el canal, pero es menos predictivo que el oscurecimiento. La desviación indica que la raíz se dobla alrededor del canal pero no confirma el contacto directo.",
+            "B": "La interrupción de la línea radioopaca del canal es un signo de Rood-Shehab, y cuando se presenta con oscurecimiento aumenta significativamente el riesgo, pero el oscurecimiento solo tiene el mayor valor predictivo positivo para el contacto del NDI.",
+            "D": "El estrechamiento del canal es uno de los siete signos de Rood-Shehab pero es menos específico y menos predictivo que el oscurecimiento de la raíz."
           },
-          "guideline": "NICE NG35 (2024) y Guías EACMFS — CBCT recomendada cuando están presentes ≥2 signos de Rood-Shehab, siendo el oscurecimiento el signo aislado más predictivo",
-          "trial": "Rood JP, Shehab BA. The radiological prediction of inferior alveolar nerve injury during third molar surgery. Br J Oral Maxillofac Surg (1990): 7 signos ortopantomográficos identificados; el oscurecimiento (ensombrecimiento) de la raíz presentó el mayor valor predictivo positivo de contacto con el NDI",
-          "pearl": "El OSCURECIMIENTO de la raíz en la ortopantomografía es el signo de Rood-Shehab aislado más predictivo de contacto con el NDI. Los 7 signos son: oscurecimiento, deflexión, estrechez del canal, desviación (doble banda oscura), interrupción de la línea blanca, área yuxtaapical, estrechez de la raíz. CBCT si ≥2 signos — específicamente para valorar acanalamiento, muesca o perforación de la raíz por el canal."
+          "guideline": "NICE NG35 (2024) y Guías de la EACMFS — CBCT recomendada cuando hay ≥2 signos de Rood-Shehab, siendo el oscurecimiento el único signo más predictivo",
+          "trial": "Rood JP, Shehab BA. The radiological prediction of inferior alveolar nerve injury during third molar surgery. Br J Oral Maxillofac Surg (1990): 7 signos en OPG identificados; el oscurecimiento (grisado) de la raíz tuvo el mayor valor predictivo positivo para el contacto con el NDI",
+          "pearl": "El OSCURECIMIENTO de la raíz en OPG es el único signo de Rood-Shehab más predictivo para el contacto con el NDI. Los 7 signos son: oscurecimiento, desviación, estrechamiento del canal, doble banda oscura (desvío), interrupción de la línea blanca, zona yuxtaapical, estrechamiento de la raíz. CBCT si ≥2 signos — específicamente para evaluar acanalamiento, muesca o perforación de la raíz por el canal."
         },
         "difficulty": 1
       },
       {
         "id": "C4-Q7",
-        "stem": "Una mujer de 45 años se presenta con dolor mandibular crónico, febrícula y trismo de 3 meses de evolución tras la extracción de un tercer molar inferior izquierdo. La imagen muestra una isla ópaca y densa rodeada de un halo radiolúcido en la región del molar inferior izquierdo, con formación de hueso nuevo perilesional. Hay una pequeña apertura en la mucosa a través de la cual se expresa secreción amarillenta. ¿Cómo se denominan, respectivamente, los hallazgos radiológicos/clínicos descritos?",
+        "stem": "Una mujer de 45 años presenta dolor mandibular crónico, fiebre baja e trismus durante 3 meses tras la extracción de un tercer molar mandibular. La imagen muestra una isla ósea densa radioopaca rodeada por un halo radiolúcido en la región molar inferior izquierda, con neoformación ósea circundante. Hay una pequeña apertura en la mucosa a través de la cual se exprime secreción amarillenta. ¿Cómo se denominan respectivamente las características radiológicas?",
         "options": {
           "A": "Involucro, cloaca y secuestro",
           "B": "Secuestro, involucro y cloaca",
@@ -344,21 +344,21 @@
         },
         "correct": "B",
         "explanation": {
-          "correct": "Los tres hallazgos clásicos radiológicos/clínicos de la osteomielitis crónica establecida son: el secuestro (isla de hueso muerto avascular, opaca y densa, rodeada de radiolucidez), el involucro (capa de hueso perióstico reactivo nuevo que rodea el secuestro) y la cloaca (canal que atraviesa el involucro y la cortical y por el que drena el pus, presentándose clínicamente como seno o fístula). La comprensión de estos tres hallazgos es esencial para planificar la extensión del desbridamiento quirúrgico.",
+          "correct": "Las tres características radiológicas/clínicas clásicas de la osteomielitis crónica establecida son: secuestro (isla densa radioopaca de hueso muerto avascular, rodeada de radiolucencia), involucro (la corteza de hueso perióstico reactivo nuevo que rodea el secuestro) y cloaca (el canal a través del involucro y la cortical por el que drena el pus, presentándose clínicamente como un seno o fístula). Comprender estas tres características es esencial para planificar la extensión del desbridamiento quirúrgico.",
           "wrong": {
-            "A": "El orden es incorrecto. El involucro es la capa de hueso nuevo, la cloaca es el canal de drenaje y el secuestro es la isla de hueso muerto; denominar «involucro» a la isla ópaca densa es incorrecto.",
-            "C": "Orden incorrecto. La cloaca es la apertura de drenaje, no la isla ósea opaca.",
-            "D": "Las imágenes fantasma son artefactos en la radiografía panorámica. La osteosclerosis idiopática (isla densa de hueso) es un hallazgo incidental no asociado a infección. La osteítis condensante es una reacción ósea localizada a la infección pulpar crónica de bajo grado, distinta de la osteomielitis con secuestro."
+            "A": "Los enumera en orden incorrecto. El involucro es la corteza de hueso nuevo, la cloaca es el canal de drenaje y el secuestro es la isla de hueso muerto — colocar 'involucro' primero para la isla ósea densa es incorrecto.",
+            "C": "Orden incorrecto. La cloaca es la apertura de drenaje, no la isla ósea radioopaca.",
+            "D": "Las imágenes fantasma son artefactos en la radiografía panorámica. La osteosclerosis idiopática (isla ósea densa) es un hallazgo incidental no asociado a infección. La osteítis condensante es una reacción ósea localizada a la infección pulpar crónica de baja intensidad — no es lo mismo que la osteomielitis con secuestro."
           },
-          "guideline": "Baltensperger M, Eyrich G. Osteomyelitis of the Jaws (2009) — clasificación de Zurich y características anatomopatológicas de la osteomielitis supurativa crónica",
-          "trial": "Topazian RG. Osteomyelitis of the jaws. In: Topazian RG, Goldberg MH (eds) Oral and Maxillofacial Infections (2002): tríada clásica secuestro-involucro-cloaca en la osteomielitis crónica secundaria",
-          "pearl": "Tríada clásica de la osteomielitis: SECUESTRO (isla de hueso muerto, denso, avascular) + INVOLUCRO (capa perióstica de hueso nuevo alrededor del secuestro) + CLOACA (canal de drenaje a través del involucro hasta la superficie). Los tres juntos en TC = osteomielitis crónica establecida que requiere secuestrectomía quirúrgica."
+          "guideline": "Baltensperger M, Eyrich G. Osteomyelitis of the Jaws (2009) — clasificación de Zurich y características patológicas de la osteomielitis supurativa crónica",
+          "trial": "Topazian RG. Osteomyelitis of the jaws. En: Topazian RG, Goldberg MH (eds) Oral and Maxillofacial Infections (2002): tríada clásica secuestro-involucro-cloaca en la osteomielitis secundaria crónica",
+          "pearl": "Tríada clásica de osteomielitis: SECUESTRO (isla de hueso muerto, denso, avascular) + INVOLUCRO (corteza de hueso perióstico nuevo alrededor del secuestro) + CLOACA (canal de drenaje a través del involucro hasta la superficie). Los tres juntos en la TC = osteomielitis crónica establecida que requiere secuestrectomía quirúrgica."
         },
         "difficulty": 1
       },
       {
         "id": "C4-Q8",
-        "stem": "Un varón de 19 años se somete a la extracción quirúrgica de un tercer molar inferior izquierdo impactado bajo anestesia general. En el postoperatorio, el paciente refiere que los dos tercios anteriores de la lengua izquierda están adormecidos y que no puede saborear los alimentos en ese lado. La sensibilidad del labio inferior es normal. ¿Qué nervio ha resultado lesionado?",
+        "stem": "Un varón de 19 años se somete a la extracción quirúrgica de un tercer molar inferior izquierdo incluido bajo anestesia general. En el postoperatorio, el paciente refiere que los dos tercios anteriores de la lengua izquierda se sienten entumecidos y que no puede saborear los alimentos en ese lado. La sensación del labio inferior es normal. ¿Qué nervio ha sido lesionado?",
         "options": {
           "A": "Nervio dentario inferior",
           "B": "Nervio lingual",
@@ -367,61 +367,61 @@
         },
         "correct": "B",
         "explanation": {
-          "correct": "El nervio lingual proporciona sensibilidad general a los dos tercios anteriores de la lengua (y al suelo de la boca) y transporta fibras gustativas (procedentes de la cuerda del tímpano, rama del VII par) hacia la misma región a través del ganglio submandibular. El entumecimiento de los dos tercios anteriores de la lengua combinado con pérdida del gusto en ese lado indica una lesión del nervio lingual, no del NDI. El NDI inerva el labio inferior y el mentón a través del nervio mentoniano. El nervio lingual discurre en el espacio pterigomandibular medial al tercer molar inferior; el riesgo de lesión es máximo durante la retracción del colgajo lingual o el deslizamiento del elevador.",
+          "correct": "El nervio lingual proporciona sensación somática general a los dos tercios anteriores de la lengua (y el suelo de la boca) y transporta fibras gustativas (de la cuerda del tímpano, rama del VII PC) a la misma región a través del ganglio submandibular. El entumecimiento de los dos tercios anteriores de la lengua combinado con la pérdida del gusto en ese lado indica lesión del nervio lingual, no del NDI. El NDI inerva el labio inferior y el mentón a través del nervio mentoniano. El nervio lingual discurre en el espacio pterigomandibular medial al tercer molar inferior — el riesgo de lesión es más alto durante la retracción del colgajo lingual o el deslizamiento del elevador.",
           "wrong": {
-            "A": "La lesión del NDI produce entumecimiento del labio inferior y el mentón (distribución del nervio mentoniano), no de la lengua. La sensibilidad del labio inferior de este paciente se especifica expresamente como normal.",
-            "C": "El nervio bucal largo inerva la mucosa yugal y la encía adyacente a los molares inferiores, no la lengua. Su lesión provocaría entumecimiento de la mucosa de la mejilla.",
-            "D": "El nervio hipogloso (XII par) es el nervio motor de la lengua. Su lesión provoca desviación y debilidad/atrofia de la lengua, no pérdida sensorial ni alteración del gusto."
+            "A": "La lesión del NDI produce entumecimiento del labio inferior y el mentón (distribución del nervio mentoniano), no entumecimiento de la lengua. La sensación del labio inferior de este paciente se menciona específicamente como normal.",
+            "C": "El nervio bucal largo inerva la mucosa bucal y la encía adyacente a los molares inferiores — no la lengua. Su lesión causaría entumecimiento de la mucosa de la mejilla.",
+            "D": "El nervio hipogloso (XII PC) es el nervio motor de la lengua. Su lesión causa desviación y debilidad/atrofia de la lengua — no pérdida sensorial ni deterioro del gusto."
           },
-          "guideline": "Documento de posición de la AAOMS sobre lesiones nerviosas tras la extracción de terceros molares (2012) — lesión del nervio lingual: entumecimiento de los 2/3 anteriores de la lengua + pérdida del gusto = diagnóstico",
-          "trial": "Bataineh AB. Sensory nerve impairment following mandibular third molar surgery. J Oral Maxillofac Surg (2001): la lesión del nervio lingual se asocia a la retracción del colgajo lingual y al uso del elevador medial al tercer molar",
-          "pearl": "Lesión del nervio lingual = entumecimiento de los 2/3 anteriores de la lengua + PÉRDIDA DEL GUSTO en el mismo lado. Lesión del NDI = entumecimiento del labio/mentón inferiores. La pérdida del gusto distingue clínicamente la lesión del nervio lingual de la lesión del nervio dentario inferior. El nervio lingual transporta las fibras gustativas de la cuerda del tímpano; de ahí que el gusto se vea afectado."
+          "guideline": "Documento de Posición de la AAOMS sobre Lesiones Nerviosas tras la Extracción del Tercer Molar (2012) — lesión del nervio lingual: entumecimiento de los 2/3 anteriores de la lengua + pérdida del gusto = diagnóstico",
+          "trial": "Bataineh AB. Sensory nerve impairment following mandibular third molar surgery. J Oral Maxillofac Surg (2001): la lesión del nervio lingual asociada con la retracción del colgajo lingual y el uso del elevador medial al tercer molar",
+          "pearl": "Lesión del nervio lingual = entumecimiento de los 2/3 anteriores de la lengua + PÉRDIDA DEL GUSTO en el mismo lado. Lesión del NDI = entumecimiento del labio/mentón inferior. La pérdida del gusto distingue clínicamente la lesión del nervio lingual de la lesión del nervio dentario inferior. El nervio lingual transporta fibras gustativas de la cuerda del tímpano — por eso se afecta el gusto."
         },
         "difficulty": 1
       },
       {
         "id": "C4-Q9",
-        "stem": "Un varón de 52 años que recibió radioterapia (66 Gy) en el suelo de la boca hace 3 años precisa la extracción de un molar inferior izquierdo cariado. Actualmente no presenta hueso expuesto. Según el protocolo de Marx, ¿cuál es el régimen de oxígeno hiperbárico (OHB) adecuado para minimizar el riesgo de osteorradionecrosis?",
+        "stem": "Un hombre de 52 años que recibió radioterapia (66 Gy) en el suelo de la boca hace 3 años requiere la extracción de un molar inferior izquierdo cariado. Actualmente no tiene hueso expuesto. Según el protocolo de Marx, ¿cuál es el régimen de oxígeno hiperbárico (OHB) apropiado para minimizar el riesgo de osteorradionecrosis?",
         "options": {
-          "A": "10 sesiones únicamente antes de la extracción, a 2,4 atm con O2 al 100%",
-          "B": "20 sesiones antes de la extracción + 10 sesiones después, a 2,4 atm con O2 al 100%",
-          "C": "30 sesiones únicamente antes de la extracción, a 2,0 atm con O2 al 90%",
+          "A": "Solo 10 sesiones previas a la extracción, a 2,4 atm con O2 al 100%",
+          "B": "20 sesiones previas a la extracción + 10 sesiones posteriores, a 2,4 atm con O2 al 100%",
+          "C": "Solo 30 sesiones previas a la extracción, a 2,0 atm con O2 al 90%",
           "D": "No se requiere OHB; la profilaxis con penicilina es suficiente para dosis <70 Gy"
         },
         "correct": "B",
         "explanation": {
-          "correct": "El protocolo original de Marx (Marx 1983) para extracciones dentales en hueso irradiado previamente, con el fin de prevenir la osteorradionecrosis, consiste en 20 sesiones de OHB preoperatorias seguidas de 10 sesiones postoperatorias, cada una a 2,4 atmósferas absolutas (ATA) respirando oxígeno al 100% durante 90 minutos por sesión. Este protocolo tiene como objetivo aumentar la tensión de oxígeno tisular en el hueso irradiado hipóxico-hipovascular-hipocelular, promoviendo la neovascularización y la cicatrización de las heridas. Umbral de riesgo: dosis >55 Gy en la mandíbula aumentan significativamente el riesgo de ORN.",
+          "correct": "El protocolo original de Marx (Marx 1983) para las extracciones dentales en hueso previamente irradiado para prevenir la osteorradionecrosis consiste en 20 sesiones de OHB preoperatorias seguidas de 10 sesiones postoperatorias, cada una a 2,4 atmósferas absolutas (ATA) respirando oxígeno al 100% durante 90 minutos por sesión. Este protocolo tiene como objetivo aumentar la tensión de oxígeno tisular en el hueso irradiado hipóxico-hipovascular-hipocelular, promoviendo la neovascularización y la cicatrización de las heridas. Umbrales de preocupación: dosis >55 Gy en la mandíbula aumentan significativamente el riesgo de ORN.",
           "wrong": {
-            "A": "10 sesiones preoperatorias son insuficientes; el protocolo de Marx especifica 20 pre + 10 post. Las sesiones postextracción son necesarias para la fase de cicatrización de la herida, no solo para la preparación preprocedimental.",
-            "C": "El OHB se administra a 2,4 ATA con O2 al 100%, no a 2,0 ATA ni al 90%. Los parámetros estándar del protocolo son fijos.",
-            "D": "Una dosis de radiación >55 Gy aumenta significativamente el riesgo de ORN independientemente del umbral exacto utilizado en los distintos centros. 66 Gy está claramente por encima de todos los umbrales de riesgo aceptados. La profilaxis con penicilina sola es insuficiente: no aborda el entorno tisular hipóxico."
+            "A": "10 sesiones preoperatorias son insuficientes; el protocolo de Marx especifica 20 pre + 10 post. Las sesiones postextracción son necesarias para la fase de cicatrización de la herida, no solo para la preparación previa al procedimiento.",
+            "C": "El OHB se administra a 2,4 ATA con O2 al 100%, no a 2,0 ATA ni al 90% de O2. Los parámetros del protocolo estándar son fijos.",
+            "D": "La dosis de radiación >55 Gy aumenta significativamente el riesgo de ORN independientemente del umbral exacto utilizado en los diferentes centros. 66 Gy está claramente por encima de todos los umbrales de riesgo aceptados. La profilaxis con penicilina sola es insuficiente — no aborda el entorno tisular hipóxico."
           },
-          "guideline": "Marx RE et al. Osteoradionecrosis: a new concept of its pathophysiology. J Oral Maxillofac Surg (1983) y Guías de Protocolo HBO de la AAOMS — 20 pre + 10 post a 2,4 ATA/O2 100%",
-          "trial": "Marx RE. Osteoradionecrosis of the jaws: review and update. HBO Rev (1984): las sesiones HBO 20 pre + 10 post redujeron la incidencia de ORN del 29,9% al 5,4% en pacientes con extracciones en hueso irradiado",
-          "pearl": "Protocolo HBO de Marx: 20 pre + 10 post a 2,4 ATA, O2 100%. Recordar «20+10 a 2,4». Esto es para PROFILAXIS antes de la extracción en hueso irradiado. Para ORN establecida (estadio 3 de Marx), el protocolo aumenta a 30 sesiones preoperatorias + 10 postoperatorias con resección segmentaria."
+          "guideline": "Marx RE et al. Osteoradionecrosis: a new concept of its pathophysiology. J Oral Maxillofac Surg (1983) y Guías del Protocolo OHB de la AAOMS — 20 pre + 10 post a 2,4 ATA/O2 100%",
+          "trial": "Marx RE. Osteoradionecrosis of the jaws: review and update. HBO Rev (1984): 20 pre-op + 10 post-op sesiones de OHB redujeron la incidencia de ORN del 29,9% al 5,4% en pacientes con extracciones irradiadas",
+          "pearl": "Protocolo OHB de Marx: 20 pre + 10 post a 2,4 ATA, O2 100%. Recordar '20+10 a 2,4'. Esto es para PROFILAXIS antes de la extracción en hueso irradiado. Para la ORN establecida (estadio 3 de Marx), el protocolo aumenta a 30 pre-op + 10 post-op sesiones con resección segmentaria."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q10",
-        "stem": "Un cirujano maxilofacial descubre en el seguimiento rutinario que un fragmento radicular de 3 mm de un segundo premolar inferior fue dejado inadvertidamente en el alveolo durante la extracción hace 6 semanas. El paciente está asintomático y la imagen muestra que el fragmento no está en contacto con el canal dentario inferior y no presenta radiolucidez perilesional. ¿Cuál es el tratamiento más adecuado?",
+        "stem": "Un cirujano maxilofacial descubre durante el seguimiento rutinario que un fragmento radicular de 3 mm de un segundo premolar inferior se dejó inadvertidamente en el alveolo durante la extracción hace 6 semanas. El paciente es asintomático y la imagen muestra que el fragmento no está en contacto con el canal dentario inferior y no tiene radiolucencia circundante. ¿Cuál es el manejo más apropiado?",
         "options": {
           "A": "Extracción quirúrgica inmediata bajo anestesia local",
           "B": "Seguimiento radiológico; extracción solo si aparecen síntomas",
-          "C": "Prescribir amoxicilina durante 7 días y revisar a los 3 meses",
-          "D": "Derivar para CBCT que localice el fragmento antes de la extracción inmediata"
+          "C": "Prescribir un ciclo de amoxicilina de 7 días y revisar en 3 meses",
+          "D": "Derivar para CBCT para localizar el fragmento antes de la extracción inmediata"
         },
         "correct": "B",
         "explanation": {
-          "correct": "Los fragmentos radiculares retenidos asintomáticos, bien contenidos y alejados de estructuras vitales (NDI, seno) no requieren extracción inmediata. La evidencia actual respalda un abordaje conservador con seguimiento radiológico en pacientes asintomáticos en los que la extracción quirúrgica conllevaría un riesgo mayor que el beneficio. La extracción está indicada si el paciente desarrolla dolor, edema, infección o reabsorción progresiva de los dientes adyacentes, o si el fragmento migra hacia estructuras vitales. El principio es que el riesgo de la intervención quirúrgica (lesión nerviosa, extracción ósea) debe ponderarse frente al riesgo muy bajo de complicaciones de un fragmento radicular pequeño y asintomático.",
+          "correct": "Los fragmentos radiculares retenidos asintomáticos bien contenidos alejados de estructuras vitales (NDI, seno) no requieren extracción inmediata. La evidencia actual respalda un abordaje conservador con seguimiento radiológico en pacientes asintomáticos donde la recuperación quirúrgica conllevaría mayor riesgo que beneficio. La extracción está indicada si el paciente desarrolla dolor, tumefacción, infección o reabsorción progresiva de los dientes adyacentes; o si el fragmento migra hacia estructuras vitales. El principio es que el riesgo de intervención quirúrgica (lesión nerviosa, eliminación ósea) debe sopesarse frente al riesgo muy bajo de complicaciones de una pequeña raíz retenida asintomática.",
           "wrong": {
-            "A": "La extracción inmediata de un fragmento radicular retenido asintomático y bien contenido no se basa en la evidencia. La intervención quirúrgica innecesaria conlleva riesgos inherentes que superan el posible beneficio.",
+            "A": "La extracción inmediata de un fragmento radicular retenido asintomático bien contenido no es práctica basada en evidencia. La intervención quirúrgica innecesaria conlleva riesgos inherentes que superan el beneficio potencial.",
             "C": "Los antibióticos no están indicados para fragmentos radiculares retenidos asintomáticos. No hay infección; la profilaxis antibiótica en este contexto contribuye a la resistencia antimicrobiana sin beneficio.",
-            "D": "La CBCT solo sería necesaria si se planificara la extracción o si el fragmento estuviera próximo al NDI. Para un fragmento sin síntomas ni patología periapical, el seguimiento con ortopantomografía es suficiente."
+            "D": "La CBCT solo sería necesaria si se planificara la extracción o si el fragmento estuviera cerca del NDI. Para un fragmento sin síntomas y sin patología periapical, el seguimiento con OPG simple es suficiente."
           },
-          "guideline": "NICE NG35 (2024) — el manejo conservador de las raíces retenidas asintomáticas es aceptable cuando el riesgo quirúrgico supera al beneficio; seguimiento radiológico",
-          "trial": "Pogrel MA. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am (2007): las raíces retenidas asintomáticas pueden controlarse de forma segura sin extracción obligatoria",
-          "pearl": "Fragmentos radiculares retenidos asintomáticos sin patología periapical y no adyacentes a estructuras vitales = SEGUIMIENTO, NO extraer. Indicaciones de extracción: infección, dolor, reabsorción progresiva, migración hacia el nervio/seno o preferencia del paciente tras información adecuada."
+          "guideline": "NICE NG35 (2024) — el manejo conservador de las raíces retenidas asintomáticas es aceptable cuando el riesgo quirúrgico supera el beneficio; monitorizar radiológicamente",
+          "trial": "Pogrel MA. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am (2007): los fragmentos radiculares retenidos asintomáticos pueden monitorizarse de forma segura sin extracción obligatoria",
+          "pearl": "Fragmentos radiculares retenidos asintomáticos sin patología periapical y no adyacentes a estructuras vitales = MONITORIZAR, NO extraer. Indicaciones para la extracción: infección, dolor, reabsorción progresiva, migración hacia nervio/seno o preferencia del paciente tras información."
         },
         "difficulty": 2
       },
@@ -429,229 +429,229 @@
         "id": "C4-Q11",
         "stem": "¿Qué infección odontogénica, si no se trata, proporciona la vía anatómica más directa de propagación al mediastino posterior?",
         "options": {
-          "A": "Infección del espacio masticador → espacio parafaríngeo → espacio retrofaríngeo → espacio peligroso",
+          "A": "Infección del espacio masticatorio → espacio parafaríngeo → espacio retrofaríngeo → espacio del peligro",
           "B": "Infección del espacio bucal → espacio infraorbitario → celulitis orbitaria → seno cavernoso",
           "C": "Infección del espacio sublingual → espacio submandibular → angina de Ludwig",
           "D": "Infección del espacio parafaríngeo → absceso faríngeo lateral → mediastino anterior"
         },
         "correct": "A",
         "explanation": {
-          "correct": "La vía clásica de la mediastinitis necrosante descendente (MND) de origen odontogénico es: espacio masticador → espacio parafaríngeo → espacio retrofaríngeo → espacio peligroso → mediastino posterior. El espacio peligroso (situado entre la fascia alar y la fascia prevertebral) se extiende desde la base del cráneo hasta el diafragma (nivel T4) sin barreras anatómicas, proporcionando una vía directa para la propagación caudal rápida. La MND presenta una mortalidad del 20–40% incluso con tratamiento agresivo.",
+          "correct": "La vía clásica de la mediastinitis necrotizante descendente (MND) desde una fuente odontogénica es: espacio masticatorio → espacio parafaríngeo → espacio retrofaríngeo → espacio del peligro → mediastino posterior. El espacio del peligro (entre la fascia alar y prevertebral) se extiende desde la base del cráneo hasta el diafragma (nivel T4) sin barreras anatómicas, proporcionando un conducto directo para la rápida extensión caudal. La MND tiene una mortalidad del 20-40% incluso con manejo agresivo.",
           "wrong": {
-            "B": "La vía bucal → infraorbitario → orbitario conduce a celulitis orbitaria y potencialmente trombosis del seno cavernoso, una complicación devastadora pero diferente de la MND. Esta es una vía de propagación ascendente/anterior.",
-            "C": "La propagación sublingual → submandibular describe el desarrollo de la angina de Ludwig, no la propagación mediastínica. La angina de Ludwig en sí puede conducir a mediastinitis si no se trata, pero la vía descrita es el proceso local del suelo de la boca.",
-            "D": "El espacio parafaríngeo sí comunica inferiormente con el mediastino anterior a través del espacio pretraqueal, pero la vía clásica de alto riesgo para la propagación mediastínica rápida es a través del espacio retrofaríngeo-peligroso hacia el mediastino POSTERIOR."
+            "B": "La vía bucal → infraorbitaria → orbitaria conduce a la celulitis orbitaria y potencialmente a la trombosis del seno cavernoso — una complicación devastadora pero diferente de la MND. Esta es una vía de extensión ascendente/anterior.",
+            "C": "La extensión sublingual → submandibular describe el desarrollo de la angina de Ludwig, no la extensión mediastínica. La propia angina de Ludwig puede llevar a mediastinitis si no se trata, pero la vía descrita es el proceso local del suelo de la boca.",
+            "D": "El espacio parafaríngeo sí se comunica inferiormente con el mediastino anterior a través del espacio pretraqueal, pero la vía clásica de alto riesgo para la rápida extensión mediastínica es a través del espacio retrofaríngeo-del peligro al mediastino POSTERIOR."
           },
-          "guideline": "Flynn TR. The swollen face: severe odontogenic infections. Emerg Med Clin North Am (2000) — anatomía del espacio peligroso y vía de la MND",
-          "trial": "Medina-Eguren G et al. Descending necrotising mediastinitis: a multicentre study. Thorax (2004): mortalidad 28%; la identificación precoz de la afectación del espacio peligroso en la TC es crítica para la supervivencia",
-          "pearl": "Vía de la MND: Foco odontogénico → espacio masticador → espacio parafaríngeo → ESPACIO RETROFARÍNGEO → ESPACIO PELIGROSO (sin barreras hasta el diafragma) → MEDIASTINO POSTERIOR. Obtener siempre TC de tórax cuando se sospeche afectación retrofaríngea. El espacio peligroso es el eslabón crítico: no tiene barreras anatómicas inferiores."
+          "guideline": "Flynn TR. The swollen face: severe odontogenic infections. Emerg Med Clin North Am (2000) — anatomía del espacio del peligro y vía de la MND",
+          "trial": "Medina-Eguren G et al. Descending necrotising mediastinitis: a multicentre study. Thorax (2004): mortalidad del 28%; la identificación precoz de la afectación del espacio del peligro en la TC es crítica para la supervivencia",
+          "pearl": "Vía de MND: Fuente odontogénica → espacio masticatorio → espacio parafaríngeo → ESPACIO RETROFARÍNGEO → ESPACIO DEL PELIGRO (sin barreras hasta el diafragma) → MEDIASTINO POSTERIOR. Siempre obtener TC de tórax cuando se sospecha afectación retrofaríngea. El espacio del peligro es el eslabón crítico — no tiene barreras anatómicas inferiores."
         },
         "difficulty": 3
       },
       {
         "id": "C4-Q12",
-        "stem": "Un varón de 65 años presenta 9 meses de evolución de dolor mandibular, múltiples fístulas intraorales y extraorales, e induración «leñosa» de la mandíbula izquierda. La lesión no es dolorosa a la percusión. El cultivo de la secreción revela organismos filamentosos grampositivos que no se tiñen en el estudio ácido-alcohol resistente, formando los característicos «gránulos de azufre». ¿Cuál es el diagnóstico y la duración del tratamiento adecuado?",
+        "stem": "Un hombre de 65 años presenta 9 meses de dolor mandibular, múltiples fístulas intraorales y extraorales, e induración 'leñosa' de la mandíbula izquierda. La lesión no es dolorosa a la percusión. El cultivo de la secreción revela organismos filamentosos Gram-positivos que no se tiñen con la tinción ácido-resistente, formando 'gránulos de azufre' característicos. ¿Cuál es el diagnóstico y la duración de tratamiento apropiada?",
         "options": {
-          "A": "Osteomielitis actinomicótica; penicilina IV/oral a dosis elevadas durante 6–12 meses",
+          "A": "Osteomielitis actinomicótica; penicilina IV/oral a alta dosis durante 6-12 meses",
           "B": "Osteomielitis supurativa crónica; clindamicina durante 4 semanas",
           "C": "Infección por Nocardia; trimetoprim-sulfametoxazol durante 3 meses",
-          "D": "Tuberculosis mandibular; protocolo estándar RHEZ de 4 fármacos durante 6 meses"
+          "D": "Tuberculosis de la mandíbula; protocolo RHEZ estándar de 4 fármacos durante 6 meses"
         },
         "correct": "A",
         "explanation": {
-          "correct": "El cuadro clínico —induración «leñosa» (mâchoire de bois), múltiples fístulas que drenan gránulos de azufre (colonias microscópicas de Actinomyces), organismos filamentosos grampositivos NO ácido-alcohol resistentes— es clásico de la actinomicosis cervicofacial causada por Actinomyces israelii. El tratamiento requiere antibioterapia prolongada a dosis elevadas: bencilpenicilina IV (10–20 MU/día) durante 2–6 semanas seguida de penicilina/amoxicilina oral hasta completar 6–12 meses en total. Los ciclos cortos provocan recidivas. El drenaje quirúrgico de las colecciones accesibles y la extirpación del hueso necrótico complementan la antibioterapia.",
+          "correct": "El cuadro clínico — induración 'leñosa' (mandíbula de madera/mâchoire de bois), múltiples fístulas que drenan gránulos de azufre (colonias microscópicas de Actinomyces), organismos filamentosos Gram-positivos que NO son ácido-resistentes — es clásico de la actinomicosis cervicofacial causada por Actinomyces israelii. El tratamiento requiere una antibioterapia prolongada a alta dosis: bencilpenicilina IV (10-20 MU/día) durante 2-6 semanas seguida de penicilina/amoxicilina oral por un total de 6-12 meses. Los cursos cortos resultan en recaídas. El drenaje quirúrgico de las colecciones accesibles y la eliminación del hueso necrótico complementa la antibioterapia.",
           "wrong": {
-            "B": "Aunque la clindamicina tiene actividad frente a Actinomyces, un ciclo de 4 semanas es muy insuficiente. Las tasas de recidiva son elevadas con ciclos cortos. La naturaleza crónica y fibrótica de la actinomicosis requiere 6–12 meses de tratamiento.",
-            "C": "Nocardia es también un organismo filamentoso grampositivo, pero SÍ es ácido-alcohol resistente (débilmente). Nocardia no produce «mandíbula de madera» ni gránulos de azufre en el sentido clásico. El TMP-SMX es efectivamente el tratamiento de la nocardiosis.",
-            "D": "Mycobacterium tuberculosis produce organismos ácido-alcohol resistentes. El esquema RHEZ de 4 fármacos es el tratamiento de la tuberculosis. La ausencia de tinción ácido-alcohol resistente descarta la tuberculosis."
+            "B": "Aunque la clindamicina tiene actividad contra Actinomyces, un ciclo de 4 semanas es demasiado corto. Las tasas de recaída son elevadas con cursos cortos. La naturaleza crónica y fibrótica de la actinomicosis requiere 6-12 meses de tratamiento.",
+            "C": "Nocardia es también un organismo filamentoso Gram-positivo, pero SÍ es ácido-resistente (débilmente). Nocardia no causa 'mandíbula de madera' ni gránulos de azufre en el sentido clásico. El TMP-SMX es efectivamente el tratamiento para Nocardia.",
+            "D": "El Mycobacterium tuberculosis causa organismos ácido-resistentes positivos. El RHEZ de 4 fármacos es el tratamiento de la tuberculosis. La ausencia de tinción ácido-resistente descarta la tuberculosis."
           },
-          "guideline": "Guía de Infecciones Odontogénicas de la AAOMS (2023) — la actinomicosis requiere penicilina durante 6–12 meses; es necesario el desbridamiento quirúrgico del tejido necrótico",
-          "trial": "Valour F et al. Actinomycosis: etiology, clinical features, diagnosis, treatment, and management. Infect Drug Resist (2014): la penicilina prolongada a dosis elevadas sigue siendo el estándar de oro; la recidiva es frecuente con ciclos cortos (<3 meses)",
-          "pearl": "Actinomicosis = «gránulos de azufre» (colonias macroscópicas amarillo-blanquecinas) + organismos filamentosos grampositivos + NO ácido-alcohol resistentes. Requiere 6–12 meses de penicilina. La induración leñosa y las múltiples fístulas son patognomónicas. Los «gránulos de azufre» no son azufre: son colonias de Actinomyces rodeadas de material de Splendore-Hoeppli."
+          "guideline": "Guía de Infecciones Odontogénicas de la AAOMS (2023) — la actinomicosis requiere 6-12 meses de penicilina; se requiere desbridamiento quirúrgico del tejido necrótico",
+          "trial": "Valour F et al. Actinomycosis: etiology, clinical features, diagnosis, treatment, and management. Infect Drug Resist (2014): la penicilina prolongada a alta dosis sigue siendo el estándar de oro; la recaída es frecuente con cursos cortos (<3 meses)",
+          "pearl": "Actinomicosis = 'gránulos de azufre' (colonias macroscópicas amarillo-blancas) + organismos filamentosos Gram-positivos + NO ácido-resistentes. Requiere 6-12 meses de penicilina. La induración leñosa y las múltiples fístulas son patognomónicas. Los 'gránulos de azufre' no son azufre — son colonias de Actinomyces rodeadas de material de Splendore-Hoeppli."
         },
         "difficulty": 3
       },
       {
         "id": "C4-Q13",
-        "stem": "Según la guía NICE CG64 (2008, confirmada en 2016), ¿cuál de los siguientes pacientes requiere profilaxis antibiótica para una extracción dental electiva?",
+        "stem": "Según NICE CG64 (2008, confirmado 2016), ¿cuál de los siguientes pacientes requiere profilaxis antibiótica para una extracción dentaria electiva?",
         "options": {
-          "A": "Una mujer de 55 años con sustitución valvular mitral mecánica",
-          "B": "Un varón de 45 años con antecedente de fiebre reumática hace 20 años sin cardiopatía valvular residual",
+          "A": "Una mujer de 55 años con un reemplazo de válvula mitral mecánica",
+          "B": "Un hombre de 45 años con antecedentes de fiebre reumática hace 20 años sin cardiopatía valvular residual",
           "C": "Una mujer de 60 años con válvula aórtica bicúspide con estenosis leve",
-          "D": "Un varón de 40 años con prolapso de la válvula mitral con insuficiencia leve"
+          "D": "Un hombre de 40 años con prolapso de la válvula mitral con regurgitación leve"
         },
         "correct": "A",
         "explanation": {
-          "correct": "La guía NICE CG64 recomienda la profilaxis antibiótica para procedimientos dentales ÚNICAMENTE en pacientes con válvulas cardíacas protésicas (mecánicas o biológicas), endocarditis infecciosa (EI) previa o cardiopatía congénita (CC) específica: CC cianótica no reparada, CC reparada con defectos residuales próximos a parches protésicos, CC reparada en los últimos 6 meses con material protésico, o CC con hipertensión pulmonar. Una sustitución valvular mitral mecánica es claramente una válvula cardíaca protésica: la profilaxis está indicada.",
+          "correct": "NICE CG64 recomienda la profilaxis antibiótica para los procedimientos dentales SOLO para pacientes con válvulas cardíacas protésicas (mecánicas o biológicas), endocarditis infecciosa (EI) previa o cardiopatía congénita (CC) específica: CC cianótica no reparada, CC reparada con defectos residuales adyacentes a parches protésicos, CC reparada en los últimos 6 meses con material protésico o CC con hipertensión pulmonar. Un reemplazo de válvula mitral mecánica es claramente una válvula cardíaca protésica — la profilaxis está indicada.",
           "wrong": {
-            "B": "El antecedente de fiebre reumática sin cardiopatía valvular residual NO requiere profilaxis según la guía NICE CG64. La guía NICE anterior (pre-2008) exigía profilaxis en la cardiopatía reumática, pero la CG64 eliminó esta indicación por insuficiencia de evidencia.",
-            "C": "La válvula aórtica bicúspide con estenosis leve NO cumple los criterios de la NICE CG64. Las anomalías valvulares estructurales sin prótesis ni EI previa no son indicación.",
-            "D": "El prolapso de la válvula mitral (PVM), incluso con insuficiencia, NO requiere profilaxis según la NICE CG64. El PVM fue eliminado de la lista de indicaciones de profilaxis en la guía de 2008."
+            "B": "Los antecedentes de fiebre reumática sin cardiopatía valvular residual NO requieren profilaxis según NICE CG64. La guía anterior de NICE (pre-2008) requería profilaxis para la cardiopatía reumática, pero la CG64 eliminó esta indicación por insuficiente evidencia.",
+            "C": "La válvula aórtica bicúspide con estenosis leve NO cumple los criterios de NICE CG64. Las anomalías valvulares estructurales sin prótesis ni EI previa no son indicaciones.",
+            "D": "El prolapso de la válvula mitral (PVM), incluso con regurgitación, NO requiere profilaxis según NICE CG64. El PVM fue eliminado de la lista de profilaxis en la guía de 2008."
           },
-          "guideline": "NICE CG64 (Profilaxis frente a endocarditis infecciosa, 2008, confirmada en 2016) — solo las válvulas protésicas, la EI previa y determinadas CC específicas requieren profilaxis",
-          "trial": "Thornhill MH et al. Antibiotic prophylaxis against infective endocarditis in dental procedures. JAMA (2018): la reducción de la prescripción de profilaxis tras la NICE CG64 no se asoció a un aumento significativo de la incidencia de EI, lo que respalda el enfoque restrictivo de la guía",
-          "pearl": "NICE CG64: profilaxis de endocarditis en procedimientos dentales = ÚNICAMENTE para (1) válvula cardíaca protésica, (2) EI previa, (3) cardiopatía congénita específica. NO para: cardiopatía reumática, válvula bicúspide, PVM, miocardiopatía hipertrófica. Pauta estándar: amoxicilina 3 g oral 1 h antes del procedimiento; clindamicina 600 mg si alergia a penicilina."
+          "guideline": "NICE CG64 (Profilaxis contra la Endocarditis Infecciosa, 2008, confirmado 2016) — solo válvulas protésicas, EI previa y CC específica requieren profilaxis",
+          "trial": "Thornhill MH et al. Antibiotic prophylaxis against infective endocarditis in dental procedures. JAMA (2018): la reducción de la prescripción de profilaxis por NICE CG64 no se asoció con un aumento significativo en la incidencia de EI, respaldando el enfoque restrictivo de la guía",
+          "pearl": "NICE CG64: profilaxis para la endocarditis en procedimientos dentales = SOLO para (1) válvula cardíaca protésica, (2) EI previa, (3) cardiopatía congénita específica. NO para: cardiopatía reumática, válvula bicúspide, PVM, miocardiopatía hipertrófica. Amoxicilina 3g oral 1h antes del procedimiento estándar; clindamicina 600mg si alergia a penicilina."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q14",
-        "stem": "Una mujer de 23 años se somete a una coronectomía del tercer molar inferior derecho bajo anestesia local después de que la CBCT confirme que el NDI está acanalado por la raíz. En la revisión a los 18 meses, está asintomática, pero la ortopantomografía muestra que las raíces retenidas han migrado 3 mm en sentido superior hacia la cresta alveolar. ¿Cuál es el tratamiento adecuado?",
+        "stem": "Una mujer de 23 años se somete a coronectomía del tercer molar inferior derecho bajo AL tras la confirmación por CBCT de que el NDI está ranurado por la raíz. En la revisión a los 18 meses, está asintomática pero la OPG muestra que las raíces retenidas han migrado 3 mm superiormente hacia la cresta alveolar. ¿Cuál es el manejo apropiado?",
         "options": {
-          "A": "Extracción quirúrgica inmediata de las raíces migradas bajo anestesia general",
-          "B": "Continuar el seguimiento; reintervenir solo si las raíces alcanzan la cresta o el paciente desarrolla síntomas",
-          "C": "Prescribir metronidazol durante 5 días y revisar a los 6 meses",
-          "D": "Reclasificar como coronectomía fallida; derivar para reparación microquirúrgica del nervio"
+          "A": "Extracción quirúrgica inmediata de las raíces migradas bajo AG",
+          "B": "Continuar la monitorización; reintervenir solo si las raíces alcanzan la cresta o la paciente se vuelve sintomática",
+          "C": "Prescribir metronidazol durante 5 días y revisar en 6 meses",
+          "D": "Reclasificar como coronectomía fallida; derivar para reparación microquirúrgica nerviosa"
         },
         "correct": "B",
         "explanation": {
-          "correct": "La migración radicular tras la coronectomía es un fenómeno bien reconocido y esperado, que se produce en aproximadamente el 75–80% de los casos. Las raíces migran en sentido coronal como parte de la remodelación ósea normal. Esto NO es una complicación, sino la evolución natural de la coronectomía. La migración continúa habitualmente durante 24–36 meses. El tratamiento es la observación continuada; la extracción está indicada únicamente si las raíces alcanzan la cresta alveolar (donde se vuelven más accesibles y la distancia con el NDI ha aumentado, haciendo paradójicamente más segura la extracción) o si el paciente desarrolla síntomas. La migración asintomática aislada no es indicación de intervención.",
+          "correct": "La migración radicular tras la coronectomía es un fenómeno bien reconocido y esperado, que ocurre en aproximadamente el 75-80% de los casos. Las raíces migran coronalmente como parte del remodelado óseo normal. Esto NO es una complicación sino la historia natural de la coronectomía. La migración continúa típicamente durante 24-36 meses. El manejo es la observación continuada; la extracción está indicada solo si las raíces alcanzan la cresta alveolar (donde se vuelven más accesibles y la distancia al NDI ha aumentado, haciendo paradójicamente la extracción más segura) o si la paciente desarrolla síntomas. La migración asintomática sola no es indicación de intervención.",
           "wrong": {
-            "A": "La extracción inmediata de raíces migradas asintomáticamente es innecesaria y expone al paciente al riesgo sobre el NDI que la coronectomía se realizó precisamente para evitar. En este momento, las raíces siguen en proximidad al nervio.",
-            "C": "Los antibióticos no están indicados en un paciente asintomático sin signos de infección. Este comportamiento radicular es el esperado tras la coronectomía.",
-            "D": "La migración radicular es esperable tras la coronectomía: no es un fracaso del procedimiento. No hay lesión nerviosa; la derivación microquirúrgica es totalmente inapropiada."
+            "A": "La extracción inmediata de raíces asintomáticamente migradas es innecesaria y expone a la paciente al riesgo del NDI que la coronectomía se realizó para evitar. En este momento las raíces siguen en proximidad al nervio.",
+            "C": "Los antibióticos no están indicados en una paciente asintomática sin signos de infección. Este es el comportamiento postcoronectomía esperado.",
+            "D": "La migración radicular se espera tras la coronectomía — no es un fracaso del procedimiento. No hay lesión nerviosa; la derivación microquirúrgica es completamente inapropiada."
           },
-          "guideline": "NICE NG35 (2024) y Guías de Coronectomía de la EACMFS — la migración radicular es esperable en ~80% de los casos; se recomienda seguimiento continuado; reintervenir solo en la cresta o con síntomas",
-          "trial": "Long H et al. Coronectomy of the mandibular third molar — a systematic review and meta-analysis. J Dent Res (2012): migración radicular media de 3,5 mm a los 24 meses; tasa de extracción aproximada del 5% en el seguimiento a largo plazo",
-          "pearl": "La migración de las raíces tras la coronectomía es ESPERABLE y NORMAL: ocurre en ~75–80% de los casos. Es consecuencia de la remodelación ósea alveolar normal. A medida que las raíces migran hacia la cresta, la distancia con el NDI aumenta; paradójicamente, si las raíces alcanzan eventualmente la cresta, la extracción en ese momento conlleva un MENOR riesgo para el NDI que la extracción primaria. Seguimiento anual; intervenir solo ante síntomas o migración crestal."
+          "guideline": "NICE NG35 (2024) y Guías de Coronectomía de la EACMFS — la migración radicular se espera en ~80% de los casos; se recomienda la monitorización continuada; reintervenir solo en la cresta o con síntomas",
+          "trial": "Long H et al. Coronectomy of the mandibular third molar — a systematic review and meta-analysis. J Dent Res (2012): migración radicular media de 3,5 mm a los 24 meses; tasa de extracción de aproximadamente el 5% en el seguimiento a largo plazo",
+          "pearl": "La migración radicular tras la coronectomía es ESPERADA y NORMAL — ocurre en ~75-80% de los casos. Es causada por el remodelado óseo alveolar normal. A medida que las raíces migran hacia la cresta, la distancia al NDI aumenta — paradójicamente, si las raíces finalmente alcanzan la cresta, la extracción en ese momento conlleva un riesgo MENOR para el NDI que la extracción primaria. Monitorizar anualmente; solo intervenir por síntomas o migración crestal."
         },
         "difficulty": 3
       },
       {
         "id": "C4-Q15",
-        "stem": "Una mujer de 72 años con mandíbula gravemente atrófica (Cawood-Howell clase VI) es derivada tras una fractura mandibular ocurrida durante la extracción rutinaria de un primer molar inferior izquierdo en una consulta dental. La fractura atraviesa el alveolo de extracción con 3 mm de desplazamiento. La paciente está sistémicamente bien. No hay dientes adyacentes a la fractura. ¿Cuál es el tratamiento definitivo más adecuado?",
+        "stem": "Una mujer de 72 años con mandíbula severamente atrófica (Cawood-Howell Clase VI) es derivada tras la fractura de la mandíbula durante la extracción rutinaria de un primer molar inferior izquierdo en una consulta dental. La fractura discurre a través del alveolo de extracción con 3 mm de desplazamiento. La paciente está bien sistémicamente. No hay dientes adyacentes a la fractura. ¿Cuál es el manejo definitivo más apropiado?",
         "options": {
-          "A": "Fijación intermaxilar con arco de titanio durante 6 semanas",
-          "B": "Reducción abierta y fijación interna (RAFI) con placa de reconstrucción",
-          "C": "Observación con dieta blanda durante 6 semanas y control radiológico",
+          "A": "Fijación intermaxilar con barras de arco durante 6 semanas",
+          "B": "Reducción abierta y fijación interna (RAFI) con una placa de reconstrucción",
+          "C": "Observación con dieta blanda durante 6 semanas y radiografía de control",
           "D": "Reconstrucción mandibular inmediata con colgajo libre de peroné"
         },
         "correct": "B",
         "explanation": {
-          "correct": "La fractura mandibular iatrogénica a través del alveolo de extracción en una mandíbula edéntula gravemente atrófica (Cawood-Howell clase VI) requiere RAFI con placa de reconstrucción (placa de reconstrucción bloqueada, habitualmente sistema de 2,4 mm). La atrofia clase VI proporciona un stock óseo mínimo, lo que hace que el tratamiento conservador con fijación intermaxilar sea poco fiable y propenso a la pseudoartrosis. Sin dientes adyacentes disponibles para el arco de titanio y con una mandíbula atrófica de vasculatura comprometida, la placa de reconstrucción que proporciona fijación rígida es el tratamiento de elección. El abordaje es habitualmente submandibular, con preservación cuidadosa del periostio para mantener la vascularización.",
+          "correct": "La fractura mandibular iatrogénica a través de un alveolo de extracción en una mandíbula edéntula severamente atrófica (Cawood-Howell Clase VI) requiere RAFI con una placa de reconstrucción (placa de reconstrucción de bloqueo, típicamente sistema de 2,4 mm). La atrofia de Clase VI proporciona un stock óseo mínimo, haciendo el manejo conservador con FIM poco fiable y propenso a la pseudoartrosis. Sin dientes adyacentes disponibles para las barras de arco y una mandíbula atrófica con vascularidad comprometida, una placa de reconstrucción que proporciona fijación rígida es el tratamiento de elección. El abordaje es típicamente submandibular, con preservación cuidadosa del periostio para mantener la vascularidad.",
           "wrong": {
-            "A": "La fijación intermaxilar con arco de titanio requiere dentición o la capacidad de fijar el arco de forma fiable. En una paciente edéntula con atrofia clase VI, no se puede colocar el arco. Incluso si fuera posible, la fijación intermaxilar sola no proporciona rigidez suficiente para una fractura en mandíbula atrófica.",
-            "C": "Una fractura de 3 mm de desplazamiento en una mandíbula atrófica con potencial de curación comprometido no puede tratarse de forma conservadora. El riesgo de pseudoartrosis es muy elevado en las fracturas de mandíbula atrófica sin fijación rígida.",
-            "D": "La reconstrucción con colgajo libre se reserva para fracturas patológicas con pérdida ósea o fracaso previo de la fijación, o para fracturas por osteorradionecrosis. Una fractura iatrogénica reciente sin pérdida ósea debe tratarse primero con RAFI."
+            "A": "La FIM con barras de arco requiere dentición o la capacidad de fijar las barras de arco de forma fiable. En una paciente edéntula con atrofia Clase VI, no pueden colocarse barras de arco. Incluso si fuera posible, la FIM sola proporciona rigidez insuficiente para una fractura de mandíbula atrófica.",
+            "C": "Una fractura desplazada 3 mm en una mandíbula atrófica con potencial de cicatrización comprometido no puede manejarse de forma conservadora. El riesgo de pseudoartrosis es muy alto en las fracturas de mandíbula atrófica sin fijación rígida.",
+            "D": "La reconstrucción con colgajo libre está reservada para las fracturas patológicas con pérdida ósea o fracaso previo de la fijación, o para las fracturas osteorradionecróticas. Una fractura iatrogénica reciente sin pérdida ósea debe manejarse primero con RAFI."
           },
-          "guideline": "Guías de Traumatología Facial de la EACMFS (2023) — las fracturas de mandíbula atrófica (altura <20 mm) deben tratarse con placas de reconstrucción; el tratamiento conservador presenta una tasa elevada de pseudoartrosis",
-          "trial": "Luhr HG et al. Correction of mandibular deformities with dynamic compression plates. J Maxillofac Surg (1982): la fijación rígida en fracturas de mandíbula atrófica reduce la tasa de pseudoartrosis del ~50% (conservador) a <10% (placa de reconstrucción)",
-          "pearl": "Fractura de mandíbula atrófica (Cawood-Howell clase VI, altura ósea <10 mm en la fractura) = RAFI CON PLACA DE RECONSTRUCCIÓN. La mandíbula atrófica tiene mala vascularización y hueso insuficiente para la fijación con miniplacas. La tasa de pseudoartrosis con tratamiento conservador se aproxima al 50%. Utilizar placa de reconstrucción bloqueada de 2,4 mm por vía submandibular, preservando el periostio."
+          "guideline": "Guías de Trauma Facial de la EACMFS (2023) — las fracturas de mandíbula atrófica (altura <20 mm) deben manejarse con placas de reconstrucción; el manejo conservador tiene alta tasa de pseudoartrosis",
+          "trial": "Luhr HG et al. Correction of mandibular deformities with dynamic compression plates. J Maxillofac Surg (1982): la fijación rígida en las fracturas de mandíbula atrófica reduce la tasa de pseudoartrosis del ~50% (conservador) a <10% (placa de reconstrucción)",
+          "pearl": "Fractura de mandíbula atrófica (Cawood-Howell Clase VI, altura ósea <10 mm en la fractura) = RAFI CON PLACA DE RECONSTRUCCIÓN. La mandíbula atrófica tiene mala irrigación sanguínea e hueso insuficiente para la fijación con miniplacas. La tasa de pseudoartrosis con el tratamiento conservador se aproxima al 50%. Usar placa de reconstrucción de bloqueo de 2,4 mm por abordaje submandibular, preservando el periostio."
         },
         "difficulty": 3
       },
       {
         "id": "C4-Q16",
-        "stem": "El colgajo de avance vestibular de Rehrmann se utiliza para cerrar una comunicación oroantral extensa. ¿Cuál de los siguientes pasos técnicos es IMPRESCINDIBLE para obtener un cierre sin tensión y prevenir la dehiscencia del colgajo?",
+        "stem": "El colgajo de avance vestibular de Rehrmann está diseñado para cerrar una comunicación oroantral grande. ¿Cuál de los siguientes pasos técnicos es ESENCIAL para lograr un cierre sin tensión y prevenir la dehiscencia del colgajo?",
         "options": {
-          "A": "Realizar una incisión de descarga a través del periostio en la BASE del colgajo",
-          "B": "Desepitelizar la mucosa palatina adyacente al defecto antes de la sutura",
-          "C": "Colocar drenajes bajo el colgajo durante 48 horas tras el cierre",
-          "D": "Elevar el colgajo en un plano de espesor parcial para preservar el periostio"
+          "A": "Crear una incisión de grosor completo a través del periostio en la BASE del colgajo",
+          "B": "Desepitelizar la mucosa palatina adyacente al defecto antes de suturar",
+          "C": "Colocar drenajes bajo el colgajo durante 48 horas post-cierre",
+          "D": "Levantar el colgajo en un plano de espesor parcial para preservar el periostio"
         },
         "correct": "A",
         "explanation": {
-          "correct": "La incisión de descarga perióstica en la BASE (margen más apical) del colgajo de avance vestibular de Rehrmann es el paso imprescindible que permite el avance coronal del colgajo sin tensión. El periostio es inelástico y está firmemente adherido al hueso; sin liberarlo, el colgajo no puede movilizarse suficientemente para cubrir el defecto. La incisión se realiza horizontalmente a través del espesor completo del periostio en la base del colgajo, en paralelo a la línea mucogingival. Esto permite que las capas mucosa y submucosa se estiren libremente. Sin este paso, el colgajo queda bajo tensión y la dehiscencia es prácticamente inevitable.",
+          "correct": "La incisión liberadora de periostio en la BASE (margen más apical) del colgajo de avance vestibular de Rehrmann es el paso esencial que permite al colgajo avanzar coronalmente sin tensión. El periostio es inelástico y se adhiere firmemente al hueso; sin liberarlo, el colgajo no puede movilizarse suficientemente para cubrir el defecto. La incisión se realiza horizontalmente a través del grosor completo del periostio en la base del colgajo, paralela a la unión mucogingival. Esto permite que las capas mucosa y submucosa se estiren libremente. Sin este paso, el colgajo está bajo tensión y la dehiscencia es casi segura.",
           "wrong": {
-            "B": "La desepitelización de la mucosa palatina adyacente no es necesaria para un colgajo de avance vestibular. Sería relevante para un colgajo de rotación palatino en el que el pedículo de tejido conjuntivo necesita quedar cubierto, pero no para la técnica de Rehrmann.",
-            "C": "No se utilizan drenajes bajo el colgajo de avance vestibular para el cierre de COA. Podrían crear potenciales vías de comunicación y dificultar la cicatrización primaria.",
-            "D": "El colgajo de Rehrmann se eleva como colgajo mucoperióstico de ESPESOR COMPLETO (se eleva conjuntamente la mucosa y el periostio), no de espesor parcial. Un colgajo de espesor parcial sin periostio tendría peor vascularización y no permitiría la técnica de incisión de descarga perióstica."
+            "B": "La desepitelización de la mucosa palatina adyacente no es necesaria para un colgajo de avance vestibular. Sería relevante para un colgajo de rotación palatino donde el pedículo de tejido conectivo necesita cubrirse, pero no para la técnica de Rehrmann.",
+            "C": "Los drenajes no se usan bajo un colgajo de avance vestibular para el cierre de la COA. Podrían crear potencialmente canales de comunicación e impedir la cicatrización primaria.",
+            "D": "El colgajo de Rehrmann se levanta como un colgajo mucoperióstico de GROSOR COMPLETO (mucosa y periostio elevados juntos), no de espesor parcial. Un colgajo de espesor parcial sin periostio tendría vasculatura inferior y no permitiría la técnica de incisión liberadora de periostio."
           },
-          "guideline": "Guía Clínica de la EACMFS sobre Comunicaciones Oroantales (2023) — la incisión de descarga perióstica en la base del colgajo es obligatoria para el avance sin tensión de Rehrmann",
-          "trial": "Visscher SH et al. Review of the closure of oro-antral communications. J Oral Maxillofac Surg (2010): la descarga perióstica reduce la tasa de dehiscencia del ~15% a <3% en el colgajo de avance vestibular",
-          "pearl": "El éxito del colgajo de Rehrmann depende de la INCISIÓN DE DESCARGA PERIÓSTICA en la base del colgajo. Sin ella: tensión → isquemia → dehiscencia → FOA. Con ella: cierre sin tensión → cicatrización primaria. Recordar las tres R del Rehrmann: Elevar (Raise) a espesor completo, Descargar (Release) el periostio en la base, Rotar/avanzar sin tensión."
+          "guideline": "Guía Clínica de la EACMFS sobre Comunicaciones Oronasales (2023) — la incisión liberadora de periostio en la base del colgajo es obligatoria para el avance de Rehrmann sin tensión",
+          "trial": "Visscher SH et al. Review of the closure of oro-antral communications. J Oral Maxillofac Surg (2010): la liberación perióstica reduce la tasa de dehiscencia del ~15% a <3% en el colgajo de avance vestibular",
+          "pearl": "El éxito del colgajo de Rehrmann depende de la INCISIÓN LIBERADORA DE PERIOSTIO en la base del colgajo. Sin ella: tensión → isquemia → dehiscencia → FOA. Con ella: cierre sin tensión → cicatrización primaria. Recordar las tres R del Rehrmann: Levantar grosor completo, Relajar periostio en la base, Rotar/avanzar sin tensión."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q17",
-        "stem": "Un varón de 31 años se presenta 72 horas después de la extracción quirúrgica de un tercer molar inferior izquierdo impactado con dolor intenso y pulsátil en el alveolo, fetidez oral y un alveolo visible vacío con hueso expuesto de color grisáceo. No hay pus, pericoronitis ni adenopatías. Temperatura 37,1 °C. ¿Cuál es el diagnóstico y el tratamiento adecuado?",
+        "stem": "Un varón de 31 años se presenta 72 horas después de la extracción quirúrgica de un tercer molar inferior izquierdo incluido con dolor pulsátil severo en el alveolo, halitosis y un alveolo vacío visible con hueso de color grisáceo expuesto. No hay pus, pericoronitis ni adenopatías. Temperatura 37,1°C. ¿Cuál es el diagnóstico y el manejo apropiado?",
         "options": {
-          "A": "Hemorragia secundaria; tratar con reempaquetamiento del alveolo y compresión",
-          "B": "Alveolitis seca (osteítis alveolar); irrigar y colocar apósito tipo alvogyl, analgesia",
+          "A": "Hemorragia secundaria; manejar con reempaquetado del alveolo y presión",
+          "B": "Alveolitis seca; irrigar y rellenar con apósito tipo Alvogyl, analgesia",
           "C": "Osteomielitis supurativa aguda localizada; incisión y drenaje + antibióticos IV",
-          "D": "Hematoma infectado del alveolo; prescribir amoxicilina-clavulánico 625 mg cada 8 horas durante 7 días"
+          "D": "Hematoma de alveolo infectado; prescribir amoxicilina-clavulánico 625 mg TDS durante 7 días"
         },
         "correct": "B",
         "explanation": {
-          "correct": "La alveolitis seca se presenta de forma característica entre 2 y 5 días después de la extracción con dolor intenso y pobremente localizado que no cede con la analgesia habitual, fetidez oral procedente del alveolo y un alveolo vacío con hueso expuesto —el coágulo sanguíneo no se ha formado o se ha perdido—. La temperatura es habitualmente normal o mínimamente elevada, lo que la distingue de la infección. El tratamiento de primera línea es la irrigación suave con suero salino tibio o clorhexidina, seguida de la colocación de un apósito medicado (impregnado en eugenol, como el Alvogyl). Esto proporciona un alivio del dolor espectacular en 24–48 horas. El apósito se cambia cada 2–5 días hasta que el tejido de granulación cubre el alveolo.",
+          "correct": "La alveolitis seca se presenta característicamente 2-5 días después de la extracción con dolor severo y mal localizado no aliviado por la analgesia estándar, olor fétido del alveolo y un alveolo vacío con hueso expuesto — el coágulo sanguíneo no se ha formado o se ha perdido. La temperatura es típicamente normal o mínimamente elevada, distinguiéndola de la infección. El manejo de primera línea es la irrigación suave con suero salino tibio o clorhexidina, seguida del relleno con un apósito medicado (impregnado en eugenol) (p. ej., Alvogyl). Esto proporciona un alivio del dolor dramático en 24-48 horas. El apósito se cambia cada 2-5 días hasta que el tejido de granulación cubre el alveolo.",
           "wrong": {
-            "A": "La hemorragia secundaria suele producirse entre 7 y 10 días después de la extracción y se manifiesta con sangrado activo, no con dolor y hueso expuesto.",
-            "C": "La osteomielitis se presentaría con fiebre, adenopatías, edema, trismo y cambios radiológicos, no en las primeras 72 horas de una extracción sin complicaciones. La ausencia de signos sistémicos y la temperatura normal descartan la osteomielitis.",
-            "D": "Un hematoma infectado del alveolo mostraría formación de pus, fiebre y edema. Esta presentación es compatible con alveolitis seca, no con infección. Los antibióticos no están indicados en la alveolitis seca no complicada."
+            "A": "La hemorragia secundaria ocurre típicamente 7-10 días después de la extracción y se presenta con sangrado activo, no con dolor y hueso expuesto.",
+            "C": "La osteomielitis se presentaría con fiebre, adenopatías, tumefacción, trismus y cambios radiográficos — no en las 72 horas de una extracción sin complicaciones. La ausencia de características sistémicas y la temperatura normal descartarían la osteomielitis.",
+            "D": "El hematoma de alveolo infectado mostraría formación de pus, fiebre y tumefacción. Esta presentación es consistente con la alveolitis seca, no con la infección. Los antibióticos no están indicados para la alveolitis seca no complicada."
           },
-          "guideline": "NICE NG35 (2024) — alveolitis seca: tratamiento con irrigación del alveolo y apósitos medicados; antibióticos NO indicados de forma rutinaria",
-          "trial": "Blum IR. Contemporary views on dry socket (alveolar osteitis). Int J Oral Maxillofac Surg (2002): los apósitos de base de eugenol proporcionan alivio significativo del dolor; antibióticos no indicados en pacientes inmunocompetentes",
-          "pearl": "Alveolitis seca = 2–5 días tras la extracción + dolor intenso + alveolo vacío + hueso grisáceo expuesto + fetidez oral + SIN fiebre ni pus. Tratamiento = irrigación + apósito medicado (Alvogyl = eugenol + yodoformo). Antibióticos NO indicados. El tabaquismo es el factor de riesgo modificable más importante (OR 4,2). Aconsejar no fumar al menos 72 horas tras la extracción."
+          "guideline": "NICE NG35 (2024) — alveolitis seca: manejo con irrigación del alveolo y apósitos medicados; antibióticos NO indicados rutinariamente",
+          "trial": "Blum IR. Contemporary views on dry socket (alveolar osteitis). Int J Oral Maxillofac Surg (2002): los apósitos basados en eugenol proporcionan un alivio significativo del dolor; los antibióticos no están indicados en pacientes inmunocompetentes",
+          "pearl": "Alveolitis seca = 2-5 días postextracción + dolor severo + alveolo vacío + hueso gris expuesto + halitosis + SIN fiebre ni pus. Tratamiento = irrigación + apósito medicado (Alvogyl = eugenol + yodoformo). Antibióticos NO indicados. El tabaquismo es el factor de riesgo modificable más fuerte (OR 4,2). Aconsejar no fumar al menos 72 horas postextracción."
         },
         "difficulty": 1
       },
       {
         "id": "C4-Q18",
-        "stem": "Durante la extracción quirúrgica electiva de un tercer molar en una mujer sana de 25 años, el cirujano observa que la cortical vestibular de la mandíbula se fractura como un gran fragmento de hueso cortical adherido al diente. El fragmento mide ~15 × 8 mm. El NDI no parece dañado. ¿Cuál es el tratamiento intraoperatorio adecuado del fragmento cortical fracturado?",
+        "stem": "Durante una extracción electiva del tercer molar en una mujer sana de 25 años, el cirujano observa que la placa vestibular de la mandíbula se fractura como una pieza grande de hueso cortical adherida al diente. El fragmento mide ~15 × 8 mm. El NDI parece no dañado. ¿Cuál es el manejo intraoperatorio apropiado del fragmento vestibular fracturado?",
         "options": {
-          "A": "Desechar el fragmento cortical fracturado; cierre primario con colgajo mucoperióstico",
-          "B": "Alisar los bordes cortantes con una lima de hueso y dejar el fragmento in situ adherido al diente",
-          "C": "Conservar cuidadosamente el fragmento (si tiene tejido blando adherido) y recolocarlo como injerto óseo autólogo, fijándolo con suturas reabsorbibles",
+          "A": "Desechar el fragmento cortical fracturado; cerrar principalmente con colgajo mucoperióstico",
+          "B": "Alisar los bordes cortantes con una lima ósea y dejar el fragmento in situ adherido al diente",
+          "C": "Preservar cuidadosamente el fragmento (si el tejido blando está adherido) y recolocarlo como un injerto óseo autólogo, fijándolo con suturas reabsorbibles",
           "D": "Retirar el fragmento, irrigar el alveolo y aplicar una esponja de colágeno antes del cierre"
         },
         "correct": "C",
         "explanation": {
-          "correct": "Si el fragmento de cortical vestibular fracturado conserva la inserción perióstica y de tejido blando —aunque sea parcial— puede preservarse y recolocarse en su posición anatómica. El periostio adherido proporciona vascularización, permitiendo la revascularización del fragmento y su actuación como injerto óseo autólogo. Debe recolocarse suavemente y estabilizarse con puntos de sutura colchonero horizontal a través del colgajo. Esta técnica preserva el volumen óseo vestibular y evita el colapso de los tejidos blandos hacia el alveolo que se produciría en caso contrario, manteniendo la anatomía del reborde importante para la rehabilitación protésica futura.",
+          "correct": "Si el fragmento cortical vestibular fracturado retiene inserción perióstica y de tejido blando — incluso parcialmente — puede preservarse y recolocarse en su posición anatómica. El periostio adherido proporciona vascularidad, permitiendo que el fragmento se revascularice y actúe como un injerto óseo autólogo. Debe recolocarse suavemente y estabilizarse con suturas de colchonero horizontal a través del colgajo. Esta técnica preserva el volumen óseo vestibular y evita el colapso del tejido blando hacia el alveolo que de otro modo ocurriría, manteniendo la anatomía del reborde importante para la rehabilitación protésica futura.",
           "wrong": {
             "A": "Desechar el fragmento sacrifica hueso autólogo potencialmente viable. Si el fragmento tiene inserción perióstica, tiene potencial de revascularización y debe preservarse.",
-            "B": "Dejar el fragmento adherido al diente significa desecharlo con el diente. Esta opción desperdicia el hueso.",
-            "D": "Retirar el fragmento y aplicar una esponja de colágeno abandona innecesariamente el volumen óseo vestibular. Es aceptable cuando el fragmento está completamente desprendido y libre de tejido blando, pero no cuando conserva la inserción."
+            "B": "Dejar el fragmento adherido al diente significa desecharlo con el diente. Esta es la opción que desperdicia el hueso.",
+            "D": "Retirar el fragmento y aplicar esponja de colágeno abandona innecesariamente el volumen óseo vestibular. Esto es aceptable cuando el fragmento está completamente desprendido y libre de tejido blando, pero no cuando hay inserción presente."
           },
-          "guideline": "Guías de Cirugía Dentoalveolar de la AAOMS (2023) — los fragmentos de cortical vestibular con inserción perióstica deben conservarse y recolocarse in situ",
-          "trial": "Pogrel MA. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am (2007): la preservación de los fragmentos de cortical vestibular con inserción perióstica reduce el defecto del reborde a largo plazo",
-          "pearl": "Fractura de la cortical vestibular durante la extracción del tercer molar: si el periostio está adherido → CONSERVAR y recolocar como autoinjerto. Si está completamente desprendido (fragmento libre sin tejido blando) → desechar, ya que el hueso avascular libre en un alveolo contaminado presenta elevado riesgo de infección. La inserción perióstica determina la viabilidad."
+          "guideline": "Guías de Cirugía Dentoalveolar de la AAOMS (2023) — las fracturas de placa vestibular con inserción perióstica deben preservarse y recolocarse in situ",
+          "trial": "Pogrel MA. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am (2007): la preservación de los fragmentos de placa vestibular con inserción perióstica reduce el defecto del reborde a largo plazo",
+          "pearl": "Fractura de placa vestibular durante la extracción del tercer molar: si el periostio está adherido → PRESERVAR y recolocar como autoinjerto. Si está completamente desprendido (fragmento libre sin tejido blando) → desechar, ya que el hueso avascular libre en un alveolo contaminado tiene alto riesgo de infección. La inserción perióstica determina la viabilidad."
         },
         "difficulty": 2
       },
       {
         "id": "C4-Q19",
-        "stem": "Una mujer de 38 años presenta una fístula oroantral (FOA) persistente de 6 semanas de evolución tras la extracción de un molar superior derecho. Refiere dolor facial derecho, secreción nasal purulenta y anosmia reducida. La TC de senos muestra opacificación completa del seno maxilar derecho con engrosamiento mucoso. ¿Cuál es la secuencia de tratamiento adecuada?",
+        "stem": "Una mujer de 38 años tiene una fístula oroantral (FOA) persistente de 6 semanas de evolución tras la extracción del molar superior derecho. Refiere dolor facial en el lado derecho, secreción nasal purulenta y olfato reducido. La TC de senos muestra opacificación completa del seno maxilar derecho con engrosamiento mucoso. ¿Cuál es la secuencia de manejo apropiada?",
         "options": {
-          "A": "Cierre inmediato de la fístula con colgajo de Rehrmann bajo anestesia local",
-          "B": "Tratar primero la sinusitis con FESS y, a continuación, cerrar la FOA secundariamente cuando el seno se normalice",
-          "C": "Prescribir descongestionantes nasales y amoxicilina durante 10 días y, en la revisión, cerrar la FOA",
-          "D": "FESS + cierre de la FOA combinados y simultáneos en la misma sesión quirúrgica bajo anestesia general"
+          "A": "Cierre inmediato con colgajo de Rehrmann de la fístula bajo AL",
+          "B": "Tratar primero la sinusitis con CENS, luego cerrar la FOA secundariamente cuando el seno se normalice",
+          "C": "Prescribir descongestionantes nasales y amoxicilina durante 10 días, luego cerrar la FOA en revisión",
+          "D": "CENS combinada simultánea + cierre de la FOA en el mismo tiempo quirúrgico bajo AG"
         },
         "correct": "D",
         "explanation": {
-          "correct": "Una FOA establecida (>48 horas, en este caso de 6 semanas de evolución) con sinusitis maxilar crónica (TC: opacificación completa, engrosamiento mucoso) requiere un abordaje combinado ORL-Maxilofacial. La estrategia con mayor evidencia es la FESS combinada y simultánea (para drenar el seno, restablecer el drenaje a través del ostio natural y extirpar la mucosa enferma) realizada en la misma sesión que la exéresis de la FOA y el cierre formal con colgajo. El intento de cierre de la FOA sin tratar previamente la sinusitis crónica conduce al fracaso, ya que la infección crónica socava la cicatrización de la herida. La cirugía secuencial (FESS primero y, semanas después, cierre de la FOA) añade carga al paciente y riesgo anestésico sin superioridad demostrada sobre el tratamiento simultáneo.",
+          "correct": "Una FOA establecida (>48 horas, ahora 6 semanas) con sinusitis maxilar crónica (TC: opacificación completa, engrosamiento mucoso) requiere manejo combinado ORL-CMF. El abordaje más basado en evidencia es la CENS combinada simultánea (para drenar el seno, restaurar el drenaje sinusal a través del ostio natural y eliminar la mucosa enferma) realizada en el mismo tiempo quirúrgico que la escisión de la FOA y el cierre formal con colgajo. El intento de cierre de la FOA sin tratar primero la sinusitis crónica lleva al fracaso del cierre por infección crónica que socava la cicatrización de la herida. La cirugía secuencial (CENS primero, luego cierre de la FOA semanas después) añade carga al paciente y riesgo anestésico sin superioridad probada sobre el manejo simultáneo.",
           "wrong": {
-            "A": "El cierre inmediato de una FOA con sinusitis crónica establecida fracasará: el cierre se realiza en un campo infectado con enfermedad sinusal activa que descomprimirá a través del sitio de cierre.",
-            "B": "La FESS seguida del cierre de la FOA es un abordaje histórico válido, pero la colaboración ORL-Maxilofacial contemporánea respalda el cierre simultáneo como más eficiente e igualmente efectivo o superior.",
-            "C": "Los antibióticos y descongestionantes solos durante 10 días no resolverán una sinusitis crónica establecida con opacificación sinusal completa. Esto solo retrasa el tratamiento definitivo."
+            "A": "El cierre inmediato con colgajo de Rehrmann de una FOA con sinusitis crónica establecida fracasará — el cierre se está realizando en un campo infectado con enfermedad sinusal continua que descomprimirá a través del sitio de cierre.",
+            "B": "La CENS secuencial seguida del cierre de la FOA es un abordaje histórico válido pero la colaboración contemporánea ORL-CMF apoya el cierre simultáneo como más eficiente e igualmente o más efectivo.",
+            "C": "Los antibióticos y los descongestionantes solos durante 10 días no resolverán la sinusitis crónica establecida con opacificación completa del seno. Esto simplemente retrasa el tratamiento definitivo."
           },
-          "guideline": "Guía Clínica de la EACMFS sobre Comunicaciones Oroantales (2023) — la FOA con sinusitis crónica requiere FESS + cierre de FOA combinados; se prefiere el abordaje simultáneo al secuencial",
-          "trial": "Obuekwe ON et al. Management of oro-antral fistula in the practice of oral and maxillofacial surgery. J Oral Maxillofac Surg (2005): el tratamiento simultáneo FESS + cierre es superior al tratamiento secuencial en los casos de sinusitis crónica",
-          "pearl": "FOA + sinusitis crónica = FESS + cierre de FOA COMBINADOS Y SIMULTÁNEOS. Cerrar la FOA sin tratar el seno = fracaso. La regla de secuencia: TRATAR PRIMERO EL SENO (o de forma simultánea). Cuando la sinusitis es leve o está ausente, el colgajo local solo es suficiente. La FESS reabre el ostio sinusal natural; el equipo de Maxilofacial cierra la apertura oral en la misma anestesia."
+          "guideline": "Guía Clínica de la EACMFS sobre Comunicaciones Oronasales (2023) — la FOA con sinusitis crónica requiere CENS combinada + cierre de la FOA; el simultáneo se prefiere al secuencial",
+          "trial": "Obuekwe ON et al. Management of oro-antral fistula in the practice of oral and maxillofacial surgery. J Oral Maxillofac Surg (2005): el cierre simultáneo CENS + cierre superior al manejo secuencial en casos de sinusitis crónica",
+          "pearl": "FOA + sinusitis crónica = CENS + cierre de FOA SIMULTÁNEOS combinados. Cerrar primero la FOA sin tratar el seno = fracaso. La regla de secuencia: TRATAR EL SENO PRIMERO (o simultáneamente). Cuando la sinusitis es leve/ausente, el colgajo local solo es suficiente. La CENS reabre el ostio sinusal natural; el equipo de CMF cierra la apertura oral en el mismo tiempo anestésico."
         },
         "difficulty": 3
       },
       {
         "id": "C4-Q20",
-        "stem": "Un paciente se somete a reparación microquirúrgica de un nervio dentario inferior completamente seccionado mediante injerto de nervio sural a los 4 meses de la lesión. ¿Qué factor ejerce una MAYOR influencia sobre el resultado final de la recuperación sensorial?",
+        "stem": "Un paciente se somete a reparación microquirúrgica de un nervio dentario inferior completamente seccionado mediante un injerto nervioso sural a los 4 meses postlesión. ¿Qué factor tiene la MAYOR influencia en el resultado final de la recuperación sensorial?",
         "options": {
-          "A": "Edad del paciente (los pacientes jóvenes se recuperan mejor)",
-          "B": "Longitud del injerto nervioso utilizado para salvar la brecha",
+          "A": "Edad del paciente (los pacientes más jóvenes tienen mejor recuperación)",
+          "B": "Longitud del injerto nervioso utilizado para puentear el espacio",
           "C": "Tiempo transcurrido desde la lesión hasta la reparación (intervalos más cortos = mejor recuperación)",
-          "D": "Diámetro de la sutura epineural utilizada (nylon 9-0 vs 10-0)"
+          "D": "Diámetro de la sutura epineural utilizada (nylon 9-0 vs. 10-0)"
         },
         "correct": "C",
         "explanation": {
-          "correct": "El tiempo transcurrido desde la lesión hasta la reparación microquirúrgica es el predictor más potente del resultado de la recuperación sensorial. Los axones en regeneración deben crecer aproximadamente 1 mm/día desde el punto de reparación hasta alcanzar los órganos sensoriales terminales periféricos. Más allá de aproximadamente 12 meses desde la lesión, los cambios centrales (reorganización cortical) y periféricos (senescencia de las células de Schwann, degeneración de los órganos terminales receptores) reducen progresivamente la probabilidad y calidad de la recuperación funcional. El documento de posición de la AAOMS identifica los 3–6 meses como la ventana de reparación óptima. La edad es relevante pero menos determinante. La longitud del injerto afecta a la velocidad de conducción pero no en última instancia a la calidad de la recuperación si la reparación es adecuada.",
+          "correct": "El tiempo desde la lesión hasta la reparación microquirúrgica es el predictor más potente del resultado de la recuperación sensorial. Los axones en regeneración deben crecer aproximadamente 1 mm/día desde el sitio de reparación para alcanzar los órganos sensoriales periféricos. Más allá de aproximadamente 12 meses desde la lesión, los cambios centrales (reorganización cortical) y los cambios periféricos (senescencia de las células de Schwann, degeneración de los órganos receptores periféricos) reducen progresivamente la probabilidad y la calidad de la recuperación funcional. El documento de posición de la AAOMS identifica 3-6 meses como la ventana de reparación óptima. La edad es relevante pero menos poderosa. La longitud del injerto afecta la velocidad de conducción pero no en última instancia la calidad de la recuperación si la reparación es apropiada por lo demás.",
           "wrong": {
-            "A": "La edad del paciente influye en la tasa de regeneración (los pacientes jóvenes se recuperan más rápidamente) y en la plasticidad neuronal, pero es secundaria al momento de la reparación. Un paciente joven reparado a los 18 meses de la lesión tiene peor pronóstico que un paciente de mayor edad reparado a los 3 meses.",
-            "B": "La longitud del injerto afecta la distancia que deben recorrer los axones en regeneración y el tiempo total de recuperación, pero si la reparación se realiza dentro de la ventana óptima, incluso los injertos más largos logran resultados aceptables. No es el factor MÁS determinante.",
-            "D": "El calibre de la sutura (9-0 vs 10-0) afecta al traumatismo sobre los fascículos nerviosos durante la reparación, pero es un detalle técnico. La recuperación está determinada principalmente por factores biológicos (momento de la reparación, edad del paciente, mecanismo de la lesión) más que por el calibre de la sutura."
+            "A": "La edad del paciente afecta la tasa de regeneración (los pacientes más jóvenes regeneran más rápido) y la plasticidad neural, pero es secundaria al momento de la reparación. Un paciente joven reparado a los 18 meses postlesión tiene peor pronóstico que un paciente mayor reparado a los 3 meses.",
+            "B": "La longitud del injerto afecta la distancia sobre la que los axones deben regenerarse y el tiempo total de recuperación, pero si la reparación se realiza dentro de la ventana óptima, incluso los injertos más largos logran resultados aceptables. No es el factor único MÁS GRANDE.",
+            "D": "El tamaño de la sutura (9-0 vs. 10-0) afecta el traumatismo en los fascículos nerviosos durante la reparación pero es un detalle técnico. La recuperación está determinada principalmente por factores biológicos (momento, edad del paciente, mecanismo de lesión) más que por el calibre de la sutura."
           },
-          "guideline": "Documento de posición de la AAOMS sobre lesiones nerviosas tras la extracción de terceros molares (2012) — ventana de reparación óptima 3–6 meses; más allá de los 12 meses, el pronóstico de una recuperación significativa se reduce considerablemente",
-          "trial": "Ziccardi VB et al. Microsurgery for the oral and maxillofacial surgeon. J Oral Maxillofac Surg (2009): la reparación en los primeros 6 meses consigue una recuperación S3+ en el 70–80% de los casos; más allá de los 12 meses, la tasa desciende a <40%",
-          "pearl": "Reparación microquirúrgica del nervio: EL TIEMPO LO ES TODO. Ventana óptima = 3–6 meses tras la lesión. Más de 12 meses = resultados significativamente peores por sensibilización central + degeneración de los receptores periféricos. Sección completa (grado V) confirmada en el momento de la lesión = considerar reparación primaria inmediata. Injerto de nervio sural o nervio auricular mayor para brechas >1–2 cm."
+          "guideline": "Documento de Posición de la AAOMS sobre Lesiones Nerviosas tras la Extracción del Tercer Molar (2012) — ventana de reparación óptima 3-6 meses; más allá de los 12 meses, el pronóstico de recuperación significativa disminuye significativamente",
+          "trial": "Ziccardi VB et al. Microsurgery for the oral and maxillofacial surgeon. J Oral Maxillofac Surg (2009): la reparación en los primeros 6 meses logra recuperación S3+ en el 70-80%; más allá de los 12 meses, la tasa cae a <40%",
+          "pearl": "Reparación nerviosa microquirúrgica: EL MOMENTO LO ES TODO. Ventana óptima = 3-6 meses postlesión. Más allá de los 12 meses = resultados significativamente peores por sensibilización central + degeneración del receptor periférico. Grado V (sección completa) confirmado en el momento de la lesión = considerar reparación primaria inmediata. Injerto de nervio sural o nervio auricular mayor para espacios >1-2 cm."
         },
         "difficulty": 3
       }
