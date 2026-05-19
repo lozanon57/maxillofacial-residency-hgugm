@@ -1,0 +1,70 @@
+HGUGM MAXILLOFACIAL RESIDENCY COURSE — DEPLOYMENT INSTRUCTIONS
+================================================================
+
+The course is fully generated (32 chapters, 640 questions) but iCloud evicted
+some files from local disk. Before the final deploy, you must re-download them.
+
+STEP 1 — Download evicted iCloud files
+---------------------------------------
+Open Finder and navigate to:
+  iCloud Drive > Curso para residentes > maxillofacial-residency-hgugm
+
+Wait for all files to finish downloading (the cloud icons should disappear).
+Folders that need syncing:
+  - The root folder (index.html, manifest.json, sw.js)
+  - assets/css/ and assets/js/
+  - content/chapters/a1 through c3 (15 files from prior sessions)
+  - content/i18n/
+  - knowledge-base/
+  - .github/workflows/
+
+Alternatively, run this in Terminal to force download:
+  cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/Curso\ para\ residentes/maxillofacial-residency-hgugm
+  find . -name "*.json" -exec cat {} > /dev/null \; 2>/dev/null
+  find . -name "*.html" -exec cat {} > /dev/null \; 2>/dev/null
+  find . -name "*.js" -exec cat {} > /dev/null \; 2>/dev/null
+
+STEP 2 — Final commit and push
+-------------------------------
+Run these commands in Terminal:
+
+  cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/Curso\ para\ residentes/maxillofacial-residency-hgugm
+
+  git add .
+  git commit -m "feat: complete HGUGM maxillofacial residency course — 32 chapters, 640 questions"
+  git push origin main
+
+STEP 3 — GitHub Pages
+----------------------
+GitHub Pages is already enabled. After the push, go to:
+  https://github.com/lozanon57/maxillofacial-residency-hgugm/actions
+
+Watch the deployment action complete (typically 1-2 minutes).
+
+LIVE URL: https://lozanon57.github.io/maxillofacial-residency-hgugm/
+
+STEP 4 — Update sw.js (important for offline caching)
+------------------------------------------------------
+Replace sw.js with the complete version at:
+  /tmp/maxfacial_sw_new.js
+
+Command:
+  cp /tmp/maxfacial_sw_new.js ~/Library/Mobile\ Documents/com~apple~CloudDocs/Curso\ para\ residentes/maxillofacial-residency-hgugm/sw.js
+
+Then commit and push again:
+  git add sw.js
+  git commit -m "fix: update service worker with complete chapter list"
+  git push origin main
+
+================================================================
+COURSE SUMMARY
+================================================================
+32 chapters | 640 board-quality questions | 65 clinical pearls
+Blocks: A=Fundamentos(7) B=Oncología(5) C=Dentoalveolar(4)
+        D=ATM(3) E=Traumatología(5) F=Craneofacial(4) G=Investigación(4)
+
+Guidelines: EACMFS 2024, AAOMS 2022, NCCN 2024, NICE, Cochrane
+Language: English (ES translations pending)
+Service Worker: maxillofacial-hgugm-v1
+GitHub Repo: https://github.com/lozanon57/maxillofacial-residency-hgugm
+================================================================
