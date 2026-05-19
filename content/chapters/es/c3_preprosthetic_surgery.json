@@ -1,0 +1,641 @@
+{
+  "id": "C3",
+  "title": "Cirugía Preprotésica: Aumento de Reborde y Injertos Óseos",
+  "subtitle": "Bloque C — Cirugía Dentoalveolar e Implantología",
+  "block": "C",
+  "block_name": "Cirugía Dentoalveolar e Implantología",
+  "level": "R2-3",
+  "reading_time_min": 35,
+  "guidelines_version": "EACMFS Implantology Guidelines 2023 · ITI Consensus Statements 2023 · AAOMS Parameters of Care 2023",
+  "textbook_refs": [
+    "Misch CE. Contemporary Implant Dentistry, 3rd Ed (2008)",
+    "Marx RE, Stern D. Oral and Maxillofacial Pathology: A Rationale for Diagnosis and Treatment (2003)",
+    "Chiapasco M, Zaniboni M, Rimondini L. Autogenous onlay bone grafts vs. distraction osteogenesis for the correction of vertically deficient edentulous ridges. Clin Oral Implants Res (2007)",
+    "Boyne PJ, James RA. Grafting of the maxillary sinus floor with autogenous marrow and bone. J Oral Surg (1980)"
+  ],
+  "learning_objectives": [
+    "Clasificar los defectos de reborde alveolar (Cawood y Howell) y seleccionar estrategias de aumento apropiadas",
+    "Comparar injertos óseos autógenos, aloinjertos, xenoinjertos y aloplásticos según indicaciones y resultados",
+    "Describir los principios de la regeneración ósea guiada (ROG) y el papel de las membranas barrera",
+    "Planificar y describir la técnica de elevación de seno lateral incluyendo anatomía y complicaciones",
+    "Aplicar los principios de la preservación alveolar tras la extracción dentaria para reducir la reabsorción",
+    "Identificar las complicaciones clave del aumento óseo y aplicar un manejo basado en evidencia"
+  ],
+  "sections": [
+    {
+      "id": "C3-S1",
+      "title": "Reabsorción y Clasificación del Reborde Alveolar",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Tras la extracción dentaria, el proceso alveolar experimenta una reabsorción progresiva que continúa de por vida en ausencia de implantes. La **reabsorción del reborde alveolar** es impulsada por la pérdida de la carga mecánica funcional que los dientes ejercen sobre el hueso alveolar (ley de Wolff: la masa ósea se mantiene mediante la carga funcional). La reabsorción avanza más rápidamente durante los primeros 3-6 meses postextracción (fase de remodelado) y continúa a un ritmo más lento indefinidamente.\n\n**Patrón de reabsorción:**\n- **Maxilar superior:** Reabsorbe predominantemente en dirección centrípeta (hacia adentro y arriba), produciendo estrechamiento y recesión superior del arco. El arco se hace relativamente más pequeño con el tiempo.\n- **Mandíbula:** Inicialmente reabsorbe de forma centrífuga (hacia afuera y abajo), después predominantemente en la dimensión vertical. La reabsorción mandibular prolongada produce un arco relativamente más grande (lo opuesto del maxilar), con pérdida de las corticales vestibular y lingual y eventual reborde en filo de cuchillo.\n\n**Clasificación de Cawood y Howell (1988)** de la atrofia del reborde edéntulo:\n- **Clase I:** Dentado — reborde normal\n- **Clase II:** Inmediatamente postextracción — alveolo presente, cicatrizando\n- **Clase III:** Reborde bien redondeado con altura y anchura adecuadas\n- **Clase IV:** Reborde en filo de cuchillo — altura adecuada pero anchura insuficiente\n- **Clase V:** Reborde plano — altura y anchura insuficientes\n- **Clase VI:** Reborde deprimido — por debajo del nivel del hueso basal original (la más grave)\n\nLos requerimientos de aumento aumentan con la clase Cawood: las clases III-IV se benefician del aumento horizontal (ROG, injerto en bloque); la clase V requiere aumento vertical (ROG vertical, distracción, injerto en bloque); la clase VI (infrecuente) requiere reconstrucción mayor."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Reborde Cawood-Howell y Estrategia de Aumento",
+          "headers": ["Clase", "Descripción", "Necesidad de Aumento", "Estrategia Preferida"],
+          "rows": [
+            ["I", "Dentado — diente presente", "Ninguna", "Preservación alveolar en extracción"],
+            ["II", "Postextracción inmediata", "Preservar alveolo", "Preservación alveolar (injerto + membrana)"],
+            ["III", "Reborde redondeado, anchura y altura adecuadas", "Mínima o ninguna", "Implante ± ROG simultánea"],
+            ["IV", "En filo de cuchillo — altura adecuada, anchura insuficiente", "Aumento horizontal", "ROG, injerto en bloque o técnica de expansión de reborde"],
+            ["V", "Reborde plano — altura y anchura insuficientes", "Vertical + horizontal", "ROG vertical, distracción osteogénica, injerto en bloque"],
+            ["VI", "Deprimido por debajo del hueso basal", "Reconstrucción mayor", "Injerto en bloque grande, colgajo libre (infrecuente)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Pearl de Examen — Patrón de Reabsorción Maxilar vs. Mandibular",
+          "content": "La reabsorción maxilar es centrípeta (el arco se hace más pequeño) mientras que la mandibular es inicialmente centrífuga y luego vertical (el arco aparece relativamente más ancho). Por eso los pacientes edéntulos de larga evolución desarrollan con el tiempo una relación mandibular invertida — el arco maxilar se retrae hacia adentro mientras el mandibular permanece relativamente más ancho, creando lo que parece una relación de clase III en pacientes severamente atróficos."
+        }
+      ]
+    },
+    {
+      "id": "C3-S2",
+      "title": "Biología del Injerto Óseo: Tipos y Propiedades",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los injertos óseos se clasifican según sus propiedades biológicas — **osteogénesis, osteoindución y osteoconducción** — y por su material de origen.\n\n**Osteogénesis:** Osteoblastos u células osteoprogenitoras viables dentro del injerto que forman directamente hueso nuevo. Solo los injertos autógenos (del propio paciente) contienen células viables capaces de osteogénesis.\n\n**Osteoindución:** Capacidad del material del injerto para estimular las células madre mesenquimales del huésped a diferenciarse en osteoblastos mediante moléculas señalizadoras (BMPs: proteínas morfogenéticas óseas, especialmente BMP-2 y BMP-7). Presente en el hueso autógeno y en el aloinjerto óseo liofilizado desmineralizado (AOLD), que expone la matriz de colágeno y las BMPs. Los materiales sintéticos generalmente carecen de capacidad osteoinductora.\n\n**Osteoconducción:** Una propiedad física de andamio — el injerto proporciona una matriz tridimensional que guía el crecimiento vascular y la neoformación ósea a lo largo de su estructura. La hidroxiapatita (HA), el beta-fosfato tricálcico (β-TCP), el xenoinjerto (HA bovina/porcina) y el aloinjerto tienen propiedades osteoconductoras.\n\n**Tipos de injerto por fuente:**\n\n1. **Hueso autógeno (autoinjerto):** Estándar de oro — tiene las tres propiedades (osteogénesis + osteoindución + osteoconducción). Fuentes en cirugía oral: mentón (sínfisis), rama/cuerpo mandibular, tuberosidad maxilar (cantidades pequeñas); cresta ilíaca (grandes cantidades para aumento mayor). Desventajas: morbilidad del área donante, disponibilidad limitada, reabsorción a lo largo del tiempo (injertos corticales reabsorben un 20-30% a los 12 meses; los esponjosos reabsorben más rápidamente pero se integran antes).\n\n2. **Aloinjerto:** Hueso cadavérico humano, procesado para eliminar proteínas inmunogénicas. Tipos: aloinjerto óseo fresco congelado (AOFC); aloinjerto óseo liofilizado (AOL) — osteoconductor; aloinjerto óseo liofilizado desmineralizado (AOLD) — osteoconductor + osteoinductor (BMPs parcialmente preservadas). Sin morbilidad del área donante; riesgo limitado de transmisión de enfermedades (donantes cribados).\n\n3. **Xenoinjerto:** HA derivada de hueso animal (bovino = Bio-Oss, porcino). Solo osteoconductor; tasa de reabsorción muy baja (sustitución lenta por hueso del huésped durante meses a años). Bio-Oss es el material de sustitución ósea más estudiado mundialmente. Se usa para injertos de seno, preservación alveolar, relleno de ROG.\n\n4. **Aloplástico:** Sustitutos óseos sintéticos — hidroxiapatita, β-TCP, sulfato cálcico, vidrio bioactivo. Solo osteoconductores; sin osteogénesis ni osteoindución. Reabsorbibles (β-TCP) o no reabsorbibles (HA sintética). Usados para rellenar pequeños defectos, preservación alveolar y ROG."
+        },
+        {
+          "type": "table",
+          "title": "Propiedades del Injerto Óseo por Tipo",
+          "headers": ["Tipo de Injerto", "Osteogénesis", "Osteoindución", "Osteoconducción", "Área Donante", "Ventaja Clave"],
+          "rows": [
+            ["Autógeno (autoinjerto)", "Sí", "Sí", "Sí", "Paciente (mentón, rama, ilíaca)", "Estándar de oro; las 3 propiedades"],
+            ["Aloinjerto AOL", "No", "No", "Sí", "Cadáver humano", "Sin área donante; andamio predecible"],
+            ["Aloinjerto AOLD", "No", "Sí (parcial)", "Sí", "Cadáver humano", "Osteoinductor + sin área donante"],
+            ["Xenoinjerto (Bio-Oss)", "No", "No", "Sí", "Bovino/porcino", "Reabsorción lenta; muy estudiado"],
+            ["Aloplástico (β-TCP)", "No", "No", "Sí", "Sintético", "Reabsorbible; sin riesgo de enfermedad"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Injerto de Cresta Ilíaca para Aumento de Gran Volumen",
+          "content": "Para el aumento de reborde de gran volumen (Cawood V-VI, reconstrucción mandibular clase III), la cresta ilíaca sigue siendo el área donante estándar para el hueso autógeno. Proporciona grandes volúmenes de hueso córtico-esponjoso. La obtención se realiza bajo anestesia general desde la cresta ilíaca anterior (espina ilíaca anterosuperior). La morbilidad del área donante incluye: hematoma (8-15%), seroma, parestesia del nervio cutáneo femoral lateral (10-20%), alteración de la marcha (5%) y cicatriz. La mezcla córtico-esponjosa de la cresta ilíaca se prefiere sobre los injertos de rama puramente corticales para el aumento vertical por el mayor potencial osteoinductor del componente esponjoso."
+        }
+      ]
+    },
+    {
+      "id": "C3-S3",
+      "title": "Regeneración Ósea Guiada (ROG): Técnica y Materiales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La regeneración ósea guiada aplica el principio de repoblación celular selectiva — una membrana barrera excluye físicamente los fibroblastos y el epitelio de proliferación rápida del defecto, manteniendo un espacio protegido para que los osteoblastos regeneren hueso.\n\n**Tipos de membrana:**\n\n*Membranas no reabsorbibles:* Politetrafluoroetileno expandido (ePTFE, Gore-Tex) y ePTFE reforzado con titanio. Ventajas: superior mantenimiento del espacio, pueden moldearse. Desventajas: requieren un segundo procedimiento para retirarla (3-6 meses tras el injerto); si se exponen, se contaminan y deben retirarse precozmente.\n\n*Membranas reabsorbibles:* Membranas de colágeno (colágeno bovino tipo I/III; p. ej., Bio-Gide), poliglactina (Vicryl). Ventajas: sin procedimiento de retirada; mejor toleradas en caso de exposición menor. Desventajas: reabsorben antes de que se complete la regeneración ósea en algunas situaciones (especialmente ROG vertical donde se necesita un tiempo de reabsorción prolongado); menor mantenimiento del espacio que las de titanio reforzado.\n\n**Técnica de ROG — aumento horizontal:**\n1. Elevación de colgajo mucoperióstico de grosor total más allá de los márgenes del defecto\n2. Decorticación ósea (perforaciones con fresa) para permitir acceso vascular y celular desde el hueso nativo\n3. Injerto óseo particulado (xenoinjerto, mezcla de autoinjerto o aloinjerto) colocado para recrear el volumen deseado\n4. Membrana barrera colocada sobre el injerto, extendiéndose 3-4 mm sobre el hueso nativo en todos los márgenes\n5. Incisión liberadora de periostio para conseguir un cierre sin tensión\n6. Cierre de la herida con suturas reabsorbibles\n\n**Técnica de ROG — aumento vertical:**\nLa ganancia ósea vertical es técnicamente más exigente que la horizontal. Requiere: membrana de ePTFE reforzada con titanio (para mantener el espacio vertical frente a la gravedad y la presión de los tejidos blandos) O malla de titanio (soporte rígido), injerto particulado (o en bloque) y cierre primario sin tensión. Con técnica experimentada se puede conseguir una ganancia vertical de 4-7 mm; más de 7 mm de ganancia vertical se consigue de forma más fiable con distracción osteogénica.\n\nEl **mantenimiento del espacio** es el requisito técnico crítico para la ROG, especialmente el aumento vertical. La membrana debe evitar el colapso del tejido blando en el espacio del injerto durante la cicatrización. Las membranas de ePTFE reforzadas con titanio y las mallas de titanio son las más fiables para el mantenimiento del espacio."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Dehiscencia de Herida sobre Membrana de ROG",
+          "content": "La dehiscencia de la herida (apertura de la incisión quirúrgica) que expone la membrana barrera es la complicación más frecuente de la ROG y reduce significativamente el resultado regenerativo. Causas: colgajo cerrado bajo tensión, tejido delgado, fallo en la técnica de sutura, traumatismo del paciente. Prevención: incisión liberadora de periostio exhaustiva para lograr un cierre absolutamente sin tensión; verificar la ausencia de tensión antes de cerrar. Si una membrana no reabsorbible se expone precozmente (<4 semanas), generalmente debe retirarse — el resultado de la ROG se pierde. Si una membrana reabsorbible se expone, puede tratarse de forma conservadora con clorhexidina y dejarse reabsorber, pudiendo salvarse una ganancia ósea parcial."
+        }
+      ]
+    },
+    {
+      "id": "C3-S4",
+      "title": "Elevación de Seno Lateral: Técnica y Complicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La elevación de seno mediante ventana lateral (EVL; variante de Caldwell-Luc; Boyne y James 1980; modificación de Tatum) proporciona acceso al suelo del seno maxilar para la elevación de la membrana de Schneiderian y la colocación de injerto en maxilares posteriores severamente atróficos (<4 mm de altura crestal residual).\n\n**Anatomía relevante:**\n- **Membrana de Schneiderian:** Epitelio cilíndrico ciliado pseudoestratificado delgado (0,5-1,5 mm), muy vascular, que recubre el seno. Debe elevarse intacta — la perforación aumenta el riesgo de infección y fallo del injerto\n- **Arteria alveolar posterosuperior (AAPS):** Ramas de la arteria maxilar discurren dentro de la pared lateral del seno, anastomosándose con la arteria infraorbitaria. La transección durante la creación de la ventana causa sangrado; se identifica a 15-18 mm por encima de la cresta alveolar de media\n- **Tabiques de la membrana de Schneiderian (tabiques de Underwood):** Particiones óseas dentro del suelo del seno; presentes en ~30% de los pacientes; identificados en la CBCT preoperatoriamente; dividen el seno en compartimentos que requieren elevación de membrana por separado\n\n**Técnica (modificación de Tatum):**\n1. Incisión vestibular lateral con elevación de colgajo perióstico para exponer la pared lateral del seno\n2. Marcar el contorno de la ventana: 5 mm por encima del suelo del seno, 4-5 mm posterior al contrafuerte cigomático\n3. Usar una fresa redonda a baja velocidad para trazar la ventana solo a través de la cortical lateral; el hueso restante fino como una membrana se retira con una cureta\n4. Elevar la membrana de Schneiderian desde el suelo, la pared medial y el techo del seno con elevadores Luk curvos, trabajando de posterior a anterior\n5. Si la membrana se perfora: sellar con membrana de colágeno + continuar; si hay desgarro grande (>5 mm): considerar abandonar y reprogramar (algunos cirujanos colocan una membrana reabsorbible y continúan)\n6. Rellenar el suelo con injerto óseo (xenoinjerto solo, o mezcla de xenoinjerto + hueso autógeno)\n7. Cubrir la ventana con membrana de colágeno\n8. Cierre por capas\n\n**Cicatrización:** Los implantes colocados tras la curación de la EVL suelen conseguir una osteointegración equivalente a los lugares no aumentados. Cicatrización estándar: 6-9 meses antes de la colocación del implante para el injerto particulado, 4-6 meses para las mezclas de injerto que contienen autoinjerto.\n\n**Complicaciones:**\n- Perforación de membrana: incidencia del 10-20%; las perforaciones pequeñas se manejan con reparación mediante membrana de colágeno\n- Sinusitis: 2-5% postoperatoria; tratada con antibióticos y descongestionantes nasales; raramente requiere revisión quirúrgica\n- Infección/fallo del injerto: 2-5%; requiere retirada del material infectado\n- Sangrado de la AAPS: habitualmente controlado con presión; raramente requiere ligadura"
+        },
+        {
+          "type": "table",
+          "title": "Elevación de Seno Lateral: Complicaciones y Manejo",
+          "headers": ["Complicación", "Incidencia", "Causa", "Manejo"],
+          "rows": [
+            ["Perforación de membrana de Schneiderian", "10-20%", "Membrana delgada; tabiques; técnica", "Pequeña (<5 mm): parche de colágeno + continuar. Grande: considerar abandonar"],
+            ["Sinusitis postoperatoria", "2-5%", "Contaminación del injerto; obstrucción del complejo osteomeatal", "Antibióticos; descongestionantes nasales; CENS si no resuelve"],
+            ["Infección del injerto", "2-5%", "Contaminación; perforación de membrana", "Desbridamiento; antibióticos; reinjerto en estadio tras curación"],
+            ["Sangrado de arteria alveolar posterosuperior", "5-10%", "Ventana creada sobre el trayecto de la AAPS", "Cauterio bipolar; presión; raramente ligadura"],
+            ["Fracaso del implante post-elevación de seno", "5-10%", "Pobre calidad del regenerado; infección; mala estabilidad primaria", "Explantación; reinjerto; reimplantación"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Pearl de Examen — Umbrales de Técnica Crestal vs. Ventana Lateral",
+          "content": "Técnica crestal (Summers): altura crestal residual 4-8 mm. Ventana lateral (Boyne/Tatum): altura crestal residual <4 mm. La técnica crestal usa un osteótomo para fracturar cuidadosamente el suelo del seno hacia arriba, elevando la membrana hidráulicamente, y rellena el injerto a través de la osteotomía. La ventana lateral proporciona visualización directa en rebordes muy atróficos. La integridad de la membrana de Schneiderian es crítica en ambas — la perforación aumenta el riesgo de infección."
+        }
+      ]
+    },
+    {
+      "id": "C3-S5",
+      "title": "Preservación Alveolar: Principios y Evidencia",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **preservación alveolar (preservación del reborde alveolar, PRA)** es un procedimiento realizado en el momento de la extracción dentaria para reducir o minimizar la reabsorción alveolar fisiológica que sigue a la extracción. Sin intervención, el reborde alveolar pierde aproximadamente el 50% de su anchura en los primeros 3 meses, con una pérdida del 30-40% de anchura horizontal y del 10-20% de altura vertical en el primer año.\n\n**Técnica:** Tras la extracción dentaria atraumática y el legrado del alveolo:\n1. Colocar material de injerto óseo (el xenoinjerto solo es el material con mejor evidencia para la preservación alveolar; autoinjerto; AOL) en el alveolo para rellenarlo\n2. Cubrir con una membrana barrera (membrana de colágeno reabsorbible) fijada a los márgenes del alveolo\n3. Cierre primario (ideal) o cierre parcial dejando la membrana expuesta sobre el alveolo (la membrana proporciona un andamio para la epitelización)\n\n**Resumen de evidencia (ITI Consensus 2023):**\n- La preservación alveolar reduce significativamente la pérdida ósea horizontal (diferencia media ~2 mm de reducción vs. cicatrización sin asistencia)\n- Evidencia menos consistente para la preservación vertical\n- La colocación diferida del implante (3-4 meses post-preservación alveolar) produce mejor volumen óseo que en alveolos no aumentados en el mismo momento\n- La preservación alveolar no elimina la reabsorción — la reduce\n- La mejor evidencia existe para xenoinjerto (Bio-Oss) + membrana de colágeno (Bio-Gide)\n\n**Indicaciones de la preservación alveolar:**\n- Planificación de lugar implantario en zona estéticamente importante\n- Placa vestibular delgada (≤1 mm) en CBCT o detectada en la extracción\n- Colocación inmediata del implante no posible (infección, volumen óseo insuficiente)\n- Cuando la colocación del implante se retrasará más de 3 meses\n\n**Colocación inmediata del implante:** Colocar el implante en el momento de la extracción, consiguiendo estabilidad primaria en el hueso apical más allá del ápice del alveolo, y rellenando simultáneamente cualquier espacio entre el implante y las paredes del alveolo (distancia de salto) con xenoinjerto. Adecuado cuando: lugar sin infección, placa vestibular intacta, hueso apical suficiente para la estabilidad, sin infección aguda."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Manejo de la Placa Vestibular Delgada",
+          "content": "La placa vestibular de los dientes anteriores del maxilar superior es típicamente <1 mm de grosor. En la extracción, esta placa delgada es especialmente vulnerable a la reabsorción — la pérdida del hueso de soporte (hueso fasciculado que soporta el diente) lleva al colapso del contorno vestibular. En pacientes que van a precisar una restauración implantosoportada, la preservación alveolar con xenoinjerto + membrana de colágeno + cierre primario es el estándar de cuidado en las extracciones anteriores del maxilar superior, independientemente del momento planificado para el implante."
+        }
+      ]
+    },
+    {
+      "id": "C3-S6",
+      "title": "Injertos Óseos en Bloque: Áreas Donantes Intraorales y Extraorales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los injertos óseos en bloque (monobloques córtico-esponjosos) se usan para aumentos de reborde mayores (>4-5 mm horizontal o vertical) que superan lo que la ROG particulada puede conseguir de forma predecible.\n\n**Áreas donantes intraorales:**\n\n*Sínfisis mandibular (mentón):* Proporciona 5-10 mL de hueso córtico-esponjoso — suficiente para 3-5 lugares implantarios. Obtención mediante incisión labioves­tibular con fresa y sierra reciprocante. Complicaciones: hipoestesia del nervio mentoniano (10-30%, la mayoría temporal), cambio de vitalidad en dientes anteriores (5%), dehiscencia de herida. Es crítico evitar los ápices radiculares.\n\n*Rama/cuerpo mandibular:* Proporciona hueso predominantemente cortical (menos esponjoso) — bueno para el aumento horizontal pero menos osteoinductor que el injerto de mentón. Mayor volumen que el mentón. Menos complicaciones dentales anteriores. Obtención mediante abordaje mandibular lateral en la región retromolar.\n\n**Áreas donantes extraorales:**\n\n*Cresta ilíaca:* Estándar de oro para el aumento de gran volumen — proporciona hasta 30-40 mL de hueso córtico-esponjoso. La cresta ilíaca anterior se usa con mayor frecuencia. Complicaciones como se describe anteriormente (hematoma, parestesia del NCFL, alteración de la marcha). Necesaria para la reconstrucción Cawood V-VI.\n\n*Calvaria (tabla externa):* Hueso cortical de alta densidad; menor reabsorción que el hueso membranoso; requiere acceso neuroquirúrgico o craneofacial especializado; infrecuente en la práctica implantológica habitual.\n\n**Fijación y cicatrización del injerto en bloque:**\nLos injertos en bloque se fijan al lugar receptor con tornillos de fijación de titanio de 1,5 mm. El injerto se coloca en contacto con el hueso receptor decorticado (perforaciones hechas con fresa). Una membrana de colágeno reabsorbible cubre el bloque y cualquier espacio. El cierre de tejidos blandos debe ser sin tensión. Cicatrización: 3-5 meses antes de la colocación del implante en el área injertada; los tornillos de fijación se retiran en la cirugía del implante.\n\n**Injertos corticales vs. esponjosos:**\n- Cortical: reabsorción más lenta (pérdida de volumen del 25-30% a los 12 meses), mejor mantenimiento del espacio\n- Esponjoso: incorporación y vascularización más rápidas, mayor reabsorción (pérdida de volumen del 40-50%)\n- Mezcla córtico-esponjosa (cresta ilíaca, mentón): óptima — integración rápida con mantenimiento razonable del volumen"
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Injerto de Mentón y Vitalidad de Dientes Anteriores",
+          "content": "La obtención del injerto en bloque de mentón debe evitar los ápices de los dientes anteriores inferiores (típicamente 5 mm de margen inferior hasta los ápices radiculares) para prevenir la desnervación y pérdida de vitalidad de los incisivos y caninos inferiores. La evaluación radiográfica preoperatoria de la longitud radicular es obligatoria. Si la sínfisis es demasiado poco profunda (distancia insuficiente entre los ápices radiculares y el borde inferior), debe usarse la obtención de rama en su lugar para evitar complicaciones en los dientes anteriores."
+        }
+      ]
+    },
+    {
+      "id": "C3-S7",
+      "title": "Técnicas de División y Expansión de Reborde",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La técnica de **división de reborde (expansión del reborde alveolar, osteotomía de ensanchamiento)** es una alternativa al injerto en bloque por onlay para la deficiencia horizontal del reborde (Cawood IV — reborde en filo de cuchillo). En lugar de injertar material desde fuera, la técnica amplía el reborde existente dividiéndolo y expandiendo lateralmente la placa vestibular.\n\n**Principio:** Se realiza una osteotomía sagital a través del reborde en filo de cuchillo, creando segmentos corticales vestibular y lingual. Se utilizan expansores secuenciales (u osteótomos) para ampliar progresivamente el espacio, fracturando en tallo verde la placa vestibular hacia afuera mientras la placa lingual permanece en su lugar. El espacio expandido se rellena con injerto óseo, y el implante se coloca de forma inmediata (en un tiempo) o después de 3-4 meses (en dos tiempos) dependiendo de la calidad del hueso.\n\n**Indicaciones:**\n- Reborde en filo de cuchillo (Cawood IV) con al menos 3 mm de anchura bucolingual\n- Anchura insuficiente para un implante de diámetro estándar sin aumento\n- Preferencia del paciente por evitar el área donante del injerto en bloque\n\n**Prerrequisitos:**\n- Altura de reborde adecuada (>12 mm)\n- Calidad ósea que permita una fractura en tallo verde controlada sin fractura completa de la placa vestibular\n- Con frecuencia se realiza en el maxilar (más esponjoso, permite expansión controlada) más que en la mandíbula (el hueso cortical denso se fractura en lugar de expandirse)\n\n**Resultados:** Comparables a la ROG con injerto en bloque para deficiencias moderadas (ganancia de 2-4 mm); tiempo de tratamiento más corto que el injerto en bloque por fases; sin morbilidad del área donante.\n\nLa **cirugía piezoeléctrica** usa vibración ultrasónica para realizar osteotomías precisas con seguridad para los vasos sanguíneos en el reborde, permitiendo cortes óseos controlados con menor daño térmico que los instrumentos rotativos. Particularmente útil para las osteotomías de división de reborde donde la precisión adyacente a estructuras nerviosas es crítica.\n\nLa **distracción osteogénica** para el aumento alveolar (como se describe en el Capítulo B5) es una alternativa para las grandes deficiencias verticales y horizontales donde el injerto convencional es inadecuado o donde es importante evitar la reabsorción del injerto."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Pearl de Examen — Indicación de División de Reborde",
+          "content": "La división de reborde (expansión) es apropiada para rebordes en filo de cuchillo (Cawood IV) con 3-5 mm de anchura bucolingual que requieren aumento hasta 5-7 mm para implantes estándar. Los rebordes de menos de 3 mm no pueden expandirse de forma fiable — se fracturan. Los rebordes con anchura adecuada ya (>5-6 mm) no necesitan expansión. La piezocirugía es la instrumentación preferida para la división de reborde por su precisión y menor daño térmico."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Pon a prueba tus conocimientos sobre cirugía preprotésica, injertos óseos y aumento de reborde con 20 preguntas tipo board.",
+    "questions": [
+      {
+        "id": "C3-Q1",
+        "stem": "Según la clasificación de Cawood y Howell, un reborde 'en filo de cuchillo' con altura adecuada pero anchura insuficiente se clasifica como:",
+        "options": {
+          "A": "Clase III",
+          "B": "Clase IV",
+          "C": "Clase V",
+          "D": "Clase VI"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Clase IV de Cawood y Howell describe un reborde en filo de cuchillo — hay altura vertical adecuada pero la anchura bucolingual (horizontal) es insuficiente para la colocación estándar de implantes. El reborde tiene una cresta estrecha y puntiaguda, a menudo con altura total adecuada pero solo 2-4 mm de anchura. Esto se distingue de la Clase V (plano — altura Y anchura insuficientes) y de la Clase VI (deprimido por debajo del hueso basal).",
+          "wrong": {
+            "A": "La Clase III es un reborde bien redondeado con tanto altura como anchura adecuadas — la mejor situación para los implantes sin aumento",
+            "C": "La Clase V es un reborde plano con altura y anchura insuficientes — más grave que el filo de cuchillo",
+            "D": "La Clase VI está deprimida por debajo del nivel del hueso basal — la categoría más grave"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Clasificación del reborde y estrategia de aumento",
+          "trial": "Cawood JI, Howell RA. A classification of the edentulous jaws. Int J Oral Maxillofac Surg (1988): sistema de clasificación de 6 clases original; Clase IV filo de cuchillo definida",
+          "pearl": "Cawood-Howell: I=dentado, II=extracción reciente, III=redondeado (adecuado), IV=filo de cuchillo (solo anchura deficiente), V=plano (altura + anchura deficientes), VI=deprimido. IV=solo aumento horizontal. V=ambos ejes."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q2",
+        "stem": "¿Qué tipo de injerto óseo posee las tres propiedades biológicas requeridas para la regeneración ósea óptima: osteogénesis, osteoindución Y osteoconducción?",
+        "options": {
+          "A": "Xenoinjerto (hidroxiapatita bovina)",
+          "B": "Aloinjerto óseo liofilizado desmineralizado (AOLD)",
+          "C": "Injerto óseo autógeno",
+          "D": "Beta-fosfato tricálcico (β-TCP)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Solo el hueso autógeno (obtenido del propio paciente) posee las tres propiedades biológicas: osteogénesis (osteoblastos y osteoprogenitores viables que forman directamente hueso nuevo), osteoindución (BMPs y otros factores de crecimiento que estimulan la diferenciación de células madre del huésped en osteoblastos) y osteoconducción (arquitectura de andamio 3D que guía el crecimiento vascular y celular). Por eso el hueso autógeno sigue siendo el estándar de oro para los injertos óseos a pesar de la morbilidad del área donante.",
+          "wrong": {
+            "A": "El xenoinjerto (Bio-Oss) tiene SOLO osteoconducción — sin osteogénesis (sin células viables), sin osteoindución (BMPs desnaturalizadas durante el procesado bovino)",
+            "B": "El AOLD tiene osteoindución (BMPs parciales preservadas durante la desmineralización) + osteoconducción, pero SIN osteogénesis (sin células viables — hueso cadavérico procesado)",
+            "D": "El β-TCP tiene SOLO osteoconducción — sintético, sin células ni BMPs"
+          },
+          "guideline": "ITI Consensus Statements (2023): Biología del injerto óseo — autoinjerto como estándar de oro",
+          "trial": "Marx RE, Stern D. Oral and Maxillofacial Pathology (2003): descripción sistemática de las propiedades del injerto; el autoinjerto es el único injerto con las 3 propiedades biológicas",
+          "pearl": "Mnemotecnia de propiedades del injerto — 3 Os: Osteogénesis (células), Osteoindución (señales), Osteoconducción (andamio). Solo el autoinjerto tiene las 3. AOLD = 2 Os (inducción + conducción). Xenoinjerto + aloplástico = 1 O (solo conducción). Estándar de oro = autoinjerto."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q3",
+        "stem": "Durante una elevación de seno lateral, la membrana de Schneiderian se desgarra creando una perforación de 7 mm. El cirujano no puede repararla con un pequeño parche de colágeno. ¿Cuál es el siguiente paso más apropiado?",
+        "options": {
+          "A": "Continuar con la colocación del injerto — las perforaciones de membrana no tienen efecto sobre los resultados",
+          "B": "Abandonar el procedimiento, cerrar la ventana con una membrana de colágeno y reprogramar en 6-8 semanas",
+          "C": "Rellenar toda la cavidad del seno con injerto óseo para taponar la perforación",
+          "D": "Proceder con la colocación inmediata del implante para estabilizar el injerto"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una perforación grande (>5 mm) de la membrana de Schneiderian que no puede sellarse de forma fiable con un pequeño parche de membrana de colágeno representa una complicación significativa. Proceder con la colocación del injerto a través de una perforación grande arriesga: (1) material del injerto entrando y llenando la cavidad del seno, (2) sinusitis postoperatoria, (3) infección del injerto, (4) fallo del injerto. La respuesta apropiada es cerrar la ventana lateral con una membrana de colágeno reabsorbible, dejar que la membrana cicatrice durante 6-8 semanas y realizar un segundo procedimiento de elevación de seno cuando la membrana se haya regenerado.",
+          "wrong": {
+            "A": "Las perforaciones grandes aumentan significativamente el riesgo de sinusitis y fallo del injerto — no pueden ignorarse",
+            "C": "Rellenar el injerto a través de una perforación grande llenaría la cavidad del seno con material, causando sinusitis, reacción de cuerpo extraño y necesidad de lavado sinusal urgente por ORL",
+            "D": "La colocación inmediata del implante no aborda el problema de la perforación de membrana; la colocación de implante en un lugar no aumentado con altura ósea inadecuada no es apropiada"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Complicaciones de elevación de seno — manejo de grandes perforaciones de membrana",
+          "trial": "Schwartz-Arad D et al. Complications of the lateral approach to the maxillary sinus: a review. J Periodontol (2004): perforación >5 mm = abordaje en estadios; reparación inmediata con perforaciones pequeñas; abandono + reprogramación para grandes perforaciones produce mejores resultados",
+          "pearl": "Perforación de membrana en elevación de seno: Pequeña (<5 mm) = parche de colágeno + continuar. Grande (>5 mm) = abandonar + cerrar ventana + reprogramar en 6-8 semanas. Nunca proceder con la colocación del injerto a través de una perforación grande sin reparar."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q4",
+        "stem": "La preservación alveolar tras la extracción dentaria se consigue de forma más fiable con qué combinación de materiales según la evidencia actual del ITI?",
+        "options": {
+          "A": "Gasa empapada en clorhexidina + cierre primario",
+          "B": "Xenoinjerto (HA bovina) + membrana de colágeno reabsorbible",
+          "C": "Chips de injerto óseo autógeno solo con cierre primario ajustado",
+          "D": "Aloplástico β-TCP + membrana de ePTFE no reabsorbible"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La combinación con mejor evidencia para la preservación alveolar es el xenoinjerto (hidroxiapatita bovina; Bio-Oss) más una membrana de colágeno reabsorbible (Bio-Gide). Esta combinación está respaldada por la evidencia de mayor calidad: revisiones sistemáticas y ECA muestran una reducción significativa de la pérdida ósea horizontal comparada con la cicatrización sin asistencia (diferencia media ~2 mm de reducción). El xenoinjerto proporciona un excelente mantenimiento del espacio por su baja tasa de reabsorción, y la membrana de colágeno previene la invasión de tejido blando y soporta la epitelización. Es el abordaje recomendado por el ITI Consensus 2023.",
+          "wrong": {
+            "A": "La gasa de clorhexidina con cierre primario no proporciona andamio regenerativo — simplemente ayuda a prevenir la infección; la reabsorción ósea progresa normalmente",
+            "C": "Los chips de hueso autógeno sufren una reabsorción significativa y no mantienen el volumen del reborde a largo plazo tan eficazmente como el xenoinjerto para la preservación alveolar; los chips de autoinjerto solos no son la primera elección",
+            "D": "Las membranas de ePTFE no reabsorbibles requieren un segundo procedimiento de retirada y no tienen ventaja específica sobre las membranas de colágeno reabsorbibles para la preservación alveolar"
+          },
+          "guideline": "ITI Consensus Statements (2023): Preservación alveolar — xenoinjerto + membrana de colágeno como combinación con mejor evidencia",
+          "trial": "Avila-Ortiz G et al. Effect of alveolar ridge preservation interventions following tooth extraction: a systematic review and meta-analysis. J Clin Periodontol (2019): grupo xenoinjerto + membrana mostró 2,07 mm menos de pérdida horizontal vs. cicatrización sin asistencia; mejor combinación con evidencia",
+          "pearl": "Estándar de oro de preservación alveolar = xenoinjerto (Bio-Oss) + membrana de colágeno (Bio-Gide). Reduce la pérdida ósea horizontal ~2 mm. No elimina la reabsorción — la reduce. Mejor indicación: maxilar anterior, placa vestibular delgada, implante diferido planificado >3 meses."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q5",
+        "stem": "El principio biológico fundamental de la regeneración ósea guiada (ROG) se describe mejor como:",
+        "options": {
+          "A": "Estimulación de la diferenciación de osteoblastos mediante factores de crecimiento BMP en la membrana",
+          "B": "Exclusión física de células de tejido blando del defecto mientras se mantiene el espacio para las células formadoras de hueso",
+          "C": "Estimulación eléctrica de la formación ósea mediante las propiedades piezoeléctricas del titanio",
+          "D": "Propiedades antibacterianas de la membrana que previenen la infección posquirúrgica"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El principio fundamental de la ROG es la repoblación celular selectiva mediante exclusión física. La membrana barrera previene que los fibroblastos de rápida proliferación y las células epiteliales entren en el espacio del defecto, mientras mantiene un compartimento protegido que los osteoblastos de migración más lenta (desde el periostio y endostio del hueso nativo) pueden poblar y regenerar hueso en su interior. Esto fue establecido por Dahlin et al. (1988) — los defectos de control sin membranas se llenaron con tejido fibroso; los defectos cubiertos con membrana regeneraron hueso.",
+          "wrong": {
+            "A": "Las membranas de colágeno estándar no contienen cantidades significativas de BMPs — su mecanismo es la función barrera, no la osteoindución",
+            "C": "Los efectos piezoeléctricos del titanio no son el mecanismo de la ROG — las membranas de titanio reforzado se usan para soporte mecánico, no para estimulación eléctrica",
+            "D": "Las membranas de ROG no son principalmente antibacterianas — la dehiscencia de la herida y la exposición de la membrana a las bacterias orales son complicaciones importantes, no características"
+          },
+          "guideline": "ITI Consensus Statements (2023): Principios biológicos de la ROG",
+          "trial": "Dahlin C et al. Healing of bone defects by guided tissue regeneration. Plast Reconstr Surg (1988): estudio definitivo; sin membrana = relleno fibroso; con membrana = regeneración ósea; principio de repoblación celular selectiva establecido",
+          "pearl": "Principio de ROG = BARRERA para excluir fibroblastos (rápidos) + ESPACIO para osteoblastos (lentos). Sin barrera = relleno fibroso. Barrera + espacio = regeneración ósea. Cierre primario sin tensión esencial para proteger la integridad de la membrana."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q6",
+        "stem": "Un hombre de 55 años requiere un puente implantosoportado de 3 unidades en la mandíbula posterior. La CBCT muestra 15 mm de altura ósea sobre el canal del nervio dentario inferior y 4 mm de anchura bucolingual. ¿Qué estrategia de aumento óseo es la más apropiada?",
+        "options": {
+          "A": "Elevación de seno lateral",
+          "B": "ROG horizontal con xenoinjerto + membrana reabsorbible",
+          "C": "Distracción osteogénica vertical",
+          "D": "No se necesita aumento — proceder con implantes de diámetro reducido"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Con 15 mm de altura ósea sobre el NDI (más que suficiente para implantes de 10 mm con margen de seguridad de 2 mm) pero solo 4 mm de anchura bucolingual (insuficiente para implantes estándar de 4 mm de diámetro que requieren 6 mm de anchura ósea), se necesita aumento horizontal. La ROG con xenoinjerto particulado y membrana de colágeno reabsorbible es la primera elección apropiada para la deficiencia horizontal moderada (necesitando 2-3 mm de anchura adicional). Este es un caso mandibular, por lo que la elevación de seno lateral es irrelevante.",
+          "wrong": {
+            "A": "La elevación de seno lateral es un procedimiento maxilar posterior para la deficiencia de altura vertical — completamente irrelevante para una deficiencia de anchura horizontal mandibular",
+            "C": "La distracción osteogénica vertical aborda la deficiencia de altura — no hay problema de altura aquí; el problema es solo la anchura horizontal",
+            "D": "Los implantes de diámetro reducido (3-3,5 mm) en 4 mm de anchura ósea son técnicamente posibles pero conllevan mayor riesgo de fractura y menor estabilidad a largo plazo — la ROG horizontal para conseguir una anchura adecuada es el mejor abordaje del estándar de cuidado"
+          },
+          "guideline": "ITI Consensus Statements (2023): Selección de estrategia de aumento — ROG horizontal para deficiencia de anchura con altura adecuada",
+          "trial": "Chiapasco M et al. Autogenous onlay bone grafts vs. distraction osteogenesis for vertically deficient ridges. Clin Oral Implants Res (2007): comparación de estrategias; ROG apropiada para deficiencia horizontal; distracción para vertical; la estrategia debe coincidir con las dimensiones del defecto",
+          "pearl": "Hacer coincidir la estrategia de aumento con el tipo de defecto: Deficiencia de anchura (Cawood IV) = ROG horizontal. Deficiencia de altura (Cawood V) = ROG vertical o distracción. Seno = solo deficiencia vertical maxilar. Identificar siempre qué dimensión es deficiente antes de seleccionar la técnica."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q7",
+        "stem": "¿Qué altura mínima de hueso crestal residual sobre el suelo del seno maxilar permite utilizar la técnica de elevación de seno crestal (transcrestal de Summers)?",
+        "options": {
+          "A": "1-2 mm",
+          "B": "4-5 mm",
+          "C": "8-10 mm",
+          "D": "Cualquier altura — la técnica crestal puede usarse independientemente del hueso residual"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La técnica de elevación de seno crestal (osteótomo de Summers) requiere un mínimo de 4-5 mm de altura ósea residual sobre el suelo del seno. Esta altura mínima es necesaria para proporcionar: (1) estabilidad mecánica inicial para la osteotomía del implante, (2) un 'émbolo' óseo adecuado que se desplaza hidráulica/mecánicamente para elevar la membrana de Schneiderian, y (3) protección contra la perforación de la membrana durante el abordaje crestal. Por debajo de 4 mm, la técnica conlleva un riesgo de perforación de membrana inaceptablemente alto y estabilidad primaria insuficiente para la colocación simultánea del implante; se requiere una elevación de seno mediante ventana lateral.",
+          "wrong": {
+            "A": "1-2 mm es insuficiente para cualquier técnica de elevación de seno sin un abordaje de ventana lateral — a esta altura ósea, ni la elevación de la membrana ni la estabilidad del implante son alcanzables mediante el abordaje crestal",
+            "C": "8-10 mm es suficiente para la colocación del implante sin ningún aumento de seno en la mayoría de los casos — no se requiere ninguna elevación",
+            "D": "La técnica crestal tiene un requisito mínimo de altura específico — no puede usarse independientemente de la altura ósea residual"
+          },
+          "guideline": "ITI Consensus Statements (2023): Selección de técnica de elevación de seno — técnica crestal mínimo 4-5 mm",
+          "trial": "Summers RB. The osteotome technique: part 3 — less invasive methods of elevating the sinus floor. Compendium (1994): se requiere altura residual mínima de 4 mm para la técnica crestal",
+          "pearl": "Decisión de aumento de seno: ≥8 mm = sin aumento. 4-8 mm = crestal (Summers). <4 mm = ventana lateral (Boyne/Tatum). El umbral de 4 mm es el mínimo de la técnica crestal — una pregunta estándar de examen."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q8",
+        "stem": "¿Qué área donante para la obtención de injerto óseo en bloque intraoral proporciona el mayor volumen de hueso córtico-esponjoso para el aumento de reborde?",
+        "options": {
+          "A": "Tuberosidad maxilar",
+          "B": "Sínfisis mandibular (mentón)",
+          "C": "Rama mandibular",
+          "D": "Cuerpo mandibular (cortical lateral)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La sínfisis mandibular (mentón) proporciona el mayor volumen de hueso córtico-esponjoso entre las áreas donantes intraorales — típicamente 5-10 mL, suficiente para 3-5 lugares implantarios. El injerto de mentón consiste en un bloque córtico-esponjoso con buena mezcla de propiedades osteoinductoras y osteoconductoras. La rama proporciona mayores cantidades de hueso predominantemente cortical pero con menor componente esponjoso. La tuberosidad proporciona principalmente hueso esponjoso con muy poco volumen.",
+          "wrong": {
+            "A": "La tuberosidad maxilar proporciona un pequeño volumen de hueso principalmente esponjoso, a menudo de baja calidad — insuficiente para injertos en bloque; se usa principalmente para injertos particulados pequeños",
+            "C": "La rama mandibular proporciona buen volumen pero principalmente hueso cortical; ligeramente menos volumen que el mentón en la mayoría de los pacientes; menos osteoinductora por menor componente esponjoso",
+            "D": "La obtención de cortical lateral del cuerpo mandibular se superpone con el abordaje de rama — predominantemente cortical"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Áreas donantes intraorales — sínfisis como fuente primaria para injertos en bloque intraorales de gran volumen",
+          "trial": "Misch CM. Comparison of intraoral donor sites for onlay grafting prior to implant placement. Int J Oral Maxillofac Implants (1997): la sínfisis proporciona 5-10 mL (mayor volumen intraoral); la rama proporciona 3-5 mL predominantemente cortical",
+          "pearl": "Volúmenes de áreas donantes intraorales: Tuberosidad = pequeño, esponjoso. Rama = moderado, cortical. Sínfisis = mayor, córtico-esponjoso. Para gran aumento (>5 mL), usar sínfisis o cresta ilíaca. Conocer la sínfisis como mayor fuente intraoral."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q9",
+        "stem": "¿Qué complicación de la elevación de seno lateral está relacionada con la arteria alveolar posterosuperior (AAPS) y cómo puede prevenirse?",
+        "options": {
+          "A": "Sinusitis postoperatoria — prevenida con profilaxis antibiótica dirigida a la distribución de la arteria",
+          "B": "Sangrado intraoperatorio por transección de la AAPS durante la creación de la ventana — prevenido mediante diseño de la ventana guiado por CBCT evitando la arteria",
+          "C": "Comunicación oroantral — prevenida preservando la AAPS para la vascularización tisular",
+          "D": "Fracaso del implante — prevenido colocando el implante a través del territorio de la AAPS"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La arteria alveolar posterosuperior (AAPS) discurre dentro de la pared lateral del seno en un trayecto intraóseo aproximadamente a 15-18 mm sobre la cresta alveolar. Cuando la ventana lateral se crea con fresa a través de esta zona, la AAPS puede transectarse, causando un sangrado intraoperatorio vivo. Prevención: identificación preoperatoria de la AAPS por CBCT (típicamente visible como un canal en la pared lateral del seno); diseñar la ventana inferior al trayecto de la AAPS cuando sea posible (el margen inferior de la ventana debe estar >5 mm sobre el suelo del seno, y el margen superior debe evitar el canal de la AAPS). Si se transecta: el cauterio bipolar o la hemostasia por presión suelen ser eficaces.",
+          "wrong": {
+            "A": "La sinusitis postoperatoria no está relacionada con la AAPS — resulta de la perforación de la membrana o la contaminación del injerto",
+            "C": "La comunicación oroantral resulta de la comunicación entre la cavidad oral y el seno maxilar — no relacionada con la AAPS",
+            "D": "La localización de la AAPS no determina el éxito de la colocación del implante"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Anatomía vascular de elevación de seno — identificación y protección de la AAPS",
+          "trial": "Solar P et al. The posterior superior alveolar artery: an anatomic study. J Oral Maxillofac Surg (1999): AAPS a 15-18 mm sobre la cresta en el 71% de los especímenes; CBCT identifica el trayecto en el 100%; diseñar la ventana para evitarla",
+          "pearl": "La AAPS discurre a 15-18 mm sobre la cresta alveolar en la pared lateral del seno. La CBCT preoperatoria identifica el canal. Diseñar la ventana del seno para permanecer INFERIOR a la AAPS (mantener el margen superior de la ventana <15 mm sobre la cresta cuando sea posible). Transección = sangrado; controlado con cauterio bipolar."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q10",
+        "stem": "¿Cuál es la principal ventaja del xenoinjerto (hidroxiapatita bovina) sobre el injerto óseo autógeno para el aumento del suelo del seno?",
+        "options": {
+          "A": "Propiedades osteoinductoras que superan al hueso autógeno",
+          "B": "Reabsorción lenta y predecible que proporciona estabilidad de volumen a largo plazo",
+          "C": "Capacidad de proporcionar células osteogénicas para la neoformación ósea",
+          "D": "Menor riesgo de infección por la química antibacteriana de la hidroxiapatita"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La principal ventaja del xenoinjerto (Bio-Oss) sobre el hueso autógeno para el injerto de seno es su lenta y predecible tasa de reabsorción. El hueso autógeno sufre una reabsorción significativa (pérdida de volumen del 30-50% durante 12-24 meses) a medida que el injerto se remodela; esto puede resultar en una reducción de la altura del suelo del seno disponible para los implantes si la colocación se retrasa. El xenoinjerto mantiene su volumen durante meses a años mientras es lentamente reemplazado por hueso del huésped, proporcionando un andamio estable. Los estudios de injertos de seno a largo plazo muestran un mantenimiento de volumen comparable o superior con xenoinjerto vs. hueso autógeno a los 12-24 meses.",
+          "wrong": {
+            "A": "El xenoinjerto NO tiene propiedades osteoinductoras — es solo osteoconductor; el hueso autógeno tiene propiedades osteoinductoras superiores (BMPs, células viables)",
+            "C": "Solo el hueso autógeno proporciona células osteogénicas — el xenoinjerto es completamente acelular",
+            "D": "El xenoinjerto no tiene propiedades antibacterianas; el riesgo de infección no está relacionado con la química de la hidroxiapatita"
+          },
+          "guideline": "ITI Consensus Statements (2023): Materiales de injerto de seno — xenoinjerto preferido para estabilidad de volumen",
+          "trial": "Toffler M. Osteotome-mediated sinus floor elevation: a clinical report. Int J Oral Maxillofac Implants (2004): el xenoinjerto mantiene mejor el volumen del injerto que el autoinjerto a los 12 meses; ampliamente usado como injerto primario o mixto para el aumento de seno",
+          "pearl": "Xenoinjerto para seno: reabsorción lenta = estabilidad de volumen. Autoinjerto para seno: incorporación rápida pero reabsorción rápida (pérdida del 30-50%). La mayoría de centros usan xenoinjerto solo o mezcla xenoinjerto + autoinjerto para el aumento de seno. Ventaja del xenoinjerto = volumen; ventaja del autoinjerto = biología."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q11",
+        "stem": "La dehiscencia de herida sobre una membrana de ROG es causada más frecuentemente por:",
+        "options": {
+          "A": "Respuesta inmune del paciente atacando la membrana de colágeno",
+          "B": "Diseño inadecuado del colgajo con cierre primario de la herida bajo tensión",
+          "C": "Sobreempaquetado del material de injerto óseo elevando la membrana",
+          "D": "Retirada precoz de suturas dentro de la primera semana"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La dehiscencia de herida sobre membranas de ROG es causada más frecuentemente por el cierre del colgajo mucoperióstico bajo tensión. Cuando el colgajo no está adecuadamente movilizado (incisión liberadora de periostio no realizada o insuficiente), el tejido se tracciona firmemente sobre el reborde aumentado y se abre posteriormente cuando ocurre la inflamación posquirúrgica. La prevención requiere una incisión liberadora de periostio exhaustiva en el colgajo vestibular (incisión horizontal a través del periostio en la base del colgajo para permitir el avance pasivo) para lograr un cierre absolutamente sin tensión.",
+          "wrong": {
+            "A": "La respuesta inmune a las membranas de colágeno es infrecuente — el colágeno es bien tolerado y las reacciones antigénicas son poco comunes",
+            "C": "El injerto correctamente adaptado con cobertura de membrana correcta no debería causar dehiscencia por sobreempaquetado — el injerto se coloca para rellenar el defecto, no para protruir; el sobreempaquetado es un error de técnica pero la tensión del cierre sigue siendo la causa principal",
+            "D": "La retirada precoz de suturas reduce el soporte de la herida pero es una causa contribuyente, no primaria; el cierre inicial adecuado de la herida previene la dehiscencia de forma más fiable que la duración de las suturas"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Manejo de herida en ROG — liberación perióstica y cierre sin tensión como prevención primaria",
+          "trial": "Buser D et al. GBR in implant dentistry — the Berne experience. J Oral Maxillofac Surg (1993): tasa de dehiscencia de herida reducida del 25% al 8% cuando la incisión liberadora de periostio se realizó rutinariamente",
+          "pearl": "El paso técnico más importante de la ROG = incisión liberadora de periostio = cierre sin tensión. Sin liberación perióstica = cierre bajo tensión = dehiscencia = exposición de membrana = infección = fracaso de la ROG. Esta es la clave de examen para las complicaciones de la ROG."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q12",
+        "stem": "Una membrana de colágeno reabsorbible se expone a las 3 semanas después de un aumento de reborde con ROG. El paciente mantiene una buena higiene oral y la membrana expuesta no muestra signos de infección purulenta. ¿Cuál es el manejo más apropiado?",
+        "options": {
+          "A": "Retirar inmediatamente la membrana y cerrar la herida — cualquier exposición contamina el injerto",
+          "B": "Manejo conservador con clorhexidina e higiene oral; monitorizar la resolución o señal de infección",
+          "C": "Prescribir antibióticos sistémicos y retirar la membrana a las 6 semanas independientemente",
+          "D": "Proceder con la colocación inmediata del implante para estabilizar el regenerado antes de una mayor exposición"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La exposición menor de una membrana de colágeno reabsorbible (a diferencia del ePTFE no reabsorbible) a menudo puede manejarse de forma conservadora cuando no hay infección purulenta y la higiene oral es buena. Las membranas reabsorbibles se toleran mejor con exposición menor que el ePTFE — pueden reabsorberse desde la superficie expuesta mientras siguen proporcionando cierta función barrera por debajo. El manejo es: enjuague bucal de clorhexidina al 0,12% diario, higiene oral meticulosa, monitorización en intervalos semanales. Si aparece pus, dolor o expansión significativa de la exposición, está indicado el desbridamiento quirúrgico y la retirada de la membrana. A menudo se salva parte de la regeneración ósea en estos casos.",
+          "wrong": {
+            "A": "La retirada inmediata de la membrana a las 3 semanas (antes de que se haya producido ninguna regeneración ósea) sacrificaría todo el resultado regenerativo — el manejo conservador debe intentarse primero para las membranas reabsorbibles",
+            "C": "La retirada rutinaria de la membrana a las 6 semanas independientemente del curso clínico no está basada en evidencia; la decisión debe basarse en los hallazgos clínicos",
+            "D": "La colocación inmediata del implante a las 3 semanas en un sitio de ROG parcialmente curado y expuesto conlleva un riesgo de fracaso muy alto — el hueso no se ha regenerado"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Manejo de exposición de ROG — conservador para membranas reabsorbibles sin infección",
+          "trial": "Simion M et al. Dehiscences and fenestrations around implants after GBR: a clinical study. Int J Periodont Rest Dent (1994): exposiciones de membrana de colágeno reabsorbible manejadas de forma conservadora salvaron el 70% de la regeneración ósea; las exposiciones de ePTFE requirieron retirada inmediata",
+          "pearl": "Membrana reabsorbible expuesta = manejo conservador (CHX + higiene) si no hay infección. Membrana no reabsorbible (ePTFE) expuesta = debe retirarse (las bacterias colonizan los poros del ePTFE irreversiblemente). Distinción clave para las decisiones de manejo."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C3-Q13",
+        "stem": "La preservación alveolar está especialmente indicada tras la extracción de un incisivo central superior porque:",
+        "options": {
+          "A": "Las raíces del incisivo central superior son más profundas que los dientes posteriores, creando alveolos más grandes",
+          "B": "La placa vestibular de los dientes anteriores del maxilar superior es típicamente <1 mm de grosor y reabsorbe rápidamente tras la extracción",
+          "C": "Las extracciones anteriores superiores requieren anestesia general, haciendo obligatoria la preservación alveolar concurrente",
+          "D": "La colocación de implantes anteriores solo requiere 2 mm de hueso, haciendo la preservación menos crítica"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La placa vestibular de los dientes anteriores del maxilar superior (especialmente incisivos centrales y laterales) es extremadamente delgada — típicamente <1 mm — y consiste casi enteramente en 'hueso fasciculado' (hueso que soporta directamente al diente). El hueso fasciculado reabsorbe rápidamente tras la extracción dentaria (en 4-8 semanas), causando un colapso significativo del contorno vestibular. Esta rápida reabsorción de la placa vestibular resulta en una concavidad o perfil vestibular cóncavo que es muy difícil de corregir secundariamente y compromete tanto la colocación del implante como los resultados estéticos. La preservación alveolar con xenoinjerto + membrana de colágeno es el estándar de cuidado en las extracciones anteriores del maxilar superior cuando se planifica la restauración implantosoportada futura.",
+          "wrong": {
+            "A": "La profundidad radicular no se correlaciona directamente con la necesidad de preservación alveolar — la profundidad de la raíz anterior no es la razón principal para la preservación",
+            "C": "La preservación alveolar se realiza bajo anestesia local como procedimiento habitual en consulta — no se requiere ni es estándar la anestesia general",
+            "D": "La colocación de implantes anteriores requiere como mínimo 5-6 mm de anchura ósea — la preservación inadecuada del hueso vestibular delgado hace esto imposible sin aumento secundario"
+          },
+          "guideline": "ITI Consensus Statements (2023): Indicaciones de preservación alveolar — placa vestibular delgada (<1 mm) como indicación principal",
+          "trial": "Nevins M et al. (2010); Covani U et al. J Periodontol (2004): placa vestibular delgada = reabsorción rápida = se requiere preservación",
+          "pearl": "La preservación alveolar anterior maxilar es ESTÁNDAR porque la placa vestibular <1 mm = reabsorción rápida del hueso fasciculado = colapso del contorno vestibular = malos resultados estéticos del implante. Siempre preservar los alveolos con placa vestibular delgada en la extracción cuando se planifica implante futuro."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q14",
+        "stem": "¿Qué característica de las membranas de ePTFE reforzadas con titanio las hace preferibles a las membranas de colágeno estándar para la regeneración ósea vertical?",
+        "options": {
+          "A": "Proporcionan factores de crecimiento osteoinductores para estimular la formación ósea",
+          "B": "Su estructura rígida de titanio mantiene el espacio vertical frente a la gravedad y la presión de los tejidos blandos durante la cicatrización",
+          "C": "Reabsorben más lentamente que el colágeno, permitiendo una función barrera más prolongada",
+          "D": "Son impermeables a las bacterias, previniendo la infección durante la cicatrización"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para la regeneración ósea vertical, la membrana barrera debe mantener un espacio tridimensional protegido frente a la gravedad y la presión del tejido blando suprayacente — que de otro modo colapsaría el espacio del regenerado. Las membranas de colágeno estándar, aunque adecuadas para la ROG horizontal, carecen de la rigidez necesaria para mantener el espacio vertical durante períodos de cicatrización de 6-9 meses. Las membranas de ePTFE reforzadas con titanio tienen un armazón de titanio embebido en el ePTFE que puede moldearse a la forma tridimensional deseada y mantiene esta forma durante toda la cicatrización, permitiendo la regeneración ósea vertical de 4-7 mm.",
+          "wrong": {
+            "A": "Ni el ePTFE ni las membranas reforzadas con titanio tienen propiedades osteoinductoras — su mecanismo es completamente de barrera/mantenimiento del espacio",
+            "C": "El ePTFE (no reabsorbible) no se reabsorbe en absoluto — requiere extracción quirúrgica tras la cicatrización; no es el perfil de reabsorción sino la rigidez lo que lo hace preferible para la regeneración vertical",
+            "D": "Los poros del ePTFE se colonizan fácilmente cuando se exponen a las bacterias orales — la exposición de la membrana es más grave que con el colágeno porque las bacterias se embeben en la microestructura del ePTFE"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): ROG vertical — membranas reforzadas con titanio para mantenimiento del espacio",
+          "trial": "Urban IA et al. Vertical ridge augmentation with tenting screws, GBR, and titanium-reinforced membrane. Clin Implant Dent Relat Res (2014): posible una ganancia vertical de 7 mm con membrana Ti-reforzada; las membranas de colágeno estándar logran solo 2-3 mm de ganancia vertical",
+          "pearl": "ROG vertical requiere membrana Ti-reforzada para mantenimiento del espacio. Colágeno = bueno para ROG horizontal (ganancia de 1-4 mm) pero colapsa verticalmente. ePTFE Ti-reforzado = mantiene forma 3D = logra ganancia vertical de 4-7 mm. Requiere retirada a los 6-9 meses."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q15",
+        "stem": "Una técnica de división de reborde (expansión alveolar) para un reborde estrecho requiere una anchura mínima de reborde residual de:",
+        "options": {
+          "A": "1 mm",
+          "B": "3 mm",
+          "C": "7 mm",
+          "D": "10 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La división de reborde (expansión alveolar) requiere un mínimo de aproximadamente 3 mm de anchura ósea bucolingual para proceder con seguridad. Por debajo de 3 mm, el reborde es demasiado estrecho para crear una osteotomía sagital controlada sin fracturar completamente la delgada placa vestibular. Con 3 mm, una división cuidadosa puede expandir el reborde a 5-6 mm (suficiente para un implante estándar) mediante la fractura en tallo verde controlada de la placa vestibular. Por debajo de 3 mm, el injerto en bloque por onlay o la ROG es el tratamiento apropiado en su lugar.",
+          "wrong": {
+            "A": "1 mm es insuficiente para cualquier técnica de división de reborde — la placa vestibular se fracturaría completamente, creando un fragmento suelto en lugar de una expansión controlada",
+            "C": "7 mm de anchura de reborde es suficiente para los implantes estándar sin ningún procedimiento de aumento — no se necesitaría ninguna división de reborde",
+            "D": "10 mm es más que hueso adecuado — no se necesita ninguna división de reborde; los implantes pueden colocarse directamente"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): División de reborde — requisito mínimo de anchura de 3 mm",
+          "trial": "Scipioni A et al. The edentulous ridge expansion technique: a five-year study. Int J Periodontics Restorative Dent (1994): anchura mínima de 3 mm para la expansión fiable del reborde; <3 mm = riesgo de fractura completa; >5 mm = no se necesita expansión",
+          "pearl": "Mínimo de división de reborde = 3 mm de anchura. <3 mm = demasiado delgado para división controlada = injerto onlay en su lugar. 3-5 mm = ideal para la expansión del reborde. >5-6 mm = no se necesita aumento para implantes estándar. Se realiza típicamente en el maxilar (hueso más esponjoso) de forma más fiable que en la mandíbula (la cortical densa se fractura en lugar de expandirse)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q16",
+        "stem": "Al obtener un injerto en bloque de mentón (sínfisis), ¿qué estructura debe identificarse y protegerse cuidadosamente para prevenir una complicación frecuente del área donante?",
+        "options": {
+          "A": "Foramen mentoniano y nervio mentoniano",
+          "B": "Frenillo del labio inferior",
+          "C": "Inserción del músculo milohioideo",
+          "D": "Vientre anterior del músculo digástrico"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "El foramen mentoniano y el nervio mentoniano son las estructuras primarias en riesgo durante la obtención del injerto óseo de sínfisis. El nervio mentoniano emerge por el foramen mentoniano entre los premolares inferiores y proporciona sensación al labio inferior y al mentón. El lugar de obtención debe planificarse cuidadosamente para evitar el foramen (límite lateral del injerto) y el asa anterior del nervio mentoniano (que se extiende 2-3 mm anterior al foramen). Además, los ápices de los dientes anteriores inferiores deben respetarse (límite superior). La disección subperióstica debe identificar claramente el foramen bilateralmente antes de cualquier trabajo con fresa.",
+          "wrong": {
+            "A": "Esta es la respuesta correcta",
+            "B": "El frenillo del labio inferior es una estructura de tejido blando en el vestíbulo — se retrae durante la incisión de acceso y no está en riesgo durante la obtención ósea en sí",
+            "C": "El milohioideo se inserta en la mandíbula inferior-lingual — no está en el campo de obtención cortical vestibular de sínfisis",
+            "D": "El digástrico anterior se inserta en la fosa digástrica en la superficie medial inferior de la sínfisis — no está en el trayecto estándar de obtención cortical vestibular"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Área donante de sínfisis — identificación del nervio mentoniano como paso obligatorio",
+          "trial": "Misch CM. Int J Oral Maxillofac Implants (1997): hipoestesia del nervio mentoniano en el 10-30% de los lugares donantes de sínfisis; la mayoría temporal; permanente en <5%; identificación bilateral del foramen obligatoria antes de la obtención",
+          "pearl": "Riesgos de la obtención del injerto de mentón = nervio mentoniano en el foramen (límite lateral) Y ápices radiculares (límite superior). Identificar ambos bilateralmente en la OPG antes de la cirugía. Mantener el límite lateral de la obtención ≥5 mm medial al foramen. Mantener el límite superior ≥5 mm por debajo de los ápices radiculares."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q17",
+        "stem": "¿Cuál es el patrón correcto de reabsorción alveolar maxilar tras la extracción de todos los dientes?",
+        "options": {
+          "A": "Centrífugo — el arco se hace relativamente más grande con el tiempo",
+          "B": "Centrípeto — el arco se hace relativamente más pequeño con el tiempo a medida que el arco reabsorbe hacia adentro y superiormente",
+          "C": "Predominantemente inferior — el arco desciende verticalmente sin cambio horizontal significativo",
+          "D": "Uniforme — reabsorción igual en todas las direcciones"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La reabsorción alveolar maxilar sigue un patrón centrípeto — el hueso reabsorbe hacia adentro (de vestibular a palatino) y superiormente, resultando en un arco maxilar progresivamente más pequeño con el tiempo. Esto contrasta con la mandíbula, que inicialmente reabsorbe centrifugamente (hacia afuera) y luego predominantemente de forma vertical. El patrón centrípeto maxilar significa que los pacientes maxilares edéntulos de larga evolución desarrollan un arco maxilar progresivamente retraído que puede parecer de clase III relativo al arco mandibular — incluso en pacientes que eran originalmente de clase I.",
+          "wrong": {
+            "A": "El patrón centrífugo (el arco se hace más grande) describe el patrón MANDIBULAR, no el maxilar",
+            "C": "La reabsorción puramente inferior no es el patrón primario — la reabsorción horizontal (vestibular) es a menudo el primer cambio significativo en el maxilar",
+            "D": "La reabsorción no es uniforme — sigue un patrón direccional (centrípeto en maxilar, centrífugo luego vertical en mandíbula)"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Patrones de reabsorción del reborde — diferencias direccionales maxilar vs. mandíbula",
+          "trial": "Cawood JI, Howell RA. Int J Oral Maxillofac Surg (1988): cuantificación de los patrones de reabsorción; patrón centrípeto maxilar documentado; centrífugo luego vertical mandibular",
+          "pearl": "Maxilar = centrípeto (se encoge hacia adentro/arriba). Mandíbula = centrífugo (se expande hacia afuera primero) luego vertical. Resultado a largo plazo: relación mandibular invertida (clase III aparente) en pacientes completamente edéntulos. Clínicamente relevante para el diseño de prótesis completa y la planificación de implantes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q18",
+        "stem": "Boyne y James (1980) describieron por primera vez qué técnica quirúrgica que sigue siendo la base del aumento moderno del lugar implantario en el maxilar posterior?",
+        "options": {
+          "A": "Regeneración ósea guiada con membranas de ePTFE",
+          "B": "Elevación del suelo del seno mediante ventana lateral con injerto óseo autógeno",
+          "C": "Distracción osteogénica del reborde alveolar",
+          "D": "Elevación de seno crestal con técnica de osteótomo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Boyne y James (1980) publicaron la descripción original del injerto del suelo del seno mediante ventana lateral usando médula ósea autógena, estableciendo la técnica fundamental para el aumento del seno maxilar posterior. Tatum modificó y popularizó posteriormente la técnica específicamente para la preparación del lugar implantario. La elevación de seno mediante ventana lateral (con materiales autógenos o de xenoinjerto) sigue siendo la técnica estándar para el aumento del lugar implantario maxilar posterior cuando la altura ósea residual es <4 mm.",
+          "wrong": {
+            "A": "La ROG con membranas de ePTFE fue descrita por Dahlin et al. (1988) — no por Boyne y James",
+            "C": "La distracción osteogénica para el aumento alveolar surgió en la década de 1990 tras la aplicación craneofacial de McCarthy en 1992 — no descrita por Boyne y James",
+            "D": "La elevación de seno crestal (técnica de osteótomo) fue descrita por Summers (1994) — 14 años después de Boyne y James"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Historia de la elevación de seno — Boyne y James 1980 como publicación fundacional",
+          "trial": "Boyne PJ, James RA. Grafting of the maxillary sinus floor with autogenous marrow and bone. J Oral Surg (1980): técnica original de elevación de seno mediante ventana lateral; médula autógena; estableció el abordaje fundamental usado hoy",
+          "pearl": "Boyne y James 1980 = descripción original de la elevación de seno mediante ventana lateral. Tatum la modificó para implantes. Summers 1994 = técnica crestal. Dahlin 1988 = ROG. McCarthy 1992 = distracción osteogénica craneofacial. Conocer estas publicaciones hito y sus contribuciones."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q19",
+        "stem": "La colocación inmediata del implante en el momento de la extracción dentaria está contraindicada en cuál de los siguientes escenarios clínicos?",
+        "options": {
+          "A": "Extracción de incisivo central superior en no fumador con placa vestibular intacta en CBCT",
+          "B": "Extracción de primer premolar superior con absceso periapical residual",
+          "C": "Extracción de segundo molar inferior en paciente con diabetes bien controlada (HbA1c 6,8%)",
+          "D": "Extracción de incisivo lateral superior tras fractura dentaria sin infección"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La infección activa (absceso periapical) en el lugar de extracción es una contraindicación para la colocación inmediata del implante. Colocar un implante en un alveolo infectado introduce el implante en un entorno bacterialmente contaminado, aumentando dramáticamente el riesgo de fracaso precoz del implante por infección periimplantaria. La secuencia apropiada para un lugar infectado es: extracción con desbridamiento exhaustivo, tratamiento antibiótico, preservación alveolar o cicatrización sin injerto dependiendo de la gravedad de la infección, y luego colocación del implante tras la cicatrización completa (mínimo 3 meses).",
+          "wrong": {
+            "A": "El incisivo central superior con placa vestibular intacta + no fumador es un candidato ideal para la colocación inmediata del implante — la indicación estándar",
+            "C": "La diabetes bien controlada (HbA1c 6,8%) no es una contraindicación para la colocación inmediata del implante — HbA1c <7% está dentro del rango aceptable para la cicatrización normal",
+            "D": "La fractura dentaria sin infección es una buena indicación para la colocación inmediata del implante cuando la anatomía ósea está intacta"
+          },
+          "guideline": "ITI Consensus Statements (2023): Contraindicaciones para la colocación inmediata del implante — infección activa en el lugar de extracción",
+          "trial": "Esposito M et al. Timing of implant placement after tooth extraction: immediate, immediate-delayed or delayed implants? Cochrane Database Syst Rev (2010): los lugares infectados requieren colocación diferida; la colocación inmediata en infección se asocia con una tasa de fracaso 3 veces mayor",
+          "pearl": "Contraindicaciones del implante inmediato: (1) Infección aguda en el lugar, (2) Hueso insuficiente para estabilidad primaria apical, (3) Imposibilidad de cierre sin tensión, (4) Contraindicación sistémica. Absceso periapical activo = diferir mínimo 3 meses tras la extracción y resolución de la infección."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q20",
+        "stem": "¿Qué complicación mayor de la obtención de injerto óseo de cresta ilíaca ocurre en aproximadamente el 10-20% de los pacientes y es causada por lesión por tracción del nervio cutáneo femoral lateral?",
+        "options": {
+          "A": "Déficit motor del nervio femoral causando debilidad del cuádriceps",
+          "B": "Meralgia parestésica — hipoestesia o parestesia de la cara lateral del muslo",
+          "C": "Lesión del nervio ciático causando pie caído",
+          "D": "Lesión del nervio obturador causando debilidad de los aductores de cadera"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La meralgia parestésica (hipoestesia, parestesia o dolor urente de la cara lateral y anterolateral del muslo) es causada por la lesión del nervio cutáneo femoral lateral (NCFL) durante la obtención de la cresta ilíaca anterior. El NCFL cruza la cresta ilíaca anterior a 1-2 cm medial a la EIAS y es vulnerable a la tracción, el estiramiento o la lesión quirúrgica directa durante la obtención. La incidencia es aproximadamente del 10-20%, siendo la mayoría de los casos temporales (resuelven en 3-6 meses) y aproximadamente el 2-5% permanentes. Prevención: permanecer posterior a la EIAS para la ventana de obtención; identificar y proteger el NCFL cuando sea visible.",
+          "wrong": {
+            "A": "La lesión del nervio femoral que causa debilidad del cuádriceps es infrecuente en la obtención de cresta ilíaca anterior — el nervio femoral discurre más medial y profundamente; la lesión ocurre principalmente en obtenciones muy extensas o con presión profunda del retractor",
+            "C": "La lesión del nervio ciático de la obtención de cresta ilíaca anterior es extremadamente infrecuente — el ciático emerge por la escotadura ciática mayor posteriormente y no está en el campo de obtención",
+            "D": "La lesión del nervio obturador también es infrecuente en la cresta ilíaca anterior — discurre cerca del foramen obturador, no de la cresta ilíaca anterior"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Complicaciones del área donante de cresta ilíaca — lesión del NCFL y meralgia parestésica",
+          "trial": "Silber JS et al. Donor site morbidity after anterior iliac crest bone harvest for single-level anterior cervical discectomy. Spine (2003): lesión del NCFL en el 15% de los casos de obtención ilíaca anterior; la mayoría temporal; prevención mediante posicionamiento posterior de la ventana de obtención relativo a la EIAS",
+          "pearl": "Complicaciones de la obtención de cresta ilíaca: Hematoma (8-15%), Meralgia parestésica NCFL (10-20%), alteración de la marcha (5%), cicatriz. Complicación neurológica más frecuente = lesión del NCFL = parestesia del muslo lateral (meralgia parestésica). Prevención = evitar la obtención a menos de 2 cm de la EIAS."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

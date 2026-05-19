@@ -1,7 +1,7 @@
 {
   "id": "G4",
-  "title": "Redacción Científica y Publicación en CMF",
-  "subtitle": "Bloque G — Estructura IMRAD, Revisión por Pares, Autoría, Integridad en la Investigación",
+  "title": "Redacción Científica y Publicación en OMFS",
+  "subtitle": "Bloque G — Estructura IMRAD, Revisión por Pares, Autoría e Integridad de la Investigación",
   "block": "G",
   "block_name": "Investigación y Cirugía Académica",
   "level": "R2-5",
@@ -14,13 +14,13 @@
     "Moher D et al. CONSORT 2010 Statement (BMJ 2010; 340: c332)"
   ],
   "learning_objectives": [
-    "Estructurar un manuscrito CMF según el formato IMRAD con los requisitos de contenido específicos de cada sección",
-    "Aplicar los criterios de autoría del ICMJE para determinar la condición legítima de autor y colaborador",
-    "Navegar por el proceso de revisión por pares desde la presentación hasta la respuesta a las revisiones",
-    "Seleccionar una revista adecuada considerando el factor de impacto, el alcance y el acceso abierto",
-    "Identificar y evitar la conducta indebida en investigación, incluyendo fabricación, falsificación, plagio y publicación duplicada",
-    "Redactar un resumen estructurado eficaz para un ECA quirúrgico o un estudio de cohortes",
-    "Aplicar las guías de reporte apropiadas (CONSORT, STROBE, PRISMA, CARE) en la preparación del manuscrito"
+    "Estructurar un manuscrito de OMFS según el formato IMRAD con los requisitos de contenido específicos de cada sección",
+    "Aplicar los criterios de autoría del ICMJE para determinar el estatus legítimo de autor y colaborador",
+    "Navegar el proceso de revisión por pares desde la presentación hasta la respuesta a revisiones",
+    "Seleccionar una revista apropiada teniendo en cuenta el factor de impacto, el alcance y las consideraciones de acceso abierto",
+    "Identificar y evitar la mala conducta en investigación, incluida la fabricación, la falsificación, el plagio y la publicación duplicada",
+    "Redactar un resumen estructurado efectivo para un ECA quirúrgico o un estudio de cohortes",
+    "Aplicar las guías de reporte apropiadas (CONSORT, STROBE, PRISMA, CARE) a la preparación del manuscrito"
   ],
   "sections": [
     {
@@ -29,35 +29,35 @@
       "blocks": [
         {
           "type": "text",
-          "content": "La **estructura IMRAD** (Introducción, Métodos, Resultados, Y [and en inglés] Discusión) es el marco internacionalmente aceptado para comunicar la investigación original en revistas biomédicas, y fue formalmente respaldado por el ICMJE en sus Requisitos Uniformes para Manuscritos (actualmente las Recomendaciones ICMJE). Esta estructura surgió históricamente a mediados del siglo XX, a medida que la publicación científica maduraba, y refleja la secuencia lógica del razonamiento científico: por qué se realizó el estudio, cómo se llevó a cabo, qué se encontró y qué significa. Cada sección tiene un propósito específico, y desviarse de esta estructura —colocando elementos de discusión en los resultados, o detalles de los métodos en la introducción— es un motivo habitual de rechazo del manuscrito.\n\nLa **Introducción** cumple dos funciones: establecer el contexto y plantear la pregunta de investigación. Debe redactarse en forma de embudo, avanzando desde el contexto general hasta el vacío específico de conocimiento que el estudio aborda. El último párrafo de la Introducción debe enunciar el objetivo, los objetivos específicos y —en los ECA— la hipótesis primaria. Un error habitual es redactar una revisión bibliográfica exhaustiva en la Introducción: esto es inadecuado. La Introducción debe ser concisa (habitualmente 3–5 párrafos), reservando la síntesis bibliográfica extensa para la Discusión. El lector debe terminar la Introducción comprendiendo exactamente qué se desconocía y por qué fue necesario el estudio.\n\nLa sección de **Métodos** es la más exigente técnicamente y debe redactarse con suficiente detalle como para que un investigador independiente pudiera replicar el estudio. Para los estudios clínicos en CMF esto incluye: diseño del estudio con los elementos PICO, referencia de la aprobación ética (institución, número de aprobación, fecha), número de registro del ensayo (para los ECA), criterios de elegibilidad de los participantes (inclusión y exclusión), período de reclutamiento y ámbito, descripción de la intervención (técnica quirúrgica, especificaciones del implante, protocolo de seguimiento), resultados (primarios y secundarios, con instrumentos de medición y puntos temporales), fundamento del cálculo del tamaño muestral y plan de análisis estadístico. La sección de Métodos se redacta en tiempo pasado, ya que describe lo que se hizo."
+          "content": "La **estructura IMRAD** (Introducción, Métodos, Resultados Y Discusión) es el marco aceptado internacionalmente para el reporte de investigación original en revistas biomédicas y fue formalmente avalado por el ICMJE en sus Requisitos Uniformes para Manuscritos (ahora Recomendaciones del ICMJE). Esta estructura surgió históricamente a mediados del siglo XX a medida que la publicación científica maduraba, y refleja la secuencia lógica del razonamiento científico: por qué se realizó el estudio, cómo se realizó, qué se encontró y qué significa. Cada sección tiene un propósito específico, y desviarse de esta estructura — colocar elementos de discusión en los resultados o detalles metodológicos en la introducción — es una razón habitual de rechazo del manuscrito.\n\nLa **Introducción** tiene dos funciones: establecer el contexto y formular la pregunta de investigación. Debe redactarse como un embudo, pasando de un contexto amplio a la brecha específica en el conocimiento que el estudio aborda. El último párrafo de la Introducción debe declarar el objetivo del estudio, los objetivos y (para los ECA) la hipótesis primaria. Un error frecuente es redactar una revisión bibliográfica exhaustiva en la Introducción; esto es inapropiado — la Introducción debe ser concisa (típicamente 3–5 párrafos), reservando la síntesis extensa de la literatura para la Discusión. Al terminar la Introducción, el lector debe entender exactamente qué era desconocido y por qué era necesario el estudio.\n\nLa sección de **Métodos** es la más exigente desde el punto de vista técnico y debe redactarse con suficiente detalle para que un investigador independiente pudiera replicar el estudio. Para los estudios clínicos en OMFS esto significa: diseño del estudio con elementos PICO, referencia de aprobación ética (institución, número de aprobación, fecha), número de registro del ensayo (para ECA), criterios de elegibilidad de los participantes (inclusión y exclusión), período de reclutamiento y entorno, descripción de la intervención (técnica quirúrgica, especificaciones del implante, protocolo de seguimiento), desenlaces (primarios y secundarios, con instrumentos de medida y puntos temporales), justificación del cálculo del tamaño muestral y plan de análisis estadístico. La sección de Métodos se redacta en tiempo pasado, ya que describe lo que se hizo."
         },
         {
           "type": "table",
-          "title": "Requisitos de Contenido por Sección IMRAD",
+          "title": "Requisitos de Contenido de la Sección IMRAD",
           "headers": ["Sección", "Contenido esencial", "Errores frecuentes", "Tiempo verbal"],
           "rows": [
-            ["Introducción", "Contexto, vacío de conocimiento, objetivo/hipótesis del estudio", "Revisión bibliográfica en lugar de análisis del vacío; objetivo no enunciado claramente", "Presente"],
-            ["Métodos", "Diseño, ética, participantes, intervenciones, resultados, estadística", "Detalle insuficiente para la replicación; ausencia de referencia de aprobación ética", "Pasado"],
-            ["Resultados", "Datos correspondientes a todos los métodos; tablas/figuras con narrativa textual", "Interpretación en los resultados; datos faltantes para los resultados declarados", "Pasado"],
-            ["Discusión", "Interpretar resultados frente a la literatura; limitaciones; conclusiones", "Repetir los resultados; exceso de afirmaciones; ausencia de párrafo de limitaciones", "Mezcla presente/pasado"],
-            ["Resumen", "Resumen estructurado ≤250–300 palabras; todos los resultados clave con valores", "Conclusiones vagas; resultados que no coinciden con el artículo; omisión de valores p", "Pasado (métodos/resultados)"]
+            ["Introducción", "Contexto, brecha de conocimiento, objetivo/hipótesis del estudio", "Revisión bibliográfica en lugar de análisis de brecha; objetivo no declarado claramente", "Presente"],
+            ["Métodos", "Diseño, ética, participantes, intervenciones, desenlaces, estadística", "Detalle insuficiente para la replicación; referencia de aprobación ética ausente", "Pasado"],
+            ["Resultados", "Datos correspondientes a todos los métodos; tablas/figuras con narrativa textual", "Interpretación en resultados; datos faltantes para todos los desenlaces reportados", "Pasado"],
+            ["Discusión", "Interpretar resultados vs literatura; limitaciones; conclusiones", "Repetir resultados; exagerar afirmaciones; ausencia de párrafo de limitaciones", "Mezcla presente/pasado"],
+            ["Resumen", "Síntesis estructurada ≤250–300 palabras; todos los resultados clave con valores", "Conclusiones vagas; resultados que no coinciden con el artículo; omitir valores p", "Pasado (métodos/resultados)"]
           ]
         },
         {
           "type": "callout",
           "variant": "pearl",
-          "title": "Perla de Examen — Convención de Tiempos Verbales en IMRAD",
-          "content": "Los Métodos y los Resultados se redactan en tiempo pasado (lo que hizo y encontró). La Introducción y la Discusión utilizan el tiempo presente para hechos establecidos y una mezcla de presente/pasado para la interpretación. El Resumen reproduce los tiempos de las secciones que resume. Los errores en los tiempos verbales son un signo de inexperiencia y atraen las críticas de los revisores."
+          "title": "Perla para el Examen — Convención de Tiempo Verbal en IMRAD",
+          "content": "Métodos y Resultados se redactan en tiempo pasado (lo que se hizo y encontró). Introducción y Discusión usan tiempo presente para los hechos establecidos y mezcla presente/pasado para la interpretación. El resumen refleja los tiempos verbales de las secciones que resume. Los errores en el tiempo verbal son un indicador de inexperiencia y atraen críticas de los revisores."
         },
         {
           "type": "text",
-          "content": "La sección de **Resultados** presenta los hallazgos sin interpretación. Todos los resultados declarados en los Métodos deben aparecer en los Resultados: la notificación selectiva es una forma de conducta indebida en investigación y una fuente importante de sesgo en la literatura. Los Resultados deben comenzar con una descripción del flujo de participantes (en los ECA, este es el diagrama de flujo CONSORT) y una tabla de características basales, para a continuación presentar los resultados primarios y secundarios en el orden indicado en los Métodos. Los resultados estadísticos deben incluir estimaciones puntuales con medidas de incertidumbre (se prefieren los intervalos de confianza a los valores p solos), tamaños del efecto y los resultados de todas las pruebas estadísticas preespecificadas. Las figuras y tablas deben ser autoexplicativas y no redundantes: no repita en el texto exactamente lo que se muestra en una tabla.\n\nLa **Discusión** debe seguir la estructura de «mínimo tres párrafos»: (1) un breve resumen de los hallazgos principales en el contexto de la pregunta de investigación, (2) comparación con la literatura existente —concordando, discrepando y explicando las discrepancias—, y (3) limitaciones y su impacto en la interpretación, seguidas de conclusiones e implicaciones para la práctica o la investigación futura. La Discusión no debe introducir datos nuevos. Un párrafo o sección de **Conclusiones** independiente indica lo que puede concluirse de este estudio y qué sigue siendo incierto: afirmar más de lo que los datos apoyan es un error crítico que los revisores y editores comprueban específicamente."
+          "content": "La sección de **Resultados** presenta los hallazgos sin interpretación. Todos los desenlaces declarados en los Métodos deben aparecer en los Resultados — el reporte selectivo es una forma de mala conducta en investigación y una fuente importante de sesgo en la literatura. Los Resultados deben comenzar con una descripción del flujo de participantes (para los ECA, este es el diagrama de flujo CONSORT) y una tabla de características basales, y luego proceder por los desenlaces primarios y secundarios en el orden indicado en los Métodos. Los resultados estadísticos deben incluir estimaciones puntuales con medidas de incertidumbre (se prefieren los intervalos de confianza a los valores p solos), tamaños del efecto y los resultados de todas las pruebas estadísticas preespecificadas. Las figuras y las tablas deben ser autoexplicativas y no redundantes — no repitas en el texto exactamente lo que se muestra en una tabla.\n\nLa **Discusión** debe seguir la estructura de 'mínimo tres párrafos': (1) un breve resumen de los hallazgos principales en el contexto de la pregunta de investigación, (2) comparación con la literatura existente — coincidiendo, discrepando y explicando las discrepancias, y (3) limitaciones y su impacto en la interpretación, seguido de conclusiones e implicaciones para la práctica o la investigación futura. La Discusión no debe introducir datos nuevos. Un párrafo o sección de **Conclusiones** separado indica qué puede concluirse de este estudio y qué sigue siendo incierto — exagerar más allá de lo que los datos respaldan es un error crítico que los revisores y los editores comprueban específicamente."
         },
         {
           "type": "callout",
           "variant": "warning",
-          "title": "Error Frecuente — Interpretación Errónea del Valor p",
-          "content": "Un valor p de 0,05 significa que existe un 5% de probabilidad de observar resultados tan extremos como estos si la hipótesis nula es verdadera — NO significa una probabilidad del 95% de que la hipótesis sea correcta. Notificar únicamente valores p sin tamaños del efecto e intervalos de confianza es inadecuado. La declaración de la Asociación Estadística Americana de 2019 recomienda abandonar el término «significación estadística» en favor de notificar estimaciones completas con incertidumbre. Las revistas CMF exigen cada vez más tamaños del efecto e IC."
+          "title": "Error Frecuente — Malinterpretación del Valor p",
+          "content": "Un valor p de 0,05 significa que hay un 5% de probabilidad de observar resultados tan extremos como estos si la hipótesis nula es verdadera — NO significa una probabilidad del 95% de que la hipótesis sea correcta. Reportar solo valores p sin tamaños del efecto e intervalos de confianza es inadecuado. La declaración de la Asociación Estadística Americana de 2019 recomienda abandonar el término 'significación estadística' en favor de reportar estimaciones completas con incertidumbre. Las revistas de OMFS exigen cada vez más tamaños del efecto e IC."
         }
       ]
     },
@@ -67,52 +67,52 @@
       "blocks": [
         {
           "type": "text",
-          "content": "El resumen tiene una importancia desproporcionada: se lee con mucha mayor frecuencia que el artículo completo, determina si un lector descarga el artículo y es lo que aparece en PubMed y Scopus. La mayoría de las revistas quirúrgicas requieren un **resumen estructurado** con encabezados predefinidos; el formato más habitual para estudios clínicos incluye: Objetivos/Propósito, Diseño (tipo de estudio), Ámbito, Participantes (criterios de elegibilidad, n), Intervenciones, Medidas de resultado principales, Resultados (con valores específicos, intervalos de confianza, valores p) y Conclusiones. El límite de palabras es habitualmente de 250–300 palabras para los resúmenes estructurados y de 150–200 para los no estructurados.\n\nPara los **ensayos clínicos aleatorizados**, el resumen estructurado debe seguir la lista de verificación CONSORT para Resúmenes (Hopewell et al., Lancet 2008), que requiere: diseño del ensayo, participantes con criterios de elegibilidad, intervenciones, resultado primario con resultados, daños, conclusiones, número de registro del ensayo y financiación. Muchas revistas lo explicitan en sus Instrucciones para Autores. Un fallo habitual es un resumen cuyas conclusiones son más positivas de lo que los datos apoyan, o en el que se omiten los resultados numéricos clave: ambas situaciones son señales de alarma para los revisores y constituyen una forma de notificación engañosa.\n\nPara las **revisiones sistemáticas y los metaanálisis**, se aplica la lista de verificación PRISMA para Resúmenes: identificación como revisión sistemática, formato estructurado, bases de datos consultadas, criterios de elegibilidad, número de estudios incluidos, resultados clave del metaanálisis y limitaciones. El resumen debe incluir el número de registro (PROSPERO para las revisiones sistemáticas de salud)."
+          "content": "El resumen tiene una importancia desproporcionada — se lee con mucha más frecuencia que el artículo completo, determina si un lector descarga el artículo y es lo que aparece en PubMed y Scopus. La mayoría de las revistas quirúrgicas exigen un **resumen estructurado** con encabezados predefinidos; el formato más habitual para estudios clínicos incluye: Objetivos/Propósito, Diseño (tipo de estudio), Entorno, Participantes (criterios de elegibilidad, n), Intervenciones, Medidas de desenlace principales, Resultados (con valores específicos, intervalos de confianza, valores p) y Conclusiones. El límite de palabras es típicamente de 250–300 para los resúmenes estructurados y de 150–200 para los no estructurados.\n\nPara los **ensayos controlados aleatorizados**, el resumen estructurado debe seguir el listado de verificación CONSORT para Resúmenes (Hopewell et al., Lancet 2008), que requiere: diseño del ensayo, participantes con criterios de elegibilidad, intervenciones, desenlace primario con resultados, daños, conclusiones, número de registro del ensayo y financiación. Muchas revistas lo explicitan en sus Instrucciones para Autores. Un error frecuente es un resumen cuyas conclusiones son más positivas de lo que los datos respaldan, o en el que se omiten los resultados numéricos clave — ambos son señales de alarma para los revisores y constituyen una forma de reporte engañoso.\n\nPara las **revisiones sistemáticas y metaanálisis**, se aplica el listado de verificación PRISMA para Resúmenes: identificación como revisión sistemática, formato estructurado, bases de datos buscadas, criterios de elegibilidad, número de estudios incluidos, resultados clave del metaanálisis y limitaciones. El resumen debe incluir el número de registro (PROSPERO para revisiones sistemáticas de salud)."
         },
         {
           "type": "callout",
           "variant": "clinical",
           "title": "Contexto Clínico — El Resumen como Documento Independiente",
-          "content": "El resumen debe ser interpretable sin leer el artículo completo. En los resúmenes de congresos —que suelen ser la base de las presentaciones orales y se publican en números suplementarios— el resumen es la comunicación científica completa. Los resúmenes para los congresos anuales de la EACMFS, BAOMS, AAOMS y SECOM tienen habitualmente un límite de 250 palabras y se evalúan en función de la claridad IMRAD, el rigor estadístico y la relevancia clínica."
+          "content": "El resumen debe ser interpretable sin leer el artículo completo. En los resúmenes de congresos — que frecuentemente son la base de las presentaciones orales y se publican en números suplementarios — el resumen es la comunicación científica completa. Los resúmenes para los congresos anuales de EACMFS, BAOMS, AAOMS y SECOM tienen típicamente un máximo de 250 palabras y se juzgan por la claridad del IMRAD, el rigor estadístico y la relevancia clínica."
         },
         {
           "type": "table",
           "title": "Formatos de Resumen por Tipo de Estudio",
-          "headers": ["Tipo de estudio", "Formato preferido", "Elementos requeridos", "Guía de reporte"],
+          "headers": ["Tipo de estudio", "Formato preferido", "Elementos obligatorios", "Guía de reporte"],
           "rows": [
-            ["ECA", "Estructurado (7–8 encabezados)", "Diseño del ensayo, intervenciones, resultado primario con IC, daños, número de registro", "CONSORT para Resúmenes (Hopewell 2008)"],
-            ["Cohortes/casos y controles", "Estructurado (6 encabezados)", "Diseño, ámbito, participantes, exposiciones, resultados con OR/HR, limitaciones", "Declaración STROBE"],
-            ["Revisión sistemática/MA", "Estructurado (7 encabezados)", "Bases de datos, elegibilidad, n incluidos, estimación combinada clave, número PROSPERO", "PRISMA para Resúmenes"],
-            ["Caso clínico", "No estructurado o semiestructurado", "Datos del paciente, motivo de consulta, intervenciones, resultado, punto de aprendizaje", "Directrices CARE"],
-            ["Precisión diagnóstica", "Estructurado (6 encabezados)", "Prueba índice, estándar de referencia, sensibilidad/especificidad con IC, prevalencia", "STARD 2015"]
+            ["ECA", "Estructurado (7–8 epígrafes)", "Diseño del ensayo, intervenciones, desenlace primario con IC, daños, número de registro", "CONSORT para Resúmenes (Hopewell 2008)"],
+            ["Cohorte/caso-control", "Estructurado (6 epígrafes)", "Diseño, entorno, participantes, exposiciones, desenlaces con OR/HR, limitaciones", "Declaración STROBE"],
+            ["Revisión sistemática/MA", "Estructurado (7 epígrafes)", "Bases de datos, elegibilidad, n incluidos, estimación agrupada clave, número PROSPERO", "PRISMA para Resúmenes"],
+            ["Informe de caso", "No estructurado o semiestructurado", "Datos demográficos del paciente, motivo de consulta, intervenciones, resultado, punto de aprendizaje", "Guías CARE"],
+            ["Precisión diagnóstica", "Estructurado (6 epígrafes)", "Prueba índice, estándar de referencia, sensibilidad/especificidad con IC, prevalencia", "STARD 2015"]
           ]
         }
       ]
     },
     {
       "id": "G4-S3",
-      "title": "Autoría: Criterios ICMJE y Contribución",
+      "title": "Autoría: Criterios del ICMJE y Contribución",
       "blocks": [
         {
           "type": "text",
-          "content": "La autoría conlleva reconocimiento y responsabilidad. Las **Recomendaciones del ICMJE (2024)** definen la autoría mediante cuatro criterios, TODOS los cuales deben cumplirse para que una persona pueda ser considerada autora: (1) contribuciones sustanciales a la concepción o el diseño, O a la adquisición, el análisis o la interpretación de los datos; (2) redacción del manuscrito O revisión crítica de contenido intelectual importante; (3) aprobación final de la versión que será publicada; y (4) acuerdo para ser responsable de todos los aspectos del trabajo. Una persona que cumple solo algunos criterios debe ser agradecida en los Agradecimientos, no incluida como autora.\n\nLa **autoría fantasma** —cuando una persona que cumple los criterios de autoría no figura como autora— y la **autoría honoraria** (autoría por cortesía) —cuando una persona figura como autora sin cumplir los criterios— son ambas formas de conducta indebida en investigación. La autoría honoraria es especialmente habitual en la cirugía académica, donde los jefes de departamento o tutores pueden añadirse por cortesía. El jefe de un departamento no tiene derecho automático a la autoría por razón de su cargo. Algunas revistas exigen ahora que los autores especifiquen sus contribuciones individuales mediante la **taxonomía CRediT** (Contributor Roles Taxonomy), que tiene 14 roles, entre ellos Conceptualización, Metodología, Investigación, Redacción (borrador original), Redacción (revisión y edición), Supervisión y Obtención de financiación.\n\nEl **orden de los autores** tiene significado en la literatura biomédica. El primer autor es habitualmente la persona que realizó la mayor parte del trabajo y redactó el borrador principal. El último autor (senior) es convencionalmente el investigador principal del laboratorio o el supervisor clínico que proporcionó la supervisión, la financiación y la orientación intelectual. Los autores intermedios se enumeran en orden decreciente de contribución, aunque las convenciones varían. En CMF, donde la mayoría de los estudios se realizan en equipos clínicos, acordar el orden de los autores en la fase de planificación del estudio previene disputas en el momento de la presentación."
+          "content": "La autoría confiere crédito y responsabilidad. Las **Recomendaciones del ICMJE (2024)** definen la autoría mediante cuatro criterios, que DEBEN CUMPLIRSE TODOS para que una persona sea autor: (1) contribuciones sustanciales a la concepción o diseño, O a la adquisición, análisis o interpretación de los datos; (2) redacción del manuscrito O revisión crítica para contenido intelectual importante; (3) aprobación final de la versión que se publicará; y (4) acuerdo para ser responsable de todos los aspectos del trabajo. Las personas que solo cumplen algunos criterios deben ser reconocidas, no listadas como autores.\n\nLa **autoría fantasma** — donde una persona que cumple los criterios de autoría no se incluye — y la **autoría de regalo** (autoría honoraria) — donde se incluye a alguien sin cumplir los criterios — son ambas formas de mala conducta en investigación. La autoría de regalo es particularmente frecuente en la cirugía académica, donde los jefes de departamento o supervisores pueden añadirse por cortesía. El jefe de un departamento no califica automáticamente para la autoría simplemente en virtud de su cargo. Algunas revistas ahora exigen que los autores especifiquen sus contribuciones individuales utilizando la **taxonomía CRediT** (Contributor Roles Taxonomy), que tiene 14 roles, incluidos Conceptualización, Metodología, Investigación, Redacción (borrador original), Redacción (revisión y edición), Supervisión y Adquisición de financiación.\n\nEl **orden de los autores** tiene significado en la literatura biomédica. El primer autor es típicamente la persona que realizó la mayor parte del trabajo y redactó el borrador principal. El último autor (sénior) es convencionalmente el IP del laboratorio o el supervisor clínico que proporcionó supervisión, financiación y dirección intelectual. Los autores intermedios se listan en orden de contribución decreciente, aunque las convenciones varían. En OMFS, donde la mayoría de los estudios se realizan en equipos clínicos, acordar el orden de los autores en la etapa de planificación del estudio previene disputas en la presentación."
         },
         {
           "type": "table",
           "title": "Criterios de Autoría del ICMJE — Los Cuatro Deben Cumplirse",
-          "headers": ["Criterio", "Ejemplos típicos que cumplen el criterio", "Errores conceptuales frecuentes"],
+          "headers": ["Criterio", "Ejemplos típicos que cumplen el criterio", "Malentendidos frecuentes"],
           "rows": [
-            ["1. Contribución intelectual sustancial", "Diseño del estudio, recogida de datos, análisis estadístico, interpretación", "Solo recoger muestras; proporcionar equipamiento; supervisión general"],
-            ["2. Redacción o revisión crítica", "Redactar la Introducción, Métodos, Resultados; revisar el manuscrito intelectualmente", "Solo verificar las referencias; solo corregir la gramática"],
+            ["1. Contribución intelectual sustancial", "Diseño del estudio, recogida de datos, análisis estadístico, interpretación", "Solo recoger muestras; proporcionar equipos; supervisión general"],
+            ["2. Redacción o revisión crítica", "Redactar Introducción, Métodos, Resultados; revisar el manuscrito intelectualmente", "Solo revisar referencias; solo corregir gramática"],
             ["3. Aprobación final", "Leer y aprobar la versión final presentada", "Aprobar el concepto pero no ver el manuscrito final"],
-            ["4. Responsabilidad", "Capacidad de identificar qué coautor es responsable de cada parte", "Enviar un correo de «aprobación» sin leer el borrador final"]
+            ["4. Responsabilidad", "Capacidad de identificar qué coautor es responsable de cada parte", "Enviar un correo de 'aprobación' sin leer el borrador final"]
           ]
         },
         {
           "type": "callout",
           "variant": "warning",
-          "title": "Error Frecuente — Autoría Honoraria y Autoría Fantasma",
-          "content": "Añadir a un jefe de departamento que no participó en el estudio es autoría honoraria: conducta indebida según los criterios del ICMJE. Omitir a un estadístico o enfermera investigadora que contribuyó sustancialmente es autoría fantasma: también es conducta indebida. Las Directrices COPE 2024 exigen a las revistas que investiguen ambas situaciones. Las consecuencias incluyen retractación, investigación institucional y prohibiciones permanentes de publicación."
+          "title": "Error Frecuente — Autoría de Regalo y Autoría Fantasma",
+          "content": "Añadir a un jefe de departamento que no participó en el estudio es autoría de regalo — mala conducta según los criterios del ICMJE. Omitir a un estadístico o enfermero de investigación que contribuyó sustancialmente es autoría fantasma — también mala conducta. Las Directrices de COPE 2024 exigen que las revistas investiguen ambas. Las consecuencias incluyen retractación, investigación institucional y prohibiciones permanentes de publicación."
         }
       ]
     },
@@ -122,29 +122,29 @@
       "blocks": [
         {
           "type": "text",
-          "content": "La **revisión por pares** es el mecanismo por el que los manuscritos presentados son evaluados por expertos independientes antes de su publicación. El proceso comienza cuando un autor presenta un manuscrito a través del sistema de presentación online de una revista (p. ej., ScholarOne, Editorial Manager). El **Editor Jefe** (o un Editor Adjunto en revistas de gran tamaño) realiza una evaluación inicial —habitualmente en 1–2 semanas— para determinar si el manuscrito está dentro del alcance de la revista, cumple los umbrales básicos de calidad y está técnicamente completo. Aproximadamente el 30–50% de los manuscritos en las principales revistas CMF son rechazados sin revisión externa en esta fase, por insuficiente novedad, discordancia de alcance o deficiencias metodológicas fundamentales.\n\nLos manuscritos que superan la evaluación inicial se envían a **dos o tres revisores externos**, elegidos por su pericia en el tema específico. Los revisores son habitualmente anónimos para los autores (revisión simple ciego) en la mayoría de las revistas; algunas revistas utilizan la revisión **doble ciego** (ambas partes son anónimas), y un número creciente ofrece **revisión por pares abierta** (identidades divulgadas, revisiones publicadas). Se pide a los revisores que evalúen: validez científica, novedad e importancia, metodología, análisis estadístico, claridad de la presentación y si las conclusiones están respaldadas por los datos. El plazo habitual solicitado es de 3–4 semanas, aunque los tiempos reales de revisión a menudo superan este período.\n\nEl editor sintetiza los comentarios de los revisores y toma una de las cuatro decisiones posibles: **Aceptar** (poco habitual sin revisiones), **Revisión Mayor** (cuestiones sustanciales que requieren una nueva presentación y revisión), **Revisión Menor** (pequeñas correcciones, habitualmente solo comprobadas por el editor) o **Rechazar**. Una Revisión Mayor no es un rechazo: la decisión del editor de invitar a una nueva presentación indica un interés genuino y debe considerarse como una oportunidad. La mayoría de los artículos publicados en revistas de alto impacto pasan por al menos una ronda de revisión mayor."
+          "content": "La **revisión por pares** es el mecanismo por el que los manuscritos presentados son evaluados por expertos independientes antes de la publicación. El proceso comienza cuando un autor presenta un manuscrito a través del sistema de presentación en línea de una revista (p. ej., ScholarOne, Editorial Manager). El **Editor jefe** (o un editor adjunto para revistas grandes) realiza una evaluación inicial — típicamente en 1–2 semanas — para determinar si el manuscrito está dentro del alcance, cumple los umbrales mínimos de calidad y está técnicamente completo. Aproximadamente el 30–50% de los manuscritos en las principales revistas de OMFS son rechazados sin revisión externa en esta etapa, por insuficiente novedad, falta de coincidencia con el alcance o defectos metodológicos fundamentales.\n\nLos manuscritos que superan la evaluación inicial se envían a **dos o tres revisores externos**, elegidos por su experiencia en el tema específico. Los revisores son típicamente anónimos para los autores (simple ciego) en la mayoría de las revistas; algunas revistas aplican la revisión **doble ciego** (ambas partes anónimas), y un número creciente ofrece **revisión por pares abierta** (identidades divulgadas, revisiones publicadas). Se pide a los revisores que evalúen: validez científica, novedad e importancia, metodología, análisis estadístico, claridad de presentación y si las conclusiones están respaldadas por los datos. El plazo de entrega típico solicitado es de 3–4 semanas, aunque los tiempos de revisión reales frecuentemente lo superan.\n\nEl editor sintetiza los comentarios de los revisores y toma una de cuatro decisiones: **Aceptar** (raro sin revisiones), **Revisión mayor** (problemas sustanciales que requieren la reresentación y una nueva revisión), **Revisión menor** (correcciones pequeñas, típicamente solo verificadas por el editor) o **Rechazar**. Una Revisión mayor no es un rechazo — la decisión del editor de invitar a la reresentación indica un interés genuino y debe tratarse como una oportunidad. La mayoría de los artículos publicados en revistas de alto impacto pasan por al menos una ronda de revisión mayor."
         },
         {
           "type": "callout",
           "variant": "pearl",
-          "title": "Perla de Examen — Responder a los Revisores",
-          "content": "Una respuesta a los revisores debe abordar cada comentario, numerado y en su totalidad. La estructura es: (1) agradecer al revisor, (2) reproducir su comentario, (3) describir lo que hizo en respuesta (con números de página/línea en el manuscrito revisado), (4) mostrar el texto nuevo o modificado. Si no está de acuerdo con un comentario, debe aportar una justificación basada en evidencia, no simplemente afirmar que el revisor está equivocado. Nunca ignore un comentario de un revisor, aunque crea que es incorrecto."
+          "title": "Perla para el Examen — Responder a los Revisores",
+          "content": "Una respuesta a los revisores debe abordar cada comentario, numerado y en su totalidad. La estructura es: (1) agradecer al revisor, (2) reafirmar su comentario, (3) describir lo que se hizo en respuesta (con números de página/línea en el manuscrito revisado), (4) mostrar el texto nuevo o modificado. Si no estás de acuerdo con un comentario, debes proporcionar justificación basada en evidencia — no simplemente afirmar que el revisor está equivocado. Nunca ignores un comentario del revisor, aunque creas que es incorrecto."
         },
         {
           "type": "text",
-          "content": "Redactar una **carta de respuesta a los revisores** eficaz es una habilidad diferenciada. La carta debe comenzar con una breve expresión de gratitud al editor y a los revisores. A continuación, se abordan secuencialmente los comentarios de cada revisor, con una demarcación clara (p. ej., «Revisor 1, Comentario 3»). Para cada comentario, indique si está de acuerdo o en desacuerdo, describa el cambio específico realizado (o la justificación para no modificar) y cite el nuevo texto relevante con los números de línea. Los cambios realizados en el manuscrito deben estar rastreados (Control de cambios en Word) o resaltados, para que el editor pueda verificar cada respuesta. El tono debe ser siempre profesional y objetivo, independientemente de si los comentarios del revisor se perciben como correctos o constructivos."
+          "content": "Redactar una **carta de respuesta al revisor** efectiva es una habilidad específica. La carta debe comenzar con una breve declaración de agradecimiento al editor y los revisores. Los comentarios de cada revisor se abordan secuencialmente, con una demarcación clara (p. ej., 'Revisor 1, Comentario 3'). Para cada comentario, indica si estás de acuerdo o en desacuerdo, describe el cambio específico realizado (o la justificación para no cambiar) y cita el nuevo texto relevante con números de línea. Los cambios realizados en el manuscrito deben estar registrados (Control de cambios en Word) o resaltados, para que el editor pueda verificar cada respuesta. El tono debe permanecer profesional y objetivo independientemente de si los comentarios del revisor se perciben como correctos o constructivos."
         },
         {
           "type": "table",
-          "title": "Cronología de la Revisión por Pares y Resultados de las Decisiones",
-          "headers": ["Fase", "Plazo habitual", "Acción del autor"],
+          "title": "Calendario de Revisión por Pares y Resultados de la Decisión",
+          "headers": ["Etapa", "Plazo típico", "Acción del autor"],
           "rows": [
-            ["Presentación → Decisión editorial (inicial)", "1–4 semanas", "Confirmar recepción; comprobar que la presentación está completa"],
-            ["Revisión externa", "4–12 semanas", "Ninguna (esperar); puede enviar una consulta de estado educada tras 10–12 semanas"],
-            ["Decisión: Revisión Mayor", "Revisar en 3 meses habitualmente", "Abordar todos los comentarios; presentar carta de respuesta punto por punto"],
-            ["Decisión: Revisión Menor", "Revisar en 4 semanas habitualmente", "Abordar todos los comentarios; carta de respuesta breve"],
-            ["Decisión: Aceptar", "Corrección de estilo 2–8 semanas", "Revisar las pruebas cuidadosamente; aprobar la versión final"],
-            ["Decisión: Rechazo con invitación a volver a presentar", "Volver a presentar en 3–6 meses", "Tratar como revisión mayor; revisión exhaustiva necesaria"]
+            ["Presentación → Decisión editorial (inicial)", "1–4 semanas", "Confirmar recepción; verificar la completitud de la presentación"],
+            ["Revisión externa", "4–12 semanas", "Ninguna (esperar); puede enviar una consulta de estado educada después de 10–12 semanas"],
+            ["Decisión: Revisión mayor", "Revisar en 3 meses típicamente", "Abordar todos los comentarios; presentar carta de respuesta punto por punto"],
+            ["Decisión: Revisión menor", "Revisar en 4 semanas típicamente", "Abordar todos los comentarios; carta de respuesta mínima"],
+            ["Decisión: Aceptar", "Corrección de estilo 2–8 semanas", "Revisar las pruebas de imprenta cuidadosamente; aprobar la versión final"],
+            ["Decisión: Rechazar con invitación a reresentar", "Reresentar en 3–6 meses", "Tratar como revisión mayor; revisión exhaustiva necesaria"]
           ]
         }
       ]
@@ -155,60 +155,60 @@
       "blocks": [
         {
           "type": "text",
-          "content": "Seleccionar una revista adecuada antes de la presentación es tan importante como la calidad de la redacción. Las consideraciones principales son: **alcance y audiencia** (¿la revista publica este tipo de investigación CMF?), **factor de impacto** (indicador indirecto del prestigio de la revista y su número de lectores), **tiempo de resolución** (tiempo desde la presentación hasta la primera decisión; habitualmente informado por los editores), **requisitos de acceso abierto** (cada vez más exigidos por los financiadores) y **tarifas para autores** (cargos por procesamiento de artículos [APC] para la publicación en acceso abierto).\n\nEl **Factor de Impacto de la Revista (JIF)**, publicado anualmente en los Journal Citation Reports de Clarivate, se calcula como el número medio de citas de los artículos publicados en los dos años anteriores. En CMF, las principales revistas incluyen: Journal of Oral and Maxillofacial Surgery (JOMS, JIF ≈2,5), International Journal of Oral and Maxillofacial Surgery (IJOMS, JIF ≈3,0), British Journal of Oral and Maxillofacial Surgery (BJOMS, JIF ≈2,0) y, para CMF oncológica, Oral Oncology (JIF ≈4,5). Para metodología de investigación y revisiones sistemáticas, son relevantes JAMA Network Open, BMJ Open y revistas centradas en revisiones sistemáticas como Systematic Reviews (BioMed Central).\n\nEl **CiteScore** (Elsevier/Scopus) es una alternativa al JIF que utiliza una ventana de citas de cuatro años e incluye una gama más amplia de tipos de documentos. El **índice h** mide el impacto individual de un investigador: un índice h de n significa que el investigador tiene n artículos citados cada uno al menos n veces. Aunque se utiliza ampliamente en los nombramientos académicos, el índice h está sesgado hacia los investigadores más veteranos y prolíficos y es dependiente del campo. El **índice Eigenfactor** pondera más las citas de revistas de alto impacto y es útil para comparar revistas entre disciplinas.\n\nEl **Acceso Abierto (AA)** es cada vez más obligatorio. Los Consejos de Investigación del Reino Unido (UKRI), los National Institutes of Health (NIH/NCI) y la Comisión Europea (Horizon Europa) exigen la publicación en AA para las investigaciones financiadas por estas entidades. El **AA dorado** significa que el artículo está inmediata y permanentemente disponible de forma gratuita en el sitio web del editor bajo una licencia Creative Commons, requiriendo habitualmente un APC de £1.000–£3.500. El **AA verde** permite el autoarchivo de un manuscrito aceptado (versión aceptada por el autor) en un repositorio institucional o temático tras un período de embargo (habitualmente 6–12 meses). El **AA diamante** (sin costes para autores ni lectores) está disponible en algunas revistas de sociedades científicas, entre ellas BJOMS y determinadas publicaciones afiliadas a la EACMFS."
+          "content": "Seleccionar una revista apropiada antes de la presentación es tan importante como la calidad de la redacción. Las consideraciones principales son: **alcance y audiencia** (¿publica la revista este tipo de investigación de OMFS?), **factor de impacto** (indicador de prestigio y readership de la revista), **tiempo de respuesta** (tiempo desde la presentación hasta la primera decisión; típicamente reportado por los editores), **requisitos de acceso abierto** (cada vez más exigidos por los financiadores) y **honorarios para autores** (Cargos por Procesamiento de Artículos para publicación en acceso abierto).\n\nEl **Factor de Impacto de la Revista (FIR)**, publicado anualmente en los Journal Citation Reports de Clarivate, se calcula como el número medio de citas a artículos publicados en los dos años anteriores. Para OMFS, las principales revistas incluyen: Journal of Oral and Maxillofacial Surgery (JOMS, FIR ~2,5), International Journal of Oral and Maxillofacial Surgery (IJOMS, FIR ~3,0), British Journal of Oral and Maxillofacial Surgery (BJOMS, FIR ~2,0) y para OMFS oncológica, Oral Oncology (FIR ~4,5). Para la metodología de investigación y las revisiones sistemáticas, son relevantes JAMA Network Open, BMJ Open y revistas centradas en revisiones sistemáticas como Systematic Reviews (BioMed Central).\n\nEl **CiteScore** (Elsevier/Scopus) es una alternativa al FIR que utiliza una ventana de citación de cuatro años e incluye una gama más amplia de tipos de documentos. El **índice h** mide el impacto de un investigador individual: un índice h de n significa que el investigador tiene n artículos citados al menos n veces cada uno. Aunque ampliamente utilizado para las designaciones académicas, el índice h está sesgado hacia los investigadores mayores y prolíficos y depende del campo. El **Eigenfactor** pondera las citas de revistas de alto impacto más fuertemente y es útil para comparar revistas entre disciplinas.\n\nEl **Acceso Abierto (AA)** es cada vez más obligatorio. Los Consejos de Investigación del Reino Unido (UKRI), los National Institutes of Health (NIH/NCI) y la Comisión Europea (Horizonte Europa) exigen la publicación en AA para la investigación financiada. El **AA Gold** significa que el artículo está inmediatamente disponible de forma gratuita en el sitio web del editor bajo una licencia Creative Commons, típicamente exigiendo un APC de 1.000–3.500 £. El **AA Green** permite el autoarchivo de un manuscrito aceptado (versión aceptada por el autor) en un repositorio institucional o temático tras un período de embargo (típicamente 6–12 meses). El **AA Diamond** (sin honorarios para autores ni lectores) está disponible a través de algunas revistas de sociedades, incluidas BJOMS y publicaciones seleccionadas afiliadas a EACMFS."
         },
         {
           "type": "callout",
           "variant": "warning",
           "title": "Error Frecuente — Revistas Depredadoras",
-          "content": "Las revistas depredadoras cobran APC pero no proporcionan una verdadera revisión por pares, no están indexadas en Medline/PubMed y dañan la reputación del investigador. Señales de alarma: invitación no solicitada por correo electrónico para presentar un artículo; nombre de la revista que imita un título legítimo; ningún consejo editorial indicado; aceptación rápida (en días); solicitud de pago antes de la revisión por pares. Utilice el DOAJ (Directorio de Revistas de Acceso Abierto) y los Informes de Revistas Depredadoras de Cabell para verificar la legitimidad. Publicar en una revista depredadora puede invalidar el trabajo para los informes de subvenciones y la promoción académica."
+          "content": "Las revistas depredadoras cobran APC pero no proporcionan una revisión por pares genuina, no están indexadas en Medline/PubMed y dañan la reputación del investigador. Señales de alarma: invitación no solicitada por correo electrónico para presentar; nombre de la revista que imita un título legítimo; sin consejo editorial listado; aceptación rápida (días); solicitud de pago antes de la revisión por pares. Usa el DOAJ (Directorio de Revistas de Acceso Abierto) y los Informes de Depredadores de Cabell para verificar la legitimidad. Publicar en una revista depredadora puede descalificar el trabajo de los informes de subvenciones y la promoción académica."
         },
         {
           "type": "table",
-          "title": "Revistas CMF y Afines Clave para la Publicación",
-          "headers": ["Revista", "Editorial", "JIF (aprox.)", "Énfasis temático", "Opción AA"],
+          "title": "Principales Revistas de OMFS y Afines para la Publicación",
+          "headers": ["Revista", "Editorial", "FIR (aprox)", "Énfasis de alcance", "Opción AA"],
           "rows": [
-            ["Journal of Oral & Maxillofacial Surgery", "Elsevier (AAOMS)", "≈2,5", "CMF clínica, enfoque norteamericano", "AA dorado (APC)"],
-            ["Int J Oral Maxillofacial Surgery", "Elsevier (IAOMS)", "≈3,0", "CMF clínica internacional, reconstructiva", "AA dorado (APC)"],
-            ["British J Oral Maxillofacial Surgery", "Elsevier (BAOMS)", "≈2,0", "CMF clínica UK/europea, series de casos", "AA verde (6 meses)"],
-            ["Oral Oncology", "Elsevier", "≈4,5", "Oncología de cabeza y cuello, translacional", "AA dorado (APC)"],
-            ["Journal of Craniomaxillofacial Surgery", "Elsevier (EACMFS)", "≈2,8", "Cirugía CMF, traumatología, reconstrucción", "AA dorado (APC)"],
-            ["Oral Surgery, Oral Medicine…", "Elsevier (AAOMS)", "≈2,2", "Patología oral, medicina oral, dentoalveolar", "AA dorado (APC)"]
+            ["Journal of Oral & Maxillofacial Surgery", "Elsevier (AAOMS)", "~2,5", "OMFS clínica, énfasis norteamericano", "AA Gold (APC)"],
+            ["Int J Oral Maxillofacial Surgery", "Elsevier (IAOMS)", "~3,0", "OMFS clínica internacional, reconstructiva", "AA Gold (APC)"],
+            ["British J Oral Maxillofacial Surgery", "Elsevier (BAOMS)", "~2,0", "OMFS clínica UK/europea, series de casos", "AA Green (6 meses)"],
+            ["Oral Oncology", "Elsevier", "~4,5", "Oncología de cabeza y cuello, translacional", "AA Gold (APC)"],
+            ["Journal of Craniomaxillofacial Surgery", "Elsevier (EACMFS)", "~2,8", "Cirugía CMF, traumatología, reconstrucción", "AA Gold (APC)"],
+            ["Oral Surgery, Oral Medicine…", "Elsevier (AAOMS)", "~2,2", "Patología oral, medicina oral, dentoalveolar", "AA Gold (APC)"]
           ]
         }
       ]
     },
     {
       "id": "G4-S6",
-      "title": "Integridad en la Investigación: Fabricación, Falsificación, Plagio y Publicación Duplicada",
+      "title": "Integridad de la Investigación: Fabricación, Falsificación, Plagio y Publicación Duplicada",
       "blocks": [
         {
           "type": "text",
-          "content": "La integridad en la investigación es la base del quehacer científico. La **Oficina de Integridad en la Investigación (ORI, EE. UU.)** y la **UK Research Integrity Office (UKRIO)** definen la conducta indebida en investigación como fabricación, falsificación o plagio (FFP). La **fabricación** consiste en inventar datos o resultados. La **falsificación** consiste en manipular materiales, equipos o procesos de investigación, o en modificar u omitir datos de manera que el registro de investigación no refleje fielmente lo ocurrido. Ambas son infracciones que dan fin a la carrera profesional y conducen a la retractación, sanciones institucionales y, en los casos que implican la seguridad de los pacientes, a la persecución penal.\n\nEl **plagio** consiste en apropiarse de las ideas, los procesos, los resultados o las palabras de otra persona sin atribución. El autoplagio (reciclar texto propio previamente publicado sin atribución) es una preocupación relacionada: introducir métodos previamente publicados en un nuevo artículo sin reconocimiento es una forma de publicación duplicada. La mayoría de las revistas utilizan software de detección de plagio (iThenticate, Turnitin) en el momento de la presentación; una puntuación de similitud típicamente desencadena una revisión editorial. Para los artículos clínicos CMF, una puntuación de similitud superior al 15–20% justifica una investigación, aunque esto depende en gran medida de los solapamientos inevitables en el texto estandarizado de los Métodos.\n\nLa **publicación duplicada** (segmentación en porciones o salami slicing) consiste en publicar los mismos datos en dos o más artículos para inflar el número de publicaciones. Esto vulnera el requisito de que el trabajo presentado no haya sido publicado previamente (los resúmenes de congresos son una excepción). La publicación redundante desperdicia los recursos de la revisión por pares e infla artificialmente la literatura. El ICMJE exige a los autores que declaren cualquier presentación previa o simultánea estrechamente relacionada. La **publicación previa como preprint** (p. ej., en medRxiv o SSRN) es ahora generalmente aceptada por la mayoría de las revistas biomédicas y no se considera publicación duplicada, siempre que se declare en el momento de la presentación."
+          "content": "La integridad de la investigación es el fundamento del proceso científico. La **Office of Research Integrity (ORI, EE.UU.)** y la **UK Research Integrity Office (UKRIO)** definen la mala conducta en investigación como fabricación, falsificación o plagio (FFP). La **Fabricación** consiste en inventar datos o resultados. La **Falsificación** es manipular materiales de investigación, equipos, procesos o cambiar/omitir datos para que el registro de la investigación no refleje con precisión lo que ocurrió. Ambas son infracciones que ponen fin a la carrera y conducen a la retractación, sanciones institucionales y, en casos que involucran la seguridad del paciente, enjuiciamiento penal.\n\nEl **Plagio** es la apropiación de las ideas, procesos, resultados o palabras de otra persona sin atribución. El autoplagio (reciclar el texto previamente publicado propio sin atribución) es una preocupación relacionada — introducir Métodos previamente publicados en un nuevo artículo sin reconocimiento es una forma de publicación duplicada. La mayoría de las revistas utilizan software de detección de plagio (iThenticate, Turnitin) en la presentación; una puntuación de similitud generalmente desencadena la revisión del editor. Para artículos clínicos de OMFS, una puntuación de similitud superior al 15–20% justifica una investigación, aunque esto depende en gran medida de los solapamientos inevitables en el texto estándar de los Métodos.\n\nLa **publicación duplicada** (cortar en salami) implica publicar los mismos datos en dos o más artículos para inflar el recuento de publicaciones. Esto viola el requisito de que el trabajo presentado no haya sido publicado previamente (excepto como resúmenes de congresos, que están exentos). La publicación redundante desperdicia recursos de revisión por pares e infla artificialmente la literatura. El ICMJE exige que los autores divulguen cualquier presentación anterior o simultánea estrechamente relacionada. La **publicación previa como preprint** (p. ej., en medRxiv o SSRN) es ahora generalmente aceptada por la mayoría de las revistas biomédicas y no se considera publicación duplicada, siempre que se divulgue en la presentación."
         },
         {
           "type": "callout",
           "variant": "pearl",
-          "title": "Perla de Examen — Directrices COPE y Retractaciones",
-          "content": "El Comité de Ética en Publicación (COPE) proporciona diagramas de flujo y orientación para los editores que gestionan presuntas conductas indebidas. Las directrices de retractación del COPE especifican que los avisos de retractación deben estar claramente etiquetados, explicar el motivo y permanecer vinculados de forma permanente al artículo original. La base de datos Retraction Watch registra más de 45.000 retractaciones. Para los residentes de CMF: fabricar datos en un caso clínico es una infracción tan grave como fabricarlos en un ECA: todos los datos a nivel de paciente deben ser reales y verificables."
+          "title": "Perla para el Examen — Directrices COPE y Retractaciones",
+          "content": "El Committee on Publication Ethics (COPE) proporciona diagramas de flujo y orientación para los editores que gestionan sospecha de mala conducta. Las directrices de retractación de COPE especifican que los avisos de retractación deben estar claramente etiquetados, explicar el motivo y permanecer permanentemente vinculados al artículo original. La base de datos Retraction Watch sigue más de 45.000 retractaciones. Para los residentes de OMFS: fabricar datos en un informe de caso es una infracción igual de grave que fabricar en un ECA — todos los datos a nivel de paciente deben ser reales y verificables."
         },
         {
           "type": "callout",
           "variant": "clinical",
           "title": "Contexto Clínico — Texto Generado por IA y LLM",
-          "content": "Desde la actualización del ICMJE de 2023, los modelos de lenguaje de IA (incluidos ChatGPT y herramientas similares) no pueden figurar como autores, ya que no pueden responsabilizarse del trabajo. Los autores que utilizan herramientas de redacción con IA deben declararlo en la sección de Métodos o Agradecimientos, describiendo qué herramienta se utilizó y cómo. Muchas revistas CMF cuentan ahora con políticas específicas de declaración de IA. El texto generado por IA no declarado que se detecta tras la publicación puede constituir una forma de plagio según la política de la revista."
+          "content": "A partir de la actualización del ICMJE de 2023, los modelos de lenguaje de IA (incluidos ChatGPT y herramientas similares) no pueden ser listados como autores, ya que no pueden asumir la responsabilidad del trabajo. Los autores que utilizan herramientas de redacción de IA deben divulgarlo en la sección de Métodos o Agradecimientos, describiendo qué herramienta se utilizó y cómo. Muchas revistas de OMFS tienen ahora políticas específicas de divulgación de IA. El texto generado por IA no divulgado que se detecta tras la publicación puede constituir una forma de plagio según la política de la revista."
         },
         {
           "type": "table",
-          "title": "Conducta Indebida en Investigación: Definiciones, Ejemplos y Consecuencias",
-          "headers": ["Tipo de conducta indebida", "Definición", "Ejemplo en CMF", "Consecuencia habitual"],
+          "title": "Mala Conducta en Investigación: Definiciones, Ejemplos y Consecuencias",
+          "headers": ["Tipo de mala conducta", "Definición", "Ejemplo en OMFS", "Consecuencia típica"],
           "rows": [
             ["Fabricación", "Inventar datos/resultados", "Inventar resultados de pacientes en una serie de casos", "Retractación; despido; prohibición de financiación; cargos penales si hay daño al paciente"],
-            ["Falsificación", "Manipular datos/imágenes", "Ajustar mediciones cefalométricas para apoyar la hipótesis", "Retractación; investigación institucional; fin de la carrera"],
-            ["Plagio", "Usar el trabajo ajeno sin atribución", "Copiar párrafos de introducción de un artículo CMF previo", "Retractación; lista negra del editor; notificación al empleador"],
-            ["Autoría honoraria", "Incluir como autor a alguien que no contribuyó", "Añadir al médico adjunto a la lista de autores por cortesía", "Corrección; investigación COPE; advertencia de la revista"],
-            ["Publicación duplicada", "Publicar los mismos datos dos veces", "Presentar la misma cohorte simultáneamente a dos revistas CMF", "Retractación de uno de los artículos; prohibición de la revista"],
-            ["Fabricación de datos (imágenes)", "Manipular imágenes histológicas/de gel", "Duplicar preparaciones histológicas entre muestras", "Retractación; investigación ORI/UKRIO; recuperación de financiación"]
+            ["Falsificación", "Manipular datos/imágenes", "Ajustar mediciones cefalométricas para apoyar la hipótesis", "Retractación; investigación institucional; fin de carrera"],
+            ["Plagio", "Usar el trabajo de otros sin atribución", "Copiar párrafos de introducción de un artículo previo de OMFS", "Retractación; lista negra del editor; notificación al empleador"],
+            ["Autoría de regalo", "Incluir a un autor sin contribución", "Añadir al consultor a la lista de autoría por cortesía", "Corrección; investigación COPE; advertencia de la revista"],
+            ["Publicación duplicada", "Publicar los mismos datos dos veces", "Presentar la misma cohorte a dos revistas de OMFS diferentes simultáneamente", "Retractación de un artículo; prohibición de la revista"],
+            ["Fabricación de datos (imágenes)", "Manipular imágenes de gel/histología", "Duplicar portaobjetos histológicos entre muestras", "Retractación; investigación ORI/UKRIO; recuperación de financiación"]
           ]
         }
       ]
@@ -219,158 +219,158 @@
       "blocks": [
         {
           "type": "text",
-          "content": "La redacción científica eficaz es clara, concisa y precisa, no elegante en sentido literario. El propósito de cada oración es transmitir información de forma eficiente. Los errores de estilo habituales en los manuscritos CMF incluyen: uso excesivo de la voz pasiva (no es incorrecto en ciencia, pero el exceso reduce la claridad), nominalización (usar formas sustantivadas de verbos, p. ej., «se realizó el análisis» en lugar de «se analizó»), cuantificación vaga («muchos pacientes» en lugar de «n=47, 78%») y comparativos imprecisos («significativamente mayor» sin datos). Cada afirmación numérica debe ir acompañada de la medida de variabilidad apropiada (DE para datos normalmente distribuidos, RIC para datos sesgados u ordinales, IC 95% para estimaciones del efecto).\n\nLas **guías de reporte** de la Red EQUATOR (Enhancing the QUAlity and Transparency Of health Research) proporcionan listas de verificación que garantizan que se incluye toda la información necesaria. Las guías CMF principales son: **CONSORT 2010** para ECA (25 ítems + diagrama de flujo), **STROBE** (Strengthening the Reporting of Observational Studies in Epidemiology) para estudios de cohortes/casos-controles/transversales (22 ítems), **PRISMA 2020** (Preferred Reporting Items for Systematic reviews and Meta-Analyses) para revisiones sistemáticas (27 ítems + diagrama de flujo), **CARE** (CAse REport guidelines) para casos clínicos (13 ítems), **STARD 2015** para estudios de precisión diagnóstica (30 ítems) y **AGREE II** para guías de práctica clínica (23 ítems). La mayoría de las revistas CMF exigen presentar la lista de verificación de reporte completada con los números de página del manuscrito junto al manuscrito.\n\nConsejos prácticos para el flujo de trabajo: redacte primero los Métodos (mientras el estudio está fresco), luego los Resultados y después la Introducción y la Discusión. El Resumen se redacta al final. El control de versiones es esencial: utilice nombres de archivo numerados o con fecha (no «manuscrito_FINAL_final_v2.docx»). Registre todos los cambios al revisar y mantenga un registro de modificaciones. Disciplina con el número de palabras: la mayoría de las revistas CMF permiten 3.000–4.000 palabras para los artículos originales (excluidos resumen, referencias y pies de figura); las revisiones sistemáticas habitualmente 5.000–7.000 palabras. Superar los límites de palabras sin aprobación previa del editor es motivo de rechazo sin revisión."
+          "content": "La redacción científica eficaz es clara, concisa y precisa — no elegante en el sentido literario. El propósito de cada oración es transmitir información de forma eficiente. Los errores estilísticos frecuentes en los manuscritos de OMFS incluyen: uso excesivo de la voz pasiva (no incorrecto en ciencia, pero el uso excesivo reduce la claridad), nominalización (usar formas sustantivas de verbos, p. ej., 'realizamos el análisis' en lugar de 'analizamos'), cuantificación vaga ('muchos pacientes' en lugar de 'n=47, 78%') y comparativos imprecisos ('significativamente mayor' sin datos). Toda afirmación numérica debe ir acompañada de la medida de variabilidad apropiada (DE para datos normalmente distribuidos, RIC para datos sesgados u ordinales, IC 95% para estimaciones del efecto).\n\nLas **guías de reporte** de la Red EQUATOR (Enhancing the QUAlity and Transparency Of health Research) proporcionan listados que garantizan que se incluye toda la información necesaria. Las guías esenciales de OMFS son: **CONSORT 2010** para ECA (25 ítems + diagrama de flujo), **STROBE** (Strengthening the Reporting of Observational Studies in Epidemiology) para estudios de cohortes/caso-control/transversales (22 ítems), **PRISMA 2020** (Preferred Reporting Items for Systematic reviews and Meta-Analyses) para revisiones sistemáticas (27 ítems + diagrama de flujo), **CARE** (CAse REport guidelines) para informes de caso (13 ítems), **STARD 2015** para estudios de precisión diagnóstica (30 ítems) y **AGREE II** para guías de práctica clínica (23 ítems). La mayoría de las revistas de OMFS exigen la presentación del listado de verificación de reporte completado con los números de página del manuscrito junto al manuscrito.\n\nConsejos prácticos de flujo de trabajo: redacta primero los Métodos (mientras el estudio está reciente), luego los Resultados, luego la Introducción y la Discusión. El resumen se redacta en último lugar. El control de versiones es esencial — usa nombres de archivo numerados o fechados (no 'manuscrito_FINAL_final_v2.docx'). Registra todos los cambios al revisar y mantén un registro de cambios. Disciplina en el recuento de palabras: la mayoría de las revistas de OMFS permiten 3.000–4.000 palabras para los artículos originales (excluyendo resumen, referencias y pies de figura); las revisiones sistemáticas típicamente 5.000–7.000 palabras. Superar los límites de palabras sin la aprobación previa del editor es motivo de rechazo inmediato."
         },
         {
           "type": "callout",
           "variant": "pearl",
-          "title": "Perla de Examen — Red EQUATOR y Requisitos de las Revistas",
-          "content": "Antes de escribir, visite www.equator-network.org e identifique la guía de reporte correcta para su diseño de estudio. Descargue la lista de verificación, complétela con los números de página del manuscrito y preséntela junto a su manuscrito: esto es requerido por todas las principales revistas CMF y demuestra rigor metodológico. El incumplimiento de las guías de reporte se cita cada vez más como motivo de rechazo en la revisión por pares."
+          "title": "Perla para el Examen — Red EQUATOR y Requisitos de la Revista",
+          "content": "Antes de escribir, visita www.equator-network.org e identifica la guía de reporte correcta para tu diseño de estudio. Descarga el listado de verificación, complétalo con los números de página del manuscrito y preséntalo junto al manuscrito — esto es obligatorio en todas las principales revistas de OMFS y demuestra rigor metodológico. El incumplimiento de las guías de reporte se cita cada vez más como motivo de rechazo en la revisión por pares."
         },
         {
           "type": "table",
           "title": "Guías de Reporte EQUATOR por Tipo de Estudio",
-          "headers": ["Diseño del estudio", "Guía", "Año", "Ítems", "Característica clave"],
+          "headers": ["Diseño de estudio", "Guía", "Año", "Ítems", "Característica clave"],
           "rows": [
-            ["ECA", "CONSORT", "2010 (actualizado 2012)", "25 ítems + diagrama de flujo", "Resultado primario preespecificado; ocultamiento de la asignación descrito"],
-            ["Cohortes/casos-controles/transversales", "STROBE", "2007", "22 ítems", "Definiciones de exposición y resultado; manejo de los factores de confusión"],
+            ["ECA", "CONSORT", "2010 (actualizado 2012)", "25 ítems + diagrama de flujo", "Desenlace primario preespecificado; ocultación de la asignación descrita"],
+            ["Cohorte/caso-control/transversal", "STROBE", "2007", "22 ítems", "Definiciones de exposición y desenlace; manejo de factores de confusión"],
             ["Revisión sistemática / metaanálisis", "PRISMA", "2020", "27 ítems + diagrama de flujo", "Registro en PROSPERO; evaluación del riesgo de sesgo"],
-            ["Caso clínico", "CARE", "2013", "13 ítems", "Línea de tiempo; perspectiva del paciente; consentimiento informado"],
+            ["Informe de caso", "CARE", "2013", "13 ítems", "Cronograma; perspectiva del paciente; consentimiento informado"],
             ["Precisión diagnóstica", "STARD", "2015", "30 ítems + diagrama de flujo", "Umbral preespecificado; estándar de referencia"],
-            ["Innovación quirúrgica (brazo único)", "Marco IDEAL", "2009/2016", "Específico por etapa", "Etapa en el espectro IDEAL declarada en el título/resumen"],
+            ["Innovación quirúrgica (brazo único)", "Marco IDEAL", "2009/2016", "Específico de la etapa", "Etapa en el espectro IDEAL declarada en el título/resumen"],
             ["Evaluación económica", "CHEERS", "2022", "28 ítems", "Horizonte temporal; tasa de descuento; análisis de sensibilidad"]
           ]
         },
         {
           "type": "callout",
           "variant": "clinical",
-          "title": "Contexto Clínico — Redacción para los Congresos EACMFS y BAOMS",
-          "content": "La presentación de resúmenes para el Congreso de la EACMFS y la Reunión Científica Anual de BAOMS requiere 250–300 palabras, formato estructurado y, para estudios clínicos, una declaración clara de la aprobación ética. Los resúmenes son evaluados por revisores cegados en función de: calidad científica, relevancia clínica, claridad de presentación y adecuación estadística. Los ECA no registrados, los estudios sin aprobación ética declarada y las conclusiones no respaldadas son motivos habituales de rechazo. Las presentaciones orales son habitualmente de 8 minutos + 2 minutos de preguntas; los e-pósters requieren contenido autoexplicativo sin comentario verbal."
+          "title": "Contexto Clínico — Redacción para Congresos EACMFS y BAOMS",
+          "content": "La presentación de resúmenes para el Congreso de la EACMFS y la Reunión Científica Anual de la BAOMS requiere 250–300 palabras, formato estructurado y, para estudios clínicos, una declaración clara de aprobación ética. Los resúmenes son puntuados por revisores cegados en: calidad científica, relevancia clínica, claridad de la presentación y adecuación estadística. Los ECA no registrados, los estudios sin aprobación ética declarada y las conclusiones no respaldadas son motivos frecuentes de rechazo. Las presentaciones orales son típicamente de 8 minutos + 2 minutos de preguntas; las presentaciones en póster electrónico requieren contenido autoexplicativo sin comentario verbal."
         }
       ]
     }
   ],
   "consolidation": {
-    "intro": "Evalúe sus conocimientos sobre redacción científica y publicación en CMF con 20 preguntas tipo examen sobre estructura IMRAD, autoría, revisión por pares, integridad en la investigación y guías de reporte.",
+    "intro": "Pon a prueba tus conocimientos sobre redacción científica y publicación en OMFS con 20 preguntas tipo examen que cubren la estructura IMRAD, la autoría, la revisión por pares, la integridad de la investigación y las guías de reporte.",
     "questions": [
       {
         "id": "G4-Q1",
-        "stem": "Un cirujano CMF adjunto solicita ser incluido como último autor en una serie de casos porque es el jefe del departamento y «responsable de toda la actividad clínica de la unidad». No contribuyó a la recogida de datos, el análisis ni la redacción del manuscrito. Según los criterios de autoría del ICMJE, ¿cuál es la actuación más adecuada?",
+        "stem": "Un cirujano consultor de OMFS solicita ser añadido como último autor en una serie de casos porque es el jefe del departamento y 'responsable de todo el trabajo clínico de la unidad'. No contribuyó a la recogida de datos, el análisis ni la redacción del manuscrito. Según los criterios de autoría del ICMJE, ¿cuál de las siguientes es la acción más apropiada?",
         "options": {
-          "A": "Añadirle como último autor, ya que su cargo sénior cumple el criterio de responsabilidad",
+          "A": "Añadirle como último autor ya que su cargo senior cumple el criterio de responsabilidad",
           "B": "Añadirle como último autor solo si aprueba el manuscrito final",
           "C": "No cumple los criterios del ICMJE; incluirle solo en los Agradecimientos",
-          "D": "Añadirle como segundo autor para minimizar la apariencia de autoría honoraria"
+          "D": "Añadirle como segundo autor para minimizar la apariencia de autoría de regalo"
         },
         "correct": "C",
         "explanation": {
-          "correct": "Las Recomendaciones del ICMJE (2024) exigen TODOS los cuatro criterios para la autoría: contribución intelectual sustancial, redacción o revisión crítica, aprobación final y responsabilidad. La supervisión administrativa o la antigüedad departamental por sí solas no satisfacen el Criterio 1. Las personas que no cumplen los cuatro criterios deben figurar en los Agradecimientos con una descripción de su contribución. Añadir a alguien a la lista de autores sin cumplir los criterios es autoría honoraria, una forma de conducta indebida en investigación.",
+          "correct": "Las Recomendaciones del ICMJE (2024) exigen que se cumplan los CUATRO criterios para la autoría: contribución intelectual sustancial, redacción o revisión crítica, aprobación final y responsabilidad. La supervisión administrativa o la antigüedad departamental por sí solas no satisfacen el Criterio 1. Las personas que no cumplen los cuatro criterios deben incluirse en la sección de Agradecimientos con una descripción de su contribución. Añadir a alguien a la lista de autores sin cumplir los criterios es autoría de regalo — una forma de mala conducta en investigación.",
           "wrong": {
-            "A": "La antigüedad y la responsabilidad clínica general no constituyen «contribución intelectual sustancial» al estudio según lo definido por el ICMJE. Esto sería autoría honoraria.",
-            "B": "Aprobar el manuscrito final (Criterio 3) por sí solo es insuficiente: deben cumplirse los cuatro criterios. Simplemente leer y aprobar sin contribución intelectual no confiere autoría.",
-            "D": "Cambiar a un autor no cualificado a una posición diferente no resuelve la conducta indebida. La autoría honoraria en cualquier posición vulnera las directrices del ICMJE y los estándares COPE."
+            "A": "La antigüedad y la responsabilidad clínica general no constituyen 'contribución intelectual sustancial' al estudio tal como lo define el ICMJE. Sería autoría de regalo.",
+            "B": "Aprobar el manuscrito final (Criterio 3) por sí solo es insuficiente — todos los cuatro criterios deben cumplirse. Simplemente leer y aprobar sin contribución intelectual no confiere autoría.",
+            "D": "Mover a un autor no cualificado a una posición diferente no resuelve la mala conducta. La autoría de regalo en cualquier posición viola las directrices del ICMJE y los estándares de COPE."
           },
-          "guideline": "Recomendaciones del ICMJE para la Conducta, el Reporte, la Edición y la Publicación de Trabajos Académicos en Revistas Médicas (2024) — Sección sobre Autoría y Contribución",
-          "trial": "Goodman SN. Toward evidence-based medical statistics (Ann Intern Med 1999): contextualizó el papel de la responsabilidad en la autoría dentro del marco de la medicina basada en la evidencia.",
-          "pearl": "Los cuatro criterios del ICMJE deben cumplirse para la autoría. Los jefes de departamento que no participaron en un estudio deben figurar en los Agradecimientos, no como autores. La autoría honoraria es conducta indebida en investigación según las directrices COPE."
-        },
-        "difficulty": 1
+          "guideline": "Recomendaciones del ICMJE para la Conducta, Reporte, Edición y Publicación de Trabajo Académico en Revistas Médicas (2024) — Sección sobre Autoría y Contribución",
+          "trial": "Goodman SN. Toward evidence-based medical statistics (Ann Intern Med 1999): contextualizó el papel de la responsabilidad en la autoría dentro de los marcos de la medicina basada en la evidencia.",
+          "pearl": "Los cuatro criterios del ICMJE deben cumplirse para la autoría. Los jefes de departamento que no participaron en el estudio deben ser reconocidos, no incluidos como autores. La autoría de regalo es mala conducta en investigación según las directrices de COPE.",
+          "difficulty": 1
+        }
       },
       {
         "id": "G4-Q2",
-        "stem": "Un residente CMF presenta un caso clínico al BJOMS. El artículo es devuelto con una «puntuación de similitud de iThenticate del 22%». El editor señala que el 18% de la similitud procede de la sección de Métodos (idéntica a una descripción de técnica previamente publicada por el mismo primer autor). Según las directrices COPE, esto representa más probablemente:",
+        "stem": "Un residente de OMFS presenta un informe de caso a BJOMS. El artículo es devuelto con una 'puntuación de similitud de iThenticate del 22%'. El editor señala que el 18% de la similitud proviene de la sección de Métodos (idéntica a una descripción de técnica previamente publicada por el mismo autor principal). Según las directrices de COPE, esto más probablemente representa:",
         "options": {
-          "A": "Similitud aceptable: las secciones de Métodos comparten habitualmente lenguaje técnico",
+          "A": "Similitud aceptable — las secciones de Métodos comparten habitualmente lenguaje técnico",
           "B": "Plagio que requiere rechazo independientemente de la autoría",
-          "C": "Reciclaje de texto (autoplagio) que requiere declaración y juicio editorial",
-          "D": "Fabricación que requiere derivación a la oficina de integridad en la investigación institucional"
+          "C": "Reciclaje de texto (autoplagio) que requiere divulgación y juicio editorial",
+          "D": "Fabricación que requiere remisión a la oficina de integridad de investigación institucional"
         },
         "correct": "C",
         "explanation": {
-          "correct": "Las Directrices COPE definen el reciclaje de texto (autoplagio) como la reutilización del propio texto previamente publicado sin atribución. Esto se diferencia del plagio externo, pero sigue siendo un problema de integridad en la publicación. Para las secciones de Métodos, cierto grado de solapamiento con descripciones de técnicas previamente publicadas es inevitable; los editores aplican su criterio basándose en si el solapamiento está declarado, si implica resultados o conclusiones y si constituye publicación duplicada. El residente debe declarar la publicación previa y parafrasear o citarla adecuadamente.",
+          "correct": "Las Directrices de COPE definen el reciclaje de texto (autoplagio) como la reutilización del texto previamente publicado propio sin atribución. Esto es distinto del plagio externo, pero sigue siendo un problema de integridad de publicación. Para las secciones de Métodos, cierto grado de solapamiento con las descripciones de técnicas previamente publicadas es inevitable; los editores aplican su juicio basándose en si el solapamiento se divulga, si implica resultados o conclusiones y si constituye publicación duplicada. El residente debe divulgar la publicación anterior y parafrasear o citarla apropiadamente.",
           "wrong": {
-            "A": "Aunque el solapamiento en los Métodos es habitual, un texto idéntico al 18% sin reconocimiento no es automáticamente aceptable. Se requiere declaración, y el editor debe emitir un juicio independiente.",
-            "B": "El autoplagio no es lo mismo que el plagio (usar el trabajo ajeno sin atribución). No requiere automáticamente el rechazo, pero sí revisión editorial y respuesta del autor.",
-            "D": "La fabricación implica inventar datos: esto no es fabricación. El reciclaje de texto es un problema de ética de publicación gestionado por los editores de la revista, con derivación institucional solo si se establece una conducta indebida grave."
+            "A": "Aunque el solapamiento de Métodos es frecuente, el texto idéntico al 18% sin reconocimiento no es automáticamente aceptable. Se requiere divulgación, y los editores deben emitir un juicio independiente.",
+            "B": "El autoplagio no es lo mismo que el plagio (usar el trabajo de otros sin atribución). No requiere automáticamente rechazo, pero sí revisión editorial y respuesta del autor.",
+            "D": "La fabricación implica inventar datos — esto no es fabricación. El reciclaje de texto es un problema de ética de publicación tratado por los editores de revistas, con remisión institucional solo si se establece mala conducta grave."
           },
-          "guideline": "Directrices COPE sobre Reciclaje de Texto (2024) — diagrama de flujo para gestionar el presunto reciclaje de texto en manuscritos presentados",
-          "trial": "Wager E & Wiffen PJ. Ethical issues in preparing and publishing systematic reviews (J Evid Based Med 2011): describió el espectro de los problemas de ética de publicación, incluido el autoplagio en las revisiones sistemáticas.",
-          "pearl": "El reciclaje de texto (autoplagio) requiere declaración y puede requerir parafrasear o citar el trabajo original. Las puntuaciones de similitud por sí solas no determinan la conducta indebida: se requiere contexto y juicio editorial."
-        },
-        "difficulty": 2
+          "guideline": "Directrices de COPE sobre Reciclaje de Texto (2024) — diagrama de flujo para el manejo del reciclaje de texto sospechado en manuscritos presentados",
+          "trial": "Wager E & Wiffen PJ. Ethical issues in preparing and publishing systematic reviews (J Evid Based Med 2011): detalló el espectro de problemas de ética de publicación, incluido el autoplagio en revisiones sistemáticas.",
+          "pearl": "El reciclaje de texto (autoplagio) requiere divulgación y puede requerir parafrasear o citar el trabajo original. Las puntuaciones de similitud por sí solas no determinan la mala conducta — se requieren el contexto y el juicio editorial.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q3",
-        "stem": "Un residente CMF de 38 años presenta un ECA que compara dos métodos de fijación para las fracturas condilares mandibulares al JOMS. El manuscrito tiene 4.800 palabras (límite del JOMS: 3.500 para artículos originales). El editor lo devuelve en 48 horas sin revisión externa. Esto se debe más probablemente a:",
+        "stem": "Un investigador de OMFS de 38 años presenta un ECA que compara dos métodos de fijación de fracturas condilares mandibulares a JOMS. El manuscrito tiene 4.800 palabras (límite de JOMS: 3.500 para artículos originales). El editor lo devuelve en 48 horas sin revisión externa. Esto es más probablemente porque:",
         "options": {
-          "A": "El editor identificó deficiencias metodológicas que requieren revisión mayor",
-          "B": "El manuscrito supera el límite de palabras, motivo de rechazo sin revisión",
-          "C": "El editor requiere la lista de verificación CONSORT antes de que pueda proceder la revisión por pares",
+          "A": "El editor identificó defectos metodológicos que requieren una revisión mayor",
+          "B": "El manuscrito superó el límite de palabras — motivo de rechazo de escritorio",
+          "C": "El editor requiere el listado de verificación CONSORT antes de que pueda proceder la revisión por pares",
           "D": "Dos revisores rechazaron la invitación y no había ningún revisor disponible"
         },
         "correct": "B",
         "explanation": {
-          "correct": "El rechazo sin revisión (rechazo editorial sin revisión externa) se produce cuando un manuscrito no cumple los requisitos básicos de presentación, incluidos los límites de palabras, los requisitos de formato, las listas de verificación necesarias, o está claramente fuera del alcance de la revista. Un exceso de palabras del 37% (4.800 frente a 3.500) es un motivo habitual de rechazo sin revisión. La devolución rápida en 48 horas es coherente con un plazo editorial más que con el plazo de revisión por pares, ya que la revisión externa habitualmente lleva de 4 a 12 semanas. Los autores deben leer atentamente las Instrucciones para Autores y cumplir todos los requisitos de presentación antes de presentar.",
+          "correct": "El rechazo de escritorio (rechazo editorial sin revisión externa) ocurre cuando un manuscrito no cumple los requisitos básicos de presentación, incluidos los límites de palabras, los requisitos de formato, los listados de verificación necesarios, o está claramente fuera del alcance de la revista. Un exceso del 37% en el recuento de palabras (4.800 vs 3.500) es un motivo frecuente de rechazo de escritorio. El rápido retorno en 48 horas es coherente con el calendario editorial en lugar del de revisión por pares, ya que la revisión externa típicamente tarda 4–12 semanas. Los autores deben leer cuidadosamente las Instrucciones para Autores y cumplir todos los requisitos de presentación antes de presentar.",
           "wrong": {
-            "A": "Las preocupaciones metodológicas identificadas por los editores normalmente resultarían en una carta de rechazo con comentarios, no en una devolución en 48 horas. La revisión editorial del contenido lleva más de 48 horas.",
-            "C": "La falta de listas de verificación es un motivo habitual de devolución inmediata, y el JOMS sí requiere CONSORT. Sin embargo, el escenario específico con 4.800 palabras que superan el límite es la explicación más parsimoniosa.",
-            "D": "La indisponibilidad de revisores no resultaría en una devolución en 48 horas: los editores buscarían revisores alternativos durante varias semanas antes de considerar el rechazo solo por este motivo."
+            "A": "Las preocupaciones metodológicas identificadas por los editores típicamente darían como resultado una carta de rechazo con comentarios, no una devolución en 48 horas. La revisión editorial del contenido tarda más de 48 horas.",
+            "C": "Los listados de verificación faltantes son un motivo frecuente de devolución inmediata, y JOMS requiere CONSORT. Sin embargo, el escenario específico con 4.800 palabras que supera el límite es la explicación más parsimonious.",
+            "D": "La falta de disponibilidad de revisores no daría como resultado una devolución en 48 horas — los editores buscarían revisores alternativos durante varias semanas antes de considerar el rechazo por este motivo."
           },
-          "guideline": "Recomendaciones del ICMJE (2024) — Responsabilidades Editoriales de la Revista; Instrucciones para Autores del JOMS (Elsevier, 2024): artículos originales ≤3.500 palabras",
-          "trial": "Chung KC & Shauver MJ. Fundamental principles of writing a successful grant proposal (J Hand Surg 2008): describió los principios de cumplimiento de los requisitos de presentación que se aplican igualmente a los manuscritos de revistas.",
-          "pearl": "Compruebe siempre los límites de palabras antes de presentar. La mayoría de las revistas quirúrgicas especifican los límites en sus Instrucciones para Autores. Superar estos límites es motivo de rechazo sin revisión."
-        },
-        "difficulty": 1
+          "guideline": "Recomendaciones del ICMJE (2024) — Responsabilidades editoriales de las revistas; Instrucciones para Autores de JOMS (Elsevier, 2024): artículos originales ≤3.500 palabras",
+          "trial": "Chung KC & Shauver MJ. Fundamental principles of writing a successful grant proposal (J Hand Surg 2008): esbozó los principios de cumplimiento de los requisitos de presentación que se aplican igualmente a los manuscritos para revistas.",
+          "pearl": "Comprueba siempre los límites de palabras antes de presentar. La mayoría de las revistas quirúrgicas especifican los límites en sus Instrucciones para Autores. Superar estos límites es motivo de rechazo de escritorio sin revisión.",
+          "difficulty": 1
+        }
       },
       {
         "id": "G4-Q4",
-        "stem": "En la sección de Discusión de un manuscrito CMF que notifica una cohorte prospectiva de 89 pacientes sometidos a osteotomía Le Fort I, los autores afirman: «Nuestros hallazgos demuestran que la osteotomía Le Fort I es segura y eficaz para todos los pacientes con hipoplasia maxilar». ¿Qué aspecto de la redacción científica infringe esta afirmación?",
+        "stem": "En la sección de Discusión de un manuscrito de OMFS que reporta una cohorte prospectiva de 89 pacientes sometidos a osteotomía Le Fort I, los autores afirman: 'Nuestros hallazgos demuestran que la osteotomía Le Fort I es segura y efectiva para todos los pacientes con hipoplasia maxilar.' ¿Qué aspecto de la redacción científica infringe esta afirmación?",
         "options": {
           "A": "El uso del tiempo pasado en la sección de Discusión",
-          "B": "Afirmar más de lo que los datos apoyan: una única cohorte prospectiva no puede «demostrar» la generalización",
-          "C": "La ausencia de una referencia a un ensayo de referencia para esta afirmación",
-          "D": "La Discusión no debe contener conclusiones: estas pertenecen a una sección de Conclusiones independiente"
+          "B": "Exagerar más allá de lo que los datos respaldan — una sola cohorte prospectiva no puede 'demostrar' generalización",
+          "C": "El fallo en incluir una referencia a un ensayo de referencia para esta afirmación",
+          "D": "La Discusión no debe contener conclusiones — estas pertenecen a una sección de Conclusiones separada"
         },
         "correct": "B",
         "explanation": {
-          "correct": "Afirmar más de lo que los datos apoyan es uno de los errores más frecuentes y graves de la redacción científica. Una única cohorte prospectiva (n=89) no puede «demostrar» nada: la demostración requiere evidencia reproducible en múltiples estudios y poblaciones. Además, la afirmación de que los hallazgos se aplican a «todos los pacientes» no está respaldada por un estudio con criterios de elegibilidad específicos. El lenguaje científico debe reflejar la solidez de la evidencia: «sugiere», «indica», «apoya la conclusión de que» o «es coherente con», no «demuestra». Los revisores y editores comprueban específicamente el lenguaje que exagera los hallazgos.",
+          "correct": "Exagerar es uno de los errores más frecuentes y graves en la redacción científica. Una única cohorte prospectiva (n=89) no puede 'demostrar' nada — la demostración requiere evidencia reproducible en múltiples estudios y poblaciones. Además, la afirmación de que los hallazgos se aplican a 'todos los pacientes' no está respaldada por un estudio con criterios de elegibilidad específicos. El lenguaje científico debe reflejar la solidez de la evidencia: 'sugiere', 'indica', 'apoya la conclusión de que' o 'es coherente con' — no 'demuestra'. Los revisores y los editores comprueban específicamente el lenguaje que sobredimensiona los hallazgos.",
           "wrong": {
-            "A": "La Discusión utiliza tanto el tiempo presente como el pasado; el tiempo presente para afirmaciones generales e interpretaciones es apropiado. El uso del tiempo verbal no es la infracción principal aquí.",
+            "A": "La Discusión usa tanto el tiempo presente como el pasado; el tiempo presente para las afirmaciones generales e interpretaciones es apropiado. El uso del tiempo verbal no es la infracción principal aquí.",
             "C": "Aunque las referencias a ensayos de referencia son importantes, la infracción aquí es la solidez de la afirmación, no la ausencia de una cita.",
-            "D": "Las conclusiones pueden aparecer al final de la sección de Discusión o en un párrafo de Conclusiones independiente: ambos formatos son aceptables en la mayoría de las revistas CMF."
+            "D": "Las conclusiones pueden aparecer al final de la sección de Discusión o en un párrafo de Conclusiones separado — ambos formatos son aceptables en la mayoría de las revistas de OMFS."
           },
-          "guideline": "Recomendaciones del ICMJE (2024) — Preparación y Presentación de Manuscritos; directrices de la Red EQUATOR sobre reporte transparente y preciso",
-          "trial": "Ioannidis JPA. Why most published research findings are false (PLoS Med 2005): el artículo seminal que demuestra que afirmar más de lo que los datos apoyan y los estudios infrapotenciados producen conclusiones no fiables, lectura fundamental para todos los investigadores clínicos.",
-          "pearl": "Sustituya «demuestra» por «sugiere» o «apoya». Un único estudio observacional no puede demostrar causalidad ni generalización. El lenguaje debe reflejar con precisión la capacidad inferencial del diseño del estudio."
-        },
-        "difficulty": 1
+          "guideline": "Recomendaciones del ICMJE (2024) — Preparación y presentación de manuscritos; directrices de la Red EQUATOR sobre reporte transparente y preciso",
+          "trial": "Ioannidis JPA. Why most published research findings are false (PLoS Med 2005): el artículo seminal que demuestra que exagerar y los estudios con potencia insuficiente producen conclusiones poco fiables — lectura fundacional para todos los investigadores clínicos.",
+          "pearl": "Reemplaza 'demuestra' con 'sugiere' o 'apoya'. Un único estudio observacional no puede demostrar causalidad ni generalización. El lenguaje debe reflejar con precisión la capacidad inferencial del diseño del estudio.",
+          "difficulty": 1
+        }
       },
       {
         "id": "G4-Q5",
-        "stem": "Una residente está preparando una revisión sistemática y metaanálisis de materiales de injerto óseo para la reparación del paladar hendido alveolar. Aún no ha registrado el protocolo. Antes de presentarlo a una revista, ¿cuál de los siguientes pasos es el más importante que debe completar primero?",
+        "stem": "Un residente está preparando una revisión sistemática y metaanálisis de materiales para injertos óseos en la reparación de la hendidura alveolar. Aún no ha registrado el protocolo. Antes de presentarlo a una revista, ¿cuál de los siguientes pasos es más importante completar primero?",
         "options": {
-          "A": "Completar la lista de verificación PRISMA 2020 y el diagrama de flujo",
+          "A": "Completar el listado de verificación PRISMA 2020 y el diagrama de flujo",
           "B": "Registrar el protocolo de forma prospectiva en PROSPERO",
-          "C": "Obtener la aprobación ética del comité de ética de investigación institucional",
+          "C": "Obtener la aprobación ética del comité de revisión institucional",
           "D": "Realizar las búsquedas en MEDLINE, Embase y CENTRAL"
         },
         "correct": "B",
         "explanation": {
-          "correct": "PROSPERO (Registro Internacional Prospectivo de Revisiones Sistemáticas, alojado en el Centro de Reseñas y Difusión de la Universidad de York) proporciona el registro prospectivo de los protocolos de revisión sistemática. El registro ANTES de realizar la revisión previene el sesgo de notificación de resultados a posteriori y el análisis selectivo. Las directrices PRISMA 2020 recomiendan firmemente el registro prospectivo, y la mayoría de las revistas requieren un número de registro PROSPERO en el resumen y los Métodos. El registro retrospectivo (tras completar las búsquedas o redactar la revisión) está permitido pero se señala como una limitación; el registro prospectivo es la buena práctica.",
+          "correct": "PROSPERO (International Prospective Register of Systematic Reviews, alojado en el Centre for Reviews and Dissemination, Universidad de York) proporciona el registro prospectivo de protocolos de revisiones sistemáticas. El registro ANTES de realizar la revisión evita el sesgo de reporte post hoc de desenlaces y el análisis selectivo. Las directrices PRISMA 2020 recomiendan encarecidamente el registro prospectivo, y la mayoría de las revistas requieren un número de registro de PROSPERO en el resumen y los Métodos. El registro retrospectivo (tras completar las búsquedas o redactar la revisión) está permitido, pero se señala como una limitación; el registro prospectivo es la mejor práctica.",
           "wrong": {
-            "A": "La lista de verificación PRISMA se completa al redactar la revisión sistemática, no antes de comenzar. No puede completarse de forma significativa antes de haber realizado la revisión.",
-            "C": "La investigación secundaria (revisiones sistemáticas que utilizan datos publicados) generalmente no requiere aprobación ética primaria, ya que los datos de los pacientes están agregados y anonimizados. Sin embargo, las políticas institucionales varían.",
-            "D": "Realizar las búsquedas antes del registro del protocolo conlleva el riesgo de notificación selectiva de resultados y modificaciones a posteriori del protocolo basadas en lo encontrado: el sesgo fundamental que el registro prospectivo previene."
+            "A": "El listado de verificación PRISMA se completa al redactar la revisión sistemática, no antes de comenzar. No puede completarse de forma significativa antes de realizar la revisión.",
+            "C": "La investigación secundaria (revisiones sistemáticas con datos publicados) generalmente no requiere aprobación ética primaria, ya que los datos de los pacientes son agregados y anónimos. Sin embargo, las políticas institucionales varían.",
+            "D": "Realizar búsquedas antes del registro del protocolo arriesga el reporte selectivo de desenlaces y las modificaciones post hoc del protocolo basadas en lo que se encontró — el sesgo clave que el registro prospectivo previene."
           },
-          "guideline": "Declaración PRISMA 2020 (Page et al., BMJ 2021) — Ítem 2 requiere número de registro PROSPERO; estándares de la Plataforma de Registros Internacionales de Ensayos Clínicos de la OMS",
-          "trial": "Higgins JPT et al. Cochrane Handbook for Systematic Reviews of Interventions Version 6.4 (2023): el Capítulo 1 subraya el registro prospectivo como fundamental para la integridad de la revisión sistemática.",
-          "pearl": "Regístrese en PROSPERO antes de comenzar las búsquedas. El registro previene cambios en los resultados a posteriori y es exigido por la mayoría de las revistas de alto impacto para las revisiones sistemáticas. El registro retrospectivo es una limitación."
-        },
-        "difficulty": 1
+          "guideline": "Declaración PRISMA 2020 (Page et al., BMJ 2021) — el ítem 2 requiere el número de registro de PROSPERO; estándares de la Plataforma Internacional de Registro de Ensayos Clínicos de la OMS",
+          "trial": "Higgins JPT et al. Cochrane Handbook for Systematic Reviews of Interventions Versión 6.4 (2023): el capítulo 1 enfatiza el registro prospectivo como fundamental para la integridad de las revisiones sistemáticas.",
+          "pearl": "Regístrate en PROSPERO antes de iniciar las búsquedas. El registro previene los cambios post hoc de desenlaces y es obligatorio en la mayoría de las revistas de alto impacto para las revisiones sistemáticas. El registro retrospectivo es una limitación.",
+          "difficulty": 1
+        }
       },
       {
         "id": "G4-Q6",
-        "stem": "Una unidad CMF presenta un manuscrito que notifica una cohorte retrospectiva de 134 pacientes sometidos a reconstrucción con colgajo libre por carcinoma epidermoide de cavidad oral, comparando los resultados funcionales entre el colgajo radial de antebrazo y el colgajo anterolateral de muslo. ¿Qué guía de reporte es la más adecuada?",
+        "stem": "Una unidad de OMFS presenta un manuscrito que reporta un estudio de cohortes retrospectivo de 134 pacientes sometidos a reconstrucción con colgajo libre por carcinoma epidermoide de la cavidad oral, comparando los resultados funcionales entre el colgajo radial de antebrazo y el colgajo anterolateral del muslo. ¿Qué guía de reporte es más apropiada?",
         "options": {
           "A": "CONSORT 2010",
           "B": "PRISMA 2020",
@@ -379,183 +379,183 @@
         },
         "correct": "C",
         "explanation": {
-          "correct": "STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) se aplica a los diseños de estudios observacionales, incluidos los estudios de cohortes, los estudios de casos y controles y los estudios transversales. Una cohorte retrospectiva que compara dos intervenciones quirúrgicas es un estudio de cohortes observacional. La lista de verificación STROBE (22 ítems) incluye: título que identifica el diseño del estudio, resumen, introducción con objetivos, métodos (ámbito, participantes, variables, manejo del sesgo, métodos estadísticos), resultados (flujo de participantes, datos descriptivos, datos de resultados), discusión (resultados clave, limitaciones, conclusiones) y financiación. El cumplimiento de STROBE es requerido por la mayoría de las revistas CMF para la investigación observacional.",
+          "correct": "STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) se aplica a los diseños de estudios observacionales, incluidos los estudios de cohortes, los estudios de caso-control y los estudios transversales. Una cohorte retrospectiva que compara dos intervenciones quirúrgicas es un estudio de cohortes observacional. El listado de verificación STROBE (22 ítems) incluye: título que identifica el diseño del estudio, resumen, introducción con objetivos, métodos (entorno, participantes, variables, manejo del sesgo, métodos estadísticos), resultados (flujo de participantes, datos descriptivos, datos de desenlaces), discusión (resultados clave, limitaciones, conclusiones) y financiación. La mayoría de las revistas de OMFS exigen la adherencia a STROBE para la investigación observacional.",
           "wrong": {
-            "A": "CONSORT se aplica a los ensayos clínicos aleatorizados. Este estudio es una cohorte retrospectiva: no hubo aleatorización, por lo que CONSORT no es correcto.",
-            "B": "PRISMA se aplica a las revisiones sistemáticas y metaanálisis, no a los estudios observacionales primarios.",
-            "D": "STARD se aplica a los estudios que evalúan la precisión de las pruebas diagnósticas (sensibilidad, especificidad, AUC), no es adecuado para un estudio de cohortes de comparación de tratamientos."
+            "A": "CONSORT se aplica a los ensayos controlados aleatorizados. Este estudio es una cohorte retrospectiva — no ocurrió aleatorización — por lo que CONSORT es incorrecto.",
+            "B": "PRISMA se aplica a revisiones sistemáticas y metaanálisis, no a estudios primarios observacionales.",
+            "D": "STARD se aplica a los estudios que evalúan la precisión de las pruebas diagnósticas (sensibilidad, especificidad, AUC) — no es apropiado para un estudio de cohortes de comparación de tratamientos."
           },
-          "guideline": "Declaración STROBE (von Elm et al., Lancet 2007; respaldada por la Red EQUATOR): lista de verificación de 22 ítems para estudios de cohortes, casos-controles y transversales",
-          "trial": "von Elm E et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies (Lancet 2007; 370:1453–1457): la publicación original de STROBE.",
-          "pearl": "STROBE = estudios observacionales (cohortes, casos-controles, transversales). CONSORT = ECA. PRISMA = revisiones sistemáticas. STARD = precisión diagnóstica. Relacione la guía con el diseño del estudio antes de presentar."
-        },
-        "difficulty": 1
+          "guideline": "Declaración STROBE (von Elm et al., Lancet 2007; avalada por la Red EQUATOR): listado de verificación de 22 ítems para estudios de cohortes, caso-control y transversales",
+          "trial": "von Elm E et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies (Lancet 2007; 370:1453–1457): la publicación original de STROBE que establece el listado.",
+          "pearl": "STROBE = estudios observacionales (cohortes, caso-control, transversales). CONSORT = ECA. PRISMA = revisiones sistemáticas. STARD = precisión diagnóstica. Asociar la guía con el diseño del estudio antes de presentar.",
+          "difficulty": 1
+        }
       },
       {
         "id": "G4-Q7",
-        "stem": "Un investigador recibe una decisión de «Revisión Mayor» para un ECA CMF. El Revisor 2 comenta: «Los autores no han tenido en cuenta la curva de aprendizaje del cirujano en su análisis primario, lo que afectaría sustancialmente a los resultados». Los autores creen que esto es incorrecto porque la aleatorización estratificada controló por cirujano. La respuesta más adecuada es:",
+        "stem": "Un investigador recibe una decisión de 'Revisión mayor' para un ECA de OMFS. El revisor 2 comenta: 'Los autores no han tenido en cuenta la curva de aprendizaje del cirujano en su análisis primario, lo que afectaría sustancialmente los resultados.' Los autores creen que esto es incorrecto porque la aleatorización estratificada controló al cirujano. La respuesta más apropiada es:",
         "options": {
-          "A": "Ignorar el comentario ya que refleja una comprensión errónea de los métodos estadísticos",
-          "B": "Abordar el comentario con respeto, explicar el fundamento de la aleatorización estratificada, hacer referencia al plan de análisis estadístico y citar la sección de Métodos relevante con números de página",
+          "A": "Ignorar el comentario ya que refleja una incomprensión de los métodos estadísticos",
+          "B": "Abordar el comentario con respeto, explicar la justificación de la aleatorización estratificada, referenciar el plan de análisis estadístico y citar la sección de Métodos relevante con números de página",
           "C": "Solicitar al editor que asigne un tercer revisor con experiencia en estadística quirúrgica",
-          "D": "Volver a presentar sin cambios y explicar en la carta de presentación que todos los comentarios de los revisores han sido abordados"
+          "D": "Reresentar sin cambios y explicar en la carta de presentación que todos los comentarios de los revisores han sido abordados"
         },
         "correct": "B",
         "explanation": {
-          "correct": "Todos los comentarios de los revisores deben abordarse en su totalidad, incluso si no está de acuerdo. El enfoque correcto es: reconocer la preocupación del revisor, explicar por qué la aleatorización estratificada por cirujano controló los efectos de la curva de aprendizaje, proporcionar la referencia específica del plan de análisis estadístico y citar el texto relevante de la sección de Métodos (con los números de página y línea). Si el revisor está equivocado, debe aportarse una justificación basada en evidencia: debe demostrar que el problema fue anticipado y controlado. Este enfoque satisface al editor y demuestra rigor metodológico.",
+          "correct": "Todos los comentarios de los revisores deben abordarse en su totalidad, incluso si no estás de acuerdo. El enfoque correcto es: reconocer la preocupación del revisor, explicar por qué la aleatorización estratificada por cirujano controló los efectos de la curva de aprendizaje, proporcionar la referencia específica del plan de análisis estadístico y citar el texto relevante de la sección de Métodos (con números de página y línea). Si el revisor está equivocado, debe proporcionarse justificación basada en evidencia — debes demostrar que el problema fue anticipado y controlado. Este enfoque satisface al editor y demuestra rigor metodológico.",
           "wrong": {
-            "A": "Ignorar los comentarios de los revisores nunca es aceptable. Cada comentario debe recibir una respuesta sustantiva, independientemente de si el autor está de acuerdo.",
-            "C": "Solicitar un tercer revisor no es la práctica estándar del autor durante la revisión. Esta decisión corresponde al editor. Los autores deben abordar los comentarios tal como los recibieron.",
-            "D": "Volver a presentar sin cambios afirmando que todos los comentarios han sido abordados es engañoso y probablemente resultará en rechazo. Los editores comprueban las cartas de respuesta con respecto a los manuscritos revisados."
+            "A": "Ignorar los comentarios de los revisores nunca es aceptable. Cada comentario debe recibir una respuesta sustancial, independientemente de si el autor está de acuerdo.",
+            "C": "Solicitar un tercer revisor no es la práctica estándar del autor durante la revisión. Esta decisión corresponde al editor. Los autores deben abordar los comentarios tal como los reciben.",
+            "D": "Reresentar sin cambios afirmando que todos los comentarios han sido abordados es engañoso y probablemente dará lugar al rechazo. Los editores verifican las cartas de respuesta comparándolas con los manuscritos revisados."
           },
-          "guideline": "Recomendaciones del ICMJE (2024) — Obligaciones de los Revisores y Autores en el Proceso de Revisión; Directrices Éticas COPE para Revisores por Pares (2017)",
+          "guideline": "Recomendaciones del ICMJE (2024) — Obligaciones de los revisores y autores en el proceso de revisión; Directrices éticas de COPE para revisores por pares (2017)",
           "trial": "Schroter S et al. Effects of training on quality of peer review: randomised controlled trial (BMJ 2004): demostró que las respuestas estructuradas a los comentarios de los revisores mejoraron las tasas de aceptación y la calidad de los artículos.",
-          "pearl": "Aborde todos los comentarios de los revisores, numerados secuencialmente. Aunque no esté de acuerdo, aporte evidencia y cite el texto revisado con números de página. Nunca ignore un comentario: es el motivo más habitual de rechazo tras la revisión mayor."
-        },
-        "difficulty": 2
+          "pearl": "Aborda todos los comentarios del revisor, numerados secuencialmente. Incluso si no estás de acuerdo, proporciona evidencia y cita el texto revisado con números de página. Nunca ignores un comentario — es la razón más frecuente de rechazo tras una revisión mayor.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q8",
-        "stem": "En la redacción de la sección de Resultados de un estudio observacional sobre los resultados de la sustitución total de la ATM (STAT), ¿cuál de las siguientes afirmaciones es apropiada para la sección de Resultados?",
+        "stem": "Al redactar la sección de Resultados de un estudio observacional sobre los resultados de la sustitución total de la articulación temporomandibular, ¿cuál de las siguientes afirmaciones es apropiada para la sección de Resultados?",
         "options": {
-          "A": "Estos hallazgos sugieren que la STAT proporciona resultados funcionales superiores en comparación con la literatura existente sobre el tratamiento conservador",
-          "B": "A los 24 meses, la puntuación mediana de la JFLS mejoró de 68 (RIC 58–74) a 22 (RIC 15–31), p<0,001",
-          "C": "Como en estudios previos de Wolford et al., la STAT parece ser un procedimiento seguro y eficaz para la enfermedad de la ATM en estadio terminal",
-          "D": "Estos resultados fueron estadísticamente significativos, confirmando la eficacia de la STAT"
+          "A": "Estos hallazgos sugieren que la ATT proporciona resultados funcionales superiores en comparación con la literatura existente sobre el manejo conservador",
+          "B": "A los 24 meses, la puntuación mediana de la Jaw Functional Limitation Scale (JFLS) mejoró de 68 (RIC 58–74) a 22 (RIC 15–31), p<0,001",
+          "C": "Como en estudios previos de Wolford et al., la ATT parece ser un procedimiento seguro y efectivo para la enfermedad de la ATM en fase terminal",
+          "D": "Estos resultados fueron estadísticamente significativos, confirmando la efectividad de la ATT"
         },
         "correct": "B",
         "explanation": {
-          "correct": "Las secciones de Resultados deben presentar datos sin interpretación. La opción B proporciona correctamente valores numéricos específicos (puntuaciones medianas de la JFLS), medidas de variabilidad (RIC) y el estadístico inferencial (valor p) con su valor. Para datos sesgados u ordinales como las puntuaciones de la JFLS, la mediana y el RIC son las estadísticas descriptivas apropiadas. La sección de Resultados responde a «qué se encontró»: no interpreta, no compara con la literatura ni extrae conclusiones.",
+          "correct": "Las secciones de Resultados deben presentar los datos sin interpretación. La opción B proporciona correctamente valores numéricos específicos (puntuaciones medianas de la JFLS), medidas de variabilidad (RIC) y el estadístico inferencial (valor p) con su valor. Para datos sesgados u ordinales como las puntuaciones de la JFLS, la mediana y el RIC son las estadísticas descriptivas apropiadas. La sección de Resultados responde a '¿qué se encontró?' — no interpreta, no compara con la literatura ni extrae conclusiones.",
           "wrong": {
-            "A": "Este es un lenguaje interpretativo que compara los hallazgos con la literatura existente: apropiado para la Discusión, no para los Resultados.",
-            "C": "La comparación con autores previos y la interpretación cualitativa («parece ser seguro y eficaz») pertenecen a la sección de Discusión.",
-            "D": "Afirmar que los resultados «confirman la eficacia» es tanto interpretativo como vago: carece de valores numéricos y extrae una conclusión inapropiada para la sección de Resultados."
+            "A": "Este es lenguaje interpretativo que compara los hallazgos con la literatura existente — apropiado para la Discusión, no los Resultados.",
+            "C": "La comparación con autores previos y la interpretación cualitativa ('parece ser seguro y efectivo') pertenecen a la sección de Discusión.",
+            "D": "Afirmar que los resultados 'confirman la efectividad' es tanto interpretativo como vago — carece de valores numéricos y extrae una conclusión inapropiada para la sección de Resultados."
           },
-          "guideline": "Recomendaciones del ICMJE (2024) — Estructura del Manuscrito: sección de Resultados; declaración STROBE Ítem 16: notificación de los resultados principales",
-          "trial": "Turner L et al. Consolidated Standards of Reporting Trials (CONSORT): a critical appraisal (BMC Med Res Methodol 2012): destacó la importancia de separar los resultados de la interpretación en los informes.",
-          "pearl": "Resultados = solo datos. Sin interpretación, sin comparación con la literatura, sin conclusiones. Incluya valores específicos, estadísticas descriptivas apropiadas (media±DE para distribución normal; mediana+RIC para distribución sesgada) y estadísticas inferenciales con valores e intervalos de confianza."
-        },
-        "difficulty": 2
+          "guideline": "Recomendaciones del ICMJE (2024) — Estructura del manuscrito: sección de Resultados; ítem 16 de STROBE: reporte de los resultados principales",
+          "trial": "Turner L et al. Consolidated Standards of Reporting Trials (CONSORT): a critical appraisal (BMC Med Res Methodol 2012): destacó la importancia de separar los resultados de la interpretación en el reporte.",
+          "pearl": "Resultados = solo datos. Sin interpretación, sin comparación con la literatura, sin conclusiones. Incluye valores específicos, estadísticas descriptivas apropiadas (media±DE para datos normales; mediana+RIC para datos sesgados) y estadísticas inferenciales con valores e intervalos de confianza.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q9",
-        "stem": "Una cirujana CMF adjunta de 45 años es la autora de correspondencia de un manuscrito cuando recibe la versión final aceptada para su corrección por parte de la revista. Se da cuenta de que el corrector de estilo ha cambiado «RIC 14–22» por «RIC ±8» en todos los Resultados. El cambio afecta a la notificación estadística del resultado primario. Debería:",
+        "stem": "Una consultora de OMFS de 45 años es la autora de correspondencia de un manuscrito cuando recibe la versión final aceptada para corrección de pruebas de la revista. Observa que el corrector de estilo ha cambiado 'RIC 14–22' a 'RIC ±8' en toda la sección de Resultados. El cambio afecta el reporte estadístico del desenlace primario. Debería:",
         "options": {
-          "A": "Aceptar el cambio, ya que los correctores son responsables del estilo de la revista",
-          "B": "Corregir el error en las pruebas y devolverlas con una explicación: el RIC no es simétrico y no puede expresarse como ±",
-          "C": "Ponerse en contacto con el revisor estadístico para que avale la corrección antes de devolver las pruebas",
-          "D": "Aceptar el cambio si resulta que el RIC es simétrico en este conjunto de datos"
+          "A": "Aceptar el cambio ya que los correctores de estilo son responsables del estilo de la revista",
+          "B": "Corregir el error en las pruebas y devolverlas con una explicación — el RIC no es simétrico y no puede expresarse como ±",
+          "C": "Contactar al revisor estadístico para que apruebe la corrección antes de devolver las pruebas",
+          "D": "Aceptar el cambio si el RIC resulta ser simétrico en este conjunto de datos"
         },
         "correct": "B",
         "explanation": {
-          "correct": "El rango intercuartílico (RIC) representa el rango del percentil 25 al 75 y es una medida asimétrica. Expresarlo como ± implica simetría alrededor de la mediana, lo cual es estadísticamente incorrecto. El autor debe corregir este error en la fase de pruebas: los autores son responsables de verificar la exactitud factual y estadística en las pruebas. Los correctores aplican convenciones de estilo, pero pueden no tener experiencia estadística; los autores deben comprobar siempre que los datos, las estadísticas y los valores p se conservan con precisión. Los errores no corregidos en artículos publicados requieren correcciones (fe de erratas), que quedan vinculadas permanentemente al artículo.",
+          "correct": "El rango intercuartílico (RIC) representa el rango del percentil 25 al 75 y es una medida asimétrica. Expresarlo como ± implica simetría alrededor de la mediana, lo cual es estadísticamente incorrecto. La autora debe corregir este error en la etapa de pruebas — los autores son responsables de verificar la exactitud factual y estadística en las pruebas. Los correctores de estilo aplican convenciones de estilo, pero pueden no tener experiencia estadística; los autores siempre deben comprobar que los datos, las estadísticas y los valores p se conservan con precisión. Los errores no corregidos en los artículos publicados requieren correcciones (errata), que quedan permanentemente vinculadas al artículo.",
           "wrong": {
-            "A": "Los correctores aplican el estilo, no la corrección estadística. Los autores tienen la responsabilidad final de la exactitud de todos los datos y estadísticas antes de la publicación.",
-            "C": "Ponerse en contacto con un revisor tras la aceptación no es el mecanismo adecuado. El autor tiene la autoridad y la responsabilidad de corregir los errores estadísticos en la fase de pruebas.",
-            "D": "Incluso si numéricamente equivalente en un conjunto de datos específico, ± implica una distribución simétrica, lo que sería estadísticamente engañoso para el RIC y constituiría una notificación incorrecta."
+            "A": "Los correctores aplican estilo, no corrección estadística. Los autores tienen la responsabilidad final de la exactitud de todos los datos y las estadísticas antes de la publicación.",
+            "C": "Contactar a un revisor tras la aceptación no es el mecanismo apropiado. El autor tiene la autoridad y la responsabilidad de corregir los errores estadísticos en la etapa de pruebas.",
+            "D": "Incluso si numéricamente equivalente en un conjunto de datos específico, ± implica una distribución simétrica, lo cual es estadísticamente engañoso para el RIC y sería un reporte incorrecto."
           },
-          "guideline": "Recomendaciones del ICMJE (2024) — Preparación de Manuscritos: garantizar la exactitud de la notificación estadística; Manual de Estilo de la AMA (11.ª ed.): convenciones de notificación estadística",
-          "trial": "Altman DG et al. The revised CONSORT statement for reporting randomised trials (Lancet 2001): estableció estándares para la notificación estadística, incluida la presentación correcta de las medidas descriptivas.",
-          "pearl": "El RIC siempre se expresa como Q1–Q3 (p. ej., 14–22), nunca como ±. La media±DE se aplica a datos continuos normalmente distribuidos. Los autores deben verificar la exactitud estadística en la fase de pruebas: los correctores no son estadísticos."
-        },
-        "difficulty": 2
+          "guideline": "Recomendaciones del ICMJE (2024) — Preparación de manuscritos: garantizar la exactitud del reporte estadístico; AMA Manual of Style (11ª ed): convenciones de reporte estadístico",
+          "trial": "Altman DG et al. The revised CONSORT statement for reporting randomised trials (Lancet 2001): estableció estándares para el reporte de estadísticas, incluida la presentación correcta de las medidas descriptivas.",
+          "pearl": "El RIC siempre se expresa como Q1–Q3 (p. ej., 14–22), nunca como ±. Media±DE se aplica a datos continuos normalmente distribuidos. Los autores deben verificar la exactitud estadística en la etapa de pruebas — los correctores no son estadísticos.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q10",
-        "stem": "Un residente CMF presenta un manuscrito al IJOMS que describe un nuevo dispositivo de distracción osteogénica mandibular. El estudio incluye 12 pacientes (brazo único, prospectivo) con seguimiento de 12 meses. El editor solicita a los autores que declaren en qué etapa del marco IDEAL se encuadra este trabajo. La clasificación más apropiada es:",
+        "stem": "Un residente de OMFS presenta un manuscrito a IJOMS describiendo un nuevo dispositivo de distracción osteogénica mandibular. El estudio involucra a 12 pacientes (brazo único, prospectivo) con seguimiento de 12 meses. El editor solicita que los autores declaren qué etapa del marco IDEAL representa este trabajo. La clasificación más apropiada es:",
         "options": {
-          "A": "Etapa IDEAL 1 — primer caso en humanos (case report)",
-          "B": "Etapa IDEAL 2a — etapa de desarrollo con pequeña serie prospectiva",
+          "A": "Etapa IDEAL 1 — informe de caso en primera aplicación en humanos",
+          "B": "Etapa IDEAL 2a — etapa de desarrollo con serie prospectiva pequeña",
           "C": "Etapa IDEAL 3 — ECA de eficacia",
           "D": "Etapa IDEAL 4 — registro de vigilancia a largo plazo"
         },
         "correct": "B",
         "explanation": {
-          "correct": "El marco IDEAL (McCulloch et al., Lancet 2009) clasifica la innovación quirúrgica en etapas: Etapa 1 (primer uso en un paciente — caso clínico/serie de 1–5 casos), Etapa 2a (etapa de desarrollo — pequeña serie prospectiva de 5–50 casos, con modificaciones aún en curso), Etapa 2b (exploratoria — cohorte más amplia con técnica definida, 50–200 casos), Etapa 3 (evaluación — ECA que compara con el tratamiento establecido), Etapa 4 (largo plazo — registro de vigilancia). Un estudio prospectivo de brazo único de 12 pacientes con un nuevo dispositivo, con seguimiento definido pero en el que pueden haberse producido modificaciones del dispositivo, corresponde a la Etapa 2a. El IJOMS y el JCMFS exigen cada vez más la declaración de la etapa IDEAL en los artículos de innovación quirúrgica.",
+          "correct": "El marco IDEAL (McCulloch et al., Lancet 2009) clasifica la innovación quirúrgica en etapas: Etapa 1 (primer uso en un paciente — informe/serie de casos de 1–5), Etapa 2a (etapa de desarrollo — serie prospectiva pequeña 5–50, con modificaciones aún en curso), Etapa 2b (exploratoria — cohorte más grande con técnica definida, 50–200), Etapa 3 (evaluación — ECA que compara con el tratamiento establecido), Etapa 4 (a largo plazo — registro de vigilancia). Un estudio prospectivo de brazo único de 12 pacientes con un nuevo dispositivo, con seguimiento definido pero donde pueden haber ocurrido modificaciones del dispositivo, corresponde a la Etapa 2a. IJOMS y JCMFS exigen cada vez más la declaración de la etapa IDEAL para artículos de innovación quirúrgica.",
           "wrong": {
-            "A": "La Etapa 1 es el primer informe en humanos de 1–5 casos: 12 pacientes con seguimiento prospectivo sistemático supera esta definición.",
-            "C": "La Etapa 3 requiere un ensayo clínico aleatorizado que compare la intervención con una alternativa establecida: no es un estudio de brazo único.",
-            "D": "La Etapa 4 es un registro de vigilancia postcomercialización a largo plazo de un procedimiento establecido, que habitualmente involucra a cientos de pacientes durante muchos años."
+            "A": "La Etapa 1 es un informe de primera aplicación en humanos de 1–5 casos — 12 pacientes con seguimiento prospectivo sistemático supera esto.",
+            "C": "La Etapa 3 requiere un ensayo controlado aleatorizado que compare la intervención con una alternativa establecida — no un estudio de brazo único.",
+            "D": "La Etapa 4 es un registro de vigilancia posmercado a largo plazo de un procedimiento establecido, que típicamente involucra a cientos de pacientes durante muchos años."
           },
-          "guideline": "Marco IDEAL (McCulloch et al., Lancet 2009; IDEAL-D para dispositivos actualizado en 2016) — Etapa 2a: etapa de desarrollo, serie prospectiva de 5–50 pacientes",
-          "trial": "McCulloch P et al. No surgical innovation without evaluation: the IDEAL recommendations (Lancet 2009; 374:1105–1112): el artículo fundacional del IDEAL que define todas las etapas con criterios y requisitos de reporte.",
-          "pearl": "Estudio prospectivo de brazo único de 12 pacientes con un nuevo dispositivo = Etapa IDEAL 2a. La etapa IDEAL debe declararse en el título o el resumen de los artículos de innovación quirúrgica presentados a las revistas afiliadas a EACMFS/BAOMS."
-        },
-        "difficulty": 2
+          "guideline": "Marco IDEAL (McCulloch et al., Lancet 2009; actualizado IDEAL-D para dispositivos 2016) — Etapa 2a: etapa de desarrollo, serie prospectiva 5–50 pacientes",
+          "trial": "McCulloch P et al. No surgical innovation without evaluation: the IDEAL recommendations (Lancet 2009; 374:1105–1112): el artículo fundacional de IDEAL que define las cinco etapas con criterios y requisitos de reporte.",
+          "pearl": "Estudio prospectivo de brazo único de 12 pacientes con un nuevo dispositivo = Etapa IDEAL 2a. La etapa IDEAL debe declararse en el título o el resumen de los artículos de innovación quirúrgica presentados a revistas afiliadas a EACMFS/BAOMS.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q11",
-        "stem": "Se presenta al BJOMS una revisión sistemática de los regímenes de antibióticos profilácticos para la cirugía ortognática. Los autores realizaron la búsqueda únicamente en MEDLINE en junio de 2022, pero presentan el artículo en marzo de 2024. No han actualizado las búsquedas. La deficiencia metodológica más crítica es:",
+        "stem": "Una revisión sistemática de regímenes de antibióticos profilácticos para la cirugía ortognática es presentada a BJOMS. Los autores buscaron solo en MEDLINE y realizaron las búsquedas en junio de 2022, pero están presentando en marzo de 2024. No han actualizado las búsquedas. La deficiencia metodológica más crítica es:",
         "options": {
-          "A": "No haberse registrado en PROSPERO antes de la búsqueda",
-          "B": "Restringir las búsquedas a una única base de datos sin consultar Embase, CENTRAL y la literatura gris",
-          "C": "Búsquedas desactualizadas: han transcurrido 21 meses desde las búsquedas; es posible que se haya publicado nueva evidencia",
-          "D": "Ausencia de una evaluación del riesgo de sesgo con QUADAS-2"
+          "A": "No registrarse en PROSPERO antes de las búsquedas",
+          "B": "Restringir las búsquedas a una sola base de datos sin buscar en Embase, CENTRAL y la literatura gris",
+          "C": "Búsquedas desactualizadas — transcurridos 21 meses desde las búsquedas; puede haberse publicado nueva evidencia",
+          "D": "Ausencia de una evaluación del riesgo de sesgo QUADAS-2"
         },
         "correct": "B",
         "explanation": {
-          "correct": "Restringir las búsquedas a una única base de datos (solo MEDLINE) es un defecto metodológico crítico. MEDLINE recoge aproximadamente el 40–50% de la literatura de ensayos clínicos relevante; Embase tiene una cobertura superior de las revistas europeas y los estudios farmacológicos; CENTRAL (Registro Central de Ensayos Controlados Cochrane) incluye ECA no indexados en MEDLINE ni en Embase; la literatura gris (registros de ensayos clínicos, actas de congresos, bases de datos reguladoras) aborda el sesgo de publicación. El PRISMA 2020 y el Manual Cochrane obligan a realizar búsquedas exhaustivas en múltiples bases de datos. Aunque las búsquedas desactualizadas (opción C) son también un problema significativo, la cobertura incompleta de bases de datos es un defecto más fundamental que afecta a la validez de las estimaciones combinadas independientemente del momento.",
+          "correct": "Restringir las búsquedas a una única base de datos (solo MEDLINE) es un defecto metodológico crítico. MEDLINE captura aproximadamente el 40–50% de la literatura relevante de ensayos clínicos; Embase tiene mejor cobertura de revistas europeas y estudios farmacológicos; CENTRAL (Cochrane Central Register of Controlled Trials) incluye ECA no indexados en MEDLINE ni Embase; la literatura gris (registros de ensayos clínicos, actas de congresos, bases de datos regulatorias) aborda el sesgo de publicación. PRISMA 2020 y el Cochrane Handbook exigen una búsqueda multibases comprehensiva. Aunque las búsquedas desactualizadas (opción C) también son un problema importante, la cobertura incompleta de bases de datos es un defecto más fundamental que afecta la validez de las estimaciones agrupadas independientemente del momento.",
           "wrong": {
-            "A": "El registro en PROSPERO es importante, pero la falta de registro no invalida las conclusiones clínicas de la revisión: es un problema de transparencia, no de validez.",
-            "C": "Las búsquedas de 21 meses de antigüedad son una limitación significativa y la mayoría de las revistas exigen búsquedas dentro de los 12 meses anteriores a la presentación, pero la cobertura incompleta de bases de datos produce un sesgo más sistemático que el momento de la búsqueda.",
-            "D": "QUADAS-2 se aplica a las revisiones sistemáticas de precisión diagnóstica: para los ECA de profilaxis antibiótica, sería apropiado el RoB 2 (para ECA) o Newcastle-Ottawa (para estudios observacionales). Usar la herramienta incorrecta es un problema, pero la cobertura incompleta de bases de datos es más crítica."
+            "A": "El registro en PROSPERO es importante, pero su ausencia no invalida las conclusiones clínicas de la revisión — es un problema de transparencia, no de validez.",
+            "C": "Las búsquedas de 21 meses de antigüedad son una limitación significativa y la mayoría de las revistas requieren búsquedas en los 12 meses previos a la presentación, pero la cobertura incompleta de bases de datos produce un sesgo más sistemático que el momento de las búsquedas.",
+            "D": "QUADAS-2 se aplica a las revisiones sistemáticas de precisión diagnóstica — para ECA de profilaxis antibiótica, sería apropiado RoB 2 (para ECA) o Newcastle-Ottawa (para estudios observacionales). Usar la herramienta incorrecta es un problema, pero la cobertura incompleta de bases de datos es más crítica."
           },
-          "guideline": "Declaración PRISMA 2020 (Page et al., BMJ 2021) — Ítem 6: fuentes de información; Manual Cochrane Versión 6.4 (2023) Capítulo 4: Búsqueda y selección de estudios",
-          "trial": "Sampson M et al. An evidence-based practice guideline for the peer review of electronic search strategies (J Clin Epidemiol 2009): demostró que las búsquedas solo en MEDLINE pierden el 30–60% de los estudios relevantes en comparación con las búsquedas exhaustivas en múltiples bases de datos.",
-          "pearl": "Las revisiones sistemáticas deben consultar como mínimo: MEDLINE, Embase, CENTRAL, más registros de ensayos (ClinicalTrials.gov, ICTRP) y literatura gris. Las búsquedas solo en MEDLINE son insuficientes y motivo de rechazo."
-        },
-        "difficulty": 2
+          "guideline": "Declaración PRISMA 2020 (Page et al., BMJ 2021) — ítem 6: fuentes de información; Cochrane Handbook Versión 6.4 (2023) Capítulo 4: Búsqueda y selección de estudios",
+          "trial": "Sampson M et al. An evidence-based practice guideline for the peer review of electronic search strategies (J Clin Epidemiol 2009): demostró que las búsquedas solo en MEDLINE pierden el 30–60% de los estudios relevantes en comparación con las búsquedas multibases comprehensivas.",
+          "pearl": "Las revisiones sistemáticas deben buscar como mínimo en: MEDLINE, Embase, CENTRAL, más registros de ensayos (ClinicalTrials.gov, ICTRP) y literatura gris. Las búsquedas solo en MEDLINE son insuficientes y motivo de rechazo.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q12",
-        "stem": "Una investigadora CMF está redactando la sección de Métodos de un ECA que compara la fijación con placas de titanio frente a placas reabsorbibles para las fracturas mandibulares pediátricas. Ha escrito la siguiente oración: «El resultado primario fue el dolor comunicado por el paciente de forma subjetiva». Un revisor señala que esto es inadecuado. El motivo más importante es:",
+        "stem": "Un residente de OMFS está redactando la sección de Métodos de un ECA que compara la fijación con placas de titanio frente a placas reabsorbibles para fracturas mandibulares pediátricas. Ha escrito la siguiente frase: 'El desenlace primario fue el dolor subjetivo comunicado por el paciente.' Un revisor identifica esto como inadecuado. La razón más importante es:",
         "options": {
-          "A": "El dolor no debería ser un resultado primario en un estudio de fijación de fracturas",
-          "B": "El instrumento de medición, el rango de la escala, el punto temporal y la diferencia mínima importante no están especificados",
-          "C": "Los resultados comunicados por el paciente requieren una subsección independiente en los Métodos",
-          "D": "La oración debería indicar también los resultados secundarios"
+          "A": "El dolor no debería ser un desenlace primario para un estudio de fijación de fracturas",
+          "B": "El instrumento de medida, el rango de la escala, el punto temporal y la diferencia importante mínima no están especificados",
+          "C": "Los resultados comunicados por el paciente requieren una subsección separada en los Métodos",
+          "D": "La frase debería declarar también los desenlaces secundarios"
         },
         "correct": "B",
         "explanation": {
-          "correct": "Para que cualquier resultado esté adecuadamente definido en los Métodos de un ensayo clínico, el Ítem 6b del CONSORT 2010 requiere: definición completa de todos los resultados preespecificados, incluidos el instrumento de medición (p. ej., «Escala de Valoración Numérica 0–10»), las características de la escala, el método de administración y los puntos temporales de medición preespecificados (p. ej., «a las 1, 4 y 12 semanas postoperatorias»). Para los RCP, también debe indicarse la diferencia clínicamente importante mínima (DCIM) utilizada para el cálculo del tamaño muestral. «Dolor comunicado por el paciente de forma subjetiva» no proporciona ninguna de esta información, lo que hace imposible replicar el estudio o evaluar la validez del análisis.",
+          "correct": "Para que cualquier desenlace esté adecuadamente definido en los Métodos de un ensayo clínico, el ítem 6b de CONSORT 2010 exige: definición completa de todos los desenlaces preespecificados, incluido el instrumento de medida (p. ej., 'Escala de Valoración Numérica 0–10'), las características de la escala, el método de administración y los puntos temporales de medida preespecificados (p. ej., 'en las semanas 1, 4 y 12 postoperatorias'). Para los PRO, la diferencia mínima clínicamente importante (DMCI) utilizada para el cálculo del tamaño muestral también debe declararse. 'Dolor subjetivo comunicado por el paciente' no proporciona ninguna de esta información, haciendo imposible replicar el estudio o evaluar la validez del análisis.",
           "wrong": {
-            "A": "El dolor es un resultado primario clínicamente válido para la cirugía de fijación de fracturas, especialmente en pacientes pediátricos donde la experiencia del paciente es central. Los ECA CMF utilizan frecuentemente el dolor como resultado primario.",
-            "C": "Los RCP pueden describirse dentro de la subsección de resultados principal; una subsección independiente no está obligada por CONSORT ni por el ICMJE.",
-            "D": "Los resultados secundarios son importantes, pero el problema principal es la definición inadecuada del resultado primario, no la ausencia de resultados secundarios."
+            "A": "El dolor es un desenlace primario clínicamente válido para la cirugía de fijación de fracturas, especialmente en pacientes pediátricos donde la experiencia del paciente es fundamental. Los ECA de OMFS frecuentemente utilizan el dolor como desenlace primario.",
+            "C": "Los PRO pueden describirse dentro de la subsección principal de desenlaces; no se exige una subsección separada por CONSORT ni el ICMJE.",
+            "D": "Los desenlaces secundarios son importantes, pero el problema principal es la definición inadecuada del desenlace primario, no la ausencia de desenlaces secundarios."
           },
-          "guideline": "Declaración CONSORT 2010 (Moher et al., BMJ 2010) — Ítem 6a: medidas de resultado primarias y secundarias preespecificadas y completamente definidas, incluyendo cómo y cuándo se evaluaron",
-          "trial": "Zwarenstein M et al. Improving the reporting of pragmatic trials: an extension of the CONSORT statement (BMJ 2008): amplió el CONSORT a los ensayos quirúrgicos pragmáticos con orientación específica sobre la medición de resultados.",
-          "pearl": "Cada resultado en los Métodos debe especificar: el instrumento de medición (herramienta validada), el rango de la escala, quién lo administra (paciente, clínico, evaluador cegado) y los puntos temporales exactos. Las definiciones de resultados vagas vulneran el Ítem 6a del CONSORT."
-        },
-        "difficulty": 2
+          "guideline": "Declaración CONSORT 2010 (Moher et al., BMJ 2010) — ítem 6a: desenlaces primarios y secundarios preespecificados completamente definidos, incluido cómo y cuándo fueron evaluados",
+          "trial": "Zwarenstein M et al. Improving the reporting of pragmatic trials: an extension of the CONSORT statement (BMJ 2008): extendió CONSORT a ensayos quirúrgicos pragmáticos con orientación específica sobre la medición de desenlaces.",
+          "pearl": "Cada desenlace en los Métodos debe especificar: el instrumento de medida (herramienta validada), el rango de la escala, quién lo administra (paciente, clínico, evaluador cegado) y los puntos temporales exactos. Las definiciones vagas de desenlaces violan el ítem 6a de CONSORT.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q13",
-        "stem": "Un residente presenta simultáneamente el mismo caso clínico de una presentación inusual de queratoquiste odontogénico al BJOMS y a Oral Surgery (revista del Reino Unido). El artículo es aceptado primero por el BJOMS y publicado. Tres meses después, la segunda revista contacta al residente preguntando por qué el mismo artículo se publicó en otra parte. Esto representa:",
+        "stem": "Un residente presenta el mismo informe de caso de una presentación inusual de queratoquiste odontogénico simultáneamente a BJOMS y a Oral Surgery (revista del Reino Unido). El artículo es aceptado primero por BJOMS y publicado. Tres meses después, la segunda revista contacta al residente preguntando por qué el mismo artículo se publicó en otro lugar. Esto representa:",
         "options": {
-          "A": "Publicación redundante (duplicada): una infracción ética que requiere la retractación de uno de los artículos",
-          "B": "Práctica aceptable, ya que los casos clínicos tienen un impacto científico limitado",
+          "A": "Publicación redundante (duplicada) — una infracción ética que requiere la retractación de uno de los artículos",
+          "B": "Una práctica aceptable ya que los informes de caso tienen un impacto científico limitado",
           "C": "Solo un problema de derechos de autor, sin implicaciones éticas",
-          "D": "Presentación simultánea: permitida si ambos editores son informados en el momento de la presentación"
+          "D": "Presentación simultánea — permitida si ambos editores son informados en el momento de la presentación"
         },
         "correct": "A",
         "explanation": {
-          "correct": "La publicación duplicada —presentar el mismo manuscrito simultáneamente a dos revistas, o publicar los mismos datos en dos artículos separados sin referencia cruzada— vulnera los requisitos del ICMJE. Todas las revistas exigen una declaración de que el trabajo no ha sido publicado previamente y no está siendo considerado simultáneamente en otra parte. Las Directrices COPE exigen la retractación de la publicación duplicada y la notificación a ambas instituciones. La justificación científica es que los datos duplicados inflan artificialmente la base de evidencia; las revisiones sistemáticas podrían incluir inadvertidamente los mismos pacientes dos veces, sesgando los resultados combinados. Los casos clínicos no están exentos de este principio.",
+          "correct": "La publicación duplicada — presentar el mismo manuscrito simultáneamente a dos revistas, o publicar los mismos datos en dos artículos separados sin referencias cruzadas — viola los requisitos del ICMJE. Todas las revistas exigen una declaración de que el trabajo no ha sido publicado previamente y no está siendo considerado simultáneamente en otro lugar. Las Directrices de COPE exigen la retractación de la publicación duplicada y la notificación a ambas instituciones. La justificación científica es que los datos duplicados inflan artificialmente la base de evidencia; las revisiones sistemáticas pueden incluir inadvertidamente a los mismos pacientes dos veces, sesgando los resultados agrupados. Los informes de caso no están exentos de este principio.",
           "wrong": {
-            "A": "Esta es la respuesta correcta: la publicación redundante requiere retractación.",
-            "B": "El impacto científico no atenúa las infracciones éticas. Los casos clínicos de presentaciones inusuales contribuyen a la literatura y están sujetos a los mismos estándares éticos que los ECA.",
-            "C": "Los derechos de autor son un problema separado (cesión de derechos al editor); la infracción ética de la publicación duplicada es independiente del derecho de autor.",
-            "D": "La presentación simultánea no está permitida según las directrices del ICMJE, independientemente de la notificación al editor. La excepción existe solo para las «publicaciones vinculadas» en las que dos revistas acuerdan de antemano, lo que es excepcional y se negocia explícitamente."
+            "A": "Esta es la respuesta correcta — la publicación redundante requiere retractación.",
+            "B": "El impacto científico no mitiga las infracciones éticas. Los informes de caso de presentaciones inusuales contribuyen a la literatura y están sujetos a los mismos estándares éticos que los ECA.",
+            "C": "El derecho de autor es un problema separado (transferencia del derecho de autor al editor); la infracción ética de la publicación duplicada es independiente de la ley de derechos de autor.",
+            "D": "La presentación simultánea no está permitida según las directrices del ICMJE, independientemente de la notificación al editor. Solo existe una excepción para las 'publicaciones vinculadas' donde dos revistas acuerdan de antemano, lo cual es raro y se negocia explícitamente."
           },
-          "guideline": "Recomendaciones del ICMJE (2024) — Publicaciones Superpuestas; Diagrama de Flujo COPE para Gestionar la Presunta Publicación Redundante (2024)",
-          "trial": "Blancett SS et al. Duplicate publications in nursing research (Nurs Res 1995): uno de los primeros análisis sistemáticos que demostró que las publicaciones duplicadas inflan la literatura y comprometen las revisiones sistemáticas.",
-          "pearl": "Nunca presente a dos revistas simultáneamente. La publicación duplicada requiere retractación. La única publicación previa permitida es un resumen de congreso, declarado en el momento de la presentación."
-        },
-        "difficulty": 1
+          "guideline": "Recomendaciones del ICMJE (2024) — Publicaciones superpuestas; Diagrama de flujo de COPE para el manejo de la publicación redundante sospechada (2024)",
+          "trial": "Blancett SS et al. Duplicate publications in nursing research (Nurs Res 1995): uno de los primeros análisis sistemáticos que demostraron que las publicaciones duplicadas inflan la literatura y comprometen las revisiones sistemáticas.",
+          "pearl": "Nunca presentar a dos revistas simultáneamente. La publicación duplicada requiere retractación. La única publicación previa permitida es un resumen de congreso — divulgado en la presentación.",
+          "difficulty": 1
+        }
       },
       {
         "id": "G4-Q14",
-        "stem": "Un profesor CMF calcula el índice h de un colega que solicita una plaza de adjunto. El colega tiene 40 artículos publicados; 12 de estos artículos han sido citados al menos 12 veces cada uno, y 28 han sido citados menos de 12 veces. El índice h del colega es:",
+        "stem": "Un profesor de OMFS calcula el índice h de un colega que solicita un puesto de consultor. El colega tiene 40 artículos publicados; 12 de estos artículos han sido citados al menos 12 veces cada uno, y 28 han sido citados menos de 12 veces. El índice h del colega es:",
         "options": {
           "A": "40",
           "B": "28",
@@ -564,155 +564,155 @@
         },
         "correct": "C",
         "explanation": {
-          "correct": "El índice h (índice de Hirsch, Hirsch 2005) se define como el valor máximo de h tal que el investigador tiene h artículos citados cada uno al menos h veces. En este caso, el investigador tiene 12 artículos citados ≥12 veces, lo que confirma que h=12 (ya que el artículo más citado en el puesto 13 ha sido citado menos de 13 veces). El índice h recompensa tanto la productividad como el impacto: para aumentar el índice h de 12 a 13, necesitaría un decimotercer artículo que alcance ≥13 citas. Por eso el índice h aumenta lentamente a lo largo de la carrera y está sesgado hacia los investigadores más veteranos.",
+          "correct": "El índice h (índice de Hirsch, Hirsch 2005) se define como el valor máximo de h tal que el investigador tiene h artículos citados al menos h veces. En este caso, el investigador tiene 12 artículos citados ≥12 veces — confirmando que h=12 (ya que el 13º artículo más citado ha sido citado menos de 13 veces). El índice h recompensa tanto la productividad como el impacto: para aumentar el índice h de 12 a 13, necesitarías un 13º artículo que alcanzara ≥13 citas. Esta es la razón por la que el índice h aumenta lentamente a lo largo de una carrera y está sesgado hacia los investigadores más antiguos.",
           "wrong": {
-            "A": "40 es el número total de artículos (una medida de productividad, no de impacto). Sería el número de publicaciones, no el índice h.",
-            "B": "28 es el número de artículos citados menos de 12 veces: no es relevante para el cálculo del índice h.",
-            "D": "Los recuentos exactos de citas de los 12 artículos citados ≥12 veces y de los 28 artículos citados <12 veces son suficientes para calcular h=12. Los valores precisos por encima de 12 no afectan al índice h."
+            "A": "40 es el número total de artículos (una medida de productividad, no de impacto). Esto sería el número de publicaciones, no el índice h.",
+            "B": "28 es el número de artículos citados menos de 12 veces — no es relevante para el cálculo del índice h.",
+            "D": "Los recuentos exactos de citas para los 12 artículos citados ≥12 veces y los 28 artículos citados <12 veces son suficientes para calcular h=12. Los valores precisos por encima de 12 no afectan al índice h."
           },
-          "guideline": "Hirsch JE. An index to quantify an individual's scientific research output (PNAS 2005): el artículo original del índice h; las páginas de perfil de autor de Scopus y Web of Science calculan el índice h automáticamente.",
-          "trial": "Hirsch JE. An index to quantify an individual's scientific research output (Proc Natl Acad Sci USA 2005; 102:16569–72): el artículo original del índice h, que demuestra que una medida combinada de publicaciones y citas refleja mejor el impacto individual de la investigación que cualquiera de las dos por separado.",
-          "pearl": "Índice h = h máximo tal que tiene h artículos citados ≥h veces. Para calcularlo: ordene los artículos por número de citas; encuentre el punto donde el rango es igual al número de citas. El índice h está sesgado hacia investigadores séniors/prolíficos y varía según el campo."
-        },
-        "difficulty": 2
+          "guideline": "Hirsch JE. An index to quantify an individual's scientific research output (PNAS 2005): el artículo original del índice h; los perfiles de autor de Scopus y Web of Science calculan el índice h automáticamente.",
+          "trial": "Hirsch JE. An index to quantify an individual's scientific research output (Proc Natl Acad Sci USA 2005; 102:16569–72): el artículo original del índice h que demuestra que una medida combinada de publicaciones y citas refleja mejor el impacto de la investigación individual que cualquiera de ellas por separado.",
+          "pearl": "Índice h = h máximo tal que tienes h artículos citados ≥h veces. Para calcular: ordena los artículos por recuento de citas; encuentra el punto donde el rango es igual al recuento de citas. El índice h está sesgado hacia investigadores sénior/prolíficos y varía según el campo.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q15",
-        "stem": "Una profesora CMF de 52 años está redactando la sección de Introducción de un manuscrito sobre resultados de cirugía ortognática. Escribe una revisión bibliográfica sistemática de 600 palabras que abarca toda la evidencia de 1990 a 2024. Su residente señala que esto es inadecuado. La crítica más precisa de este enfoque es:",
+        "stem": "Una profesora de OMFS de 52 años está redactando la sección de Introducción de un manuscrito sobre los resultados de la cirugía ortognática. Escribe una revisión bibliográfica sistemática de 600 palabras que cubre toda la evidencia de 1990 a 2024. Su residente señala que esto es inapropiado. La crítica más precisa de este enfoque es:",
         "options": {
-          "A": "La Introducción debe utilizar únicamente estudios publicados en los últimos 5 años",
-          "B": "La Introducción debe ser un embudo conciso que establezca el vacío de conocimiento, no una revisión bibliográfica exhaustiva",
+          "A": "La Introducción debe usar solo estudios publicados en los últimos 5 años",
+          "B": "La Introducción debe ser un embudo conciso que establezca la brecha de conocimiento, no una revisión bibliográfica exhaustiva",
           "C": "Las revisiones bibliográficas en la Introducción deben limitarse a un máximo de 3 referencias",
-          "D": "Los estudios históricos deben citarse únicamente en la Discusión, no en la Introducción"
+          "D": "Los estudios históricos solo deben citarse en la Discusión, no en la Introducción"
         },
         "correct": "B",
         "explanation": {
-          "correct": "La Introducción sirve para establecer el contexto e identificar el vacío específico de conocimiento que justifica el estudio. Debe avanzar desde el contexto general hasta la pregunta sin respuesta específica, concluyendo con el objetivo del estudio. Una revisión bibliográfica sistemática de 600 palabras es inadecuada para una Introducción: convierte la Introducción en una mini-revisión, haciéndola demasiado larga, retrasando el enunciado del objetivo del estudio y duplicando el contenido que pertenece a la Discusión. La Introducción comprende habitualmente 3–5 párrafos, citando los trabajos seminales clave más que revisando exhaustivamente toda la evidencia. La síntesis exhaustiva de la evidencia pertenece a la Discusión, donde contextualiza los hallazgos.",
+          "correct": "La Introducción sirve para establecer el contexto e identificar la brecha específica de conocimiento que justifica el estudio. Debe ir del contexto amplio a la pregunta sin respuesta específica, concluyendo con el objetivo del estudio. Una revisión bibliográfica sistemática de 600 palabras es inapropiada para una Introducción — convierte la Introducción en una mini-revisión, haciéndola demasiado larga, retrasando la declaración del objetivo del estudio y duplicando contenido que pertenece a la Discusión. La Introducción comprende típicamente 3–5 párrafos, citando obras seminals clave en lugar de revisar exhaustivamente toda la evidencia. La síntesis exhaustiva de la evidencia pertenece a la Discusión, donde contextualiza los hallazgos.",
           "wrong": {
-            "A": "No existe ninguna regla que restrinja las citas de la Introducción a los últimos 5 años: los estudios seminales más antiguos son apropiados. El problema es la cantidad y el propósito, no la fecha.",
-            "C": "No existe un límite de 3 referencias para las Introducciones; el número de citas depende de la complejidad del contexto. El problema es que una revisión exhaustiva es inadecuada.",
+            "A": "No hay ninguna regla que restrinja las citas de la Introducción a los últimos 5 años — los estudios seminales más antiguos son apropiados. El problema es la cantidad y el propósito, no la fecha.",
+            "C": "No hay ningún límite de 3 referencias para las Introducciones; el número de citas depende de la complejidad del contexto. El problema es que una revisión exhaustiva es inapropiada.",
             "D": "Los estudios históricos pueden citarse tanto en la Introducción (para el contexto) como en la Discusión (para la comparación). El problema es que la Introducción no debe convertirse en una revisión bibliográfica."
           },
-          "guideline": "Recomendaciones del ICMJE (2024) — Introducción: proporcionar contexto y fundamento; enunciar objetivos e hipótesis específicos",
-          "trial": "Schulz KF & Grimes DA. Epidemiology series: an overview of clinical research (Lancet 2002): serie que abarca la redacción de la Introducción con énfasis en la estructura en embudo y la identificación del vacío.",
-          "pearl": "Introducción = estructura en embudo (de lo general a lo específico) + vacío de conocimiento + objetivo del estudio. NO es una revisión bibliográfica. La síntesis exhaustiva de la evidencia pertenece a la Discusión, no a la Introducción."
-        },
-        "difficulty": 2
+          "guideline": "Recomendaciones del ICMJE (2024) — Introducción: proporcionar contexto y justificación; declarar objetivos e hipótesis específicos",
+          "trial": "Schulz KF & Grimes DA. Epidemiology series: an overview of clinical research (Lancet 2002): serie que cubre la redacción de la Introducción con énfasis en la estructura de embudo y la identificación de la brecha.",
+          "pearl": "Introducción = estructura de embudo (de amplio a específico) + brecha de conocimiento + objetivo del estudio. NO una revisión bibliográfica. La síntesis exhaustiva de la evidencia pertenece a la Discusión, no a la Introducción.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q16",
-        "stem": "Un grupo de investigación CMF publica su ECA sobre técnicas de elevación del seno maxilar en Oral Surgery Oral Medicine Oral Pathology como artículo de Acceso Abierto Dorado. El cargo total por procesamiento del artículo (APC) fue de £2.400. Dieciocho meses después de la publicación, un investigador no puede acceder al artículo a través del sitio web de la revista: parece estar tras un muro de pago. La explicación más probable es:",
+        "stem": "Un grupo de investigación de OMFS publica su ECA de técnicas de aumento del seno maxilar en Oral Surgery Oral Medicine Oral Pathology como artículo de Acceso Abierto Gold. El cargo total por procesamiento del artículo (APC) fue de 2.400 £. Dieciocho meses después de la publicación, un investigador no puede acceder al artículo a través del sitio web de la revista — parece estar detrás de un muro de pago. La explicación más probable es:",
         "options": {
-          "A": "La licencia Creative Commons ha expirado tras 18 meses",
-          "B": "Se ha producido un error: los artículos de AA dorado con licencias CC son permanentemente accesibles; esto debe comunicarse al editor",
+          "A": "La licencia Creative Commons ha expirado a los 18 meses",
+          "B": "Se ha producido un error — los artículos AA Gold con licencias CC son permanentemente accesibles de forma gratuita; esto debe reportarse al editor",
           "C": "La revista ha sido reclasificada como publicación depredadora",
-          "D": "El AA dorado requiere acceso a la biblioteca institucional después del período de publicación inicial"
+          "D": "El AA Gold requiere acceso a través de la biblioteca institucional después del período de publicación inicial"
         },
         "correct": "B",
         "explanation": {
-          "correct": "El Acceso Abierto Dorado significa que el artículo es inmediata y permanentemente accesible de forma gratuita bajo una licencia Creative Commons (habitualmente CC-BY, que permite la redistribución y la adaptación con atribución). Las licencias Creative Commons son irrevocables y no caducan. Si un artículo es inaccesible 18 meses después de su publicación en AA dorado, se trata de un error técnico del editor: el comprobante de pago del APC, el correo electrónico de aceptación y los términos de la licencia Creative Commons confirman el acceso perpetuo. Los autores deben ponerse en contacto inmediatamente con la oficina editorial del editor y, si no se resuelve, comunicarlo a COPE. Este tipo de error de acceso, aunque poco frecuente, se ha producido durante las migraciones de plataformas de los editores.",
+          "correct": "El Acceso Abierto Gold significa que el artículo es inmediata y permanentemente accesible de forma gratuita bajo una licencia Creative Commons (típicamente CC-BY, que permite la redistribución y adaptación con atribución). Las licencias Creative Commons son irrevocables y no expiran. Si un artículo es inaccesible 18 meses después de la publicación AA Gold, se trata de un error técnico del editor — la evidencia del pago del APC, el correo electrónico de aceptación y los términos de la licencia Creative Commons confirman el acceso perpetuo. Los autores deben contactar inmediatamente con la oficina editorial del editor y, si no se resuelve, informar a COPE. Este tipo de error de acceso, aunque raro, ha ocurrido durante las migraciones de plataformas de los editores.",
           "wrong": {
-            "A": "Las licencias Creative Commons son irrevocables y permanentes: no caducan después de ningún período. Esta es una propiedad fundamental de las licencias CC.",
-            "C": "La reclasificación de una revista como depredadora no restringiría retroactivamente el acceso a artículos en AA ya publicados; afectaría a las presentaciones futuras y a la indexación.",
-            "D": "El AA dorado significa específicamente que no se requiere acceso a la biblioteca institucional: esta es la definición del acceso abierto. Los requisitos de acceso institucional caracterizan la publicación por suscripción (con muro de pago)."
+            "A": "Las licencias Creative Commons son irrevocables y permanentes — no expiran después de ningún período. Esta es una propiedad fundamental de las licencias CC.",
+            "C": "La reclasificación de la revista como depredadora no restringiría retroactivamente el acceso a los artículos AA ya publicados; afectaría a las presentaciones futuras y la indexación.",
+            "D": "El AA Gold significa específicamente que no se requiere acceso a través de la biblioteca institucional — esta es la definición del acceso abierto. Los requisitos de acceso institucional caracterizan la publicación de suscripción (muro de pago)."
           },
-          "guideline": "Términos de la Licencia Creative Commons Attribution 4.0 International (CC BY 4.0); Directrices COPE sobre problemas postpublicación (2024); Política de Acceso Abierto del UKRI (2022): que obliga al AA dorado inmediato para la investigación financiada",
-          "trial": "Suber P. Open Access (MIT Press, 2012): texto definitivo sobre los modelos de publicación en acceso abierto, los términos de las licencias y el carácter permanente de las licencias CC.",
-          "pearl": "AA dorado = acceso gratuito permanente bajo licencia Creative Commons. Las licencias CC nunca caducan. Si un artículo en AA dorado se vuelve inaccesible, comuníquelo al editor de inmediato: se trata de un error técnico, no de una limitación de la licencia."
-        },
-        "difficulty": 2
+          "guideline": "Términos de la licencia Creative Commons Attribution 4.0 International (CC BY 4.0); Directrices de COPE sobre problemas postpublicación (2024); Política de Acceso Abierto de UKRI (2022): que exige el AA Gold inmediato para la investigación financiada",
+          "trial": "Suber P. Open Access (MIT Press, 2012): texto definitivo sobre los modelos de publicación en acceso abierto, los términos de las licencias y la naturaleza permanente de las licencias CC.",
+          "pearl": "AA Gold = acceso gratuito permanente bajo licencia Creative Commons. Las licencias CC nunca expiran. Si un artículo AA Gold se vuelve inaccesible, informa al editor inmediatamente — se trata de un error técnico, no de una limitación de la licencia.",
+          "difficulty": 2
+        }
       },
       {
         "id": "G4-Q17",
-        "stem": "En un artículo del BJOMS que notifica un estudio observacional prospectivo de 67 pacientes sometidos a osteotomía sagital de rama mandibular, los autores presentan su resultado primario (EAV de dolor mandibular a los 3 meses) como media 24,3 ± 18,7 mm. Un revisor estadístico señala que una DE=18,7 en una escala de 0–100 mm sugiere que los datos no siguen una distribución normal. La presentación estadística más apropiada sería:",
+        "stem": "En un artículo de BJOMS que reporta un estudio observacional prospectivo de 67 pacientes sometidos a osteotomía sagital de rama mandibular, los autores presentan su desenlace primario (EAV de dolor mandibular a los 3 meses) como media 24,3 ± 18,7 mm. Un revisor estadístico comenta que DE=18,7 en una escala de 0–100 mm sugiere que los datos no siguen una distribución normal. La presentación estadística más apropiada sería:",
         "options": {
-          "A": "Notificar la media ± EEM (error estándar de la media) para reducir la variabilidad aparente",
-          "B": "Aplicar una transformación logarítmica y notificar la media geométrica y el IC 95%",
-          "C": "Notificar la mediana (RIC) y utilizar pruebas no paramétricas (p. ej., prueba de los rangos con signo de Wilcoxon) para las comparaciones",
-          "D": "Aumentar el tamaño muestral para normalizar la distribución antes de notificar"
+          "A": "Reportar la media ± EEM (error estándar de la media) para reducir la variabilidad aparente",
+          "B": "Aplicar transformación logarítmica y reportar la media geométrica con IC 95%",
+          "C": "Reportar la mediana (RIC) y usar pruebas no paramétricas (p. ej., rangos con signo de Wilcoxon) para las comparaciones",
+          "D": "Aumentar el tamaño muestral para normalizar la distribución antes de reportar"
         },
         "correct": "C",
         "explanation": {
-          "correct": "Una DE elevada en relación con la media (coeficiente de variación = 18,7/24,3 = 77%), especialmente con valores acotados en 0, sugiere fuertemente datos con sesgo a la derecha. Las puntuaciones de EAV de dolor muestran frecuentemente distribuciones sesgadas, particularmente en cohortes postoperatorias donde la mayoría de los pacientes tienen poco dolor. Para los datos sesgados, las estadísticas descriptivas apropiadas son la mediana y el RIC (Q1–Q3), y las pruebas inferenciales apropiadas son no paramétricas: prueba de los rangos con signo de Wilcoxon para el cambio intrasujeto, prueba U de Mann-Whitney para las comparaciones entre grupos. Notificar la media±DE para datos sesgados es engañoso, ya que el intervalo de confianza puede extenderse por debajo de cero (lo cual es imposible en una escala EAV).",
+          "correct": "Una DE elevada relativa a la media (coeficiente de variación = 18,7/24,3 = 77%), especialmente con valores acotados a 0, sugiere fuertemente datos con sesgo a la derecha. Las puntuaciones de EAV de dolor frecuentemente muestran distribuciones sesgadas, especialmente en cohortes postoperatorias donde la mayoría de los pacientes tienen poco dolor. Para los datos sesgados, las estadísticas descriptivas apropiadas son la mediana y el RIC (Q1–Q3), y las pruebas inferenciales apropiadas son no paramétricas: prueba de rangos con signo de Wilcoxon para el cambio dentro del grupo, Mann-Whitney U para las comparaciones entre grupos. Reportar media±DE para datos sesgados es engañoso ya que el intervalo de confianza puede extenderse por debajo de cero (lo cual es imposible en una escala EAV).",
           "wrong": {
-            "A": "Notificar el EEM en lugar de la DE reduce la variabilidad aparente, pero es engañoso: el EEM describe la precisión de la estimación de la media, no la variabilidad de los datos. Usar el EEM para hacer que los datos parezcan «menos variables» es una forma de notificación engañosa.",
-            "B": "La transformación logarítmica es apropiada para datos sesgados estrictamente positivos (p. ej., niveles de citoquinas), pero para las escalas acotadas como la EAV es menos interpretable que la mediana+RIC.",
-            "D": "Aumentar el tamaño muestral no cambia la distribución de la variable: puede mejorar la normalidad de la distribución muestral de la media (Teorema Central del Límite), pero no aborda el sesgo subyacente de los datos brutos."
+            "A": "Reportar EEM en lugar de DE reduce la variabilidad aparente, pero es engañoso — el EEM describe la precisión de la estimación de la media, no la variabilidad de los datos. Usar el EEM para hacer que los datos parezcan 'menos variables' es una forma de reporte engañoso.",
+            "B": "La transformación logarítmica es apropiada para los datos sesgados estrictamente positivos (p. ej., niveles de citocinas), pero para las escalas acotadas como la EAV, es menos interpretable que la mediana+RIC.",
+            "D": "Aumentar el tamaño muestral no cambia la distribución de la variable — puede mejorar la normalidad de la distribución muestral de la media (Teorema del límite central), pero no aborda el sesgo subyacente de los datos brutos."
           },
-          "guideline": "Manual de Estilo de la AMA 11.ª ed.: notificación estadística; Lang TA & Altman DG. Basic Statistical Reporting for Articles Published in Biomedical Journals (Directrices SAMPL 2015)",
-          "trial": "Altman DG & Bland JM. Statistics Notes: the normal distribution (BMJ 1995; 310:298): nota estadística clásica del BMJ que explica cuándo usar media±DE frente a mediana+RIC.",
-          "pearl": "Las puntuaciones de EAV de dolor frecuentemente tienen sesgo: compruebe siempre la distribución antes de elegir media±DE frente a mediana+RIC. Un coeficiente de variación elevado (DE/media >0,5) o una escala acotada sugieren no normalidad. Use mediana+RIC y pruebas no paramétricas para datos sesgados."
-        },
-        "difficulty": 3
+          "guideline": "AMA Manual of Style 11ª ed.: reporte estadístico; Lang TA & Altman DG. Basic Statistical Reporting for Articles Published in Biomedical Journals (Directrices SAMPL 2015)",
+          "trial": "Altman DG & Bland JM. Statistics Notes: the normal distribution (BMJ 1995; 310:298): nota estadística clásica de BMJ que explica cuándo usar media±DE frente a mediana+RIC.",
+          "pearl": "Las puntuaciones de EAV de dolor frecuentemente tienen sesgo — comprueba siempre la distribución antes de elegir media±DE frente a mediana+RIC. Un coeficiente de variación elevado (DE/media >0,5) o una escala acotada sugieren no normalidad. Usa mediana+RIC y pruebas no paramétricas para los datos sesgados.",
+          "difficulty": 3
+        }
       },
       {
         "id": "G4-Q18",
-        "stem": "Un equipo de investigación realiza un metaanálisis de cinco ECA que comparan la fibrina rica en plaquetas (PRF) frente al injerto óseo autólogo para la reparación del paladar hendido alveolar. La estimación combinada para el puente óseo completo a los 12 meses es RR 0,84 (IC 95% 0,51–1,39, p=0,49, I²=72%). ¿Qué afirmación sobre la interpretación clínica de estos resultados es la más precisa?",
+        "stem": "Un equipo de investigación realiza un metaanálisis de cinco ECA que comparan la fibrina rica en plaquetas (FRP) frente al injerto óseo autólogo para la reparación de la hendidura alveolar. La estimación agrupada para el puente óseo completo a los 12 meses es RR 0,84 (IC 95% 0,51–1,39, p=0,49, I²=72%). ¿Qué afirmación sobre la interpretación clínica de estos resultados es más precisa?",
         "options": {
-          "A": "La PRF es inferior al injerto óseo autólogo para la reparación del paladar hendido alveolar, basándose en un RR<1,0",
-          "B": "No existe una diferencia estadísticamente significativa, y la I² elevada sugiere una heterogeneidad sustancial: los resultados deben interpretarse con cautela y la combinación puede no ser apropiada",
-          "C": "El intervalo de confianza que cruza 1,0 demuestra que la PRF no tiene ningún efecto",
-          "D": "I²=72% indica que el 72% de los estudios mostraron que la PRF era inferior"
+          "A": "La FRP es inferior al injerto óseo autólogo para la reparación de la hendidura alveolar basándose en un RR<1,0",
+          "B": "No existe una diferencia estadísticamente significativa, y el I² elevado sugiere una heterogeneidad sustancial — los resultados deben interpretarse con cautela y la agrupación puede ser inapropiada",
+          "C": "El IC que cruza 1,0 demuestra que la FRP no tiene efecto",
+          "D": "I²=72% indica que el 72% de los estudios mostraron que la FRP era inferior"
         },
         "correct": "B",
         "explanation": {
-          "correct": "El IC 95% de 0,51–1,39 cruza el valor nulo (RR=1,0), lo que indica que el resultado no es estadísticamente significativo (confirmado por p=0,49). Sin embargo, el hallazgo clínicamente importante es la I²=72%, que indica una heterogeneidad sustancial: el 72% de la variabilidad en las estimaciones del efecto es atribuible a las diferencias entre estudios más que al azar. Cuando la I² supera el 50%, el metaanálisis de efectos aleatorios puede seguir realizándose, pero la estimación combinada debe interpretarse con cautela como un promedio ponderado entre poblaciones heterogéneas, no como una estimación aplicable a todos los contextos clínicos. El Manual Cochrane clasifica la I²>75% como «considerable» y el 50–75% como «sustancial»: ambas justifican la investigación de las fuentes de heterogeneidad.",
+          "correct": "El IC 95% de 0,51–1,39 cruza el valor nulo (RR=1,0), indicando que el resultado no es estadísticamente significativo (confirmado por p=0,49). Sin embargo, el hallazgo clínicamente importante es el I²=72%, que indica una heterogeneidad sustancial — el 72% de la variabilidad en las estimaciones del efecto es atribuible a las diferencias entre estudios en lugar del azar. Cuando I² supera el 50%, el metaanálisis de efectos aleatorios puede realizarse aún, pero la estimación agrupada debe interpretarse con cautela como una media ponderada entre poblaciones heterogéneas, no como una estimación aplicable a todos los entornos clínicos. El Cochrane Handbook clasifica I²>75% como 'considerable', y 50–75% como 'sustancial' — ambos justifican la investigación de las fuentes de heterogeneidad.",
           "wrong": {
-            "A": "Un RR=0,84 (IC 0,51–1,39) no demuestra inferioridad: el intervalo de confianza es amplio e incluye valores tanto >1 como <1. La incertidumbre es demasiado grande para extraer conclusiones direccionales.",
-            "C": "El IC que cruza 1,0 significa que no hay diferencia estadísticamente significativa al nivel alfa elegido: NO «demuestra» que no hay ningún efecto. La ausencia de evidencia no es evidencia de ausencia. El estudio puede estar infrapotenciado.",
-            "D": "La I² no es el porcentaje de estudios que muestran un efecto en una dirección determinada. Es la proporción de la variabilidad total de los resultados atribuible a la heterogeneidad entre estudios, no a la varianza intrastudy ni al error de muestreo."
+            "A": "RR=0,84 (IC 0,51–1,39) no demuestra inferioridad — el intervalo de confianza es amplio e incluye valores tanto >1 como <1. La incertidumbre es demasiado grande para extraer conclusiones direccionales.",
+            "C": "El IC que cruza 1,0 significa que no hay diferencia estadísticamente significativa al nivel alfa elegido — NO 'demuestra' ausencia de efecto. La ausencia de evidencia no es evidencia de ausencia. El estudio puede tener una potencia insuficiente.",
+            "D": "I² no es el porcentaje de estudios que muestran un efecto direccional. Es la proporción de la variabilidad total en los resultados atribuible a la heterogeneidad entre estudios, no a la varianza dentro del estudio ni al error de muestreo."
           },
-          "guideline": "Manual Cochrane para Revisiones Sistemáticas de Intervenciones v6.4 (2023) — Capítulo 10: Análisis de datos y realización del metaanálisis; Sección 10.10.2 Interpretación del estadístico I²",
-          "trial": "Higgins JPT et al. Measuring inconsistency in meta-analyses (BMJ 2003; 327:557–560): el artículo original que define la I² y proporciona umbrales de interpretación (25%=baja, 50%=moderada, 75%=alta).",
-          "pearl": "I²=72% = heterogeneidad sustancial: la estimación combinada se aplica con cautela. La I² NO significa que el 72% de los estudios mostraran una dirección de efecto específica. Investigue las fuentes de heterogeneidad (participantes, intervenciones, resultados) antes de concluir."
-        },
-        "difficulty": 3
+          "guideline": "Cochrane Handbook for Systematic Reviews of Interventions v6.4 (2023) — Capítulo 10: Análisis de datos y realización de metaanálisis; Sección 10.10.2 Interpretación del estadístico I²",
+          "trial": "Higgins JPT et al. Measuring inconsistency in meta-analyses (BMJ 2003; 327:557–560): el artículo original que define I² y proporciona umbrales para la interpretación (25%=bajo, 50%=moderado, 75%=alto).",
+          "pearl": "I²=72% = heterogeneidad sustancial — la estimación agrupada se aplica con cautela. I² NO significa que el 72% de los estudios mostraron una dirección específica de efecto. Investiga las fuentes de heterogeneidad (participantes, intervenciones, desenlaces) antes de concluir.",
+          "difficulty": 3
+        }
       },
       {
         "id": "G4-Q19",
-        "stem": "Una residente CMF solicita una beca de formación en investigación del NIHR. Como parte de la solicitud, debe demostrar la difusión de su investigación. Tiene un caso clínico publicado, dos resúmenes de congresos y un artículo original presentado (aún no aceptado). Su tutor le sugiere inflar su sección de difusión con un artículo «en preparación» que no existe y una presentación en congreso que fue cancelada antes de realizarse. Esto representaría:",
+        "stem": "Un residente de OMFS solicita una beca de formación en investigación del NIHR. Como parte de la solicitud, debe demostrar la difusión de la investigación. Tiene un informe de caso publicado, dos resúmenes de congresos y un artículo original presentado (aún no aceptado). Su supervisor sugiere inflar la sección de difusión con un artículo 'en preparación' que no existe y una presentación en congreso que fue cancelada antes de realizarse. Esto representaría:",
         "options": {
-          "A": "Práctica académica aceptable: inflar los CV es habitual en las solicitudes competitivas",
-          "B": "Conducta indebida en investigación equivalente a la falsificación, con posibles consecuencias como el rechazo de la solicitud, la investigación y la exclusión de la financiación futura del NIHR",
-          "C": "Un adorno menor que los financiadores esperan y descuentan",
-          "D": "Aceptable si el artículo «en preparación» está basado en datos reales que se redactarán en el futuro"
+          "A": "Práctica académica aceptable — inflar el CV es estándar en las solicitudes competitivas",
+          "B": "Mala conducta en investigación equivalente a falsificación, con posibles consecuencias que incluyen el rechazo de la solicitud, la investigación y la exclusión de la financiación futura del NIHR",
+          "C": "Una pequeña exageración que los financiadores esperan y descuentan",
+          "D": "Aceptable si el artículo 'en preparación' está basado en datos reales que se redactarán en el futuro"
         },
         "correct": "B",
         "explanation": {
-          "correct": "La tergiversación de publicaciones o presentaciones en las solicitudes de subvenciones es conducta indebida en investigación equivalente a la falsificación según las definiciones tanto de UKRIO como de ORI. Las solicitudes del NIHR se examinan cuidadosamente; las afirmaciones sobre publicaciones se contrastan con PubMed y los repositorios institucionales. Un «artículo en preparación» que no existe es un resultado fabricado. Una presentación en congreso cancelada que se declara como realizada es una difusión falsificada. Las consecuencias incluyen: rechazo inmediato de la solicitud, derivación al responsable de integridad en la investigación institucional, exclusión de la financiación del NIHR por un período definido y posible implicación del GMC si la persona tiene registro médico. Los tutores que aconsejan conductas indebidas en investigación también pueden ser investigados.",
+          "correct": "Falsificar publicaciones o presentaciones en solicitudes de subvenciones es mala conducta en investigación equivalente a falsificación según las definiciones tanto de UKRIO como de ORI. Las solicitudes al NIHR se examinan cuidadosamente; las afirmaciones sobre publicaciones se contrastan con PubMed y los repositorios institucionales. Un 'artículo en preparación' que no existe es un resultado fabricado. Una presentación en congreso cancelada pero reclamada como entregada es difusión falsificada. Las consecuencias incluyen: rechazo inmediato de la solicitud, remisión al funcionario de integridad de investigación institucional, exclusión de la financiación del NIHR durante un período definido y posible implicación del GMC si el individuo tiene registro médico. Los supervisores que asesoran sobre mala conducta en investigación también pueden ser investigados.",
           "wrong": {
-            "A": "El inflado del CV en la medicina académica es conducta indebida en investigación: no es una práctica estándar. El NIHR, Wellcome Trust y UKRI tienen políticas de tolerancia cero ante las solicitudes falsificadas.",
-            "C": "Los financiadores no «descuentan» los resultados falsificados: esperan afirmaciones precisas y verificables. Los comités del NIHR incluyen miembros que pueden identificar los CV inflados.",
-            "D": "Los artículos «en preparación» basados en datos reales que existen genuinamente como borradores casi terminados pueden incluirse como tal (con la nota «en preparación»), pero un artículo ficticio indicado como «en preparación» para inflar un CV cuando no se ha iniciado es fabricación independientemente de si existen datos."
+            "A": "La inflación del CV en la medicina académica es mala conducta en investigación — no es una práctica estándar. NIHR, Wellcome Trust y UKRI tienen políticas de tolerancia cero para las solicitudes falsificadas.",
+            "C": "Los financiadores no 'descuentan' los resultados falsificados — esperan afirmaciones precisas y verificables. Los paneles del NIHR incluyen miembros que pueden identificar los CV inflados.",
+            "D": "Los artículos 'en preparación' basados en datos reales que existen genuinamente como borradores casi completos pueden incluirse como tales (con una nota 'en preparación'), pero un artículo ficticio declarado como 'en preparación' para inflar un CV cuando ni siquiera se ha comenzado es fabricación independientemente de si existen datos."
           },
-          "guideline": "Código de Práctica para la Investigación del UKRIO (2009, actualizado 2019): Sección sobre Honestidad en las solicitudes de subvenciones; Política de Conducta Indebida en la Investigación del NIHR (2023): define la fabricación en las solicitudes de subvenciones como una infracción grave",
-          "trial": "Martinson BC et al. Scientists behaving badly (Nature 2005; 435:737–738): encuesta a 3.247 investigadores en etapas iniciales de su carrera que mostró que el 13,5% había falsificado o fabricado datos, subrayando la prevalencia y el imperativo de normas claras de integridad.",
-          "pearl": "Falsificar las solicitudes de subvenciones (publicaciones fabricadas, presentaciones tergiversadas) es conducta indebida en investigación con graves consecuencias: rechazo de la solicitud, investigación institucional, derivación al GMC y exclusión de la financiación del NIHR. Solo incluya resultados verificables y reales."
-        },
-        "difficulty": 3
+          "guideline": "UKRIO Code of Practice for Research (2009, actualizado 2019): Sección sobre honestidad en las solicitudes de subvenciones; NIHR Research Misconduct Policy (2023): define la fabricación en solicitudes de subvenciones como una infracción grave",
+          "trial": "Martinson BC et al. Scientists behaving badly (Nature 2005; 435:737–738): encuesta a 3.247 investigadores en etapas tempranas de carrera que muestra que el 13,5% había falsificado o fabricado datos — subrayando la prevalencia y el imperativo de estándares claros de integridad.",
+          "pearl": "Falsificar las solicitudes de subvenciones (publicaciones fabricadas, presentaciones falsificadas) es mala conducta en investigación con graves consecuencias: rechazo de la solicitud, investigación institucional, remisión al GMC y exclusión de la financiación del NIHR. Solo listar resultados reales y verificables.",
+          "difficulty": 3
+        }
       },
       {
         "id": "G4-Q20",
-        "stem": "Un revisor del BJOMS evalúa un manuscrito que compara dos tipos de implantes cigomáticos. El artículo notifica: «La tasa de supervivencia fue del 94,3% en el Grupo A frente al 89,1% en el Grupo B (p=0,04, NNT=19). La reducción absoluta del riesgo fue del 5,2%». El revisor señala que, aunque estadísticamente significativo, debe considerarse la relevancia clínica. ¿Qué afirmación describe mejor la interpretación clínica de estos resultados?",
+        "stem": "Un revisor de BJOMS evalúa un manuscrito que compara dos tipos de implantes zigomáticos. El artículo reporta: 'La tasa de supervivencia fue del 94,3% en el grupo A frente al 89,1% en el grupo B (p=0,04, NNT=19). La reducción absoluta del riesgo fue del 5,2%.' El revisor señala que, aunque estadísticamente significativo, debe considerarse la significación clínica. ¿Qué afirmación describe mejor la interpretación clínica de estos resultados?",
         "options": {
-          "A": "NNT=19 significa que 19 pacientes necesitan el procedimiento de implante cigomático para observar algún efecto",
-          "B": "Una RAR del 5,2% con NNT=19 significa que 19 pacientes deben recibir el tratamiento superior para prevenir un fallo de implante adicional: si esto es clínicamente significativo depende del coste, el riesgo y la importancia del fallo del implante para el paciente",
-          "C": "La significación estadística (p=0,04) confirma la importancia clínica: NNT=19 es excelente para un procedimiento quirúrgico",
-          "D": "El NNT no puede interpretarse de forma fiable a partir de datos de supervivencia: solo es aplicable a los resultados binarios agudos"
+          "A": "NNT=19 significa que 19 pacientes necesitan el procedimiento de implante zigomático para observar algún efecto",
+          "B": "Una RAR del 5,2% con NNT=19 significa que 19 pacientes deben recibir el tratamiento superior para prevenir un fallo adicional del implante — si esto es clínicamente significativo depende del coste, el riesgo y la importancia del fallo del implante a nivel del paciente",
+          "C": "La significación estadística (p=0,04) confirma la importancia clínica — NNT=19 es excelente para un procedimiento quirúrgico",
+          "D": "El NNT no puede interpretarse de forma fiable a partir de datos de supervivencia — solo es aplicable a desenlaces binarios agudos"
         },
         "correct": "B",
         "explanation": {
-          "correct": "El NNT (Número Necesario a Tratar) = 1/RAR = 1/0,052 = 19,2, confirmando que 19 pacientes deben recibir el mejor tratamiento para prevenir un fallo de implante adicional. El NNT contextualiza la significación estadística en términos clínicamente significativos. La relevancia clínica del NNT=19 depende de: la gravedad del resultado (fallo del implante — requiere reintervención, pérdida ósea, alteración funcional), la diferencia de coste entre los tratamientos, los riesgos del tratamiento superior y las preferencias del paciente. Un resultado estadísticamente significativo (p=0,04) con NNT=19 puede o no justificar un cambio de tratamiento en función de estos factores. Esta es la distinción fundamental entre significación estadística y clínica.",
+          "correct": "NNT (Número Necesario a Tratar) = 1/RAR = 1/0,052 = 19,2, confirmando que 19 pacientes deben recibir el mejor tratamiento para prevenir un fallo adicional del implante. El NNT contextualiza la significación estadística en términos clínicamente significativos. La significación clínica del NNT=19 depende de: la gravedad del desenlace (fallo del implante — que requiere reintervención, pérdida ósea, deterioro funcional), la diferencia de coste entre los tratamientos, los riesgos del tratamiento superior y las preferencias del paciente. Un resultado estadísticamente significativo (p=0,04) con NNT=19 puede o no justificar un cambio de tratamiento dependiendo de estos factores. Esta es la distinción fundamental entre significación estadística y clínica.",
           "wrong": {
-            "A": "NNT=19 significa que 19 pacientes necesitan el tratamiento SUPERIOR (Grupo A) en lugar del comparador (Grupo B) para prevenir un fallo de implante adicional, no simplemente que se necesite algún procedimiento.",
-            "C": "La significación estadística no confirma la importancia clínica. p=0,04 simplemente significa que el resultado tiene pocas probabilidades de deberse al azar con alfa=5%. Si NNT=19 es «excelente» depende del contexto: para un tratamiento oncológico, NNT=19 puede ser aceptable; para un implante electivo, los clínicos podrían requerir un NNT más bajo.",
-            "D": "El NNT puede calcularse a partir de datos de supervivencia utilizando la reducción absoluta del riesgo en la tasa de fracaso en un punto temporal específico: esta es la práctica estándar en la investigación de resultados de implantología."
+            "A": "NNT=19 significa que 19 pacientes necesitan el tratamiento SUPERIOR (grupo A) en lugar del comparador (grupo B) para prevenir un fallo adicional del implante — no simplemente que se necesita cualquier procedimiento.",
+            "C": "La significación estadística no confirma la importancia clínica. p=0,04 simplemente significa que el resultado es poco probable que sea fruto del azar al nivel alfa=5%. Si NNT=19 es 'excelente' depende del contexto — para un tratamiento del cáncer, NNT=19 podría ser aceptable; para un implante electivo, los clínicos podrían requerir un NNT más bajo.",
+            "D": "El NNT puede calcularse a partir de datos de supervivencia utilizando la reducción absoluta del riesgo en la tasa de fallo en un punto temporal especificado — esta es una práctica estándar en la investigación de resultados en implantología."
           },
-          "guideline": "GRADE Working Group: Going from evidence to recommendations (BMJ 2008): Sección sobre NNT y significación clínica en las recomendaciones de guías; Manual SIGN 50 (2023): significación estadística y clínica",
-          "trial": "Laupacis A et al. An assessment of clinically useful measures of the consequences of treatment (N Engl J Med 1988; 318:1728–1733): el artículo original que propuso el NNT como medida clínicamente significativa del efecto del tratamiento para la toma de decisiones a pie de cama.",
-          "pearl": "NNT = 1/RAR. La significación estadística (p<0,05) no es igual a la significación clínica. Interprete siempre el NNT en contexto: la gravedad del resultado prevenido, el coste/riesgo del tratamiento y los valores del paciente determinan si NNT=19 justifica un cambio de práctica."
-        },
-        "difficulty": 3
+          "guideline": "Grupo de trabajo GRADE: Going from evidence to recommendations (BMJ 2008): sección sobre NNT y significación clínica en las recomendaciones de las guías; SIGN 50 Handbook (2023): significación estadística y clínica",
+          "trial": "Laupacis A et al. An assessment of clinically useful measures of the consequences of treatment (N Engl J Med 1988; 318:1728–1733): el artículo original que propone el NNT como medida clínicamente significativa del efecto del tratamiento para la toma de decisiones a pie de cama.",
+          "pearl": "NNT = 1/RAR. Significación estadística (p<0,05) ≠ significación clínica. Siempre interpretar el NNT en contexto: la gravedad del desenlace prevenido, el coste/riesgo del tratamiento y los valores del paciente determinan si NNT=19 justifica un cambio de práctica.",
+          "difficulty": 3
+        }
       }
     ]
   }
