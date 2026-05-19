@@ -1,0 +1,612 @@
+{
+  "id": "G2",
+  "title": "Clinical Trials in OMFS: CONSORT, RCT Design, Ethics",
+  "subtitle": "Block G — Research and Academic Development",
+  "block": "G",
+  "block_name": "Research and Academic Development",
+  "level": "R2-5",
+  "reading_time_min": 26,
+  "guidelines_version": "CONSORT 2010 · Declaration of Helsinki 2013 · ICH GCP E6(R2) 2016 · UK Policy Framework for Health and Social Care Research 2017",
+  "textbook_refs": [
+    "Schulz KF et al. 'CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials.' BMJ (2010)",
+    "World Medical Association. 'Declaration of Helsinki: ethical principles for medical research involving human subjects.' JAMA (2013)",
+    "ICH Harmonised Guideline E6(R2). Good Clinical Practice. (ICH 2016)",
+    "Moher D et al. 'The CONSORT Statement: revised recommendations for improving the quality of reports of parallel-group randomised trials.' JAMA (1995)",
+    "Cook JA et al. 'The IDEAL framework for surgical innovation.' BMJ (2013)"
+  ],
+  "learning_objectives": [
+    "Describe the core components of an RCT and the purpose of each design element",
+    "Apply the CONSORT 2010 checklist to evaluate the completeness of RCT reporting",
+    "Identify the ethical principles governing clinical research in OMFS and their legal framework",
+    "Explain the IDEAL framework for the staged development and evaluation of surgical innovations",
+    "Describe the regulatory and approval requirements for conducting a clinical trial in the UK"
+  ],
+  "sections": [
+    {
+      "id": "G2-S1",
+      "title": "Anatomy of a Randomised Controlled Trial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "A **randomised controlled trial (RCT)** is a prospective experimental study in which participants are randomly allocated to two or more intervention groups and followed up to measure pre-specified outcomes. The RCT is the gold standard for evaluating the effectiveness of therapeutic interventions because randomisation, when properly implemented, balances both measured and unmeasured confounders between groups — making causal inference possible.\n\nThe core components of an RCT are: (1) **Eligibility criteria** — clearly defined inclusion and exclusion criteria that specify the target population; (2) **Randomisation** — the process of randomly allocating participants to groups; (3) **Allocation concealment** — ensuring the allocation sequence is hidden from those enrolling participants; (4) **Blinding** — masking participants, caregivers, and/or outcome assessors to group allocation; (5) **Control group** — the comparator (active treatment, standard care, or placebo); (6) **Follow-up** — standardised assessment of outcomes at pre-specified time points; (7) **Primary outcome** — the single most important outcome pre-specified before data collection; (8) **Sample size calculation** — calculation of the minimum number of participants needed to detect a clinically meaningful difference with adequate power.\n\nIn OMFS, RCTs face specific challenges: (1) blinding of participants to surgical interventions is often impossible; (2) surgical learning curves mean early-phase results may not reflect true technique effectiveness; (3) rare conditions (salivary gland tumours, skull base tumours) have insufficient patient numbers for adequately powered RCTs; (4) surgeon variation introduces performance bias that is difficult to control. These limitations explain why most OMFS evidence remains at Level 3–4, and why the IDEAL framework for staged surgical innovation evaluation was developed."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Primary vs Secondary Outcomes",
+          "content": "An RCT must have ONE pre-specified primary outcome. This is the outcome that the sample size calculation is based on and the outcome that determines whether the trial is 'positive' or 'negative'. Secondary outcomes provide supporting information but should NOT drive the primary conclusion. Switching primary outcomes after seeing the data = outcome reporting bias."
+        }
+      ]
+    },
+    {
+      "id": "G2-S2",
+      "title": "Randomisation and Sample Size Calculation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Randomisation** ensures that participants are allocated to treatment groups by chance, rather than by choice of investigators or participants. Simple randomisation (coin flip, random number table) produces statistically equal groups in large trials but may produce unbalanced groups by chance in smaller trials. **Stratified randomisation** (randomisation within strata defined by important prognostic factors) ensures balance across key variables — particularly important in OMFS where surgical complexity, fracture type, or patient age may strongly influence outcomes. **Block randomisation** (randomisation within blocks of fixed size) ensures equal allocation at all time points, preventing imbalance if the trial stops early.\n\n**Sample size calculation** is mandatory for all RCTs. The required sample size depends on: (1) **Expected event rate (control group)** — the estimated outcome frequency in the control arm; (2) **Minimal clinically important difference (MCID)** — the smallest difference the trial is designed to detect; (3) **Alpha (α)** — the acceptable type I error rate (conventionally 0.05 = 5% false positive rate); (4) **Power (1-β)** — the probability of detecting the difference if it truly exists (conventionally 80–90%; 80% means the trial will miss 20% of true differences); (5) **Standard deviation** of the outcome (for continuous outcomes).\n\nThe formula for two-group comparison of proportions: N = [(z_α + z_β)² × (p₁(1-p₁) + p₂(1-p₂))] / (p₁-p₂)². For continuous outcomes, standard deviation and MCID determine the required N. An underpowered trial (too small) may miss a true treatment difference — a negative result from an underpowered trial does NOT mean the treatments are equivalent; it may simply mean the trial was too small to detect the effect."
+        },
+        {
+          "type": "table",
+          "title": "Sample Size Calculation — Key Parameters",
+          "headers": ["Parameter", "Definition", "Typical Value", "Effect on Sample Size"],
+          "rows": [
+            ["Alpha (α)", "Type I error: probability of false positive", "0.05 (two-sided)", "Smaller α → larger N"],
+            ["Power (1-β)", "Probability of detecting true difference", "0.80 or 0.90", "Higher power → larger N"],
+            ["MCID", "Minimum clinically important difference", "Specific to outcome", "Smaller MCID → larger N"],
+            ["Event rate (control)", "Baseline outcome frequency", "Estimated from pilot/literature", "Lower rate → larger N"],
+            ["Standard deviation (SD)", "Variability of continuous outcome", "From pilot study or literature", "Higher SD → larger N"],
+            ["Attrition adjustment", "Expected dropout/loss to follow-up", "10–20% typical", "Inflate N by 1/(1−attrition rate)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G2-S3",
+      "title": "CONSORT 2010: Reporting Standards for RCTs",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **CONSORT (Consolidated Standards of Reporting Trials) 2010 Statement** is the international standard for reporting parallel-group RCTs. It consists of a 25-item checklist and a flow diagram. The checklist ensures that all critical methodological information is reported transparently, enabling readers to assess the validity and applicability of the trial. All major medical journals (including BJOMS, JOM, EJSO) require CONSORT compliance as a condition of publication.\n\nThe CONSORT flow diagram describes participant flow through four stages: **Enrolled** (assessed for eligibility → eligible → randomised); **Allocated** (allocated to each group — number receiving intervention and not); **Follow-up** (number lost to follow-up with reasons); and **Analysed** (number included in primary analysis with reasons for exclusion). The flow diagram makes attrition transparent and allows assessment of attrition bias.\n\nKey CONSORT items frequently omitted or inadequately reported in surgical trials include: method of sequence generation (how randomisation was done — random number tables, computer algorithm); allocation concealment (how the allocation was hidden); blinding (who was blinded and how); sample size calculation (parameters used and result); and a trial registration number (confirming prospective registration). A systematic review of OMFS RCTs (Meara et al.) found that less than 50% of trials published before 2010 adequately reported allocation concealment.\n\nExtensions of CONSORT exist for specific designs: CONSORT-PILOT (pilot/feasibility studies), CONSORT-PRO (patient-reported outcomes), CONSORT-HARMS (adverse events reporting), and CONSORT-SPI (surgical and procedural interventions)."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Reading an OMFS RCT",
+          "content": "When appraising an OMFS RCT, check the CONSORT flow diagram first. Identify: How many were screened, excluded (and why), randomised, lost to follow-up, and analysed? If >20% were lost to follow-up, attrition bias is a concern. Check whether the primary outcome is clearly stated — switching from a pre-specified outcome to a more favourable one is a red flag."
+        }
+      ]
+    },
+    {
+      "id": "G2-S4",
+      "title": "Ethics of Clinical Research: Declaration of Helsinki and GCP",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Research ethics in OMFS is governed by the **Declaration of Helsinki** (World Medical Association, last revised 2013) — the foundational international ethical document for medical research. Its key principles include: (1) **Respect for autonomy** — participants must give free, informed, and voluntary consent; (2) **Beneficence** — the potential benefits of the research must outweigh the risks; (3) **Non-maleficence** — research must not expose participants to disproportionate risk; (4) **Justice** — the burdens and benefits of research should be distributed fairly; (5) **Research protocol must be approved** by an independent ethics committee before beginning; (6) **Vulnerable populations** (children, prisoners, those with diminished capacity) require additional protections.\n\nThe **ICH Good Clinical Practice (GCP) E6(R2) guideline** (International Council for Harmonisation, 2016) is the international regulatory standard for conducting clinical trials. GCP ensures that trials are designed, conducted, recorded, and reported in a way that provides assurance that the data are credible and that the rights, safety, and well-being of trial participants are protected. Compliance with GCP is required for trials submitted to regulatory authorities (e.g., MHRA, EMA, FDA).\n\nIn the UK, clinical trials with investigational medicinal products (CTIMPs) require: (1) **MHRA clinical trial authorisation (CTA)**; (2) **Research Ethics Committee (REC) approval** (via IRAS — Integrated Research Application System); (3) **NHS R&D approval** for each site; and (4) Compliance with the **UK Policy Framework for Health and Social Care Research (2017)** (formerly Research Governance Framework). Trials not involving medicinal products (most surgical OMFS RCTs) require REC approval and NHS R&D but not MHRA CTA."
+        },
+        {
+          "type": "table",
+          "title": "UK Clinical Trial Regulatory Requirements",
+          "headers": ["Requirement", "Body", "Applicable to", "Timeline"],
+          "rows": [
+            ["IRAS application", "IRAS online portal", "All research involving patients", "First step in UK process"],
+            ["REC approval", "UK Research Ethics Committee (HRA)", "All research involving human participants", "28 working days target"],
+            ["HRA approval", "Health Research Authority", "All NHS research", "Concurrent with/after REC"],
+            ["MHRA CTA", "Medicines and Healthcare products Regulatory Agency", "CTIMPs only (drugs/devices)", "Additional 30 days after REC"],
+            ["NHS R&D approval", "Individual NHS Trust", "All NHS research", "After HRA approval, per site"],
+            ["Trial registration", "ISRCTN / ClinicalTrials.gov", "All RCTs (mandatory for publication)", "Before first patient enrolment"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G2-S5",
+      "title": "The IDEAL Framework for Surgical Innovation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Most surgical innovations enter practice without the rigorous evaluation applied to pharmaceutical treatments. The **IDEAL framework** (Cook JA et al. BMJ 2013; Ergina PL et al. Lancet 2009) provides a structured framework for the staged evaluation of surgical procedures, acknowledging that RCTs are not always the appropriate first step for novel surgical techniques.\n\nIDEAL comprises five stages:\n**Stage 1 — Idea**: the first use of a new surgical procedure in one or a few patients. No control group; case report or small case series; safety and feasibility primary concerns. Report as a surgical innovation case report.\n**Stage 2a — Development**: initial development and refinement of the technique. Small series (typically <20 patients). Technique is being modified iteratively; outcomes are variable. Case series with prospective data collection.\n**Stage 2b — Exploration**: the technique becomes more defined. A larger prospective series or cohort study compares outcomes with historical controls or contemporary alternatives. Identification of learning curve; patient selection criteria emerging.\n**Stage 3 — Assessment**: formal comparative evaluation. RCT is typically appropriate here — the technique is sufficiently standardised to be reproducible and teachable. IDEAL Stage 3 = CONSORT-compliant RCT.\n**Stage 4 — Long-term Study**: long-term outcomes, rare complications, subgroup analyses. Registry data and long-term follow-up cohort studies. Never-ending monitoring for unexpected harms.\n\nThe IDEAL recommendation framework includes: IDEAL-D (for devices), IDEAL-C (for complex interventions), and specific design recommendations for each stage. The key message of IDEAL is that surgical innovation must be introduced responsibly: not prematurely (before safety is established) and not evaluated too late (after widespread uncritical adoption). Proplast-Teflon TMJ implants (withdrawn 1990 due to catastrophic failures) represent what happens when IDEAL principles are not followed."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Premature RCT for a Novel Technique",
+          "content": "Conducting an RCT of a new surgical technique before Stage 2b (when the technique is still evolving) produces unreliable results — the intervention group receives a technique that will change, and the RCT results become obsolete. The IDEAL framework suggests waiting until Stage 3 (the technique is standardised and reproducible) before conducting an RCT. Early-phase studies (Stages 1–2) should focus on safety, feasibility, and technique refinement."
+        }
+      ]
+    },
+    {
+      "id": "G2-S6",
+      "title": "Specific Challenges of Surgical RCTs in OMFS",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Surgical RCTs face methodological challenges not encountered in pharmaceutical trials. Understanding these challenges — and strategies to address them — is important for both conducting and interpreting OMFS research.\n\n**1. Inability to blind participants**: Patients know which surgery they received. This introduces performance bias (patients may comply differently with post-operative care) and response bias (patient-reported outcomes influenced by treatment expectation). Mitigation: use objective primary outcomes (radiographic occlusion, standardised bite force measurement) where possible; blind outcome assessors.\n\n**2. Surgical learning curve**: Early cases with a new technique produce worse outcomes than later cases. If surgeons in an RCT are still on the learning curve, the new technique appears inferior not because it is intrinsically worse, but because it has not been learned. Mitigation: require surgeons to demonstrate competence before entering the trial; use multi-surgeon trials; analyse surgeon as a random effect.\n\n**3. Surgeon variation**: Different surgeons have different skills and preferences. In a multi-surgeon RCT, between-surgeon variation may be larger than between-treatment variation, swamping the treatment effect. Mitigation: stratified randomisation by surgeon; pre-specified subgroup analysis by surgeon experience.\n\n**4. Contamination**: Surgeons in the control arm adopt elements of the experimental technique during the trial. Mitigation: cluster randomisation (different surgeons perform different treatments) — though this reduces statistical power.\n\n**5. Equipoise**: Surgeons must genuinely believe that either treatment may be superior for ethical randomisation to be justified. If preliminary data strongly favours one approach, surgeons cannot ethically randomise. This has prevented RCTs of many OMFS techniques where case series evidence appears compelling (e.g., free flap vs pedicled flap for mandibular reconstruction)."
+        }
+      ]
+    },
+    {
+      "id": "G2-S7",
+      "title": "Pilot and Feasibility Studies",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "A **pilot study** (or feasibility study) is a small preliminary study conducted before a definitive RCT to test the feasibility of the trial design and to estimate parameters needed for the sample size calculation of the main trial. A well-conducted pilot study is not an underpowered RCT — it has different objectives and should be interpreted differently.\n\nThe primary objectives of a pilot study are: (1) **Feasibility** — can participants be recruited at the required rate? Is the intervention deliverable as specified? Can outcomes be measured as planned? What is the dropout rate? (2) **Parameter estimation** — estimate the control event rate, standard deviation of the outcome, and plausible MCID for the main trial's sample size calculation; (3) **Logistics** — identify operational problems (data management, staff training, equipment) before the main trial begins.\n\nThe CONSORT-PILOT extension (2016) provides reporting standards for pilot studies. A pilot study should NOT be reported as if it were a definitive efficacy trial — efficacy conclusions should not be drawn from it.\n\nA common misuse of pilot studies in OMFS is conducting a small underpowered study, finding a non-significant result, and concluding that the treatments are equivalent. This is incorrect: absence of a statistically significant result in an underpowered study is NOT evidence of no difference — it is simply insufficient evidence. The correct response is to conduct a properly powered definitive trial, using the pilot data to calculate the required sample size."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Pilot vs Definitive Trial",
+          "content": "A pilot study tests FEASIBILITY — not efficacy. A non-significant result in a pilot study does NOT mean the treatments are equivalent. It means the study was too small to detect a difference. Always check the sample size and power when reading a negative OMFS RCT — an underpowered trial provides no evidence of equivalence."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of clinical trial design in OMFS with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "G2-Q1",
+        "stem": "The CONSORT 2010 Statement was developed primarily to:",
+        "options": {
+          "A": "Provide a statistical method for pooling results from multiple trials",
+          "B": "Standardise the reporting of randomised controlled trials to ensure transparent and complete publication",
+          "C": "Provide ethical guidelines for the conduct of clinical research",
+          "D": "Define the criteria for categorising evidence levels in systematic reviews"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The CONSORT 2010 Statement is a 25-item checklist and flow diagram developed to standardise and improve the reporting of parallel-group RCTs. Its purpose is to ensure that readers have the information needed to assess the internal validity (risk of bias) and external validity (generalisability) of published trials. CONSORT does not provide statistical methods — it provides reporting standards.",
+          "wrong": {
+            "A": "Pooling results from multiple trials is the function of meta-analysis — CONSORT does not address this.",
+            "C": "Ethical guidelines for research are provided by the Declaration of Helsinki and national ethics frameworks — not CONSORT.",
+            "D": "Evidence level criteria are provided by OCEBM or GRADE — not CONSORT."
+          },
+          "guideline": "CONSORT 2010 Statement (Schulz KF et al. BMJ 2010) — purpose and scope",
+          "trial": "Schulz KF et al. BMJ (2010): CONSORT 2010 update — 25-item checklist as international reporting standard.",
+          "pearl": "CONSORT = reporting standard for RCTs. 25-item checklist + flow diagram. Required by all major journals. Not a conduct standard — a REPORTING standard.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q2",
+        "stem": "The CONSORT flow diagram depicts participant flow through which four stages?",
+        "options": {
+          "A": "Screening, Inclusion, Treatment, Discharge",
+          "B": "Enrolment, Allocation, Follow-up, Analysis",
+          "C": "Randomisation, Blinding, Outcome assessment, Publication",
+          "D": "Consent, Randomisation, Intervention, Assessment"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The CONSORT flow diagram standardises reporting of participant flow through four stages: (1) Enrolment — number assessed for eligibility, excluded (with reasons), and randomised; (2) Allocation — number allocated to each group, those receiving intervention and those not; (3) Follow-up — number lost to follow-up with reasons, number discontinued with reasons; (4) Analysis — number analysed, and any exclusions from analysis with reasons. This structure makes attrition visible and allows assessment of attrition bias.",
+          "wrong": {
+            "A": "Screening, Inclusion, Treatment, Discharge is not the CONSORT framework.",
+            "C": "Randomisation, Blinding, Outcome assessment, Publication is not the CONSORT flow diagram structure.",
+            "D": "Consent, Randomisation, Intervention, Assessment is not the CONSORT framework."
+          },
+          "guideline": "CONSORT 2010 Statement — Flow diagram structure",
+          "trial": "Schulz KF et al. BMJ (2010): CONSORT 2010 — flow diagram is one of the most important elements, making attrition transparent.",
+          "pearl": "CONSORT flow diagram: ENROLMENT → ALLOCATION → FOLLOW-UP → ANALYSIS. Four stages. Every RCT paper should include this diagram. Missing flow diagram = incomplete CONSORT reporting.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q3",
+        "stem": "In the IDEAL framework for surgical innovation, at which stage is a randomised controlled trial most appropriate?",
+        "options": {
+          "A": "Stage 1 — Idea (first use in a single patient)",
+          "B": "Stage 2a — Development (small series, technique evolving)",
+          "C": "Stage 3 — Assessment (technique standardised and reproducible)",
+          "D": "Stage 4 — Long-term Study (post-adoption monitoring)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "In the IDEAL framework, Stage 3 (Assessment) is when a formal RCT is appropriate. By this stage, the surgical technique is sufficiently standardised, reproducible, and teachable that the intervention in the experimental arm will be consistent between surgeons and across the trial duration. An RCT conducted before Stage 3 (when the technique is still evolving) will generate results that become obsolete as the technique is refined.",
+          "wrong": {
+            "A": "Stage 1 is single-patient safety/feasibility assessment — no comparison group is possible or appropriate.",
+            "B": "Stage 2a is small case series with evolving technique — randomisation here would lock in an immature technique and produce unreliable results.",
+            "D": "Stage 4 is long-term registry and cohort follow-up — RCTs are not typically the design for long-term monitoring."
+          },
+          "guideline": "Cook JA et al. BMJ (2013) — IDEAL framework Stage 3: RCT indication",
+          "trial": "Ergina PL et al. Lancet (2009): IDEAL conceptual paper — Stage 3 = the correct point for RCT after technique reaches stability.",
+          "pearl": "IDEAL: 1=Idea (case report), 2a=Development (small series), 2b=Exploration (cohort), 3=ASSESSMENT (RCT), 4=Long-term (registry). RCT = Stage 3 ONLY when technique is STANDARDISED.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q4",
+        "stem": "The Declaration of Helsinki requires that research in human participants be approved before commencement by which body?",
+        "options": {
+          "A": "The institutional finance department (to assess budget)",
+          "B": "An independent ethics committee (Research Ethics Committee)",
+          "C": "The lead investigator's professional regulatory body (GMC in the UK)",
+          "D": "The pharmaceutical company sponsoring the research"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Declaration of Helsinki (WMA 2013, Paragraph 23) requires that a research protocol be submitted to an independent ethics committee for review, comment, guidance, and approval before the study begins. The ethics committee must have the authority to refuse, modify, or withdraw approval. It must be independent of the researcher, institution, and funder. In the UK, this is provided by the Research Ethics Committees (RECs) administered through the Health Research Authority (HRA).",
+          "wrong": {
+            "A": "Finance department approval is an institutional administrative requirement but is not the ethical oversight body required by Helsinki.",
+            "C": "The GMC regulates medical practice and fitness to practise — it does not provide research ethics approval.",
+            "D": "A sponsor's ethics review is a conflict of interest — independent ethics review cannot be provided by the sponsor."
+          },
+          "guideline": "Declaration of Helsinki 2013 (WMA) — Paragraph 23: ethics committee approval requirement",
+          "trial": "World Medical Association. Declaration of Helsinki (2013): the foundational document — ethics committee approval is a non-negotiable prerequisite for all research involving human participants.",
+          "pearl": "Helsinki Paragraph 23: INDEPENDENT ETHICS COMMITTEE approval required BEFORE starting any research involving human participants. This is an absolute requirement — no exceptions, regardless of perceived low risk.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q5",
+        "stem": "Which of the following is the correct power calculation concept for a two-arm surgical RCT: if power is set at 80% and alpha at 0.05, what does this mean?",
+        "options": {
+          "A": "There is an 80% chance that the study will find no difference even if no difference exists",
+          "B": "There is a 5% chance of finding a difference when none exists AND an 80% chance of detecting a true difference of the specified MCID",
+          "C": "There is an 80% probability that the null hypothesis is true",
+          "D": "There is a 5% chance of missing a true difference and an 80% chance of a false positive"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Alpha (0.05) = Type I error rate = the probability of concluding there IS a difference when the true difference is zero (false positive rate). Power (0.80) = 1 - beta = the probability of detecting a true difference of the specified MCID when it truly exists (true positive rate). Setting power at 80% means the trial has a 20% chance of missing a true difference of the specified size (Type II error rate = beta = 0.20). Together: 5% risk of false alarm (alpha); 80% chance of true detection (power); 20% risk of missing a real difference (1 - power).",
+          "wrong": {
+            "A": "80% is the power to detect a true difference — not the probability of finding no difference.",
+            "C": "Power does not estimate the probability of the null hypothesis being true — this is a common misconception about frequentist statistics.",
+            "D": "Alpha = false positive rate (5%) and beta = false negative rate (20% when power is 80%) — the answer has these reversed."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 6: Sample size and power calculations",
+          "trial": "Schulz KF & Grimes DA. Lancet (2005): sample size series — clear explanation of alpha, beta, and power in clinical trial design.",
+          "pearl": "ALPHA = Type I error = false positive rate (5%). BETA = Type II error = false negative rate (20% when power = 80%). POWER = 1 − beta = probability of detecting a real difference. Underpowered trial = high beta = risk of missing real difference.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q6",
+        "stem": "Stratified randomisation in a surgical RCT ensures that:",
+        "options": {
+          "A": "All participants receive all treatments in sequence (crossover design)",
+          "B": "Important prognostic factors are balanced between groups at randomisation",
+          "C": "The intervention is standardised across all trial sites",
+          "D": "Participants cannot predict their allocation from the block pattern"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Stratified randomisation divides participants into subgroups (strata) defined by important prognostic factors (e.g., fracture type, age group, surgeon) and then randomises separately within each stratum. This ensures that the randomisation produces groups that are balanced for these key variables, even in smaller trials where chance imbalance is more likely. In OMFS, typical stratification factors include: condylar fracture classification, disease severity, surgeon, and study site (in multicentre trials).",
+          "wrong": {
+            "A": "Receiving all treatments in sequence describes a crossover design — not stratified randomisation.",
+            "C": "Standardising the intervention across sites is a protocol and training issue — not what stratification achieves.",
+            "D": "Preventing participants from predicting allocation from block pattern is the reason for variable block sizes — a feature of block randomisation, not stratification specifically."
+          },
+          "guideline": "CONSORT 2010 — Item 8b: Type of randomisation: describe stratification variables",
+          "trial": "Schulz KF & Grimes DA. Lancet (2002): randomisation series — stratification eliminates chance imbalance in small-to-medium trials; recommended when trials are <200 participants.",
+          "pearl": "STRATIFIED randomisation: randomise WITHIN strata defined by prognostic factors = ensures balance. Important in surgical RCTs where e.g. surgeon experience or fracture severity could confound results.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q7",
+        "stem": "A new OMFS technique is being evaluated for the first time in a single patient. According to the IDEAL framework, this should be reported as:",
+        "options": {
+          "A": "A randomised controlled trial comparing the new technique with standard care",
+          "B": "A case report documenting the innovation (IDEAL Stage 1)",
+          "C": "A feasibility study with 10–20 consecutive patients",
+          "D": "A systematic review of existing animal model evidence"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "IDEAL Stage 1 (Idea) represents the first use of a new surgical procedure in one or a few patients. The appropriate report format is a case report (or small series). The primary purpose is to document that the procedure was attempted, describe the technique, and report initial safety and feasibility observations. No comparison group is appropriate or necessary at this stage. The IDEAL Stage 1 / SCARE 2023 reporting guidelines apply to such case reports.",
+          "wrong": {
+            "A": "Conducting an RCT at Stage 1 is premature and methodologically inappropriate — the technique is undefined and any RCT results would become obsolete as the technique evolves.",
+            "C": "A feasibility study with 10–20 patients is appropriate for Stage 2a — the Development phase — not Stage 1.",
+            "D": "A systematic review of animal data is background evidence — it is not the appropriate report for a first-in-human surgical innovation."
+          },
+          "guideline": "Cook JA et al. BMJ (2013) — IDEAL Stage 1: case report as appropriate reporting format",
+          "trial": "Ergina PL et al. Lancet (2009): IDEAL framework — Stage 1 first-use must be reported transparently to enable advancement through later stages.",
+          "pearl": "IDEAL STAGE 1 = first use = CASE REPORT. IDEAL STAGE 2 = small series = prospective case series. IDEAL STAGE 3 = standardised technique = RCT. Start right — don't jump from case report to claiming efficacy.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q8",
+        "stem": "ICH Good Clinical Practice (GCP) E6(R2) guidelines apply to which type of clinical research?",
+        "options": {
+          "A": "All observational studies regardless of design",
+          "B": "Primarily clinical trials of investigational medicinal products (CTIMPs) submitted to regulatory authorities",
+          "C": "Systematic reviews and meta-analyses of existing data",
+          "D": "Qualitative research studies in healthcare"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "ICH GCP E6(R2) provides the international regulatory standard for the conduct of clinical trials involving investigational medicinal products (drugs, biologics, and sometimes devices) where data will be submitted to regulatory authorities (MHRA, EMA, FDA) to support marketing authorisation. GCP compliance ensures data integrity, participant protection, and regulatory acceptability. While GCP principles are widely adopted as best practice in non-regulatory research (including surgical RCTs), GCP is formally required only for CTIMPs.",
+          "wrong": {
+            "A": "Observational studies are not subject to formal GCP requirements — though ethical conduct standards apply.",
+            "C": "Systematic reviews analyse existing published data — no participants are involved, so GCP does not apply.",
+            "D": "Qualitative research is not subject to GCP — ethical principles apply but GCP is specific to clinical trials with medicinal products."
+          },
+          "guideline": "ICH GCP E6(R2) 2016 — Scope: clinical trials of investigational medicinal products",
+          "trial": "ICH Harmonised Guideline E6(R2) (2016): scope defined as 'clinical investigation of the safety and efficacy of an investigational product in human subjects for registration purposes.'",
+          "pearl": "GCP E6(R2) = formally required for CTIMPs (drug trials). Widely adopted as best practice for surgical RCTs. GCP includes: protocol adherence, informed consent, adverse event reporting, data integrity, investigator qualifications.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q9",
+        "stem": "An OMFS RCT compares two jaw fracture fixation techniques. At 3-month follow-up, 40 of 200 patients (20%) have been lost to follow-up, predominantly from the experimental treatment group. This primarily threatens:",
+        "options": {
+          "A": "Internal validity through selection bias at allocation",
+          "B": "Internal validity through attrition bias — differential dropout may bias the estimated treatment effect",
+          "C": "External validity through non-representative population",
+          "D": "Statistical power without introducing bias"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "When dropout is differential (higher in one group than the other) and the reason for dropout is related to the outcome (e.g., patients lost from the experimental group dropped out because their outcome was poor), attrition bias is introduced. The remaining patients in the experimental group may be systematically different from those who dropped out, making the group unrepresentative of those originally randomised. The ITT principle mitigates attrition bias by including all randomised patients in the analysis — but this requires a method for handling missing data (multiple imputation, last observation carried forward).",
+          "wrong": {
+            "A": "Selection bias at allocation is prevented by randomisation and allocation concealment — it has already been addressed at the design stage and does not apply to post-randomisation dropout.",
+            "C": "External validity concerns who the results apply to (generalisability) — differential dropout is primarily an internal validity (bias) concern.",
+            "D": "Differential dropout does not only reduce power — it introduces systematic bias, which is more serious than imprecision."
+          },
+          "guideline": "Cochrane RoB 2 — Domain 3: Bias due to missing outcome data (attrition bias)",
+          "trial": "Hollis S & Campbell F. BMJ (1999): analysis of 249 RCTs — only 48% used ITT analysis; differential dropout identified as a major source of bias in published trials.",
+          "pearl": "Differential dropout = ATTRITION BIAS. Especially problematic when dropout reasons are related to outcome. Mitigated by: ITT analysis + missing data imputation + minimising dropout in trial design.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q10",
+        "stem": "A surgeon wants to conduct an OMFS RCT but is uncertain about: (1) the recruitment rate at their centre; (2) the control group complication rate; and (3) the appropriate primary outcome. The correct first step is:",
+        "options": {
+          "A": "Proceed directly to the definitive RCT with a large sample",
+          "B": "Conduct a pilot/feasibility study to answer these specific questions before designing the main trial",
+          "C": "Conduct a retrospective audit to estimate these parameters",
+          "D": "Use published literature values without conducting any preliminary work"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "All three uncertainties (recruitment rate, control event rate, outcome selection) are legitimate objectives of a pilot/feasibility study. A pilot study conducted BEFORE the definitive trial: (1) tests whether the required recruitment rate is achievable; (2) estimates the control group event rate needed for sample size calculation; (3) tests whether the planned outcome can be measured reliably; and (4) identifies logistical problems. Proceeding directly to a large definitive trial with these uncertainties risks conducting an under-recruited, underpowered, or incorrectly designed trial.",
+          "wrong": {
+            "A": "Proceeding to a large definitive trial with these uncertainties wastes resources and may produce an uninterpretable result.",
+            "C": "A retrospective audit can provide event rate estimates but cannot test recruitment feasibility or outcome measurement reliability.",
+            "D": "Literature values may not reflect local patient characteristics, surgical techniques, or healthcare systems — relying on them without local validation risks a miscalculated sample size."
+          },
+          "guideline": "CONSORT-PILOT 2016 — Pilot/feasibility studies: legitimate questions to address before main trial",
+          "trial": "Thabane L et al. BMC Med Res Methodol (2010): framework for pilot studies — recruitment rate, parameter estimation, and outcome feasibility as the three main pilot objectives.",
+          "pearl": "PILOT STUDY objectives: (1) recruitment feasibility; (2) parameter estimation for sample size; (3) outcome measurement testing. NOT efficacy. A pilot study does NOT provide efficacy conclusions — it enables the MAIN trial to be properly designed.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q11",
+        "stem": "The ethical principle of 'equipoise' in clinical research means:",
+        "options": {
+          "A": "Equal randomisation of participants to each treatment arm (1:1 allocation)",
+          "B": "Genuine uncertainty about the comparative effectiveness of the trial treatments, justifying randomisation",
+          "C": "Equal weighting of all outcome measures in composite endpoint analysis",
+          "D": "Balance of risks and benefits of research participation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Equipoise is the genuine uncertainty in the expert medical community about which of the trial interventions is superior. It is the ethical justification for randomisation: if there is true uncertainty about comparative effectiveness, it is ethical to randomly assign patients to either treatment. If one treatment is already known to be clearly superior, randomisation is unethical — patients deserve the best known treatment. In OMFS, many surgical RCTs cannot be conducted because preliminary case series evidence has convinced the surgical community of superiority before a formal RCT is completed.",
+          "wrong": {
+            "A": "Equal randomisation (1:1 allocation) is a design choice — it is not what equipoise means.",
+            "C": "Equal weighting of outcome measures is a statistical concept unrelated to equipoise.",
+            "D": "Risk-benefit balance is the principle of proportionality from the Declaration of Helsinki — not equipoise."
+          },
+          "guideline": "Declaration of Helsinki 2013 — Paragraph 26: equipoise requirement for randomisation; Freedman B. N Engl J Med (1987): clinical equipoise concept",
+          "trial": "Freedman B. N Engl J Med (1987): 'Equipoise and the ethics of clinical research' — seminal paper defining clinical equipoise as the ethical basis for randomised trials.",
+          "pearl": "EQUIPOISE = genuine uncertainty = ethical justification for randomisation. No equipoise (one treatment clearly better) = randomisation is unethical. Many OMFS RCTs fail to be conducted because preliminary data destroys equipoise before a formal trial is designed.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q12",
+        "stem": "Minimisation as a randomisation method differs from simple randomisation because it:",
+        "options": {
+          "A": "Uses smaller block sizes to prevent allocation prediction",
+          "B": "Dynamically allocates each participant to minimise imbalance on multiple pre-specified factors simultaneously",
+          "C": "Randomises within strata defined by a single prognostic factor",
+          "D": "Uses an independent statistician to perform randomisation centrally"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Minimisation is an adaptive randomisation method that dynamically allocates each new participant to the treatment group that minimises the overall imbalance on a set of pre-specified prognostic factors. For each new patient, the algorithm calculates which allocation would produce the best balance across all specified factors and assigns accordingly (with a small random element). This is superior to stratified randomisation when multiple stratification factors are needed — stratified randomisation with 4+ factors creates too many strata for small trials (many strata will be empty). Minimisation ensures balance on all factors simultaneously without the sparse strata problem.",
+          "wrong": {
+            "A": "Variable block sizes are used in block randomisation to prevent allocation prediction — not a feature of minimisation.",
+            "C": "Randomising within a single stratum is stratified randomisation — minimisation handles multiple factors simultaneously.",
+            "D": "Central randomisation by an independent statistician is a method of allocation concealment — not the defining feature of minimisation."
+          },
+          "guideline": "CONSORT 2010 — Item 8b: minimisation as an acceptable randomisation method with description requirements",
+          "trial": "Taves DR. Clin Pharmacol Ther (1974): original minimisation paper — dynamic allocation achieves better covariate balance than stratified randomisation when multiple factors are involved.",
+          "pearl": "MINIMISATION = adaptive randomisation = dynamically minimises imbalance on multiple factors simultaneously. Better than stratification when >3 prognostic factors are important. Requires description in the methods section (CONSORT Item 8b).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q13",
+        "stem": "In the UK, which organisation is responsible for providing ethical approval for research involving NHS patients?",
+        "options": {
+          "A": "NHS England Research Directorate",
+          "B": "Health Research Authority (HRA) via Research Ethics Committees (RECs)",
+          "C": "General Medical Council (GMC)",
+          "D": "NICE (National Institute for Health and Care Excellence)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In the UK, research involving NHS patients or NHS staff requires ethical approval from a Research Ethics Committee (REC) administered by the Health Research Authority (HRA). Applications are submitted through the Integrated Research Application System (IRAS). The REC reviews the ethical aspects of the research: participant consent, risks and benefits, data protection, and vulnerability safeguards. HRA review also covers the regulatory aspects. Approval from the HRA (combining REC ethical review and regulatory review) is required before any NHS research can commence.",
+          "wrong": {
+            "A": "NHS England Research Directorate manages NHS research strategy but does not provide individual study ethical approvals.",
+            "C": "The GMC regulates medical professionals but does not provide research ethics approvals.",
+            "D": "NICE produces clinical guidelines and technology appraisals — it does not provide individual research ethics approvals."
+          },
+          "guideline": "UK Policy Framework for Health and Social Care Research 2017 — HRA approval process",
+          "trial": "Health Research Authority. 'Research Ethics Service.' (HRA 2018): HRA/REC approval process defined for NHS research.",
+          "pearl": "UK research ethics: IRAS application → REC review (ethical approval) → HRA approval → NHS R&D approval at each site. For CTIMPs: also MHRA CTA. All steps required before patient recruitment begins.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q14",
+        "stem": "A per-protocol analysis in an RCT includes only participants who:",
+        "options": {
+          "A": "Were originally randomised, regardless of subsequent adherence",
+          "B": "Completed the allocated treatment without protocol deviations",
+          "C": "Were lost to follow-up and had their outcomes imputed",
+          "D": "Met eligibility criteria as determined after randomisation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Per-protocol analysis restricts the analysis to participants who completed the allocated treatment according to the protocol — without major deviations, crossovers, or non-adherence. While per-protocol analysis may better reflect biological efficacy (what happens when the treatment is correctly delivered), it is subject to selection bias: patients who deviate from the protocol may differ systematically from those who complete it. This is why ITT analysis is the required primary analysis and per-protocol is reported as secondary only.",
+          "wrong": {
+            "A": "Analysing all randomised participants regardless of adherence = ITT (intention-to-treat) analysis — not per-protocol.",
+            "C": "Imputing outcomes for lost-to-follow-up participants is a feature of ITT analysis — not per-protocol.",
+            "D": "Excluding participants based on post-randomisation eligibility re-assessment is a form of biased exclusion — neither ITT nor standard per-protocol."
+          },
+          "guideline": "CONSORT 2010 — Item 12a: statistical methods, ITT as primary; per-protocol as secondary analysis",
+          "trial": "Hollis S & Campbell F. BMJ (1999): analysis of ITT vs per-protocol — per-protocol more likely to show treatment benefit due to selection of adherent (typically healthier) participants.",
+          "pearl": "ITT = ALL randomised patients in their allocated group (primary analysis). PER PROTOCOL = only completers without deviations (secondary analysis, biased). ITT is primary. Per-protocol only supplements.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q15",
+        "stem": "An OMFS RCT of condylar fracture management reports a positive result (ORIF superior to closed treatment) but was conducted at a single centre with one highly experienced surgeon. Which aspect of the trial's validity is most compromised?",
+        "options": {
+          "A": "Internal validity — the randomisation was inadequate",
+          "B": "External validity (generalisability) — results may not apply to centres with less experienced surgeons",
+          "C": "Statistical validity — the power calculation was incorrect",
+          "D": "Construct validity — the outcome measure does not reflect true clinical function"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "External validity (generalisability or applicability) refers to whether the trial results apply to other populations, settings, and surgeons beyond those studied. A single-centre trial conducted by a world-expert surgeon may show superior outcomes for ORIF compared with what other surgeons could achieve — because the results reflect the expert's technical skill, not the technique per se. This is the classic 'efficacy vs effectiveness' distinction: efficacy (what the treatment can achieve in ideal conditions) vs effectiveness (what it achieves in routine practice). Surgical RCTs at high-volume expert centres have limited external validity to general hospitals.",
+          "wrong": {
+            "A": "Internal validity concerns whether the study correctly measures the effect of the intervention in the specific study sample — if randomisation was adequate, internal validity is not the primary concern here.",
+            "C": "Statistical validity concerns the correct use of statistical methods — not specified as an issue in this scenario.",
+            "D": "Construct validity concerns whether the outcome truly measures what it claims to measure — not the issue in this scenario."
+          },
+          "guideline": "CONSORT 2010 — Generalisability (external validity) considerations in trial reporting",
+          "trial": "Eckelt U et al. J Craniomaxillofac Surg (2006): condylar fracture RCT — conducted at specialised OMFS centres; EACMFS guidelines acknowledge that results may not apply to general surgical settings.",
+          "pearl": "INTERNAL validity = did the study measure what it intended to measure (within the study)? EXTERNAL validity = do results apply to other populations and settings? Single-centre expert RCT = high internal validity, limited external validity.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q16",
+        "stem": "Which historical case best illustrates the dangers of not following the IDEAL framework principles for surgical innovation?",
+        "options": {
+          "A": "Eckelt 2006 RCT for condylar fractures",
+          "B": "Proplast-Teflon total TMJ implants — widespread adoption before long-term safety evidence, catastrophic failure, recalled 1990",
+          "C": "Early CO2 laser use in OMFS lesion ablation",
+          "D": "Introduction of computed tomography for OMFS planning"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Proplast-Teflon TMJ alloplastic implants were introduced in the 1980s and adopted widely in OMFS and oral surgery for TMJ disc replacement and total joint replacement before adequate long-term safety data were available. By 1990, it became apparent that the implants were fragile, degraded within the joint space, and produced a severe foreign body giant cell reaction with condylar resorption, joint destruction, and severe pain. Thousands of patients were severely harmed. The FDA recalled all Proplast-Teflon implants in 1990. This is the canonical example of a surgical innovation adopted without following staged evaluation principles — directly motivating the development of the IDEAL framework.",
+          "wrong": {
+            "A": "Eckelt 2006 is a positive example of proper RCT conduct — not a case of harm from premature adoption.",
+            "C": "CO2 laser introduction in OMFS was incremental and not associated with major widespread harm from premature adoption.",
+            "D": "CT imaging is a diagnostic tool, not a surgical technique — its introduction is not an IDEAL framework cautionary tale."
+          },
+          "guideline": "Cook JA et al. BMJ (2013): IDEAL framework — Proplast-Teflon implants cited as the motivating historical example",
+          "trial": "FDA MedWatch 1990: Proplast-Teflon TMJ implant recall — thousands of patients harmed from uncritical adoption without staged safety evaluation; directly motivated IDEAL framework development.",
+          "pearl": "PROPLAST-TEFLON = the OMFS cautionary tale for premature surgical adoption. Recalled 1990 after catastrophic foreign body reactions. NEVER use Proplast-Teflon. IDEAL framework was developed partly in response to this disaster.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q17",
+        "stem": "A CONSORT Item 13 requires reporting of which component of an RCT?",
+        "options": {
+          "A": "Randomisation sequence generation method",
+          "B": "Recruitment dates and the baseline characteristics of participants",
+          "C": "Primary outcome analysis with confidence intervals",
+          "D": "The CONSORT flow diagram showing participant progression"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "CONSORT 2010 Item 13 specifically requires the flow diagram showing participant progression through the four stages (enrolment, allocation, follow-up, analysis), including the number screened, excluded (with reasons), randomised, lost to follow-up (with reasons), and analysed. This item ensures transparent reporting of attrition and allows assessment of attrition bias.",
+          "wrong": {
+            "A": "Randomisation sequence generation method is CONSORT Item 8a.",
+            "B": "Recruitment dates and baseline characteristics are CONSORT Items 14 and 15 respectively.",
+            "C": "Primary outcome analysis with confidence intervals is CONSORT Item 17."
+          },
+          "guideline": "CONSORT 2010 — Item 13: participant flow diagram",
+          "trial": "Schulz KF et al. BMJ (2010): CONSORT 2010 full checklist — Item 13 explicitly requires flow diagram.",
+          "pearl": "CONSORT flow diagram = Item 13. Enrolment → Allocation → Follow-up → Analysis. Four stages. Required in ALL RCT papers. Missing = incomplete CONSORT compliance.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q18",
+        "stem": "What is the main limitation of using composite endpoints in surgical RCTs?",
+        "options": {
+          "A": "They always underestimate the treatment effect",
+          "B": "They may be driven by less clinically important components, making interpretation of the result difficult",
+          "C": "They require much larger sample sizes than single endpoints",
+          "D": "They are not acceptable to research ethics committees"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Composite endpoints combine multiple individual outcomes into a single event (e.g., 'death OR rehospitalisation OR major complication'). While they increase event rates and reduce sample size requirements, their main limitation is interpretability: a statistically significant composite result may be driven entirely by the least clinically important component. If the composite is positive but only because of a small difference in a minor component (while the important outcome — e.g., death — shows no difference), the result is clinically misleading. CONSORT recommends that composite components should be individually reported and ordered by clinical importance.",
+          "wrong": {
+            "A": "Composites can overestimate the treatment effect (if they capture a trivial benefit) — they do not always underestimate.",
+            "C": "A key advantage of composite endpoints is that they REDUCE required sample sizes by increasing event rates — the opposite of this option.",
+            "D": "Composite endpoints are acceptable to ethics committees and widely used — they are not prohibited."
+          },
+          "guideline": "CONSORT 2010 — Composite outcomes: all components must be individually reported",
+          "trial": "Ferreira-González I et al. BMJ (2007): composite endpoints in trials — composite significance driven by minor components in 50% of reviewed trials; major outcomes showed no difference.",
+          "pearl": "COMPOSITE ENDPOINT limitation: may be driven by less important components. Always look at individual components separately. If the composite is significant but death alone is NOT, the result may be clinically irrelevant.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q19",
+        "stem": "According to the Declaration of Helsinki (2013), research on participants who cannot give informed consent (e.g., unconscious trauma patients) is permissible only if:",
+        "options": {
+          "A": "The research cannot feasibly be conducted in competent individuals",
+          "B": "A relative provides verbal consent by telephone",
+          "C": "The research is approved by the sponsor's ethics committee",
+          "D": "The financial incentive to participants is sufficient to justify participation"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The Declaration of Helsinki (2013, Paragraph 29) permits research on participants who cannot give informed consent (e.g., unconscious patients, those with severe cognitive impairment) only if the research: (1) cannot feasibly be conducted in individuals who can provide consent; (2) poses only minimal risk or harm; (3) has potential benefit to the individual or to the group from which they come; and (4) a legal representative (not merely a relative's verbal consent) provides consent where possible. The UK Mental Capacity Act 2005 provides the specific legal framework for this in England and Wales.",
+          "wrong": {
+            "A": "This is the correct answer — the research must not be feasibly achievable in competent participants.",
+            "B": "Telephone verbal consent from a relative is not sufficient — formal written assent/consent from a legal representative or consultation with the REC is required under UK law.",
+            "C": "Sponsor ethics committee approval is a conflict of interest — independent ethics committee approval is required.",
+            "D": "Financial incentives do not override the need for consent — inducement to participate in research without consent is unethical."
+          },
+          "guideline": "Declaration of Helsinki 2013 — Paragraph 29: research with incompetent participants; UK Mental Capacity Act 2005",
+          "trial": "World Medical Association. Declaration of Helsinki (2013): Paragraph 29 — conditions for research in individuals who cannot give consent.",
+          "pearl": "Helsinki Paragraph 29: research in incompetent participants = permissible ONLY IF research cannot be done in competent individuals + minimal risk + potential benefit + legal representative consulted. UK law: Mental Capacity Act 2005 framework.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q20",
+        "stem": "What is the primary purpose of prospective trial registration before patient enrolment?",
+        "options": {
+          "A": "To secure funding from research councils",
+          "B": "To prevent selective outcome reporting by committing investigators to pre-specified outcomes and methods",
+          "C": "To inform other researchers that the trial is being conducted to avoid duplication",
+          "D": "To provide public transparency about research costs"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Prospective trial registration before enrolment commits investigators to their pre-specified primary outcome, secondary outcomes, analysis plan, and sample size. This prevents selective outcome reporting: the post-hoc switching to more favourable outcomes after seeing the data. Registration creates a public record that can be compared with the published report — allowing detection of outcome switching. All major journals (BJOMS, NEJM, JAMA, BMJ) require prospective registration as a condition of publication for RCTs.",
+          "wrong": {
+            "A": "Funding application is a separate process — registration is not required for funding, though some funders require it.",
+            "C": "Avoiding research duplication is a secondary benefit of registration — not its primary purpose.",
+            "D": "Public transparency about costs is not the primary purpose of clinical trial registration."
+          },
+          "guideline": "ICMJE requirements — Prospective registration mandatory for RCT publication; CONSORT 2010 Item 23",
+          "trial": "Chan AW et al. JAMA (2004): 62% of 102 RCTs had outcome discrepancies between registration and publication — established the need for mandatory registration.",
+          "pearl": "TRIAL REGISTRATION primary purpose = prevent SELECTIVE OUTCOME REPORTING. Register BEFORE first patient. Compare registered primary outcome with published primary outcome. Discrepancy = reporting bias. Mandatory for journal publication.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

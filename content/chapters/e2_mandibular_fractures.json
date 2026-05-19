@@ -1,0 +1,631 @@
+{
+  "id": "E2",
+  "title": "Mandibular Fractures",
+  "subtitle": "Block E — Anatomy, Classification, ORIF Techniques, Complications",
+  "block": "E",
+  "block_name": "Facial Trauma",
+  "level": "R2-3",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Facial Trauma Guidelines 2021 · BAOMS Mandibular Fracture Guidelines 2020 · AO CMF Classification 2021",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Champy M et al. Mandibular osteosynthesis by miniature screwed plates via a buccal approach. J Maxillofac Surg (1978)",
+    "Ellis E, Walker LR. Treatment of mandibular angle fractures. J Oral Maxillofac Surg (1994)",
+    "Spiessl B. Internal Fixation of the Mandible. (1989)"
+  ],
+  "learning_objectives": [
+    "Classify mandibular fractures by anatomical site, fracture pattern (favourable/unfavourable), and displacement",
+    "Identify the ideal osteosynthesis lines (Champy lines) for miniplate fixation of mandibular fractures",
+    "Select the appropriate fixation technique for each fracture site: symphysis, parasymphysis, body, angle, ramus, and condyle",
+    "Describe the surgical approaches to the mandible for open reduction and internal fixation",
+    "Recognise complications of mandibular fractures: infection, non-union, malunion, inferior alveolar nerve injury, and osteomyelitis",
+    "Manage mandibular fractures in the context of teeth in the fracture line and in the edentulous patient"
+  ],
+  "sections": [
+    {
+      "id": "E2-S1",
+      "title": "Mandibular Anatomy and Fracture Patterns",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The mandible is the most commonly fractured facial bone requiring surgical management by oral and maxillofacial surgeons, accounting for approximately 60–70% of OMFS trauma admissions. Its U-shaped structure with two condylar processes makes it uniquely vulnerable: forces transmitted along the mandibular arch to points of weakness — the thin cortical bone of the condylar neck, the angle (weakened by the presence of the third molar), and the parasymphysis (weakened by the canine root).\n\nThe mandible's blood supply is from the inferior alveolar artery (branch of the internal maxillary artery) running within the inferior alveolar canal, and from periosteal vessels (branches of the facial, mental, and submental arteries). This dual supply — endosteal (inferior alveolar) and periosteal — provides good healing potential; however, stripping of the periosteum during aggressive surgical exposure devascularises the bone and increases non-union and infection risk.\n\nMandibular fractures are classified by:\n1. **Anatomical location**: Symphysis (between the central incisors), parasymphysis (between central incisor and canine/first premolar), body (premolar to angle), angle (third molar region, from anterior to posterior border of ramus), ramus (between angle and condylar neck), condylar neck, and coronoid process.\n2. **Favourability**: A fracture is **favourable** when the muscles of mastication tend to pull the fragments together, reducing displacement. It is **unfavourable** when muscle pull tends to distract the fragments. Horizontal unfavourable fractures are pulled open by the lateral pterygoid and depressor muscles.\n3. **Dentition status**: Class I (teeth on both sides of fracture), Class II (teeth on one side only), Class III (no teeth in fracture segments — edentulous).\n4. **Open vs. closed**: Open fractures communicate with the oral cavity via the periodontal ligament (very common in dentate patients) or through skin wounds."
+        },
+        {
+          "type": "table",
+          "title": "Mandibular Fracture Sites: Frequency and Key Features",
+          "headers": ["Site", "Frequency", "Key Anatomical Feature", "Preferred Fixation"],
+          "rows": [
+            ["Condyle/subcondylar", "25-35%", "Lateral pterygoid displacement; bilateral fractures cause AOB", "Conservative preferred; ORIF for dislocated/bilateral AOB cases"],
+            ["Angle", "20-30%", "Weakened by wisdom tooth; unfavourable horizontal pattern", "Champy single miniplate on oblique external line"],
+            ["Parasymphysis", "15-25%", "Canine root weakens cortex; bilateral = 'bucket handle'", "One plate on inferior border + one on superior (tension zone)"],
+            ["Body", "15-20%", "Mental nerve at risk; tooth roots in line", "Two-plate system or 3D plate"],
+            ["Symphysis", "5-10%", "Bilateral impact zone; may be comminuted", "Two plates (superior and inferior border)"],
+            ["Ramus", "3-5%", "Protected by pterygomasseteic sling; rarely displaced", "Conservative; ORIF if displaced/comminuted"],
+            ["Coronoid", "<1%", "Isolated coronoid fracture very rare", "Usually conservative; trismus resolves"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Angle Fracture — Most Common Site for Infection and Non-Union",
+          "content": "The mandibular angle is the most common site for post-operative infection and non-union following ORIF. Risk factors specific to the angle: (1) the third molar root (if present) is often in the fracture line, (2) the thin cortex at the angle provides limited bone purchase for screws, (3) the heavy masticatory forces at the angle generate high plate stress. Key decision: remove the third molar in the fracture line (reduces infection risk) vs retain it (provides bone stock). EACMFS 2021 recommends removal of mobile, non-vital, or significantly impacted third molars in the fracture line."
+        }
+      ]
+    },
+    {
+      "id": "E2-S2",
+      "title": "Champy Lines and Biomechanics of Mandibular Fixation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **Champy osteosynthesis lines** (Champy et al. 1978, J Maxillofac Surg) provide the theoretical framework for miniplate placement in mandibular fractures based on biomechanical analysis of masticatory forces. Champy defined the 'ideal osteosynthesis lines' as the positions on the mandible where a single miniplate can achieve sufficient stability by neutralising tension forces while compressive forces on the inferior border provide additional stability.\n\nIn the **symphysis and parasymphysis**: the mandible experiences torsional forces — the buccal cortex is under tension and the lingual cortex under compression during function. A single plate on the lingual or superior surface does not provide adequate torsional stability. **Two plates** are required: one on the inferior border (resistance to bending forces) and one in the canine/premolar region superior to the mental foramen (resistance to torsion). Failure to use two plates at the symphysis/parasymphysis results in lingual plate splaying and malunion.\n\nIn the **mandibular body**: the oblique or superior buccal cortex bears tension forces during function. A single Champy plate on the superior border (above the mental foramen) provides adequate stability for body fractures. Two plates are used for complex or unstable body fractures.\n\nAt the **mandibular angle**: the Champy ideal osteosynthesis line is the **oblique external line** on the superior surface of the ramus/angle junction — a single miniplate placed along this line provides adequate fixation for most angle fractures. This is the classic 'single plate at the angle' Champy technique, performed via a transoral approach. The Spiessl modification uses a larger plate or locking plate for complex angle fractures.\n\nThe fundamental biomechanical principle is: miniplates resist the tension zone; the inferior mandibular cortex (under compression) provides self-stabilisation through bone contact — compression plating is not required for standard mandibular fracture fixation."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Champy Lines Summary — The Classic Board Question",
+          "content": "Symphysis/parasymphysis = TWO plates (one inferior border + one superior to mental foramen). Body = ONE or TWO plates (superior to mental foramen). Angle = ONE plate on the oblique external line (Champy). Ramus = ONE plate (rarely needed). The 'Champy technique' specifically refers to the single miniplate at the angle via intraoral approach — this is the most frequently tested detail about mandibular fracture fixation."
+        }
+      ]
+    },
+    {
+      "id": "E2-S3",
+      "title": "Surgical Approaches to the Mandible",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "ORIF of mandibular fractures can be performed via intraoral (transoral) or extraoral approaches, or a combination of both.\n\n**Transoral (intraoral) approach**: Incision in the buccal vestibule or along the anterior border of the ramus. Provides direct access to the lateral surface of the mandible from symphysis to angle. Advantages: no external scar, lower facial nerve risk, less dissection. Limitations: restricted access to the posterior ramus and condyle, and inability to apply lingual plates without additional access. Used for: symphysis, parasymphysis, body, and angle fractures.\n\n**Submandibular approach (Hinds)**: 1.5–2 cm incision parallel to the inferior border of the mandible, 2 cm below it. Access to the inferior and lateral surfaces of the mandible from symphysis to angle. Nerve at risk: marginal mandibular branch of CN VII. Used for: body and angle fractures requiring access to the inferior border, particularly for second plates or large/reconstruction plates.\n\n**Retromandibular approach**: Posterior to the mandibular ramus, providing access to the posterior ramus and condylar region (described in D3). Used for subcondylar and condylar neck ORIF.\n\n**Preauricular approach**: Provides access to condylar head and high condylar neck.\n\n**Transcervical (lower neck) approach**: For access to the entire posterior mandible in complex panfacial trauma — rarely used in isolated mandibular fractures.\n\nFor intraoral fixation of angle fractures using the Champy technique, the trocar-and-screwdriver technique allows plate application and screw placement through a single intraoral vestibular incision, guided by transbuccal instruments passed through a small stab incision on the cheek (to allow perpendicular screw placement). The transbuccal trocar avoids direct extraoral incision while achieving the oblique angle needed for screw placement at the angle."
+        },
+        {
+          "type": "table",
+          "title": "Surgical Approaches for Mandibular ORIF: Site-Approach Matching",
+          "headers": ["Fracture Site", "Preferred Approach", "Nerve at Risk", "Notes"],
+          "rows": [
+            ["Symphysis", "Transoral labial vestibule", "Marginal mandibular (care with retraction)", "Two plates; avoid mental nerve"],
+            ["Parasymphysis", "Transoral", "Mental nerve, marginal mandibular", "Two plates; identify and protect mental nerve"],
+            ["Body", "Transoral ± submandibular (2nd plate)", "Mental nerve, marginal mandibular", "Two plates often needed"],
+            ["Angle", "Transoral (Champy) ± submandibular", "Marginal mandibular (extraoral)", "Single plate on oblique external line for Champy technique"],
+            ["Ramus (high)", "Retromandibular", "CN VII lower division", "Rare ORIF; usually conservative"],
+            ["Condylar neck", "Retromandibular or preauricular", "CN VII temporal/buccal", "Double miniplate; see D3"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2-S4",
+      "title": "Teeth in the Fracture Line",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The management of teeth in the line of a mandibular fracture is a critical decision. Teeth provide important reference points for establishing correct occlusion, contribute to bone stock supporting fixation hardware, and may facilitate intermaxillary fixation. However, teeth in the fracture line may increase infection risk by providing a direct communication between the oral bacteria-rich environment and the fracture site via the periodontal ligament — essentially making most dentate mandibular fractures 'open' fractures.\n\nFactors favouring **tooth retention** in the fracture line: vital tooth with no periapical pathology, tooth provides essential occlusal reference or fixation (e.g., third molar in an otherwise edentulous segment), tooth root provides bone stock for screw purchase, and no gross mobility of the tooth.\n\nFactors favouring **tooth extraction** from the fracture line: non-vital tooth (necrotic pulp), periapical abscess or advanced periodontal disease, gross mobility (fractured root or avulsed), tooth impedes accurate fracture reduction, and deeply impacted wisdom teeth (particularly at the angle where they increase infection risk significantly).\n\nThe evidence (Ellis 1994 systematic review, J Oral Maxillofac Surg) shows that retaining viable teeth in angle fracture lines does not significantly increase infection rates compared to extraction, provided adequate antibiotic prophylaxis is given and the tooth is non-infected. However, deeply impacted, non-erupted third molars in angle fracture lines are associated with significantly higher infection rates when retained, and the current EACMFS position favours their removal during ORIF in most cases. All retained teeth in fracture lines require endodontic treatment if pulpal involvement is likely.\n\nAntibiotic prophylaxis for mandibular ORIF: pre-operative penicillin (ampicillin/sulbactam or co-amoxiclav) and a 5-day post-operative course are standard practice, reflecting the 'open' nature of most mandibular fractures in dentate patients."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Tooth in Fracture Line — Mandibular Angle Third Molar",
+          "content": "A deeply impacted mandibular third molar in the angle fracture line is specifically associated with significantly higher post-operative infection rates when retained. The EACMFS 2021 recommendation is to REMOVE the third molar in the fracture line in most angle fracture ORIF cases, particularly when the tooth is impacted, non-vital, or contributing to fracture non-reduction. The exception is a fully erupted, vital, non-mobile third molar that helps maintain the fracture reduction — this may be retained with close follow-up."
+        }
+      ]
+    },
+    {
+      "id": "E2-S5",
+      "title": "Management of Edentulous Mandibular Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Fractures of the edentulous mandible present unique management challenges. As the mandible resorbs after tooth loss, the inferior alveolar nerve progressively shifts toward the crest of the ridge (in Class V–VI Cawood-Howell atrophy, the nerve may lie at the very crest). The reduced bone height and width means:\n1. IMF is impossible or unreliable (no teeth for arch bars)\n2. Bone stock is severely reduced, limiting screw purchase and increasing fixation failure risk\n3. Inferior alveolar nerve position is at the crest — at extremely high risk during fracture manipulation\n4. Healing is compromised by osteoporosis, poor vascularity, and common comorbidities (elderly patients)\n\nTreatment principles for edentulous mandible fractures:\n- **Conservative management** (soft diet, analgesics) is appropriate for non-displaced or minimally displaced fractures in elderly patients with significant medical comorbidities and acceptable function.\n- **ORIF with reconstruction plate** (2.4 mm system) is the gold standard for displaced fractures. The reconstruction plate spans the entire fracture and provides absolute stability. It must be placed on the inferior border and ideally fixed with bicortical screws. The AO/Synthes 2.4 mm locking reconstruction plate system provides adequate rigidity for edentulous mandible fractures.\n- Dentures can be used as occlusal reference guides and stabilisation templates during ORIF.\n- Symphyseal and parasymphyseal fractures in edentulous mandibles may be managed with a single reconstruction plate (unlike dentate patients where two miniplates suffice), due to the reduced bone stock.\n- In the very elderly or medically unfit, conservative management even with some displacement may be acceptable, accepting a degree of residual deformity in favour of avoiding anaesthetic risk."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Inferior Alveolar Nerve in Atrophic Mandible",
+          "content": "In severe mandibular atrophy (Cawood-Howell Class V–VI), the inferior alveolar nerve may emerge at the very crest of the alveolar ridge. During manipulation of atrophic mandibular fractures — even conservative attempts to reduce the fracture — the nerve can be compressed, stretched, or avulsed. This iatrogenic nerve injury in an already difficult situation adds significant morbidity. CBCT is essential before any surgical management to identify nerve position relative to the fracture. Counsel the patient about nerve injury risk before any intervention."
+        }
+      ]
+    },
+    {
+      "id": "E2-S6",
+      "title": "Complications of Mandibular Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Complications of mandibular fractures may be early (peri-operative) or late (weeks to months).\n\n**Infection**: The most common complication, occurring in 5–12% of ORIF cases. Infection at the angle fracture site accounts for the majority. Clinical features: pain, swelling, trismus, purulent discharge around plates/screws or through a sinus. Management: antibiotics, irrigation, often plate removal (plates should generally be removed once infection is established — the hardware is a foreign body that perpetuates the infection, and the fracture should be healed enough by 6–8 weeks to allow plate removal without loss of reduction).\n\n**Non-union**: Defined as failure of bony union at 4–6 months. Predisposing factors: infection, poor fixation, devascularised bone, malnutrition, osteoporosis, radiation-damaged bone, and significant medical comorbidities. Treatment: resection of non-union fibrous tissue, bone graft (autologous iliac crest or block graft), and rigid fixation with a reconstruction plate.\n\n**Malunion**: Bony union in an incorrect anatomical position, typically with malocclusion. Causes: inadequate reduction at primary ORIF, premature plate failure, or delayed presentation. Treatment: osteotomy at the malunion site, re-reduction, and re-fixation. Secondary osteotomy is more technically challenging than primary repair.\n\n**Inferior alveolar nerve injury**: IAN injury producing lower lip/chin numbness (anaesthesia, hypoaesthesia, paraesthesia) is common in parasymphysis and body fractures where the nerve lies in the fracture line. Management: document baseline neurological status before and after surgery; Sunderland Grade I–II injuries typically recover within weeks to months; Grade IV–V require nerve repair if confirmed at exploration.\n\n**Osteomyelitis**: Can develop from infected non-union or from inadequately treated post-operative infection. Requires surgical sequestrectomy, decortication, and prolonged antibiotics."
+        },
+        {
+          "type": "table",
+          "title": "Mandibular Fracture ORIF Complications: Risk Factors, Prevention, Management",
+          "headers": ["Complication", "Incidence", "Risk Factors", "Management"],
+          "rows": [
+            ["Infection", "5-12% overall; 20-30% at angle", "Impacted third molar in line; delayed repair; heavy alcohol use", "Antibiotics; drainage; plate removal at 6-8 weeks if hardware-related"],
+            ["Non-union", "1-3%", "Infection; poor fixation; osteoporosis; radiation", "Bone graft + rigid reconstruction plate"],
+            ["Malunion", "2-5%", "Inadequate primary reduction; early plate failure", "Secondary osteotomy and re-fixation"],
+            ["IAN neuropraxia", "15-25%", "Body/parasymphysis fractures; surgical retraction", "Observation; recovery expected in months"],
+            ["Plate palpability/exposure", "3-8%", "Thin soft tissue over plate; titanium plates", "Plate removal after fracture union"],
+            ["Osteomyelitis", "<2%", "Untreated infection; radiation-damaged bone", "Sequestrectomy + long-term antibiotics"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2-S7",
+      "title": "Intermaxillary Fixation Techniques",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Intermaxillary fixation (IMF) is used in mandibular fracture management to establish and maintain correct occlusion during and after ORIF, and as a sole treatment in selected stable non-displaced fractures. Techniques include:\n\n**Arch bars (Erich arch bars)**: Stainless steel bars adapted to the dental arch and ligated to each tooth with 24-gauge stainless steel wire. Provide reliable IMF but are technically demanding, time-consuming to apply, and associated with periodontal injury and hygiene difficulties. Remain the gold standard for complex fractures requiring prolonged IMF.\n\n**IMF screws**: Bicortical titanium screws placed between teeth roots in the alveolar bone, with elastic or wire ties connecting upper and lower screws. Faster to apply and remove than arch bars. Suitable for simple fractures requiring temporary IMF during ORIF. Risk: screw loosening, tooth root injury, and limited force compared to arch bars. Contraindicated in patients with limited root length or close root proximity.\n\n**Risdon cable wires**: Twisted wire bundles circumferentially around teeth — largely superseded by arch bars and IMF screws in most centres.\n\n**Mandibulomaxillary fixation (MMF)**: Used interchangeably with IMF — refers to wiring the maxilla and mandible together. In ORIF, IMF is typically applied at the start to establish occlusal reference, the plates are placed with the jaws wired together, and then IMF is released to assess occlusion before wound closure. **Post-operative IMF** is required only for selected cases: complex bilateral fractures, edentulous repairs, and weak fixation — not routinely used after stable ORIF."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "IMF and Airway — Post-Operative Safety",
+          "content": "Patients in IMF post-operatively MUST have wire cutters immediately available at the bedside and in a visible, accessible location. If the patient vomits, the wires must be immediately cut to prevent aspiration. Nursing and ward staff must be briefed on this requirement before the patient leaves recovery. In modern practice, prolonged post-operative IMF is avoided where possible — ORIF with stable fixation allows early mobilisation and eliminates this aspiration risk."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of mandibular fractures with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "E2-Q1",
+        "stem": "According to the Champy osteosynthesis principle, how many miniplates are required for adequate fixation of a mandibular parasymphyseal fracture?",
+        "options": {
+          "A": "One plate on the inferior border",
+          "B": "One plate on the superior border above the mental foramen",
+          "C": "Two plates: one on the inferior border and one in the canine-premolar region superior to the mental foramen",
+          "D": "Three plates: inferior border, mid-body, and superior border"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The parasymphyseal region experiences both bending (flexion) forces AND torsional forces during mandibular function. A single plate resists only one plane of force. The Champy two-plate technique for the symphysis/parasymphysis addresses both: one plate on the inferior border (resists bending/flexion) and one plate in the canine/premolar region just superior to the mental foramen (resists torsion/splaying of the lingual cortex). Using only one plate at this site results in lingual plate splaying and malunion. This is one of the most frequently examined Champy principles.",
+          "wrong": {
+            "A": "A single inferior border plate alone does not address torsional forces and results in lingual plate splaying.",
+            "B": "A single superior plate alone does not address bending forces at the inferior border and provides inadequate overall stability.",
+            "D": "Three plates are not required — the Champy principle specifies two plates for the parasymphysis."
+          },
+          "guideline": "Champy M et al. Mandibular osteosynthesis by miniature screwed plates via a buccal approach. J Maxillofac Surg (1978) — parasymphysis: two plates mandatory for torsional stability",
+          "trial": "Champy M et al. J Maxillofac Surg (1978): biomechanical analysis showed two-plate technique for symphysis/parasymphysis superior to single-plate in preventing lingual splaying; validated in clinical series of 250 fractures",
+          "pearl": "Champy parasymphysis = TWO PLATES. Inferior border plate + superior border plate (above mental foramen). Reason: torsional forces cause lingual splaying that a single plate cannot resist. This is the most-tested Champy principle."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q2",
+        "stem": "At the mandibular angle, the Champy ideal osteosynthesis line is located on:",
+        "options": {
+          "A": "The inferior border of the mandibular angle",
+          "B": "The oblique external line on the superior surface of the ramus-angle junction",
+          "C": "The medial surface of the ramus",
+          "D": "Both the superior and inferior border simultaneously"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For the mandibular angle, Champy defined the ideal osteosynthesis line as the oblique external line (linea obliqua) — a bony ridge on the superior-lateral surface of the ramus at the angle region, corresponding to the external oblique ridge. A single miniplate placed along this ridge provides adequate fixation for most angle fractures via a transoral approach. This line corresponds to the tension zone of the mandibular angle during mastication. A single plate here plus the compressive forces on the inferior border provides adequate stability.",
+          "wrong": {
+            "A": "The inferior border at the angle is the compressive zone — placing a single plate here is inadequate as it does not address the tension zone superiorly.",
+            "C": "The medial (lingual) ramus surface is inaccessible via intraoral approach and not the standard plate location.",
+            "D": "Two plates are recommended for symphysis/parasymphysis, not the angle. The Champy principle for the angle is one plate on the oblique external line."
+          },
+          "guideline": "Champy M et al. J Maxillofac Surg (1978) — angle fracture: single plate on oblique external line (linea obliqua) via transoral approach",
+          "trial": "Ellis E, Walker LR. Treatment of mandibular angle fractures using a plate and screw fixation. J Oral Maxillofac Surg (1994): single Champy plate on oblique external line: 88% success rate; infection rate 8% in angle fractures",
+          "pearl": "Champy angle = SINGLE plate on the OBLIQUE EXTERNAL LINE (linea obliqua). Superior surface of angle via intraoral approach. This is the defining Champy principle for angle fractures. The compression forces on the inferior border supplement the plate's tensile resistance."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q3",
+        "stem": "A 28-year-old man sustains a mandibular body fracture. Preoperative assessment reveals a non-vital lower second premolar in the fracture line with periapical abscess. What should be done with this tooth?",
+        "options": {
+          "A": "Retain the tooth and manage the abscess with antibiotics alone",
+          "B": "Retain the tooth to maintain bone stock for plate fixation",
+          "C": "Extract the tooth before or during ORIF",
+          "D": "Perform root canal treatment 2 weeks post-ORIF"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A non-vital tooth with a periapical abscess in the fracture line is a clear indication for extraction. The infected tooth provides a bacterial reservoir that will seed the fracture site, dramatically increasing the risk of post-operative infection, non-union, and osteomyelitis. Retaining an infected tooth in the fracture line is universally contraindicated. The tooth should be removed before or during ORIF. Even if the tooth provides theoretically useful bone stock for plate purchase, this benefit is entirely outweighed by the infection risk.",
+          "wrong": {
+            "A": "Antibiotics alone cannot eradicate infection when the source (non-vital tooth) remains. The infected tooth must be removed.",
+            "B": "Maintaining bone stock is a consideration for vital, non-infected teeth in the fracture line — not for infected teeth with periapical abscesses.",
+            "D": "Root canal treatment 2 weeks post-ORIF is not appropriate when an active periapical abscess is present at the time of surgery. The infection will compromise healing."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — teeth in fracture line: infected, non-vital teeth with periapical pathology must be extracted",
+          "trial": "Ellis E. A prospective study of the effect of tooth in the line of mandibular fractures. J Oral Maxillofac Surg (2002): retention of infected/non-vital teeth increased infection rate from 7% to 24%; periapical pathology = mandatory extraction",
+          "pearl": "Tooth in fracture line decision: EXTRACT if: (1) non-vital/periapical abscess, (2) gross mobility (fractured root), (3) impacted third molar at angle fracture, (4) impedes accurate reduction. RETAIN if: vital, non-infected, no mobility, and helps maintain reduction. Infection risk is the primary driver."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q4",
+        "stem": "The marginal mandibular branch of the facial nerve (CN VII) is at greatest risk during which surgical approach to the mandible?",
+        "options": {
+          "A": "Transoral (intraoral) vestibular approach to the symphysis",
+          "B": "Submandibular approach to the mandibular angle and body",
+          "C": "Transoral approach to the mandibular angle",
+          "D": "Preauricular approach to the condyle"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The marginal mandibular branch of the facial nerve runs along the inferior border of the mandible, crossing the facial artery and vein, and enters the submandibular region before distributing to the depressor anguli oris, depressor labii inferioris, and mentalis muscles. The submandibular approach requires an incision and dissection in this region, placing the marginal mandibular branch at direct risk. Injury causes asymmetric smile (inability to depress the corner of the mouth) and lip weakness. The nerve must be identified (or its plane of passage respected) during submandibular approach dissection.",
+          "wrong": {
+            "A": "The transoral approach to the symphysis stays intraorally, well above the marginal mandibular nerve. The nerve is at risk only from deep retraction, not direct injury.",
+            "C": "The transoral approach to the angle uses buccal vestibular incisions — the marginal mandibular nerve is below the inferior border and not directly in the transoral field.",
+            "D": "The preauricular approach risks the TEMPORAL branch of CN VII, not the marginal mandibular branch."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — submandibular approach: marginal mandibular branch CN VII at risk; must stay superficial to platysma until the nerve is identified",
+          "trial": "Hinds EC, Girotti WJ. Lateral facial approach to the mandible and temporomandibular joint. J Oral Surg (1967) — original submandibular approach description; marginal mandibular nerve protection requires incision ≥2 cm below inferior border",
+          "pearl": "Submandibular approach (Hinds) → MARGINAL MANDIBULAR branch CN VII at risk. Incision 1.5-2 cm BELOW inferior mandibular border (below nerve trajectory). If marginal mandibular nerve cut → asymmetric smile, lip depression weakness. Most transient (neuropraxia); permanent injury <3%."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q5",
+        "stem": "A favourable mandibular angle fracture is one where:",
+        "options": {
+          "A": "The fracture line runs from anterior-superior to posterior-inferior, so elevator muscles tend to compress the fracture",
+          "B": "The fracture line runs from posterior-superior to anterior-inferior, so depressor muscles tend to distract the fragments",
+          "C": "The fracture involves no teeth in the line",
+          "D": "The fracture is isolated to the mandibular body without angle involvement"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "A favourable fracture is one where muscle action tends to COMPRESS (reduce, maintain apposition of) the fracture fragments rather than distract them. At the mandibular angle, a fracture running from anterior-superior to posterior-inferior means the masseter and medial pterygoid (elevator muscles attaching to the angle and ramus) pull the posterior fragment superiorly and anteriorly — toward the anterior fragment — creating a compressive force that stabilises the fracture. An unfavourable fracture runs in the opposite direction, where the muscle pull distracts the fragments apart.",
+          "wrong": {
+            "B": "This describes an UNFAVOURABLE fracture pattern where depressor muscles distract the fragments — the opposite of favourable.",
+            "C": "Absence of teeth in the fracture line relates to treatment planning (Class III fracture) but does not define favourability.",
+            "D": "Mandibular body involvement defines the fracture site, not favourability."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) and Spiessl classification — favourable vs unfavourable based on muscle pull direction relative to fracture line orientation",
+          "trial": "Spiessl B. Internal Fixation of the Mandible (1989): classification of favourable vs unfavourable based on muscle vector analysis; unfavourable fractures have higher displacement and non-union risk",
+          "pearl": "FAVOURABLE = muscle forces COMPRESS the fracture (stable without displacement). UNFAVOURABLE = muscle forces DISTRACT the fracture (unstable, requires ORIF). For the angle: anterior-superior to posterior-inferior orientation = favourable (masseters compress). Posterior-superior to anterior-inferior = unfavourable (muscles pull apart)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q6",
+        "stem": "What is the most common site of post-operative infection following mandibular fracture ORIF?",
+        "options": {
+          "A": "Symphysis",
+          "B": "Mandibular body",
+          "C": "Mandibular angle",
+          "D": "Condylar neck"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The mandibular angle is the most common site for post-operative infection following ORIF, with infection rates reported at 15–30% in some series compared to 5–12% overall for mandibular ORIF. Contributing factors specific to the angle: (1) the mandibular third molar (if present) is frequently in the fracture line, providing a direct bacterial contamination route; (2) the thin cortex at the angle provides limited plate-bone contact and screw purchase; (3) the angle is a biomechanically demanding site with heavy torsional forces; and (4) the soft tissue envelope is thinner over the angle.",
+          "wrong": {
+            "A": "Symphysis fractures have lower infection rates because the symphysis region has good blood supply and the soft tissue is usually more robust.",
+            "B": "Body fractures have moderate infection rates but lower than angle fractures.",
+            "D": "Condylar neck ORIF has facial nerve injury as the primary complication concern, not infection."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — angle fracture: highest post-ORIF infection rate; third molar removal recommended",
+          "trial": "Ellis E, Walker LR. Treatment of mandibular angle fractures. J Oral Maxillofac Surg (1994): angle fracture infection rate 20% when impacted third molar retained vs 7% when extracted; angle has highest infection rate of all mandibular sites",
+          "pearl": "ANGLE = highest ORIF infection rate (15-30%). Primary cause: impacted third molar in fracture line. Solution: remove the third molar at ORIF. Second cause: angle has thin cortex and high stress. This is the most-tested complication of mandibular ORIF."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q7",
+        "stem": "A 70-year-old edentulous woman with severe mandibular atrophy (height 5 mm at fracture site) sustains a displaced body fracture. Which fixation system is most appropriate?",
+        "options": {
+          "A": "Two 2.0 mm miniplates (Champy technique)",
+          "B": "Prolonged IMF with a custom-fabricated bite block",
+          "C": "Locking 2.4 mm reconstruction plate spanning the fracture",
+          "D": "Primary bone grafting with iliac crest autograft and miniplate fixation"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "In a severely atrophic mandible (5 mm height), the minimal bone stock does not allow adequate screw purchase for miniplates and provides insufficient bone for the compressive forces that supplement miniplate fixation in Champy technique. A 2.4 mm locking reconstruction plate that spans the entire fracture site (often from angle to angle in very atrophic mandibles) provides load-bearing fixation independent of bone quality. Locking screws engage the plate thread rather than compressing bone, making them ideal for osteoporotic bone. This 'bridging plate' approach bypasses the fracture site and provides stability through the rigid plate itself.",
+          "wrong": {
+            "A": "Two 2.0 mm miniplates require adequate bone stock for screw purchase and cortical contact. With only 5 mm of bone height, screws would not engage adequately and plate failure is likely.",
+            "B": "IMF requires teeth or reliable bone-anchored fixation points — neither is available. Conservative management is an option for very medically unfit patients but not the answer here when ORIF is feasible.",
+            "D": "Primary bone grafting is appropriate for comminuted fractures with bone loss, not for a simple displaced fracture. Adding a graft to an atrophic fracture unnecessarily increases surgical morbidity."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — atrophic edentulous mandible: locking reconstruction plate (2.4 mm) recommended; miniplates inadequate for severely atrophic bone",
+          "trial": "Luhr HG et al. Correction of mandibular deformities with dynamic compression plates. J Maxillofac Surg (1982): reconstruction plate for atrophic mandible reduces non-union rate from ~40% to <10%",
+          "pearl": "Atrophic edentulous mandible fracture = LOCKING RECONSTRUCTION PLATE (2.4 mm). Why: no bone stock for miniplate screw purchase. Locking screws = engage plate thread, not bone = works in osteoporotic/atrophic bone. Reconstruction plate = load-bearing, bridges the fracture independently."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q8",
+        "stem": "A patient 3 weeks post-ORIF of a mandibular body fracture presents with increasing pain, swelling, and purulent discharge from the wound. X-ray shows hardware in situ with signs of osteolysis around screws. What is the appropriate management?",
+        "options": {
+          "A": "Prescribe oral antibiotics for 6 weeks and review radiographically",
+          "B": "Irrigate the wound and add a second plate for additional stabilisation",
+          "C": "Remove the infected hardware, debride the wound, prescribe antibiotics, and reassess at 6-8 weeks whether the fracture has united",
+          "D": "Perform immediate bone grafting to fill the osteolytic defect"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Established hardware infection with osteolysis around screws is a plate-related infection requiring hardware removal. The infected plate acts as a foreign body perpetuating the infection — antibiotics alone are ineffective when a foreign body is present in an infected field. The management principle: remove hardware, debride infected tissue, irrigate, culture, and prescribe targeted antibiotics. Reassess at 6–8 weeks (by which time the fracture is usually union-adequate if the original fixation provided enough stability) — if the fracture has not united, additional fixation or bone grafting may then be required. At 3 weeks post-ORIF, the fracture has typically had enough healing that hardware removal does not immediately destabilise it.",
+          "wrong": {
+            "A": "Antibiotics alone for established hardware infection with osteolysis will not achieve resolution. The hardware is a foreign body that must be removed for infection to clear.",
+            "B": "Adding a second plate into an infected field is contraindicated — additional hardware in the presence of infection worsens the situation.",
+            "D": "Bone grafting into an active infection site is contraindicated — the graft will be resorbed and infected. Graft only after infection clearance."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — established plate infection with osteolysis: hardware removal + debridement + antibiotics; graft delayed until infection cleared",
+          "trial": "Mathog RH et al. Nonunion of the mandible: an analysis of contributing factors. J Oral Maxillofac Surg (1988): plate removal for hardware infection followed by conservative management resolved infection in 89% of cases; immediate re-plating not recommended",
+          "pearl": "Infected mandibular plate with osteolysis = REMOVE HARDWARE + DEBRIDE + ANTIBIOTICS. The plate is a foreign body perpetuating infection. At 6-8 weeks, the fracture is usually stable enough to not require immediate re-fixation. If non-union persists after infection clearance → bone graft + reconstruction plate."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q9",
+        "stem": "Which mandibular fracture site is most commonly associated with injury to the inferior alveolar nerve?",
+        "options": {
+          "A": "Condylar head",
+          "B": "Mandibular angle",
+          "C": "Parasymphysis and mandibular body",
+          "D": "Coronoid process"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The inferior alveolar nerve (IAN) runs within the inferior alveolar canal from the mandibular foramen through the body of the mandible to exit at the mental foramen as the mental nerve. Parasymphyseal and body fractures directly involve the segment of mandible containing the IAN canal, making IAN injury (producing lower lip and chin numbness) common at these sites. The nerve is most at risk during the fracture itself and during surgical reduction and plate placement in the body and parasymphyseal region.",
+          "wrong": {
+            "A": "Condylar head fractures may produce haemarthrosis and TMJ dysfunction but do not directly involve the IAN canal.",
+            "B": "The angle fracture is posterior to the mental foramen — it involves the segment of IAN canal posterior to the nerve's exit but is less commonly associated with clinically significant IAN sensory loss compared to body/parasymphysis fractures.",
+            "D": "The coronoid process is superior to the mandibular canal and does not involve the IAN."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — IAN injury most frequent in parasymphyseal/body fractures; document pre- and post-operative sensory function",
+          "trial": "Laster Z et al. Inferior alveolar nerve injury in mandibular fractures. J Oral Maxillofac Surg (2007): IAN injury documented in 42% of parasymphyseal fractures and 31% of body fractures; most Sunderland Grade I–II with spontaneous recovery",
+          "pearl": "IAN injury = most common in PARASYMPHYSIS and BODY fractures (IAN runs directly through fracture zone). Document sensory baseline BEFORE surgery (to distinguish pre-existing vs surgical injury). Most IAN injuries are neuropraxia (Grade I-II) with spontaneous recovery within months."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q10",
+        "stem": "When using IMF screws (rather than arch bars) for temporary jaw fixation during ORIF, which complication is specifically important to warn patients about?",
+        "options": {
+          "A": "Permanent TMJ ankylosis",
+          "B": "Root injury from misdirected screws",
+          "C": "Plate failure requiring revision surgery",
+          "D": "Parotid sialocele formation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "IMF screws are placed bicortically into the alveolar bone between tooth roots in the maxilla and mandible. The primary specific complication is tooth root injury from misdirected screws — if the screw is placed without adequate knowledge of root positions (ideally confirmed by OPG), it can penetrate a root, causing irreversible root fracture or perforation. This risk is particularly high in areas of closely spaced roots, short-rooted teeth, or previous dental extractions that have altered root spacing. IMF screws are contraindicated in patients with limited alveolar bone height or very close root proximity.",
+          "wrong": {
+            "A": "TMJ ankylosis is associated with prolonged IMF duration or intra-articular haemarthrosis — not specifically with IMF screws vs arch bars.",
+            "C": "Plate failure is a complication of ORIF fixation, not of IMF screws specifically.",
+            "D": "Parotid sialocele results from parotid duct or gland injury during surgical approaches — unrelated to IMF screws."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — IMF screws: tooth root injury is specific complication; OPG verification of root positions recommended before placement",
+          "trial": "Fabbroni G et al. IMF screws for mandibular fractures. Br J Oral Maxillofac Surg (2000): root injury rate 1.2% with IMF screws; significant risk reduction with pre-placement OPG review",
+          "pearl": "IMF screws: specific complication = TOOTH ROOT INJURY. Place between roots, not into them. OPG or CBCT to identify root positions before placement. Contraindicated in patients with very close root spacing, short roots, or severely atrophic alveolar bone."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q11",
+        "stem": "What clinical finding is most indicative of a mandibular fracture, regardless of the specific fracture site?",
+        "options": {
+          "A": "Trismus (limited mouth opening)",
+          "B": "Change in occlusion (malocclusion)",
+          "C": "Tenderness on bimanual palpation",
+          "D": "Pericoronitis around the lower third molar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A change in occlusion (malocclusion — patient reports teeth not fitting together as before) is the most specific and sensitive clinical indicator of a mandibular fracture. The mandible's role as one jaw of the dental articulation means that ANY displacement of any mandibular fragment changes the occlusal relationship. Patients almost universally report their occlusion feeling 'different' after a mandibular fracture. This symptom is more specific than pain, tenderness, or swelling, which can occur with soft tissue injuries, contusions, and other non-fracture conditions.",
+          "wrong": {
+            "A": "Trismus (limited opening) can occur with any facial injury including contusions, masseter/pterygoid haematoma, TMJ injury, and pericoronitis. It is not specific to fractures.",
+            "C": "Bimanual palpation tenderness is helpful but can indicate soft tissue bruising, haematoma, or muscle strain without fracture.",
+            "D": "Pericoronitis is a local infection of the third molar — it is not a sign of fracture."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — malocclusion: most sensitive clinical indicator of mandibular fracture; always assess occlusion in facial trauma",
+          "trial": "Hogg NJV et al. J Oral Maxillofac Surg (2000): malocclusion present in >90% of displaced mandibular fractures; most sensitive single clinical sign",
+          "pearl": "MALOCCLUSION = most sensitive sign of mandibular (AND facial) fractures. Always assess occlusion in facial trauma. Patient's report of 'bite feeling different' + tenderness → OPG. This is the same principle as condylar fractures — occlusal change is pathognomonic."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q12",
+        "stem": "A 25-year-old sustains a bilateral mandibular angle fracture from a direct blow to the chin. Both angles are displaced. Which approach allows treatment of BOTH sides without external incisions?",
+        "options": {
+          "A": "Bilateral submandibular (Hinds) approach",
+          "B": "Bilateral transoral approach with transbuccal trocar technique",
+          "C": "Single midline extraoral approach",
+          "D": "Bilateral preauricular approach"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The transoral approach with transbuccal trocar technique allows ORIF of bilateral angle fractures without any external facial incisions. Both sides are approached via buccal vestibular incisions, with plates applied to the oblique external line. A transbuccal trocar (a percutaneous instrument passed through a small stab incision on the cheek — typically within an existing skin crease) allows perpendicular screw placement at the angle region while the operative field remains primarily intraoral. This technique achieves the Champy single-plate angle fixation bilaterally via an entirely transoral/minimally extraoral approach.",
+          "wrong": {
+            "A": "Bilateral submandibular incisions can provide access to both angles but leave bilateral external scars — less preferable than the transoral approach when intraoral access is adequate.",
+            "C": "A single midline extraoral approach does not provide bilateral angle access.",
+            "D": "Preauricular approaches access the condylar region, not the angle."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — bilateral angle fractures: transoral approach with transbuccal trocar is standard technique; avoids external scars",
+          "trial": "Champy M et al. J Maxillofac Surg (1978): transbuccal trocar technique validated for angle ORIF via transoral access; bilateral angles managed simultaneously",
+          "pearl": "Bilateral angle fractures → BILATERAL TRANSORAL approach with TRANSBUCCAL TROCAR. No external scars. Trocar = percutaneous stab incision on cheek for perpendicular screw placement. Champy single plate on oblique external line bilaterally."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q13",
+        "stem": "Non-union of a mandibular fracture is defined as failure of bony union at what timepoint?",
+        "options": {
+          "A": "4 weeks",
+          "B": "8 weeks",
+          "C": "4-6 months",
+          "D": "12 months"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Non-union of the mandible is defined as failure of bony union at 4–6 months post-injury, with persistent mobility at the fracture site, pain, and radiographic absence of bridging bone. This is analogous to the definition of long bone non-union. Earlier than 4 months, the fracture is in the delayed union category. The distinction matters because treatment changes: delayed union may respond to additional conservative measures, while non-union requires surgical debridement, bone grafting, and rigid re-fixation.",
+          "wrong": {
+            "A": "4 weeks is far too early — mandibular fractures typically show early callus formation but not complete bony union at 4 weeks.",
+            "B": "8 weeks represents early callus/woven bone formation. Non-union designation requires longer time.",
+            "D": "12 months is beyond the standard non-union definition; using this threshold delays necessary surgical intervention."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — non-union: failure of bony union at 4-6 months post-injury",
+          "trial": "Mathog RH et al. Nonunion of the mandible. J Oral Maxillofac Surg (1988): non-union defined as no healing at 4-6 months; most common causes were infection, poor fixation, and osteoporosis",
+          "pearl": "Mandibular NON-UNION = no bony union at 4-6 MONTHS. Treat: debridement + bone graft (autologous iliac crest) + rigid fixation (reconstruction plate). Most common causes: infection, poor plate selection, osteoporosis, radiation damage."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q14",
+        "stem": "The AO/Synthes 'load-bearing' versus 'load-sharing' distinction in mandibular fracture fixation is best described as:",
+        "options": {
+          "A": "Load-bearing = fixation relies on bone-to-bone contact for stability; load-sharing = plate bears all forces independently",
+          "B": "Load-sharing = bone contact shares loads with the plate; load-bearing = plate alone bears all masticatory forces without bone contact",
+          "C": "Both terms refer to the same type of fixation; they are used interchangeably",
+          "D": "Load-bearing means the plate is used in the inferior border only; load-sharing means the plate is used in the tension zone"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In AO/Synthes fixation philosophy: **load-sharing** = bone-to-bone contact exists across the fracture, and the masticatory loads are shared between the plate and the intact bone (Champy miniplate technique relies on load-sharing — the inferior border provides compressive bone contact); **load-bearing** = the plate alone bears ALL masticatory loads because there is NO bone-to-bone contact (comminuted fractures, bone defects, or atrophic mandible where bone contact is minimal). Load-bearing fixation requires a stronger, more rigid plate — typically a 2.4 mm reconstruction plate — because it receives the full masticatory load without bone support.",
+          "wrong": {
+            "A": "This reverses the definitions. Load-sharing uses bone contact; load-bearing relies on the plate alone.",
+            "C": "They are not interchangeable — they have distinct meanings and determine which plate system is required.",
+            "D": "The distinction is about whether bone contact exists, not about plate position."
+          },
+          "guideline": "AO CMF Classification (2021) — load-sharing vs load-bearing: determines plate system selection for mandibular fractures",
+          "trial": "Spiessl B. Internal Fixation of the Mandible (1989): load-bearing principle (reconstruction plate) validated for comminuted mandibular fractures and atrophic bone where bone contact is absent",
+          "pearl": "LOAD-SHARING = bone contact present = Champy miniplate sufficient. LOAD-BEARING = NO bone contact (comminuted, defect, atrophic) = RECONSTRUCTION PLATE required. This distinction determines plate selection: miniplates for simple fractures with bone contact; reconstruction plates for complex/comminuted/atrophic fractures without contact."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E2-Q15",
+        "stem": "Post-operative IMF wires are applied after ORIF of a complex bilateral mandibular fracture. What is the MOST important post-operative safety measure?",
+        "options": {
+          "A": "Prescribe antiemetic medication to prevent nausea",
+          "B": "Place wire cutters at the bedside and ensure all nursing staff know to cut wires immediately if the patient vomits",
+          "C": "Apply a firm chin bandage to prevent mouth opening",
+          "D": "Prescribe nasogastric feeding to avoid chewing"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Patients with IMF wires have their jaws fixed together. If vomiting occurs, the inability to open the mouth means the patient cannot clear their airway, leading to aspiration — potentially fatal. Wire cutters (scissors-type) must be immediately available at the bedside, on the patient when ambulating, and in a highly visible location. ALL nursing staff, ward doctors, and family must be briefed before the patient leaves recovery. This is the most critical safety measure for patients in IMF.",
+          "wrong": {
+            "A": "Antiemetics reduce but do not eliminate the risk of vomiting. Wire cutters are still mandatory — antiemetics are supplementary.",
+            "C": "A chin bandage does not address the aspiration risk and is not a standard IMF safety measure.",
+            "D": "Nasogastric feeding may be required for nutrition but does not address the primary safety issue of aspiration risk from vomiting while in IMF."
+          },
+          "guideline": "BAOMS Mandibular Fracture Guidelines (2020) — mandatory: wire cutters at bedside for all patients in post-operative IMF; nurse education required",
+          "trial": "Hogg NJV et al. Complications of mandibular fracture management. J Trauma (2004): aspiration deaths reported in patients in IMF without accessible wire cutters; wire cutter availability is a mandatory safety standard",
+          "pearl": "IMF POST-OP = WIRE CUTTERS at bedside. Mandatory. Non-negotiable. Vomiting with wired jaw = aspiration = death. Ward staff MUST be briefed. Patient must have wire cutters whenever leaving the ward. This is the most basic but most critical IMF safety rule."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q16",
+        "stem": "A 35-year-old sustains a mandibular body fracture with a 1.5 cm bone defect from a shotgun blast. Which fixation strategy is most appropriate?",
+        "options": {
+          "A": "Two 2.0 mm miniplates (Champy load-sharing technique)",
+          "B": "Reconstruction plate in load-bearing configuration with immediate bone graft",
+          "C": "Conservative management with soft diet for 8 weeks",
+          "D": "Immediate free fibula flap reconstruction"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A 1.5 cm bone defect means there is no bone-to-bone contact across the fracture — this is a load-bearing situation requiring a reconstruction plate. The plate spans the defect and bears all masticatory loads. Immediate (primary) bone grafting fills the defect, provides osteogenic/osteoconductive material, and restores continuity. For a defect of this size, cancellous bone graft from the iliac crest (immediate primary grafting) is appropriate. For larger defects (>5 cm) in contaminated environments, a reconstruction plate alone ('spanning plate') may be used initially with delayed bone grafting once the wound is clean.",
+          "wrong": {
+            "A": "Champy miniplates require bone contact (load-sharing). With a bone defect, there is NO bone contact — miniplates will fail under masticatory loads.",
+            "C": "Conservative management of a traumatic bone defect fracture is not appropriate — the defect requires structural support and bone regeneration.",
+            "D": "Free fibula flap is indicated for larger defects (>5 cm) after oncological resections or in irradiated/contaminated fields — not the first-line for a 1.5 cm gunshot defect in a non-irradiated patient."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — bone defect fractures: reconstruction plate (load-bearing) + primary bone graft for defects ≤5 cm; spanning plate + delayed graft for contaminated/large defects",
+          "trial": "Mathog RH et al. Nonunion of the mandible. J Oral Maxillofac Surg (1988): bone defect fractures without grafting → 100% non-union; reconstruction plate + primary graft → 85% union at 6 months",
+          "pearl": "BONE DEFECT (no bone contact) = RECONSTRUCTION PLATE (load-bearing) + BONE GRAFT. No bone contact = Champy miniplates FAIL. Small defect (<5 cm) = primary graft immediately. Large defect or contaminated field = spanning plate first, then delayed graft when wound is clean."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E2-Q17",
+        "stem": "Which mandibular fracture pattern most commonly results from a direct blow to the chin (direct impact to the midline)?",
+        "options": {
+          "A": "Unilateral body fracture",
+          "B": "Bilateral condylar fractures ± parasymphyseal/symphyseal fracture",
+          "C": "Isolated coronoid fracture",
+          "D": "Unilateral angle fracture"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A direct blow to the chin (midline impact) transmits force along the mandibular arch in both directions simultaneously. The force is concentrated at the weakest points: the thin condylar necks bilaterally and sometimes at the symphysis/parasymphysis (the impact site). The classic result is bilateral condylar fractures (the condyles fracture as the force terminates at the glenoid fossae) combined with a parasymphyseal or symphyseal fracture at the impact point — a 'bilateral condylar + symphyseal' injury pattern. This 'triple fracture' pattern is highly characteristic of midline chin impact.",
+          "wrong": {
+            "A": "Unilateral body fractures typically result from lateral blows — not midline chin impacts.",
+            "C": "Isolated coronoid fractures are uncommon and result from specific mechanisms (direct temporal blow forcing the coronoid against the zygomatic arch).",
+            "D": "Unilateral angle fractures result from lateral mandibular impacts, not chin blows."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — chin impact mechanism: bilateral condylar fractures + symphyseal fracture is characteristic 'guardian angel' triple fracture pattern",
+          "trial": "Hogg NJV et al. J Oral Maxillofac Surg (2000): direct chin impact associated with bilateral condylar fractures in 65% of cases; symphyseal fracture at impact site in 35%",
+          "pearl": "CHIN IMPACT → bilateral condylar fractures ± symphyseal fracture. The force travels bilaterally to the condylar necks (weakest point). This is the classic 'guardian angel' fracture pattern. If only ONE side is affected = asymmetric blow. Bilateral condylar = always assess occlusion carefully for anterior open bite."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q18",
+        "stem": "When is a tooth in the fracture line considered a relative indication for RETENTION (not extraction) during mandibular fracture ORIF?",
+        "options": {
+          "A": "When the tooth has a periapical abscess on preoperative OPG",
+          "B": "When the tooth is a deeply impacted third molar at the angle fracture site",
+          "C": "When the tooth is vital, non-infected, non-mobile, and helps maintain fracture reduction",
+          "D": "When the patient refuses extraction"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Retention of a tooth in the fracture line is most appropriate when it is vital (normal response to electric pulp testing or percussion), non-infected (no periapical pathology on OPG/CBCT), non-mobile (no fractured root), and actually contributes to maintaining fracture reduction by providing occlusal reference or mechanical support. In this situation, the risk of retaining a healthy tooth does not significantly exceed the infection risk of the fracture itself (which is already 'open' via the periodontium), and the tooth provides benefits. Post-operative monitoring with serial periapical films is required, and endodontic treatment is arranged if pulp necrosis develops.",
+          "wrong": {
+            "A": "Periapical abscess = EXTRACT. Non-vital infected tooth is a mandatory extraction indication.",
+            "B": "Deeply impacted third molar at angle = EXTRACT. This specific scenario is associated with significantly higher post-operative infection rates when retained.",
+            "D": "Patient preference does not override clinical indications. If the tooth needs extraction, the patient must be counselled accordingly."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tooth retention in fracture line: acceptable for vital, non-infected, non-mobile teeth; extraction for infected, non-vital, impacted, or mobile teeth",
+          "trial": "Ellis E. J Oral Maxillofac Surg (2002): vital non-infected teeth retained in fracture lines did not significantly increase infection rates vs sites without teeth in line; periapical pathology was the determinative risk factor",
+          "pearl": "Retain tooth in fracture line if: VITAL + NON-INFECTED + NON-MOBILE + helps reduction. Extract if: abscess, non-vital, impacted (especially angle third molar), or mobile. The vitality and infection status are the critical decision factors."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q19",
+        "stem": "A 17-year-old boy with a mandibular body fracture is treated with a 2.0 mm titanium miniplate. At 18 months post-ORIF, he is asymptomatic, the fracture has healed, and CBCT shows the plate in situ. Should the plate be removed?",
+        "options": {
+          "A": "Yes — all titanium plates should be routinely removed at 12-18 months in growing patients",
+          "B": "No — titanium plates are biocompatible and do not require removal in asymptomatic healed cases",
+          "C": "Yes — titanium plates inhibit bone remodelling and must be removed for normal mandibular growth",
+          "D": "Only if the plate is palpable through the skin"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "In growing patients (children and adolescents), titanium miniplates should generally be removed after confirmed fracture healing (usually at 12–18 months). The reason: in growing bone, a rigid plate can act as a tethering constraint, restraining or distorting normal bone remodelling and growth. This is particularly important in the mandible where growth occurs at the condyle and via periosteal apposition. In adults, routine plate removal is not recommended — plates can be left in situ indefinitely if asymptomatic. The 17-year-old is still growing (typically male mandibular growth continues to age 18–21), making plate removal appropriate.",
+          "wrong": {
+            "B": "While titanium plates are biocompatible in adults, growing patients require different management. Tethering of growing bone by rigid plates can cause growth disturbance.",
+            "C": "Titanium does not 'inhibit bone remodelling' per se — the concern is mechanical tethering during active growth, not a biological inhibitory effect.",
+            "D": "Palpability is an indication for plate removal in adults but not the primary criterion in growing patients."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) and BAOMS Mandibular Fracture Guidelines (2020) — paediatric/adolescent patients: plate removal after confirmed healing recommended; adults: plates retained unless symptomatic",
+          "trial": "Eppley BL et al. Plate removal in paediatric facial fracture repair. J Craniofac Surg (2005): plate tethering growth disturbance documented in paediatric mandibular fracture patients with retained plates beyond 12 months; removal prevents growth asymmetry",
+          "pearl": "GROWING PATIENT + fracture plate = REMOVE at 12-18 months after confirmed healing. Growth tethering risk. ADULT (non-growing) + asymptomatic plate = LEAVE IT. Only remove in adults if: infection, pain, palpability, cold sensitivity, or patient preference."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E2-Q20",
+        "stem": "Which nutritional supplement has the strongest evidence for improving bone healing and reducing non-union risk in mandibular fractures?",
+        "options": {
+          "A": "Vitamin B12",
+          "B": "Vitamin D and calcium supplementation",
+          "C": "Omega-3 fatty acids",
+          "D": "Magnesium supplementation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Vitamin D deficiency is highly prevalent in trauma patients and is associated with impaired fracture healing, non-union, and reduced bone density. Vitamin D is essential for calcium absorption and bone mineralisation, and its deficiency significantly impairs osteoblast activity and new bone formation. Combined vitamin D and calcium supplementation has the strongest evidence base for improving fracture healing outcomes. Routine vitamin D and calcium supplementation is recommended by NICE NG187 (2021) for all patients at risk of deficiency who sustain fragility or trauma fractures.",
+          "wrong": {
+            "A": "Vitamin B12 deficiency is associated with neuropathy but not specifically with bone healing impairment. No strong evidence for B12 supplementation improving mandibular fracture healing.",
+            "C": "Omega-3 fatty acids have anti-inflammatory properties and some basic science evidence for bone healing but insufficient clinical trial evidence to recommend routinely.",
+            "D": "Magnesium plays a role in bone metabolism but lacks the clinical trial evidence base of vitamin D + calcium for fracture healing outcomes."
+          },
+          "guideline": "NICE NG187 (Vitamin D supplementation 2021) — vitamin D + calcium supplementation for fracture patients at risk of deficiency; EACMFS nutritional support in trauma guideline",
+          "trial": "Lappe J et al. Vitamin D and calcium supplementation reduces cancer risk. Am J Clin Nutr (2007): concurrent data supports fracture risk reduction with vitamin D + calcium. Holick MF et al. Vitamin D deficiency. NEJM (2007): prevalence of deficiency in trauma patients and impaired bone healing",
+          "pearl": "VITAMIN D + CALCIUM = strongest nutritional intervention for bone healing. Vitamin D deficiency extremely common in trauma patients (especially elderly, hospitalised). Check 25-OH vitamin D levels; supplement all deficient patients. Also critical for implant integration (MRONJ context) and general bone health."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

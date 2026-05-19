@@ -1,0 +1,719 @@
+{
+  "id": "G4",
+  "title": "Scientific Writing and Publication in OMFS",
+  "subtitle": "Block G — IMRAD Structure, Peer Review, Authorship, Research Integrity",
+  "block": "G",
+  "block_name": "Research and Academic Surgery",
+  "level": "R2-5",
+  "reading_time_min": 28,
+  "guidelines_version": "ICMJE Recommendations 2024 · COPE Guidelines 2024 · EQUATOR Network 2024",
+  "textbook_refs": [
+    "Hulley SB et al. Designing Clinical Research, 4th ed. (Lippincott Williams & Wilkins, 2013)",
+    "Glasziou P et al. Systematic Reviews in Health Care (Cambridge University Press, 2001)",
+    "ICMJE. Recommendations for the Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals (2024)",
+    "Moher D et al. CONSORT 2010 Statement (BMJ 2010; 340: c332)"
+  ],
+  "learning_objectives": [
+    "Structure an OMFS manuscript according to IMRAD format with each section's specific content requirements",
+    "Apply ICMJE authorship criteria to determine legitimate author and contributor status",
+    "Navigate the peer review process from submission to revision response",
+    "Select an appropriate journal using impact factor, scope, and open-access considerations",
+    "Identify and avoid research misconduct including fabrication, falsification, plagiarism, and duplicate publication",
+    "Write an effective structured abstract for a surgical RCT or cohort study",
+    "Apply appropriate reporting guidelines (CONSORT, STROBE, PRISMA, CARE) to manuscript preparation"
+  ],
+  "sections": [
+    {
+      "id": "G4-S1",
+      "title": "IMRAD Structure: The Architecture of a Scientific Paper",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **IMRAD structure** (Introduction, Methods, Results, And Discussion) is the internationally accepted framework for reporting original research in biomedical journals and was formally endorsed by the ICMJE in their Uniform Requirements for Manuscripts (now the ICMJE Recommendations). This structure emerged historically in the mid-twentieth century as scientific publishing matured, and it reflects the logical sequence of scientific reasoning: why the study was done, how it was done, what was found, and what it means. Every section has a specific purpose, and deviating from this structure — placing discussion elements in results, or methods detail in introduction — is a common reason for manuscript rejection.\n\nThe **Introduction** serves two functions: establishing context and stating the research question. It should be written as a funnel, moving from broad background to the specific gap in knowledge that the study addresses. The final paragraph of the Introduction must state the study aim, objectives, and (for RCTs) the primary hypothesis. A common error is writing a comprehensive literature review in the Introduction; this is inappropriate — the Introduction should be concise (typically 3–5 paragraphs), with extensive literature synthesis reserved for the Discussion. The reader should finish the Introduction understanding exactly what was unknown and why the study was necessary.\n\nThe **Methods** section is the most technically demanding and must be written with sufficient detail that an independent investigator could replicate the study. For clinical studies in OMFS this means: study design with PICO elements, ethical approval reference (institution, approval number, date), trial registration number (for RCTs), participant eligibility criteria (inclusion and exclusion), recruitment period and setting, intervention description (surgical technique, implant specifications, follow-up protocol), outcomes (primary and secondary, with measurement tools and time points), sample size calculation rationale, and statistical analysis plan. The Methods section is written in past tense since it describes what was done."
+        },
+        {
+          "type": "table",
+          "title": "IMRAD Section Content Requirements",
+          "headers": ["Section", "Core Content", "Common Errors", "Tense"],
+          "rows": [
+            ["Introduction", "Background, knowledge gap, study aim/hypothesis", "Literature review instead of gap analysis; no clear aim stated", "Present"],
+            ["Methods", "Design, ethics, participants, interventions, outcomes, statistics", "Insufficient detail for replication; missing ethical approval reference", "Past"],
+            ["Results", "Data matching all methods; tables/figures with text narrative", "Interpretation in results; missing data for all reported outcomes", "Past"],
+            ["Discussion", "Interpret results vs literature; limitations; conclusions", "Repeating results; overclaiming; no limitations paragraph", "Present/past mix"],
+            ["Abstract", "Structured summary ≤250–300 words; all key results with values", "Vague conclusions; results not matching paper; omitting p-values", "Past (methods/results)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — IMRAD Tense Convention",
+          "content": "Methods and Results are written in past tense (what you did and found). Introduction and Discussion use present tense for established facts and present/past mix for interpretation. Abstract mirrors the tenses of the sections it summarises. Tense errors are a marker of inexperience and attract reviewer criticism."
+        },
+        {
+          "type": "text",
+          "content": "The **Results** section presents findings without interpretation. All outcomes declared in the Methods must appear in the Results — selective reporting is a form of research misconduct and a major source of bias in the literature. Results should begin with a participant flow description (for RCTs, this is the CONSORT flow diagram) and baseline characteristics table, then proceed through primary and secondary outcomes in the order listed in the Methods. Statistical results must include point estimates with measures of uncertainty (confidence intervals preferred over p-values alone), effect sizes, and the results of all pre-specified statistical tests. Figures and tables should be self-explanatory and not redundant — do not repeat in text exactly what is shown in a table.\n\nThe **Discussion** should follow the 'three-paragraph minimum' structure: (1) a brief summary of principal findings in the context of the research question, (2) comparison with existing literature — agreeing, disagreeing, and explaining discrepancies, and (3) limitations and their impact on interpretation, followed by conclusions and implications for practice or future research. The Discussion must not introduce new data. A separate **Conclusions** paragraph or section states what can be concluded from this study and what remains uncertain — overclaiming beyond what the data support is a critical error that reviewers and editors specifically check for."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — P-Value Misinterpretation",
+          "content": "A p-value of 0.05 means there is a 5% probability of observing results as extreme as these if the null hypothesis is true — it does NOT mean a 95% probability that the hypothesis is correct. Reporting only p-values without effect sizes and confidence intervals is inadequate. The American Statistical Association 2019 statement recommends abandoning the term 'statistical significance' in favour of reporting full estimates with uncertainty. OMFS journals increasingly require effect sizes and CIs."
+        }
+      ]
+    },
+    {
+      "id": "G4-S2",
+      "title": "Abstract Writing: Structured and Unstructured Formats",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The abstract is disproportionately important — it is read far more often than the full paper, it determines whether a reader downloads the article, and it is what appears in PubMed and Scopus. Most surgical journals require a **structured abstract** with predefined headings; the most common format for clinical studies includes: Objectives/Purpose, Design (study type), Setting, Participants (eligibility criteria, n), Interventions, Main Outcome Measures, Results (with specific values, confidence intervals, p-values), and Conclusions. The word limit is typically 250–300 words for structured abstracts and 150–200 words for unstructured.\n\nFor **randomised controlled trials**, the structured abstract should follow the CONSORT for Abstracts checklist (Hopewell et al., Lancet 2008), which requires: trial design, participants with eligibility criteria, interventions, primary outcome with results, harms, conclusions, trial registration number, and funding. Many journals make this explicit in their Instructions for Authors. A common failure is an abstract whose conclusions are more positive than the data support, or where key numerical results are omitted — both are red flags to reviewers and constitute a form of misleading reporting.\n\nFor **systematic reviews and meta-analyses**, the PRISMA for Abstracts checklist applies: identification of a systematic review, structured format, databases searched, eligibility criteria, number of included studies, key results from meta-analysis, and limitations. The abstract must include the registration number (PROSPERO for health systematic reviews)."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Abstract as Independent Document",
+          "content": "The abstract must be interpretable without reading the full paper. In conference abstracts — which are often the basis for oral presentations and published in supplement issues — the abstract is the complete scientific communication. Abstracts for EACMFS, BAOMS, AAOMS, and SECOM annual meetings are typically 250 words maximum and judged on IMRAD clarity, statistical rigour, and clinical relevance."
+        },
+        {
+          "type": "table",
+          "title": "Abstract Formats by Study Type",
+          "headers": ["Study Type", "Preferred Format", "Required Elements", "Reporting Guideline"],
+          "rows": [
+            ["RCT", "Structured (7–8 headings)", "Trial design, interventions, primary outcome with CI, harms, registration number", "CONSORT for Abstracts (Hopewell 2008)"],
+            ["Cohort/case-control", "Structured (6 headings)", "Design, setting, participants, exposures, outcomes with ORs/HRs, limitations", "STROBE statement"],
+            ["Systematic review/MA", "Structured (7 headings)", "Databases, eligibility, n included, key pooled estimate, PROSPERO number", "PRISMA for Abstracts"],
+            ["Case report", "Unstructured or semi-structured", "Patient demographics, presenting complaint, interventions, outcome, learning point", "CARE guidelines"],
+            ["Diagnostic accuracy", "Structured (6 headings)", "Index test, reference standard, sensitivity/specificity with CI, prevalence", "STARD 2015"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G4-S3",
+      "title": "Authorship: ICMJE Criteria and Contributorship",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Authorship confers credit and responsibility. The **ICMJE Recommendations (2024)** define authorship by four criteria, ALL of which must be met for an individual to qualify as an author: (1) substantial contributions to conception or design, OR acquisition, analysis, or interpretation of data; (2) drafting the manuscript OR critically revising it for important intellectual content; (3) final approval of the version to be published; and (4) agreement to be accountable for all aspects of the work. An individual who meets only some criteria should be acknowledged, not listed as an author.\n\n**Ghost authorship** — where a person who meets authorship criteria is not listed — and **gift authorship** (honorary authorship) — where a person is listed without meeting the criteria — are both forms of research misconduct. Gift authorship is particularly common in academic surgery, where department heads or supervisors may be added as a courtesy. The head of a department does not automatically qualify for authorship merely by virtue of their position. Some journals now require authors to specify their individual contributions using the **CRediT taxonomy** (Contributor Roles Taxonomy), which has 14 roles including Conceptualisation, Methodology, Investigation, Writing (original draft), Writing (review and editing), Supervision, and Funding Acquisition.\n\n**Author order** carries meaning in biomedical literature. The first author is typically the person who did most of the work and wrote the primary draft. The last (senior) author is conventionally the laboratory PI or clinical supervisor who provided oversight, funding, and intellectual direction. Middle authors are listed in order of decreasing contribution, though conventions vary. In OMFS, where most studies are performed in clinical teams, agreeing author order at the study planning stage prevents disputes at submission."
+        },
+        {
+          "type": "table",
+          "title": "ICMJE Authorship Criteria — All Four Must Be Met",
+          "headers": ["Criterion", "Typical Examples Meeting Criterion", "Common Misconceptions"],
+          "rows": [
+            ["1. Substantial intellectual contribution", "Study design, data collection, statistical analysis, interpretation", "Collecting specimens only; providing equipment; general supervision"],
+            ["2. Drafting or critical revision", "Writing Introduction, Methods, Results; revising manuscript intellectually", "Checking references only; correcting grammar only"],
+            ["3. Final approval", "Reading and approving the final submitted version", "Approving concept but not seeing final manuscript"],
+            ["4. Accountability", "Ability to identify which co-author is responsible for each part", "Sending 'approve' email without reading final draft"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Gift and Ghost Authorship",
+          "content": "Adding a department head who was not involved in the study is gift authorship — misconduct under ICMJE criteria. Omitting a statistician or research nurse who contributed substantially is ghost authorship — also misconduct. COPE (Committee on Publication Ethics) Guidelines 2024 require journals to investigate both. Consequences include retraction, institutional investigation, and permanent publication bans."
+        }
+      ]
+    },
+    {
+      "id": "G4-S4",
+      "title": "The Peer Review Process: Submission to Acceptance",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Peer review** is the mechanism by which submitted manuscripts are evaluated by independent experts before publication. The process begins when an author submits a manuscript through a journal's online submission system (e.g., ScholarOne, Editorial Manager). The **Editor-in-Chief** (or a Deputy Editor for large journals) conducts an initial assessment — typically within 1–2 weeks — to determine whether the manuscript is within scope, meets basic quality thresholds, and is technically complete. Approximately 30–50% of manuscripts at leading OMFS journals are rejected without external review at this stage, on grounds of insufficient novelty, scope mismatch, or fundamental methodological flaws.\n\nManuscripts that pass initial assessment are sent to **two or three external peer reviewers**, chosen for their expertise in the specific topic. Reviewers are typically anonymous to authors (single-blind) in most journals; some journals operate **double-blind** review (both parties anonymous), and a growing number offer **open peer review** (identities disclosed, reviews published). Reviewers are asked to assess: scientific validity, novelty and importance, methodology, statistical analysis, presentation clarity, and whether conclusions are supported by data. The typical turnaround requested is 3–4 weeks, though actual review times often exceed this.\n\nThe editor synthesises reviewer comments and makes one of four decisions: **Accept** (rare without revisions), **Major Revision** (substantive issues requiring resubmission and re-review), **Minor Revision** (small corrections, typically checked by editor only), or **Reject**. A Major Revision is not a rejection — the editor's decision to invite resubmission indicates genuine interest and should be treated as an opportunity. Most papers published in high-impact journals go through at least one round of major revision."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Responding to Reviewers",
+          "content": "A response to reviewers must address every comment, numbered and in full. The structure is: (1) thank the reviewer, (2) restate their comment, (3) describe what you did in response (with page/line numbers in the revised manuscript), (4) show the new or changed text. If you disagree with a comment, you must provide evidence-based justification — not simply assert the reviewer is wrong. Never ignore a reviewer comment, even if you believe it is incorrect."
+        },
+        {
+          "type": "text",
+          "content": "Writing an effective **reviewer response letter** is a distinct skill. The letter should begin with a brief statement of gratitude to the editor and reviewers. Each reviewer's comments are then addressed sequentially, with clear demarcation (e.g., 'Reviewer 1, Comment 3'). For each comment, state whether you agree or disagree, describe the specific change made (or justification for not changing), and quote the relevant new text with line numbers. Changes made in the manuscript should be tracked (Track Changes in Word) or highlighted, so the editor can verify each response. The tone must remain professional and objective regardless of whether reviewer comments are perceived as correct or constructive."
+        },
+        {
+          "type": "table",
+          "title": "Peer Review Timeline and Decision Outcomes",
+          "headers": ["Stage", "Typical Timeframe", "Author Action"],
+          "rows": [
+            ["Submission → Editorial decision (initial)", "1–4 weeks", "Confirm receipt; check submission completeness"],
+            ["External review", "4–12 weeks", "None (wait); may send one polite status enquiry after 10–12 weeks"],
+            ["Decision: Major Revision", "Revise within 3 months typically", "Address all comments; submit point-by-point response letter"],
+            ["Decision: Minor Revision", "Revise within 4 weeks typically", "Address all comments; minimal response letter"],
+            ["Decision: Accept", "Copyediting 2–8 weeks", "Check proofs carefully; approve final version"],
+            ["Decision: Reject with invitation to resubmit", "Resubmit within 3–6 months", "Treat as major revision; thorough revision required"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G4-S5",
+      "title": "Journal Selection, Impact Factor, and Open Access",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Selecting an appropriate journal before submission is as important as writing quality. The principal considerations are: **scope and audience** (does the journal publish this type of OMFS research?), **impact factor** (a proxy for journal prestige and readership), **turnaround time** (time from submission to first decision; typically reported by publishers), **open-access requirements** (increasingly mandated by funders), and **author fees** (Article Processing Charges for open-access publication).\n\nThe **Journal Impact Factor (JIF)**, published annually in Clarivate's Journal Citation Reports, is calculated as the mean number of citations to articles published in the previous two years. For OMFS, leading journals include: Journal of Oral and Maxillofacial Surgery (JOMS, JIF ~2.5), International Journal of Oral and Maxillofacial Surgery (IJOMS, JIF ~3.0), British Journal of Oral and Maxillofacial Surgery (BJOMS, JIF ~2.0), and for oncological OMFS, Oral Oncology (JIF ~4.5). For research methodology and systematic reviews, JAMA Network Open, BMJ Open, and systematic review–focused journals like Systematic Reviews (BioMed Central) are relevant.\n\nThe **CiteScore** (Elsevier/Scopus) is an alternative to JIF that uses a four-year citation window and includes a broader range of document types. The **h-index** measures an individual researcher's impact: an h-index of n means the researcher has n papers each cited at least n times. Whilst widely used for academic appointments, the h-index is biased toward older, prolific researchers and is field-dependent. The **Eigenfactor score** weights citations from high-impact journals more heavily and is useful for comparing journals across disciplines.\n\n**Open Access (OA)** is increasingly mandatory. The UK Research Councils (UKRI), National Institutes of Health (NIH/NCI), and European Commission (Horizon Europe) all mandate OA publication for grant-funded research. **Gold OA** means the article is immediately freely available on the publisher's website under a Creative Commons licence, typically requiring an APC of £1,000–£3,500. **Green OA** allows self-archiving of an accepted manuscript (author's accepted version) in an institutional or subject repository after an embargo period (typically 6–12 months). **Diamond OA** (no fees to authors or readers) is available through some society journals including BJOMS and select EACMFS-affiliated publications."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Predatory Journals",
+          "content": "Predatory journals charge APCs but provide no genuine peer review, are not indexed in Medline/PubMed, and damage the researcher's reputation. Warning signs: unsolicited email invitation to submit; journal name mimicking a legitimate title; no editorial board listed; rapid acceptance (days); request for payment before peer review. Use the DOAJ (Directory of Open Access Journals) and Cabell's Predatory Reports to verify legitimacy. Publishing in a predatory journal may disqualify work from grant reports and academic promotion."
+        },
+        {
+          "type": "table",
+          "title": "Key OMFS and Related Journals for Publication",
+          "headers": ["Journal", "Publisher", "JIF (approx)", "Scope Emphasis", "OA Option"],
+          "rows": [
+            ["Journal of Oral & Maxillofacial Surgery", "Elsevier (AAOMS)", "~2.5", "Clinical OMFS, North American focus", "Gold OA (APC)"],
+            ["Int J Oral Maxillofacial Surgery", "Elsevier (IAOMS)", "~3.0", "International clinical OMFS, reconstructive", "Gold OA (APC)"],
+            ["British J Oral Maxillofacial Surgery", "Elsevier (BAOMS)", "~2.0", "UK/European clinical OMFS, case series", "Green OA (6 months)"],
+            ["Oral Oncology", "Elsevier", "~4.5", "Head and neck oncology, translational", "Gold OA (APC)"],
+            ["Journal of Craniomaxillofacial Surgery", "Elsevier (EACMFS)", "~2.8", "CMF surgery, trauma, reconstruction", "Gold OA (APC)"],
+            ["Oral Surgery, Oral Medicine…", "Elsevier (AAOMS)", "~2.2", "Oral pathology, oral medicine, dento-alveolar", "Gold OA (APC)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G4-S6",
+      "title": "Research Integrity: Fabrication, Falsification, Plagiarism, and Duplicate Publication",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Research integrity is the foundation of the scientific enterprise. The **Office of Research Integrity (ORI, USA)** and the **UK Research Integrity Office (UKRIO)** define research misconduct as fabrication, falsification, or plagiarism (FFP). **Fabrication** is making up data or results. **Falsification** is manipulating research materials, equipment, processes, or changing/omitting data so that the research record does not accurately reflect what occurred. Both are career-ending offences that lead to retraction, institutional sanctions, and in cases involving patient safety, criminal prosecution.\n\n**Plagiarism** is the appropriation of another person's ideas, processes, results, or words without attribution. Self-plagiarism (recycling one's own previously published text without attribution) is a related concern — introducing previously published Methods into a new paper without acknowledgement is a form of duplicate publication. Most journals use plagiarism detection software (iThenticate, Turnitin) at submission; a similarity score typically triggers editor review. For OMFS clinical papers, a similarity score above 15–20% warrants investigation, though this depends heavily on unavoidable overlaps in Methods boilerplate.\n\n**Duplicate publication** (salami slicing) involves publishing the same data in two or more papers to inflate publication count. This violates the requirement that submitted work has not been previously published (except as conference abstracts, which are exempt). Redundant publication wastes peer review resources and artificially inflates the literature. The ICMJE requires authors to disclose any closely related previous or simultaneous submissions. **Prior publication as a preprint** (e.g., on medRxiv or SSRN) is now generally accepted by most biomedical journals and is not considered duplicate publication, provided it is disclosed at submission."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — COPE Guidelines and Retractions",
+          "content": "The Committee on Publication Ethics (COPE) provides flowcharts and guidance for editors managing suspected misconduct. COPE's retraction guidelines specify that retraction notices must be clearly labeled, explain the reason, and remain permanently linked to the original article. The Retraction Watch database tracks over 45,000 retractions. For OMFS trainees: fabricating data in a case report is as serious an offence as fabricating in an RCT — all patient-level data must be real and verifiable."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — AI-Generated Text and LLMs",
+          "content": "As of the ICMJE 2023 update, AI language models (including ChatGPT and similar tools) cannot be listed as authors, as they cannot take accountability for the work. Authors who use AI writing tools must disclose this in the Methods or Acknowledgements section, describing which tool was used and how. Many OMFS journals now have specific AI disclosure policies. Undisclosed AI-generated text that is detected post-publication may constitute a form of plagiarism depending on journal policy."
+        },
+        {
+          "type": "table",
+          "title": "Research Misconduct: Definitions, Examples, and Consequences",
+          "headers": ["Misconduct Type", "Definition", "OMFS Example", "Typical Consequence"],
+          "rows": [
+            ["Fabrication", "Making up data/results", "Inventing patient outcomes in a case series", "Retraction; dismissal; funding ban; criminal charges if patient harm"],
+            ["Falsification", "Manipulating data/images", "Adjusting cephalometric measurements to support hypothesis", "Retraction; institutional investigation; career termination"],
+            ["Plagiarism", "Using others' work without attribution", "Copying introduction paragraphs from a previous OMFS paper", "Retraction; editor blacklist; employer notification"],
+            ["Gift authorship", "Listing non-contributing author", "Adding consultant to authorship list as courtesy", "Correction; COPE investigation; journal warning"],
+            ["Duplicate publication", "Publishing same data twice", "Submitting same cohort to two different OMFS journals simultaneously", "Retraction of one paper; journal ban"],
+            ["Data fabrication (images)", "Manipulating gel/histology images", "Duplicating histological slides across specimens", "Retraction; ORI/UKRIO investigation; funding recovery"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G4-S7",
+      "title": "Writing Style, Reporting Guidelines, and Practical Tips",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Effective scientific writing is clear, concise, and precise — not elegant in a literary sense. The purpose of every sentence is to convey information efficiently. Common stylistic errors in OMFS manuscripts include: excessive use of passive voice (not wrong in science, but overuse reduces clarity), nominalisation (using noun forms of verbs, e.g., 'we performed analysis' instead of 'we analysed'), vague quantification ('many patients' instead of 'n=47, 78%'), and imprecise comparatives ('significantly larger' without data). Every numerical claim must be accompanied by the appropriate measure of variability (SD for normally distributed data, IQR for skewed or ordinal data, 95% CI for effect estimates).\n\n**Reporting guidelines** from the EQUATOR Network (Enhancing the QUAlity and Transparency Of health Research) provide checklists ensuring all necessary information is included. The core OMFS guidelines are: **CONSORT 2010** for RCTs (25 items + flow diagram), **STROBE** (Strengthening the Reporting of Observational Studies in Epidemiology) for cohort/case-control/cross-sectional studies (22 items), **PRISMA 2020** (Preferred Reporting Items for Systematic reviews and Meta-Analyses) for systematic reviews (27 items + flow diagram), **CARE** (CAse REport guidelines) for case reports (13 items), **STARD 2015** for diagnostic accuracy studies (30 items), and **AGREE II** for clinical practice guidelines (23 items). Most OMFS journals require submission of the completed reporting checklist with manuscript page numbers alongside the manuscript.\n\nPractical workflow tips: write the Methods first (while the study is fresh), then Results, then Introduction and Discussion. The Abstract is written last. Version control is essential — use numbered or dated file names (not 'manuscript_FINAL_final_v2.docx'). Track all changes when revising, and keep a changelog. Word count discipline: most OMFS journals allow 3,000–4,000 words for original articles (excluding abstract, references, and figure legends); systematic reviews typically 5,000–7,000 words. Exceeding word limits without prior editor approval is grounds for desk rejection."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — EQUATOR Network and Journal Requirements",
+          "content": "Before writing, visit www.equator-network.org and identify the correct reporting guideline for your study design. Download the checklist, complete it with manuscript page numbers, and submit it alongside your manuscript — this is required by all major OMFS journals and demonstrates methodological rigour. Non-adherence to reporting guidelines is increasingly cited as grounds for rejection in peer review."
+        },
+        {
+          "type": "table",
+          "title": "EQUATOR Reporting Guidelines by Study Type",
+          "headers": ["Study Design", "Guideline", "Year", "Items", "Key Feature"],
+          "rows": [
+            ["RCT", "CONSORT", "2010 (updated 2012)", "25 items + flow diagram", "Primary outcome pre-specified; allocation concealment described"],
+            ["Cohort/case-control/cross-sectional", "STROBE", "2007", "22 items", "Exposure and outcome definitions; handling of confounders"],
+            ["Systematic review / meta-analysis", "PRISMA", "2020", "27 items + flow diagram", "PROSPERO registration; risk of bias assessment"],
+            ["Case report", "CARE", "2013", "13 items", "Timeline; patient perspective; informed consent"],
+            ["Diagnostic accuracy", "STARD", "2015", "30 items + flow diagram", "Pre-specified threshold; reference standard"],
+            ["Surgical innovation (single arm)", "IDEAL framework", "2009/2016", "Stage-specific", "Stage in IDEAL spectrum declared in title/abstract"],
+            ["Economic evaluation", "CHEERS", "2022", "28 items", "Time horizon; discount rate; sensitivity analysis"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Writing for EACMFS and BAOMS Meetings",
+          "content": "Abstract submission for EACMFS Congress and BAOMS Annual Scientific Meeting requires 250–300 words, structured format, and for clinical studies, a clear statement of ethical approval. Abstracts are scored by blinded reviewers on: scientific quality, clinical relevance, presentation clarity, and statistical appropriateness. Unregistered RCTs, studies without stated ethical approval, and unsupported conclusions are common grounds for rejection. Oral presentations are typically 8 minutes + 2 minutes questions; e-poster presentations require self-explanatory content without verbal commentary."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of scientific writing and publication in OMFS with 20 board-style questions covering IMRAD structure, authorship, peer review, research integrity, and reporting guidelines.",
+    "questions": [
+      {
+        "id": "G4-Q1",
+        "stem": "A consultant OMFS surgeon asks to be added as last author on a case series because he is the head of the department and 'responsible for all clinical work in the unit.' He did not contribute to data collection, analysis, or manuscript writing. According to ICMJE authorship criteria, which of the following is the most appropriate action?",
+        "options": {
+          "A": "Add him as last author as his senior position meets the accountability criterion",
+          "B": "Add him as last author only if he approves the final manuscript",
+          "C": "He does not meet ICMJE criteria; list him in Acknowledgements only",
+          "D": "Add him as second author to minimise the appearance of gift authorship"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "ICMJE Recommendations (2024) require ALL four criteria for authorship: substantial intellectual contribution, drafting or critical revision, final approval, and accountability. Administrative oversight or departmental seniority alone does not satisfy Criterion 1. Individuals who do not meet all four criteria should be listed in the Acknowledgements section with a description of their contribution. Adding someone to the author list without meeting criteria is gift authorship — a form of research misconduct.",
+          "wrong": {
+            "A": "Seniority and general clinical responsibility do not constitute 'substantial intellectual contribution' to the study as defined by ICMJE. This would be gift authorship.",
+            "B": "Approving the final manuscript (Criterion 3) alone is insufficient — all four criteria must be met. Simply reading and approving without intellectual contribution does not confer authorship.",
+            "D": "Moving an unqualified author to a different position does not resolve the misconduct. Gift authorship in any position violates ICMJE guidelines and COPE standards."
+          },
+          "guideline": "ICMJE Recommendations for the Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals (2024) — Section on Authorship and Contributorship",
+          "trial": "Goodman SN. Toward evidence-based medical statistics (Ann Intern Med 1999): contextualised the role of accountability in authorship within evidence-based medicine frameworks.",
+          "pearl": "All four ICMJE criteria must be met for authorship. Department heads who were not involved in a study should be acknowledged, not authored. Gift authorship is research misconduct under COPE guidelines."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "G4-Q2",
+        "stem": "An OMFS registrar submits a case report to BJOMS. The paper is returned with an 'iThenticate similarity score of 22%.' The editor notes that 18% of the similarity is from the Methods section (identical to a previously published technique description by the same lead author). According to COPE guidelines, this most likely represents:",
+        "options": {
+          "A": "Acceptable similarity — Methods sections commonly share technical language",
+          "B": "Plagiarism requiring rejection regardless of authorship",
+          "C": "Text recycling (self-plagiarism) requiring disclosure and editorial judgment",
+          "D": "Fabrication requiring referral to the institutional research integrity office"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "COPE Guidelines define text recycling (self-plagiarism) as reusing one's own previously published text without attribution. This is distinct from external plagiarism but is still a publication integrity issue. For Methods sections, some degree of overlap with previously published technique descriptions is unavoidable; editors apply judgment based on whether the overlap is disclosed, whether it involves results or conclusions, and whether it constitutes duplicate publication. The registrar should disclose the prior publication and paraphrase or cite it appropriately.",
+          "wrong": {
+            "A": "Whilst Methods overlap is common, 18% identical text without acknowledgement is not automatically acceptable. Disclosure is required, and editors must make an independent judgment.",
+            "B": "Self-plagiarism is not the same as plagiarism (using another's work without attribution). It does not automatically require rejection, but does require editorial review and author response.",
+            "D": "Fabrication involves inventing data — this is not fabrication. Text recycling is a publication ethics issue handled by journal editors, with institutional referral only if serious misconduct is established."
+          },
+          "guideline": "COPE Guidelines on Text Recycling (2024) — flowchart for handling suspected text recycling in submitted manuscripts",
+          "trial": "Wager E & Wiffen PJ. Ethical issues in preparing and publishing systematic reviews (J Evid Based Med 2011): detailed the spectrum of publication ethics issues including self-plagiarism in systematic reviews.",
+          "pearl": "Text recycling (self-plagiarism) requires disclosure and may require paraphrasing or citation of the original work. Similarity scores alone do not determine misconduct — context and editorial judgment are required."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q3",
+        "stem": "A 38-year-old OMFS researcher submits an RCT comparing two fixation methods for mandibular condylar fractures to JOMS. The manuscript is 4,800 words (JOMS limit: 3,500 for original articles). The editor returns it within 48 hours without external review. This is most likely because:",
+        "options": {
+          "A": "The editor identified methodological flaws requiring major revision",
+          "B": "The manuscript exceeded the word count limit — grounds for desk rejection",
+          "C": "The editor requires CONSORT checklist before peer review can proceed",
+          "D": "Two reviewers declined the invitation and no reviewer was available"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Desk rejection (editorial rejection without external review) occurs when a manuscript fails to meet basic submission requirements, including word count limits, formatting requirements, required checklists, or is clearly outside the journal's scope. A 37% word count overrun (4,800 vs 3,500) is a common reason for desk rejection. The rapid return within 48 hours is consistent with editorial rather than peer review timeline, as external review typically takes 4–12 weeks. Authors should carefully read Instructions for Authors and comply with all submission requirements before submitting.",
+          "wrong": {
+            "A": "Methodological concerns identified by editors would typically result in a rejection letter with comments, not a 48-hour turnaround. Editorial review of content takes longer than 48 hours.",
+            "C": "Missing checklists are a common reason for immediate return, but JOMS does require CONSORT. However, the specific scenario with 4,800 words exceeding limit is the most parsimonious explanation.",
+            "D": "Reviewer unavailability would not result in 48-hour return — editors would seek alternative reviewers over several weeks before considering rejection on this basis alone."
+          },
+          "guideline": "ICMJE Recommendations (2024) — Journal Editorial Responsibilities; JOMS Instructions for Authors (Elsevier, 2024): original articles ≤3,500 words",
+          "trial": "Chung KC & Shauver MJ. Fundamental principles of writing a successful grant proposal (J Hand Surg 2008): outlined the principles of meeting submission requirements that apply equally to journal manuscripts.",
+          "pearl": "Always check word count limits before submission. Most surgical journals specify limits in their Instructions for Authors. Exceeding these limits is grounds for desk rejection without review."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "G4-Q4",
+        "stem": "In the Discussion section of an OMFS manuscript reporting a prospective cohort of 89 patients undergoing Le Fort I osteotomy, the authors state: 'Our findings prove that Le Fort I osteotomy is safe and effective for all patients with maxillary hypoplasia.' Which aspect of scientific writing is violated by this statement?",
+        "options": {
+          "A": "The use of past tense in the Discussion section",
+          "B": "Overclaiming beyond what the data support — a single prospective cohort cannot 'prove' generalisability",
+          "C": "Failure to include a landmark trial reference for this claim",
+          "D": "The Discussion should not contain conclusions — these belong in a separate Conclusions section"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Overclaiming is one of the most common and serious errors in scientific writing. A single prospective cohort (n=89) cannot 'prove' anything — proof requires reproducible evidence across multiple studies and populations. Furthermore, the claim that findings apply to 'all patients' is not supported by a study with specific eligibility criteria. Scientific language should reflect the strength of evidence: 'suggest,' 'indicate,' 'support the conclusion that,' or 'are consistent with' — not 'prove.' Reviewers and editors specifically check for language that overstates findings.",
+          "wrong": {
+            "A": "The Discussion uses both present and past tense; present tense for general statements and interpretations is appropriate. Tense use is not the primary violation here.",
+            "C": "Whilst landmark trial references are important, the violation here is the strength of the claim, not the absence of a citation.",
+            "D": "Conclusions can appear at the end of the Discussion section or in a separate Conclusions paragraph — both formats are acceptable in most OMFS journals."
+          },
+          "guideline": "ICMJE Recommendations (2024) — Preparing and Submitting Manuscripts; EQUATOR Network guidelines on transparent and accurate reporting",
+          "trial": "Ioannidis JPA. Why most published research findings are false (PLoS Med 2005): the seminal paper demonstrating that overclaiming and underpowered studies produce unreliable conclusions — foundational reading for all clinical researchers.",
+          "pearl": "Replace 'proves' with 'suggests' or 'supports.' A single observational study cannot prove causality or generalisability. Language must accurately reflect the study design's inferential capacity."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "G4-Q5",
+        "stem": "A registrar is preparing a systematic review and meta-analysis of bone graft materials for alveolar cleft repair. She has not yet registered the protocol. Before submitting to a journal, which of the following steps is most important to complete first?",
+        "options": {
+          "A": "Complete the PRISMA 2020 checklist and flow diagram",
+          "B": "Register the protocol prospectively on PROSPERO",
+          "C": "Obtain ethical approval from the institutional review board",
+          "D": "Conduct the searches in MEDLINE, Embase, and CENTRAL"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "PROSPERO (International Prospective Register of Systematic Reviews, hosted by the Centre for Reviews and Dissemination, University of York) provides prospective registration of systematic review protocols. Registration BEFORE conducting the review prevents post-hoc outcome reporting bias and selective analysis. The PRISMA 2020 guidelines strongly recommend prospective registration, and most journals require a PROSPERO registration number in the abstract and Methods. Retrospective registration (after searches are complete or the review is written) is permitted but flagged as a limitation; prospective registration is best practice.",
+          "wrong": {
+            "A": "The PRISMA checklist is completed when writing up the systematic review, not before starting. It cannot be meaningfully completed before the review is conducted.",
+            "C": "Secondary research (systematic reviews using published data) generally does not require primary ethical approval, as patient data are aggregated and anonymised. However, institutional policies vary.",
+            "D": "Conducting searches before protocol registration risks selective reporting of outcomes and post-hoc modifications to the protocol based on what was found — the key bias that prospective registration prevents."
+          },
+          "guideline": "PRISMA 2020 Statement (Page et al., BMJ 2021) — Item 2 requires PROSPERO registration number; WHO International Clinical Trials Registry Platform standards",
+          "trial": "Higgins JPT et al. Cochrane Handbook for Systematic Reviews of Interventions Version 6.4 (2023): Chapter 1 emphasises prospective registration as fundamental to systematic review integrity.",
+          "pearl": "Register on PROSPERO before starting searches. Registration prevents post-hoc outcome changes and is required by most high-impact journals for systematic reviews. Retrospective registration is a limitation."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "G4-Q6",
+        "stem": "An OMFS unit submits a manuscript reporting a retrospective cohort study of 134 patients who underwent free flap reconstruction for oral cavity squamous cell carcinoma, comparing functional outcomes between radial forearm and anterolateral thigh flaps. Which reporting guideline is most appropriate?",
+        "options": {
+          "A": "CONSORT 2010",
+          "B": "PRISMA 2020",
+          "C": "STROBE statement",
+          "D": "STARD 2015"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) applies to observational study designs including cohort studies, case-control studies, and cross-sectional studies. A retrospective cohort comparing two surgical interventions is an observational cohort study. The STROBE checklist (22 items) includes: title identifying study design, abstract, introduction with objectives, methods (setting, participants, variables, bias handling, statistical methods), results (participant flow, descriptive data, outcome data), discussion (key results, limitations, conclusions), and funding. Adherence to STROBE is required by most OMFS journals for observational research.",
+          "wrong": {
+            "A": "CONSORT applies to randomised controlled trials. This study is a retrospective cohort — no randomisation occurred — so CONSORT is incorrect.",
+            "B": "PRISMA applies to systematic reviews and meta-analyses, not primary observational studies.",
+            "D": "STARD applies to studies evaluating diagnostic test accuracy (sensitivity, specificity, AUC) — not appropriate for a treatment comparison cohort study."
+          },
+          "guideline": "STROBE Statement (von Elm et al., Lancet 2007; endorsed by EQUATOR Network): 22-item checklist for cohort, case-control, and cross-sectional studies",
+          "trial": "von Elm E et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies (Lancet 2007; 370:1453–1457): the original STROBE publication establishing the checklist.",
+          "pearl": "STROBE = observational studies (cohort, case-control, cross-sectional). CONSORT = RCTs. PRISMA = systematic reviews. STARD = diagnostic accuracy. Match the guideline to the study design before submission."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "G4-Q7",
+        "stem": "A researcher receives a peer review decision of 'Major Revision' for an OMFS RCT. Reviewer 2 comments: 'The authors have failed to account for the surgeon learning curve in their primary analysis, which would substantially affect the results.' The authors believe this is incorrect because stratified randomisation controlled for surgeon. The most appropriate response is to:",
+        "options": {
+          "A": "Ignore the comment as it reflects a misunderstanding of the statistical methods",
+          "B": "Address the comment respectfully, explain the stratified randomisation rationale, reference the statistical analysis plan, and quote the relevant Methods section with page numbers",
+          "C": "Request that the editor assign a third reviewer with expertise in surgical statistics",
+          "D": "Resubmit without changes and explain in the cover letter that all reviewer comments have been addressed"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Every reviewer comment must be addressed in full, even if you disagree. The correct approach is: acknowledge the reviewer's concern, explain why the stratified randomisation by surgeon controlled for learning curve effects, provide the specific statistical analysis plan reference, and quote the relevant text from the Methods section (with page and line numbers). If the reviewer is incorrect, evidence-based justification must be provided — you must demonstrate that the issue was anticipated and controlled for. This approach satisfies the editor and demonstrates methodological rigour.",
+          "wrong": {
+            "A": "Ignoring reviewer comments is never acceptable. Every comment must receive a substantive response, regardless of whether the author agrees.",
+            "C": "Requesting a third reviewer is not standard author practice during revision. This decision rests with the editor. Authors should address comments as received.",
+            "D": "Resubmitting without changes whilst claiming all comments have been addressed is misleading and likely to result in rejection. Editors cross-check response letters against revised manuscripts."
+          },
+          "guideline": "ICMJE Recommendations (2024) — Obligations of Peer Reviewers and Authors in the Review Process; COPE Ethical Guidelines for Peer Reviewers (2017)",
+          "trial": "Schroter S et al. Effects of training on quality of peer review: randomised controlled trial (BMJ 2004): demonstrated that structured responses to reviewer comments improved acceptance rates and paper quality.",
+          "pearl": "Address every reviewer comment, numbered sequentially. Even if you disagree, provide evidence and quote the revised text with page numbers. Never ignore a comment — this is the most common reason for rejection after major revision."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q8",
+        "stem": "In writing the Results section of an observational study on temporomandibular joint replacement outcomes, which of the following statements is appropriate for the Results section?",
+        "options": {
+          "A": "These findings suggest that TJR provides superior functional outcomes compared with the existing literature on conservative management",
+          "B": "At 24 months, median Jaw Functional Limitation Scale (JFLS) score improved from 68 (IQR 58–74) to 22 (IQR 15–31), p<0.001",
+          "C": "As in previous studies by Wolford et al., TJR appears to be a safe and effective procedure for end-stage TMJ disease",
+          "D": "These results were statistically significant, confirming the effectiveness of TJR"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Results sections should present data without interpretation. Option B correctly provides specific numerical values (median JFLS scores), measures of variability (IQR), and the inferential statistic (p-value) with its value. For skewed or ordinal data such as JFLS scores, median and IQR are the appropriate descriptive statistics. The Results section answers 'what was found' — it does not interpret, compare with literature, or draw conclusions.",
+          "wrong": {
+            "A": "This is interpretive language comparing findings to existing literature — appropriate for the Discussion, not Results.",
+            "C": "Comparison to previous authors and qualitative interpretation ('appears to be safe and effective') belong in the Discussion section.",
+            "D": "Stating results 'confirm effectiveness' is both interpretive and vague — it lacks numerical values and draws a conclusion inappropriate for the Results section."
+          },
+          "guideline": "ICMJE Recommendations (2024) — Manuscript Structure: Results section; STROBE statement Item 16: reporting of main results",
+          "trial": "Turner L et al. Consolidated Standards of Reporting Trials (CONSORT): a critical appraisal (BMC Med Res Methodol 2012): highlighted the importance of separating results from interpretation in reporting.",
+          "pearl": "Results = data only. No interpretation, no comparison to literature, no conclusions. Include specific values, appropriate descriptive statistics (mean±SD for normal; median+IQR for skewed), and inferential statistics with values and confidence intervals."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q9",
+        "stem": "A 45-year-old OMFS consultant is the corresponding author on a manuscript when she receives the final accepted version for proofreading from the journal. She notices that the copyeditor has changed 'IQR 14–22' to 'IQR ±8' throughout the Results. The change affects the statistical reporting of the primary outcome. She should:",
+        "options": {
+          "A": "Accept the change as copyeditors are responsible for journal style",
+          "B": "Correct the error in the proofs and return with explanation — IQR is not symmetric and cannot be expressed as ±",
+          "C": "Contact the statistical reviewer to endorse the correction before returning proofs",
+          "D": "Accept the change if the IQR happens to be symmetric in this dataset"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The interquartile range (IQR) represents the 25th to 75th percentile range and is an asymmetric measure. Expressing it as ± implies symmetry around the median, which is statistically incorrect. The author must correct this error at proof stage — authors are responsible for verifying factual and statistical accuracy in proofs. Copyeditors apply style conventions but may not have statistical expertise; authors must always check that data, statistics, and p-values are preserved accurately. Uncorrected errors in published papers require corrections (errata), which are permanently linked to the article.",
+          "wrong": {
+            "A": "Copyeditors apply style, not statistical correctness. Authors have the final responsibility for accuracy of all data and statistics before publication.",
+            "C": "Contacting a reviewer post-acceptance is not the appropriate mechanism. The author has the authority and responsibility to correct statistical errors at proof stage.",
+            "D": "Even if numerically equivalent in a specific dataset, ± implies a symmetric distribution, which is statistically misleading for IQR and would be incorrect reporting."
+          },
+          "guideline": "ICMJE Recommendations (2024) — Preparing Manuscripts: Ensuring accuracy of statistical reporting; AMA Manual of Style (11th ed): statistical reporting conventions",
+          "trial": "Altman DG et al. The revised CONSORT statement for reporting randomised trials (Lancet 2001): established standards for reporting of statistics including correct presentation of descriptive measures.",
+          "pearl": "IQR is always expressed as Q1–Q3 (e.g., 14–22), never as ±. Mean±SD applies to normally distributed continuous data. Authors must verify statistical accuracy at proof stage — copyeditors are not statisticians."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q10",
+        "stem": "An OMFS trainee submits a manuscript to IJOMS describing a novel mandibular distraction osteogenesis device. The study involves 12 patients (single-arm, prospective) with 12-month follow-up. The editor requests that the authors declare which stage of the IDEAL framework this work represents. The most appropriate classification is:",
+        "options": {
+          "A": "IDEAL Stage 1 — first-in-human case report",
+          "B": "IDEAL Stage 2a — development stage with small prospective series",
+          "C": "IDEAL Stage 3 — efficacy RCT",
+          "D": "IDEAL Stage 4 — long-term surveillance registry"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The IDEAL framework (McCulloch et al., Lancet 2009) classifies surgical innovation into stages: Stage 1 (first use in a patient — case report/series of 1–5), Stage 2a (development stage — small prospective series 5–50, with modifications still occurring), Stage 2b (exploratory — larger cohort with defined technique, 50–200), Stage 3 (assessment — RCT comparing with established treatment), Stage 4 (long-term — surveillance registry). A single-arm prospective study of 12 patients with a novel device, with defined follow-up but where device modifications may have occurred, corresponds to Stage 2a. The IJOMS and JCMFS increasingly require IDEAL stage declaration for surgical innovation papers.",
+          "wrong": {
+            "A": "Stage 1 is a first-in-human report of 1–5 cases — 12 patients with systematic prospective follow-up exceeds this.",
+            "C": "Stage 3 requires a randomised controlled trial comparing the intervention with an established alternative — not a single-arm study.",
+            "D": "Stage 4 is a long-term post-market surveillance registry of an established procedure, typically involving hundreds of patients over many years."
+          },
+          "guideline": "IDEAL Framework (McCulloch et al., Lancet 2009; updated IDEAL-D for devices 2016) — Stage 2a: development stage, prospective series 5–50 patients",
+          "trial": "McCulloch P et al. No surgical innovation without evaluation: the IDEAL recommendations (Lancet 2009; 374:1105–1112): the founding IDEAL paper defining all five stages with criteria and reporting requirements.",
+          "pearl": "12-patient prospective single-arm study of a novel device = IDEAL Stage 2a. IDEAL stage must be declared in the title or abstract of surgical innovation papers submitted to EACMFS/BAOMS affiliated journals."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q11",
+        "stem": "A systematic review of prophylactic antibiotic regimens for orthognathic surgery is submitted to BJOMS. The authors searched only MEDLINE and performed searches in June 2022 but are submitting in March 2024. They have not updated the searches. The most critical methodological deficiency is:",
+        "options": {
+          "A": "Failure to register on PROSPERO before searching",
+          "B": "Restricting searches to a single database without searching Embase, CENTRAL, and grey literature",
+          "C": "Outdated searches — 21 months elapsed since searches; new evidence may have been published",
+          "D": "Absence of a QUADAS-2 risk of bias assessment"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Restricting searches to a single database (MEDLINE only) is a critical methodological flaw. MEDLINE captures approximately 40–50% of relevant clinical trial literature; Embase has superior coverage of European journals and pharmacological studies; CENTRAL (Cochrane Central Register of Controlled Trials) includes RCTs not indexed in MEDLINE or Embase; grey literature (clinical trial registries, conference proceedings, regulatory databases) addresses publication bias. PRISMA 2020 and Cochrane Handbook mandate comprehensive multi-database searching. Whilst outdated searches (option C) is also a significant issue, incomplete database coverage is a more fundamental flaw that affects the validity of the pooled estimates regardless of timing.",
+          "wrong": {
+            "A": "PROSPERO registration is important but missing registration does not invalidate the review's clinical conclusions — it is a transparency issue rather than a validity issue.",
+            "C": "21-month-old searches are a significant limitation and most journals require searches within 12 months of submission, but incomplete database coverage produces more systematic bias than search timing.",
+            "D": "QUADAS-2 applies to diagnostic accuracy systematic reviews — for antibiotic prophylaxis RCTs, RoB 2 (for RCTs) or Newcastle-Ottawa (for observational studies) would be appropriate. Using the wrong tool is a problem, but incomplete database coverage is more critical."
+          },
+          "guideline": "PRISMA 2020 Statement (Page et al., BMJ 2021) — Item 6: information sources; Cochrane Handbook Version 6.4 (2023) Chapter 4: Searching for and selecting studies",
+          "trial": "Sampson M et al. An evidence-based practice guideline for the peer review of electronic search strategies (J Clin Epidemiol 2009): demonstrated that MEDLINE-only searches miss 30–60% of relevant studies compared with comprehensive multi-database searches.",
+          "pearl": "Systematic reviews must search at minimum: MEDLINE, Embase, CENTRAL, plus trial registries (ClinicalTrials.gov, ICTRP) and grey literature. MEDLINE-only searches are insufficient and grounds for rejection."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q12",
+        "stem": "An OMFS researcher is writing the Methods section of an RCT comparing titanium versus resorbable plate fixation for paediatric mandibular fractures. She has written the following sentence: 'The primary outcome was subjective patient-reported pain.' A reviewer identifies this as inadequate. The most important reason is:",
+        "options": {
+          "A": "Pain should not be a primary outcome for a fracture fixation study",
+          "B": "The measurement tool, scale range, time point, and minimum important difference are not specified",
+          "C": "Patient-reported outcomes require a separate subsection in the Methods",
+          "D": "The sentence should state the secondary outcomes as well"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For any outcome to be adequately defined in the Methods of a clinical trial, CONSORT 2010 Item 6b requires: complete definition of all pre-specified outcomes, including measurement tool (e.g., 'Numerical Rating Scale 0–10'), scale characteristics, method of administration, and pre-specified measurement time points (e.g., 'at 1, 4, and 12 weeks post-operatively'). For PROs, the minimum clinically important difference (MCID) used for sample size calculation should also be stated. 'Subjective patient-reported pain' provides none of this information, making it impossible to replicate the study or assess the validity of the analysis.",
+          "wrong": {
+            "A": "Pain is a clinically valid primary outcome for fracture fixation surgery, particularly in paediatric patients where patient experience is central. OMFS RCTs frequently use pain as a primary outcome.",
+            "C": "PROs can be described within the main outcomes subsection; a separate subsection is not mandated by CONSORT or ICMJE.",
+            "D": "Secondary outcomes are important but the primary issue is the inadequate definition of the primary outcome, not the absence of secondary outcomes."
+          },
+          "guideline": "CONSORT 2010 Statement (Moher et al., BMJ 2010) — Item 6a: completely defined pre-specified primary and secondary outcome measures including how and when they were assessed",
+          "trial": "Zwarenstein M et al. Improving the reporting of pragmatic trials: an extension of the CONSORT statement (BMJ 2008): extended CONSORT to pragmatic surgical trials with specific guidance on outcome measurement.",
+          "pearl": "Every outcome in the Methods must specify: the measurement instrument (validated tool), scale range, who administers it (patient, clinician, blinded assessor), and the exact time points. Vague outcome definitions violate CONSORT Item 6a."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q13",
+        "stem": "A registrar submits the same case report of an unusual presentation of odontogenic keratocyst simultaneously to BJOMS and Oral Surgery (UK journal). The paper is accepted by BJOMS first and published. Three months later, the second journal contacts the registrar asking why the same paper was published elsewhere. This represents:",
+        "options": {
+          "A": "Redundant (duplicate) publication — an ethical violation requiring retraction of one paper",
+          "B": "Acceptable practice as case reports have limited scientific impact",
+          "C": "A copyright issue only, with no ethical implications",
+          "D": "Simultaneous submission — permitted if both editors are informed at submission"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Duplicate publication — submitting the same manuscript simultaneously to two journals, or publishing the same data in two separate papers without cross-referencing — violates ICMJE requirements. All journals require a statement that the work has not been previously published and is not under simultaneous consideration elsewhere. COPE Guidelines require retraction of the duplicate publication and notification to both institutions. The scientific justification is that duplicate data artificially inflate the evidence base; systematic reviews may inadvertently include the same patients twice, biasing pooled results. Case reports are not exempt from this principle.",
+          "wrong": {
+            "A": "This is the correct answer — redundant publication requires retraction.",
+            "B": "Scientific impact does not mitigate ethical violations. Case reports of unusual presentations contribute to the literature and are subject to the same ethical standards as RCTs.",
+            "C": "Copyright is a separate issue (transfer of copyright to publisher); the ethical violation of duplicate publication is independent of copyright law.",
+            "D": "Simultaneous submission is not permitted under ICMJE guidelines regardless of editor notification. An exception exists only for 'linked publications' where two journals agree in advance, which is rare and explicitly negotiated."
+          },
+          "guideline": "ICMJE Recommendations (2024) — Overlapping Publications; COPE Flowchart for Handling Suspected Redundant Publication (2024)",
+          "trial": "Blancett SS et al. Duplicate publications in nursing research (Nurs Res 1995): one of the earliest systematic analyses demonstrating that duplicate publications inflate literature and compromise systematic reviews.",
+          "pearl": "Never submit to two journals simultaneously. Duplicate publication requires retraction. The only permitted prior publication is a conference abstract — disclosed at submission."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "G4-Q14",
+        "stem": "An OMFS lecturer calculates the h-index of a colleague applying for a consultant post. The colleague has 40 published papers; 12 of these papers have been cited at least 12 times each, and 28 have been cited fewer than 12 times. The colleague's h-index is:",
+        "options": {
+          "A": "40",
+          "B": "28",
+          "C": "12",
+          "D": "It cannot be calculated without knowing the exact citation counts"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The h-index (Hirsch index, Hirsch 2005) is defined as the maximum value of h such that the researcher has h papers each cited at least h times. In this case, the researcher has 12 papers cited ≥12 times — confirming that h=12 (since the 13th most-cited paper has been cited fewer than 13 times). The h-index rewards both productivity and impact: to increase h-index from 12 to 13, you would need a 13th paper that achieves ≥13 citations. This is why h-index increases slowly over a career and is biased towards older researchers.",
+          "wrong": {
+            "A": "40 is the total number of papers (a measure of productivity, not impact). This would be the number of publications, not the h-index.",
+            "B": "28 is the number of papers cited fewer than 12 times — not relevant to h-index calculation.",
+            "D": "The exact citation counts for the 12 papers cited ≥12 times and the 28 papers cited <12 times are sufficient to calculate h=12. The precise values above 12 do not affect the h-index."
+          },
+          "guideline": "Hirsch JE. An index to quantify an individual's scientific research output (PNAS 2005): the original h-index paper; Scopus and Web of Science author profile pages calculate h-index automatically.",
+          "trial": "Hirsch JE. An index to quantify an individual's scientific research output (Proc Natl Acad Sci USA 2005; 102:16569–72): the original h-index paper demonstrating that a combined measure of publications and citations better reflects individual research impact than either alone.",
+          "pearl": "h-index = maximum h such that you have h papers each cited ≥h times. To calculate: rank papers by citation count; find the point where rank equals citation count. h-index is biased toward senior/prolific researchers and varies by field."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q15",
+        "stem": "A 52-year-old OMFS professor is writing the Introduction section of a manuscript on orthognathic surgery outcomes. She writes a 600-word systematic literature review covering all evidence from 1990–2024. Her registrar points out this is inappropriate. The most accurate criticism of this approach is:",
+        "options": {
+          "A": "The Introduction should use only studies published within the last 5 years",
+          "B": "The Introduction should be a concise funnel establishing the knowledge gap, not a comprehensive literature review",
+          "C": "Literature reviews in the Introduction should be limited to 3 references maximum",
+          "D": "Historical studies should be cited only in the Discussion, not the Introduction"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Introduction serves to establish context and identify the specific knowledge gap that justifies the study. It should move from broad background to the specific unanswered question, concluding with the study aim. A 600-word systematic literature review is inappropriate for an Introduction — it converts the Introduction into a mini-review, making it too long, delaying the statement of the study aim, and duplicating content that belongs in the Discussion. The Introduction typically comprises 3–5 paragraphs, citing key seminal works rather than comprehensively reviewing all evidence. Comprehensive evidence synthesis belongs in the Discussion where it contextualises findings.",
+          "wrong": {
+            "A": "There is no rule restricting Introduction citations to the last 5 years — seminal older studies are appropriate. The issue is quantity and purpose, not date.",
+            "C": "There is no 3-reference limit for Introductions; the number of citations depends on the complexity of the background. The issue is that a comprehensive review is inappropriate.",
+            "D": "Historical studies may be cited in both Introduction (for context) and Discussion (for comparison). The issue is that the Introduction should not become a literature review."
+          },
+          "guideline": "ICMJE Recommendations (2024) — Introduction: provide context and rationale; state specific aims and hypotheses",
+          "trial": "Schulz KF & Grimes DA. Epidemiology series: an overview of clinical research (Lancet 2002): series covering Introduction writing with emphasis on funnel structure and gap identification.",
+          "pearl": "Introduction = funnel structure (broad to specific) + knowledge gap + study aim. NOT a literature review. Comprehensive evidence synthesis belongs in the Discussion, not the Introduction."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q16",
+        "stem": "An OMFS research group publishes their RCT of maxillary sinus augmentation techniques in Oral Surgery Oral Medicine Oral Pathology as a Gold Open Access article. The total Article Processing Charge (APC) was £2,400. Eighteen months after publication, a researcher cannot access the paper through the journal website — it appears behind a paywall. The most likely explanation is:",
+        "options": {
+          "A": "The Creative Commons licence has expired after 18 months",
+          "B": "An error has occurred — Gold OA articles with CC licences are permanently freely accessible; this should be reported to the publisher",
+          "C": "The journal has been reclassified as a predatory publication",
+          "D": "Gold OA requires institutional library access after the initial publication period"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Gold Open Access means the article is immediately and permanently freely accessible under a Creative Commons licence (typically CC-BY, allowing redistribution and adaptation with attribution). Creative Commons licences are irrevocable and do not expire. If an article is inaccessible 18 months after Gold OA publication, this is a technical error by the publisher — the APC payment evidence, acceptance email, and Creative Commons licence terms confirm perpetual access. Authors should contact the publisher's editorial office immediately, and if unresolved, report to COPE. This type of access error, whilst rare, has occurred during publisher platform migrations.",
+          "wrong": {
+            "A": "Creative Commons licences are irrevocable and permanent — they do not expire after any period. This is a fundamental property of CC licensing.",
+            "C": "Journal reclassification as predatory would not retrospectively restrict access to already-published OA articles; it would affect future submissions and indexing.",
+            "D": "Gold OA specifically means no institutional library access is required — this is the definition of open access. Institutional access requirements characterise subscription (paywalled) publishing."
+          },
+          "guideline": "Creative Commons Attribution 4.0 International (CC BY 4.0) Licence terms; COPE Guidelines on post-publication problems (2024); UKRI Open Access Policy (2022): mandating immediate Gold OA for funded research",
+          "trial": "Suber P. Open Access (MIT Press, 2012): definitive text on open access publishing models, licence terms, and the permanent nature of CC licensing.",
+          "pearl": "Gold OA = permanent free access under Creative Commons licence. CC licences never expire. If a Gold OA article becomes inaccessible, report to publisher immediately — this is a technical error, not a licence limitation."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "G4-Q17",
+        "stem": "In a BJOMS paper reporting a prospective observational study of 67 patients undergoing sagittal split ramus osteotomy, the authors present their primary outcome (VAS jaw pain at 3 months) as mean 24.3 ± 18.7 mm. A statistician reviewer comments that SD=18.7 on a 0–100mm scale suggests the data are not normally distributed. The most appropriate statistical presentation would be:",
+        "options": {
+          "A": "Report mean ± SEM (standard error of the mean) to reduce apparent variability",
+          "B": "Apply log-transformation and report geometric mean and 95% CI",
+          "C": "Report median (IQR) and use non-parametric tests (e.g., Wilcoxon signed-rank) for comparisons",
+          "D": "Increase the sample size to normalise the distribution before reporting"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A high SD relative to the mean (coefficient of variation = 18.7/24.3 = 77%), particularly with values bounded at 0, strongly suggests right-skewed data. VAS pain scores frequently show skewed distributions, particularly in post-operative cohorts where most patients have low pain. For skewed data, the appropriate descriptive statistics are median and IQR (Q1–Q3), and the appropriate inferential tests are non-parametric: Wilcoxon signed-rank test for within-group change, Mann-Whitney U for between-group comparisons. Reporting mean±SD for skewed data is misleading as the confidence interval may extend below zero (which is impossible on a VAS scale).",
+          "wrong": {
+            "A": "Reporting SEM instead of SD reduces apparent variability but is misleading — SEM describes the precision of the mean estimate, not variability in the data. Using SEM to make data look 'less variable' is a form of misleading reporting.",
+            "B": "Log-transformation is appropriate for strictly positive skewed data (e.g., cytokine levels), but for bounded scales like VAS, it is less interpretable than median+IQR.",
+            "D": "Increasing sample size does not change the distribution of the variable — it may improve normality of the sampling distribution of the mean (Central Limit Theorem) but does not address the underlying skewness of the raw data."
+          },
+          "guideline": "AMA Manual of Style 11th ed.: statistical reporting; Lang TA & Altman DG. Basic Statistical Reporting for Articles Published in Biomedical Journals (SAMPL Guidelines 2015)",
+          "trial": "Altman DG & Bland JM. Statistics Notes: the normal distribution (BMJ 1995; 310:298): classic BMJ statistics note explaining when to use mean±SD versus median+IQR.",
+          "pearl": "VAS pain scores are frequently skewed — always check distribution before choosing mean±SD vs median+IQR. High coefficient of variation (SD/mean >0.5) or bounded scale suggests non-normality. Use median+IQR and non-parametric tests for skewed data."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "G4-Q18",
+        "stem": "A research team conducts a meta-analysis of five RCTs comparing platelet-rich fibrin (PRF) versus autologous bone graft for alveolar cleft repair. The pooled estimate for complete bone bridging at 12 months is RR 0.84 (95% CI 0.51–1.39, p=0.49, I²=72%). Which statement regarding clinical interpretation of these results is most accurate?",
+        "options": {
+          "A": "PRF is inferior to autologous bone graft for alveolar cleft repair based on RR<1.0",
+          "B": "There is no statistically significant difference, and the high I² suggests substantial heterogeneity — results should be interpreted with caution and pooling may be inappropriate",
+          "C": "The confidence interval crossing 1.0 proves no effect of PRF",
+          "D": "I²=72% indicates that 72% of the studies showed PRF to be inferior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The 95% CI of 0.51–1.39 crosses the null (RR=1.0), indicating the result is not statistically significant (confirmed by p=0.49). However, the clinically important finding is the I²=72%, which indicates substantial heterogeneity — 72% of the variability in effect estimates is attributable to between-study differences rather than chance. When I² exceeds 50%, random-effects meta-analysis may still be performed but the pooled estimate must be interpreted cautiously as a weighted average across heterogeneous populations, not an estimate applicable to all clinical settings. Cochrane Handbook classifies I²>75% as 'considerable,' and 50–75% as 'substantial' — both warrant investigation of heterogeneity sources.",
+          "wrong": {
+            "A": "RR=0.84 (CI 0.51–1.39) does not demonstrate inferiority — the confidence interval is wide and includes values both >1 and <1. The uncertainty is too great to draw directional conclusions.",
+            "C": "CI crossing 1.0 means no statistically significant difference at the chosen alpha level — it does NOT 'prove' no effect. Absence of evidence is not evidence of absence. The study may be underpowered.",
+            "D": "I² is not the percentage of studies showing a directional effect. It is the proportion of total variability in results attributable to between-study heterogeneity, not within-study variance or sampling error."
+          },
+          "guideline": "Cochrane Handbook for Systematic Reviews of Interventions v6.4 (2023) — Chapter 10: Analysing data and undertaking meta-analysis; Section 10.10.2 I² statistic interpretation",
+          "trial": "Higgins JPT et al. Measuring inconsistency in meta-analyses (BMJ 2003; 327:557–560): the original paper defining I² and providing thresholds for interpretation (25%=low, 50%=moderate, 75%=high).",
+          "pearl": "I²=72% = substantial heterogeneity — pooled estimate applies cautiously. I² does NOT mean 72% of studies showed a specific direction of effect. Investigate heterogeneity sources (participants, interventions, outcomes) before concluding."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "G4-Q19",
+        "stem": "An OMFS trainee is applying for an NIHR Research Training fellowship. As part of the application, she must demonstrate research dissemination. She has one published case report, two conference abstracts, and a submitted (not yet accepted) original article. Her supervisor suggests inflating her dissemination section with a paper 'in preparation' that does not exist and a conference presentation that was cancelled before delivery. This would represent:",
+        "options": {
+          "A": "Acceptable academic practice — inflating CVs is standard in competitive applications",
+          "B": "Research misconduct equivalent to falsification, with potential consequences including application rejection, investigation, and exclusion from future NIHR funding",
+          "C": "A minor embellishment that funders expect and discount",
+          "D": "Acceptable if the paper 'in preparation' is based on real data that will be written in future"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Misrepresenting publications or presentations in grant applications is research misconduct equivalent to falsification under both UKRIO and ORI definitions. NIHR applications are scrutinised carefully; claims of publications are cross-referenced against PubMed and institutional repositories. A 'paper in preparation' that does not exist is fabricated output. A cancelled conference presentation claimed as delivered is falsified dissemination. Consequences include: immediate rejection of the application, referral to the institutional research integrity officer, exclusion from NIHR funding for a defined period, and potential GMC involvement if the individual holds medical registration. Supervisors who advise research misconduct may also face investigation.",
+          "wrong": {
+            "A": "CV inflation in academic medicine is research misconduct — it is not standard practice. NIHR, Wellcome Trust, and UKRI have zero-tolerance policies for falsified applications.",
+            "C": "Funders do not 'discount' falsified outputs — they expect accurate, verifiable claims. NIHR panels include panel members who can identify inflated CVs.",
+            "D": "Papers 'in preparation' based on real data that genuinely exist as near-complete drafts may be listed as such (with a note 'in preparation'), but a fictional paper stated as 'in preparation' to inflate a CV when it has not been started is fabrication regardless of whether data exist."
+          },
+          "guideline": "UKRIO Code of Practice for Research (2009, updated 2019): Section on Honesty in grant applications; NIHR Research Misconduct Policy (2023): defines fabrication in grant applications as a serious breach",
+          "trial": "Martinson BC et al. Scientists behaving badly (Nature 2005; 435:737–738): survey of 3,247 early-career researchers showing 13.5% had falsified or fabricated data — underscoring the prevalence and the imperative for clear integrity standards.",
+          "pearl": "Falsifying grant applications (fabricated publications, misrepresented presentations) is research misconduct with severe consequences: application rejection, institutional investigation, GMC referral, and NIHR funding exclusion. Only list verifiable, real outputs."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "G4-Q20",
+        "stem": "A BJOMS reviewer evaluates a manuscript comparing two types of zygomatic implants. The paper reports: 'The survival rate was 94.3% in Group A versus 89.1% in Group B (p=0.04, NNT=19). The absolute risk reduction was 5.2%.' The reviewer notes that, while statistically significant, the clinical significance must be considered. Which statement best describes the clinical interpretation of these results?",
+        "options": {
+          "A": "NNT=19 means 19 patients need the zygomatic implant procedure to observe any effect",
+          "B": "An ARR of 5.2% with NNT=19 means 19 patients must receive the superior treatment to prevent one additional implant failure — whether this is clinically significant depends on the cost, risk, and patient-level importance of implant failure",
+          "C": "Statistical significance (p=0.04) confirms clinical importance — NNT=19 is excellent for a surgical procedure",
+          "D": "The NNT cannot be reliably interpreted from survival data — it is applicable only to acute binary outcomes"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "NNT (Number Needed to Treat) = 1/ARR = 1/0.052 = 19.2, confirming that 19 patients must receive the better treatment to prevent one additional implant failure. NNT contextualises statistical significance in clinically meaningful terms. The clinical significance of NNT=19 depends on: the severity of the outcome (implant failure — requiring reoperation, bone loss, functional impairment), the cost difference between treatments, the risks of the superior treatment, and patient preferences. A statistically significant result (p=0.04) with NNT=19 may or may not justify a treatment change depending on these factors. This is the fundamental distinction between statistical and clinical significance.",
+          "wrong": {
+            "A": "NNT=19 means 19 patients need the SUPERIOR treatment (Group A) instead of the comparator (Group B) to prevent one additional implant failure — not simply that any procedure is needed.",
+            "C": "Statistical significance does not confirm clinical importance. p=0.04 simply means the result is unlikely to be due to chance alone at alpha=5%. Whether NNT=19 is 'excellent' depends on context — for a cancer treatment, NNT=19 might be acceptable; for an elective implant, clinicians might require a lower NNT.",
+            "D": "NNT can be calculated from survival data using the absolute risk reduction in failure rate at a specified time point — this is standard practice in implantology outcome research."
+          },
+          "guideline": "GRADE Working Group: Going from evidence to recommendations (BMJ 2008): Section on NNT and clinical significance in guideline recommendations; SIGN 50 Handbook (2023): statistical and clinical significance",
+          "trial": "Laupacis A et al. An assessment of clinically useful measures of the consequences of treatment (N Engl J Med 1988; 318:1728–1733): the original paper proposing NNT as a clinically meaningful measure of treatment effect for bedside decision-making.",
+          "pearl": "NNT = 1/ARR. Statistical significance (p<0.05) does not equal clinical significance. Always interpret NNT in context: the severity of the outcome prevented, treatment cost/risk, and patient values determine whether NNT=19 justifies a practice change."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

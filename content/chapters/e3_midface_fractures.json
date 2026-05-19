@@ -1,0 +1,622 @@
+{
+  "id": "E3",
+  "title": "Midface Fractures",
+  "subtitle": "Block E — Le Fort Classification, ZMC Fractures, Orbital Blowout, NOE Fractures",
+  "block": "E",
+  "block_name": "Facial Trauma",
+  "level": "R2-4",
+  "reading_time_min": 42,
+  "guidelines_version": "EACMFS Facial Trauma Guidelines 2021 · BAOMS Midface Fracture Guidelines 2020 · AO CMF Classification 2021",
+  "textbook_refs": [
+    "Le Fort R. Étude expérimentale sur les fractures de la mâchoire supérieure. Revue de Chirurgie (1901)",
+    "Zingg M et al. Classification and treatment of zygomatic fractures. J Oral Maxillofac Surg (1992)",
+    "Markowitz BL et al. Management of the medial canthal tendon in nasoethmoid orbital fractures. Plast Reconstr Surg (1991)",
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)"
+  ],
+  "learning_objectives": [
+    "Classify midface fractures using the Le Fort classification and recognise compound Le Fort patterns",
+    "Describe the anatomy and classification of zygomatic complex fractures using the Zingg and Manson systems",
+    "Identify and manage orbital blowout fractures including indications for repair, timing, and surgical approaches",
+    "Recognise naso-orbital-ethmoidal (NOE) fractures, classify them using the Markowitz system, and understand the management of medial canthal tendon injuries",
+    "Apply the principles of 'outside-in' and 'bottom-up' reconstruction to complex midface fractures",
+    "Recognise post-traumatic enophthalmos, telecanthus, and late midface deformity"
+  ],
+  "sections": [
+    {
+      "id": "E3-S1",
+      "title": "Le Fort Classification of Midface Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "René Le Fort's landmark 1901 experimental cadaveric study defined three predictable fracture patterns of the midface based on biomechanical analysis of force application directions. These patterns — **Le Fort I, II, and III** — represent horizontal levels of maxillary/midfacial dissociation from the skull base and remain the foundation of midface fracture classification today.\n\n**Le Fort I** (horizontal/low maxillary fracture): The fracture line passes horizontally through the maxilla just above the apices of the upper teeth — through the nasal septum, lateral walls of the maxillary sinuses, and the pterygoid plates bilaterally. The entire dental arch (maxillary alveolus + palate + attached dentition) is separated from the upper midfacial skeleton. The pterygoid plates are the posterior anchor — all Le Fort fractures bilaterally involve the pterygoid plates. Clinical features: mobile maxillary dentition (entire upper dental arch moves independently of the midface), anterior open bite, and the patient can grasp the upper teeth and feel movement of the palate/alveolus without the overlying midfacial skin moving.\n\n**Le Fort II** (pyramidal fracture): The fracture lines extend from the pterygoid plates, run superiorly along the lateral walls of the maxillary sinuses, across the infraorbital rim, and join across the nasal bridge. The resulting 'pyramidal' fragment includes the maxillary alveolus, palate, maxillary sinuses, and the nasal pyramid. The inferior orbital rim is disrupted. Clinical features: movement of the middle third of the face (including nose) on manipulation, bilateral periorbital bruising ('panda eyes' — bruising extending below the orbital margin distinguishes it from a basal skull fracture where bruising is limited to orbital margins), and infraorbital nerve paraesthesia.\n\n**Le Fort III** (craniofacial dysjunction): Complete separation of the facial skeleton from the cranial base. The fracture lines extend from the pterygoid plates, across the lateral orbital walls (through the zygomatic arch and zygomaticofrontal suture), through the nasofrontal suture, and across the orbital floors and medial walls. The entire midface (including zygomas, orbits, and nasal skeleton) moves as a unit independently of the skull base. Clinical features: 'dish-face' deformity (posterior and inferior displacement of the entire midface), elongated face with anterior open bite, massive facial oedema, CSF rhinorrhoea (cribriform plate fracture), and haemorrhage.\n\nIn clinical practice, **compound Le Fort fractures** are common — a Le Fort II on one side with Le Fort III on the other, or Le Fort patterns combined with mandibular fractures (panfacial fractures). Pure Le Fort fractures as described by Le Fort are uncommon; most clinical fractures are asymmetric modifications of the basic patterns."
+        },
+        {
+          "type": "table",
+          "title": "Le Fort Classification Summary",
+          "headers": ["Type", "Fracture Level", "Structures Involved", "Clinical Feature"],
+          "rows": [
+            ["Le Fort I", "Low maxillary (horizontal)", "Maxillary alveolus, nasal septum, pterygoid plates", "Mobile dental arch without midfacial skin movement; AOB"],
+            ["Le Fort II", "Pyramidal (infraorbital rim)", "Maxilla, nasal pyramid, infraorbital rim, pterygoid plates", "Middle third face movement; periorbital bruising; infraorbital nerve paraesthesia"],
+            ["Le Fort III", "Craniofacial dysjunction", "Entire midface from skull base; ZF suture, zygomatic arch, nasofrontal suture", "Dish-face deformity; CSF rhinorrhoea; elongated face; massive oedema"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Pterygoid Plates — Universal Involvement in All Le Fort Fractures",
+          "content": "ALL three Le Fort fracture patterns (I, II, and III) involve the pterygoid plates bilaterally. The pterygoid plates form the posterior buttress of the midface and are inevitably fractured in any Le Fort pattern due to the midface's posterior attachment through these structures. If CT shows pterygoid plate fractures, a Le Fort pattern should be considered. Isolated pterygoid plate fractures without a Le Fort pattern are rare."
+        }
+      ]
+    },
+    {
+      "id": "E3-S2",
+      "title": "Zygomatic Complex Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The zygomatic complex (ZMC) fracture — also called the zygomatic malar or trimalar fracture — involves disruption of the zygoma at its articulations with the frontal bone (zygomaticofrontal suture), the temporal bone (zygomatic arch), and the maxilla (zygomaticomaxillary buttress + infraorbital rim + orbital floor). A 'pure' ZMC fracture separates the zygoma at all four points of articulation, causing the entire zygomatic complex to displace.\n\nThe **Zingg classification** (1992) categorises ZMC fractures by severity and provides a useful surgical decision framework:\n- **Type A** (tripod): Fracture of the zygomatic arch alone (A1), zygomaticomaxillary buttress alone (A2), or orbital floor/ZM suture alone (A3) — incomplete ZMC fractures\n- **Type B** (tetrapod/complete): Complete ZMC fracture with all four articulations disrupted — the classical trimalar fracture\n- **Type C**: Comminuted ZMC fracture\n\nThe **Manson classification** for orbital involvement (mild, moderate, severe) is particularly useful for deciding whether orbital floor repair is required alongside ZMC fixation.\n\nDisplacement of the ZMC affects multiple functional and aesthetic structures simultaneously: (1) **orbital volume** — lateral orbital wall displacement changes orbital volume, causing enophthalmos or exophthalmos; (2) **zygomatic arch** — depressed arch impinges on the coronoid process, restricting mandibular opening (trismus); (3) **infraorbital nerve** — the nerve runs in the infraorbital groove, causing paraesthesia of the ipsilateral cheek, upper lip, and lateral nose; (4) **orbital floor** — disruption or comminution of the floor causes orbital fat herniation and enophthalmos; and (5) **malar prominence** — depressed ZMC causes flattening of the cheek prominence.\n\nClinical assessment findings: periorbital bruising and oedema, subconjunctival haemorrhage (suggestive of orbital wall fracture), step deformity at the infraorbital rim and ZF suture, flattened malar prominence, trismus (from coronoid impingement), diplopia, and infraorbital nerve hypoaesthesia. The haemosinus sign (air-fluid level in maxillary sinus) on imaging supports the diagnosis."
+        },
+        {
+          "type": "table",
+          "title": "Surgical Approaches for ZMC Fracture ORIF",
+          "headers": ["Structure", "Approach", "Fixation Points"],
+          "rows": [
+            ["Zygomaticofrontal (ZF) suture", "Upper blepharoplasty or lateral eyebrow incision", "1-2 screws or miniplate; usually first point fixed"],
+            ["Infraorbital rim", "Lower eyelid (transconjunctival/subciliary) or vestibular incision", "Miniplate; also provides floor access"],
+            ["Zygomaticomaxillary (ZM) buttress", "Intraoral vestibular upper buccal sulcus", "L-plate or T-plate; strongest fixation point"],
+            ["Zygomatic arch", "Coronal (Gillies) or preauricular incision; or Gillies temporal lift via stab incision", "Reduction without fixation (Gillies); or direct plating via coronal approach"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Gillies Temporal Approach — Isolated Arch Reduction",
+          "content": "Gillies temporal approach (Gillies 1927) is used for reduction of an isolated depressed zygomatic arch. A stab incision is made within the temporal hairline; a periosteal elevator is passed beneath the temporalis fascia and under the zygomatic arch. The elevator is used to lever the arch superiorly and laterally to reduce the depression. No incision is required directly over the arch. Importantly, this approach does NOT provide fixation — it is used only when the arch will remain stable in the reduced position (when the fractured pieces 'lock' in place). If stability cannot be achieved, direct plating via a coronal approach is required."
+        }
+      ]
+    },
+    {
+      "id": "E3-S3",
+      "title": "Orbital Blowout Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Orbital blowout fractures occur when a force applied directly to the globe (via a fist, ball, or other blunt object) causes a sudden increase in intraorbital pressure, fracturing the weakest wall — most commonly the orbital floor (which transmits the pressure wave into the thin bone of the maxillary sinus roof) and the medial wall (into the ethmoid cells). The globe typically remains intact because it deforms but rebounds. Two mechanisms are proposed: the 'hydraulic' mechanism (globe transmits pressure directly to the floor) and the 'buckling' mechanism (force on the inferior orbital rim buckles the thin floor).\n\n**Indications for surgical repair** of orbital blowout fractures are:\n1. **Muscle/fat entrapment** with restricted eye movement (positive forced duction test) and persistent diplopia — particularly the 'white-eyed' paediatric trapdoor fracture (surgical emergency)\n2. **Large defect** (>50% of orbital floor, typically >2 cm² on CT) with or without enophthalmos\n3. **Enophthalmos >2 mm** (posterior displacement of globe from volume change)\n4. **Hypophthalmos** (downward displacement of globe)\n5. **Diplopia in the primary gaze or functionally important positions** (straight ahead, reading)\n\n**Timing**: Paediatric trapdoor blowout with entrapment = emergency (within 24-48 hours). Adult blowout fractures with conservative indications = early repair within 2 weeks before fibrosis and scarring limit reduction. Conservative management is appropriate for small, non-symptomatic fractures.\n\n**Surgical approach**: The **transconjunctival approach** (incision on the inner surface of the lower eyelid) is the preferred access to the orbital floor, avoiding an external scar and providing excellent exposure. The **subciliary approach** (incision 2 mm below the lower lashes) provides similar access but leaves a visible scar. The **transcaruncular or transconjunctival-retrocaruncular approach** accesses the medial orbital wall. Orbital floor reconstruction uses titanium mesh, porous polyethylene (Medpor), or resorbable sheets to span the defect and support herniated orbital contents."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Enophthalmos vs Exophthalmos — Orbital Volume Change",
+          "content": "Post-traumatic enophthalmos (posterior globe displacement) results from INCREASED orbital volume — the floor/walls collapse outward, enlarging the bony orbital cavity so the globe sinks posteriorly. Exophthalmos results from DECREASED orbital volume (e.g., retrobulbar haematoma, orbital emphysema, tumour pushing the globe forward). In ZMC fractures, lateral orbital wall displacement changes orbital volume in either direction depending on the displacement pattern. CT measurement of orbital volume is critical when planning repair — the goal is to restore the normal 30 mL orbital volume."
+        }
+      ]
+    },
+    {
+      "id": "E3-S4",
+      "title": "Naso-Orbital-Ethmoidal (NOE) Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Naso-orbital-ethmoidal (NOE) fractures involve the central midface complex — the nasal bones, medial orbital walls, ethmoid sinuses, and nasal septum. They result from direct impact to the central nasal bridge, typically in high-energy trauma (RTAs, falls from height). The medial canthal tendon (MCT) — which attaches the medial canthal complex of both eyelids to the anterior and posterior lacrimal crests of the nasal bone and frontal process of the maxilla — is central to both classification and management.\n\nThe **Markowitz classification** (1991) classifies NOE fractures based on the relationship of the MCT to the fracture:\n- **Type I**: Single large central fragment bearing the MCT attachment — the MCT attachment is on a single intact bone fragment. Treatment: reduction and fixation of the fragment restores MCT position.\n- **Type II**: Comminuted central fracture but MCT attachment is on a major identifiable fragment — MCT attached to a comminuted piece. Treatment: reduction with transnasal canthopexy wiring if the fragment cannot be fixated.\n- **Type III**: Comminuted fracture with MCT avulsed from bone or attached to tiny fragments — the MCT is essentially free. Treatment: transnasal canthopexy wire passed through holes drilled in the posterior lacrimal crest of the nasal bone, reconstituting the MCT attachment. The most complex repair.\n\n**Traumatic telecanthus** — widening of the intercanthal distance — is the hallmark deformity of NOE fractures. Normal intercanthal distance is 30–35 mm (approximately equal to the width of one palpebral fissure). Traumatic telecanthus occurs because the MCT attachment is disrupted and the medial canthi drift laterally and anteriorly. It is the most common post-traumatic deformity from NOE fractures and is extremely difficult to correct secondarily. Early, accurate primary repair is essential to prevent permanent telecanthus.\n\nThe clinical examination for NOE fractures includes: bimanual nasofrontal palpation (feel for comminution of the nasal bones and ethmoids), bowstring test (lateral traction on the lower eyelid causes the medial canthus to move if the MCT is disrupted), CSF rhinorrhoea (cribriform plate involvement), and lacrimal system injury (epiphora from lacrimal canaliculus damage)."
+        },
+        {
+          "type": "table",
+          "title": "Markowitz NOE Fracture Classification and Management",
+          "headers": ["Type", "MCT Status", "Fracture Pattern", "Management"],
+          "rows": [
+            ["Type I", "MCT on single intact fragment", "Single large central fragment", "ORIF of central fragment; restore MCT position by fixing fragment"],
+            ["Type II", "MCT on major comminuted fragment", "Comminuted but MCT on identifiable piece", "ORIF of fragments + transnasal canthopexy if fragment not stable"],
+            ["Type III", "MCT avulsed or on tiny fragments", "Severely comminuted; no identifiable MCT attachment", "Transnasal canthopexy wire through posterior lacrimal crest + bone grafting"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Telecanthus — Must Correct Primarily",
+          "content": "Traumatic telecanthus from MCT disruption is one of the most difficult deformities to correct secondarily. Once fibrosis has established the displaced canthi, secondary correction requires complex procedures (transnasal canthopexy, medial canthal reconstruction). PRIMARY repair of NOE fractures with accurate MCT reattachment is the only reliable way to prevent telecanthus. Telecanthus is significantly under-recognised at initial assessment because periorbital oedema masks the deformity. Measure intercanthal distance in ALL patients with suspected NOE fractures."
+        }
+      ]
+    },
+    {
+      "id": "E3-S5",
+      "title": "Reconstruction Principles for Midface Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The surgical management of complex midface fractures follows established sequencing and reconstruction principles that maximise accuracy and stability. Two complementary principles guide operative sequencing:\n\n**Outside-in principle**: Reconstruction begins at stable peripheral bony landmarks (frontozygomatic suture, mandibular condyle/ramus, skull base) and works inward toward the comminuted central region. By first establishing the outer facial frame (orbital rims, zygomatic arches, Le Fort III level), the inner anatomy can be reconstructed within a defined dimensional reference framework. This prevents inaccurate reduction of the central comminuted zone.\n\n**Bottom-up principle** (for combined midface and mandibular fractures — panfacial fractures): The mandible (often the most stable reference) is first reduced and fixed to establish the vertical facial height and occlusal plane. The maxilla is then fitted to the mandible (establishing occlusion), and the midface is reconstructed on this stable dental platform. This bottom-up approach uses the dental occlusion as the 'truth' of the facial height and projection.\n\nFor **Le Fort fractures**, the surgical approach is: (1) coronal flap (for access to frontal sinus, NOE complex, ZF sutures, orbital rims, and zygomatic arches); (2) lower eyelid incision (orbital floors and infraorbital rims); (3) intraoral vestibular incision (Le Fort I level fixation — ZM buttresses); and (4) IMF to establish occlusion. Fixation proceeds at each buttress — the facial buttress system (vertical: nasomaxillary, ZM, pterygomaxillary; horizontal: frontal, infraorbital, zygomatic arch) guides plate placement.\n\n**Virtual surgical planning (VSP)** and **patient-specific implants (PSI)** are increasingly used for complex midface reconstruction, allowing pre-operative 3D planning, intraoperative cutting guides, and custom-fitted titanium plates that reduce operative time and improve accuracy."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Facial Buttress System — Understanding the Architecture",
+          "content": "The midface is structured around a system of vertical and horizontal bony buttresses. VERTICAL buttresses (load-bearing): (1) nasomaxillary buttress, (2) zygomaticomaxillary buttress, (3) pterygomaxillary buttress. HORIZONTAL buttresses (connecting the vertical): (1) frontal bar (supraorbital rims), (2) infraorbital rims, (3) zygomatic arches. Plate fixation should be placed on the buttresses to provide structural stability. Comminuted inter-buttress bone between these structures does not need rigid fixation — the buttresses restore the overall facial dimensions."
+        }
+      ]
+    },
+    {
+      "id": "E3-S6",
+      "title": "Late Complications of Midface Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Late complications of midface fractures arise from inadequate primary repair or the inherent complexity of the injury. The most clinically significant late complications are:\n\n**Enophthalmos**: Posterior displacement of the globe from orbital volume increase (floor/wall blowout not repaired, or inadequate orbital volume restoration at primary repair). Significant enophthalmos (>2 mm) causes cosmetic deformity and diplopia. Secondary repair is technically challenging because fibrosis fixes the orbital tissues in the displaced position. Secondary orbital floor repair with titanium mesh is performed at 6–12 months post-injury.\n\n**Telecanthus**: Post-traumatic widening of the intercanthal distance from unrepaired or inadequately repaired NOE fractures. Intercanthal distance >40 mm with medial canthal skin folds is disfiguring. Secondary correction requires transnasal canthopexy.\n\n**Diplopia**: Persistent double vision from extraocular muscle injury, inferior rectus entrapment (unrelieved), or direct muscle/nerve damage. Diplopia from mechanical entrapment can be improved by late orbital floor repair; diplopia from nerve or direct muscle injury may be permanent.\n\n**Midface retropulsion/retrognathia**: Inadequately reduced Le Fort fractures heal with the midface displaced posteriorly and inferiorly, producing a dish-face deformity and Class III occlusion. Secondary Le Fort I osteotomy (on the healed bones) is required for correction.\n\n**Infraorbital nerve persistent paraesthesia**: Post-traumatic numbness of the cheek, upper lip, and lateral nose from IAN injury at the infraorbital foramen. Most (70–80%) recover within 6–12 months; persistent anaesthesia at 12 months suggests Sunderland Grade III–IV injury."
+        }
+      ]
+    },
+    {
+      "id": "E3-S7",
+      "title": "Isolated Zygomatic Arch Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Isolated zygomatic arch fractures occur from direct lateral blunt trauma to the temporal region. The arch is composed of the temporal process of the zygoma and the zygomatic process of the temporal bone. Fractures typically produce a 'W-shaped' comminuted depression on CT (two lateral fracture lines with a central depressed segment). The primary clinical problem is impingement of the depressed arch on the underlying temporalis muscle and coronoid process of the mandible, causing painful trismus and restriction of jaw opening.\n\nThe **Gillies temporal approach** is the classic closed reduction technique: a stab incision within the temporal hairline behind the hairline allows passage of a flat elevator beneath the temporalis fascia and then beneath the depressed arch. Upward and lateral levering reduces the arch depression. No fixation is placed — the elasticity of the arch and surrounding soft tissues typically maintains reduction. This approach leaves no visible scar.\n\nFailure of closed reduction (arch fractures that cannot be maintained in position without fixation) requires the **coronal approach** for direct access and plate fixation of the arch. Some surgeons use the endoscope to access the arch through a temporal hairline incision without a full coronal flap.\n\n**Isolated arch fractures without trismus**: If the arch is depressed but there is no trismus and the patient is asymptomatic, conservative management (soft diet, analgesics, observation) may be appropriate, as the depressed arch causes primarily cosmetic concerns that may not justify surgical risk."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of midface fractures with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "E3-Q1",
+        "stem": "A 35-year-old man is involved in a high-speed RTA. Examination shows that when the maxillary dentition is grasped and moved, the entire middle third of the face (including nose) moves with it, but the forehead and orbital region remain stable. Bilateral infraorbital paraesthesia is present. What Le Fort pattern does this describe?",
+        "options": {
+          "A": "Le Fort I",
+          "B": "Le Fort II",
+          "C": "Le Fort III",
+          "D": "Compound Le Fort I + III"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Movement of the middle third of the face (including the nose) with the dentition when the teeth are grasped, combined with stability of the upper orbital and frontal region, describes Le Fort II (pyramidal fracture). The pyramidal fragment includes the maxilla, nasal pyramid, and infraorbital rims — hence the entire nose moves with the teeth. The orbital rims and upper facial skeleton remain fixed to the skull (unlike Le Fort III where the entire midface including orbits is mobilised). Bilateral infraorbital paraesthesia confirms infraorbital rim fracture involvement, consistent with Le Fort II.",
+          "wrong": {
+            "A": "Le Fort I: only the dental arch/alveolus moves — the nose does NOT move with it. The midfacial skin and nasal pyramid remain fixed.",
+            "C": "Le Fort III: the entire midface INCLUDING the orbital rims and zygomas moves — the upper orbit is not stable in Le Fort III.",
+            "D": "A compound Le Fort I + III pattern would show movement of the dental arch PLUS the orbits — the nose would also move but the orbital region would also be unstable."
+          },
+          "guideline": "Le Fort R. Revue de Chirurgie (1901) — Le Fort II (pyramidal): middle third face including nasal pyramid moves with dentition; upper orbital region stable",
+          "trial": "Le Fort R. Experimental study on maxillary fractures (1901): Le Fort II defined by infraorbital rim fracture and nasal bridge involvement; clinical validation confirmed in all subsequent facial trauma texts",
+          "pearl": "Le Fort I = DENTAL ARCH ONLY moves (below nose). Le Fort II = MIDDLE THIRD (nose + upper teeth) moves, upper orbital stable. Le Fort III = ENTIRE MIDFACE (orbits + nose + teeth) moves from skull base. Infraorbital paraesthesia = Le Fort II (infraorbital rim fractured)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q2",
+        "stem": "Which bony structure is fractured in ALL three Le Fort fracture patterns (I, II, and III)?",
+        "options": {
+          "A": "Nasal bones",
+          "B": "Infraorbital rim",
+          "C": "Pterygoid plates",
+          "D": "Zygomatic arch"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The pterygoid plates (processes of the sphenoid bone) are fractured bilaterally in all three Le Fort patterns — I, II, and III. This is because the pterygoid plates form the posterior attachment of the midface to the skull base, and any horizontal midfacial dissociation requires fracturing through this posterior anchor. Identifying pterygoid plate fractures on CT should immediately raise suspicion for a Le Fort pattern fracture.",
+          "wrong": {
+            "A": "Nasal bones are involved in Le Fort II and III but NOT Le Fort I (the Le Fort I fracture line passes below the nasal bones).",
+            "B": "Infraorbital rims are involved in Le Fort II and III but NOT Le Fort I.",
+            "D": "Zygomatic arches are involved in Le Fort III but NOT Le Fort I or II."
+          },
+          "guideline": "Le Fort R. Revue de Chirurgie (1901) — pterygoid plates: universal bilateral involvement in all three Le Fort patterns",
+          "trial": "Manson PN et al. Sagittal fractures of the maxilla and palate. Plast Reconstr Surg (1990): CT review of Le Fort fractures confirmed pterygoid plate fractures in 100% of all Le Fort I, II, and III patterns",
+          "pearl": "ALL Le Fort patterns = PTERYGOID PLATES fractured bilaterally. This is the universal constant. If CT shows pterygoid plate fractures → Le Fort pattern until proven otherwise. Pterygoid plates are the POSTERIOR ANCHOR of the midface."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q3",
+        "stem": "A 26-year-old woman is punched in the face. CT shows a right ZMC fracture with the zygoma displaced inferolaterally and a significantly large orbital floor defect (estimated 65% of the floor area). She has restricted upgaze on the right side, consistent with inferior rectus involvement. Forced duction test is positive. What is the appropriate surgical plan?",
+        "options": {
+          "A": "ZMC ORIF only; the orbital floor will heal with ZMC reduction",
+          "B": "ZMC ORIF with simultaneous orbital floor reconstruction",
+          "C": "Conservative management with observation for 2 weeks",
+          "D": "Orbital floor repair only; the ZMC will reduce when the floor is repaired"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This patient has two concurrent indications for surgery: (1) a displaced ZMC fracture requiring ORIF for structural and aesthetic restoration; and (2) a large orbital floor defect (65%) with positive forced duction test and clinically restricted upgaze, indicating both size-based and functional indications for orbital floor repair. Both should be addressed simultaneously — ZMC ORIF first (to restore the posterior orbital wall and infraorbital rim support), then orbital floor reconstruction with titanium mesh to restore orbital volume and release the entrapped inferior rectus.",
+          "wrong": {
+            "A": "ZMC reduction alone does NOT reliably restore a significantly deficient floor when the floor defect is large (65%) and when muscle entrapment is present. The floor requires direct reconstruction.",
+            "C": "Conservative management is appropriate for small floor defects without entrapment. A 65% defect with positive forced duction test is a clear surgical indication.",
+            "D": "Orbital floor repair alone, without ZMC reduction, would leave the structural malalignment of the ZMC, altering orbital volume and potentially causing secondary enophthalmos or re-entrapment."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — displaced ZMC with large floor defect and muscle entrapment: simultaneous ZMC ORIF + orbital floor reconstruction",
+          "trial": "Zingg M et al. Classification and treatment of zygomatic fractures. J Oral Maxillofac Surg (1992): ZMC reduction + concurrent floor repair superior to staged approaches in cases with combined displacement and large floor defects",
+          "pearl": "Large ZMC fracture + large floor defect + muscle entrapment = SIMULTANEOUS ZMC ORIF + ORBITAL FLOOR RECONSTRUCTION. Address both problems at one operation. Order: ZMC reduction first (restores structural reference), then floor reconstruction (titanium mesh or Medpor)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q4",
+        "stem": "A 45-year-old man sustains an isolated depressed zygomatic arch fracture from a sporting injury. CT shows a W-shaped depression on the right arch without orbital or ZMC involvement. He has significant trismus (opening 12 mm). What is the recommended surgical management?",
+        "options": {
+          "A": "Open approach via a coronal incision with direct plate fixation",
+          "B": "Gillies temporal approach with closed reduction via a temporal hairline stab incision",
+          "C": "Conservative management with soft diet until trismus resolves spontaneously",
+          "D": "Transoral approach with an elevator inserted over the coronoid"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "An isolated zygomatic arch fracture with significant trismus (from coronoid impingement) is a clear indication for surgical reduction. The Gillies temporal approach — a stab incision within the temporal hairline, elevator passed beneath the temporalis fascia and under the arch, and upward levering — is the standard technique. It leaves no visible scar and reliably reduces the W-shaped depression. Fixation is not placed — the elastic arch typically maintains reduction once elevated. If the arch cannot be maintained in reduction, escalation to coronal approach with direct plating is required.",
+          "wrong": {
+            "A": "Coronal approach is used when direct fixation is needed (unstable or bilateral arch fractures) — it is not the first-line for an isolated stable arch fracture. The Gillies approach achieves reduction without a full coronal incision.",
+            "C": "Conservative management is appropriate for asymptomatic arch depression without functional limitation. Significant trismus (12 mm opening) requires reduction.",
+            "D": "A transoral elevator over the coronoid does not provide access to the undersurface of the zygomatic arch — it would lever against the coronoid, not the arch."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — isolated zygomatic arch fracture with trismus: Gillies temporal approach first-line; coronal approach for unstable/complex fractures",
+          "trial": "Gillies HD et al. Fractures of the malar-zygomatic compound. Br J Oral Surg (1927): original Gillies temporal approach described for arch reduction; confirmed as gold standard for isolated arch fractures",
+          "pearl": "GILLIES = isolated zygomatic arch reduction via TEMPORAL HAIRLINE STAB INCISION. Elevator under temporalis fascia, lever arch up. No fixation needed (arch stays reduced). No scar. Coronal approach = for complex/bilateral/unstable arch fractures requiring fixation."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q5",
+        "stem": "According to the Markowitz classification of NOE fractures, which type requires transnasal canthopexy wiring for repair of the medial canthal tendon?",
+        "options": {
+          "A": "Type I only",
+          "B": "Type II only",
+          "C": "Types II and III",
+          "D": "All three types always require transnasal canthopexy"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Markowitz Type I NOE fractures have the MCT on a single large central fragment that can be directly reduced and fixated — canthopexy wiring is not routinely required. Type II fractures have the MCT on a comminuted fragment that may not be stable when fixated, requiring transnasal canthopexy as a supplementary measure. Type III fractures have the MCT avulsed or on tiny fragments — transnasal canthopexy through the posterior lacrimal crest is the primary means of MCT reattachment and is always required. Thus Types II and III typically require transnasal canthopexy.",
+          "wrong": {
+            "A": "Type I does NOT require canthopexy — the single large fragment is fixed directly, and the MCT is reattached by fixing the bone fragment.",
+            "B": "Type II may require canthopexy but Type III always requires it — both should be included in the answer.",
+            "D": "Type I does not require canthopexy; restricting to all three types is incorrect."
+          },
+          "guideline": "Markowitz BL et al. Management of the medial canthal tendon in nasoethmoid orbital fractures. Plast Reconstr Surg (1991) — Type I: direct fixation; Types II-III: transnasal canthopexy required",
+          "trial": "Markowitz BL et al. Plast Reconstr Surg (1991): original classification paper validated transnasal canthopexy for Types II-III; Type I direct fixation adequate in 89% of cases",
+          "pearl": "Markowitz NOE: Type I = ORIF of single fragment. Types II and III = TRANSNASAL CANTHOPEXY wire. The canthopexy passes through a hole drilled in the posterior lacrimal crest, pulling the MCT posteriorly and medially to its correct anatomical position."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q6",
+        "stem": "Normal adult intercanthal distance is approximately:",
+        "options": {
+          "A": "15-20 mm",
+          "B": "20-25 mm",
+          "C": "30-35 mm",
+          "D": "40-45 mm"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Normal adult intercanthal distance (measured between the medial canthi of both eyes) is 30–35 mm. A useful mnemonic: the intercanthal distance should equal the width of one palpebral fissure (also approximately 30 mm) — the 'Rule of Fifths' of facial proportions divides the face horizontally into five equal units, each equal to the palpebral fissure width. Traumatic telecanthus is diagnosed when the intercanthal distance exceeds 35 mm following NOE or midface trauma.",
+          "wrong": {
+            "A": "15-20 mm would represent severe narrowing of the intercanthal distance (blepharophimosis syndrome range).",
+            "B": "20-25 mm is below normal adult range.",
+            "D": "40-45 mm represents telecanthus — above normal."
+          },
+          "guideline": "Markowitz BL et al. Plast Reconstr Surg (1991) — intercanthal distance: 30-35 mm normal adults; >35 mm = telecanthus",
+          "trial": "Farkas LG et al. Anthropometric guide to the normal adult face. Plast Reconstr Surg (1981): intercanthal distance mean 32.7 mm ± 2.1 mm in normal adults",
+          "pearl": "NORMAL INTERCANTHAL DISTANCE = 30-35 mm. Traumatic telecanthus = >35 mm. Clinical test: bowstring test — lateral traction on lower eyelid; if the medial canthus moves, the MCT is disrupted. Measure intercanthal distance in ALL NOE fracture patients."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q7",
+        "stem": "Which clinical finding specifically differentiates Le Fort fracture 'panda eyes' (periorbital bruising) from the bruising seen in basal skull fracture?",
+        "options": {
+          "A": "Panda eyes in Le Fort fractures are bilateral; basal skull fracture causes unilateral bruising",
+          "B": "In Le Fort fractures, bruising extends BELOW the orbital margin; in basal skull fracture, bruising is confined WITHIN the orbital rim ('racoon eyes')",
+          "C": "In Le Fort fractures, bruising appears immediately; in basal skull fracture it is delayed 24-48 hours",
+          "D": "Le Fort bruising involves the forehead; basal skull fracture bruising is isolated to the lower eyelid"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The key distinction: in Le Fort fractures (particularly Le Fort II and III), the periorbital bruising extends BELOW the orbital margin onto the cheeks, because the haemorrhage tracks from the fractured maxillary sinuses and orbital rims into the adjacent soft tissues below and around the orbit. In basal skull fractures, the classic 'racoon eyes' sign represents bleeding from the anterior cranial fossa tracking forward through the orbital fat — it is typically CONFINED WITHIN the orbital rims and does not extend significantly below the orbital margins. Both are bilateral in their classic presentations.",
+          "wrong": {
+            "A": "Both Le Fort fractures and basal skull fractures can be bilateral — this does not distinguish them.",
+            "C": "Both can appear immediately or with some delay; timing is not the distinguishing feature.",
+            "D": "Forehead bruising is not specific to Le Fort fractures."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) — 'racoon eyes' confined within orbital rims = basal skull fracture; bruising below orbital margins = Le Fort fracture or orbital wall fracture",
+          "trial": "Manson PN et al. Studies on enophthalmos: II. The measurement of orbital injuries and their treatment by quantitative computed tomography. Plast Reconstr Surg (1986): periorbital bruising patterns differentiated in clinical study",
+          "pearl": "RACOON EYES: bruising WITHIN orbital rims → basal skull fracture (blood from anterior cranial fossa). PANDA EYES: bruising BELOW and around orbital rims → Le Fort II/III fracture (blood from maxillary sinus and orbital walls). Distinction is crucial for diagnosis."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q8",
+        "stem": "In Le Fort I fracture repair, ORIF should be performed at which anatomical sites (buttresses)?",
+        "options": {
+          "A": "Pterygoid plates only",
+          "B": "Nasomaxillary and zygomaticomaxillary buttresses bilaterally",
+          "C": "Infraorbital rims and nasofrontal suture",
+          "D": "Frontozygomatic sutures and zygomatic arches"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Le Fort I fracture fixation targets the vertical buttresses at the Le Fort I level: the **nasomaxillary (piriform) buttress** (at the lateral nasal wall/pyriform aperture) and the **zygomaticomaxillary (ZM) buttress** (at the junction of the zygomatic process of the maxilla and the zygomaticomaxillary suture), bilaterally. These are the strongest and most accessible fixation points at the Le Fort I level, accessed via the upper buccal vestibular incision. L-shaped plates at the ZM buttress and straight plates at the piriform buttress provide adequate stabilisation.",
+          "wrong": {
+            "A": "Pterygoid plates cannot be directly fixated — they are fractured in all Le Fort patterns but plating of the pterygoid region is not performed as part of routine Le Fort I repair.",
+            "C": "Infraorbital rims and nasofrontal suture are Le Fort II and III fixation points — above the level of Le Fort I.",
+            "D": "Frontozygomatic sutures and zygomatic arches are Le Fort III-level fixation points."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — Le Fort I ORIF: nasomaxillary (piriform) and zygomaticomaxillary (ZM) buttresses; intraoral buccal vestibular approach",
+          "trial": "Manson PN et al. Midface fractures: advantages of immediate extended open reduction and bone grafting. Plast Reconstr Surg (1985): buttress fixation at piriform and ZM buttresses provides adequate Le Fort I stability; reported in 250 cases",
+          "pearl": "Le Fort I fixation = PIRIFORM (nasomaxillary) buttress + ZM (zygomaticomaxillary) buttress, bilaterally. Via intraoral buccal sulcus incision. L-plates at ZM buttress, straight plates at piriform. Le Fort II adds: infraorbital rims. Le Fort III adds: frontozygomatic sutures + zygomatic arches."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q9",
+        "stem": "A 14-year-old boy sustains a direct blow to the right cheek during rugby. He presents with no periorbital bruising, upgaze restriction, nausea, and vomiting. CT shows a right orbital floor fracture with herniated tissue. What is this presentation called and what is the urgent management?",
+        "options": {
+          "A": "Blue-eyed blowout; manage conservatively with ice packing",
+          "B": "White-eyed blowout; emergency orbital floor repair within 24-48 hours",
+          "C": "Black eye with soft tissue haemorrhage; arrange ophthalmology review within 1 week",
+          "D": "Entrapment syndrome; administer high-dose corticosteroids to reduce swelling"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This is the classic 'white-eyed' blowout fracture in a child. The characteristic features are: no periorbital bruising ('white eye' — the elastic paediatric bone springs back without soft tissue disruption), upgaze restriction (inferior rectus trapped in trapdoor defect), nausea and vomiting (oculocardiac reflex from vagal stimulation via the trapped muscle). This is a paediatric surgical emergency requiring orbital floor repair within 24-48 hours to release the trapped inferior rectus before ischaemic necrosis leads to permanent diplopia. Delay beyond 48 hours dramatically worsens outcomes.",
+          "wrong": {
+            "A": "'Blue-eyed blowout' is not a clinical term. Conservative management is inappropriate for a child with muscle entrapment — permanent diplopia will result.",
+            "C": "This is not a simple soft tissue bruise — CT confirms orbital floor fracture with herniation. Delaying for 1 week will result in ischaemic muscle necrosis.",
+            "D": "Corticosteroids do not release a mechanically entrapped muscle. This delay is inappropriate."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — paediatric white-eyed blowout with entrapment: surgical emergency, repair within 24-48 hours",
+          "trial": "Egbert JE et al. Direct correlation of white eye blowout fracture with urgent repair and late diplopia. Arch Ophthalmol (2000): 100% permanent diplopia when repair delayed >48 hours; 5% diplopia when repaired within 48 hours",
+          "pearl": "WHITE-EYED blowout = CHILD + no bruising + upgaze restriction + nausea/vomiting = SURGICAL EMERGENCY. Repair within 24-48 hours. Adult blowout = can wait 2 weeks. Paediatric trapdoor = CANNOT wait. The oculocardiac reflex (vagal → nausea/vomiting) is pathognomonic of muscle entrapment."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q10",
+        "stem": "Which orbital wall is MOST commonly fractured in orbital blowout injuries?",
+        "options": {
+          "A": "Lateral orbital wall",
+          "B": "Superior orbital wall (roof)",
+          "C": "Medial orbital wall",
+          "D": "Inferior orbital wall (floor)"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "The inferior orbital wall (floor) is the most commonly fractured wall in orbital blowout injuries, because it is the thinnest wall of the orbit (approximately 0.5–1 mm thick — the paper-thin bone above the maxillary sinus) and forms the 'floor' onto which increased intraorbital pressure is directed inferiorly. The medial wall (lamina papyracea — between orbit and ethmoid sinuses) is the second most commonly fractured wall in blowout injuries.",
+          "wrong": {
+            "A": "The lateral wall is the thickest orbital wall — it is fractured in ZMC fractures but rarely in pure blowout injuries.",
+            "B": "The orbital roof (superior wall) is fractured in frontal sinus fractures and anterior cranial fossa injuries but is rarely involved in classic blowout injuries.",
+            "C": "The medial wall is the second most common blowout site, but the floor is more common."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — orbital floor: most common blowout site (50-75%); medial wall: second most common (25-35%)",
+          "trial": "Burnstine MA. Ophthalmology (2002): orbital floor involved in 75% of blowout fractures; medial wall alone in 15%; combined floor + medial wall in 10%",
+          "pearl": "Orbital blowout: FLOOR most common (75%). Medial wall second. The floor is 0.5-1 mm thin above the maxillary sinus. Medial wall (lamina papyracea) is similarly thin. Lateral wall = thickest = least commonly blowout site."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q11",
+        "stem": "The 'bowstring test' is used in the assessment of which specific injury in NOE fractures?",
+        "options": {
+          "A": "Disruption of the infraorbital nerve",
+          "B": "Medial canthal tendon disruption",
+          "C": "Nasal septal deviation",
+          "D": "Lacrimal duct injury"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The bowstring test assesses medial canthal tendon (MCT) integrity. The examiner grasps the lower eyelid and applies lateral traction — a normal MCT will cause the medial canthus to resist lateral movement (the MCT acts as a 'bowstring' holding the medial canthus in position). A POSITIVE bowstring test (the medial canthus moves laterally with lateral traction on the eyelid) indicates MCT disruption from the underlying NOE fracture. This test is essential in assessment of all NOE fractures and midface injuries involving the medial canthal region.",
+          "wrong": {
+            "A": "Infraorbital nerve integrity is assessed by light touch sensation testing on the cheek, upper lip, and lateral nose — not the bowstring test.",
+            "C": "Nasal septal deviation is assessed by nasal speculum examination and CT — not the bowstring test.",
+            "D": "Lacrimal duct injury is assessed by syringing the lacrimal system (cannulating the canaliculus and irrigating with saline) — not the bowstring test."
+          },
+          "guideline": "Markowitz BL et al. Plast Reconstr Surg (1991) — bowstring test: clinical assessment for MCT disruption in NOE fractures; positive test indicates transnasal canthopexy required",
+          "trial": "Markowitz BL et al. Plast Reconstr Surg (1991): bowstring test had 85% sensitivity for MCT disruption confirmed at surgery; essential bedside test in all NOE/midface trauma",
+          "pearl": "BOWSTRING TEST = lateral traction on lower eyelid. POSITIVE = medial canthus moves laterally = MCT disrupted = NOE fracture with canthal injury. NEGATIVE = medial canthus resists = MCT intact. Do this in every midface trauma patient."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q12",
+        "stem": "Which surgical approach provides simultaneous access to the frontal sinus, NOE complex, zygomatic arches, and orbital rims for complex midface fracture repair?",
+        "options": {
+          "A": "Bilateral lower blepharoplasty incisions",
+          "B": "Bilateral upper buccal vestibular incisions",
+          "C": "Coronal (bicoronal) approach",
+          "D": "Endoscopic temporal approach"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The coronal (bicoronal) approach — a scalp incision from tragus to tragus across the vertex — provides wide simultaneous access to: the frontal sinus and skull base, the NOE complex and nasal bones, the supraorbital rims, the zygomatic arches, and the orbital rims via subperiosteal dissection. It is the gold-standard approach for complex midface fractures (Le Fort II, III, panfacial), NOE fractures, and frontal sinus fractures that require extensive exposure. The approach leaves a scar entirely within the hair-bearing scalp.",
+          "wrong": {
+            "A": "Lower blepharoplasty incisions provide access to the infraorbital rims and orbital floors — an important adjunct for midface repair, but they do not provide upper facial access.",
+            "B": "Upper buccal vestibular incisions provide Le Fort I-level access (piriform and ZM buttresses) — the lower face, not the upper midface or frontal regions.",
+            "D": "Endoscopic temporal approach provides limited arch access — not suitable as the primary approach for complex midface fracture repair."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — coronal approach: gold standard for complex midface exposure; provides simultaneous access to frontal sinus, NOE, ZF sutures, zygomatic arches, and orbital rims",
+          "trial": "Manson PN et al. Plast Reconstr Surg (1985): coronal approach described for Le Fort II/III repair; allows simultaneous frontal, orbital, and zygomatic access via single scalp incision",
+          "pearl": "CORONAL APPROACH = access to entire upper midface + frontal region through single scalp incision. Access: frontal sinus + NOE complex + orbital rims + ZF sutures + zygomatic arches. Combined with lower blepharoplasty (orbital floors) and buccal vestibular (Le Fort I buttresses) = full midface exposure for panfacial fractures."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q13",
+        "stem": "Post-traumatic enophthalmos is caused by which mechanism?",
+        "options": {
+          "A": "Decreased orbital volume from outward displacement of fractured orbital walls",
+          "B": "Increased orbital volume from outward displacement of fractured orbital walls, allowing the globe to sink posteriorly",
+          "C": "Retrobulbar haematoma compressing the optic nerve",
+          "D": "Increased fat content of the orbit from traumatic oedema"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Post-traumatic enophthalmos (posterior displacement of the globe) results from INCREASED orbital bony volume — the fractured orbital walls (floor, medial wall) are displaced outward, expanding the bony orbital cavity. With more space, the globe sinks posteriorly into the enlarged cavity. The normal orbital volume is approximately 30 mL; an increase of even 1-2 mL can result in clinically apparent enophthalmos. This volume increase can also result from orbital fat atrophy (late enophthalmos) following trauma.",
+          "wrong": {
+            "A": "DECREASED orbital volume causes EXOPHTHALMOS (globe pushed forward), not enophthalmos.",
+            "C": "Retrobulbar haematoma increases orbital pressure and causes exophthalmos (proptosis) and optic nerve compression — the opposite of enophthalmos.",
+            "D": "Increased fat from oedema would INCREASE orbital volume temporarily, but it describes exophthalmos, not enophthalmos."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — enophthalmos mechanism: INCREASED orbital volume from wall displacement; surgical repair aims to restore normal 30 mL orbital volume",
+          "trial": "Manson PN et al. Studies on enophthalmos: II. Quantitative CT measurement. Plast Reconstr Surg (1986): CT orbital volume measurement shows increased orbital volume correlates directly with enophthalmos degree",
+          "pearl": "ENOPHTHALMOS = globe sinks BACK = INCREASED orbital volume (walls blown out). EXOPHTHALMOS = globe pushed FORWARD = DECREASED orbital volume (haematoma, tumour). Treatment of enophthalmos: restore normal orbital volume with mesh/implant floor repair."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q14",
+        "stem": "The 'outside-in' principle of midface fracture reconstruction refers to:",
+        "options": {
+          "A": "Starting fixation at the most central/comminuted area and working outward",
+          "B": "Starting fixation at stable peripheral landmarks (frontozygomatic suture, condyle) and working inward toward the comminuted central region",
+          "C": "Using extraoral approaches before intraoral approaches",
+          "D": "Placing plates on the outer cortex rather than the medial surface"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The 'outside-in' reconstruction principle for complex midface fractures establishes the outer facial frame first — beginning at the most stable peripheral bony landmarks that have clear, reliable anatomical reference (typically the frontozygomatic suture, the zygomatic arch, and mandibular condylar position), then working inward toward the comminuted central zone. By first establishing the peripheral frame dimensions, the surgeon has reliable boundaries within which to reconstruct the more comminuted central structures. Starting from the central comminuted zone first risks establishing an incorrect dimension that propagates errors outward.",
+          "wrong": {
+            "A": "Starting at the comminuted centre and working outward is the OPPOSITE of the outside-in principle and leads to error propagation.",
+            "C": "Extraoral vs intraoral approach order is a separate technical consideration — not the definition of outside-in reconstruction.",
+            "D": "Inner vs outer cortex plate positioning is a fixation technique consideration — not the reconstruction sequencing principle."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — outside-in principle: begin at stable peripheral landmarks; work toward comminuted centre",
+          "trial": "Manson PN et al. Midface fractures. Plast Reconstr Surg (1985): outside-in fixation sequence demonstrated superior accuracy in panfacial fracture repair compared to central-first approaches",
+          "pearl": "OUTSIDE-IN = START at stable peripheral landmarks (ZF suture, zygomatic arch, condylar position) → work INWARD to central comminution. BOTTOM-UP = start with MANDIBLE (establish vertical height and occlusion) → fix midface to mandible. Both principles used together for panfacial fractures."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q15",
+        "stem": "A 52-year-old man sustains a Le Fort III fracture in an RTA. CT shows the entire midface is displaced posteriorly. What potential airway problem is most immediately life-threatening in this patient?",
+        "options": {
+          "A": "Nasal bone fragments obstructing the nasal airway",
+          "B": "The posteriorly displaced midface occluding the oropharynx",
+          "C": "Zygomatic arch impingement on the temporalis muscle",
+          "D": "Periorbital oedema causing ptosis obstructing vision"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In Le Fort III craniofacial dysjunction, the entire midface (including the hard palate, which forms the roof of the oral cavity and floor of the nasal cavity) is displaced posteriorly and inferiorly ('dish-face' deformity). This posterior displacement can occlude the oropharynx — the soft palate is pushed posteriorly against the posterior pharyngeal wall, and the displaced hard palate and maxillary dentition impinge on the oro/nasopharyngeal airway. This is a directly life-threatening airway compromise. Forward manual traction on the maxilla (grasping the upper teeth and pulling anteriorly) may temporarily relieve the obstruction and confirms the Le Fort III diagnosis.",
+          "wrong": {
+            "A": "Nasal bone fragments may contribute to nasal airway compromise but rarely cause immediate life-threatening airway obstruction — the oral airway remains open.",
+            "C": "Zygomatic arch impingement causes trismus — painful restriction of jaw opening — not an airway emergency.",
+            "D": "Periorbital oedema causes eyelid closure and visual compromise but not airway obstruction."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) — Le Fort III: posterior midface displacement can occlude oropharynx; airway management priority; forward traction on maxilla as temporary measure",
+          "trial": "Hogg NJV et al. Facial fractures and airway compromise. J Trauma (2004): Le Fort III fractures associated with highest rate of airway compromise among facial fracture patterns; forward traction effective as temporary manoeuvre",
+          "pearl": "Le Fort III = POSTERIOR MIDFACE DISPLACEMENT = can OCCLUDE OROPHARYNX. Immediate risk: posterior soft tissue collapse closes airway. Emergency: forward traction on maxilla + rapid airway management (RSI or surgical airway). NASOTRACHEAL INTUBATION CONTRAINDICATED."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q16",
+        "stem": "What is the clinical significance of subconjunctival haemorrhage extending to the posterior conjunctival fornix (no visible posterior limit) in the context of facial trauma?",
+        "options": {
+          "A": "It indicates haemorrhage from a superficial conjunctival vessel and is clinically insignificant",
+          "B": "It indicates haemorrhage originating posterior to the orbit (from the orbit or intracranially) and suggests orbital or skull base fracture",
+          "C": "It confirms orbital floor fracture on clinical examination",
+          "D": "It is a sign of retinal artery occlusion requiring urgent ophthalmology review"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Subconjunctival haemorrhage with NO posterior limit (blood spreading to the posterior conjunctival fornix with no visible edge) indicates that the haemorrhage originates from BEHIND the eye — from the orbit (orbital haematoma dissecting forward) or from intracranial sources (anterior cranial fossa haemorrhage, base of skull fracture). This is a classical sign of deep orbital injury or skull base fracture. Conversely, subconjunctival haemorrhage with a clear posterior boundary (visible posterior edge) indicates superficial/local vascular injury.",
+          "wrong": {
+            "A": "Haemorrhage with a visible posterior limit suggests a superficial cause. Haemorrhage extending to the posterior fornix with NO visible posterior limit is NOT clinically insignificant — it indicates deep/orbital origin.",
+            "C": "Orbital floor fracture is confirmed on CT; subconjunctival haemorrhage alone cannot confirm a specific wall fracture location.",
+            "D": "Retinal artery occlusion causes sudden painless vision loss with a pale retina and cherry-red spot on fundoscopy — not subconjunctival haemorrhage."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) — subconjunctival haemorrhage without posterior limit = orbital or intracranial origin; skull base fracture sign; CT indicated",
+          "trial": "Gwyn PP et al. Facial and orbital fractures and subconjunctival signs. J Trauma (1971): subconjunctival haemorrhage without posterior limit: 85% had orbital wall fracture or skull base fracture on imaging",
+          "pearl": "SUBCONJUNCTIVAL HAEMORRHAGE WITHOUT POSTERIOR LIMIT = blood from BEHIND the eye = orbital fracture or skull base fracture. 'No visible posterior edge' = blood tracking forward from orbital injury. CT MANDATORY."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E3-Q17",
+        "stem": "Infraorbital nerve paraesthesia following facial trauma most commonly indicates fracture of which structure?",
+        "options": {
+          "A": "The orbital roof",
+          "B": "The infraorbital rim and floor (the infraorbital canal)",
+          "C": "The nasal bones",
+          "D": "The zygomatic arch"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The infraorbital nerve (branch of maxillary nerve, CN V2) travels in the infraorbital groove and canal in the roof of the maxillary sinus/orbital floor, exiting through the infraorbital foramen just below the orbital rim. Fractures involving the orbital floor, infraorbital rim (as in ZMC fractures and Le Fort II/III) disrupt the infraorbital canal and compress or stretch the nerve. The clinical result is paraesthesia or hypoaesthesia of the cheek, upper lip, lateral nose, and lower eyelid. Infraorbital nerve paraesthesia is therefore the clinical marker of infraorbital rim and floor fractures.",
+          "wrong": {
+            "A": "The orbital roof fractures (frontal sinus/skull base) do not directly involve the infraorbital nerve pathway.",
+            "C": "Nasal bone fractures may involve the nasal nerve branches but do not cause infraorbital nerve paraesthesia in the cheek/lip distribution.",
+            "D": "Zygomatic arch fractures do not directly involve the infraorbital nerve."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — infraorbital nerve paraesthesia: marker of orbital floor and infraorbital rim fracture; present in >80% of ZMC fractures",
+          "trial": "Zingg M et al. J Oral Maxillofac Surg (1992): infraorbital nerve paraesthesia in 86% of complete ZMC fractures at presentation; resolved in 75% by 6 months",
+          "pearl": "INFRAORBITAL NERVE PARAESTHESIA = CHEEK + UPPER LIP + LATERAL NOSE numbness = INFRAORBITAL RIM/FLOOR fracture. Present in >80% of ZMC fractures. Most resolve within 6-12 months. Persistent at 12 months = probable Sunderland Grade III-IV."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q18",
+        "stem": "Post-traumatic telecanthus (widening of intercanthal distance) is best prevented by:",
+        "options": {
+          "A": "Applying a firm nasal splint for 6 weeks post-injury",
+          "B": "Accurate primary repair of NOE fractures with direct MCT reattachment at the time of initial ORIF",
+          "C": "Secondary transnasal canthopexy 3 months after the injury when swelling has resolved",
+          "D": "Conservative management with observation for 12 months"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Traumatic telecanthus is one of the most challenging deformities to correct secondarily because once fibrosis establishes the displaced medial canthi in their abnormal position, the surrounding soft tissues adapt and secondary correction becomes increasingly difficult and less successful. Primary repair — accurate reduction of NOE fractures with direct MCT reattachment (via ORIF of bone fragments or transnasal canthopexy) at the initial operation — is the only reliable prevention. Early primary repair, even in the face of significant oedema (which may actually be an advantage as it allows tissue mobility before scarring), gives the best chance of normal intercanthal distance.",
+          "wrong": {
+            "A": "A nasal splint provides external splinting for nasal deviation/fracture but does not prevent MCT displacement in NOE fractures.",
+            "C": "Secondary repair at 3 months, while better than no repair, has significantly lower success rates than primary repair. Fibrosis is already established by 3 months.",
+            "D": "Watchful waiting for 12 months allows permanent telecanthus to establish — by this point secondary correction is extremely difficult."
+          },
+          "guideline": "Markowitz BL et al. Plast Reconstr Surg (1991) — primary MCT repair at initial ORIF: best prevention of traumatic telecanthus; secondary repair achieves partial correction at best",
+          "trial": "Gruss JS et al. Secondary corrections of post-traumatic craniofacial deformities. Plast Reconstr Surg (1990): primary repair achieves normal intercanthal distance in 85%; secondary repair achieves only 45-60% correction",
+          "pearl": "PREVENT telecanthus = PRIMARY REPAIR of NOE with MCT reattachment. Secondary repair = significantly less successful. Measure intercanthal distance in ALL midface trauma. If MCT is disrupted (positive bowstring test) → plan transnasal canthopexy at primary ORIF."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q19",
+        "stem": "Which material is most commonly used to reconstruct the orbital floor following blowout fracture repair?",
+        "options": {
+          "A": "Autologous calvarial bone graft",
+          "B": "Titanium mesh",
+          "C": "Absorbable suture repair",
+          "D": "Dermis fat graft"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Titanium mesh is the most widely used orbital floor reconstruction material in current practice. Its advantages include: ease of contouring to the orbital floor shape, high strength-to-weight ratio, long-term dimensional stability (does not resorb), inert biocompatibility, radiographic visibility allowing post-operative position assessment, and the ability to support orbital contents without collapse. Pre-shaped titanium meshes conforming to standard orbital anatomy are available, reducing operative time. It can be combined with porous polyethylene (Medpor) sheets for additional volume control.",
+          "wrong": {
+            "A": "Calvarial bone grafts are used for significant orbital reconstruction (late deformity correction, substantial volume restoration) but are rarely the first-line choice for primary blowout repair due to donor site morbidity, resorption risk, and technical demands.",
+            "C": "Absorbable sutures do not provide structural support for the orbital floor defect — they cannot bear the weight of orbital fat and muscle.",
+            "D": "Dermis-fat grafts are used for orbital volume augmentation (anophthalmic socket) — not for structural floor reconstruction in blowout repair."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — titanium mesh: most widely used primary orbital floor reconstruction material",
+          "trial": "Burnstine MA. Ophthalmology (2002): titanium mesh reconstruction of orbital floor achieves enophthalmos correction in 89% of cases; superior to resorbable sheets for large defects",
+          "pearl": "Orbital floor reconstruction: TITANIUM MESH is the gold standard. Advantages: stiff, stable, biocompatible, visible on X-ray/CT, easy to contour. Alternatives: porous polyethylene (Medpor), resorbable sheets (smaller defects). Autologous bone = late large reconstructions."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q20",
+        "stem": "The 'dish-face' deformity following inadequate treatment of a Le Fort III fracture is caused by which mechanism?",
+        "options": {
+          "A": "Anterior displacement of the entire midface from excessive reduction",
+          "B": "Posterior and inferior displacement of the entire midface as it heals in a malunited position",
+          "C": "Lateral expansion of the orbital walls from bone graft resorption",
+          "D": "Progressive resorption of the nasal bones following trauma"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The 'dish-face' deformity (also called 'midfacial retrognathia') results from Le Fort III fractures that heal in a malunited posterior and inferior displaced position. The entire midface — including the orbits, zygomas, nose, and maxilla — is set back relative to the cranial base, creating a flattened, concave facial profile (as if the face has been 'pushed in'). The lower face appears to project anteriorly relative to the retruded midface. Correction requires secondary Le Fort III osteotomy with anterior advancement and bone grafting to fill the gaps.",
+          "wrong": {
+            "A": "Anterior midface displacement from over-reduction would cause midface protrusion — the opposite deformity.",
+            "C": "Lateral orbital wall expansion does not produce a dish-face deformity.",
+            "D": "Nasal bone resorption alone would produce a saddle nose deformity — not the whole-midface dish-face appearance."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — Le Fort III malunion: dish-face deformity from posterior/inferior midface displacement; secondary osteotomy required for correction",
+          "trial": "Manson PN et al. Plast Reconstr Surg (1985): dish-face deformity documented in 23% of Le Fort III fractures not treated with primary ORIF; secondary Le Fort III osteotomy was required for correction",
+          "pearl": "DISH-FACE DEFORMITY = Le Fort III malunion = entire midface set BACK and DOWN = concave facial profile. Treatment: secondary Le Fort III osteotomy + forward advancement + bone grafts to fill posterior gap. Prevention: primary ORIF of Le Fort III within 72 hours."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

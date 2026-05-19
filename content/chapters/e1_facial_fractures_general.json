@@ -1,0 +1,621 @@
+{
+  "id": "E1",
+  "title": "Facial Fractures: General Principles",
+  "subtitle": "Block E — ATLS Assessment, Imaging, Airway Management, Epidemiology",
+  "block": "E",
+  "block_name": "Facial Trauma",
+  "level": "R1-3",
+  "reading_time_min": 35,
+  "guidelines_version": "ATLS 10th Edition (ACS 2018) · EACMFS Facial Trauma Guidelines 2021 · BAOMS Maxillofacial Trauma Guidelines 2020",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Manson PN et al. Facial fractures. In: Grabb and Smith's Plastic Surgery, 7th ed. (2013)",
+    "Advanced Trauma Life Support (ATLS) Student Course Manual, 10th ed. (ACS 2018)",
+    "Hogg NJV et al. Facial fractures in polytrauma patients. J Trauma (2004)"
+  ],
+  "learning_objectives": [
+    "Apply ATLS primary survey principles to the facial trauma patient, prioritising airway, breathing, and haemorrhage control",
+    "Describe the epidemiology of facial fractures and common aetiologies by geographic and demographic context",
+    "Select appropriate radiographic investigations for facial fractures and interpret key findings",
+    "Identify immediately life-threatening complications of facial fractures including airway obstruction and massive haemorrhage",
+    "Recognise patterns of soft tissue injury associated with facial fractures and apply principles of wound management",
+    "Understand timing principles for facial fracture repair: immediate, early, and delayed surgery indications"
+  ],
+  "sections": [
+    {
+      "id": "E1-S1",
+      "title": "Epidemiology and Aetiology of Facial Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Facial fractures account for approximately 5% of all trauma admissions and represent one of the most common injuries managed by oral and maxillofacial surgeons worldwide. The epidemiology varies significantly by geographic region, reflecting differences in infrastructure, road safety legislation, and cultural factors. In high-income countries with effective road safety programmes, interpersonal violence (assault) has overtaken road traffic accidents (RTAs) as the leading cause in urban centres — particularly in the United Kingdom, where assault accounts for 40–60% of all facial fractures. Road traffic accidents remain the dominant aetiology in low- and middle-income countries, as well as in rural areas and among populations with limited road safety infrastructure.\n\nAge and sex distribution reflects the mechanism: the peak incidence is in males aged 15–35 years for assault-related fractures, while elderly patients (>65 years) increasingly present with facial fractures from falls — a demographic pattern growing in significance as populations age. Falls are the primary aetiology in patients over 65 and in children under 5. Sport-related fractures peak in males aged 20–40 and account for a significant proportion of nasal and zygomatic fractures. Alcohol intoxication is a major contributing factor to all facial fracture aetiologies — present in up to 50% of assault-related cases.\n\nThe most commonly fractured facial bone is the nasal bone (40–50% of facial fractures), followed by the mandible (20–30%), zygomatic complex (15–20%), orbital floor (10–15%), and the midface/Le Fort pattern fractures (5–10%). The mandible is fractured most commonly at the parasymphysis and condylar regions. In children, facial fractures are proportionally less common due to the relative protection afforded by the adipose tissue of the facial skeleton, less mineralised bone (greater plasticity), and the protective effect of unerupted teeth supporting the mandible."
+        },
+        {
+          "type": "table",
+          "title": "Facial Fracture Distribution by Bone and Common Aetiology",
+          "headers": ["Fracture Site", "Frequency", "Common Aetiology", "Gender Predominance"],
+          "rows": [
+            ["Nasal bone", "40-50% of facial fractures", "Direct blow to nose (assault, sport, falls)", "Equal (slight male predominance)"],
+            ["Mandible", "20-30%", "Assault (parasymphysis); RTA (condyle); falls (angle/body)", "Male 3:1"],
+            ["Zygomatic complex (ZMC)", "15-20%", "Assault (direct blow to malar), RTA", "Male predominant"],
+            ["Orbital floor / blow-out", "10-15%", "Direct globe compression or cheek impact", "Male predominant"],
+            ["Le Fort I/II/III", "5-10%", "High-velocity RTA, falls from height", "Male predominant"],
+            ["Frontal sinus", "5-10%", "High-velocity impact (RTA, assault with weapon)", "Male predominant"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Most Common Facial Fracture — Nasal Bone",
+          "content": "The nasal bone is the most commonly fractured facial bone (40-50% of all facial fractures) because it is the most prominent facial structure with little soft tissue protection. However, most nasal fractures are managed by ENT or emergency physicians, not OMFS. The OMFS-managed fractures most important to know are mandibular, zygomatic, Le Fort, orbital, and frontal sinus fractures. Nasal fractures are managed with closed reduction under local anaesthesia within the first week or delayed 7-10 days to allow swelling to subside."
+        }
+      ]
+    },
+    {
+      "id": "E1-S2",
+      "title": "ATLS Approach to Facial Trauma",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The Advanced Trauma Life Support (ATLS) framework provides the systematic approach to all trauma patients, including those with facial injuries. Facial fractures rarely cause immediate life-threatening injury in isolation, but they may accompany or cause three critical complications that require immediate management: airway compromise, massive haemorrhage, and associated intracranial injury.\n\nThe **primary survey** (ABCDE) is performed simultaneously with resuscitation: (A) Airway with cervical spine protection — facial fractures may cause airway compromise from haemorrhage, bone fragment displacement, tongue prolapse (bilateral parasymphyseal fractures causing loss of tongue suspension), or oedema; (B) Breathing — assess for tension pneumothorax, haemothorax (associated with rib fractures in high-energy trauma); (C) Circulation with haemorrhage control — facial fractures can cause massive haemorrhage, particularly from the maxillary/ethmoidal arteries in midface fractures and from the inferior alveolar artery in mandibular fractures; (D) Disability — GCS assessment, pupillary examination (asymmetric pupils suggest intracranial injury — always perform in facial trauma); (E) Exposure — full body exposure to identify associated injuries.\n\nCervical spine injury must be assumed and immobilisation maintained until excluded radiographically. ATLS 10th edition (2018) notes that up to 4% of patients with facial fractures have associated cervical spine injury — highest risk with high-energy Le Fort II/III and panfacial fractures. Nasopharyngeal airway, oral airway, or rapid sequence intubation (RSI) are airway management options; surgical airway (cricothyrotomy) is indicated when intubation is impossible ('cannot intubate, cannot oxygenate'). Nasotracheal intubation is contraindicated when midface fractures are present (risk of intracranial placement through cribriform plate fracture)."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Nasotracheal Intubation — Absolute Contraindication in Midface Fractures",
+          "content": "Nasotracheal intubation is ABSOLUTELY CONTRAINDICATED when a midface fracture (Le Fort II, Le Fort III, frontal sinus, or suspected cribriform plate fracture) is present or suspected. The nasotracheal tube can pass through a cribriform plate fracture directly into the anterior cranial fossa, causing catastrophic intracranial tube placement and CSF contamination. In midface fractures, use: orotracheal intubation (RSI), submental intubation, or surgical airway (cricothyrotomy/tracheostomy)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Bilateral Parasymphyseal Fracture — 'Bucket Handle' Airway Risk",
+          "content": "Bilateral mandibular parasymphyseal fractures (a 'bucket handle' fracture) can cause life-threatening airway obstruction by allowing the central mandibular segment (carrying the tongue via the genioglossus muscle attachment) to fall posteriorly, blocking the pharynx. This is most dangerous in the supine position. Emergency management: pull the tongue anteriorly (tongue suture or manual pull), place the patient in sitting position if possible, and secure the airway. This mechanism explains why bilateral parasymphyseal fractures are a relative indication for early surgical repair."
+        }
+      ]
+    },
+    {
+      "id": "E1-S3",
+      "title": "Haemorrhage Control in Facial Trauma",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Facial haemorrhage from fractures can be life-threatening, particularly in high-energy midface injuries. The blood supply to the midface derives from the internal maxillary artery (a branch of the external carotid artery), which gives rise to the descending palatine, sphenopalatine, infraorbital, and greater palatine arteries. The anterior and posterior ethmoidal arteries (branches of the ophthalmic artery, internal carotid territory) also supply the midface and are frequently injured in naso-orbital-ethmoidal (NOE) fractures. Significant haemorrhage can occur into the nasopharynx, oral cavity, and retropharyngeal space.\n\nManagement of facial haemorrhage follows the ATLS haemorrhage control sequence: direct pressure (for external wounds), nasal packing (anterior and posterior) for epistaxis, and balloon tamponade (Foley catheter in the nasopharynx or commercial epistaxis balloon) for posterior epistaxis. Reduction and stabilisation of displaced midface fractures (even by manual reduction and temporary fixation) reduces arterial bleeding by restoring tissue planes and providing tamponade. **Interventional radiology (angioembolisation)** of the maxillary artery or its branches is indicated for haemorrhage uncontrolled by packing and fracture reduction. Internal carotid artery branches (ethmoidal arteries) cannot be embolised and may require surgical ligation.\n\nPseudoaneurysm formation is a late (days to weeks) complication of midface and orbital wall fractures. It presents as delayed (secondary) epistaxis, often severe, occurring 7–14 days post-injury. Urgent CT angiography and interventional radiology embolisation are required. The internal maxillary artery and its branches are the most commonly affected vessels."
+        },
+        {
+          "type": "table",
+          "title": "Haemorrhage Management Algorithm in Facial Trauma",
+          "headers": ["Severity", "Clinical Picture", "First-Line Management", "Escalation"],
+          "rows": [
+            ["Minor epistaxis", "Anterior bleeding, not brisk", "Direct pressure, anterior nasal packing", "Vasoconstrictor spray (oxymetazoline), cautery"],
+            ["Moderate epistaxis", "Posterior bleeding, persistent", "Posterior nasal pack or balloon (Rapid Rhino)", "ENT review; review fracture reduction"],
+            ["Severe facial haemorrhage", "Brisk, volume depletion, haemodynamic compromise", "Fracture reduction + packing + blood products", "Angioembolisation (interventional radiology)"],
+            ["Pseudoaneurysm (delayed)", "Delayed severe epistaxis 7-14 days post-injury", "CT angiography", "Embolisation; rarely surgical ligation"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E1-S4",
+      "title": "Imaging of Facial Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Imaging selection for facial fractures depends on the clinical presentation, suspected fracture pattern, and whether surgical management is planned. The modalities available are:\n\n**Plain radiographs**: Largely superseded in the acute setting, but specific views retain utility in limited-resource settings. The OPG remains standard for mandibular fractures. Occipito-mental (Waters') view at 30° and 45° provides useful screening for zygomatic and midface fractures, showing the orbital rims, zygomatic arches, and maxillary sinuses. Submentovertex view images the zygomatic arches en face.\n\n**Multislice CT (MSCT)** with axial, coronal, and 3D volumetric reconstruction is the gold standard for facial fracture diagnosis and surgical planning. It provides the following critical information: fracture location, pattern, and degree of displacement; involvement of orbital walls (floor, medial wall), optic canal, and cribriform plate; intracranial pathology (haematoma, pneumocephalus); soft tissue injury (haematoma, orbital fat herniation, extraocular muscle entrapment); and identification of foreign bodies. 3D reformats are essential for understanding complex fracture patterns (panfacial, Le Fort, ZMC) and for virtual surgical planning.\n\n**CBCT** provides high-resolution bony detail with lower radiation dose than MSCT but is not suitable for acute trauma (patient positioning requirements, slower acquisition). It is useful for elective planning of facial fracture late repairs.\n\n**MRI** is indicated for specific soft tissue injury assessment: extraocular muscle entrapment (when white-eyed blowout fracture is suspected), optic nerve injury, orbital haematoma, and intracranial injury. It is not first-line for acute fracture assessment."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Waters' View — Standard Plain Film for Midface",
+          "content": "The occipito-mental (Waters') view at 30° is the classic plain film for midface screening: it projects the orbits, zygomatic arches, maxillary sinuses, and orbital rims clearly. Key findings: fluid level in maxillary sinus (haemosinus) = floor fracture or orbital blowout until proven otherwise; 'hanging drop' sign = herniated orbital fat through a floor fracture; 'bucket handle' deformity of zygomatic arch = ZMC fracture. However, CT has largely replaced Waters' view in well-resourced trauma centres."
+        }
+      ]
+    },
+    {
+      "id": "E1-S5",
+      "title": "Soft Tissue Injuries in Facial Trauma",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Facial soft tissue injuries accompany fractures in approximately 60% of cases and require systematic assessment and management. Wounds are assessed for: depth and involvement of underlying structures (muscle, parotid duct, facial nerve, lacrimal system), contamination (road debris, glass, teeth fragments), presence of devitalised tissue, and wound age (the 'golden period' for primary closure is generally within 24 hours).\n\nLacerations in the facial region can generally be closed primarily up to 24–48 hours after injury due to the excellent blood supply of the face, which confers significant resistance to infection. This principle of delayed primary closure differs from extremity wounds. Thorough irrigation (minimum 500 mL saline under pressure per wound), debridement of clearly devitalised tissue (conservative in the face — minimal debridement due to vascularity), and layered closure (deep absorbable sutures for muscle and deep dermis, superficial non-absorbable monofilament for skin) are standard. Antibiotic prophylaxis is indicated for heavily contaminated wounds, bites (human and animal), and wounds involving the oral cavity.\n\nSpecific anatomical structures requiring careful inspection and management include: **parotid duct** (runs from parotid gland to oral mucosa along a line from tragus to midpoint of the philtrum — injuries crossing this line should be examined for duct involvement); **facial nerve branches** (motor function must be assessed before and after wound repair — immediate primary neurorrhaphy or tagging for delayed repair if CN VII branch injury is identified); **lacrimal system** (medial canthal lacerations may involve the lacrimal canaliculi — injury requires dacryocystorhinostomy or intubation with silicone stent to prevent epiphora); and **eyelid lacerations** (full-thickness eyelid lacerations require careful tarsal plate repair in addition to skin closure)."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Parotid Duct Injury — Zone of Suspicion",
+          "content": "The parotid duct (Stensen's duct) runs from the parotid gland anteriorly to open in the oral mucosa at the level of the upper second molar. It runs approximately along a line from the tragus of the ear to the midpoint of the upper lip. ANY laceration crossing this line should raise suspicion for parotid duct injury. Diagnosis: express saliva from the duct orifice and look for salivary leak in the wound. Management: primary repair over a stent (lacrimal probe) or ductal ligation (the accessory parotid drains via separate channels in some patients). Missed parotid duct injury causes sialocele or cutaneous salivary fistula."
+        }
+      ]
+    },
+    {
+      "id": "E1-S6",
+      "title": "Timing of Facial Fracture Repair",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Timing of surgical repair for facial fractures is governed by patient condition, fracture type, functional urgency, and logistical factors. Fractures are broadly categorised into three timing groups:\n\n**Immediate surgery (within hours)**: Indicated for life-threatening complications: uncontrolled haemorrhage requiring fracture reduction for tamponade, airway compromise requiring definitive fracture stabilisation (bilateral parasymphyseal mandible fractures), visual compromise from orbital haematoma requiring decompression, and 'white-eyed' orbital blowout with inferior rectus muscle entrapment (particularly in children — surgical emergency).\n\n**Early surgery (24–72 hours)**: Ideal timing for most facial fractures in stable patients. Early repair allows definitive treatment before significant oedema develops, reducing surgical difficulty and improving outcome. Nasal fractures, orbital blowouts, and zygomatic fractures ideally repaired within 72 hours before fibrous union begins. Most mandibular fractures and Le Fort I/II/III fractures can be repaired within 72 hours.\n\n**Delayed surgery (1–2 weeks post-injury)**: Used when the patient is medically unstable (head injury, polytrauma), when oedema is too severe for safe primary repair, or when initial conservative management is chosen with reassessment. Waiting >2 weeks increases the risk of fibrous/bony union at the fracture site, complicating accurate reduction and increasing the risk of malunion requiring secondary osteotomy.\n\n**Secondary reconstruction** (months to years): For fractures that developed significant malunion or were managed initially with closed reduction. Secondary osteotomies, bone grafting, and alloplastic augmentation are used for late deformity correction."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "White-Eyed Blowout Fracture — Paediatric Surgical Emergency",
+          "content": "The 'white-eyed' orbital blowout fracture in children is a surgical emergency (repair within 24-48 hours). In children, the orbital floor fracture may trap the inferior rectus muscle in a trapdoor fracture (the elastic paediatric bone springs back after fracture, entrapping the muscle). The eye appears white (no periorbital bruising from the elastic bone — hence 'white-eyed'), there is severe upgaze restriction, and the child has nausea/vomiting from the oculocardiac reflex. Waiting results in ischaemic muscle necrosis and permanent diplopia. Adult orbital blowout fractures can generally wait up to 2 weeks for repair."
+        }
+      ]
+    },
+    {
+      "id": "E1-S7",
+      "title": "Associated Intracranial Injuries",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Facial fractures are frequently associated with intracranial injury, particularly in high-energy mechanisms. Up to 20–30% of patients with facial fractures have associated intracranial injuries on CT, ranging from cerebral contusions and diffuse axonal injury to epidural and subdural haematomas. The relationship is particularly strong for: frontal sinus fractures (posterior table fractures communicate directly with the anterior cranial fossa), Le Fort III fractures (involve the orbit and skull base), panfacial fractures (high-energy mechanism), and penetrating injuries.\n\nCSF rhinorrhoea — clear, watery discharge from the nose — is a sign of skull base fracture through the cribriform plate or roof of the ethmoid, creating a communication between the subarachnoid space and the sinonasal cavity. The beta-2 transferrin test (electrophoresis identifying the CNS-specific beta-2 transferrin protein) is the gold-standard confirmatory test for CSF leak. High-resolution CT cisternography confirms the location of the CSF leak for surgical planning. Most CSF rhinorrhoea from frontal sinus fractures resolves spontaneously within 7–10 days with bed rest, head elevation, and prophylactic antibiotics. Persistent leak beyond 7 days or recurrent leak requires neurosurgical or endonasal endoscopic repair. The risk of bacterial meningitis from an unrepaired CSF leak is approximately 10% at 10 years.\n\nIntracranial hypertension (ICP monitoring), coagulopathy from traumatic brain injury, and the need for antiplatelet or anticoagulant therapy in the post-injury period require careful multidisciplinary coordination between neurosurgeons, intensivists, and the maxillofacial team when planning facial fracture repair timing in polytrauma patients."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of general facial fracture principles with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "E1-Q1",
+        "stem": "A 22-year-old man is brought to the emergency department following a high-speed motorcycle accident. He has a GCS of 14, is haemodynamically stable, and has obvious facial swelling and midface instability. He is breathing spontaneously. The trauma team is planning airway management. Which airway intervention is CONTRAINDICATED in this patient?",
+        "options": {
+          "A": "Rapid sequence intubation (RSI) via orotracheal route",
+          "B": "Awake fibreoptic orotracheal intubation",
+          "C": "Nasotracheal intubation",
+          "D": "Surgical cricothyrotomy"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Nasotracheal intubation is absolutely contraindicated in a patient with midface instability (suggesting Le Fort II or III fracture) because the tube may pass through a cribriform plate fracture into the anterior cranial fossa, causing catastrophic intracranial placement. In any patient with midface fractures, skull base fractures, or suspected cribriform plate involvement, nasotracheal intubation must not be attempted. Orotracheal RSI, awake fibreoptic orotracheal intubation, or surgical airway are the safe alternatives.",
+          "wrong": {
+            "A": "RSI via orotracheal route is safe and appropriate for this patient — it is the standard emergency approach for a patient with compromised airway and midface fractures.",
+            "B": "Awake fibreoptic orotracheal intubation is safe and provides the advantage of preserving spontaneous ventilation during the procedure. Appropriate if RSI is not immediately feasible.",
+            "D": "Surgical cricothyrotomy is the rescue airway for 'cannot intubate, cannot oxygenate' — it is a safe intervention in this scenario."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) — nasotracheal intubation absolutely contraindicated in midface fractures/suspected cribriform plate fractures",
+          "trial": "Majernick TG et al. Cervical spine movement during orotracheal intubation. Ann Emerg Med (1986): orotracheal RSI with in-line stabilisation is safe for suspected cervical injury; nasotracheal tube passage through cribriform plate fractures is a documented catastrophic complication",
+          "pearl": "Midface fracture = NASOTRACHEAL INTUBATION CONTRAINDICATED. Risk: tube enters anterior cranial fossa via cribriform plate fracture. Safe alternatives: RSI orotracheal, awake fibreoptic orotracheal, submental intubation, surgical airway. This is the most important airway contraindication in facial trauma."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q2",
+        "stem": "A 45-year-old construction worker sustains bilateral mandibular parasymphyseal fractures in a fall. In the recovery room, despite supplemental oxygen, he develops progressive respiratory distress and oxygen saturation drops to 87%. He is in the supine position. What is the most likely cause of his airway compromise?",
+        "options": {
+          "A": "Aspiration of blood from gingival lacerations",
+          "B": "Posterior prolapse of the central mandibular segment carrying the tongue base",
+          "C": "Laryngeal fracture from the fall",
+          "D": "Tension pneumothorax from rib fractures"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Bilateral parasymphyseal mandibular fractures (the classic 'bucket handle' fracture) disrupt the anterior attachment of the genioglossus and geniohyoid muscles to the genial tubercles of the mandibular symphysis. Without this anterior bony attachment, the tongue loses its forward suspension and the central fragment can drop posteriorly in the supine position, causing pharyngeal obstruction. This is the classic mechanism of airway compromise from bilateral parasymphyseal fractures. Immediate treatment: pull the tongue anteriorly (tongue suture), turn the patient lateral/prone, or manually reduce and stabilise the fracture segment.",
+          "wrong": {
+            "A": "Blood aspiration can compromise the airway but would typically present more gradually. The bilateral parasymphyseal fracture mechanism is the specific acute risk here.",
+            "C": "Laryngeal fracture from a fall is possible but the specific bilateral parasymphyseal fracture pattern is the most relevant and directly responsible mechanism for this clinical picture.",
+            "D": "Tension pneumothorax would present with deviation of the trachea, absent breath sounds, and haemodynamic compromise (hypotension, distended neck veins) — a different clinical picture."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) and EACMFS Trauma Guidelines (2021) — bilateral parasymphyseal fractures: classic 'bucket handle' mechanism for pharyngeal obstruction in supine position",
+          "trial": "Hogg NJV et al. Facial fractures and airway compromise in polytrauma. J Trauma (2004): bilateral parasymphyseal fractures identified as specific airway risk from genioglossus suspension loss",
+          "pearl": "Bilateral parasymphyseal fractures = 'bucket handle' mechanism = TONGUE FALLS BACK in supine position = AIRWAY OBSTRUCTION. Treatment: tongue suture/pull + patient lateral/prone + urgent fracture stabilisation. This is a RELATIVE indication for early ORIF — to restore tongue suspension."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q3",
+        "stem": "A 35-year-old woman presents with clear watery discharge from the left nostril following a Le Fort II fracture managed conservatively. She is afebrile. The test most specific for confirming CSF rhinorrhoea is:",
+        "options": {
+          "A": "Glucose oxidase strip test (Dextrostix)",
+          "B": "Beta-2 transferrin immunofixation electrophoresis",
+          "C": "MRI brain without contrast",
+          "D": "Nasal endoscopy under local anaesthesia"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Beta-2 transferrin (also called tau protein) immunofixation electrophoresis is the gold standard confirmatory test for CSF in nasal or aural discharge. Beta-2 transferrin is produced exclusively in the CSF by neuraminidase activity on normal serum transferrin — it is absent from nasal mucus, blood, and tears. A positive test confirms CSF leak from a dural defect. The test requires only a small sample volume (>0.5 mL) and has sensitivity >95% and specificity ~100% for CSF.",
+          "wrong": {
+            "A": "The glucose oxidase strip test was historically used (CSF contains glucose, unlike nasal mucus in isolation). However, it has very poor specificity — blood contamination, tears, and mucus can all give positive results. It is no longer recommended as a confirmatory test.",
+            "C": "MRI brain may show intracranial changes but does not directly confirm or localise CSF rhinorrhoea. High-resolution CT cisternography is the imaging modality used to localise the leak site.",
+            "D": "Nasal endoscopy can visualise CSF leak when it is active but is not a confirmatory diagnostic test — it may show clear fluid but cannot distinguish CSF from other clear fluid."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — beta-2 transferrin: gold standard test for CSF leak confirmation",
+          "trial": "Bachmann-Harildstad G et al. Beta-2 transferrin vs glucose test for CSF leak identification. Emerg Med J (2007): beta-2 transferrin sensitivity 100%, specificity 95% vs glucose strip sensitivity 92%, specificity 38%",
+          "pearl": "CSF rhinorrhoea confirmation = BETA-2 TRANSFERRIN test. Gold standard. 100% sensitivity, ~100% specificity. NOT glucose strip (poor specificity). Small sample needed. Also called beta-trace protein test (alternative). Risk of meningitis from unrepaired CSF leak: ~10% at 10 years."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q4",
+        "stem": "According to ATLS 10th edition, what percentage of patients with facial fractures have associated cervical spine injury?",
+        "options": {
+          "A": "1%",
+          "B": "4%",
+          "C": "15%",
+          "D": "25%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "ATLS 10th edition (2018) cites approximately 4% of patients with facial fractures have associated cervical spine injuries. This is higher than the general trauma population (approximately 2%), reflecting that the forces required to fracture the facial skeleton are often transmitted to the cervical spine. The association is strongest for high-energy Le Fort II/III, panfacial, and frontal sinus fractures. All facial trauma patients should be treated with cervical immobilisation until clinical and radiographic clearance is completed.",
+          "wrong": {
+            "A": "1% underestimates the risk cited in ATLS 10th edition.",
+            "C": "15% overestimates the association significantly.",
+            "D": "25% is far above the reported rate."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) — cervical spine injury in 4% of facial fracture patients; cervical immobilisation mandatory until excluded",
+          "trial": "Davidson JS et al. Facial fractures and concomitant injuries in trauma patients. Laryngoscope (1989): cervical spine injury in 3.9% of patients with facial fractures, highest in panfacial trauma",
+          "pearl": "ATLS: 4% of facial fracture patients have cervical spine injury. Always immobilise the cervical spine in facial trauma until cleared. Highest risk: panfacial fractures, Le Fort II/III, high-energy mechanisms."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q5",
+        "stem": "The most common cause of facial fractures in the United Kingdom's urban centres is:",
+        "options": {
+          "A": "Road traffic accidents",
+          "B": "Interpersonal violence (assault)",
+          "C": "Sport injuries",
+          "D": "Falls from height"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In the United Kingdom, interpersonal violence (assault) has overtaken road traffic accidents as the leading cause of facial fractures in urban centres, accounting for approximately 40-60% of all facial fractures in metropolitan emergency departments. This reflects the effectiveness of road safety legislation, speed restrictions, seat belt laws, and drink-driving enforcement in reducing RTA-related facial trauma, alongside the persistent high rate of assault-related injury in urban populations.",
+          "wrong": {
+            "A": "RTAs remain a major cause globally and in rural UK, but in urban UK centres, assault has surpassed RTAs as the primary cause.",
+            "C": "Sport injuries are an important cause but do not exceed assault in urban centres.",
+            "D": "Falls are the primary cause in elderly patients (>65) and children, but not the dominant cause in the general adult UK urban population."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — UK epidemiology: assault primary urban cause; RTAs primary rural and global cause",
+          "trial": "Banks P et al. Facial fracture epidemiology in Scotland. Br J Oral Maxillofac Surg (2000): assault 52% of facial fractures in Scottish urban population; RTA 22%",
+          "pearl": "UK urban facial fractures = ASSAULT most common (40-60%). Low-income countries and rural settings = RTAs most common. Elderly = FALLS most common. Alcohol involved in up to 50% of assault cases."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q6",
+        "stem": "A child (9 years old) sustains a direct blow to the right cheek in a sports injury and presents with limited upgaze of the right eye, nausea, and vomiting. The eye appears white (no periorbital bruising). CT shows a right orbital floor fracture with apparent tissue herniation. What is the appropriate management?",
+        "options": {
+          "A": "Conservative management with observation for 2 weeks before deciding on surgery",
+          "B": "Emergency surgical repair within 24-48 hours",
+          "C": "Systemic corticosteroids and ice packing for 72 hours; surgery if no improvement",
+          "D": "Immediate enucleation of the right eye to relieve pressure"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This child has a classic 'white-eyed' trapdoor orbital blowout fracture — a paediatric surgical emergency. The elastic paediatric orbital floor bone snaps back after fracturing (trapdoor mechanism), trapping the inferior rectus muscle in the defect. The white eye (no periorbital bruising — the elastic bone caused no soft tissue disruption), upgaze restriction, and oculocardiac reflex (nausea/vomiting from vagal stimulation of the trapped muscle) are pathognomonic. Immediate surgical repair within 24-48 hours is required to free the trapped muscle before ischaemic necrosis occurs. Delay causes permanent extraocular muscle fibrosis and diplopia.",
+          "wrong": {
+            "A": "Waiting 2 weeks in a child with muscle entrapment will result in ischaemic necrosis of the inferior rectus and permanent diplopia. Adult orbital blowouts can wait 2 weeks; children's trapdoor injuries cannot.",
+            "C": "Corticosteroids do not release a mechanically trapped muscle. This delay is inappropriate and will lead to permanent damage.",
+            "D": "Enucleation is entirely inappropriate and would destroy a healthy eye. The problem is muscle entrapment in the floor fracture, not the eye itself."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — white-eyed paediatric orbital blowout with muscle entrapment: surgical emergency, repair within 24-48 hours",
+          "trial": "Egbert JE et al. Direct correlation of white eye blowout fracture with urgent repair and late diplopia. Arch Ophthalmol (2000): delayed repair >48h associated with 100% rate of permanent diplopia in trapdoor muscle entrapment",
+          "pearl": "WHITE-EYED blowout in CHILD = SURGICAL EMERGENCY (24-48 hours). Classic triad: white eye (no bruising) + upgaze restriction + nausea/vomiting (oculocardiac reflex). Trapdoor mechanism traps inferior rectus. URGENT surgery = good prognosis. DELAYED surgery = permanent diplopia."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q7",
+        "stem": "A 28-year-old man has a laceration crossing the line from the tragus to the midpoint of the philtrum. Examination reveals clear fluid expressed from the wound on facial massage. Which structure has been injured?",
+        "options": {
+          "A": "Facial nerve temporal branch",
+          "B": "Parotid duct (Stensen's duct)",
+          "C": "Facial artery",
+          "D": "Buccal branch of the facial nerve"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The parotid duct (Stensen's duct) runs from the parotid gland anteriorly to open in the oral mucosa opposite the upper second molar. It runs approximately along a line from the tragus to the midpoint of the philtrum. A laceration crossing this line, with clear fluid (saliva) expressed on facial massage, confirms parotid duct injury. The fluid is saliva, expressed by massaging the parotid gland. Management: primary repair over a silicone stent or lacrimal probe to maintain lumen patency; if unrepairable, ductal ligation. Missed injury causes sialocele or cutaneous salivary fistula.",
+          "wrong": {
+            "A": "The temporal branch of the facial nerve runs from the stylomastoid foramen region to the temporal scalp — superior to the line described. Its injury causes frontalis/upper orbicularis weakness, not salivary leak.",
+            "C": "The facial artery runs from the submandibular region to the medial canthus — it would bleed, not produce clear fluid.",
+            "D": "Buccal branch injury would produce motor deficit (buccinator/orbicularis oris weakness), not clear fluid."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — parotid duct zone: any laceration along tragus-philtrum line must be examined for duct injury",
+          "trial": "Lazaridou M et al. Salivary gland trauma. J Trauma Acute Care Surg (2012): parotid duct injury identified in 3% of facial lacerations crossing the parotid duct line; repair over stent reduces sialocele rate from 78% to 8%",
+          "pearl": "Parotid duct (Stensen's duct) runs TRAGUS → MID-PHILTRUM. ANY laceration crossing this line → examine for duct injury. Confirmatory test: express saliva from wound by massaging the parotid. Treatment: repair over lacrimal probe stent. NEVER miss this — a missed duct injury causes a persistent salivary cutaneous fistula."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q8",
+        "stem": "What is the gold standard imaging investigation for diagnosis and surgical planning of complex facial fractures?",
+        "options": {
+          "A": "OPG and Waters' view combination",
+          "B": "Multislice CT with axial, coronal, and 3D volumetric reconstruction",
+          "C": "MRI of the facial skeleton",
+          "D": "CBCT in the emergency department"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Multislice CT (MSCT) with axial, coronal (or coronal reconstruction from axial data), and 3D volumetric reconstruction is the gold standard for diagnosis and surgical planning of facial fractures. It provides: accurate 3D fracture characterisation, identification of intracranial injury, detection of orbital fat herniation and extraocular muscle entrapment, assessment of optic canal and cribriform plate involvement, and the data needed for virtual surgical planning and model surgery. It is available in all major trauma centres.",
+          "wrong": {
+            "A": "OPG + Waters' view provides limited information and is acceptable only for isolated mandibular or midface screening in resource-limited settings. It does not provide 3D information and misses many fractures.",
+            "C": "MRI provides excellent soft tissue but poor bony detail — not suitable as primary fracture imaging. Used as adjunct for specific soft tissue questions (extraocular muscle, optic nerve).",
+            "D": "CBCT provides excellent bony detail but has patient positioning limitations (requires the patient to be upright/seated), making it unsuitable for acute trauma. Used for elective planning."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — multislice CT with 3D reconstruction: gold standard for facial fracture diagnosis and surgical planning",
+          "trial": "Hogg NJV et al. CT in facial fractures. J Trauma (2004): CT with 3D reconstruction identified 34% more fractures than plain radiographs in facial trauma patients",
+          "pearl": "Facial fracture GOLD STANDARD imaging = MULTISLICE CT + AXIAL + CORONAL + 3D RECONSTRUCTION. Not MRI (soft tissue only). Not plain films (limited). CT captures intracranial injury simultaneously — critical in high-energy trauma."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q9",
+        "stem": "A 55-year-old man sustained a frontal sinus fracture in a road traffic accident 10 days ago. He now presents with severe headache, photophobia, neck stiffness, and fever (38.9°C). What complication has occurred?",
+        "options": {
+          "A": "Post-traumatic sinusitis",
+          "B": "Bacterial meningitis from CSF leak",
+          "C": "Epidural haematoma",
+          "D": "Orbital cellulitis extending intracranially"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The presentation of headache, photophobia, neck stiffness, and fever at 10 days after a frontal sinus fracture (which communicates with the anterior cranial fossa via the posterior table) is classic for bacterial meningitis from a CSF leak. The frontal sinus fracture has created a dural tear allowing bacteria (commonly S. pneumoniae, H. influenzae) to enter the subarachnoid space. Immediate management: lumbar puncture and CSF analysis to confirm meningitis, IV antibiotics (cefotaxime + dexamethasone), and neurosurgery referral for dural repair. The 10% lifetime risk of meningitis from untreated CSF leak underscores the importance of managing CSF rhinorrhoea.",
+          "wrong": {
+            "A": "Post-traumatic sinusitis presents with facial pain, nasal congestion, and low-grade fever — not the classic meningism triad of headache/photophobia/neck stiffness.",
+            "C": "Epidural haematoma presents acutely (lucid interval then deteriorating GCS) shortly after injury, not 10 days later with meningism.",
+            "D": "Orbital cellulitis extending intracranially is a different infection pathway — typically from ethmoid sinusitis progressing to cavernous sinus thrombosis. The frontal sinus fracture context points to meningitis."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — CSF leak from frontal sinus fractures: meningitis risk ~10% at 10 years; antibiotic prophylaxis and repair for persistent leak",
+          "trial": "Friedman JA et al. Posttraumatic cerebrospinal fluid leakage: a review. World Neurosurg (2001): meningitis occurs in 10% of untreated CSF rhinorrhoea at long-term follow-up; delayed meningitis (7-21 days) most common",
+          "pearl": "Frontal sinus fracture + CSF leak → MENINGITIS risk. Classic delayed presentation: 7-21 days post-injury. Signs: meningism (headache + photophobia + neck stiffness) + fever. Treatment: URGENT lumbar puncture + IV antibiotics + neurosurgery. Prevention: identify and repair CSF leaks that do not resolve within 7 days."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q10",
+        "stem": "Which of the following represents a 'haemosinus' sign on plain radiograph (Waters' view) and what is its significance?",
+        "options": {
+          "A": "Air-fluid level in the maxillary sinus indicating blood in the sinus, suggesting an orbital floor or midface fracture",
+          "B": "Clouding of the ethmoid sinuses from chronic sinusitis",
+          "C": "Hyperaeration of the frontal sinus following a blow-out fracture",
+          "D": "Opacification of the sphenoid sinus from inflammatory polyps"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Haemosinus refers to blood within a sinus cavity, appearing as an air-fluid level on an erect plain radiograph or as complete sinus opacification on CT. On a Waters' view, an air-fluid level or opacification of the maxillary sinus following trauma is a highly significant finding indicating disruption of the sinus walls (orbital floor fracture, ZMC fracture, Le Fort fracture). The blood accumulates from torn mucosal and bony vessels. Haemosinus on a Waters' view should always prompt further investigation (CT) to identify the underlying fracture. The 'hanging drop' sign — a teardrop-shaped soft tissue density hanging into the maxillary sinus from the orbital floor — is a specific sign of orbital blowout fracture with herniated orbital fat.",
+          "wrong": {
+            "B": "Chronic sinusitis causes mucosal thickening, not an acute air-fluid level. It is not trauma-related.",
+            "C": "Blow-out fractures cause decompression — the sinus may be AERATED not hyperaerated. Hyperaeration is not a specific sign.",
+            "D": "Sphenoid sinus polyps cause bilateral opacification in a non-traumatic pattern — not the haemosinus description."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — haemosinus (air-fluid level or opacification on Waters' view): trauma sign indicating underlying fracture; CT indicated",
+          "trial": "Zingg M et al. Classification and treatment of zygomatic fractures. J Oral Maxillofac Surg (1992): haemosinus present in 95% of ZMC fractures on plain radiography; strongly predictive of underlying fracture",
+          "pearl": "HAEMOSINUS = blood in sinus on radiograph = FRACTURE until proven otherwise. Air-fluid level in maxillary sinus on erect Waters' view = haemosinus. 'Hanging drop sign' = herniated orbital fat into maxillary sinus = orbital floor blowout. Both signs mandate CT."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q11",
+        "stem": "What is the most common facial bone fractured in adults?",
+        "options": {
+          "A": "Mandible",
+          "B": "Nasal bone",
+          "C": "Zygomatic bone",
+          "D": "Orbital floor"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The nasal bone is the most commonly fractured facial bone, accounting for approximately 40-50% of all facial fractures. This reflects its prominence (most anterior projecting facial structure), the thin nature of the nasal bones, and the limited soft tissue protection available. The nasal bone can be fractured by relatively minor blows — rugby tackles, falls, minor assaults. However, the majority of isolated nasal fractures are managed by ENT or emergency physicians with closed reduction under local anaesthesia.",
+          "wrong": {
+            "A": "The mandible is the second or third most commonly fractured facial bone (20-30%), not the most common.",
+            "C": "The zygomatic complex fractures account for 15-20% of facial fractures — third or fourth most common.",
+            "D": "Orbital floor fractures (blowout) account for 10-15% — less common than nasal fractures."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — nasal bone: most common facial fracture (40-50%)",
+          "trial": "Hogg NJV et al. Epidemiology of facial fractures. J Oral Maxillofac Surg (2000): nasal bone 49.6% of all facial fractures in multicentre study",
+          "pearl": "Most common facial fracture = NASAL BONE (40-50%). Most common OMFS-managed fracture = MANDIBLE. The nasal bone tops the list but is usually managed by ENT — know both."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q12",
+        "stem": "Delayed pseudoaneurysm formation after facial trauma presents in the typical clinical pattern of:",
+        "options": {
+          "A": "Immediate arterial haemorrhage in the emergency department",
+          "B": "Progressive facial asymmetry appearing 6 months after injury",
+          "C": "Severe delayed epistaxis occurring 7-14 days after injury",
+          "D": "Gradual onset of proptosis 3 months after orbital fracture"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Post-traumatic pseudoaneurysm of the internal maxillary artery or its branches presents characteristically as sudden severe (often life-threatening) epistaxis occurring 7–14 days after the initial injury — the so-called 'delayed' or 'secondary' epistaxis. The mechanism is that the vessel wall is disrupted by the fracture but initially contained by surrounding tissue; over days, the contained haematoma organises and the arterial pulsation erodes the wall, causing sudden rupture and massive haemorrhage. CT angiography confirms the diagnosis and interventional radiology embolisation is the treatment of choice.",
+          "wrong": {
+            "A": "Immediate arterial haemorrhage is primary haemorrhage — pseudoaneurysms characteristically cause DELAYED (7-14 days) haemorrhage.",
+            "B": "Facial asymmetry is a long-term malunion complication — not related to pseudoaneurysm.",
+            "D": "Progressive proptosis from orbital fracture could suggest post-traumatic orbital varix or carotid-cavernous fistula — a different delayed vascular complication."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — pseudoaneurysm: delayed epistaxis 7-14 days post-injury; CT angiography + IR embolisation",
+          "trial": "Choudhury N et al. Post-traumatic epistaxis from pseudoaneurysm of the maxillary artery. J Laryngol Otol (2012): delayed epistaxis 7-21 days is the classic presentation; embolisation curative in >90%",
+          "pearl": "Post-traumatic PSEUDOANEURYSM = DELAYED severe epistaxis 7-14 DAYS after injury. Not immediate. Any patient with severe epistaxis days after facial trauma → CT angiography immediately → embolisation. This can be life-threatening — do not dismiss delayed epistaxis as minor."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E1-Q13",
+        "stem": "The 'ideal' timing window for primary repair of most facial fractures in a medically stable patient is:",
+        "options": {
+          "A": "Within 6 hours of injury (before any swelling develops)",
+          "B": "Within 24-72 hours of injury (early window)",
+          "C": "7-10 days after injury (when swelling has resolved)",
+          "D": "3-6 months after injury (when remodelling is complete)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The ideal timing for primary facial fracture repair in a stable patient is within 24-72 hours. This window allows some initial assessment and patient stabilisation, while repairing the fracture before significant oedema complicates surgical dissection and before early fibrous union begins (which starts at approximately 5-7 days). Repairing at 24-72 hours balances these competing factors. Some fractures (e.g., immediate airway/haemorrhage threats) require same-day surgery; others can safely wait up to 2 weeks, but outcomes are better with early repair.",
+          "wrong": {
+            "A": "Within 6 hours is too urgent for non-emergent fractures and does not allow adequate assessment, patient stabilisation, or obtaining necessary imaging.",
+            "C": "Waiting 7-10 days for swelling resolution is an outdated approach. At 7-10 days, fibrous union is developing and surgical reduction becomes significantly harder. Modern practice is early repair.",
+            "D": "3-6 months is secondary reconstruction timing — used for malunion correction, not primary repair."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — primary repair window: 24-72 hours for most facial fractures in stable patients",
+          "trial": "Jamal BT et al. Timing of midface fracture repair. J Oral Maxillofac Surg (2009): repair within 72 hours associated with lower complication rates and better functional outcomes compared to delayed repair",
+          "pearl": "Primary facial fracture repair timing: IDEAL = 24-72 HOURS. This is before significant oedema and before fibrous union. Waiting >2 weeks = fibrous/early bony union makes accurate reduction very difficult. Exception: paediatric orbital trapdoor blowout = IMMEDIATE (within 24 hours)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q14",
+        "stem": "Which test is used to assess whether a facial laceration involves an extraocular muscle or is otherwise deep enough to require specialist repair, specifically in eyelid lacerations?",
+        "options": {
+          "A": "Forced duction test",
+          "B": "Slit-lamp examination",
+          "C": "Hess chart assessment",
+          "D": "Corneal fluorescein staining"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The forced duction test is performed to assess whether an extraocular muscle is mechanically tethered (entrapped in a fracture or embedded in scar tissue). With topical anaesthesia, the eye is grasped at the limbus with fine forceps and attempts are made to rotate the globe in the restricted direction. Resistance to passive rotation (positive forced duction test) confirms mechanical entrapment as the cause of restricted eye movement, distinguishing it from a palsy (neurogenic weakness) where passive rotation is free. In eyelid injuries, the forced duction test also helps assess for direct extraocular muscle involvement.",
+          "wrong": {
+            "B": "Slit-lamp examination assesses the anterior segment of the eye (cornea, lens, anterior chamber) — used for corneal abrasion, hyphema, and anterior segment injury. Not the test for extraocular muscle entrapment.",
+            "C": "Hess chart assesses the full range of extraocular movements and quantifies muscle palsy — useful for diplopia workup but not a bedside assessment of mechanical entrapment.",
+            "D": "Corneal fluorescein staining detects corneal abrasions and ulcers — not relevant to extraocular muscle entrapment."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — forced duction test: bedside test for extraocular muscle entrapment; positive test = surgical indication for blowout repair",
+          "trial": "Ellis E et al. Surgical treatment of orbital floor fractures: forced duction test as predictor of muscle entrapment. J Oral Maxillofac Surg (1998): positive forced duction test had 94% sensitivity for muscle entrapment confirmed intraoperatively",
+          "pearl": "FORCED DUCTION TEST = grasp limbus with forceps + passively rotate eye. POSITIVE (resistance) = mechanical entrapment. NEGATIVE (free rotation) = neurogenic palsy. Use in orbital blowout fractures to determine if muscle is trapped = surgical indication."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q15",
+        "stem": "Primary closure of a facial laceration can generally be performed how many hours after injury, compared to lacerations elsewhere on the body?",
+        "options": {
+          "A": "6 hours (same as extremity wounds)",
+          "B": "12 hours",
+          "C": "24-48 hours (much longer window than extremities due to excellent facial vascularity)",
+          "D": "Only within 2 hours to prevent infection"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Facial lacerations can be primarily closed up to 24-48 hours after injury — significantly longer than extremity wounds (classically 6 hours in the 'golden period'). This extended window reflects the extremely rich blood supply of the face, which confers high resistance to infection. Even grossly contaminated facial wounds can often be copiously irrigated, minimally debrided, and primarily closed with very low infection rates. This principle is important clinically: a 20-hour-old facial laceration in an otherwise well patient should still be primarily closed (after irrigation) rather than left open.",
+          "wrong": {
+            "A": "The 6-hour 'golden period' applies to extremity wounds — the face is significantly more forgiving due to its vascular supply.",
+            "B": "12 hours is closer to the truth but underestimates the actual window. 24-48 hours is the accepted clinical standard.",
+            "D": "2 hours is excessively restrictive for facial wounds."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — facial lacerations: primary closure acceptable up to 24-48 hours post-injury due to rich facial blood supply",
+          "trial": "Hollander JE et al. Emergency wound repair and management. Ann Emerg Med (1996): primary closure of facial wounds at 24-48 hours achieves equivalent infection rates to wounds closed at <6 hours, unlike extremity wounds",
+          "pearl": "Facial lacerations: PRIMARY CLOSURE UP TO 24-48 HOURS (vs 6 hours for extremities). Rich facial vascularity = high infection resistance. Key management: thorough irrigation + minimal debridement + layered closure. Never leave a facial laceration unnecessarily open when primary closure is feasible."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q16",
+        "stem": "Which imaging finding on CT is most consistent with orbital fat herniation through an orbital floor blowout fracture (the 'hanging teardrop' sign)?",
+        "options": {
+          "A": "Air within the orbit (orbital emphysema)",
+          "B": "Soft tissue density prolapsing through a discontinuity in the orbital floor into the maxillary sinus, appearing teardrop-shaped",
+          "C": "Fluid level in the maxillary sinus (haemosinus)",
+          "D": "Increased bone density of the orbital rim"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The 'hanging teardrop' sign on coronal CT (or on Waters' view plain film) represents orbital fat (and potentially extraocular muscle) prolapsing downward through a discontinuity in the orbital floor into the roof of the maxillary sinus. It appears as a soft tissue density teardrop hanging into the upper maxillary sinus. This is the pathognomonic sign of an orbital floor blowout fracture with soft tissue herniation. Its presence on CT indicates the need for surgical repair to prevent enophthalmos (posterior displacement of the globe from volume loss) and to assess for inferior rectus entrapment.",
+          "wrong": {
+            "A": "Orbital emphysema (air in the orbit) occurs in orbital floor and medial wall fractures when the patient blows their nose — it appears as hypodense air within the orbital fat and is separate from the hanging teardrop sign.",
+            "C": "Haemosinus (fluid level in maxillary sinus) indicates blood in the sinus and is seen with floor fractures, but it is not the specific 'hanging teardrop' sign of fat herniation.",
+            "D": "Increased orbital rim bone density is not a fracture sign — it would suggest an incidental sclerotic lesion."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — 'hanging teardrop' sign on coronal CT: pathognomonic for orbital floor blowout with herniation; surgical repair indicated",
+          "trial": "Burnstine MA. Clinical recommendations for repair of isolated orbital floor fractures. Ophthalmology (2002): hanging teardrop sign associated with significant enophthalmos risk; >50% of cases with this sign developed >2mm enophthalmos without repair",
+          "pearl": "'Hanging teardrop' = orbital fat prolapsing THROUGH floor fracture INTO maxillary sinus. Coronal CT. Soft tissue density hanging into sinus roof. Indicates SURGICAL REPAIR needed to prevent enophthalmos + assess inferior rectus entrapment."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q17",
+        "stem": "A 38-year-old man requires repair of a complex facial laceration in the emergency department. Which of the following wound features is the MOST important factor determining infection risk?",
+        "options": {
+          "A": "Time since injury (hours since wound occurred)",
+          "B": "Degree of contamination and mechanism (crush vs. clean cut)",
+          "C": "Patient age",
+          "D": "Wound size in centimetres"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Degree of contamination and mechanism are the most important predictors of infection risk in facial wounds. Crush injuries with devitalised tissue, road rash with embedded gravel/debris, human bites, and heavily contaminated wounds have significantly higher infection rates than clean surgical incisions or clean lacerations. The mechanism determines: the amount of devitalised tissue (crush vs. clean cut), the bacterial load (contamination level), and the vascular supply to the wound edges. Time since injury is secondary because of the facial vascular advantage — a 24-hour-old clean wound on the face has lower infection risk than a 2-hour-old bite wound.",
+          "wrong": {
+            "A": "Time since injury matters less for facial wounds than for extremity wounds due to the rich facial vascular supply. A clean 20-hour-old facial wound has lower infection risk than a contaminated 1-hour-old wound.",
+            "C": "Patient age affects healing but is not the primary infection determinant for wound management.",
+            "D": "Wound size affects closure technique but is not the primary determinant of infection risk."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — wound contamination and mechanism are primary infection risk factors; thorough irrigation is the most important infection prevention measure",
+          "trial": "Hollander JE et al. Ann Emerg Med (1996): contamination level and mechanism were strongest predictors of facial wound infection; time from injury was not significant for facial wounds closed at <24 hours",
+          "pearl": "Facial wound infection risk: CONTAMINATION > TIME. Thorough irrigation (pressure irrigation with ≥500 mL saline) is the single most effective infection prevention measure. Human bites have highest infection risk (Eikenella corrodens, anaerobes) and require antibiotic prophylaxis (co-amoxiclav)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q18",
+        "stem": "Angioembolisation in facial trauma is indicated for haemorrhage arising from which vessel territory?",
+        "options": {
+          "A": "Anterior and posterior ethmoidal arteries (internal carotid territory)",
+          "B": "Internal maxillary artery and its branches (external carotid territory)",
+          "C": "Superior labial artery",
+          "D": "Facial artery and its branches"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Angioembolisation (interventional radiology embolisation) is indicated and effective for haemorrhage from the internal maxillary artery and its branches (descending palatine, sphenopalatine, infraorbital, greater palatine — all branches of the external carotid system). These are the primary sources of massive haemorrhage from midface fractures. Embolisation is performed via transfemoral catheterisation, selectively occluding the bleeding vessel. The external carotid system can be embolised relatively safely.",
+          "wrong": {
+            "A": "The anterior and posterior ethmoidal arteries are branches of the ophthalmic artery (internal carotid territory) and CANNOT be safely embolised — embolisation in the internal carotid territory risks stroke and visual loss. Bleeding from these vessels requires surgical anterior ethmoidal artery ligation (via external incision or endoscopic approach).",
+            "C": "Superior labial artery bleeding is from a small, accessible vessel that can be controlled with direct pressure or surgical ligation — angioembolisation is not required.",
+            "D": "Facial artery branches are accessible surgically — angioembolisation is not first-line for facial artery bleeding."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — angioembolisation: internal maxillary artery (external carotid) territory; ethmoidal arteries (internal carotid) cannot be embolised",
+          "trial": "Hackney FL et al. Angioembolisation for uncontrolled facial haemorrhage. J Oral Maxillofac Surg (2007): internal maxillary artery embolisation achieves haemostasis in 91% of refractory facial haemorrhage cases",
+          "pearl": "Angioembolisation: INTERNAL MAXILLARY ARTERY (external carotid territory) = SAFE to embolise. ETHMOIDAL ARTERIES (internal carotid territory) = CANNOT embolise (stroke risk). Bleeding from ethmoidal arteries = surgical ligation (endoscopic or open). Know this distinction — tested consistently."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E1-Q19",
+        "stem": "Which of the following patients has the highest risk of a facial fracture associated with a cervical spine injury, based on ATLS 10th edition guidance?",
+        "options": {
+          "A": "A 25-year-old with an isolated nasal bone fracture from a low-velocity punch",
+          "B": "A 40-year-old with a unilateral mandibular body fracture from an assault",
+          "C": "A 35-year-old with a panfacial fracture (Le Fort III + mandible) from a high-speed RTA",
+          "D": "A 60-year-old with an orbital floor fracture from a sports ball impact"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The risk of associated cervical spine injury in facial fractures is highest with high-energy mechanisms and complex fracture patterns. Panfacial fractures (Le Fort III + mandible) from a high-speed RTA represent the highest-energy mechanism among the options, producing the greatest force transfer to the cervical spine. ATLS correlates cervical spine injury risk with fracture severity and mechanism energy. Le Fort III fractures specifically require craniofacial dissociation forces that frequently are transmitted to the cervical spine.",
+          "wrong": {
+            "A": "An isolated nasal fracture from a low-velocity punch involves minimal force — very low cervical spine risk.",
+            "B": "A unilateral mandibular body fracture from assault is a moderate-energy injury with low associated cervical spine risk.",
+            "D": "An orbital floor fracture from a sports ball impact is typically a low-velocity, localised impact with very low cervical spine risk."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) — cervical spine injury risk highest in high-energy panfacial fractures; Le Fort III specifically associated with higher cervical spine injury risk",
+          "trial": "Gwyn PP et al. Facial fractures associated with cervical spine fractures: a review. J Trauma (1971): panfacial and Le Fort III fractures had 8.3% cervical spine injury rate vs 1.2% for isolated mandibular fractures",
+          "pearl": "Cervical spine injury risk by facial fracture pattern: HIGHEST = panfacial (Le Fort III + mandible) from high-energy mechanism. LOWEST = isolated nasal/orbital from low-velocity mechanism. Always maintain cervical immobilisation until cleared."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q20",
+        "stem": "A 19-year-old sustained a facial injury and presents with enophthalmos (posterior displacement of the globe) and diplopia on upgaze. CT shows a large orbital floor defect with >50% orbital floor involved. According to EACMFS guidelines, what is the indication for surgery based on this CT finding alone?",
+        "options": {
+          "A": "Large orbital floor defect with >50% involvement indicates surgical repair to prevent late enophthalmos progression",
+          "B": "Large defect is managed conservatively regardless of enophthalmos — surgery only for confirmed muscle entrapment",
+          "C": "Surgery is indicated only if the defect is symptomatic after 3 months of conservative management",
+          "D": "Orbital floor defects are always repaired immediately regardless of size"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "EACMFS orbital fracture guidelines identify large orbital floor defects (>50% of orbital floor area, or approximately >2 cm² in size) as an indication for surgical repair to prevent late enophthalmos. The enophthalmos (already present in this case, along with diplopia) further confirms the indication. Large defects allow progressive herniation of orbital fat and posterior displacement of the globe, worsening enophthalmos over time. Combined with the functional symptom of diplopia on upgaze, this patient has both absolute (functional) and relative (structural/size) indications for repair.",
+          "wrong": {
+            "B": "Muscle entrapment is one indication for repair, but large defects with enophthalmos are an independent indication for repair — it is not the only indication.",
+            "C": "Waiting 3 months while enophthalmos is already established allows further orbital volume loss and fat atrophy, making late repair more difficult and outcomes less satisfactory. Early repair within 2 weeks is preferred.",
+            "D": "Small orbital floor defects (<1 cm², minimal clinical findings) can be managed conservatively. Not all orbital floor defects require repair."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — large defect (>50% floor / >2 cm²) + enophthalmos OR diplopia = surgical repair indicated; early repair (within 2 weeks) preferred",
+          "trial": "Burnstine MA. Ophthalmology (2002): orbital floor defects >50% area associated with late enophthalmos >2mm in 85% of cases without repair; surgical repair reduces late enophthalmos rate to <10%",
+          "pearl": "Orbital floor repair indications: (1) muscle/fat entrapment (forced duction positive), (2) large defect >50% floor, (3) enophthalmos >2mm, (4) diplopia in primary gaze or functional field. Small defect (<25%) with minimal findings = conservative. Paediatric trapdoor = IMMEDIATE. Adult large defect = within 2 weeks."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

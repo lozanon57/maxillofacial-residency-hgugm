@@ -1,0 +1,636 @@
+{
+  "id": "D1",
+  "title": "Temporomandibular Joint Disorders",
+  "subtitle": "Block D — Wilkes Classification, Diagnosis, Conservative Management",
+  "block": "D",
+  "block_name": "Temporomandibular Joint and Facial Trauma",
+  "level": "R2-3",
+  "reading_time_min": 36,
+  "guidelines_version": "AAOMS TMD Clinical Practice Guidelines 2022 · EACMFS TMJ Guidelines 2023 · ICOP 2020 (Orofacial Pain Classification)",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Wilkes CH. Internal derangements of the temporomandibular joint. Arch Otolaryngol Head Neck Surg (1989)",
+    "de Leeuw R, Klasser GD (eds). Orofacial Pain: Guidelines for Assessment, Diagnosis, and Management. AAOP 5th ed. (2013)",
+    "Schiffman E et al. Diagnostic Criteria for Temporomandibular Disorders (DC/TMD). J Oral Facial Pain Headache (2014)"
+  ],
+  "learning_objectives": [
+    "Apply the Wilkes classification to stage internal derangements of the TMJ from clinical and radiographic findings",
+    "Distinguish masticatory myofascial pain from TMJ arthropathy and intra-articular disc disorders using DC/TMD criteria",
+    "Interpret TMJ MRI findings relevant to disc displacement with and without reduction",
+    "Select appropriate conservative management strategies (splint therapy, physiotherapy, pharmacotherapy) based on diagnosis and staging",
+    "Recognise indications for escalation from conservative to surgical management of TMD",
+    "Identify systemic conditions commonly associated with TMJ arthritis (rheumatoid, psoriatic, juvenile idiopathic arthritis)"
+  ],
+  "sections": [
+    {
+      "id": "D1-S1",
+      "title": "TMJ Anatomy and Biomechanics",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The temporomandibular joint (TMJ) is a bilateral synovial joint unique in the body in that both joints must function simultaneously and in coordination. It is a ginglymoarthrodial joint — capable of both hinge (ginglymoid) and gliding (arthrodial) motion. The articulating surfaces are covered by fibrocartilage (not hyaline cartilage), making the TMJ less susceptible to primary osteoarthritis than peripheral joints but still vulnerable to degenerative joint disease under abnormal loading.\n\nThe biconcave articular disc (meniscus) divides the joint into superior and inferior compartments. The superior compartment allows translational (gliding) movement during wide opening; the inferior compartment permits rotation. The disc consists of fibrous connective tissue with three distinct zones: an anterior band (thick), an intermediate zone (thin, the weight-bearing zone), and a posterior band (thickest, approximately 3 mm). The bilaminar zone (retrodiscal tissue) attaches posteriorly, providing elastic traction returning the disc anteriorly during closing. The superior retrodiscal lamina contains elastic fibres; the inferior lamina is inelastic collagen.\n\nThe masticatory muscles — masseter (superficial and deep heads), medial pterygoid, lateral pterygoid (superior and inferior heads), and temporalis — provide the primary forces acting on the joint. The lateral pterygoid inferior head protracts the condyle during opening; the superior head stabilises the disc during power stroke. Normal maximum mandibular opening is 40–55 mm (interincisal); painful limitation below 35 mm is clinically significant. Lateral excursion is normally 8–12 mm; protrusion 6–9 mm."
+        },
+        {
+          "type": "table",
+          "title": "TMJ Articular Structures and Clinical Relevance",
+          "headers": ["Structure", "Composition", "Function", "Clinical Relevance"],
+          "rows": [
+            ["Articular disc (intermediate zone)", "Dense fibrocartilage, avascular", "Weight bearing, load distribution", "Perforation = bone-on-bone contact, OA"],
+            ["Posterior band", "Thick fibrocartilage (~3mm)", "Anchors disc posteriorly", "Anterior disc displacement = condyle rides on posterior band"],
+            ["Bilaminar zone (retrodiscal)", "Superior elastic + inferior inelastic collagen", "Disc return on closing", "Highly innervated/vascularised; source of pain in disc displacement"],
+            ["Superior joint compartment", "Synovial fluid, superior surface disc", "Translation during wide opening", "Site of steroid/hyaluronic acid injection"],
+            ["Fibrocartilage (articular surface)", "Type I collagen, no nerve supply", "Load bearing, joint movement", "Repairs poorly when damaged; susceptible to adaptive remodelling"],
+            ["Condylar head", "Bone with fibrocartilage cap", "Rotates/translates during jaw opening", "Condylar erosion in inflammatory arthritis, OA"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "TMJ Unique Feature — Fibrocartilage, Not Hyaline Cartilage",
+          "content": "The TMJ is covered by fibrocartilage (collagen type I) rather than hyaline cartilage (collagen type II). This is a classic exam question. The clinical implication is that TMJ fibrocartilage has limited intrinsic repair capacity but shows considerable adaptive remodelling capacity — 'adaptive' changes should not be conflated with pathological osteoarthritis on imaging unless symptoms coexist."
+        }
+      ]
+    },
+    {
+      "id": "D1-S2",
+      "title": "Classification of Temporomandibular Disorders",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Temporomandibular disorders (TMD) encompass a heterogeneous group of conditions affecting the masticatory muscles, TMJs, and associated structures. The Diagnostic Criteria for Temporomandibular Disorders (DC/TMD), published by Schiffman et al. in 2014 and endorsed by the International RDC/TMD Consortium, provides the current gold-standard classification framework. The DC/TMD distinguishes between Axis I (physical diagnoses) and Axis II (psychosocial assessment).\n\nAxis I physical diagnoses are grouped into three broad categories: (1) **Masticatory Muscle Disorders** — myalgia (local and myofascial pain), myofascial pain with referral, myospasm, contracture, and hypertrophy; (2) **TMJ Disorders** — disc displacement with reduction (DDwR), disc displacement with reduction and intermittent locking (DDwRIL), disc displacement without reduction with limited opening (DDwoR-LO), disc displacement without reduction without limited opening (DDwoR-NLO); and (3) **Joint Disease** — degenerative joint disease (osteoarthritis, osteoarthrosis), systemic arthritides, condylysis/idiopathic condylar resorption (ICR).\n\nFor clinical use, the Wilkes staging system (1989) remains widely applied in surgical planning for internal derangements, staging TMJ internal derangements from Stage I (reducing disc displacement with painless click, no structural changes) through Stage V (chronic closed lock with severe osteoarthritis, perforated disc). The Wilkes system integrates clinical features, MRI findings, and arthrographic data to guide surgical decision-making, particularly for arthroscopy and open surgery candidacy."
+        },
+        {
+          "type": "table",
+          "title": "Wilkes Classification of TMJ Internal Derangement",
+          "headers": ["Stage", "Clinical Features", "MRI Findings", "Structural Changes", "Typical Management"],
+          "rows": [
+            ["I (Early)", "Painless click; full opening; no locking", "Slight disc displacement anteriorly; reduces on opening", "None; normal disc contour", "Reassurance, self-care, physiotherapy"],
+            ["II (Early/intermediate)", "Occasional painful click; intermittent locking; slight opening limitation", "Anterior disc displacement; irregular disc contour", "Slight disc deformation", "Splint, physiotherapy, NSAIDs"],
+            ["III (Intermediate)", "Frequent painful locking; restricted opening <35mm; joint pain", "Non-reducing anterior disc displacement; moderate disc deformation", "Articular surface changes beginning", "Failed conservative → arthroscopy"],
+            ["IV (Intermediate/late)", "Chronic pain; restricted opening; crepitus", "Chronic non-reducing displacement; severe disc deformation", "Osteophytes, sclerosis, flattening condyle", "Arthroscopy or open discoplasty"],
+            ["V (Late)", "Variable pain; crepitus; malocclusion changes possible", "Perforated/destroyed disc; severe osteoarthritis", "Advanced OA: osteophytes, flattening, resorption, erosion", "Discectomy ± replacement; TJR if severe"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Differentiating the TMJ Click",
+          "content": "A TMJ click is classified by its temporal relationship to jaw opening: an early opening click (within first 10 mm) suggests mild anterior disc displacement; a late opening click (>25 mm opening) suggests more advanced displacement. A reciprocal click — on both opening and closing — is pathognomonic of disc displacement WITH reduction (DDwR). A click on opening only, or absence of a previously present click accompanied by sudden limitation of opening, suggests conversion to disc displacement WITHOUT reduction (closed lock). This clinical history is crucial to staging."
+        }
+      ]
+    },
+    {
+      "id": "D1-S3",
+      "title": "Diagnostic Imaging of the TMJ",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Imaging modality selection in TMD depends on the clinical question: bony changes vs. disc and soft tissue pathology. **Panoramic radiography** (OPG) is a reasonable first-line screening tool for gross bony changes but has significant limitations including superimposition and 20–25% geometric distortion. **Cone beam CT (CBCT)** provides superior detail of bony changes — condylar erosion, osteophyte formation, flattening, and sclerosis — with lower radiation than medical CT. It cannot visualise the disc or synovial fluid.\n\n**MRI of the TMJ** is the gold standard for soft tissue assessment and is the imaging modality of choice for internal derangements, disc displacement, joint effusion, synovial inflammation, and marrow changes. Standard MRI protocol includes: sagittal oblique T1-weighted sequences in closed and open mouth positions (to assess disc position and translation), and proton-density or T2-weighted sequences (to assess disc morphology, effusion, and oedema). The normal disc is uniformly hypointense (dark) on T1 and T2. Disc displacement is identified when the posterior band is displaced anteriorly to the 12 o'clock position (superior condylar head in the sagittal plane). Joint effusion appears as high T2 signal in the joint spaces. **Diagnostic arthrography** is largely superseded by MRI but may be used intraoperatively during arthroscopy.\n\nFor condylar resorption (ICR), serial CBCT imaging every 6–12 months quantifies progression. For suspected inflammatory arthritis (RA, PsA, JIA), seronegative or seropositive assessment, ESR, CRP, anti-CCP antibodies, and rheumatology co-management are required alongside imaging."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "MRI Normal Disc Position — 12 O'Clock Rule",
+          "content": "On sagittal oblique T1-weighted MRI with the mouth CLOSED, the posterior band of the articular disc should sit at the 12 o'clock position relative to the condylar head. Any anterior displacement of the posterior band beyond this position indicates disc displacement. 'With reduction' = the disc returns to 12 o'clock position on OPEN MOUTH MRI. 'Without reduction' = disc remains anterior on both closed and open mouth images — this is the hallmark of a closed lock."
+        }
+      ]
+    },
+    {
+      "id": "D1-S4",
+      "title": "Masticatory Myofascial Pain and Orofacial Pain Disorders",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Masticatory myofascial pain (MFP) is the most common form of TMD, affecting approximately 6–12% of the general population and responsible for up to 80% of TMD presentations in primary care. It is characterised by dull, aching pain in the masticatory muscles — typically the masseter, temporalis, and medial pterygoid — that is worse with chewing and jaw function and may be accompanied by referred pain patterns. Unlike joint-based TMD, MFP is not associated with joint sounds, clicking, or restricted opening on passive stretch.\n\nDC/TMD criteria for myofascial pain require: familiar pain in the jaw, temple, or ear reproduced on palpation of the masseter or temporalis; and pain present for ≥3 months. Myofascial pain with referral (formerly 'myofascial pain with referral trigger points') additionally requires that palpation of the muscle reproduces pain at a site distant from the palpation location — the referral pattern. Temporalis trigger points characteristically refer to ipsilateral temporal headache; masseter trigger points refer to the pre-auricular region, mandibular teeth, and ear.\n\nThe biopsychosocial model (DC/TMD Axis II) is central to understanding MFP: sleep disturbance, anxiety, depression, and catastrophising are strongly associated with chronification of masticatory pain and predict poor response to local treatments alone. Validated instruments (PHQ-4, GAD-7, PROMIS) screen for psychosocial comorbidity. CBT referral and pain psychology input are recommended for patients with high pain catastrophising scores or significant psychosocial burden. Parafunctional behaviours — bruxism, clenching, jaw-guarding — are frequently identified precipitating or perpetuating factors."
+        },
+        {
+          "type": "table",
+          "title": "Key Features Distinguishing Masticatory Myalgia from TMJ Disc Disorder",
+          "headers": ["Feature", "Masticatory Myalgia/MFP", "TMJ Disc Displacement"],
+          "rows": [
+            ["Pain location", "Muscle belly on palpation; diffuse face/head", "Preauricular; localized to joint"],
+            ["Joint sounds", "Absent", "Click (DDwR) or crepitus (OA/DDwoR)"],
+            ["Opening pattern", "Reduced; straight (symmetric); improves on passive stretch", "Deflects to affected side (DDwoR); reciprocal click (DDwR)"],
+            ["Response to passive stretch", "Opening increases (muscle guard)", "Opening remains limited (mechanical block)"],
+            ["Bruxism association", "Strong", "Moderate"],
+            ["MRI findings", "Normal joint; possible muscle hypertrophy", "Disc displacement; possible effusion"],
+            ["Primary treatment", "Physiotherapy, CBT, low-dose TCA, occlusal splint", "Splint, NSAIDs, arthrocentesis if locking"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D1-S5",
+      "title": "Occlusal Splint Therapy",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Occlusal splints (stabilisation appliances) are the most widely prescribed conservative treatment for TMD and bruxism-related masticatory muscle disorders. The stabilisation splint (also called a Michigan splint, centric relation splint, or flat-plane splint) is a full-arch, hard acrylic, maxillary appliance that provides: even bilateral posterior contacts in maximum intercuspation, anterior guidance (canine or group), and absence of posterior guidance. The mechanism of action remains debated: proposed mechanisms include reduction of joint loading, interruption of parafunctional cycles, and temporary proprioceptive change. Evidence from systematic reviews (including the Cochrane review by Fricton et al. 2010) suggests stabilisation splints are superior to placebo for pain and jaw function in myofascial TMD and disc displacement disorders.\n\nThe **anterior positioning splint** is a controversial device that protrudes the mandible to reduce the disc onto the condylar head (reduce DDwR clicks). While it may achieve symptom relief, long-term use risks posterior tooth open bite from posterior disclusion and should be time-limited (<3–6 months). It is not recommended as first-line in current AAOMS 2022 guidelines.\n\nPartial coverage (hard) **NTI-tss (Nociceptive Trigeminal Inhibition Tension Suppression System)** devices cover only the anterior teeth. Their use has been associated with paradoxical temporomandibular disorders and posterior tooth overeruption with long-term use; they are not recommended for TMD management per AAOMS. Soft splints (bite guards) are suitable for bruxism protection but are not therapeutic for TMD-related pain in the same way as hard stabilisation appliances."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Irreversible Treatments — Occlusal Equilibration Warning",
+          "content": "Permanent occlusal adjustment (tooth grinding, irreversible restorations) to treat TMD is not supported by evidence and is explicitly contraindicated as a first-line treatment in the AAOMS TMD Clinical Practice Guidelines 2022. The principle of 'reversibility first' mandates that initial TMD management should use only reversible approaches (splints, physiotherapy, pharmacotherapy). Irreversible treatments should never be implemented until reversible options have been thoroughly trialled."
+        }
+      ]
+    },
+    {
+      "id": "D1-S6",
+      "title": "Pharmacotherapy and Conservative Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Pharmacological management of TMD targets pain, inflammation, and parafunctional muscle activity. NSAIDs are first-line for acute TMJ arthralgia and myalgia: ibuprofen 400–600 mg TDS or naproxen 500 mg BD for 7–14 days. Cyclo-oxygenase (COX-2) selective inhibitors are preferred in patients with GI risk factors. Topical NSAIDs (diclofenac gel) may provide local benefit with reduced systemic side effects. Corticosteroid intra-articular injections (triamcinolone 10–20 mg) are indicated for acute inflammatory flares of TMJ arthralgia not responding to oral NSAIDs; they should be limited to 3 injections per year due to cartilage degradation risk with repeated administration.\n\nFor chronic pain with central sensitisation features, low-dose tricyclic antidepressants (TCAs) — amitriptyline 10–50 mg nocte — have the strongest evidence as adjunct analgesics for chronic musculoskeletal pain, independent of antidepressant effect. SNRIs (duloxetine 30–60 mg) are an alternative with better tolerability. Benzodiazepines (diazepam 2–5 mg nocte) provide short-term muscle relaxation but must not be prescribed beyond 4 weeks due to dependence risk. Muscle relaxants (cyclobenzaprine 5–10 mg nocte) may be considered for acute episodes.\n\nPhysiotherapy forms the cornerstone of multi-disciplinary TMD management. Evidence-based interventions include: manual therapy (joint mobilisation, soft tissue massage), therapeutic exercise (jaw opening and lateral excursion exercises), postural correction (particularly cervical posture), and patient education. Acupuncture has moderate evidence for myofascial pain specifically. Cognitive-behavioural therapy (CBT) is the most evidence-based psychological intervention and is indicated for all patients with chronic pain, sleep disturbance, or high catastrophising scores."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Hyaluronic Acid Injection — Evidence Summary",
+          "content": "Intra-articular hyaluronic acid (sodium hyaluronate, Ostenil, Suplasyn) injections into the superior joint compartment have evidence supporting benefit in TMJ osteoarthritis, particularly for pain and joint mobility. Three systematic reviews (including Altman 2022, J Oral Rehabil) show superiority to placebo injections for pain at 3 and 6 months. They are generally placed after arthrocentesis lavage. The effect is thought to be via viscosupplementation, restoring synovial fluid lubrication and reducing inflammatory mediator concentration."
+        }
+      ]
+    },
+    {
+      "id": "D1-S7",
+      "title": "Systemic Arthritides and the TMJ",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The TMJ is affected in systemic inflammatory arthritides in a predictable pattern. **Rheumatoid arthritis (RA)** involves the TMJ in 50–75% of patients over time, typically bilaterally. It causes synovial pannus formation, progressive condylar erosion, and ultimately fibrous ankylosis. Imaging shows condylar resorption with flattening, erosion, and osteoporosis. Anti-CCP antibody positivity and RF are diagnostic. DMARD therapy (methotrexate, leflunomide, biologic agents) is managed by rheumatology. OMFS involvement is for symptom management, TMJ splinting, and ultimately surgical intervention when joint destruction is severe.\n\n**Psoriatic arthritis (PsA)** affects the TMJ less commonly than RA but may present with TMJ arthralgia as the first manifestation before cutaneous psoriasis becomes evident. CBCT may show erosion and irregular joint surfaces. Seronegative (RF negative) with HLA-B27 association in axial disease. **Juvenile idiopathic arthritis (JIA)** is particularly significant in OMFS because it causes progressive condylar destruction during the growth period, leading to mandibular retrognathia, anterior open bite, and facial deformity if untreated. Early rheumatology and OMFS co-management is essential; intra-articular steroid injections in childhood can arrest condylar destruction but must be used judiciously due to growth suppression risk.\n\n**Idiopathic condylar resorption (ICR, condylysis)** is an important entity predominantly affecting young women (90% female, typically 15–35 years) characterised by progressive bilateral condylar resorption leading to progressive Class II malocclusion, retrognathia, and anterior open bite. Proposed aetiologies include biomechanical loading (high FMA, steep articular eminence), hormonal factors (oestrogen receptor expression on condylar fibrocartilage), and systemic inflammatory processes. ICR is a key contraindication to orthognathic surgery in the active phase — operating during active resorption leads to relapse. Stabilisation with an anteriorly repositioning splint and serial CBCT monitoring for 12–24 months to confirm arrest before surgical intervention is standard practice."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "ICR and Orthognathic Surgery — Critical Contraindication",
+          "content": "Active idiopathic condylar resorption is a CONTRAINDICATION to orthognathic surgery. Surgery during active ICR results in condylar further resorption postoperatively, causing unpredictable and often severe skeletal relapse. Diagnosis of active ICR requires serial CBCT at 6-12 monthly intervals showing progressive condylar volume reduction. Only after 12-24 months of documented stability should orthognathic surgery proceed. High-risk factors: young woman, high FMA angle, steep articular eminence, Class II retrognathia, anterior open bite, prior orthodontic Class II correction."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of TMJ disorders with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "D1-Q1",
+        "stem": "A 28-year-old woman presents with a 6-month history of clicking in the right TMJ on opening, which is sometimes painful. She reports occasional brief episodes of locking that resolve spontaneously. Her maximum opening is 42 mm with a deflection to the right, and a palpable click occurs at 18 mm opening with a reciprocal click on closing. MRI shows the posterior band of the right disc displaced anterior to the 12 o'clock position on the closed-mouth view, with return to normal position on the open-mouth view. What is the diagnosis and Wilkes stage?",
+        "options": {
+          "A": "Disc displacement without reduction (DDwoR); Wilkes Stage III",
+          "B": "Disc displacement with reduction (DDwR) with intermittent locking; Wilkes Stage II",
+          "C": "Osteoarthritis of the TMJ; Wilkes Stage IV",
+          "D": "Masticatory myofascial pain; Wilkes Stage I"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The reciprocal click (on both opening and closing), intermittent locking episodes that self-resolve, and MRI showing disc displacement that REDUCES on mouth opening confirms disc displacement with reduction with intermittent locking (DDwRIL), classified under DC/TMD. The intermittent locking and occasional pain, with slight disc deformation and no bony changes, corresponds to Wilkes Stage II (early/intermediate). Full opening of 42 mm with deflection to the affected side is consistent with DDwR.",
+          "wrong": {
+            "A": "DDwoR would show the disc remaining anteriorly displaced on BOTH closed and open MRI views, typically with restricted opening <35 mm that does NOT improve with passive stretch.",
+            "C": "Osteoarthritis would show crepitus and bony changes (osteophytes, erosion, flattening) on CBCT. Clicking is a disc phenomenon; crepitus is the joint sound associated with bone-on-bone contact in OA.",
+            "D": "Myofascial pain presents with muscle tenderness, no joint sounds, and normal MRI. Wilkes staging is specifically for internal derangements, not myofascial pain."
+          },
+          "guideline": "DC/TMD (Schiffman et al. J Oral Facial Pain Headache 2014) — DDwRIL criteria: familiar pain + click + intermittent locking + reduction on MRI",
+          "trial": "Wilkes CH. Internal derangements of the TMJ. Arch Otolaryngol Head Neck Surg (1989): Stage II = slightly limited opening, intermittent locking, slight disc deformation, no bony changes",
+          "pearl": "Reciprocal click (both opening AND closing) = disc displacement WITH reduction. Single opening click = DDwR. Absent click + sudden limited opening = conversion to DDwoR (closed lock). MRI confirms: disc returns to 12 o'clock on open-mouth image = 'with reduction'."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q2",
+        "stem": "On MRI of the TMJ, where should the posterior band of the articular disc be located in a normal joint with the mouth closed?",
+        "options": {
+          "A": "At the 9 o'clock position (posterior to the condyle)",
+          "B": "At the 12 o'clock position (superior to the condyle)",
+          "C": "At the 3 o'clock position (anterior to the condyle)",
+          "D": "At the 6 o'clock position (inferior to the condyle)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In a normal TMJ on closed-mouth sagittal oblique T1-weighted MRI, the posterior band of the articular disc sits at the 12 o'clock position relative to the condylar head — that is, directly superior to the condyle. This is the standard anatomical reference. Any displacement of the posterior band anterior to this position (towards 3 o'clock) constitutes anterior disc displacement. The degree of displacement can be quantified in degrees or described as mild (<10°), moderate (10-20°), or severe (>20°) displacement.",
+          "wrong": {
+            "A": "9 o'clock would represent a posteriorly displaced disc, which is rare and clinically distinct from anterior disc displacement.",
+            "C": "3 o'clock represents anterior displacement of the posterior band — this IS the definition of disc displacement, not normal anatomy.",
+            "D": "6 o'clock is anatomically impossible for the posterior band — the inferior joint compartment is bounded by the condyle below and disc above."
+          },
+          "guideline": "DC/TMD Imaging Protocol (Schiffman et al. 2014) — posterior band at 12 o'clock = normal position; anterior to 12 o'clock = disc displacement",
+          "trial": "Tasaki MM et al. Classification and prevalence of TMJ disk displacement in patients and symptom-free volunteers. Am J Orthod Dentofacial Orthop (1996): 12 o'clock criterion for normal disc position validated in 330 joints",
+          "pearl": "Normal TMJ disc: POSTERIOR BAND at 12 O'CLOCK on closed-mouth MRI. This is the single most important TMJ MRI reference point. Displacement = posterior band anterior to 12 o'clock. Reduction = posterior band returns to 12 o'clock on open-mouth view."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q3",
+        "stem": "A 32-year-old man wakes up with sudden inability to open his mouth beyond 22 mm, with deviation of the jaw to the right on opening. He reports a longstanding right-sided TMJ click that is now absent. There is no history of trauma. He can achieve only 24 mm opening even with passive assisted stretching. What is the most likely diagnosis?",
+        "options": {
+          "A": "Masticatory muscle spasm secondary to bruxism",
+          "B": "Acute disc displacement without reduction (closed lock), right TMJ",
+          "C": "TMJ ankylosis following prior subcondylar fracture",
+          "D": "Trigeminal motor neuropathy causing pterygoid weakness"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The sudden onset limited opening (<25 mm), deviation to the ipsilateral side, disappearance of a previously present TMJ click, and inability to improve with passive stretch are the classic presentation of acute disc displacement without reduction (acute closed lock). The click disappears because the disc is no longer reducing during opening — it remains permanently anteriorly displaced, physically blocking full condylar translation. Wilkes Stage III. Passive stretching does not improve opening significantly (mechanical block distinguishes DDwoR from myospasm, where passive stretch improves opening).",
+          "wrong": {
+            "A": "Muscle spasm does cause acute opening limitation, but opening IMPROVES with passive assisted stretch (no mechanical block). Spasm also does not cause disappearance of a pre-existing click.",
+            "C": "TMJ ankylosis causes chronic, slowly progressive restricted opening (not sudden onset), often with prior trauma/infection history. There would be no prior clicking history.",
+            "D": "Trigeminal motor neuropathy affecting the pterygoid would cause weak deviation rather than a sudden locked jaw with prior click history."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — acute DDwoR: restricted opening <35 mm, no improvement on passive stretch, deviation to affected side",
+          "trial": "Nitzan DW et al. Arthrocentesis: a simplified treatment for severe, complicated temporomandibular joint lock. J Oral Maxillofac Surg (1991): arthrocentesis immediate success rate 95% for acute closed lock",
+          "pearl": "Acute closed lock (DDwoR) = SUDDEN limited opening (<35 mm) + deviation to SAME side + disappearance of previous click + NO improvement with passive stretch. First-line treatment: arthrocentesis under LA/sedation to wash out inflammatory mediators and physically mobilise the disc. Success rate >90% for acute presentations."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q4",
+        "stem": "A 45-year-old woman with a 3-year history of bilateral facial pain, tenderness in the masseter and temporalis on palpation, and headaches across the temporal region presents to the TMD clinic. Maximum opening is 43 mm without pain; opening improves to 46 mm with passive gentle stretching. There are no joint sounds. MRI shows normal disc position bilaterally. Her PHQ-9 score is 14 (moderate depression). What is the primary diagnosis and the most appropriate initial management?",
+        "options": {
+          "A": "Bilateral disc displacement without reduction; MRI-guided arthrocentesis",
+          "B": "Masticatory myofascial pain; multimodal approach including stabilisation splint, physiotherapy, and psychosocial co-management",
+          "C": "Temporomandibular joint osteoarthritis; intra-articular corticosteroid injections",
+          "D": "Trigeminal neuralgia; carbamazepine 100 mg BD"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The presentation satisfies DC/TMD criteria for masticatory myofascial pain: familiar pain reproduced on palpation of masseter and temporalis, >3 months duration, improved opening on passive stretch (no mechanical block), no joint sounds, and normal MRI. The PHQ-9 score of 14 confirms moderate depression, which is a significant Axis II comorbidity requiring co-management. Stabilisation splint (Michigan splint), physiotherapy, and psychosocial management (including CBT referral or low-dose TCA) form the evidence-based multimodal approach.",
+          "wrong": {
+            "A": "MRI is normal — disc displacement is excluded. Arthrocentesis has no indication here.",
+            "C": "OA would show bony changes on CBCT and crepitus clinically. Intra-articular steroids are for acute inflammatory TMJ arthralgia, not myofascial pain.",
+            "D": "Trigeminal neuralgia presents with brief (seconds), intense, electric-shock pain triggered by touching specific trigger zones. It does not cause muscle tenderness or the chronic dull aching pain described here."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — masticatory myofascial pain: first-line = reversible, conservative; DC/TMD Axis II psychosocial screening mandatory",
+          "trial": "Schiffman E et al. DC/TMD validation study. J Oral Facial Pain Headache (2014): myofascial pain criteria (sensitivity 0.90, specificity 0.99) validated against clinical gold standard",
+          "pearl": "Masticatory myofascial pain = bilateral muscle tenderness + familiar pain on palpation + no joint sounds + normal MRI + often significant psychosocial comorbidity. PHQ-4/PHQ-9 scoring for depression is AXIS II DC/TMD assessment — must do in all TMD patients. High catastrophising score = predict poor outcome from local treatment alone → CBT referral."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q5",
+        "stem": "In the DC/TMD classification, which finding on MRI specifically distinguishes disc displacement 'with reduction' from disc displacement 'without reduction'?",
+        "options": {
+          "A": "Presence or absence of joint effusion on T2-weighted images",
+          "B": "Disc returning to 12 o'clock position on open-mouth MRI vs. remaining anteriorly displaced",
+          "C": "Degree of disc deformation (mild vs. severe morphological change)",
+          "D": "Presence of osteophytes on the condylar head"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The definitive MRI criterion distinguishing DDwR from DDwoR is whether the disc reduces — i.e., returns to its normal 12 o'clock position on the OPEN MOUTH image — or remains anteriorly displaced regardless of jaw position. DDwR: disc displaced anteriorly on closed-mouth MRI, but returns to normal position on open-mouth MRI. DDwoR: disc remains anteriorly displaced on BOTH closed and open mouth images. This distinction guides treatment: DDwR is generally managed conservatively; DDwoR with limited opening (acute closed lock) may require arthrocentesis.",
+          "wrong": {
+            "A": "Joint effusion is associated with disc displacement and inflammation but does not distinguish with vs without reduction — effusion can be present in both.",
+            "C": "Disc deformation relates to chronicity and severity (Wilkes staging) but does not define with vs without reduction.",
+            "D": "Osteophytes indicate osteoarthritic change and Wilkes Stage IV–V, but are not the distinguishing criterion between with/without reduction."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — disc reduction defined as return to 12 o'clock on open-mouth MRI; validated criterion",
+          "trial": "Tasaki MM et al. Prevalence and staging of disc displacement in patients with TMJ disorders. Am J Orthod (1996): MRI open/closed protocol achieves sensitivity 0.87 / specificity 0.96 for DDwoR",
+          "pearl": "The OPEN MOUTH MRI is the critical sequence for distinguishing DDwR from DDwoR. Always request BOTH closed and open mouth sagittal sequences. DDwR = disc goes home on opening. DDwoR = disc stays displaced regardless of jaw position."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q6",
+        "stem": "A stabilisation splint for TMD management should be fabricated to which occlusal design specification?",
+        "options": {
+          "A": "Posterior bite blocks with no anterior contact, protrusive guidance on premolars",
+          "B": "Even bilateral posterior contacts in centric relation, anterior guidance on canines, no posterior guidance",
+          "C": "Anterior only contact (NTI design) to reduce masseter electromyographic activity",
+          "D": "Deep anterior bite plane to intrude lower incisors and advance the mandible"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The gold-standard stabilisation splint (Michigan splint) design specifies: (1) full-arch maxillary coverage (all teeth contact evenly), (2) bilateral even contacts in centric relation position (maximum intercuspation on the splint), (3) anterior guidance on canines (or group function) during lateral excursions, and (4) NO posterior contacts during protrusive or lateral movements. This design reduces joint loading, distributes forces evenly, and interrupts parafunctional tooth contact patterns without permanently altering the occlusion.",
+          "wrong": {
+            "A": "Posterior bite blocks with no anterior contact describes a pivot splint — used in specific indications for joint decompression, not as standard stabilisation splints.",
+            "C": "NTI (anterior only) devices are NOT recommended by AAOMS for TMD treatment due to risk of posterior tooth extrusion, posterior open bite, and paradoxical TMD worsening.",
+            "D": "A deep anterior bite plane advancing the mandible describes an anterior repositioning appliance — useful for temporary disc recapture in DDwR, but associated with posterior open bite with prolonged use and not the stabilisation splint design."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — stabilisation splint design: even bilateral contacts in centric relation + anterior guidance + no posterior guidance",
+          "trial": "Fricton J et al. Systematic review and meta-analysis of randomised controlled trials evaluating intraoral orthopedic appliances for TMD. J Orofacial Pain (2010): stabilisation splints superior to control for pain; NTI devices not recommended",
+          "pearl": "Stabilisation splint = Michigan splint = flat plane splint = even bilateral contacts + canine guidance + NO posterior guidance. This is the ONLY reversible, evidence-based appliance design for TMD in AAOMS guidelines. NTI = anterior teeth only = NOT recommended."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q7",
+        "stem": "A 16-year-old girl with juvenile idiopathic arthritis (JIA) presents with progressive retrognathia and Class II malocclusion developing over 24 months. CBCT shows bilateral condylar erosion with 40% volume loss. Her rheumatologist has her well-controlled on methotrexate. What is the MOST important OMFS management consideration?",
+        "options": {
+          "A": "Proceed with bilateral BSSO to correct the retrognathia as soon as skeletal maturity is reached",
+          "B": "Coordinate closely with rheumatology to confirm disease remission before any jaw surgery; consider TMJ replacement at skeletal maturity if condylar destruction is severe",
+          "C": "Perform early bilateral condylotomy to remove diseased condylar heads and arrest progression",
+          "D": "Initiate early fixed orthodontic treatment to camouflage the skeletal Class II without surgery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "JIA with active condylar destruction is the classic scenario where orthognathic surgery (BSSO) is contraindicated during active disease. Performing mandibular advancement surgery during active condylar resorption leads to progressive relapse as condylar destruction continues postoperatively. The correct approach is: rheumatology collaboration to achieve disease remission, serial CBCT to document arrest of condylar resorption, and planning joint replacement (total TMJ prosthesis, e.g. Biomet/Zimmer-Biomet stock or custom) combined with orthognathic surgery only after confirmed stability for ≥12 months. Early intra-articular steroid injections by rheumatology may arrest condylar destruction.",
+          "wrong": {
+            "A": "BSSO alone is inappropriate because (1) disease activity may still be present, and (2) the damaged condyles cannot sustain orthognathic surgical forces — relapse and further condylar destruction are predictable outcomes.",
+            "C": "Condylotomy removes the affected condylar heads but does not provide joint replacement — this would result in an open bite and fibrous union without adequate condylar support for function.",
+            "D": "Camouflage orthodontics may temporarily mask the skeletal discrepancy but does not address progressive condylar destruction and is not definitive management for a 16-year-old with severe articular damage."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) and EACMFS JIA TMJ Management Guideline (2023) — active JIA condylar destruction: rheumatology co-management first; joint replacement planning at skeletal maturity",
+          "trial": "Lochbühler N et al. Joint replacement in JIA. J Oral Maxillofac Surg (2014): combined total joint replacement + LeFort I/BSSO achieves stable skeletal correction after confirmed JIA remission",
+          "pearl": "JIA + progressive condylar resorption + skeletal Class II = DO NOT do BSSO alone. The damaged condyles cannot support mandibular advancement. Correct sequence: (1) Achieve rheumatic disease remission, (2) CBCT at 12-24 months to confirm condylar stability, (3) Combined total joint replacement + orthognathic surgery at skeletal maturity."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D1-Q8",
+        "stem": "Which pharmacological agent has the STRONGEST evidence base as an adjunctive treatment for chronic masticatory myofascial pain in patients who have failed splint therapy and physiotherapy?",
+        "options": {
+          "A": "Tramadol 50 mg TDS",
+          "B": "Amitriptyline 10-50 mg nocte",
+          "C": "Diazepam 5 mg TDS",
+          "D": "Celecoxib 200 mg OD"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Low-dose tricyclic antidepressants (TCAs), specifically amitriptyline at 10–50 mg nocte, have the strongest evidence for chronic musculoskeletal and masticatory pain syndromes. Their analgesic effect is independent of antidepressant effect and is mediated by enhancing descending noradrenergic pain inhibition and blocking serotonin/noradrenaline reuptake. Multiple RCTs and systematic reviews support their use in chronic TMD pain, fibromyalgia, and related myofascial disorders. The dose for analgesia (10–25 mg) is much lower than for depression (75–150 mg).",
+          "wrong": {
+            "A": "Tramadol is a weak opioid/SNRI with poor evidence for chronic TMD pain and significant dependency and abuse potential. Not recommended for chronic TMD management.",
+            "C": "Diazepam provides short-term muscle relaxation but is contraindicated beyond 4 weeks due to dependency. It does not have long-term evidence for chronic myofascial pain management.",
+            "D": "COX-2 inhibitors are appropriate for acute inflammatory arthralgia but have limited evidence for chronic myofascial pain syndromes. They do not address central sensitisation mechanisms."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — low-dose TCAs recommended for chronic TMD with central sensitisation features",
+          "trial": "Plesh O et al. Amitriptyline treatment of chronic pain in patients with TMJ disorders. J Oral Rehabil (1995): amitriptyline significantly reduces pain intensity and frequency vs placebo in chronic TMD over 8 weeks",
+          "pearl": "Chronic TMD pain = LOW-DOSE AMITRIPTYLINE (10-50 mg nocte). Analgesic effect independent of antidepressant effect. Start 10 mg nocte, titrate up slowly. Common side effects: dry mouth, morning sedation. Benefit usually seen at 4-6 weeks. This is also the treatment for other chronic musculoskeletal pain syndromes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q9",
+        "stem": "Idiopathic condylar resorption (ICR) predominantly affects which demographic, and what is the recommended management before any orthognathic surgical planning?",
+        "options": {
+          "A": "Middle-aged men; immediate BSSO to correct mandibular retrognathia",
+          "B": "Young women aged 15-35; 12-24 months of serial CBCT to confirm condylar stability before surgery",
+          "C": "Elderly patients of both sexes; total joint replacement as primary intervention",
+          "D": "Young men with Class III malocclusion; Le Fort I osteotomy alone to correct anterior open bite"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "ICR (condylysis) follows a striking demographic pattern: approximately 90% of cases occur in young women aged 15–35, often with high mandibular plane angle (high FMA), steep articular eminence, and retrognathia with anterior open bite. The hallmark is active condylar resorption leading to progressive skeletal changes. Before any orthognathic surgery, serial CBCT at 6–12 month intervals for a minimum of 12–24 months must confirm stability (no further condylar volume reduction). Operating during active ICR leads to severe relapse. Hormonal factors, oestrogen receptor expression on condylar fibrocartilage, and biomechanical loading are proposed aetiological factors.",
+          "wrong": {
+            "A": "ICR predominantly affects young women, not middle-aged men. Immediate BSSO during active ICR is the key management error to avoid.",
+            "C": "Total joint replacement may ultimately be required in severe cases, but it is not the primary intervention. The first priority is confirming disease arrest.",
+            "D": "ICR causes Class II retrognathia and anterior open bite — not Class III. The sex demographic (young men) is also incorrect."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — ICR: serial CBCT 6-12 monthly; minimum 12-24 months stability before orthognathic surgery",
+          "trial": "Arnett GW et al. Progressive mandibular retrusion — idiopathic condylar resorption. Am J Orthod (1996): 90% female, 15-35 years; high FMA; relapse after premature orthognathic surgery in active phase",
+          "pearl": "ICR: 90% young women, high FMA, steep articular eminence, retrognathia + AOB. KEY RULE: minimum 12-24 months of serial CBCT stability before orthognathic surgery. Risk factor scoring (Arnett criteria) helps predict ICR risk in pre-surgical orthognathic planning."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q10",
+        "stem": "A patient undergoes an intra-articular corticosteroid injection (triamcinolone 20 mg) into the right TMJ superior joint compartment for acute inflammatory arthralgia. The pain resolves over 2 weeks. She returns 8 weeks later with recurrence. What is the appropriate next step?",
+        "options": {
+          "A": "Repeat corticosteroid injection immediately; plan up to 6 injections per year",
+          "B": "Reassess for systemic inflammatory arthritis; limit to maximum 3 corticosteroid injections per year due to cartilage degradation risk",
+          "C": "Proceed directly to TMJ arthroscopy and disc repositioning",
+          "D": "Prescribe long-term oral prednisolone 20 mg OD"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Recurrent TMJ arthralgia after corticosteroid injection should prompt reassessment for systemic inflammatory arthritis (RA, PsA, JIA) with appropriate serology (RF, anti-CCP, ANA, ESR, CRP). Regarding repeat injections: the maximum safe frequency is generally 3 injections per year into the same joint, as repeated corticosteroid injections cause progressive cartilage degradation, fibrocartilage thinning, and Schneiderian membrane thinning if the sinus is involved. Four or more injections per year significantly increase chondrotoxicity risk. Hyaluronic acid injection can be considered as an alternative for longer-term joint lubrication after arthrocentesis.",
+          "wrong": {
+            "A": "6 injections per year is excessive and risks chondrotoxicity. The safe upper limit is 3 per year for the same joint.",
+            "C": "Arthroscopy is not indicated without completing conservative management first. Recurrence at 8 weeks post-injection should prompt reassessment and additional conservative measures, not immediate surgical escalation.",
+            "D": "Systemic steroids for a unilateral TMJ problem are not appropriate — the systemic side effects vastly outweigh any local benefit."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — intra-articular corticosteroids: maximum 3 injections/year; reassess for systemic arthritis if recurrent",
+          "trial": "Emshoff R et al. Randomised controlled trial: TMJ arthrocentesis vs steroid injection. J Oral Maxillofac Surg (1994): corticosteroid injection effective for acute arthralgia; repeated injections (>3/year) increase cartilage damage",
+          "pearl": "Intra-articular TMJ corticosteroids: MAX 3 per year. Beyond this, chondrotoxicity exceeds benefit. Recurrent TMJ arthralgia = screen for systemic arthritis. RA, PsA, JIA all involve TMJ. Order RF, anti-CCP, ANA, ESR, CRP before assuming primary TMD in recurrent bilateral joint disease."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q11",
+        "stem": "What is the specific clinical manoeuvre used to distinguish acute disc displacement without reduction (closed lock) from masticatory muscle spasm as the cause of acute limited mandibular opening?",
+        "options": {
+          "A": "Injection of local anaesthetic into the masseter muscle",
+          "B": "Passive assisted stretch (gentle physician-assisted mandibular opening)",
+          "C": "Panoramic radiograph to exclude fracture",
+          "D": "Bite force measurement with a force gauge"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The passive assisted stretch test distinguishes a muscular cause (spasm, myositis) from a mechanical articular cause (disc displacement without reduction, ankylosis). With masticatory muscle spasm, the patient cannot actively open beyond a certain point, but GENTLE PASSIVE STRETCHING by the examiner produces additional jaw opening (the muscle yields to external force). With DDwoR (closed lock), the mechanical disc obstruction blocks further translation regardless of passive force — opening does NOT improve significantly with passive stretch. This simple bedside test has high clinical utility.",
+          "wrong": {
+            "A": "LA injection into the masseter might confirm masseter spasm as the pain source but does not distinguish disc block from muscle spasm as the cause of limited opening — and carries risks as a diagnostic manoeuvre.",
+            "C": "Radiographs exclude fracture but cannot differentiate muscle spasm from disc displacement without reduction in acute limited opening.",
+            "D": "Bite force measurement assesses jaw strength, not opening range or mechanism of limitation."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — passive stretch test is part of the clinical examination protocol: improvement ≥3mm = muscle origin; no improvement = mechanical/articular origin",
+          "trial": "Schiffman E et al. DC/TMD physical examination protocol. J Oral Facial Pain Headache (2014): passive stretch test: sensitivity 0.88 / specificity 0.93 for distinguishing muscle from disc limitation",
+          "pearl": "PASSIVE STRETCH TEST: key clinical differentiator. Muscle spasm = improves with passive stretch (guard releases). Disc lock (DDwoR) = does NOT improve (mechanical block). Clinical opening: if difference between active and passive opening is >3mm → muscle cause. If negligible difference → articular/disc cause."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q12",
+        "stem": "The DC/TMD Axis II assessment evaluates psychosocial factors in TMD. Which psychometric instrument is specifically recommended for depression screening in TMD patients?",
+        "options": {
+          "A": "Beck Anxiety Inventory (BAI)",
+          "B": "Patient Health Questionnaire-4 (PHQ-4) or PHQ-9",
+          "C": "Pain Catastrophizing Scale (PCS) only",
+          "D": "Minnesota Multiphasic Personality Inventory (MMPI)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The DC/TMD Axis II protocol specifies the PHQ-4 (4-item ultra-brief screening tool covering depression and anxiety) as the initial screen, with PHQ-9 (9-item) for more detailed depression assessment when PHQ-4 is positive. The GAD-7 is used for generalised anxiety. These instruments are validated, brief, and suitable for routine clinical use. PHQ-9 score ≥10 indicates moderate-severe depression requiring active management (including referral to clinical psychology or psychiatry) alongside TMD treatment.",
+          "wrong": {
+            "A": "The BAI screens for anxiety specifically. DC/TMD protocol recommends GAD-7 for anxiety screening, not BAI — though BAI is also validated. PHQ-4 covers both depression AND anxiety in one tool.",
+            "C": "The Pain Catastrophizing Scale is important for identifying catastrophising (a key predictor of chronification) but is not the primary depression screening instrument in the DC/TMD protocol.",
+            "D": "MMPI is a comprehensive 500+ item personality inventory used in specialist psychology assessment — not suitable for routine clinical TMD screening."
+          },
+          "guideline": "DC/TMD Axis II Assessment Protocol (Schiffman et al. 2014) — PHQ-4 initial screen; PHQ-9 for depression; GAD-7 for anxiety; PCS for catastrophising",
+          "trial": "Ohrbach R et al. DC/TMD Axis II validation. J Oral Facial Pain Headache (2014): PHQ-4 sensitivity 0.83 specificity 0.90 for detecting clinically significant psychological distress in TMD patients",
+          "pearl": "DC/TMD Axis II = PSYCHOSOCIAL assessment. Must do in ALL TMD patients. Instruments: PHQ-4 (depression/anxiety screen) → if positive, PHQ-9 + GAD-7 for detailed assessment. Pain Catastrophizing Scale (PCS) for chronification risk. High PCS score = refer to clinical psychology REGARDLESS of pain severity."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q13",
+        "stem": "Which TMJ finding on T2-weighted MRI is most consistent with active synovial inflammation and early osteoarthritis?",
+        "options": {
+          "A": "Low-signal (dark) disc in the superior joint compartment",
+          "B": "High T2 signal in the joint spaces (joint effusion)",
+          "C": "Normal condylar marrow signal",
+          "D": "Anterior disc displacement of the posterior band at 3 o'clock"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Joint effusion — hyperintense (bright white) signal within the joint spaces on T2-weighted MRI — indicates elevated synovial fluid volume, consistent with active synovial inflammation and/or early osteoarthritis. In normal TMJ, the joint spaces contain minimal synovial fluid and appear dark on T2. Joint effusion on MRI correlates with increased inflammatory cytokines (IL-1, IL-6, TNF-α) in synovial fluid analysis and is a marker of clinically significant intra-articular pathology. It is frequently associated with pain, tenderness, and disc displacement.",
+          "wrong": {
+            "A": "The normal TMJ disc is uniformly hypointense (dark) on both T1 and T2 — this represents normal disc fibrocartilage, not pathology. Disc signal change (bright on T2) would indicate disc degeneration.",
+            "C": "Normal condylar marrow signal is unremarkable — it is the normal finding. Subchondral bone marrow oedema (increased T2 signal in condylar head) would indicate active OA or AVN.",
+            "D": "Anterior disc displacement is an anatomical positional finding, not specific to T2-weighted sequences. Disc displacement alone does not imply active inflammation."
+          },
+          "guideline": "EACMFS TMJ Imaging Guidelines (2023) — T2 joint effusion is the primary MRI marker of active TMJ synovitis",
+          "trial": "Schellhas KP et al. TMJ biopsy and MRI correlation. Radiology (1989): T2 joint effusion correlates with histological synovitis and elevated inflammatory cytokines in aspirated synovial fluid",
+          "pearl": "T2 MRI: JOINT EFFUSION = bright white fluid in joint spaces = active inflammation. T1 MRI: disc displacement assessment = disc position relative to condyle. These are complementary sequences — both are needed. High T2 effusion + disc displacement = severe internal derangement with active synovitis."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q14",
+        "stem": "A 22-year-old woman presents with bilateral preauricular pain, jaw stiffness, and an audible click on opening bilaterally. She also reports morning headaches, difficulty sleeping, and her partner has noticed she grinds her teeth at night. PHQ-9 = 8, PCS = 35/52. What should be included in the initial management plan?",
+        "options": {
+          "A": "Hard maxillary stabilisation splint only",
+          "B": "Bilateral intra-articular corticosteroid injections",
+          "C": "Multimodal plan: stabilisation splint + physiotherapy + sleep hygiene advice + CBT referral given high PCS",
+          "D": "Bilateral arthroscopy under GA for disc repositioning"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "This patient has features of both DDwR (bilateral TMJ clicks) and masticatory myalgia, combined with bruxism and significant psychosocial factors (PHQ-9 = 8 = mild-moderate depression; PCS = 35 = high catastrophising — threshold 30+). A multimodal approach is essential: hard stabilisation splint for bruxism and joint protection, physiotherapy for muscle pain and jaw exercise, sleep hygiene addressing the sleep disturbance component, and CBT referral given the high pain catastrophising score (PCS ≥30 is strongly predictive of chronification and poor response to local treatment alone). A PCS score of 35 is particularly important to address early to prevent chronic TMD development.",
+          "wrong": {
+            "A": "A splint alone is insufficient when significant psychosocial factors are present. High PCS scores predict poor response to isolated local treatment.",
+            "B": "Corticosteroid injections are for acute inflammatory arthralgia, not for a young patient with bilateral DDwR, myalgia, and predominantly psychosocial drivers.",
+            "D": "Bilateral arthroscopy is a surgical escalation entirely inappropriate as first-line management for bilateral DDwR in a young patient. Conservative management must be thoroughly trialled first."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — high PCS score requires psychosocial co-management; multimodal conservative approach recommended for mixed presentations",
+          "trial": "Dworkin SF et al. Biobehavioral treatment of chronic low back pain vs TMD. J Dent Res (1994): CBT + self-management superior to only physical intervention in TMD with high psychosocial scores",
+          "pearl": "Pain Catastrophizing Scale (PCS) ≥30/52 = HIGH catastrophising = MANDATORY CBT/psychology referral. This is the single strongest predictor of poor outcome from local-only TMD treatment. High catastrophising + TMD = multidisciplinary (OMFS + physiotherapy + psychology) mandatory from day one."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D1-Q15",
+        "stem": "Rheumatoid arthritis affects the TMJ in what proportion of patients over time, and what is the characteristic pathological finding in the joint?",
+        "options": {
+          "A": "5-10%; calcium pyrophosphate deposition (pseudogout)",
+          "B": "50-75%; synovial pannus formation with progressive condylar erosion",
+          "C": "90-100%; fibrous ankylosis uniformly within 2 years",
+          "D": "20-30%; reactive synovitis without structural damage"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Rheumatoid arthritis affects the TMJ in 50–75% of patients over the course of the disease, typically bilaterally and symmetrically. The pathological hallmark is synovial pannus formation — proliferative, vascularised granulation tissue from inflamed synovium that invades and erodes articular surfaces. Over time this leads to progressive condylar flattening, erosion, and ultimately loss of joint space. Unlike degenerative OA, RA causes systemic joint involvement with characteristic serology (RF, anti-CCP), morning stiffness, and extra-articular features.",
+          "wrong": {
+            "A": "5-10% dramatically underestimates TMJ RA involvement. Calcium pyrophosphate deposition (CPPD/pseudogout) is a metabolic arthropathy, not the RA pathological finding.",
+            "C": "Fibrous ankylosis within 2 years in 90-100% is vastly overstated. While RA can cause ankylosis, it typically occurs after years of progressive joint destruction without adequate treatment.",
+            "D": "20-30% understates the frequency. Reactive synovitis without structural damage underestimates the erosive potential of RA in the TMJ."
+          },
+          "guideline": "EACMFS TMD Guidelines (2023) — RA TMJ involvement: 50-75% prevalence; characterised by synovial pannus and erosive arthritis",
+          "trial": "Helenius LM et al. Temporomandibular joint involvement in patients with RA. Oral Surg Oral Med Oral Pathol (2006): TMJ involvement confirmed clinically/radiographically in 74% of RA patients studied",
+          "pearl": "RA + TMJ = 50-75% involvement. Bilateral condylar erosion. Pannus = invasive granulation tissue from synovium. Screen all RA patients for TMJ symptoms. CBCT shows bilateral condylar flattening/erosion. Anti-CCP is more specific than RF for RA diagnosis."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q16",
+        "stem": "A 19-year-old woman with a 1-year history of clicking and TMJ pain is given an anterior repositioning splint (ARS) to recapture the anteriorly displaced disc. She uses it full-time for 6 months with good pain relief. What is the PRIMARY risk of long-term full-time ARS use?",
+        "options": {
+          "A": "Permanent anterior disc displacement and conversion to closed lock",
+          "B": "Posterior open bite from posterior tooth disclusion with posterior tooth over-eruption",
+          "C": "Condylar hypermobility and subluxation",
+          "D": "Trigeminal neuralgia from prolonged nerve compression"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The anterior repositioning splint maintains the mandible in a protruded position to recapture the anteriorly displaced disc. While this may relieve pain, full-time prolonged use (>3–6 months) keeps the posterior teeth out of occlusal contact. This prolonged disclusion allows posterior teeth to over-erupt (alveolar and dental adaptation to the new vertical position), creating a permanent posterior open bite when the splint is removed. This iatrogenic posterior open bite can be extremely difficult or impossible to manage without orthognathic surgery. ARS should be strictly time-limited (maximum 3–6 months) with progressive weaning.",
+          "wrong": {
+            "A": "Paradoxically, the ARS is designed to recapture the disc and prevent conversion to DDwoR. However, if treatment is stopped, the disc may re-displace — but the primary risk of the ARS itself is the posterior open bite.",
+            "C": "Condylar hypermobility is not caused by ARS use. Subluxation is a pre-existing condition.",
+            "D": "Trigeminal neuralgia from splint use has no mechanistic basis or clinical evidence."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — ARS: maximum 3-6 months use; posterior open bite risk with prolonged full-time use; not recommended as long-term treatment",
+          "trial": "Lundh H et al. Anterior repositioning splint in TMJ disc displacement. Oral Surg (1985): ARS effective short-term pain reduction but posterior open bite risk in prolonged use; long-term disc recapture rates poor",
+          "pearl": "ARS = MAXIMUM 3-6 months. Long-term ARS = POSTERIOR OPEN BITE from posterior tooth over-eruption. This is an iatrogenic malocclusion. The AAOMS guideline explicitly states ARS is not suitable for long-term use. Start weaning to stabilisation splint at 3 months."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D1-Q17",
+        "stem": "What is the maximum mandibular opening (interincisal distance) below which is considered clinically significant limitation in an adult patient?",
+        "options": {
+          "A": "25 mm",
+          "B": "35 mm",
+          "C": "45 mm",
+          "D": "55 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A maximum interincisal opening below 35 mm in adults is the established clinical threshold for significant mandibular opening limitation (hypomobility), as defined by the DC/TMD protocol. Normal range is 40–55 mm. Between 35–40 mm represents mild limitation. Below 35 mm — particularly acute-onset below 25-30 mm — represents a closed lock requiring active management. The measurement is taken with the teeth in maximum active opening, measured between the incisal edges of upper and lower central incisors, corrected for overbite.",
+          "wrong": {
+            "A": "25 mm represents severe limitation (acute closed lock range). While clinically important, 35 mm is the established threshold for significant limitation as defined in DC/TMD.",
+            "C": "45 mm is within normal range and would not be considered limitation.",
+            "D": "55 mm is the upper end of normal range."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — maximum voluntary opening <35 mm = limited opening; DC/TMD criterion for restricted opening disorders",
+          "trial": "Schiffman E et al. DC/TMD validation study. J Oral Facial Pain Headache (2014): <35 mm interincisal opening criterion validated as clinically significant limitation",
+          "pearl": "Key TMJ opening thresholds: Normal = 40-55 mm. Mild limitation = 35-40 mm. Significant limitation = <35 mm (DDwoR threshold). Acute closed lock = typically <25-30 mm. Always measure with a ruler from upper to lower incisal edges, corrected for overbite."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q18",
+        "stem": "A 55-year-old man presents with gradually worsening right preauricular pain and crepitus (grinding sound) on jaw movement over 2 years. Opening is 38 mm with deviation to the right. CBCT shows right condylar flattening, subchondral sclerosis, and osteophyte formation. There are no bony changes in the left joint. What is the diagnosis and appropriate management?",
+        "options": {
+          "A": "Disc displacement without reduction; immediate arthroscopy",
+          "B": "Degenerative joint disease (osteoarthritis), right TMJ; conservative management with NSAIDs, physiotherapy, and stabilisation splint",
+          "C": "Osteoradionecrosis of the condyle; HBO and debridement",
+          "D": "Osteosarcoma of the condyle; urgent biopsy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The combination of gradually progressive pain, crepitus (bone-on-bone joint sound — distinct from clicking), condylar flattening, subchondral sclerosis, and osteophyte formation on CBCT in a middle-aged man is diagnostic of TMJ degenerative joint disease (osteoarthritis/OA). DC/TMD diagnosis requires: familiar joint pain + crepitus + CBCT showing condylar changes (≥1 of: osteophyte, subchondral sclerosis, erosion, flattening, generalised sclerosis). First-line management is conservative: NSAIDs, stabilisation splint, physiotherapy, and patient education. Most TMJ OA symptoms improve spontaneously over 2-3 years with conservative management.",
+          "wrong": {
+            "A": "The crepitus + CBCT bony changes indicate OA, not DDwoR. Arthroscopy is not indicated as first-line for TMJ OA.",
+            "C": "Osteoradionecrosis requires prior radiation therapy history. This patient has no radiation history.",
+            "D": "Osteosarcoma of the condyle is rare and presents with rapid growth, pain, paresthesia, and aggressive bony destruction on imaging — not the gradual, sclerotic, osteophytic pattern of OA."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — TMJ OA criteria: familiar pain + CBCT bony changes; conservative management first-line",
+          "trial": "de Leeuw R et al. Natural course of craniomandibular disorders over a 10-year period. J Orofacial Pain (1994): 85% of TMJ OA patients show significant symptom improvement with conservative management over 2-3 years",
+          "pearl": "Crepitus = bone-on-bone = OA (not disc). Clicking = disc displacement. Crepitus + CBCT changes (flattening, osteophytes, sclerosis) = DC/TMD diagnosis of TMJ OA (degenerative joint disease). Conservative management works well: 85% improve over 2-3 years. Reserve surgery for refractory cases."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q19",
+        "stem": "What is the rationale for considering an anterior repositioning splint RATHER than a stabilisation splint in a patient with acute painful TMJ clicking (DDwR, Wilkes Stage II)?",
+        "options": {
+          "A": "The ARS reduces masticatory muscle electromyographic activity more than the stabilisation splint",
+          "B": "The ARS protrudes the mandible to recapture the anteriorly displaced disc over the condyle, reducing the click and pain",
+          "C": "The ARS provides more even bilateral posterior tooth contacts than a flat-plane splint",
+          "D": "The ARS is made of softer material, providing better cushioning for joint impact"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The anterior repositioning splint works by maintaining the mandible in a protruded (anterior) position. This protrusive posture brings the condyle forward, underneath the anteriorly displaced disc, effectively 'recapturing' the disc over the condylar head and restoring a more normal disc-condyle relationship. In this position, the click disappears and pain often reduces significantly. The rationale is mechanical recapture of the displaced disc. However, this only achieves disc recapture when the mandible is in the protruded (splint-in) position; removing the splint typically allows the disc to re-displace.",
+          "wrong": {
+            "A": "Reducing muscle EMG activity is the proposed mechanism of stabilisation splints (via proprioceptive change), not specifically the ARS. The ARS mechanism is mechanical disc recapture.",
+            "C": "The ARS is designed to protrude the mandible — it deliberately creates an excursive, non-habitual position. It does NOT provide centric relation contacts as a stabilisation splint does.",
+            "D": "ARS are made of hard acrylic, not soft material. Soft splints are separate devices used primarily for bruxism protection."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — ARS mechanism: disc recapture by mandibular protrusion; time-limited use ≤3-6 months",
+          "trial": "Lundh H et al. TMD splint therapy RCT. Oral Surg (1985): ARS reduces click and pain in DDwR short-term; stabilisation splint equivalent for pain without disc recapture",
+          "pearl": "ARS mechanism = MANDIBULAR PROTRUSION brings condyle under anteriorly displaced disc = disc recapture = click disappears. But this only works when the splint is in. Long-term full-time use → posterior open bite. Use maximum 3-6 months, then wean to stabilisation splint."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q20",
+        "stem": "In the Wilkes staging system for TMJ internal derangements, which combination of features places a patient at Stage V (late stage)?",
+        "options": {
+          "A": "Painless click with no structural changes and full opening",
+          "B": "Intermittent locking, occasional pain, slightly irregular disc contour",
+          "C": "Perforated or destroyed disc, advanced osteoarthritis with osteophytes and erosion, variable pain, crepitus",
+          "D": "Chronic non-reducing disc displacement with moderate osteophytes but no disc perforation"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Wilkes Stage V (late stage) represents the end-stage of TMJ internal derangement, characterised by: perforated or structurally destroyed disc, severe osteoarthritic changes (osteophytes, erosion, subchondral sclerosis, flattening), variable pain (which may be less severe than intermediate stages due to fibrosis), and crepitus. Paradoxically, some Stage V patients have less pain than Stage III-IV because fibrosis has stabilised the joint. Surgical options at this stage include discectomy (with or without replacement), modified condylotomy, or total joint replacement for severe cases.",
+          "wrong": {
+            "A": "Painless click with full opening and no structural changes = Stage I. The earliest and most benign presentation.",
+            "B": "Intermittent locking + occasional pain + slightly irregular disc = Stage II (early/intermediate).",
+            "D": "Chronic non-reducing displacement + moderate osteophytes but no disc perforation = Stage IV (intermediate/late), not Stage V."
+          },
+          "guideline": "Wilkes CH. Internal derangements of the TMJ. Arch Otolaryngol Head Neck Surg (1989): Stage V = perforated disc + advanced OA + crepitus + variable pain",
+          "trial": "McCain JP et al. TMJ arthroscopy. J Oral Maxillofac Surg (1992): Wilkes staging validated arthroscopically — Stage V shows disc perforation and bone-on-bone contact intraoperatively",
+          "pearl": "Wilkes Staging summary: I = painless click, normal. II = occasional lock, slight disc deformity. III = chronic lock, articular surface changes. IV = osteophytes, sclerosis. V = PERFORATED DISC + ADVANCED OA. Stage determines surgical candidacy: Stage III-IV → arthroscopy. Stage V → discectomy or TJR."
+        },
+        "difficulty": 1
+      }
+    ]
+  }
+}

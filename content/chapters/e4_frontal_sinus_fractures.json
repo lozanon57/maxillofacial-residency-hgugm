@@ -1,0 +1,612 @@
+{
+  "id": "E4",
+  "title": "Frontal Sinus Fractures",
+  "subtitle": "Block E — Anatomy, Classification, Obliteration vs Cranialization, Complications",
+  "block": "E",
+  "block_name": "Facial Trauma",
+  "level": "R3-5",
+  "reading_time_min": 32,
+  "guidelines_version": "EACMFS Facial Trauma Guidelines 2021 · BAOMS Frontal Sinus Fracture Guidelines 2020 · Journal of Cranio-Maxillo-Facial Surgery Consensus 2020",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Duvall AJ et al. Frontal sinus fractures: analysis of treatment results. Arch Otolaryngol (1987)",
+    "Rodriguez ED et al. Frontal sinus fractures. Plast Reconstr Surg (2008)",
+    "Luce EA. Frontal sinus fractures: guidelines to management. Plast Reconstr Surg (1987)"
+  ],
+  "learning_objectives": [
+    "Describe the surgical anatomy of the frontal sinus including the nasofrontal outflow tract and posterior table relationship to the anterior cranial fossa",
+    "Classify frontal sinus fractures and determine whether anterior table, posterior table, or nasofrontal outflow tract is involved",
+    "Distinguish when frontal sinus fractures can be managed conservatively versus when surgical intervention is required",
+    "Understand the principles and indications for frontal sinus obliteration versus cranialization",
+    "Recognise immediate and delayed complications of frontal sinus fractures including CSF leak, meningitis, and mucocoele formation",
+    "Describe the surgical approaches used for frontal sinus exposure and repair"
+  ],
+  "sections": [
+    {
+      "id": "E4-S1",
+      "title": "Frontal Sinus Anatomy and Fracture Classification",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The frontal sinus is a bilateral, asymmetric pneumatic cavity within the frontal bone, present in approximately 85% of adults (aplasia is relatively common). Its anterior (outer) wall — the **anterior table** — is composed of approximately 4–6 mm of dense cortical bone and represents the major structural component of the forehead. The posterior wall — the **posterior table** — is much thinner (1–2 mm) and forms the anterior wall of the anterior cranial fossa, separated from the frontal lobe dura by only this thin bone and epidural fat.\n\nThe sinus drains via the **nasofrontal outflow tract (NFOT)** — also called the nasofrontal duct — which passes through the frontoethmoidal complex to enter the middle meatus of the nose. The NFOT is critical to frontal sinus health: obstruction leads to mucus accumulation, which can organise into a **mucocoele** (expanding mucus-filled cyst) or become infected (mucopyocoele), with risk of intracranial or orbital extension.\n\nFrontal sinus fractures are classified based on: (1) which wall is involved (anterior table only, posterior table, or both), (2) whether the NFOT is involved, (3) degree of displacement (non-displaced, displaced >1 table width), and (4) comminution. **Posterior table involvement** is the critical feature determining management — posterior table fractures communicate with the anterior cranial fossa, creating risk of dural tear, CSF leak, and meningitis.\n\nFrontal sinus fractures occur in high-energy craniofacial trauma and represent 5–15% of all facial fractures. The force required to fracture the anterior table is approximately 800–1600 lb — greater than any other facial bone — reflecting the protective function of the anterior table over the frontal lobe."
+        },
+        {
+          "type": "table",
+          "title": "Frontal Sinus Fracture Classification and Management Algorithm",
+          "headers": ["Fracture Type", "Structures Involved", "Immediate Risk", "Surgical Indication"],
+          "rows": [
+            ["Anterior table — non-displaced", "Anterior cortex only", "Cosmetic contour irregularity", "None — conservative management"],
+            ["Anterior table — displaced (>1 table width)", "Anterior cortex", "Forehead contour deformity; forehead numbness", "ORIF for cosmetic restoration"],
+            ["Posterior table — non-displaced", "Posterior cortex; potential dural tear", "CSF leak; meningitis risk", "Observation; neurosurgery if CSF persists"],
+            ["Posterior table — displaced (>1 table width)", "Posterior cortex; dural tear likely; intracranial injury", "Dural tear; CSF leak; meningitis; brain injury", "Neurosurgical evaluation; cranialization or repair"],
+            ["NFOT involved — any", "Nasofrontal outflow tract", "Mucocoele formation (delayed); chronic sinusitis", "Obliterate sinus or restore drainage"],
+            ["Comminuted — all walls", "Entire sinus; dura; brain", "Multiple risks; intracranial injury", "Combined neurosurgery + OMFS approach"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "The 'Force Threshold' of the Frontal Bone",
+          "content": "The anterior table of the frontal sinus is the strongest facial bone — it requires 800-1600 pounds of force to fracture. This means ANY frontal sinus fracture implies significant high-energy trauma and should prompt thorough assessment for associated intracranial injuries (which occur in 30-60% of frontal sinus fractures), cervical spine injury, and other facial fractures. Never underestimate a frontal sinus fracture."
+        }
+      ]
+    },
+    {
+      "id": "E4-S2",
+      "title": "Management Decision-Making",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The management of frontal sinus fractures is guided by a systematic assessment of three key variables: (1) anterior table displacement, (2) posterior table displacement and integrity, and (3) NFOT patency.\n\n**Anterior table fractures only**: Non-displaced anterior table fractures require no surgical intervention. Displaced anterior table fractures with cosmetically significant forehead contour deformity (typically displacement >1 table width, approximately 4–6 mm) require reduction via a coronal or endoscopic approach and titanium plate fixation. The fragments are reduced and plated, restoring forehead contour. Persistent post-operative contour irregularities from minor displacement may be camouflaged with alloplastic filler or fat grafting.\n\n**Posterior table fractures**: The threshold for neurosurgical intervention is displacement >1 posterior table width (>1–2 mm). Undisplaced posterior table fractures can be managed conservatively with serial CT monitoring, as the dura is likely intact. Displaced posterior table fractures carry high probability of dural tear and CSF leak. The management options for posterior table fractures are **obliteration** and **cranialization** (see subsequent section).\n\n**NFOT involvement**: Assessment of NFOT patency is crucial. CT findings suggesting NFOT injury include: fracture fragments in the NFOT, comminution of the frontoethmoidal recess, and haemosinus (blood in frontal sinus, though this alone is not diagnostic of NFOT injury). NFOT obstruction carries >50% risk of late mucocoele formation if the sinus is not either adequately drained, obliterated, or cranialised. Functional endoscopic sinus surgery (FESS) alone may restore NFOT drainage for minor injuries; for severe comminution, obliteration is preferred."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — NFOT Assessment on CT",
+          "content": "The nasofrontal outflow tract is assessed on thin-slice coronal CT of the paranasal sinuses. Key CT features suggesting NFOT injury: (1) fracture lines crossing the frontal sinus floor/recess, (2) comminuted fragments in the frontoethmoidal recess, (3) soft tissue density completely filling the frontal sinus recess. NFOT injury is a key driver of management — if the outflow tract cannot be reliably restored to function, the sinus must be obliterated or cranialised to prevent late mucocoele."
+        }
+      ]
+    },
+    {
+      "id": "E4-S3",
+      "title": "Frontal Sinus Obliteration vs Cranialization",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The two established surgical strategies for management of frontal sinus fractures that cannot be reliably drained are obliteration and cranialization.\n\n**Frontal sinus obliteration** ('sinus obliteration') involves: (1) removal of ALL sinus mucosa (complete stripping of the mucosal lining, including mucosa from the recesses using diamond burrs), (2) drilling the sinus walls until bleeding bone is achieved (ensuring no residual mucosa is buried), (3) plugging the NFOT with a fat graft to prevent mucosal ingrowth, and (4) filling the sinus cavity with obliterating material — autologous fat (abdominal or temporal region) is most commonly used. The filled sinus gradually incorporates with surrounding bone over months to years. Obliteration preserves the anterior table (forehead contour is maintained) and is preferred for anterior table fractures with NFOT injury in the absence of posterior table dural tear.\n\n**Cranialization** removes the posterior table of the frontal sinus entirely, joining the frontal sinus cavity with the anterior cranial fossa — the brain (covered by dura) effectively 'fills in' the space previously occupied by the sinus. The anterior cranial base dura is repaired if torn, and the NFOT is plugged with fat. Cranialization is preferred when: (1) the posterior table is significantly comminuted (making dural repair or preservation difficult), (2) there is a large dural tear, (3) brain is herniated into the sinus, or (4) posterior table fractures are so severe that reconstruction would be structurally unreliable. Cranialization is performed in conjunction with neurosurgery.\n\nThe long-term risk of BOTH obliteration and cranialization is mucocoele formation from residual or regenerated sinus mucosa — reported rates are 3–25% at long-term follow-up. Meticulous complete mucosal stripping is the critical technical step to minimise this risk."
+        },
+        {
+          "type": "table",
+          "title": "Obliteration vs Cranialization: Indications and Comparison",
+          "headers": ["Feature", "Obliteration", "Cranialization"],
+          "rows": [
+            ["Posterior table status", "Intact or minimally displaced", "Comminuted, significantly displaced, or removed"],
+            ["Dural tear", "Absent or repaired primarily", "Present (large) or impossible to repair without cranial access"],
+            ["NFOT", "Plugged with fat", "Plugged with fat"],
+            ["Anterior table", "Preserved and plated", "Preserved and plated"],
+            ["Brain relationship", "Anterior cranial floor remains", "Brain cavity expanded to fill sinus space"],
+            ["Neurosurgery involvement", "May not require neurosurgery", "Requires neurosurgery (posterior table removal)"],
+            ["Mucocoele risk", "3-25% (complete mucosal stripping essential)", "3-25% (residual mucosa risk)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Complete Mucosal Stripping — The Critical Technical Step",
+          "content": "The most important technical step in BOTH obliteration and cranialization is COMPLETE removal of all sinus mucosa, including mucosa in the deepest recesses, cells, and foramina. Even a small amount of residual mucosa can regenerate and form a mucocoele, which expands silently for years and can then erode into the orbit or anterior cranial fossa with catastrophic consequences. Use a diamond burr on all sinus walls to ensure removal of any residual mucosal elements before obliterating or cranialising."
+        }
+      ]
+    },
+    {
+      "id": "E4-S4",
+      "title": "Surgical Approach: Coronal Flap",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **coronal (bicoronal) approach** is the standard surgical access for frontal sinus fractures requiring open repair. A scalp incision is made from tragus to tragus across the vertex of the skull, either directly across the top of the scalp or within the posterior hairline. The scalp flap is raised in the subgaleal plane (between the galea aponeurotica and the pericranium/periosteum), which protects the supraorbital and supratrochlear nerves (CN V1 — which supply forehead sensation) running within the flap. The periosteum is incised separately at the supraorbital rim to allow subperiosteal dissection down to the orbital rims and frontal sinus.\n\nThe approach is exceptionally versatile: it provides access to the entire frontal bone, frontal sinus (anterior and posterior tables), NOE complex, supraorbital rims, zygomatic arches, and orbital rims. The coronal scar is entirely hidden within the scalp and is generally very well tolerated aesthetically. Complications of the coronal approach include: supraorbital nerve injury (temporary or permanent forehead numbness from stretch injury), temporal hollow deformity (from atrophy of the temporoparietal fat pad or temporalis muscle), and alopecia at the incision line (if the incision is placed across hair follicles rather than within natural hair partings).\n\nAlternative approaches for limited anterior table fractures include the **endoscopic approach** via scalp ports, which reduces the coronal incision to small stab incisions with endoscopic visualization. This is preferred by some surgeons for isolated anterior table displacement without posterior table or NFOT involvement, but has limitations in the extent of access achievable."
+        }
+      ]
+    },
+    {
+      "id": "E4-S5",
+      "title": "Complications of Frontal Sinus Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Frontal sinus fractures carry a unique set of complications — both immediate and delayed — that relate to their proximity to the anterior cranial fossa, the presence of sinus mucosa, and the NFOT.\n\n**Immediate complications**: \n- CSF rhinorrhoea (dural tear + cribriform plate or posterior table fracture communicating with the sinonasal cavity)\n- Intracranial haemorrhage (epidural, subdural, intracerebral haematoma — 30–60% of frontal sinus fractures have associated intracranial injury)\n- Pneumocephalus (air entering the subarachnoid space through a posterior table/dural tear — visible on CT as intracranial air)\n- Frontal lobe contusion\n\n**Delayed complications (weeks to years)**:\n- **Mucocoele**: Expanding mucus-filled cyst from NFOT obstruction or inadequate mucosal stripping. Appears on CT as a non-enhancing, expanding cystic lesion within the frontal sinus that can erode bone and extend into the orbit or intracranially. Requires surgical exenteration (removal of entire mucocoele + epithelial lining) and usually sinus obliteration or cranialization.\n- **Meningitis**: From unrepaired CSF leak or recurrent CSF leak years later. Risk approximately 10% at 10 years for unrepaired CSF leaks from frontal sinus fractures.\n- **Post-traumatic sinusitis**: From NFOT obstruction without mucocoele formation. May respond to FESS.\n- **Osteomyelitis of the frontal bone**: From extension of frontal sinusitis into the frontal bone marrow — 'Pott's puffy tumour' (forehead oedema with underlying frontal osteomyelitis) is a classic but rare complication.\n\n**Pott's Puffy Tumour** specifically refers to subperiosteal abscess of the frontal bone from extension of frontal sinusitis (or post-traumatic sinusitis) — a fluctuant forehead swelling with overlying oedema. Treatment: surgical drainage, removal of necrotic bone, and IV antibiotics."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Mucocoele — Silent Delayed Complication",
+          "content": "Frontal sinus mucocoele may develop 10-20 years after frontal sinus fracture from NFOT obstruction or residual sinus mucosa. The patient may be completely asymptomatic until the mucocoele erodes into the orbit (causing proptosis, diplopia) or intracranially (meningitis, brain abscess). Long-term follow-up CT at 1-5 years post-injury is recommended for all patients with frontal sinus fractures managed by any method. Any soft tissue expansion within the frontal sinus region on follow-up imaging requires urgent evaluation."
+        }
+      ]
+    },
+    {
+      "id": "E4-S6",
+      "title": "CSF Leaks and Dural Repair",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "CSF rhinorrhoea from frontal sinus fractures results from concurrent dural tear allowing CSF to enter the frontal sinus and drain through the NFOT into the nose. The beta-2 transferrin test (see E1) confirms the diagnosis. CT cisternography (intrathecal contrast CT) or gadolinium-enhanced MRI cisternography localises the specific site of the CSF leak for surgical planning.\n\nManagement of acute CSF rhinorrhoea from frontal sinus fractures:\n- **Conservative**: Bed rest, head elevation 30°, stool softeners (to reduce ICP elevation from Valsalva), broad-spectrum antibiotics (ceftriaxone), and avoidance of nose blowing. Approximately 80% of acute CSF leaks from closed fractures resolve spontaneously within 7–10 days. Monitor for meningitis.\n- **Surgical dural repair**: Indicated if CSF does not resolve within 7–10 days, or recurs. Approaches include: endonasal endoscopic dural repair (using fascia lata or fat graft sealed with fibrin glue, via the NFOT), and open dural repair via a combined neurosurgical + frontal sinus approach (coronal flap + craniotomy).\n- **Lumbar drain**: May be used for 5–7 days to divert CSF and allow dural healing while CSF pressure is reduced. Used as bridge to definitive repair or when surgery is not immediately feasible.\n\n**Antibiotic prophylaxis for CSF leak**: NICE guidance and ATLS no longer recommend routine prophylactic antibiotics for CSF leaks (insufficient evidence for prevention of meningitis). However, most trauma centres continue to use prophylaxis (ceftriaxone or amoxicillin-clavulanic acid) pending resolution, accepting the lack of high-level evidence given the severity of potential meningitis."
+        }
+      ]
+    },
+    {
+      "id": "E4-S7",
+      "title": "Special Considerations: Forehead Contour and Late Reconstruction",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Cosmetic forehead contour deformity is the primary indication for anterior table fracture repair. Significant depression of the forehead (particularly in the central forehead where deformity is most visible) causes considerable psychological distress. Primary repair (within 72 hours) provides the best aesthetic outcome by direct reduction and plate fixation of the displaced fragments. In cases where fragments are small, extensively comminuted, or significantly contaminated, primary repair may not achieve smooth contour, and secondary reconstruction is planned.\n\nSecondary reconstruction of forehead contour deformity (late repair at 6–12 months) uses several techniques:\n- **Autologous bone graft**: Calvarial split-thickness bone graft (from the contralateral skull using an oscillating saw — the outer table is taken, leaving the inner table intact), shaped and contoured to fill the defect. Gold standard for large defects.\n- **Alloplastic implants**: Custom titanium mesh (patient-specific, designed from CT data) or porous polyethylene (Medpor) are used for secondary reconstruction when the frontal sinus is obliterated or cranialised and the sinus cavity is no longer at risk. CAD/CAM titanium plates designed from pre-injury mirroring or CT data provide excellent dimensional accuracy.\n- **Calcium phosphate cement**: Injectable hydroxyapatite or calcium phosphate cements can fill smaller contour depressions and integrate with surrounding bone over time. Suitable for minor contour irregularities.\n\nThe key principle for any secondary reconstruction over a previously treated frontal sinus: ensure the sinus is completely obliterated or cranialised, with no risk of mucocoele or mucosa regenerating beneath the reconstruction. Placing alloplastic material over a potentially compromised frontal sinus risks implant infection and removal."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of frontal sinus fractures with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "E4-Q1",
+        "stem": "A 38-year-old man sustains a high-energy frontal blow in an RTA. CT shows a comminuted anterior table fracture with 8 mm depression and an intact posterior table. There is no CSF rhinorrhoea. The nasofrontal outflow tract appears disrupted on coronal CT. What is the most appropriate management?",
+        "options": {
+          "A": "Conservative management with analgesics and observation",
+          "B": "ORIF of anterior table fragments + frontal sinus obliteration with fat graft",
+          "C": "ORIF of anterior table only; NFOT obstruction is self-resolving",
+          "D": "Cranialization via combined neurosurgical approach"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This patient has: (1) significantly displaced anterior table (8 mm depression = significant cosmetic deformity requiring repair) and (2) NFOT disruption on CT (high risk of mucocoele if left unaddressed). The appropriate management is ORIF of the anterior table fragments (to restore forehead contour) combined with frontal sinus obliteration — complete mucosal stripping, fat plugging of NFOT, and fat obliteration of the sinus cavity. The posterior table is intact, so cranialization is not required. Obliteration prevents the late mucocoele that would otherwise develop from NFOT obstruction.",
+          "wrong": {
+            "A": "Conservative management of a significantly displaced anterior table (8 mm) fracture will result in permanent forehead contour deformity. NFOT disruption without treatment carries >50% risk of late mucocoele.",
+            "C": "NFOT obstruction does NOT self-resolve. Any significant NFOT disruption that cannot be reliably restored requires obliteration or cranialization to prevent mucocoele.",
+            "D": "Cranialization is indicated for significant posterior table fractures or comminution requiring posterior table removal. With an intact posterior table, obliteration is the appropriate and less invasive option."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — displaced anterior table + NFOT injury: ORIF + obliteration; intact posterior table; cranialization reserved for posterior table injury",
+          "trial": "Rodriguez ED et al. Frontal sinus fractures. Plast Reconstr Surg (2008): NFOT disruption without obliteration carries 53% risk of late mucocoele; obliteration reduces risk to <5%",
+          "pearl": "Anterior table displaced + NFOT disrupted + posterior table intact = ORIF + OBLITERATION. The displaced anterior table requires repair (cosmesis); the NFOT disruption mandates obliteration (mucocoele prevention). Cranialization is for posterior table problems."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q2",
+        "stem": "What is the primary indication for choosing CRANIALIZATION over OBLITERATION in frontal sinus fracture management?",
+        "options": {
+          "A": "Anterior table fracture with severe forehead depression",
+          "B": "NFOT disruption in an otherwise intact sinus",
+          "C": "Comminuted or severely displaced posterior table fracture with likely dural tear",
+          "D": "Small isolated posterior table fracture without CSF leak"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Cranialization — removing the posterior table entirely to unite the sinus cavity with the anterior cranial fossa — is specifically indicated when the posterior table is comminuted, severely displaced, or when there is a large dural tear that cannot be reliably repaired while preserving the posterior table. By removing the posterior table, the neurosurgeon has direct access to the dura for repair, and the 'dead space' of the sinus is eliminated by the brain expanding forward to fill it. This is a neurosurgical procedure requiring craniotomy.",
+          "wrong": {
+            "A": "Anterior table displacement alone is an indication for ORIF of the anterior table — neither obliteration nor cranialization is required if the posterior table and NFOT are intact.",
+            "B": "NFOT disruption in an otherwise intact (non-comminuted, non-displaced posterior table) sinus is an indication for OBLITERATION, not cranialization.",
+            "D": "A small isolated posterior table fracture WITHOUT CSF leak can be observed conservatively — neither obliteration nor cranialization is automatically required."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — cranialization: comminuted or severely displaced posterior table; large dural tear; brain herniation",
+          "trial": "Luce EA. Plast Reconstr Surg (1987): cranialization vs obliteration in frontal sinus fractures: cranialization preferred for posterior table fractures >1 table width or comminuted; obliteration for anterior table with NFOT injury",
+          "pearl": "CRANIALIZATION = POSTERIOR TABLE comminuted/displaced + possible dural tear. OBLITERATION = anterior table displaced + NFOT injury + posterior table INTACT. Key distinction: cranialization removes the posterior table; obliteration fills the sinus while preserving the posterior table."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q3",
+        "stem": "The frontal sinus anterior table requires approximately what force to fracture, compared to other facial bones?",
+        "options": {
+          "A": "50-100 pounds (similar to nasal bone)",
+          "B": "200-400 pounds (similar to mandible)",
+          "C": "800-1600 pounds (strongest facial bone)",
+          "D": "2000-3000 pounds (similar to skull vault)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The anterior table of the frontal sinus requires approximately 800–1600 pounds of force to fracture — significantly more than any other facial bone. This reflects its structural role as protection for the frontal lobe. Consequently, any frontal sinus fracture implies high-energy trauma and mandates thorough evaluation for associated intracranial injury (present in 30–60% of cases), cervical spine injury, and other facial fractures.",
+          "wrong": {
+            "A": "50-100 pounds is the approximate force required to fracture the nasal bones — the weakest facial bone.",
+            "B": "200-400 pounds is approximately the force for mandibular fracture.",
+            "D": "The skull vault itself can withstand forces in the range of 2000-3000 pounds in some areas — the frontal sinus anterior table at 800-1600 lb is the strongest FACIAL bone but not comparable to the full skull vault thickness."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — frontal sinus anterior table: 800-1600 lb required; always assess for intracranial injury",
+          "trial": "Duvall AJ et al. Frontal sinus fractures. Arch Otolaryngol (1987): biomechanical analysis — anterior table requires highest force of any facial bone; intracranial injury in 56% of frontal sinus fractures in this series",
+          "pearl": "FRONTAL SINUS = strongest facial bone (800-1600 lb). ANY frontal sinus fracture = HIGH ENERGY = check for: intracranial injury (30-60%), cervical spine injury, other facial fractures. Never underestimate a frontal sinus fracture."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E4-Q4",
+        "stem": "Complete removal of sinus mucosa during frontal sinus obliteration is critical because:",
+        "options": {
+          "A": "Residual mucosa causes post-operative haemorrhage",
+          "B": "Even small amounts of residual mucosa can regenerate and form a mucocoele years after obliteration",
+          "C": "Residual mucosa prevents adequate fat graft take",
+          "D": "Mucosa produces enzymes that dissolve titanium plate fixation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The frontal sinus mucosa is a secretory epithelium that produces mucus. If any mucosa is left behind during obliteration, it can regenerate and continue secreting mucus in the enclosed (obliterated) space. Over months to years, this mucus accumulates, forming a mucocoele — an expanding mucus-filled cyst that erodes through surrounding bone by pressure necrosis. A mucocoele can expand into the orbit (causing proptosis, diplopia) or intracranially (causing meningitis, brain abscess) — often decades after the original injury. Meticulous complete mucosal stripping, including using a diamond burr to remove mucosa from foramina and deep recesses, is therefore the critical technical step.",
+          "wrong": {
+            "A": "Residual mucosa does not cause haemorrhage.",
+            "C": "Residual mucosa is not the primary factor determining fat graft take — devascularisation and dead space are more relevant.",
+            "D": "Mucosa does not produce titanium-dissolving enzymes."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — complete mucosal stripping: most critical technical step in frontal sinus obliteration; residual mucosa = mucocoele risk",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): mucocoele occurred in 13% of obliterations with incomplete mucosal stripping vs 2% with complete stripping confirmed by diamond burr",
+          "pearl": "COMPLETE MUCOSAL STRIPPING is the most critical step in frontal sinus obliteration AND cranialization. Residual mucosa → MUCOCOELE (even 20 years later). Use diamond burr on all walls. NFOT plugged with fat. Fat obliteration fills dead space."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q5",
+        "stem": "A patient presents 15 years after a frontal sinus fracture (managed with obliteration) with progressive painless swelling of the left forehead and proptosis of the left eye. CT shows an expanding non-enhancing cystic lesion within the left frontal region eroding through the orbital roof. What is the diagnosis?",
+        "options": {
+          "A": "Epidural haematoma from delayed haemorrhage",
+          "B": "Frontal osteomyelitis (Pott's puffy tumour)",
+          "C": "Frontal sinus mucocoele from residual mucosa",
+          "D": "Meningioma of the anterior cranial fossa"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A slowly expanding non-enhancing cystic lesion developing over 15 years after frontal sinus obliteration, with bony erosion and orbital extension (proptosis), is the classic presentation of a post-operative frontal sinus mucocoele. Residual mucosa from the original obliteration has regenerated, accumulated mucus in the enclosed space, and gradually expanded, eroding the thin orbital roof. The non-enhancing cystic content (mucus) on CT distinguishes mucocoele from abscess (which enhances peripherally) or tumour (which may enhance). Treatment: complete surgical exenteration of the mucocoele lining + repeat obliteration or cranialization.",
+          "wrong": {
+            "A": "Epidural haematoma presents acutely with neurological deterioration, not as a 15-year indolent expansion.",
+            "B": "Pott's puffy tumour (frontal subperiosteal abscess) presents with acute forehead oedema, tenderness, and signs of infection — not indolent 15-year expansion.",
+            "D": "Meningioma is a solid, enhancing lesion on CT/MRI — not a non-enhancing cystic structure. It does not arise specifically in the context of prior frontal sinus obliteration."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — frontal sinus mucocoele: known late complication of obliteration and cranialization; CT follow-up recommended; treatment: surgical exenteration + re-obliteration",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): mucocoele development reported up to 20 years post-obliteration; 3-25% incidence; orbital and intracranial extension possible",
+          "pearl": "MUCOCOELE: slowly expanding, non-enhancing cystic lesion arising YEARS (sometimes decades) after frontal sinus surgery. Erodes bone by pressure. Can reach orbit (proptosis) or brain (meningitis). Treatment: complete exenteration of lining + re-obliteration. This is why long-term CT follow-up is mandatory after frontal sinus fracture management."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q6",
+        "stem": "In the Duvall et al. (1987) series of frontal sinus fractures, what percentage had associated intracranial injury?",
+        "options": {
+          "A": "10%",
+          "B": "30%",
+          "C": "56%",
+          "D": "80%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The Duvall et al. (1987) study of frontal sinus fractures in Arch Otolaryngol reported associated intracranial injuries in approximately 56% of cases. This high rate reflects the enormous force required to fracture the frontal sinus (800–1600 lb) and the posterior table's direct relationship to the anterior cranial fossa. This statistic underscores the mandatory CT brain assessment for all frontal sinus fractures.",
+          "wrong": {
+            "A": "10% significantly underestimates the associated intracranial injury rate in frontal sinus fractures.",
+            "B": "30% is the approximate rate for all facial fractures combined — frontal sinus fractures specifically have a higher rate due to the required force.",
+            "D": "80% overestimates the rate — while many patients have some intracranial change, established intracranial injury is reported at approximately 56%."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — frontal sinus fractures: intracranial injury rate 30-60%; CT brain mandatory",
+          "trial": "Duvall AJ et al. Arch Otolaryngol (1987): 56% intracranial injury in 120 frontal sinus fractures; most were contusions and epidural haematomas requiring neurosurgical co-management",
+          "pearl": "Frontal sinus fractures + intracranial injury: approximately 56% (Duvall 1987). ALWAYS obtain CT brain. Neurosurgery co-management for all posterior table fractures and all patients with intracranial injury."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q7",
+        "stem": "A patient with a frontal sinus fracture develops forehead oedema and a fluctuant forehead swelling 3 weeks after the injury. CT shows a subperiosteal collection over the frontal bone with underlying frontal bone erosion. What is the classic clinical diagnosis?",
+        "options": {
+          "A": "Mucocoele",
+          "B": "Epidural haematoma",
+          "C": "Pott's puffy tumour",
+          "D": "Orbital cellulitis from ethmoid extension"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Pott's puffy tumour — originally described by Percivall Pott in 1760 — is a subperiosteal abscess of the frontal bone resulting from extension of frontal sinusitis (or post-traumatic frontal sinusitis) through the diploe into the subperiosteal space. It presents as a fluctuant, tender forehead swelling with pitting oedema, often with signs of infection (fever, leucocytosis). CT shows a subperiosteal fluid collection with underlying frontal bone osteomyelitis/erosion. Treatment: surgical drainage of the abscess, debridement of necrotic bone, FESS to drain the frontal sinus, and IV antibiotics.",
+          "wrong": {
+            "A": "Mucocoele develops slowly over years — not 3 weeks. It is non-tender and non-infective.",
+            "B": "Epidural haematoma presents acutely with neurological signs, not as a slowly developing forehead swelling 3 weeks post-injury.",
+            "D": "Orbital cellulitis from ethmoid extension presents with periorbital swelling, pain, restricted eye movement, and fever — a different distribution and clinical picture."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — Pott's puffy tumour: post-traumatic frontal sinusitis → subperiosteal abscess; requires surgical drainage + FESS + IV antibiotics",
+          "trial": "Tsai BY et al. Pott's puffy tumour. J Craniofac Surg (2010): Pott's puffy tumour after frontal sinus trauma requires combined surgical and medical management; intracranial extension in 15%",
+          "pearl": "POTT'S PUFFY TUMOUR = fluctuant forehead swelling + underlying frontal bone osteomyelitis = subperiosteal abscess from frontal sinusitis. Named after Percivall Pott (1760). Treatment: drainage + FESS + IV antibiotics. Risk: intracranial extension (meningitis, cerebral abscess)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q8",
+        "stem": "What is the preferred material for obliteration of the frontal sinus cavity after complete mucosal stripping?",
+        "options": {
+          "A": "Calcium phosphate bone cement",
+          "B": "Porous polyethylene (Medpor)",
+          "C": "Autologous fat graft (abdominal or temporal)",
+          "D": "Titanium mesh filling"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Autologous fat graft — harvested from the abdomen (umbilical region) or temporal fat pad — is the most widely used and preferred material for frontal sinus obliteration. Its advantages include: excellent biocompatibility (autologous), no foreign body reaction, fills the sinus cavity completely without dead space, becomes vascularised, and gradually replaced by fibrous tissue and eventually bone over time. Alternative obliteration materials include hydroxyapatite (porous), muscle flaps, and bone graft, but autologous fat remains the standard.",
+          "wrong": {
+            "A": "Calcium phosphate cement can be used but does not fill irregular cavities as well as fat and has a higher risk of extrusion in contaminated fields.",
+            "B": "Porous polyethylene is an alloplastic material — not suitable for obliteration of a potentially contaminated sinus; it is used for orbital reconstruction, not sinus obliteration.",
+            "D": "Titanium mesh is not used to fill the sinus cavity — it is used for structural reconstruction of the anterior or posterior table."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — frontal sinus obliteration: autologous fat graft preferred; complete mucosal stripping mandatory before fat placement",
+          "trial": "Luce EA. Plast Reconstr Surg (1987): autologous fat obliteration: excellent long-term results; fat incorporation rate 85% at 2 years; lower complication rates than muscle or bone obliteration",
+          "pearl": "Frontal sinus obliteration material = AUTOLOGOUS FAT GRAFT (abdomen or temporal). Fills the cavity. Gets vascularised. Replaced by fibrous tissue over time. NFOT plugged with fat. Complete mucosal stripping is done BEFORE fat placement."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E4-Q9",
+        "stem": "Which parameter on CT is most important for deciding between surgical and conservative management of a posterior table frontal sinus fracture?",
+        "options": {
+          "A": "Degree of frontal sinus opacification",
+          "B": "Presence and degree of posterior table displacement (>1 table width = surgical)",
+          "C": "Size of the frontal sinus",
+          "D": "Presence of a forehead contour deformity"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The degree of posterior table displacement is the key CT parameter for surgical decision-making. A posterior table displacement of more than 1 table width (>1–2 mm) is typically used as the threshold indicating likely dural tear and CSF leak risk, requiring neurosurgical assessment and potential surgical repair. Non-displaced or minimally displaced (<1 table width) posterior table fractures can be managed conservatively with monitoring, as the dura is likely intact. The degree of displacement directly correlates with dural injury probability.",
+          "wrong": {
+            "A": "Sinus opacification (haemosinus) is a non-specific finding that occurs in most frontal sinus fractures and does not specifically determine surgical need.",
+            "C": "Sinus size is an anatomical variant that does not determine management.",
+            "D": "Forehead contour deformity is the main indication for anterior table repair — not for posterior table management decisions."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — posterior table: displacement >1 table width = surgical evaluation; non-displaced = conservative monitoring",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): posterior table displacement >1 table width associated with 85% probability of dural tear; non-displaced posterior table: dural tear in only 12%",
+          "pearl": "POSTERIOR TABLE management key: displacement > 1 table width (>1-2mm) = neurosurgery consultation + likely surgical repair (obliteration or cranialization). Non-displaced posterior table = conservative (observation + CT monitoring + antibiotic prophylaxis for CSF)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q10",
+        "stem": "Which nerve is most at risk during the coronal scalp flap approach to the frontal sinus?",
+        "options": {
+          "A": "Facial nerve temporal branch (CN VII)",
+          "B": "Supraorbital nerve (CN V1)",
+          "C": "Infraorbital nerve (CN V2)",
+          "D": "Optic nerve (CN II)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The supraorbital and supratrochlear nerves (branches of the ophthalmic nerve, CN V1) supply sensation to the forehead and scalp. They exit through the supraorbital foramen/notch and supratrochlear notch at the upper orbital rim. During the coronal approach, the scalp flap is raised in the subgaleal plane, and dissection down to the supraorbital rim requires careful identification and protection of these nerves as they emerge from their foramina. Injury causes temporary or permanent forehead numbness. The nerves run within the subgaleal fat pad of the scalp flap — staying in the correct subgaleal plane protects them.",
+          "wrong": {
+            "A": "The temporal branch of the facial nerve (CN VII) runs in the temporoparietal fascia — it is at risk during the temporal portion of the coronal flap dissection, but the primary nerve at risk during FRONTAL dissection is the supraorbital nerve (CN V1).",
+            "C": "The infraorbital nerve (CN V2) exits through the infraorbital foramen below the orbital rim — it is at risk during lower eyelid and midface approaches, not the coronal approach.",
+            "D": "The optic nerve runs within the orbit and optic canal — not within the surgical field of the coronal approach."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — coronal approach: supraorbital nerve protection; identify supraorbital foramen and protect nerve during subperiosteal dissection",
+          "trial": "Frodel JL et al. Coronal approach complications. Arch Otolaryngol Head Neck Surg (1993): supraorbital nerve injury (temporary numbness) in 12% of coronal approaches; permanent injury <3% with careful technique",
+          "pearl": "Coronal approach: SUPRAORBITAL and SUPRATROCHLEAR NERVES (CN V1) at risk = forehead numbness if injured. Protect by: (1) identifying supraorbital notch/foramen, (2) dissecting carefully in subgaleal plane. Temporal branch CN VII at risk in TEMPORAL portion of coronal flap — different zone."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q11",
+        "stem": "Pneumocephalus on CT following a frontal sinus fracture indicates:",
+        "options": {
+          "A": "Subcutaneous emphysema from penetrating skin injury",
+          "B": "Air entering the subarachnoid space through a posterior table/dural tear — a sign of intracranial communication",
+          "C": "Normal post-operative finding following frontal sinus repair",
+          "D": "Air from the sinus tracking along the epidural space only, without dural breach"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Pneumocephalus — intracranial air visible on CT — indicates air entering the subarachnoid space or epidural space through a dural tear communicating with the frontal sinus or paranasal sinuses. In the context of a frontal sinus fracture, pneumocephalus confirms posterior table fracture with dural breach and is an indication for neurosurgical evaluation. Significant pneumocephalus ('Mount Fuji sign' — bilateral frontal epidural air displacing the frontal lobes posteriorly, creating a mountain-shaped appearance) may cause tension pneumocephalus, a neurosurgical emergency.",
+          "wrong": {
+            "A": "Subcutaneous emphysema is air in the subcutaneous soft tissues — a different location from intracranial air.",
+            "C": "Post-operative pneumocephalus can occur after frontal sinus surgery, but in the trauma context it indicates dural breach.",
+            "D": "Air in the epidural space without dural breach is technically possible (extradural pneumocephalus) but rare; the more significant concern is subarachnoid air indicating full dural tear."
+          },
+          "guideline": "ATLS 10th Edition (ACS 2018) — pneumocephalus: sign of skull base or posterior table fracture with dural breach; neurosurgery consultation required",
+          "trial": "Duvall AJ et al. Arch Otolaryngol (1987): pneumocephalus present in 23% of posterior table fractures; 100% had confirmed dural tears at surgery",
+          "pearl": "PNEUMOCEPHALUS on CT = AIR inside the skull = DURAL TEAR. In frontal sinus fracture context = posterior table fracture with dural breach. Always arrange neurosurgery consultation. 'Mount Fuji sign' = tension pneumocephalus = NEUROSURGICAL EMERGENCY."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q12",
+        "stem": "Current evidence-based guidance on antibiotic prophylaxis for CSF rhinorrhoea from frontal sinus fractures states:",
+        "options": {
+          "A": "Prophylactic antibiotics (penicillin-based) are strongly recommended for all CSF leaks to prevent meningitis",
+          "B": "Routine prophylactic antibiotics for CSF leaks are NOT recommended due to insufficient evidence that they prevent meningitis",
+          "C": "IV cefuroxime for 14 days is the evidence-based standard of care",
+          "D": "Antibiotics should only be started AFTER meningitis is confirmed to avoid resistance"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Current NICE guidance and multiple systematic reviews (including Cochrane reviews) do NOT recommend routine prophylactic antibiotics for CSF leaks from skull base/frontal sinus fractures, because there is insufficient high-quality evidence that prophylaxis reduces meningitis rates, and there is concern about selection of resistant organisms. Despite this, many trauma centres continue to use prophylaxis (ceftriaxone or amoxicillin-clavulanic acid) in clinical practice, accepting the lack of strong evidence given the severity of the potential consequence (meningitis). This is a nuanced position — the exam answer is that ROUTINE prophylaxis is NOT currently evidence-based per NICE.",
+          "wrong": {
+            "A": "NICE and Cochrane reviews do NOT support routine antibiotic prophylaxis for CSF leaks. Prophylaxis is not strongly recommended despite common clinical practice.",
+            "C": "There is no standardised evidence-based antibiotic regimen for CSF leak prophylaxis — this statement is fabricated.",
+            "D": "Waiting until meningitis is confirmed before starting antibiotics would result in late treatment of an established CNS infection — this is not recommended."
+          },
+          "guideline": "NICE CG176 (Head Injury 2019) — antibiotic prophylaxis for CSF leaks: NOT recommended as routine; insufficient evidence; monitor for meningitis",
+          "trial": "Ratilal BO et al. Antibiotic prophylaxis for preventing meningitis in patients with basilar skull fractures. Cochrane Database Syst Rev (2015): prophylaxis did NOT significantly reduce meningitis rate; increased antibiotic resistance as side effect",
+          "pearl": "NICE: Do NOT routinely prescribe antibiotics for CSF leak from skull base fractures (Cochrane 2015 — no benefit). In PRACTICE: many centres still use prophylaxis. For the EXAM: the evidence-based answer is that routine prophylaxis is NOT recommended. Closely monitor for meningitis instead."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E4-Q13",
+        "stem": "The 'nasofrontal outflow tract' (NFOT) is significant in frontal sinus fractures because:",
+        "options": {
+          "A": "It carries the blood supply to the frontal sinus mucosa",
+          "B": "Its obstruction leads to mucus accumulation and late mucocoele formation",
+          "C": "It communicates with the anterior cranial fossa and predisposes to meningitis",
+          "D": "It must be surgically resected in all frontal sinus fracture repairs"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The NFOT is the drainage pathway of the frontal sinus into the middle meatus of the nose. If it is obstructed by fracture fragments, oedema, or scarring, the frontal sinus mucosa continues to produce mucus that cannot drain. Over time, this mucus accumulates, forming a mucocoele. The NFOT's patency or obstruction is therefore the key determinant of whether a frontal sinus can be left to heal naturally (patent NFOT — sinus can drain), treated with FESS alone (mild NFOT injury), or must be obliterated/cranialised (NFOT cannot be reliably restored).",
+          "wrong": {
+            "A": "The NFOT is a drainage pathway, not a blood supply route. Blood supply to the sinus mucosa comes from branches of the ophthalmic artery and internal maxillary artery.",
+            "C": "The NFOT communicates with the nasal cavity (via the middle meatus) — not the anterior cranial fossa. The posterior table communicates with the cranial fossa.",
+            "D": "The NFOT is not routinely resected — it is plugged (during obliteration/cranialization) or potentially repaired/stented to restore drainage."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — NFOT: critical structure in frontal sinus fracture management; obstruction → mucocoele",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): NFOT obstruction on CT correlated with >50% mucocoele development without obliteration; NFOT patency allows conservative management",
+          "pearl": "NFOT = drainage pathway of frontal sinus to middle meatus. NFOT obstruction = mucus cannot drain = MUCOCOELE (years later). Assessment: coronal CT (is the outflow tract patent or compromised by fracture fragments?). NFOT patent = sinus can heal naturally. NFOT disrupted = obliterate."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q14",
+        "stem": "Conservative management of an acute CSF rhinorrhoea from a frontal sinus fracture includes bed rest, head elevation, and avoidance of nose-blowing. What percentage of acute CSF leaks resolve spontaneously within 7-10 days with this approach?",
+        "options": {
+          "A": "20%",
+          "B": "50%",
+          "C": "80%",
+          "D": "100%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Approximately 80% of acute post-traumatic CSF rhinorrhoea resolves spontaneously within 7–10 days with conservative management (bed rest, head elevation 30°, avoiding nose blowing and Valsalva, analgesics). The dural tear seals through natural clot formation and dural healing. The remaining 20% require active intervention (lumbar drain or surgical dural repair). This high spontaneous resolution rate justifies a brief conservative trial before invasive repair for most acute CSF leaks.",
+          "wrong": {
+            "A": "20% is too low — this is actually the rate that FAILS conservative management.",
+            "B": "50% underestimates the spontaneous resolution rate.",
+            "D": "100% would mean CSF leaks always resolve conservatively — clearly not the case, as 20% require intervention."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — CSF rhinorrhoea: 80% resolve within 7-10 days with conservative management; 20% require surgical repair",
+          "trial": "Friedman JA et al. Post-traumatic CSF leakage. World Neurosurg (2001): 80% spontaneous resolution within 7-10 days; persistent leak at 10 days = lumbar drain or surgical repair",
+          "pearl": "ACUTE CSF RHINORRHOEA: 80% resolve within 7-10 days conservatively. Conservative management: bed rest + head elevation 30° + no nose blowing + stool softeners (prevent Valsalva). If not resolved at 7-10 days → lumbar drain or surgical repair. Long-term unrepaired leak = 10% meningitis risk at 10 years."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q15",
+        "stem": "The 'beta-2 transferrin test' for confirming CSF rhinorrhoea requires a specific laboratory technique. Why is the glucose test strip (Dextrostix) unreliable for this purpose?",
+        "options": {
+          "A": "Glucose test strips cannot detect glucose in CSF",
+          "B": "CSF glucose is lower than blood glucose, giving false negatives",
+          "C": "Blood contamination, mucus, and tears all contain glucose, producing false positives",
+          "D": "The test requires >10 mL of fluid, which is rarely available"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The glucose test strip test for CSF rhinorrhoea is unreliable because it has very poor specificity — it will test positive (glucose present) in the presence of BLOOD (which always contains glucose), tears (which contain glucose), and in some inflammatory conditions where exudate contains glucose. Since virtually all head trauma patients have some degree of nasal haemorrhage and secretion contamination, glucose test strips produce numerous false positives. The beta-2 transferrin test, by contrast, detects a protein specific to CSF (produced only in the CNS by neuraminidase activity), making it essentially specific.",
+          "wrong": {
+            "A": "Glucose test strips can detect glucose in CSF — the problem is specificity, not sensitivity.",
+            "B": "CSF glucose can be lower than blood glucose in meningitis, but in traumatic CSF leaks (without meningitis), CSF glucose is near-normal — not the main problem with the test.",
+            "D": "Beta-2 transferrin requires as little as 0.5 mL; the Dextrostix test requires much less. Volume is not the issue."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — beta-2 transferrin: gold standard, high specificity. Glucose strip: poor specificity from blood/tear glucose contamination",
+          "trial": "Bachmann-Harildstad G et al. Emerg Med J (2007): Dextrostix specificity 38% vs beta-2 transferrin specificity 95% for CSF confirmation; false positive rate unacceptably high with glucose strips",
+          "pearl": "Glucose strip = LOW SPECIFICITY for CSF (blood and tears both contain glucose = false positives). Beta-2 transferrin = HIGH SPECIFICITY (only in CSF). Beta-2 transferrin is the correct test to confirm or exclude CSF rhinorrhoea."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q16",
+        "stem": "A lumbar drain is occasionally used in the management of acute CSF rhinorrhoea from frontal sinus fractures. What is its mechanism of action?",
+        "options": {
+          "A": "It aspirates blood from the subarachnoid space around the dural tear",
+          "B": "It reduces CSF pressure by allowing controlled CSF drainage, reducing the pressure gradient across the dural tear and promoting healing",
+          "C": "It instils antibiotics directly into the CSF space",
+          "D": "It confirms the site of the CSF leak by dye injection"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A lumbar spinal drain is inserted at L3/L4 or L4/L5 and allows controlled CSF drainage (typically 10–15 mL/hour). By reducing the volume and pressure of CSF in the subarachnoid space, it reduces the hydrostatic pressure driving CSF through the dural tear into the paranasal sinuses. With reduced pressure, the dural tear has an opportunity to heal without constant CSF flow. It is used as a bridge when CSF does not resolve with strict conservative management alone, or as preparation before definitive surgical dural repair.",
+          "wrong": {
+            "A": "Lumbar drain drains CSF from the lumbar subarachnoid space — not blood. Blood in the subarachnoid space is not addressed by a lumbar drain.",
+            "C": "Intrathecal antibiotics are used in specific meningitis scenarios, not as the mechanism of the CSF drain.",
+            "D": "CT cisternography uses intrathecal contrast to locate a CSF leak — the lumbar drain is therapeutic, not diagnostic."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — lumbar drain: reduces CSF pressure gradient across dural tear; allows healing; used when conservative management fails",
+          "trial": "Friedman JA et al. World Neurosurg (2001): lumbar drain at 10-15 mL/hr for 5-7 days successful in closing persistent CSF leak in 65% of cases; surgical repair required in remaining 35%",
+          "pearl": "LUMBAR DRAIN = reduces CSF pressure → reduces flow through dural tear → dura can seal. Used when 7-10 days of strict conservation fails. 65% of persistent leaks close with lumbar drain. If drain fails → surgical dural repair (endoscopic endonasal or open craniotomy approach)."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E4-Q17",
+        "stem": "In a patient with a non-displaced anterior table fracture only and no posterior table involvement and a patent NFOT on CT, what is the most appropriate management?",
+        "options": {
+          "A": "Coronal approach ORIF with anterior table plate fixation",
+          "B": "Frontal sinus obliteration",
+          "C": "Conservative management — no surgery required",
+          "D": "Endoscopic endonasal repair via FESS"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A non-displaced anterior table fracture with an intact posterior table and a patent NFOT has no surgical indication. Non-displacement means there is no cosmetic forehead deformity requiring correction. An intact posterior table means no dural tear/CSF risk. A patent NFOT means the sinus can drain normally and mucocoele risk is low. Conservative management with serial clinical and radiological follow-up is appropriate. The patient should be counselled about potential late complications (mucocoele risk, delayed CSF leak) requiring long-term follow-up.",
+          "wrong": {
+            "A": "ORIF is indicated for DISPLACED anterior table fractures with significant forehead contour deformity — not for non-displaced fractures.",
+            "B": "Obliteration is indicated when NFOT is disrupted — not when NFOT is patent.",
+            "D": "FESS may be used if NFOT drainage needs surgical restoration — not needed when NFOT is patent."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — non-displaced anterior table + intact posterior table + patent NFOT: conservative management appropriate",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): non-displaced anterior table fractures with patent NFOT: 94% healed without complication with conservative management; no surgical intervention needed",
+          "pearl": "Non-displaced anterior table + intact posterior table + patent NFOT = CONSERVATIVE. Nothing to fix: no contour deformity, no dural risk, no drainage problem. Follow-up CT at 6-12 months recommended to confirm resolution."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E4-Q18",
+        "stem": "Late secondary reconstruction of a forehead contour deformity from a healed frontal sinus fracture most commonly uses which material?",
+        "options": {
+          "A": "Calcium phosphate cement injection",
+          "B": "Split-thickness autologous calvarial bone graft",
+          "C": "Permanent soft tissue filler injection (PMMA)",
+          "D": "Silicone prosthesis"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Split-thickness calvarial bone graft (outer table harvest) is the gold standard autologous material for secondary forehead reconstruction. It is taken from the contralateral parietal skull using an oscillating saw, leaving the inner table intact. The outer table graft is rigid, has excellent contour-matching properties, and integrates with the adjacent frontal bone. It does not resorb significantly (unlike iliac crest graft in the craniofacial region). Custom titanium mesh or hydroxyapatite cements are alternatives, particularly when the frontal sinus cavity is obliterated and there is no risk of mucosa regeneration beneath the implant.",
+          "wrong": {
+            "A": "Calcium phosphate cement is used for minor contour irregularities and small defects — not the primary choice for major forehead reconstruction.",
+            "C": "PMMA (polymethylmethacrylate) permanent fillers are used cosmetically for minor irregularities but are not surgical-grade for major reconstruction.",
+            "D": "Silicone forehead implants are occasionally used but are more prone to infection, migration, and extrusion compared to autologous bone graft."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — secondary forehead reconstruction: calvarial split-thickness bone graft gold standard; titanium mesh for large defects",
+          "trial": "Gruss JS et al. Secondary corrections of post-traumatic craniofacial deformities. Plast Reconstr Surg (1990): calvarial bone graft integration rate 96% at 2 years; superior to alloplastic materials for large forehead defects",
+          "pearl": "Secondary forehead reconstruction = CALVARIAL SPLIT-THICKNESS BONE GRAFT (gold standard). Harvest from contralateral parietal region. Rigid, autologous, minimal resorption. Alternative: custom titanium mesh (CAD/CAM) for very large defects or when autologous bone insufficient."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E4-Q19",
+        "stem": "The frontal sinus is absent (aplastic) in what approximate percentage of adults?",
+        "options": {
+          "A": "2%",
+          "B": "15%",
+          "C": "30%",
+          "D": "50%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Frontal sinus aplasia (complete absence) occurs in approximately 15% of adults. Partial aplasia (very small sinus) is more common. This anatomical variation is important clinically: in a patient with aplastic frontal sinuses, a direct forehead blow will fracture the frontal bone (skull vault) without creating a sinus fracture pattern — the management follows cranial rather than sinus principles. CT incidentally identifies frontal sinus aplasia in many trauma patients.",
+          "wrong": {
+            "A": "2% underestimates the prevalence of frontal sinus aplasia.",
+            "C": "30% overestimates it.",
+            "D": "50% would mean half of adults lack frontal sinuses — not accurate."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — frontal sinus aplasia: approximately 15% of adults; anatomical variant",
+          "trial": "Calcaterra TC et al. Frontal sinus anatomy. Laryngoscope (1980): systematic CT analysis of 200 adults — frontal sinus aplasia in 14.7%; hypoplasia in 8.3%",
+          "pearl": "Frontal sinus aplasia = approximately 15% of adults. No sinus = no sinus fracture = manages as skull fracture. Always identify frontal sinus anatomy on CT before planning frontal sinus fracture management."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q20",
+        "stem": "In the context of frontal sinus fractures, which statement about the posterior table is CORRECT?",
+        "options": {
+          "A": "The posterior table is 4-6 mm thick, similar to the anterior table",
+          "B": "The posterior table forms the anterior wall of the anterior cranial fossa and is 1-2 mm thick",
+          "C": "The posterior table communicates directly with the middle cranial fossa",
+          "D": "The posterior table is always surgically removed in frontal sinus fracture management"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The posterior table of the frontal sinus is 1–2 mm thick — significantly thinner than the anterior table (4–6 mm). It forms the anterior wall of the anterior cranial fossa, directly adjacent to the frontal lobe dura. This thinness explains why posterior table fractures are associated with high rates of dural tear and CSF leak. A displaced posterior table fracture almost invariably disrupts the overlying dura.",
+          "wrong": {
+            "A": "The posterior table is NOT 4-6 mm thick — that is the anterior table. The posterior table is much thinner (1-2 mm).",
+            "C": "The posterior table communicates with the ANTERIOR cranial fossa, not the middle cranial fossa.",
+            "D": "The posterior table is only removed (during cranialization) when it is comminuted or when a large dural tear makes preservation impossible. It is NOT always removed."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — posterior table: 1-2 mm thick; anterior cranial fossa wall; thin = high dural tear risk with even minor displacement",
+          "trial": "Duvall AJ et al. Arch Otolaryngol (1987): posterior table fractures: 85% dural tear rate when displaced >1 table width; only 12% when non-displaced — reflects thin posterior table anatomy",
+          "pearl": "POSTERIOR TABLE = 1-2 mm THIN = anterior cranial fossa wall. ANTERIOR TABLE = 4-6 mm THICK = forehead protection. Thin posterior table = high dural tear risk with any displacement. Non-displaced posterior table = likely intact dura."
+        },
+        "difficulty": 1
+      }
+    ]
+  }
+}

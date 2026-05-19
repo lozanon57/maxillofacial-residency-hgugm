@@ -1,0 +1,612 @@
+{
+  "id": "G3",
+  "title": "Outcomes Research: Patient-Reported Outcomes in OMFS",
+  "subtitle": "Block G — Research and Academic Development",
+  "block": "G",
+  "block_name": "Research and Academic Development",
+  "level": "R2-5",
+  "reading_time_min": 24,
+  "guidelines_version": "COMET Initiative 2012 · FDA PRO Guidance 2009 · PROMIS Network 2010 · ICHOM Standard Sets 2015",
+  "textbook_refs": [
+    "Speculand B et al. 'Patient-reported outcomes in oral and maxillofacial surgery.' Br J Oral Maxillofac Surg (2019)",
+    "Patrick DL & Deyo RA. 'Generic and disease-specific measures in assessing health status and quality of life.' Med Care (1989)",
+    "Dolan P. 'Modeling valuations for EuroQol health states.' Med Care (1997)",
+    "Allen PF. 'Assessment of oral health related quality of life.' Health Qual Life Outcomes (2003)",
+    "COMET Initiative. 'Development of a core outcome set for clinical trials in oral and maxillofacial surgery.' (2019)"
+  ],
+  "learning_objectives": [
+    "Define patient-reported outcomes (PROs) and distinguish them from clinician-reported outcomes",
+    "Describe the key instruments used to measure oral health-related quality of life (OHRQoL) in OMFS",
+    "Apply the concept of minimal clinically important difference (MCID) to interpret PRO results",
+    "Explain core outcome sets (COS) and their importance in OMFS research standardisation",
+    "Critically evaluate the use of visual analogue scales, Likert scales, and global impression tools in OMFS"
+  ],
+  "sections": [
+    {
+      "id": "G3-S1",
+      "title": "Introduction to Patient-Reported Outcomes",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "A **patient-reported outcome (PRO)** is any report of the status of a patient's health condition that comes directly from the patient, without interpretation by a clinician or anyone else (FDA, 2009). PROs capture domains that only the patient can observe — pain, function, satisfaction, wellbeing, and the impact of a condition on daily activities. They complement clinician-reported outcomes (e.g., mandibular deviation, occlusal classification) and investigator-reported outcomes (e.g., radiographic bone levels) to provide a complete picture of treatment success.\n\nThe importance of PROs in OMFS is increasing for several reasons: (1) regulatory bodies (FDA, EMA) now require PRO evidence for device and drug approval in chronic conditions; (2) healthcare commissioners use PROs to evaluate service quality (NHS PROMs programme); (3) patients increasingly expect to be involved in outcome measurement; and (4) surgical complications (e.g., nerve injury) that appear minor to clinicians may have profound effects on patient quality of life.\n\nThe **FDA 2009 PRO Guidance** established standards for developing, validating, and using PRO instruments in clinical trials: instruments must be reliable (reproducible), valid (measuring what they claim to measure), and responsive (able to detect meaningful clinical change). The FDA distinguishes between PROs based on symptoms (e.g., pain VAS), function (e.g., OHIP jaw function scale), and health-related quality of life (HRQoL — the broader impact on daily life)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — PRO vs Clinician-Reported",
+          "content": "A PRO comes DIRECTLY from the patient — no clinician interpretation. Examples: pain VAS, OHIP-14 score, FACE-Q satisfaction score. A CLINICIAN-REPORTED outcome requires clinical assessment: maximal mouth opening (measured by caliper), occlusal classification (examined by OMFS). Both are needed — neither replaces the other."
+        }
+      ]
+    },
+    {
+      "id": "G3-S2",
+      "title": "Oral Health-Related Quality of Life: OHIP-49 and OHIP-14",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **Oral Health Impact Profile (OHIP)** is the most widely validated and used instrument for measuring oral health-related quality of life (OHRQoL) in dentistry and OMFS. It was developed by Slade and Spencer (1994) based on Locker's theoretical model of oral health.\n\nThe full **OHIP-49** consists of 49 questions across seven conceptual dimensions (based on the WHO model of disease classification): (1) Functional limitation; (2) Physical pain; (3) Psychological discomfort; (4) Physical disability; (5) Psychological disability; (6) Social disability; and (7) Handicap. Each item is scored 0–4 (never=0 to very often=4). Total scores range from 0–196 (higher score = worse OHRQoL).\n\nThe abbreviated **OHIP-14** (Slade 1997) is a 14-item short form derived from the 49-item version (2 items per dimension), validated for use in clinical trials where respondent burden must be minimised. OHIP-14 scores range 0–56. The OHIP-14 has been extensively validated in orthognathic surgery, facial fractures, TMJ disease, and dental implant research. **Minimal Clinically Important Difference (MCID)** for OHIP-14 is approximately 9 points — a change smaller than this should not be considered clinically meaningful even if statistically significant.\n\nAlternative OHRQoL instruments include the **OHIP-EDENT** (edentulous patients — validated for prosthetic and implant outcomes), the **Oral Health Impact on Daily Living (OIDP)**, and condition-specific instruments such as the **FACE-Q** (facial surgery — aesthetic and QoL outcomes, validated for rhinoplasty and orthognathic surgery) and the **Jaw Functional Limitation Scale (JFLS)** (TMJ and orthognathic surgery)."
+        },
+        {
+          "type": "table",
+          "title": "Key PRO Instruments in OMFS",
+          "headers": ["Instrument", "Items", "Domains", "OMFS Application", "MCID"],
+          "rows": [
+            ["OHIP-14", "14", "7 OHRQoL dimensions", "Orthognathic, implants, fractures, TMJ", "~9 points"],
+            ["OHIP-49", "49", "7 OHRQoL dimensions", "Research; comprehensive assessment", "Not well-defined"],
+            ["FACE-Q", "Multiple scales", "Aesthetics, QoL, adverse effects", "Rhinoplasty, orthognathic, craniofacial", "Scale-specific"],
+            ["JFLS-20", "20", "Jaw function (mastication, mobility, verbal)", "TMJ, orthognathic, fractures", "7 points (JFLS)"],
+            ["EQ-5D", "5 + VAS", "Generic HRQoL: mobility, self-care, usual activities, pain, anxiety", "Health economic evaluations", "0.07 utility"],
+            ["VAS Pain (0–100 mm)", "1", "Pain intensity", "All pain-related OMFS", "13–15 mm"],
+            ["GAD-7 / PHQ-9", "7 / 9", "Anxiety / Depression", "Psychosocial OMFS outcomes", "5 points (PHQ-9)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G3-S3",
+      "title": "Minimal Clinically Important Difference (MCID)",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **Minimal Clinically Important Difference (MCID)** — also called the Minimal Important Difference (MID) — is the smallest difference in a PRO or clinical outcome that a patient would identify as meaningful and that would mandate a change in clinical management. The MCID is specific to each outcome instrument and clinical context.\n\nMCID can be determined by two approaches: (1) **Anchor-based methods** — correlating PRO change scores with an external 'anchor' question (e.g., 'How would you describe your change in jaw function since your operation?' with options from 'much better' to 'much worse'). The PRO score change associated with 'minimally better' defines the MCID; (2) **Distribution-based methods** — defining MCID as a fraction of the standard deviation of the score at baseline (typically 0.5 SD is used as an approximation), or as the standard error of measurement (SEM). Distribution-based MCIDs are more mathematically objective but less anchored to patient experience.\n\nKnowing the MCID is essential for two purposes: (1) **Sample size calculation** — the trial is powered to detect a difference equal to the MCID; (2) **Interpretation of results** — a statistically significant difference smaller than the MCID is not clinically meaningful. Published MCIDs in OMFS include: OHIP-14 ≈ 9 points; pain VAS ≈ 13–15 mm (on 100 mm scale); maximal mouth opening ≈ 5 mm; EQ-5D utility ≈ 0.07 utility units."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Ignoring MCID",
+          "content": "A statistically significant improvement in OHIP-14 of 3 points (p=0.02) in an orthognathic surgery trial sounds impressive but is NOT clinically meaningful — the MCID is approximately 9 points. Always check whether a published PRO result exceeds the MCID before concluding that the treatment produced a meaningful improvement for patients."
+        }
+      ]
+    },
+    {
+      "id": "G3-S4",
+      "title": "Generic vs Condition-Specific Instruments",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "PRO instruments can be **generic** (measuring general health-related quality of life applicable across conditions) or **condition-specific** (measuring aspects particularly relevant to a specific disease or procedure).\n\n**Generic instruments** allow comparison across different conditions and patient populations. The **EQ-5D** (EuroQol 5-Dimension) is the most widely used generic HRQoL instrument in the UK and Europe. It measures 5 dimensions (mobility, self-care, usual activities, pain/discomfort, anxiety/depression), each scored on 3 or 5 levels, producing a utility score (0 = death, 1 = perfect health, >0 possible for states worse than death). EQ-5D utility scores are used in health economic evaluations (QALY calculations). NICE uses QALYs (Quality-Adjusted Life Years = utility × time) in cost-effectiveness analyses, with a threshold of approximately £20,000–30,000 per QALY gained.\n\n**Condition-specific instruments** are more sensitive to changes in the specific domain affected by the condition but cannot be compared across different diseases. The OHIP-14 is condition-specific for oral health. FACE-Q is condition-specific for facial surgery outcomes. The tradeoff: condition-specific instruments are more responsive (better able to detect meaningful changes relevant to that condition) but lose the ability to compare with non-oral outcomes.\n\nFor comprehensive OMFS outcomes research, the ideal battery includes BOTH a generic instrument (EQ-5D for health economic data) AND a condition-specific instrument (OHIP-14 or FACE-Q for disease-specific impact). This allows comparisons with other treatments in different disease areas while capturing the domain most relevant to the surgical intervention."
+        },
+        {
+          "type": "table",
+          "title": "Generic vs Condition-Specific PRO Instruments — Comparison",
+          "headers": ["Feature", "Generic (EQ-5D)", "Condition-Specific (OHIP-14)"],
+          "rows": [
+            ["Comparison across diseases", "Yes — enables cross-condition comparison", "No — specific to oral/maxillofacial domain"],
+            ["Sensitivity to oral change", "Low — captures broad function only", "High — designed for oral health impact"],
+            ["Health economic evaluation", "Yes — produces QALYs for NICE", "No — cannot be converted to QALYs directly"],
+            ["Validation in OMFS", "Moderate — not specifically validated for OMFS", "Extensive — validated in orthognathic, TMJ, implants"],
+            ["Respondent burden", "Low — 5 items", "Moderate — 14 items"],
+            ["Recommended in OMFS trials", "Yes (for HE component)", "Yes (as primary PRO)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G3-S5",
+      "title": "Core Outcome Sets in OMFS",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "A **core outcome set (COS)** is a minimum set of outcomes that should be measured and reported in all clinical trials within a specific clinical area. COS are developed using consensus methodology (Delphi surveys, nominal group technique) involving multiple stakeholders — patients, clinicians, researchers, and regulators. The **COMET Initiative (Core Outcome Measures in Effectiveness Trials)** provides guidance and a registry for COS development.\n\nThe purpose of COS is to address the problem of **outcome reporting heterogeneity**: when different trials measure different outcomes, systematic reviews cannot pool results effectively — producing a fragmented evidence base. If all trials in orthognathic surgery measured OHIP-14, maximal mouth opening, and skeletal relapse, systematic reviews could produce meaningful pooled estimates for these outcomes.\n\nThe **COMET Initiative OMFS Core Outcome Set (2019)** identified the following domains for inclusion in OMFS clinical trials across multiple subspecialties: pain (VAS or NRS), function (mouth opening, occlusal classification), oral health-related quality of life (OHIP-14 or equivalent), satisfaction with appearance, complication rates (infection, nerve injury, hardware failure), time to recovery, and survival (for oncological procedures). Individual subspecialties have additional domain-specific outcomes (e.g., velopharyngeal competence for CLP; facial symmetry for HFM; implant survival for dental implants).\n\nUsing a COS: (1) when designing an OMFS trial, include all COS items as primary or secondary outcomes; (2) when conducting a systematic review, use COS items to structure the outcome synthesis; (3) when writing a guideline, use COS items to define the outcome domains."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Why COS Matters",
+          "content": "Core outcome sets exist to prevent the fragmentation of evidence caused by different trials measuring different outcomes. If all condylar fracture trials measured 'OHIP-14 + maximal mouth opening + occlusal classification', systematic reviews could pool these results meaningfully. Without COS, each trial measures different outcomes → no pooling → fragmented literature → no clear answer."
+        }
+      ]
+    },
+    {
+      "id": "G3-S6",
+      "title": "Measurement Scales: VAS, Likert, and Global Impression",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Visual Analogue Scales (VAS)** are 100 mm horizontal lines anchored at each end by extremes of the concept being measured (e.g., 'no pain' to 'worst imaginable pain'). Participants mark their position on the line, which is measured in mm (0–100). VAS are continuous scales that are sensitive, easy to administer, and widely validated for pain. The MCID for pain VAS is approximately 13–15 mm.\n\n**Numeric Rating Scales (NRS)** are 11-point discrete scales (0–10 or 0–100) asking participants to select a number representing their symptom severity. NRS are more practical in clinical settings (verbal administration possible), correlate strongly with VAS (r >0.8), and are preferred in systematic reviews for ease of data extraction. MCID for NRS pain (0–10): approximately 1.5–2 points.\n\n**Likert scales** use ordered categorical responses with a fixed number of response options (typically 5–7 points): strongly disagree, disagree, neutral, agree, strongly agree. Likert scales are ordinal data — the distance between categories is not assumed to be equal. Appropriate statistical analysis: median and interquartile range; Wilcoxon rank-sum test for comparison. Treating Likert data as continuous (using means and t-tests) is technically incorrect but widely practised and generally acceptable when 5+ response categories are used.\n\n**Global Impression of Change (GIC)** scales ask participants a single retrospective question: 'Compared with before treatment, how would you describe your condition?' with 7 options from 'very much worse' to 'very much improved'. GIC scales are used as anchor measures for MCID calculation. The Patient Global Impression of Change (PGIC) is the standard anchor in anchor-based MCID methodology."
+        }
+      ]
+    },
+    {
+      "id": "G3-S7",
+      "title": "Health Economics and QALY Calculations in OMFS",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Health economic evaluation** alongside clinical trials allows policymakers to determine whether a new OMFS intervention provides sufficient health benefit to justify its cost compared with standard treatment. The most widely used measure in UK health economics is the **Quality-Adjusted Life Year (QALY)**, which combines the duration of health benefit with its quality (utility).\n\nQALY = Utility score (0–1) × Years in health state. For example, 2 years in a health state with utility 0.7 = 1.4 QALYs. A treatment that moves a patient from utility 0.6 to utility 0.8 for 3 years provides: (0.8 − 0.6) × 3 = 0.6 additional QALYs. NICE's current threshold for cost-effectiveness is approximately **£20,000–£30,000 per QALY gained** — interventions below this threshold are generally considered cost-effective.\n\nUtility scores for EQ-5D states are derived from population preference studies (e.g., Dolan 1997 UK tariff). EQ-5D-3L (3 levels per dimension) and EQ-5D-5L (5 levels) both produce utility scores — the 5L version has improved sensitivity. All NICE-funded OMFS technology appraisals require EQ-5D utility data.\n\nIn OMFS, health economic data are rarely collected alongside clinical trials, partly because they require specific measures (EQ-5D) and resource use data (cost diaries). Orthognathic surgery, implant-retained prostheses for HFM, and total TMJ replacement are examples of OMFS procedures where health economic evaluation is increasingly required to justify commissioning."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — NICE QALY Threshold",
+          "content": "NICE uses a threshold of £20,000–£30,000 per QALY gained to determine cost-effectiveness. If TJR for end-stage TMD costs £8,000 per patient and produces 2 additional QALYs (vs conservative management), the incremental cost-effectiveness ratio (ICER) = £8,000 / 2 = £4,000/QALY — well below the NICE threshold and therefore highly cost-effective."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of outcomes research and PROs in OMFS with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "G3-Q1",
+        "stem": "A patient-reported outcome (PRO) is defined as:",
+        "options": {
+          "A": "Any measurement taken by a clinical investigator using validated instruments",
+          "B": "Any report of the status of a patient's health condition that comes directly from the patient without clinical interpretation",
+          "C": "A radiographic measurement interpreted by a blinded radiologist",
+          "D": "A composite outcome including both patient and clinician assessments"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A PRO is any health status report that comes DIRECTLY from the patient, without interpretation by a clinician or anyone else (FDA PRO Guidance 2009). This distinguishes PROs from clinician-reported outcomes (ClinROs) and observer-reported outcomes. Examples of true PROs in OMFS: pain VAS, OHIP-14 questionnaire, FACE-Q satisfaction scale, EQ-5D. Examples that are NOT PROs: mandibular deviation (measured by OMFS), occlusal classification (assessed by OMFS), bone level on X-ray.",
+          "wrong": {
+            "A": "Clinical investigator measurements = ClinRO (clinician-reported outcome) — NOT a PRO.",
+            "C": "Radiographic measurement by blinded radiologist = an investigator-reported outcome — not a PRO.",
+            "D": "A composite of patient and clinician assessments is not a PRO by the FDA definition — a PRO must come solely from the patient."
+          },
+          "guideline": "FDA PRO Guidance (2009) — definition of patient-reported outcome",
+          "trial": "Speculand B et al. Br J Oral Maxillofac Surg (2019): PRO use in OMFS — review confirming FDA PRO definition and the distinction between PROs and other outcome types.",
+          "pearl": "PRO = DIRECTLY from patient, no clinical interpretation. OHIP-14 = PRO. Pain VAS = PRO. Mouth opening measured by caliper = ClinRO (not PRO). Keep this distinction clear for examination.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G3-Q2",
+        "stem": "The OHIP-14 is a 14-item questionnaire measuring oral health-related quality of life. What is its approximate MCID?",
+        "options": {
+          "A": "1 point",
+          "B": "5 points",
+          "C": "9 points",
+          "D": "20 points"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The MCID for OHIP-14 is approximately 9 points (on a 0–56 scale). A change smaller than this does not represent a meaningful improvement from the patient's perspective. This value was established through anchor-based methods in orthognathic surgery, dental implant, and periodontal treatment populations. When interpreting OHIP-14 results from OMFS trials, always compare the observed change with the 9-point MCID — not just the p-value.",
+          "wrong": {
+            "A": "1 point is far below the MCID — a 1-point change in OHIP-14 is within measurement noise and not patient-detectable.",
+            "B": "5 points is below the established MCID of approximately 9 points.",
+            "D": "20 points substantially exceeds the MCID — a 20-point change would represent a clinically large, easily perceptible improvement."
+          },
+          "guideline": "Allen PF. Health Qual Life Outcomes (2003) — OHIP-14 MCID validation",
+          "trial": "Slade GD. Community Dent Oral Epidemiol (1997): OHIP-14 derivation and validation; subsequent anchor-based MCID studies established ≈9 points as the threshold.",
+          "pearl": "OHIP-14 MCID ≈ 9 POINTS (0–56 scale). Change <9 points = not clinically meaningful despite p<0.05. Always report actual OHIP-14 change value AND compare with MCID when interpreting results.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q3",
+        "stem": "The EQ-5D instrument is used primarily for which purpose in OMFS research?",
+        "options": {
+          "A": "Measuring condition-specific oral health-related quality of life",
+          "B": "Generating utility scores for health economic evaluations (QALY calculations)",
+          "C": "Measuring maxillofacial-specific function (jaw opening and pain)",
+          "D": "Assessing psychosocial wellbeing specific to facial deformity"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The EQ-5D is a generic health-related quality of life instrument that produces a utility score (0–1 scale, where 1 = perfect health) used to calculate QALYs (Quality-Adjusted Life Years) for health economic evaluations. NICE requires EQ-5D utility data for all technology appraisals. It is not condition-specific and is less sensitive to changes in oral health than OHIP-14 — but it enables comparison of the health benefit of OMFS interventions with treatments in other disease areas.",
+          "wrong": {
+            "A": "OHIP-14 measures condition-specific oral HRQoL — not EQ-5D.",
+            "C": "Jaw opening and pain are measured by ClinRO (caliper measurement) and VAS respectively — not by EQ-5D.",
+            "D": "FACE-Q is designed for psychosocial outcomes of facial surgery — not EQ-5D."
+          },
+          "guideline": "NICE Guide to the Methods of Technology Appraisal (2013) — EQ-5D as preferred utility measure",
+          "trial": "Dolan P. Med Care (1997): UK tariff for EQ-5D utility scores — used by NICE for all QALY calculations; the foundational reference for UK health economics.",
+          "pearl": "EQ-5D = GENERIC HRQoL = produces utility scores for QALY calculations = NICE standard. OHIP-14 = SPECIFIC to oral health. Both needed in OMFS trials: EQ-5D for health economics, OHIP-14 for oral-specific outcomes.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q4",
+        "stem": "A QALY is calculated as:",
+        "options": {
+          "A": "Cost of treatment / number of complications avoided",
+          "B": "Utility score × number of years in the health state",
+          "C": "Number of patients improved / total patients treated",
+          "D": "Treatment cost / survival benefit in years"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "QALY = Utility score (0–1) × Years in health state. It combines the quality and duration of health benefit. For example, a patient restored to utility 0.85 (EQ-5D) for 3 years after TJR = 0.85 × 3 = 2.55 QALYs. Compared with conservative management giving utility 0.60 for 3 years = 0.60 × 3 = 1.80 QALYs. Incremental QALY gain from TJR = 2.55 − 1.80 = 0.75 QALYs. NICE threshold: if TJR costs £15,000 more than conservative management, ICER = £15,000 / 0.75 = £20,000/QALY — at the NICE threshold.",
+          "wrong": {
+            "A": "Cost / complications avoided = cost-effectiveness ratio but not the QALY calculation.",
+            "C": "Proportion of patients improved = response rate, not a QALY.",
+            "D": "Treatment cost / survival years = cost per life-year gained, not cost per QALY."
+          },
+          "guideline": "NICE Guide to the Methods of Technology Appraisal (2013) — QALY methodology",
+          "trial": "Dolan P. Med Care (1997): UK EQ-5D tariff — the utility values used in QALY calculations for UK technology appraisals.",
+          "pearl": "QALY = UTILITY × YEARS. NICE threshold = £20,000–30,000 per QALY. Below threshold = cost-effective, likely approved. Above threshold = usually not funded. EQ-5D provides the utility score.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q5",
+        "stem": "The FACE-Q instrument is specifically validated for which OMFS population?",
+        "options": {
+          "A": "Patients with salivary gland tumours",
+          "B": "Patients undergoing facial surgery (including orthognathic and rhinoplasty)",
+          "C": "Patients with facial fractures",
+          "D": "Patients receiving dental implants"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "FACE-Q is a patient-reported outcome instrument developed and validated specifically for patients undergoing facial surgery, including orthognathic surgery, rhinoplasty, facelift, and craniofacial procedures. It comprises multiple independently functioning scales across three domains: (1) appearance (satisfaction with facial appearance, nose, lips, cheeks); (2) quality of life (psychological function, social function, early life impact for paediatric patients); and (3) adverse effects (adverse consequences from surgery). FACE-Q scales have been validated in orthognathic surgery populations and are increasingly used in OMFS trials.",
+          "wrong": {
+            "A": "Salivary gland tumour outcomes are typically measured with head and neck cancer QoL instruments (e.g., UW-QOL, EORTC H&N35) — not FACE-Q.",
+            "C": "Facial fracture outcomes use generic PROs (EQ-5D, OHIP-14) and functional measures — FACE-Q is not the primary instrument for trauma populations.",
+            "D": "Dental implant outcomes use OHIP-EDENT and implant-specific instruments — not FACE-Q."
+          },
+          "guideline": "COMET Initiative OMFS Core Outcome Set (2019) — FACE-Q for facial surgery appearance and QoL",
+          "trial": "Klassen AF et al. Aesthet Surg J (2012): FACE-Q original validation in 406 rhinoplasty and facial surgery patients — established as the standard PRO for facial surgery aesthetics.",
+          "pearl": "FACE-Q = facial surgery-specific PRO. Orthognathic, rhinoplasty, craniofacial. Measures: appearance satisfaction + psychological function + adverse effects. Multiple independently scored scales.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q6",
+        "stem": "The COMET Initiative in outcomes research is responsible for:",
+        "options": {
+          "A": "Conducting systematic reviews of surgical interventions",
+          "B": "Developing and maintaining registries of core outcome sets for clinical trials",
+          "C": "Providing ethical approval for multinational clinical trials",
+          "D": "Registering clinical trials before patient enrolment"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The COMET (Core Outcome Measures in Effectiveness Trials) Initiative provides guidance on methodology for developing core outcome sets (COS) and maintains a publicly accessible database of existing COS. Its purpose is to address the problem of outcome heterogeneity across trials — when different trials measure different outcomes, systematic reviews cannot pool results effectively. COMET's COS database allows researchers to identify existing COS before designing new trials, ensuring standardised outcome measurement.",
+          "wrong": {
+            "A": "Systematic reviews of surgical interventions are conducted by Cochrane and individual research groups — not COMET.",
+            "C": "Ethics approval for multinational trials is provided by national ethics authorities (HRA in UK) — not COMET.",
+            "D": "Clinical trial registration is provided by ISRCTN, ClinicalTrials.gov, and similar registries — not COMET."
+          },
+          "guideline": "COMET Initiative (2012) — Purpose and COS methodology handbook",
+          "trial": "Williamson PR et al. Trials (2012): COMET Initiative launch paper — rationale for standardised outcomes measurement and COS development methodology.",
+          "pearl": "COMET = Core Outcome Measures in Effectiveness Trials = develops and registers CORE OUTCOME SETS. COS = minimum outcomes all trials in a clinical area should measure. Prevents outcome heterogeneity in meta-analyses.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q7",
+        "stem": "Which statistical analysis is most appropriate for Likert scale data in an OMFS clinical trial?",
+        "options": {
+          "A": "Mean and standard deviation with paired t-test",
+          "B": "Median and interquartile range with Wilcoxon rank-sum test",
+          "C": "Regression analysis with continuous outcome assumption",
+          "D": "Chi-square test for independent proportions"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Likert scales produce ordinal data — the categories have a rank order but the distances between categories are not equal (the gap between 'neutral' and 'agree' is not necessarily the same as between 'agree' and 'strongly agree'). Ordinal data are appropriately summarised with median and interquartile range (not mean ± SD) and compared with non-parametric tests (Wilcoxon rank-sum/Mann-Whitney for independent groups; Wilcoxon signed-rank for paired data). Treating Likert data as continuous (using means and t-tests) violates the statistical assumption of equal intervals.",
+          "wrong": {
+            "A": "Mean and t-test assume continuous (interval/ratio) data with equal intervals — not technically appropriate for Likert ordinal data.",
+            "C": "Regression assuming continuous outcome is not technically correct for Likert data — ordinal logistic regression is appropriate.",
+            "D": "Chi-square for proportions would work for binary outcomes — not for ranked ordinal Likert data."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 6: Ordinal outcome analysis",
+          "trial": "Norman G. Med Educ (2010): controversially argued that treating Likert scales as interval data with parametric tests is acceptable when 5+ response categories — a pragmatic view widely adopted in practice.",
+          "pearl": "Likert = ORDINAL data. Technically: median/IQR + Wilcoxon. Pragmatically: many journals accept mean/t-test for 5+ point Likert (Norman 2010). In examinations: ordinal methods are the technically correct answer.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q8",
+        "stem": "The Minimal Clinically Important Difference (MCID) for the pain visual analogue scale (0–100 mm) is approximately:",
+        "options": {
+          "A": "1–2 mm",
+          "B": "5 mm",
+          "C": "13–15 mm",
+          "D": "30 mm"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The MCID for pain VAS (100 mm scale) is approximately 13–15 mm, established through multiple anchor-based studies across different pain conditions including postoperative pain, TMJ pain, and facial pain. This means a VAS reduction of less than 13 mm, while potentially statistically significant in a large trial, does not represent a pain change that patients would consider meaningful. The equivalent threshold for NRS (0–10) is approximately 1.5–2 points.",
+          "wrong": {
+            "A": "1–2 mm is far below the established MCID — within measurement error for VAS.",
+            "B": "5 mm is below the MCID — a change of this magnitude is not reliably perceptible to patients.",
+            "D": "30 mm substantially exceeds the MCID — a 30 mm VAS change represents a clinically large, obvious improvement."
+          },
+          "guideline": "FDA PRO Guidance (2009) — MCID methodology; published MCID studies for pain VAS",
+          "trial": "Farrar JT et al. Pain (2001): MCID for pain NRS/VAS — 13–15 mm on 100 mm VAS (approximately 1.74 NRS points) as MCID for postoperative pain; widely replicated across pain populations.",
+          "pearl": "Pain VAS MCID ≈ 13–15 mm (100 mm scale). Pain NRS MCID ≈ 1.5–2 points (0–10 scale). OHIP-14 MCID ≈ 9 points. Mouth opening MCID ≈ 5 mm. These numbers are FREQUENTLY tested.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q9",
+        "stem": "The OHIP-49 questionnaire was developed based on which conceptual model of oral health?",
+        "options": {
+          "A": "The biopsychosocial model of chronic pain",
+          "B": "Locker's theoretical model of oral health derived from the WHO classification of disease consequences",
+          "C": "The GRADE framework for evidence quality assessment",
+          "D": "The Ottawa model of research utilisation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The OHIP-49 (Slade and Spencer 1994) was developed based on Locker's (1988) theoretical model of oral health, which in turn was derived from the WHO International Classification of Impairments, Disabilities, and Handicaps (ICIDH, 1980). Locker's model proposes a causal pathway from disease/pathology through impairment (functional limitation) → disability (physical, psychological, social) → handicap. The OHIP-49's seven dimensions directly map onto this model.",
+          "wrong": {
+            "A": "The biopsychosocial model of chronic pain (Engel 1977) is a separate framework — while relevant to TMJ and orofacial pain, it is not the basis of OHIP.",
+            "C": "GRADE is a framework for rating evidence quality — not a conceptual model for quality of life measurement.",
+            "D": "The Ottawa model is used in implementation science — not in OHRQoL instrument development."
+          },
+          "guideline": "Slade GD & Spencer AJ. Community Dent Health (1994): OHIP-49 original paper — development based on Locker's model",
+          "trial": "Slade GD & Spencer AJ. Community Dent Health (1994): OHIP-49 development — 49 items across 7 Locker model dimensions; original validation in 1,217 South Australian adults.",
+          "pearl": "OHIP-49 development: Locker's model (1988) → WHO ICIDH → 7 dimensions: Functional limitation, Physical pain, Psychological discomfort, Physical disability, Psychological disability, Social disability, Handicap.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q10",
+        "stem": "What distinguishes condition-specific PRO instruments from generic PRO instruments?",
+        "options": {
+          "A": "Condition-specific instruments are always shorter and easier to administer",
+          "B": "Condition-specific instruments are more responsive to changes in the specific disease domain but cannot be compared across conditions; generic instruments enable cross-condition comparison and health economic evaluation",
+          "C": "Condition-specific instruments are validated only in research settings, not clinical practice",
+          "D": "Generic instruments are preferred by NICE and should always replace condition-specific instruments in OMFS trials"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The key distinction: condition-specific instruments (e.g., OHIP-14) are more responsive (sensitive to meaningful changes in the specific domain) because they measure items directly relevant to the condition — making them better for detecting treatment effects. However, they cannot be compared with outcomes in other diseases. Generic instruments (e.g., EQ-5D) enable comparison across conditions and health economic evaluation (QALYs) but are less sensitive to condition-specific changes. Best practice: use BOTH in OMFS trials.",
+          "wrong": {
+            "A": "Length varies independently of specificity — OHIP-49 (condition-specific) has 49 items; EQ-5D (generic) has 5 items.",
+            "C": "Condition-specific instruments like OHIP-14 are validated for both research and clinical settings.",
+            "D": "NICE prefers EQ-5D for utility calculations but does NOT recommend replacing condition-specific instruments — both are needed for comprehensive outcome measurement."
+          },
+          "guideline": "Patrick DL & Deyo RA. Med Care (1989): generic vs specific instruments — the foundational distinction in PRO methodology",
+          "trial": "Allen PF. Health Qual Life Outcomes (2003): OHIP instruments in dentistry — confirms superior responsiveness of OHIP over generic instruments for oral health changes.",
+          "pearl": "Condition-specific (OHIP-14) = MORE RESPONSIVE to oral health changes. Generic (EQ-5D) = allows cross-condition comparison + QALY calculation. Best OMFS trial = use BOTH.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q11",
+        "stem": "The anchor-based method for determining MCID uses:",
+        "options": {
+          "A": "Half the standard deviation of the baseline score as the MCID threshold",
+          "B": "Correlation of the PRO change score with a meaningful external anchor question",
+          "C": "The 95th percentile of the change distribution in the control group",
+          "D": "Expert panel consensus on the minimum acceptable improvement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The anchor-based MCID method correlates PRO change scores with an external anchor — typically a Patient Global Impression of Change (PGIC) question asking 'How would you describe your change since treatment?' The PRO score change associated with the 'minimally better' or 'a little better' category of the anchor provides the MCID. This method is preferred because it directly links the PRO change to patient-perceived meaningful improvement, giving the MCID clinical face validity.",
+          "wrong": {
+            "A": "Half the baseline standard deviation = DISTRIBUTION-BASED MCID (not anchor-based). This method provides a statistically convenient estimate but is not anchored to patient experience.",
+            "C": "95th percentile of control group change = not a recognised MCID method.",
+            "D": "Expert panel consensus = not the standard anchor-based method — expert opinion may not reflect patient-perceived meaningful change."
+          },
+          "guideline": "FDA PRO Guidance (2009) — MCID determination methodology: anchor-based preferred",
+          "trial": "Farrar JT et al. Pain (2001): anchor-based MCID for pain — PGIC 'minimally improved' category used as anchor; 13–15 mm VAS change identified as the MCID.",
+          "pearl": "ANCHOR-based MCID = correlation with PGIC (global impression of change) — patient-derived. DISTRIBUTION-based = 0.5 SD or SEM — statistically derived. Anchor-based is preferred (FDA). Both are reported in validation studies.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q12",
+        "stem": "The NICE cost-effectiveness threshold for QALY-gaining interventions is approximately:",
+        "options": {
+          "A": "£5,000–10,000 per QALY gained",
+          "B": "£20,000–30,000 per QALY gained",
+          "C": "£50,000–100,000 per QALY gained",
+          "D": "£200,000 per QALY gained"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "NICE's accepted cost-effectiveness threshold is approximately £20,000–£30,000 per QALY gained. Interventions with an ICER below £20,000/QALY are generally approved. Those above £30,000/QALY are generally not approved unless there are exceptional circumstances (e.g., end-of-life treatments, rare diseases). This threshold was originally set based on analysis of NHS healthcare spending and willingness-to-pay estimates.",
+          "wrong": {
+            "A": "£5,000–10,000/QALY substantially underestimates the NICE threshold — most routine interventions would not be approved at this threshold.",
+            "C": "£50,000–100,000/QALY is typically reserved for end-of-life technologies under special NICE criteria — not the standard threshold.",
+            "D": "£200,000/QALY is vastly above the NICE threshold — treatments at this level are virtually never approved by NICE."
+          },
+          "guideline": "NICE Guide to the Methods of Technology Appraisal (2013) — £20,000–£30,000 per QALY threshold",
+          "trial": "Rawlins MD & Culyer AJ. BMJ (2004): NICE threshold analysis — £20,000–£30,000 per QALY established as the implicit UK willingness-to-pay threshold.",
+          "pearl": "NICE threshold = £20,000–30,000 per QALY. Below £20,000 = approve. £20,000–30,000 = consider. Above £30,000 = usually reject (exception: end-of-life + small population). Know this for examinations.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q13",
+        "stem": "In an OMFS trial comparing two types of orthognathic surgery, the OHIP-14 improves by a mean of 11 points (95% CI 7.2–14.8) in the intervention group compared with 3 points in the control group (difference 8 points, p = 0.03). How should this result be interpreted?",
+        "options": {
+          "A": "The result is clinically significant — 11 points exceeds the MCID of 9",
+          "B": "The result is statistically significant but probably not clinically significant — the DIFFERENCE of 8 points between groups is below the 9-point MCID",
+          "C": "The result is inconclusive because the confidence interval crosses zero",
+          "D": "The result is clinically significant because p = 0.03 is below 0.05"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The key metric for MCID comparison is the BETWEEN-GROUP difference (the incremental gain from treatment), NOT the within-group change from baseline. The between-group difference is 8 points (11 − 3 = 8), which is BELOW the OHIP-14 MCID of approximately 9 points. While the intervention group improved by 11 points (above the MCID), 3 points of this improvement also occurred in the control group — likely representing natural history, placebo effect, or regression to mean. The TREATMENT-SPECIFIC benefit is the 8-point between-group difference, which falls below the MCID. The result is statistically significant but not clearly clinically meaningful.",
+          "wrong": {
+            "A": "The within-group improvement of 11 points exceeds the MCID, but MCID for between-group differences in RCTs requires comparing the difference between groups (8 points), not just the treatment arm's improvement.",
+            "C": "The confidence interval does not cross zero (95% CI 7.2–14.8 for the intervention group change) — but this analysis is of within-group change, not the between-group difference whose CI is needed.",
+            "D": "p = 0.03 demonstrates statistical significance but does not determine clinical significance — the MCID comparison is the appropriate clinical benchmark."
+          },
+          "guideline": "GRADE Working Group 2011 — Between-group MCID comparison as primary clinical significance test",
+          "trial": "Allen PF. Health Qual Life Outcomes (2003): OHIP-14 MCID — 9-point threshold for clinically meaningful between-group differences in intervention studies.",
+          "pearl": "BETWEEN-GROUP difference = the relevant quantity for MCID comparison in RCTs. 11-point improvement in intervention minus 3-point in control = 8-point between-group difference. 8 < 9 (MCID) = NOT clearly clinically meaningful despite p < 0.05.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q14",
+        "stem": "The Patient Global Impression of Change (PGIC) scale is primarily used as:",
+        "options": {
+          "A": "A primary outcome measure for patient satisfaction in OMFS trials",
+          "B": "An anchor measure for calculating MCID for other PRO instruments",
+          "C": "A generic health-related quality of life instrument for NICE submissions",
+          "D": "A clinician-reported measure of treatment success"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The PGIC is a single-item question ('How would you describe your overall change since starting treatment?') with 7 response options from 'very much worse' to 'very much improved'. It is used as an external anchor in anchor-based MCID methodology: the PRO score change associated with 'minimally improved' on the PGIC defines the MCID for that instrument. The PGIC is not used as a primary outcome measure in OMFS trials — its main purpose is methodological (MCID calculation).",
+          "wrong": {
+            "A": "Patient satisfaction is better measured by condition-specific satisfaction instruments (FACE-Q satisfaction scales) — the PGIC is a retrospective global assessment, not a specific satisfaction measure.",
+            "C": "Generic HRQoL instruments for NICE submissions = EQ-5D — not PGIC.",
+            "D": "PGIC comes directly from the patient, making it a PRO — not a clinician-reported measure."
+          },
+          "guideline": "FDA PRO Guidance (2009) — PGIC as anchor for MCID determination",
+          "trial": "Farrar JT et al. Pain (2001): original PGIC anchor methodology — used 7-point PGIC to anchor pain NRS/VAS MCID calculation.",
+          "pearl": "PGIC = anchor for MCID methodology. 'How would you describe your change since treatment?' = 7 options from 'very much worse' to 'very much improved'. 'Minimally improved' category PRO change = MCID.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q15",
+        "stem": "A core outcome set (COS) for condylar fracture RCTs would improve the evidence base primarily by:",
+        "options": {
+          "A": "Increasing the sample size of individual trials",
+          "B": "Ensuring all trials measure the same outcomes, enabling pooling of results in systematic reviews",
+          "C": "Reducing the duration of follow-up required for each trial",
+          "D": "Providing blinding to outcome assessors"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A COS ensures that all trials in a clinical area measure the same minimum set of outcomes. This enables systematic reviews to pool results across trials for those outcomes — producing meta-analyses with larger sample sizes and more precise effect estimates. Without COS, each trial in condylar fracture management may report different outcomes (e.g., one reports occlusion, another mouth opening, another VAS pain, another OHIP-14), making it impossible to pool results and produce a definitive systematic review conclusion.",
+          "wrong": {
+            "A": "COS does not directly increase individual trial sample sizes — sample sizes are still determined by power calculations.",
+            "C": "COS does not specify follow-up duration — only which outcomes should be measured.",
+            "D": "COS does not address blinding methodology — it specifies outcome selection, not conduct."
+          },
+          "guideline": "COMET Initiative (2012) — COS rationale: enabling pooling in systematic reviews",
+          "trial": "Williamson PR et al. Trials (2012): COMET rationale — heterogeneous outcomes across trials prevent meta-analysis; COS addresses this.",
+          "pearl": "COS = standardised outcomes = ENABLES POOLING in meta-analysis. Without COS, trials measure different outcomes = cannot pool = fragmented evidence = no clear answer. COS = one of the most impactful methodological improvements in OMFS research.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q16",
+        "stem": "Which OMFS procedure's outcomes research would most require both EQ-5D and OHIP-14 together to provide a complete outcome picture?",
+        "options": {
+          "A": "Surgical extraction of asymptomatic wisdom teeth",
+          "B": "Orthognathic surgery — where health economic justification (QALY) and condition-specific QoL improvement both need to be demonstrated",
+          "C": "Biopsy of a mucosal lesion under local anaesthesia",
+          "D": "Resection of a benign fibroma of the lip"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Orthognathic surgery has high costs, significant recovery, and is frequently subject to NHS commissioning debates. To justify commissioning, it must demonstrate both: (1) meaningful condition-specific QoL improvement (OHIP-14 — evidence that patients' oral health-related quality of life improves significantly above the MCID); AND (2) health economic value (EQ-5D utility data for QALY calculation — evidence that the ICER is below NICE's £20,000–30,000 threshold). Relying on only one instrument would provide an incomplete picture for commissioning decisions.",
+          "wrong": {
+            "A": "Wisdom tooth extraction is typically a brief procedure with predictable outcomes and minimal health economic complexity — EQ-5D may be unnecessary overkill.",
+            "C": "A lip biopsy is a minor procedure with no meaningful QoL impact — PRO measurement is not a primary research priority.",
+            "D": "Lip fibroma resection is a straightforward minor procedure not requiring comprehensive PRO measurement for commissioning purposes."
+          },
+          "guideline": "NHS England Commissioning for Quality and Innovation (CQUIN) — orthognathic surgery outcomes requirements",
+          "trial": "Cunningham SJ et al. J Oral Maxillofac Surg (2002): OHIP-14 in orthognathic surgery — significant improvements demonstrated; subsequent studies added EQ-5D for QALY analysis.",
+          "pearl": "Orthognathic surgery = ideal candidate for BOTH EQ-5D (health economics, NHS commissioning justification) AND OHIP-14 (condition-specific QoL). Both required for complete outcomes research and commissioning decisions.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q17",
+        "stem": "A distribution-based MCID using the '0.5 standard deviation' rule for an OMFS PRO means:",
+        "options": {
+          "A": "The MCID is set at 0.5 × the standard deviation of the baseline score",
+          "B": "The MCID is set at 0.5 × the standard deviation of the between-group difference",
+          "C": "Only 50% of participants need to improve for the MCID to be reached",
+          "D": "The sample size needs to be multiplied by 0.5 to achieve the MCID"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The 0.5 SD rule for distribution-based MCID sets the MCID as 0.5 standard deviations of the PRO score at baseline. For example, if OHIP-14 baseline SD = 14 points, the 0.5 SD MCID = 0.5 × 14 = 7 points. This approach is entirely statistical — it defines the MCID as 'medium effect size' in Cohen's framework (d = 0.5). It is convenient and reproducible but does not anchor to patient-perceived meaningful change. Distribution-based methods are used when anchor-based data are unavailable, but anchor-based MCIDs are considered more clinically meaningful.",
+          "wrong": {
+            "B": "The 0.5 SD rule applies to the BASELINE SD, not the between-group difference.",
+            "C": "50% of patients improving is a response rate — not the 0.5 SD distribution-based MCID.",
+            "D": "Sample size calculation is separate from MCID determination — the 0.5 SD rule does not specify sample size adjustment."
+          },
+          "guideline": "FDA PRO Guidance (2009) — distribution-based methods: 0.5 SD as one approach",
+          "trial": "Norman GR et al. Health Qual Life Outcomes (2003): 0.5 SD rule validation — consistent with half a standard deviation representing the 'minimum detectable difference'; limitation is lack of anchor to patient experience.",
+          "pearl": "DISTRIBUTION-based MCID: 0.5 × baseline SD. SIMPLE, statistical, no patient anchor needed. ANCHOR-based MCID: correlate PRO change with PGIC. ANCHOR-based is PREFERRED (FDA). Distribution-based = backup when no anchor data available.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q18",
+        "stem": "The Jaw Functional Limitation Scale (JFLS) measures which domain of TMJ and orthognathic surgery outcomes?",
+        "options": {
+          "A": "Pain intensity during jaw function",
+          "B": "Functional limitations of the jaw including mastication, mobility, and verbal communication",
+          "C": "Radiographic joint space and condylar position",
+          "D": "Patient satisfaction with jaw appearance after surgery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Jaw Functional Limitation Scale (JFLS) measures the degree to which jaw function is limited across three domains: (1) mastication (chewing specific foods); (2) jaw mobility (jaw opening, side-to-side movement); and (3) verbal and emotional expression (speaking, smiling, yawning). It was developed as part of the DC/TMD diagnostic criteria project and is validated for TMJ disorders and orthognathic surgery outcomes. The JFLS-20 (20 items) and JFLS-8 (8-item short form) are available.",
+          "wrong": {
+            "A": "Pain intensity is measured by VAS or NRS — not the JFLS (which measures functional LIMITATION, not pain).",
+            "C": "Radiographic assessment is a clinician-reported/imaging outcome — not a PRO.",
+            "D": "Jaw appearance satisfaction is measured by FACE-Q or global aesthetic satisfaction scales — not JFLS."
+          },
+          "guideline": "COMET OMFS COS (2019) — JFLS as recommended instrument for jaw function in TMJ and orthognathic trials",
+          "trial": "Ohrbach R et al. J Oral Facial Pain Headache (2012): DC/TMD diagnostic criteria — JFLS-20 validated as a reliable PRO for jaw function in TMD populations.",
+          "pearl": "JFLS = Jaw Functional Limitation Scale = measures JAW FUNCTION limitations: mastication + mobility + verbal/emotional expression. Used in TMJ and orthognathic surgery trials. MCID for JFLS ≈ 7 points.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q19",
+        "stem": "Response bias in PRO measurement in surgical trials refers to:",
+        "options": {
+          "A": "Participants completing questionnaires faster than expected",
+          "B": "Patients reporting outcomes that they believe reflect well on their surgeon, rather than their true experience",
+          "C": "Losing data from non-respondents who are systematically different from respondents",
+          "D": "The tendency for Likert scale options to be chosen non-uniformly"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Response bias (also called social desirability bias in PRO measurement) occurs when patients adjust their self-reported outcomes to please their surgeon or to meet expected social norms — reporting better outcomes than they actually experience. This is particularly relevant in surgical settings where patients have an ongoing relationship with the operating surgeon and want to validate the surgeon's decision to operate. Strategies to minimise it: data collection by independent research nurses, computer-based questionnaire administration, and assurances of confidentiality.",
+          "wrong": {
+            "A": "Completing questionnaires faster than expected is speed effect — not response bias in the relevant sense.",
+            "C": "Data loss from non-respondents who are systematically different = NON-RESPONSE BIAS (missing data bias) — a separate problem.",
+            "D": "Non-uniform response distribution on Likert scales = acquiescence bias or extreme response bias — not the same as social desirability response bias."
+          },
+          "guideline": "FDA PRO Guidance (2009) — Response bias and data quality in PRO administration",
+          "trial": "Speculand B et al. Br J Oral Maxillofac Surg (2019): PROs in OMFS — response bias identified as a significant concern when PROs are administered by the treating surgeon rather than independent researchers.",
+          "pearl": "RESPONSE BIAS in PRO surgical trials: patients report better outcomes to please their surgeon. Prevention: independent data collection + computer administration + confidentiality assurance. Avoid collecting PROs during clinical consultations.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q20",
+        "stem": "Which NHS programme routinely collects PRO data from patients undergoing elective surgical procedures?",
+        "options": {
+          "A": "NHS Research Ethics Programme",
+          "B": "NHS PROMs (Patient-Reported Outcome Measures) Programme",
+          "C": "NHS Commissioning for Quality and Innovation (CQUIN)",
+          "D": "NHS England National Clinical Audit Programme"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The NHS PROMs (Patient-Reported Outcome Measures) Programme collects standardised PRO data from patients undergoing four elective surgical procedures: hip replacement, knee replacement, groin hernia repair, and varicose vein surgery. Patients complete validated questionnaires (EQ-5D and condition-specific instruments) before and after surgery — enabling comparison of outcomes between hospitals and across time. The programme is the largest national PRO data collection initiative in the world and has demonstrated that PRO collection is feasible at scale. Currently, no OMFS procedures are included in the mandatory PROMs programme, though this may change as orthognathic surgery commissioning evidence is developed.",
+          "wrong": {
+            "A": "NHS Research Ethics Programme = REC ethical approval process — not PRO collection.",
+            "C": "CQUIN = financial incentive scheme for quality improvement — not PRO data collection.",
+            "D": "National Clinical Audit Programme = clinical performance audit — collects clinical data, not necessarily PROs in the standardised PROMs format."
+          },
+          "guideline": "NHS England PROMs Programme (from 2009) — four procedures: hip, knee, hernia, varicose veins",
+          "trial": "NHS Information Centre. 'Patient Reported Outcome Measures in England' (2012): PROMs programme evaluation — world's largest routine PRO collection; EQ-5D + condition-specific instruments; four surgical procedures.",
+          "pearl": "NHS PROMs = national PRO collection for 4 elective procedures: HIP + KNEE + HERNIA + VARICOSE VEINS. EQ-5D collected pre- and post-operatively for all. OMFS not currently included. The programme demonstrates large-scale PRO feasibility.",
+          "difficulty": 1
+        }
+      }
+    ]
+  }
+}

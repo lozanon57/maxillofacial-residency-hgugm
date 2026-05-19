@@ -1,0 +1,660 @@
+{
+  "id": "C4",
+  "title": "Complications in Dentoalveolar Surgery",
+  "subtitle": "Block C — Postoperative Infections, Nerve Injury, Oroantral Communications, Osteomyelitis",
+  "block": "C",
+  "block_name": "Dentoalveolar Surgery and Implantology",
+  "level": "R2-3",
+  "reading_time_min": 38,
+  "guidelines_version": "AAOMS 2023 · EACMFS 2023 · NICE NG35 2024 · SIGN 43 (Odontogenic Infections)",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Flynn TR. The swollen face: severe odontogenic infections. Emerg Med Clin North Am (2000)",
+    "Khoury F et al. Bone Augmentation in Oral Implantology (2007)",
+    "Dodson TB et al. Nerve Injuries After Third Molar Removal. J Oral Maxillofac Surg (2012)"
+  ],
+  "learning_objectives": [
+    "Classify odontogenic space infections and their anatomical boundaries to guide surgical drainage decisions",
+    "Recognise Ludwig's angina criteria and manage airway in severe deep space infections",
+    "Diagnose and classify osteomyelitis of the jaws with appropriate imaging and treatment protocols",
+    "Manage oroantral communications: immediate primary closure criteria and delayed management strategies",
+    "Identify, classify, and determine microsurgical repair thresholds for inferior alveolar and lingual nerve injuries",
+    "Manage mandibular fractures occurring as a complication of tooth extraction"
+  ],
+  "sections": [
+    {
+      "id": "C4-S1",
+      "title": "Odontogenic Space Infections: Anatomy and Classification",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Odontogenic space infections arise most commonly from periapical abscesses, periodontal disease, and pericoronitis. Understanding the fascial space anatomy of the head and neck is essential to predict spread patterns, guide drainage, and identify life-threatening presentations. The primary spaces — those directly adjacent to the teeth — include the buccal, sublingual, submental, submandibular, masticator (containing the masseter, pterygomandibular, and superficial temporal spaces), and parapharyngeal spaces. Secondary spaces are those reached by contiguous spread: the retropharyngeal, danger, and prevertebral spaces, which provide a direct conduit to the mediastinum.\n\nThe path of infection spread is determined by the position of the tooth apex relative to muscle attachments. Mandibular molars with apices below the mylohyoid attachment drain to the submandibular space; if above, to the sublingual. Maxillary posterior teeth with buccal plate perforation below the buccinator attachment reach the buccal space; above, they reach the infraorbital or canine space. The masticator space — bounded by the masseter laterally, medial pterygoid medially, and ramus posteriorly — is most commonly infected from mandibular third molars and presents with trismus as the hallmark clinical feature, caused by spasm of the masseter and pterygoid muscles."
+        },
+        {
+          "type": "table",
+          "title": "Primary Odontogenic Fascial Spaces: Boundaries, Sources, and Clinical Features",
+          "headers": ["Space", "Boundaries", "Primary Source", "Key Clinical Feature"],
+          "rows": [
+            ["Buccal", "Buccinator (medial), skin (lateral), zygoma (superior), inferior border mandible (inferior)", "Maxillary/mandibular molars and premolars", "Facial swelling; trismus uncommon"],
+            ["Sublingual", "Mylohyoid (inferior), oral mucosa (superior), mandible (lateral)", "Mandibular anterior teeth/premolars (apex above mylohyoid)", "Elevated floor of mouth, dysphagia"],
+            ["Submandibular", "Mylohyoid (superior/medial), platysma (lateral), digastric (posterior)", "Mandibular molars (apex below mylohyoid)", "Submandibular swelling, neck oedema"],
+            ["Submental", "Symphysis (posterior), platysma (anterior/lateral), mylohyoid (floor)", "Mandibular incisors (via submental spread)", "Chin swelling, induration"],
+            ["Masticator", "Ramus, masseter (lateral), medial pterygoid (medial), zygomatic arch (superior)", "Mandibular third molars", "Trismus, lateral face swelling"],
+            ["Parapharyngeal", "Pharynx (medial), pterygoid/parotid (lateral), skull base (superior)", "Extension from masticator/submandibular", "Medial pharyngeal wall displacement, stridor"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Danger Space Involvement — Mediastinitis Risk",
+          "content": "The retropharyngeal space communicates directly with the danger space (between alar and prevertebral fascia), which extends to the posterior mediastinum without anatomical barrier. CT of neck AND chest with contrast is mandatory when retropharyngeal extension is suspected. Mortality from descending necrotising mediastinitis approaches 40% even with aggressive management. Early thoracic surgical consultation is essential."
+        }
+      ]
+    },
+    {
+      "id": "C4-S2",
+      "title": "Ludwig's Angina and Life-Threatening Infections",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Ludwig's angina is a rapidly progressive, potentially fatal bilateral cellulitis of the submandibular, sublingual, and submental spaces — all three must be involved simultaneously to fulfil the classic definition. First described by Wilhelm Friedrich von Ludwig in 1836, the condition is characterised by brawny, boardlike induration of the floor of the mouth and neck, elevation of the tongue, dysphagia, drooling, and odynophagia. Unlike a simple abscess, Ludwig's angina involves diffuse cellulitis with predominantly streptococcal and mixed anaerobic organisms rather than a well-localised pus collection — aspiration yields gas (from gas-forming organisms) in up to 45% of cases.\n\nAirway management is the paramount concern. The tongue is pushed superiorly and posteriorly by floor of mouth oedema, and conventional laryngoscopy may be impossible or catastrophically dangerous. The 'can't intubate, can't oxygenate' scenario must be anticipated. Preferred approaches include: awake fibreoptic nasotracheal intubation under topical anaesthesia (first choice when airway still accessible), awake tracheostomy under local anaesthesia (if rapid deterioration), and surgical airway as the final rescue. Blind oral intubation attempts are contraindicated. Steroids (dexamethasone 8–16 mg IV) are used to reduce oedema in selected cases, though evidence is observational.\n\nMedical management requires high-dose intravenous antibiotics covering streptococci, staphylococci, and anaerobes: penicillin-G plus metronidazole, or co-amoxiclav monotherapy, or clindamycin plus metronidazole in penicillin allergy. Surgical drainage via submandibular incision (1–2 cm below and parallel to the inferior border of mandible) with bilateral decompression is indicated when CT confirms abscess formation or when clinical deterioration continues despite antibiotics. Incisions must decompress all three floor-of-mouth spaces; a midline drain may be required. Mortality in the pre-antibiotic era exceeded 50%; with modern management, it has fallen to 0–5%."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Ludwig's Angina — Three-Space Rule",
+          "content": "Ludwig's angina specifically requires BILATERAL involvement of submandibular + sublingual + submental spaces simultaneously. Unilateral submandibular infection, however severe, is NOT Ludwig's angina. The bilateral brawny induration distinguishes it clinically. Trismus is absent (masseter space not involved) but dysphagia and drooling are prominent. Airway must be secured before any attempt at drainage."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Necrotising Fasciitis of the Neck",
+          "content": "Cervicofacial necrotising fasciitis is distinct from Ludwig's angina: it involves necrosis of fascia and subcutaneous tissue with characteristic skin discolouration (violaceous), bullae, and crepitus. Group A Streptococcus or mixed synergistic organisms. CT shows gas tracking along fascial planes. Treatment requires aggressive surgical debridement with wide skin excision, repeat debridement at 24-48 hours, and consideration of hyperbaric oxygen. Mortality exceeds 20% despite aggressive treatment."
+        }
+      ]
+    },
+    {
+      "id": "C4-S3",
+      "title": "Osteomyelitis of the Jaws",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Osteomyelitis of the jaws — defined as infection of bone and bone marrow — is classified as acute (symptoms <4 weeks), subacute (4–6 weeks), or chronic (>6 weeks). The mandible is affected 10–15 times more frequently than the maxilla due to its dense cortical bone with limited blood supply, end-arterial vascular pattern, and limited collateral circulation. The most common causative organisms are Staphylococcus aureus (primary acute), mixed anaerobes (chronic), and Actinomyces israelii (chronic cervicofacial actinomycosis — a special form).\n\nPredisposing factors for osteomyelitis include prior radiation therapy (most important — osteoradionecrosis is radiation-induced osteomyelitis), bisphosphonate or denosumab therapy (MRONJ), diabetes mellitus, haematological malignancies, immunosuppression, and severe malnutrition. The Zurich classification system (Baltensperger 2004) provides a contemporary framework distinguishing primary chronic osteomyelitis (PCO — no identifiable suppurative cause, predominantly in adolescents, associated with SAPHO syndrome) from secondary osteomyelitis (with an identifiable odontogenic or traumatic aetiology).\n\nDiagnosis relies on clinical, radiographic, and histopathological findings. Plain radiographs show a characteristic 'moth-eaten' pattern in established disease; CT provides superior cortical detail; MRI is most sensitive for early marrow involvement and soft tissue extension. Bone scintigraphy with technetium-99m is highly sensitive but non-specific. Biopsy is mandatory in all cases to exclude malignancy and to provide microbiological specimens for antibiotic sensitivity testing.\n\nTreatment of acute osteomyelitis involves IV antibiotics for 4–6 weeks (empirical penicillin-G or clindamycin, adjusted to culture results), sequestrectomy of necrotic bone, and removal of the causative tooth. Chronic osteomyelitis requires surgical debridement, decortication (removal of infected cortex to expose vascular medullary bone), and prolonged antibiotic therapy (6–12 weeks). Refractory cases may require segmental resection with reconstruction."
+        },
+        {
+          "type": "table",
+          "title": "Osteomyelitis Classification and Management",
+          "headers": ["Type", "Duration", "Microbiology", "Radiographic Feature", "Treatment"],
+          "rows": [
+            ["Acute suppurative", "<4 weeks", "S. aureus, streptococci, mixed anaerobes", "Periosteal reaction, early bone lysis", "IV antibiotics 4-6 wks + sequestrectomy"],
+            ["Chronic secondary", ">6 weeks", "Mixed anaerobes, S. aureus", "Sequestrum, involucrum, cloacae", "Decortication + 6-12 wks antibiotics"],
+            ["Primary chronic (PCO)", ">6 weeks, no septic focus", "Usually sterile (culture neg)", "Diffuse sclerosis, periosteal layering", "NSAIDs, bisphosphonates, cortisone"],
+            ["Actinomycotic", "Weeks–months", "Actinomyces israelii", "Moth-eaten, 'wooden jaw'", "High-dose penicillin 6-12 months"],
+            ["Osteoradionecrosis", "Post-RT, any duration", "Secondary infection (Pseudomonas, MRSA)", "Exposed bone, sequestrum, fistula", "HBO + debridement ± resection"],
+            ["MRONJ", "Post-antiresorptive, ≥8 wks", "Secondary (Actinomyces common)", "Sclerosis, sequestrum, ONJ", "Stage-dependent (AAOMS 2022 protocol)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Sequestrum vs Involucrum — Must Distinguish",
+          "content": "A sequestrum is dead, avascular bone that has separated from the living bone — it appears as a dense radio-opaque island surrounded by radiolucency. It requires surgical removal. An involucrum is the reactive new bone shell formed around the sequestrum by surviving periosteum. A cloaca is a channel through the involucrum through which pus drains. Recognising these three features on CT confirms established chronic osteomyelitis and guides surgical debridement extent."
+        }
+      ]
+    },
+    {
+      "id": "C4-S4",
+      "title": "Oroantral Communications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "An oroantral communication (OAC) is an abnormal opening between the oral cavity and the maxillary sinus, occurring most commonly after extraction of upper posterior teeth — particularly the first molar — where the root apices project into or are separated from the sinus floor by only a thin bony plate. The prevalence of OAC following upper molar extraction is reported at 1–3%. An oroantral fistula (OAF) is a chronic, epithelialised OAC that has persisted beyond 48–72 hours; it has an epithelial-lined tract that requires surgical excision rather than simple mucosal closure.\n\nPreoperative predictors of OAC risk include close proximity of root apices to the sinus on OPG or CBCT, sinus pneumatisation (expansion of sinus into the dentoalveolar region), root hypercementosis, and periapical pathology. Intraoperative signs include: the Valsalva test (positive bubbling through the socket when the patient exhales against closed nostrils), direct visualisation of the opening, and passage of a probe into the sinus.\n\nImmediate primary closure is the standard of care for OAC identified at time of extraction when the defect is ≤5 mm or the socket itself can be packed with resorbable gelatin sponge. For defects >5 mm, local flap closure is required. The **buccal advancement flap (Rehrmann flap)** is the most common technique: a trapezoidal mucoperiosteal flap is raised from the buccal sulcus with periosteal releasing incision at the base to allow tension-free advancement. The **palatal rotation flap (Ahlfors flap)** uses the greater palatine artery as the vascular pedicle and provides keratinised tissue; it is preferred when the buccal sulcus has been compromised by prior surgery. The **buccal fat pad flap** is used for larger defects (>3 cm), taking advantage of the Bichat fat pad's excellent vascularity — it is left to epithelialise secondarily over 3–4 weeks."
+        },
+        {
+          "type": "table",
+          "title": "Management Algorithm for Oroantral Communications",
+          "headers": ["Defect Size / Timing", "Sinus Status", "Preferred Technique", "Notes"],
+          "rows": [
+            ["≤5 mm, immediate", "Healthy", "Gelatin sponge + figure-of-8 suture", "No flap required if small and primary"],
+            [">5 mm, immediate", "Healthy", "Buccal advancement flap (Rehrmann)", "Periosteal release mandatory for tension-free"],
+            ["Any size, immediate", "Limited buccal tissue", "Palatal rotation flap (Ahlfors)", "Requires greater palatine foramen identification"],
+            ["Large (>3 cm), immediate", "Any", "Buccal fat pad flap", "Left to epithelialise; keratinised tissue lacking"],
+            ["OAF (epithelialised, >48-72h)", "Inflamed/sinusitis", "Treat sinusitis first, then excise tract + flap", "Functional endoscopic sinus surgery (FESS) may be required"],
+            ["OAF with CSOM", "Chronic sinusitis, polyps", "Combined FESS + oral closure", "ENT co-management"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Positive Nosebleed Sign After Extraction",
+          "content": "Instrumentation during extraction that perforates the Schneiderian membrane may cause immediate bleeding from the nostril (epistaxis) before an OAC is created in the socket. This sign indicates sinus floor disruption and should prompt Valsalva testing. Equally, immediate postoperative epistaxis or the patient's complaint that fluids pass into the nose during swallowing are diagnostic of OAC. Document size, manage immediately; never dismiss."
+        }
+      ]
+    },
+    {
+      "id": "C4-S5",
+      "title": "Nerve Injury: Classification, Diagnosis, and Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Nerve injuries complicating dentoalveolar surgery represent the most common cause of medico-legal claims in oral and maxillofacial surgery. The inferior alveolar nerve (IAN) and lingual nerve (LN) are the structures most frequently involved following third molar removal. The **Sunderland classification** (1951) provides the standard framework for peripheral nerve injury severity:\n\n**Grade I (Neuropraxia)**: Focal demyelination only; axon continuity preserved; full spontaneous recovery expected, typically within days to weeks. **Grade II (Axonotmesis)**: Axonal disruption with intact endoneurium; Wallerian degeneration occurs distally; recovery is complete but may take months, guided by regeneration at 1 mm/day. **Grade III**: Axonal and endoneurial disruption; perineurium intact; incomplete recovery likely due to scar tissue at injury site. **Grade IV**: Only epineurium intact; severe scarring; spontaneous recovery poor; surgical repair indicated. **Grade V (Neurotmesis)**: Complete nerve transection; no spontaneous recovery; immediate or delayed primary repair required.\n\nClinical assessment uses the Medical Research Council (MRC) sensory scale (S0–S4) and the Semmes-Weinstein monofilament test to quantify sensory thresholds. Static and moving two-point discrimination tests assess functional sensory recovery. Electromyography (EMG) and nerve conduction velocity (NCV) studies are useful for facial nerve injuries but have limited application for trigeminal branches.\n\nDecision for microsurgical repair is based on: injury mechanism (transection vs. traction), nerve continuity status (confirmed on exploration), duration of anaesthesia without improvement, and clinical trajectory. Current consensus (reviewed in AAOMS 2012 position paper) supports: observation for 3 months for iatrogenic injuries when continuity is probable; exploration and repair at 3–6 months if no recovery signs (improving sensation, Tinel's sign); and immediate repair in confirmed transection (e.g., from osteotomy). Lingual nerve repair carries better prognosis than IAN repair, with reported >70% meaningful recovery after microsurgical neurorraphy."
+        },
+        {
+          "type": "table",
+          "title": "Sunderland Classification Applied to Dentoalveolar Nerve Injuries",
+          "headers": ["Grade", "Injury Level", "Continuity", "Spontaneous Recovery", "Action"],
+          "rows": [
+            ["I (Neuropraxia)", "Myelin only", "Preserved", "Complete; days–weeks", "Observe; reassure patient"],
+            ["II (Axonotmesis)", "Axon + myelin", "Endoneurium intact", "Complete; weeks–months", "Observe 3 months; if no improvement, reassess"],
+            ["III", "Axon + endoneurium", "Perineurium intact", "Partial; months", "Observe 3 months; consider exploration if no recovery"],
+            ["IV", "All except epineurium", "Epineurium only", "Poor", "Explore at 3 months if no recovery; repair"],
+            ["V (Neurotmesis)", "Complete transection", "None", "None", "Immediate repair if confirmed; or plan at 3 months"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Timing of Microsurgical Repair",
+          "content": "The window for microsurgical nerve repair is not unlimited. Beyond 12 months, central sensitisation and degeneration of peripheral receptor end-organs reduces the probability of meaningful functional recovery. The optimal window is 3–6 months post-injury for most iatrogenic nerve injuries. For confirmed transections (visible on exploration), immediate primary neurorrhaphy with epineural sutures (9-0 or 10-0 nylon) without tension offers the best prognosis. If the gap exceeds 1–2 cm, nerve graft (sural nerve, great auricular nerve) or conduit repair is required."
+        }
+      ]
+    },
+    {
+      "id": "C4-S6",
+      "title": "Iatrogenic Mandibular Fracture During Extraction",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Iatrogenic mandibular fracture during or immediately following tooth extraction is a rare but serious complication, occurring most commonly during surgical removal of deeply impacted mandibular third molars — particularly those classified as Pell-Gregory Class III and Position C, and in patients with significant bone reduction from age-related osteoporosis, prior radiation, pathological lesion, or previous jaw surgery. The incidence is estimated at 0.0034% of all extractions and 0.0049% of mandibular third molar extractions.\n\nRisk factors include: deep impaction requiring extensive bone removal, dilacerated or hypercementic roots requiring sectioning, the use of excessive elevator force (the most common mechanism), cysts or odontogenic tumours adjacent to the tooth, bisphosphonate therapy (bone fragility), osteoporosis, and radiation-induced bone changes. Intraoperative fractures are usually recognised immediately by the surgeon feeling or hearing the fracture. Delayed fractures (0–30 days post-extraction) may present with pain, malocclusion, trismus, and abnormal mandibular mobility at follow-up.\n\nManagement follows standard mandibular fracture principles: immediate stabilisation (arch bars and intermaxillary fixation or plate fixation depending on fracture pattern and displacement), imaging (OPG ± CT), and antibiotic prophylaxis. A favourable fracture angle relative to muscle pull may be managed conservatively with soft diet and close follow-up; unfavourable, displaced fractures require open reduction and internal fixation (ORIF) with titanium miniplates. The patient and their family must be informed of the complication immediately, and accurate documentation in the medical record is mandatory. Delayed documentation or failure to disclose constitutes a medico-legal risk."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Elevator Technique — Root Displacement Into Inferior Alveolar Canal",
+          "content": "Apical elevator pressure on deeply impacted third molar roots can displace a root fragment into the inferior alveolar canal or into the floor of the mouth or pharynx. Never apply blind apical force to a root fragment that is not visible. If a root fragment is displaced, STOP immediately: obtain CBCT imaging to localise the fragment in three dimensions, then either retrieve under direct vision (if accessible) or refer to specialist unit. Attempting blind retrieval risks IAN laceration, canal haemorrhage, or further fragment displacement toward the mediastinum via fascial planes."
+        }
+      ]
+    },
+    {
+      "id": "C4-S7",
+      "title": "Antibiotic Prophylaxis and Prescribing in Dentoalveolar Surgery",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The use of prophylactic antibiotics in routine dentoalveolar surgery remains one of the most contested topics in oral and maxillofacial surgery. Current evidence-based guidance distinguishes clearly between prophylaxis (administered before a clean or clean-contaminated procedure in a patient at risk) and therapeutic antibiotics (for established infection). The NICE NG35 (2024) guidance on antimicrobial prescribing in dentistry states that prophylactic antibiotics should NOT be routinely prescribed for third molar extractions in immunocompetent patients without signs of infection — this is based on Cochrane reviews showing minimal reduction in postoperative infection rates against significant risk of antimicrobial resistance and adverse drug effects.\n\nIndications for perioperative prophylaxis in dentoalveolar surgery include: immunocompromised patients (haematological malignancy, organ transplant, HIV with CD4 <200, uncontrolled diabetes), cardiac conditions requiring endocarditis prophylaxis (prosthetic valves, previous infective endocarditis, specific congenital heart defects per NICE CG64 2008/2016), severely impacted third molar with pericoronitis requiring surgical extraction in an acute setting, and pre-planned bone augmentation procedures. When indicated, amoxicillin 2 g orally 1 hour preoperatively is standard; clindamycin 600 mg is the alternative for penicillin-allergic patients.\n\nFor established odontogenic infections (periapical abscess, pericoronitis, periodontal abscess), antibiotic treatment should always be combined with surgical drainage and/or source removal — antibiotics alone are inadequate to treat localised collections. The preferred regimen for odontogenic infections in the UK/Europe is amoxicillin 500 mg TDS plus metronidazole 400 mg TDS for 5 days (combined anaerobic/streptococcal coverage), with co-amoxiclav 625 mg TDS as an alternative. The GABA trial (Lodi et al., Cochrane 2021) confirmed no benefit of adjunctive antibiotics in immunocompetent patients with acute apical abscess treated by incision and drainage alone."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Endocarditis Prophylaxis — NICE CG64 (2016 Update)",
+          "content": "NICE CG64 (originally 2008, confirmed 2016) does NOT recommend antibiotic prophylaxis for dental procedures in patients with cardiac risk factors UNLESS they have: prosthetic heart valve, previous infective endocarditis, or specific unrepaired/repaired congenital heart disease. This contradicts older practice. The rationale is that bacteraemia from routine daily activities (tooth-brushing) is far more significant than from sporadic dental procedures, and prophylaxis provides no proven mortality benefit. Know this NICE position for the exam — it is frequently tested."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of dentoalveolar surgery complications with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "C4-Q1",
+        "stem": "A 34-year-old man with poorly controlled type 1 diabetes presents with bilateral submandibular and sublingual swelling, elevated floor of mouth, drooling, and stridor following extraction of a carious lower left first molar 48 hours ago. Temperature is 39.2°C, heart rate 112 bpm. On opening his mouth, you can visualise the uvula but the tongue is markedly elevated. What is the FIRST priority in management?",
+        "options": {
+          "A": "Administer IV co-amoxiclav and arrange urgent CT of neck and chest",
+          "B": "Secure the airway via awake fibreoptic nasotracheal intubation",
+          "C": "Perform bilateral submandibular incisions for surgical drainage under local anaesthesia",
+          "D": "Start high-dose IV dexamethasone to reduce floor of mouth oedema"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This patient has Ludwig's angina with stridor, indicating impending airway compromise. Airway management takes absolute priority before any other intervention. Awake fibreoptic nasotracheal intubation under topical anaesthesia is the preferred technique as it allows real-time assessment of the airway while maintaining the patient's own respiratory effort. Blind oral intubation is contraindicated due to distorted anatomy. Awake tracheostomy under local anaesthesia is the fallback if fibreoptic fails or is unavailable.",
+          "wrong": {
+            "A": "CT scanning is important but should not precede airway management in a patient with stridor. Sending an unstable airway patient to the CT scanner is potentially fatal.",
+            "C": "Surgical drainage is necessary but airway must be secured first. Performing drainage under local anaesthesia with a compromised airway risks complete obstruction from positioning or bleeding.",
+            "D": "Dexamethasone may have a role in reducing oedema but is not the first priority. The stridor indicates the airway is already critically compromised."
+          },
+          "guideline": "NICE CG168 (Head and Neck Infections 2019) — airway management is the first priority in Ludwig's angina with stridor or dyspnoea",
+          "trial": "Moreland LW et al. Ludwig's angina — report of a case and review of the literature. Arch Intern Med (1988): mortality drops from >50% (pre-antibiotic era) to <5% with early airway management and IV antibiotics",
+          "pearl": "In Ludwig's angina with stridor: AIRWAY FIRST. The mantra is 'secure the airway, then treat the infection.' Awake fibreoptic nasotracheal intubation is preferred over standard laryngoscopy because it preserves patient's own ventilation during a procedure that may be technically impossible with standard laryngoscopy."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q2",
+        "stem": "Which THREE spaces must be simultaneously involved to fulfil the classical definition of Ludwig's angina?",
+        "options": {
+          "A": "Masticator, parapharyngeal, and retropharyngeal spaces",
+          "B": "Submandibular, sublingual, and submental spaces (bilateral)",
+          "C": "Buccal, submandibular, and sublingual spaces",
+          "D": "Parapharyngeal, retropharyngeal, and prevertebral spaces"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Ludwig's angina is defined by bilateral synchronous involvement of the submandibular, sublingual, and submental spaces — all three simultaneously. This distinguishes it from a simple submandibular abscess or unilateral space infection. The bilateral nature creates the characteristic brawny induration raising the tongue and floor of mouth. Trismus is notably absent unless masticator space involvement occurs secondarily.",
+          "wrong": {
+            "A": "Masticator space involvement causes trismus, which is actually uncommon in classic Ludwig's angina. Retropharyngeal involvement is a secondary complication, not part of the defining criteria.",
+            "C": "Buccal space is not part of the Ludwig's angina definition. Its involvement would produce cheek swelling, not the flooring-of-mouth elevation characteristic of Ludwig's.",
+            "D": "These deeper spaces represent secondary spread — dangerous complications of Ludwig's but not part of its definition."
+          },
+          "guideline": "Flynn TR. The swollen face: severe odontogenic infections. Emerg Med Clin North Am (2000) — classical definition requires all 3 floor-of-mouth spaces bilaterally",
+          "trial": "Moreland LW et al. Arch Intern Med (1988) — original criteria confirmed: bilateral submandibular + sublingual + submental spaces = Ludwig's angina",
+          "pearl": "Ludwig's angina = 3 bilateral spaces: SubMandibulaR + SubLingual + SubMental. No masticator space = no trismus. Tongue elevation + drooling + dysphagia are the clinical hallmarks."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C4-Q3",
+        "stem": "A 58-year-old woman presents with a 3-month history of exposed bone in the left posterior mandible following extraction of a lower second molar. She has been taking oral alendronate 70 mg weekly for 7 years for osteoporosis. The exposed area is approximately 8 mm in diameter with surrounding erythematous mucosa. There is no history of head and neck radiation. She has had no previous jaw surgery. According to AAOMS 2022 criteria, what is the correct diagnosis?",
+        "options": {
+          "A": "Stage 0 MRONJ — no exposed bone but non-specific symptoms",
+          "B": "Stage 1 MRONJ — exposed bone, no signs of infection",
+          "C": "Stage 2 MRONJ — exposed bone with pain and clinical evidence of infection",
+          "D": "Osteoradionecrosis — should be staged per Marx HBO classification"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "This patient meets all three MRONJ criteria: antiresorptive therapy (alendronate), exposed bone >8 weeks duration, and no history of radiation. The erythematous surrounding mucosa indicates clinical infection, which places her at Stage 2 (exposed/necrotic bone with pain and signs of infection). Stage 1 would have exposed bone without infection. Stage 3 would require osteolysis extending to inferior border, pathological fracture, extraoral fistula, or oronasal/oroantral communication.",
+          "wrong": {
+            "A": "Stage 0 MRONJ involves non-specific symptoms without clinically visible exposed bone. This patient has visible exposed bone, ruling out Stage 0.",
+            "B": "Stage 1 requires exposed bone WITHOUT signs of infection. The erythematous mucosa indicates infection, requiring classification as Stage 2.",
+            "D": "Osteoradionecrosis requires a history of radiation therapy to the jaw. This patient has no radiation history; her condition is MRONJ from oral bisphosphonate use."
+          },
+          "guideline": "AAOMS Position Paper on MRONJ (2022) — 3 criteria for diagnosis; staging system Stage 0-III based on clinical findings",
+          "trial": "Ruggiero SL et al. American Association of Oral and Maxillofacial Surgeons Position Paper on MRONJ — 2022 Update. J Oral Maxillofac Surg (2022): Stage 2 = exposed bone + infection evidence",
+          "pearl": "MRONJ Stage 2 = exposed bone + infection. Treatment: oral antibiotics (penicillin-based + metronidazole), chlorhexidine rinses, and conservative debridement. Drug holiday for oral bisphosphonates has no proven benefit in established MRONJ — it is NOT recommended in AAOMS 2022 position paper for acute management."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q4",
+        "stem": "During extraction of an upper left first molar in a 42-year-old healthy woman, a positive Valsalva test is obtained, and a 6 mm opening into the maxillary sinus is confirmed. The sinus appears healthy with no polyps. The buccal mucosa is adequate and there is no prior surgical scarring. What is the most appropriate immediate management?",
+        "options": {
+          "A": "Close with figure-of-8 sutures only and prescribe nasal decongestants",
+          "B": "Pack with oxidised cellulose and advise against nose-blowing for 2 weeks",
+          "C": "Raise a buccal advancement (Rehrmann) flap for primary closure after periosteal release",
+          "D": "Leave open and arrange FESS referral to ENT in 6 weeks"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A 6 mm OAC with healthy sinus identified immediately at extraction is best managed with primary surgical closure. The Rehrmann buccal advancement flap is the gold standard for defects >5 mm: a trapezoidal mucoperiosteal flap is elevated from the buccal sulcus, and a periosteal releasing incision at the flap base is mandatory to allow tension-free advancement over the defect. This achieves primary keratinised tissue coverage without donor site morbidity.",
+          "wrong": {
+            "A": "Figure-of-8 sutures alone are insufficient for a 6 mm defect. They may be appropriate for ≤5 mm defects combined with resorbable gelatin sponge packing, but not for this size.",
+            "B": "Packing alone without flap closure will not achieve reliable sealing of a 6 mm defect. Oxidised cellulose is useful in smaller defects as an adjunct, not as sole treatment.",
+            "D": "Leaving an OAC open allows epithelialisation of the tract (converting OAC to OAF within 48-72 hours), making subsequent closure more difficult. Immediate primary closure is always preferred when feasible."
+          },
+          "guideline": "EACMFS Clinical Guideline on Oroantral Communications (2023) — immediate primary closure with flap for OAC >5 mm; Rehrmann flap is first-line",
+          "trial": "Visscher SH et al. Review of the Closure of Oro-Antral Communications. J Oral Maxillofac Surg (2010): Rehrmann flap success rate 92-98% for immediate primary closure",
+          "pearl": "OAC management by size: ≤5 mm = gelatin sponge + suture; >5 mm = Rehrmann buccal advancement flap (mandatory periosteal release for tension-free advancement). An OAC becomes an OAF after 48-72 hours of epithelialisation — primary closure window is narrow."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q5",
+        "stem": "A 28-year-old dental student undergoes surgical extraction of an impacted lower right third molar. At 6-week review, she reports persistent numbness of the right lower lip and chin with no improvement since the operation. The lingual sensation is normal. Examination reveals absent light touch sensation in the distribution of the right mental nerve. Which Sunderland grade is LEAST compatible with this clinical presentation after 6 weeks of no recovery?",
+        "options": {
+          "A": "Grade I (neuropraxia)",
+          "B": "Grade II (axonotmesis)",
+          "C": "Grade III",
+          "D": "Grades IV–V"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Sunderland Grade I (neuropraxia) involves focal demyelination only with intact axons. Recovery from neuropraxia is expected within days to weeks — certainly within 6 weeks. Persistent total anaesthesia at 6 weeks is incompatible with Grade I injury, which should have fully recovered by this timepoint. Grades II–V are all compatible with 6-week non-recovery, with Grade II showing progressive recovery beyond 6 weeks and Grades III–V showing partial or absent recovery.",
+          "wrong": {
+            "B": "Grade II (axonotmesis) involves Wallerian degeneration and recovery at 1 mm/day. At 6 weeks, meaningful recovery may not yet have occurred at the mental nerve level, making Grade II compatible with this presentation.",
+            "C": "Grade III involves endoneurial disruption with likely incomplete recovery. No recovery at 6 weeks is entirely compatible with Grade III.",
+            "D": "Grades IV and V have poor or no spontaneous recovery potential, making persistent anaesthesia at 6 weeks very consistent with these grades."
+          },
+          "guideline": "AAOMS Position Paper on Nerve Injuries Following Third Molar Removal (2012) — Grade I recovery expected within days-weeks; persistent deficit at 6 weeks requires reassessment and consideration of exploration",
+          "trial": "Dodson TB et al. Nerve injuries after third molar removal. J Oral Maxillofac Surg (2012): Grade I neuropraxia recovery occurs within 4 weeks in >95% of cases",
+          "pearl": "Sunderland Grade I = neuropraxia = ALWAYS recovers fully within days to weeks. Persistent total anaesthesia at 6 weeks rules out Grade I. If no recovery by 3 months, consider exploration and microsurgical repair. The window for optimal nerve repair is 3-6 months post-injury."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q6",
+        "stem": "On a panoramic radiograph, which feature is MOST predictive of inferior alveolar nerve (IAN) contact with an impacted mandibular third molar root?",
+        "options": {
+          "A": "Deflection of the root apex around the inferior alveolar canal",
+          "B": "Interruption of the radiopaque cortical white line of the inferior alveolar canal",
+          "C": "Darkening of the root at the point of canal overlap",
+          "D": "Narrowing of the inferior alveolar canal"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The Rood and Shehab (1990) systematic review of OPG signs established that DARKENING of the root (loss of radiopacity at the point where the canal overlaps the root) is the MOST statistically predictive sign of IAN contact or intimate proximity. It occurs because the canal wall is compressed by the root, eliminating the normal cortical bone between root dentine and canal contents. This sign alone indicates CBCT should be considered to quantify risk before extraction.",
+          "wrong": {
+            "A": "Root deflection (diversion) is a Rood-Shehab sign indicating intimate canal relationship, but it is less predictive than darkening. Deflection indicates the root bends around the canal but doesn't confirm direct contact.",
+            "B": "Interruption of the canal radiopaque line is a Rood-Shehab sign, and when present with darkening it significantly increases risk, but darkening alone has the highest positive predictive value for IAN contact.",
+            "D": "Narrowing of the canal is one of the seven Rood-Shehab signs but is less specific and less predictive than root darkening."
+          },
+          "guideline": "NICE NG35 (2024) and EACMFS Guidelines — CBCT recommended when ≥2 Rood-Shehab signs are present, with darkening being the single most predictive sign",
+          "trial": "Rood JP, Shehab BA. The radiological prediction of inferior alveolar nerve injury during third molar surgery. Br J Oral Maxillofac Surg (1990): 7 OPG signs identified; darkening (graying) of root had highest positive predictive value for IAN contact",
+          "pearl": "DARKENING of the root on OPG is the single most predictive Rood-Shehab sign for IAN contact. The 7 signs are: darkening, deflection, narrowing of canal, diversion (double dark band), interruption of white line, juxta-apical area, narrowing of root. CBCT if ≥2 signs — specifically to assess for grooving, notching, or perforation of the root by the canal."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C4-Q7",
+        "stem": "A 45-year-old woman presents with chronic jaw pain, low-grade fever, and trismus for 3 months following a mandibular third molar extraction. Imaging shows a dense opaque island of bone surrounded by a radiolucent halo in the lower left molar region, with surrounding new bone formation. There is a small opening in the mucosa through which yellowish discharge is expressed. What are the radiographic features named, respectively?",
+        "options": {
+          "A": "Involucrum, cloaca, and sequestrum",
+          "B": "Sequestrum, involucrum, and cloaca",
+          "C": "Cloaca, sequestrum, and involucrum",
+          "D": "Ghost image, idiopathic osteosclerosis, and condensing osteitis"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The three classic radiographic/clinical features of established chronic osteomyelitis are: sequestrum (dense opaque island of avascular dead bone, surrounded by radiolucency), involucrum (the shell of reactive periosteal new bone surrounding the sequestrum), and cloaca (the channel through the involucrum and cortex through which pus drains, presenting clinically as a sinus or fistula). Understanding these three features is essential for planning the extent of surgical debridement.",
+          "wrong": {
+            "A": "This lists them in wrong order. The involucrum is the new bone shell, the cloaca is the drainage channel, and the sequestrum is the dead bone island — placing 'involucrum' first for the dense opaque island is incorrect.",
+            "C": "Incorrect order. The cloaca is the drainage opening, not the opaque bone island.",
+            "D": "Ghost images are artefacts in panoramic radiography. Idiopathic osteosclerosis (dense bone island) is an incidental finding not associated with infection. Condensing osteitis is a localised bone reaction to chronic low-grade pulpal infection — not the same as osteomyelitis with sequestrum."
+          },
+          "guideline": "Baltensperger M, Eyrich G. Osteomyelitis of the Jaws (2009) — Zurich classification and pathological features of chronic suppurative osteomyelitis",
+          "trial": "Topazian RG. Osteomyelitis of the jaws. In: Topazian RG, Goldberg MH (eds) Oral and Maxillofacial Infections (2002): classic triad sequestrum-involucrum-cloaca in secondary chronic osteomyelitis",
+          "pearl": "Classic osteomyelitis triad: SEQUESTRUM (dead bone island, dense, avascular) + INVOLUCRUM (new periosteal bone shell around sequestrum) + CLOACA (drainage channel through involucrum to surface). All three together on CT = established chronic osteomyelitis requiring surgical sequestrectomy."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C4-Q8",
+        "stem": "A 19-year-old man undergoes surgical removal of a deeply impacted lower left third molar under general anaesthesia. Postoperatively, the patient reports that the left anterior two-thirds of his tongue feels numb and he cannot taste food on that side. The lower lip sensation is normal. Which nerve has been injured?",
+        "options": {
+          "A": "Inferior alveolar nerve",
+          "B": "Lingual nerve",
+          "C": "Long buccal nerve",
+          "D": "Hypoglossal nerve"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The lingual nerve provides general sensory supply to the anterior two-thirds of the tongue (and floor of mouth) and carries taste fibres (from the chorda tympani, branch of CN VII) to the same region via the submandibular ganglion. Numbness of the anterior two-thirds of the tongue combined with loss of taste on that side indicates lingual nerve injury, not IAN injury. The IAN supplies the lower lip and chin via the mental nerve. The lingual nerve runs in the pterygomandibular space medial to the lower third molar — injury risk is highest during lingual flap retraction or elevator slippage.",
+          "wrong": {
+            "A": "IAN injury produces numbness of the lower lip and chin (mental nerve distribution), not tongue numbness. This patient's lower lip sensation is specifically stated to be normal.",
+            "C": "The long buccal nerve supplies the buccal mucosa and gingiva adjacent to the lower molars — not the tongue. Its injury would cause cheek mucosa numbness.",
+            "D": "The hypoglossal nerve (CN XII) is the motor nerve to the tongue. Its injury causes tongue deviation and weakness/atrophy — not sensory loss or taste impairment."
+          },
+          "guideline": "AAOMS Position Paper on Nerve Injuries Following Third Molar Removal (2012) — lingual nerve injury: anterior 2/3 tongue numbness + taste loss = diagnostic",
+          "trial": "Bataineh AB. Sensory nerve impairment following mandibular third molar surgery. J Oral Maxillofac Surg (2001): lingual nerve injury associated with lingual flap retraction and elevator use medial to third molar",
+          "pearl": "Lingual nerve injury = anterior 2/3 tongue numbness + TASTE LOSS on same side. IAN injury = lower lip/chin numbness. The taste loss distinguishes lingual nerve injury from inferior alveolar nerve injury clinically. Lingual nerve carries chorda tympani taste fibres — this is why taste is affected."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C4-Q9",
+        "stem": "A 52-year-old man who underwent radiotherapy (66 Gy) to the floor of mouth 3 years ago requires extraction of a carious lower left molar. He has no exposed bone currently. According to Marx's protocol, what is the appropriate hyperbaric oxygen (HBO) regimen to minimise the risk of osteoradionecrosis?",
+        "options": {
+          "A": "10 sessions pre-extraction only, at 2.4 atm 100% O2",
+          "B": "20 sessions pre-extraction + 10 sessions post-extraction, at 2.4 atm 100% O2",
+          "C": "30 sessions pre-extraction only, at 2.0 atm 90% O2",
+          "D": "No HBO required; penicillin prophylaxis is sufficient for doses <70 Gy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Marx's original protocol (Marx 1983) for dental extractions in previously irradiated bone to prevent osteoradionecrosis consists of 20 sessions of HBO preoperatively followed by 10 sessions postoperatively, each at 2.4 atmospheres absolute (ATA) breathing 100% oxygen for 90 minutes per session. This protocol aims to increase tissue oxygen tension in hypoxic-hypovascular-hypocellular irradiated bone, promoting neovascularisation and wound healing. Thresholds for concern: doses >55 Gy to the mandible significantly increase ORN risk.",
+          "wrong": {
+            "A": "10 pre-extraction sessions is insufficient; Marx's protocol specifies 20 pre + 10 post. Post-extraction sessions are required for wound healing phase, not just pre-procedural preparation.",
+            "C": "HBO is delivered at 2.4 ATA with 100% O2, not 2.0 ATA or 90% O2. The standard protocol parameters are fixed.",
+            "D": "Radiation dose >55 Gy significantly increases ORN risk regardless of the exact threshold used in different centres. 66 Gy is clearly above all accepted risk thresholds. Penicillin prophylaxis alone is insufficient — it does not address the hypoxic tissue environment."
+          },
+          "guideline": "Marx RE et al. Osteoradionecrosis: a new concept of its pathophysiology. J Oral Maxillofac Surg (1983) and AAOMS HBO Protocol Guidelines — 20 pre + 10 post at 2.4 ATA/100% O2",
+          "trial": "Marx RE. Osteoradionecrosis of the jaws: review and update. HBO Rev (1984): 20 pre-op + 10 post-op HBO sessions reduced ORN incidence from 29.9% to 5.4% in irradiated extraction patients",
+          "pearl": "Marx HBO protocol: 20 pre + 10 post at 2.4 ATA, 100% O2. Remember '20+10 at 2.4'. This is for PROPHYLAXIS before extraction in irradiated bone. For established ORN (Marx Stage 3), protocol increases to 30 pre-op + 10 post-op sessions with segmental resection."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q10",
+        "stem": "A maxillofacial surgeon discovers during routine follow-up that a 3 mm root fragment of a lower second premolar was inadvertently left in the socket during extraction 6 weeks ago. The patient is asymptomatic and imaging shows the fragment is not in contact with the inferior alveolar canal and has no surrounding radiolucency. What is the most appropriate management?",
+        "options": {
+          "A": "Immediate surgical removal under local anaesthesia",
+          "B": "Radiographic monitoring; retrieval only if symptoms develop",
+          "C": "Prescribe a 7-day course of amoxicillin and review in 3 months",
+          "D": "Refer for CBCT to localise the fragment before immediate removal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Asymptomatic, well-contained retained root fragments remote from vital structures (IAN, sinus) do not require immediate removal. Current evidence supports a conservative approach with radiographic monitoring in asymptomatic patients where surgical retrieval would carry higher risk than benefit. Retrieval is indicated if the patient develops pain, swelling, infection, or progressive resorption of adjacent teeth; or if the fragment migrates toward vital structures. The principle is that the risk of surgical intervention (nerve injury, bone removal) must be weighed against the very low risk of complications from a small, asymptomatic retained root.",
+          "wrong": {
+            "A": "Immediate removal of an asymptomatic, well-contained retained root fragment is not evidence-based practice. Unnecessary surgical intervention carries inherent risks that outweigh potential benefit.",
+            "C": "Antibiotics are not indicated for asymptomatic retained root fragments. There is no infection; antibiotic prophylaxis in this context contributes to antimicrobial resistance without benefit.",
+            "D": "CBCT would only be required if removal were planned or if the fragment were near the IAN. For a fragment with no symptoms and no periapical pathology, plain OPG monitoring is sufficient."
+          },
+          "guideline": "NICE NG35 (2024) — conservative management of asymptomatic retained roots acceptable when surgical risk exceeds benefit; monitor radiographically",
+          "trial": "Pogrel MA. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am (2007): asymptomatic retained roots can be monitored safely without mandatory retrieval",
+          "pearl": "Asymptomatic retained root fragments with no periapical pathology and not adjacent to vital structures = MONITOR, do NOT remove. Indications for retrieval: infection, pain, progressive resorption, migration toward nerve/sinus, or patient preference after informed discussion."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q11",
+        "stem": "Which odontogenic infection, if untreated, provides the most direct anatomical route for spread to the posterior mediastinum?",
+        "options": {
+          "A": "Masticator space infection → parapharyngeal space → retropharyngeal space → danger space",
+          "B": "Buccal space infection → infraorbital space → orbital cellulitis → cavernous sinus",
+          "C": "Sublingual space infection → submandibular space → Ludwig's angina",
+          "D": "Parapharyngeal space infection → lateral pharyngeal abscess → anterior mediastinum"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The classic pathway for descending necrotising mediastinitis (DNM) from an odontogenic source is: masticator space → parapharyngeal space → retropharyngeal space → danger space → posterior mediastinum. The danger space (between alar and prevertebral fascia) extends from the skull base to the diaphragm (T4 level) without anatomical barriers, providing a direct conduit for rapid caudal spread. DNM carries 20-40% mortality even with aggressive management.",
+          "wrong": {
+            "B": "The buccal → infraorbital → orbital route leads to orbital cellulitis and potentially cavernous sinus thrombosis — a devastating but different complication from DNM. This is an upward/anterior spread pathway.",
+            "C": "Sublingual → submandibular spread describes Ludwig's angina development, not mediastinal spread. Ludwig's angina itself can lead to mediastinitis if untreated, but the route described is the local floor-of-mouth process.",
+            "D": "The parapharyngeal space does communicate inferiorly with the anterior mediastinum via the pre-tracheal space, but the classic high-risk route for rapid mediastinal spread is via the retropharyngeal-danger space to the POSTERIOR mediastinum."
+          },
+          "guideline": "Flynn TR. The swollen face: severe odontogenic infections. Emerg Med Clin North Am (2000) — danger space anatomy and DNM pathway",
+          "trial": "Medina-Eguren G et al. Descending necrotising mediastinitis: a multicentre study. Thorax (2004): mortality 28%; early identification of danger space involvement on CT is critical for survival",
+          "pearl": "DNM pathway: Odontogenic source → masticator space → parapharyngeal space → RETROPHARYNGEAL SPACE → DANGER SPACE (no barriers to diaphragm) → POSTERIOR MEDIASTINUM. Always obtain CT chest when retropharyngeal involvement is suspected. The danger space is the critical link — it has no anatomical barriers inferiorly."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C4-Q12",
+        "stem": "A 65-year-old man presents with 9 months of jaw pain, multiple intraoral and extraoral fistulae, and 'woody' induration of the left mandible. The lesion is not painful to percussion. Culture of the discharge reveals Gram-positive filamentous organisms that do not stain on acid-fast staining, forming characteristic 'sulphur granules'. What is the diagnosis and appropriate treatment duration?",
+        "options": {
+          "A": "Actinomycotic osteomyelitis; high-dose IV/oral penicillin for 6–12 months",
+          "B": "Chronic suppurative osteomyelitis; clindamycin for 4 weeks",
+          "C": "Nocardia infection; trimethoprim-sulfamethoxazole for 3 months",
+          "D": "Tuberculosis of the jaw; standard 4-drug RHEZ protocol for 6 months"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The clinical picture — 'woody' induration (wooden jaw/mâchoire de bois), multiple fistulae draining sulphur granules (microscopic colonies of Actinomyces), Gram-positive filamentous organisms that are NOT acid-fast — is classic for cervicofacial actinomycosis caused by Actinomyces israelii. Treatment requires prolonged high-dose antibiotic therapy: IV benzylpenicillin (10-20 MU/day) for 2-6 weeks followed by oral penicillin/amoxicillin for a total of 6-12 months. Short courses result in relapse. Surgical drainage of accessible collections and removal of necrotic bone complements antibiotic therapy.",
+          "wrong": {
+            "B": "While clindamycin has activity against Actinomyces, a 4-week course is far too short. Relapse rates are high with short courses. The chronic, fibrotic nature of actinomycosis requires 6-12 months of treatment.",
+            "C": "Nocardia is also a filamentous Gram-positive organism, but it IS acid-fast (weakly). Nocardia does not cause 'wooden jaw' or sulphur granules in the classical sense. TMP-SMX is indeed treatment for Nocardia.",
+            "D": "Mycobacterium tuberculosis causes acid-fast positive organisms. 4-drug RHEZ is TB treatment. The absence of acid-fast staining rules out TB."
+          },
+          "guideline": "AAOMS Odontogenic Infections Guideline (2023) — actinomycosis requires 6-12 months penicillin; surgical debridement of necrotic tissue required",
+          "trial": "Valour F et al. Actinomycosis: etiology, clinical features, diagnosis, treatment, and management. Infect Drug Resist (2014): high-dose prolonged penicillin remains gold standard; relapse common with short courses (<3 months)",
+          "pearl": "Actinomycosis = 'sulphur granules' (yellow-white macroscopic colonies) + Gram-positive filamentous organisms + NOT acid-fast. Requires 6-12 months of penicillin. The wooden induration and multiple fistulae are pathognomonic. 'Sulphur granules' are not sulphur — they are colonies of Actinomyces surrounded by Splendore-Hoeppli material."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C4-Q13",
+        "stem": "According to NICE CG64 (2008, confirmed 2016), which of the following patients requires antibiotic prophylaxis for an elective tooth extraction?",
+        "options": {
+          "A": "A 55-year-old woman with a mechanical mitral valve replacement",
+          "B": "A 45-year-old man with a history of rheumatic fever 20 years ago with no residual valve disease",
+          "C": "A 60-year-old woman with a bicuspid aortic valve with mild stenosis",
+          "D": "A 40-year-old man with mitral valve prolapse with mild regurgitation"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "NICE CG64 recommends antibiotic prophylaxis for dental procedures ONLY for patients with prosthetic heart valves (mechanical or biological), previous infective endocarditis (IE), or specific congenital heart disease (CHD) types: unrepaired cyanotic CHD, repaired CHD with residual defects near prosthetic patches, CHD repaired within 6 months with prosthetic material, or CHD with pulmonary hypertension. A mechanical mitral valve replacement is a clear prosthetic heart valve — prophylaxis is indicated.",
+          "wrong": {
+            "B": "History of rheumatic fever without residual valve disease does NOT require prophylaxis under NICE CG64. The previous NICE guidance (pre-2008) required prophylaxis for rheumatic heart disease, but CG64 removed this indication due to insufficient evidence.",
+            "C": "Bicuspid aortic valve with mild stenosis does NOT qualify under NICE CG64 criteria. Structural valve abnormalities without prosthesis or prior IE are not indications.",
+            "D": "Mitral valve prolapse (MVP), even with regurgitation, does NOT require prophylaxis under NICE CG64. MVP was removed from the prophylaxis list in the 2008 guideline."
+          },
+          "guideline": "NICE CG64 (Prophylaxis Against Infective Endocarditis, 2008, confirmed 2016) — only prosthetic valves, previous IE, and specific CHD require prophylaxis",
+          "trial": "Thornhill MH et al. Antibiotic prophylaxis against infective endocarditis in dental procedures. JAMA (2018): NICE CG64 reduction in prophylaxis prescribing not associated with significant increase in IE incidence, supporting guideline's restrictive approach",
+          "pearl": "NICE CG64: prophylaxis for endocarditis in dental procedures = ONLY for (1) prosthetic heart valve, (2) previous IE, (3) specific congenital heart disease. NOT for: rheumatic heart disease, bicuspid valve, MVP, hypertrophic cardiomyopathy. Standard amoxicillin 3g oral 1h pre-procedure; clindamycin 600mg if penicillin allergic."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q14",
+        "stem": "A 23-year-old woman undergoes coronectomy of a lower right third molar under LA after CBCT confirms the IAN is grooved by the root. At 18-month review, she is asymptomatic but OPG shows the retained roots have migrated 3 mm superiorly toward the alveolar crest. What is the appropriate management?",
+        "options": {
+          "A": "Immediate surgical removal of the migrated roots under GA",
+          "B": "Continue monitoring; re-operate only if roots reach the crest or the patient becomes symptomatic",
+          "C": "Prescribe metronidazole for 5 days and review in 6 months",
+          "D": "Re-stage as failed coronectomy; refer for microsurgical nerve repair"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Root migration following coronectomy is a well-recognised and expected phenomenon, occurring in approximately 75-80% of cases. The roots migrate coronally as part of normal bone remodelling. This is NOT a complication but rather the natural history of coronectomy. Migration typically continues for 24-36 months. Management is continued observation; retrieval is indicated only if roots reach the alveolar crest (where they become more accessible and IAN distance has increased, paradoxically making retrieval safer) or if the patient develops symptoms. Asymptomatic migration alone is not an indication for intervention.",
+          "wrong": {
+            "A": "Immediate removal of asymptomatically migrated roots is unnecessary and exposes the patient to the IAN risk that coronectomy was performed to avoid. At this point the roots are still in proximity to the nerve.",
+            "C": "Antibiotics are not indicated in an asymptomatic patient with no signs of infection. This is expected post-coronectomy root behaviour.",
+            "D": "Root migration is expected after coronectomy — it is not a failure of the procedure. There is no nerve injury; microsurgical referral is entirely inappropriate."
+          },
+          "guideline": "NICE NG35 (2024) and EACMFS Coronectomy Guidelines — root migration expected in ~80% of cases; continued monitoring recommended; re-operate only at crest or with symptoms",
+          "trial": "Long H et al. Coronectomy of the mandibular third molar — a systematic review and meta-analysis. J Dent Res (2012): root migration mean 3.5 mm at 24 months; retrieval rate approximately 5% at long-term follow-up",
+          "pearl": "Coronectomy root migration is EXPECTED and NORMAL — occurs in ~75-80% of cases. It is caused by normal alveolar bone remodelling. As roots migrate toward the crest, IAN distance increases — paradoxically, if roots eventually reach the crest, retrieval at that point carries LOWER IAN risk than primary extraction. Monitor annually; only intervene for symptoms or crestal migration."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C4-Q15",
+        "stem": "A 72-year-old woman with severe atrophic mandible (Cawood-Howell Class VI) is referred after fracture of the mandible during routine extraction of a lower left first molar at a dental surgery. The fracture runs through the extraction socket with 3 mm displacement. She is systemically well. There are no teeth adjacent to the fracture. What is the most appropriate definitive management?",
+        "options": {
+          "A": "Intermaxillary fixation with arch bars for 6 weeks",
+          "B": "Open reduction and internal fixation (ORIF) with a reconstruction plate",
+          "C": "Observation with soft diet for 6 weeks and review radiograph",
+          "D": "Immediate jaw reconstruction with free fibula flap"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Iatrogenic mandibular fracture through an extraction socket in a severely atrophic edentulous mandible (Cawood-Howell Class VI) requires ORIF with a reconstruction plate (locking reconstruction plate, typically 2.4 mm system). Class VI atrophy provides minimal bone stock, making conservative management with IMF unreliable and prone to non-union. With no adjacent teeth available for arch bars and an atrophic mandible with compromised vascularity, a reconstruction plate providing rigid fixation is the treatment of choice. The approach is typically submandibular, with careful periosteal preservation to maintain vascularity.",
+          "wrong": {
+            "A": "IMF with arch bars requires dentition or the ability to fix arch bars reliably. In an edentulous patient with Class VI atrophy, arch bars cannot be placed. Even if possible, IMF alone provides insufficient rigidity for an atrophic mandible fracture.",
+            "C": "A 3 mm displaced fracture in an atrophic mandible with compromised healing potential cannot be managed conservatively. Non-union risk is very high in atrophic mandible fractures without rigid fixation.",
+            "D": "Free flap reconstruction is reserved for pathological fractures with bone loss or failed prior fixation, or for osteoradionecrotic fractures. A fresh iatrogenic fracture without bone loss should first be managed with ORIF."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2023) — atrophic mandible fractures (height <20 mm) should be managed with reconstruction plates; conservative management has high non-union rate",
+          "trial": "Luhr HG et al. Correction of mandibular deformities with dynamic compression plates. J Maxillofac Surg (1982): rigid fixation in atrophic mandible fractures reduces non-union rate from ~50% (conservative) to <10% (reconstruction plate)",
+          "pearl": "Atrophic mandible fracture (Cawood-Howell Class VI, bone height <10 mm at fracture) = RECONSTRUCTION PLATE OORIF. The atrophic mandible has poor blood supply and insufficient bone for mini-plate fixation. Non-union rate with conservative treatment approaches 50%. Use locking 2.4 mm reconstruction plate via submandibular approach, preserving periosteum."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C4-Q16",
+        "stem": "The Rehrmann buccal advancement flap is designed to close a large oroantral communication. Which of the following technical steps is ESSENTIAL to achieve tension-free closure and prevent flap dehiscence?",
+        "options": {
+          "A": "Creating a full-thickness incision through the periosteum at the BASE of the flap",
+          "B": "De-epithelialising the palatal mucosa adjacent to the defect before suturing",
+          "C": "Placing drains beneath the flap for 48 hours post-closure",
+          "D": "Raising the flap in a split-thickness plane to preserve the periosteum"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The periosteal releasing incision at the BASE (most apical margin) of the Rehrmann buccal advancement flap is the essential step that allows the flap to advance coronally without tension. The periosteum is inelastic and tightly adherent to bone; without releasing it, the flap cannot be mobilised sufficiently to cover the defect. The incision is made horizontally through the full thickness of the periosteum at the base of the flap, parallel to the mucogingival junction. This allows the mucosal and submucosal layers to stretch freely. Without this step, the flap is under tension and dehiscence is almost certain.",
+          "wrong": {
+            "B": "De-epithelialising adjacent palatal mucosa is not required for a buccal advancement flap. It would be relevant for a palatal rotation flap where the connective tissue pedicle needs to be covered, but not for the Rehrmann technique.",
+            "C": "Drains are not used beneath a buccal advancement flap for OAC closure. They could potentially create communication channels and impair primary healing.",
+            "D": "The Rehrmann flap is raised as a FULL-THICKNESS mucoperiosteal flap (both mucosa and periosteum elevated together), not split-thickness. A split-thickness flap lacking periosteum would have inferior vascularity and would not allow the periosteal releasing incision technique."
+          },
+          "guideline": "EACMFS Clinical Guideline on Oroantral Communications (2023) — periosteal releasing incision at flap base is mandatory for tension-free Rehrmann advancement",
+          "trial": "Visscher SH et al. Review of the closure of oro-antral communications. J Oral Maxillofac Surg (2010): periosteal release reduces dehiscence rate from ~15% to <3% in buccal advancement flap",
+          "pearl": "Rehrmann flap success depends on the PERIOSTEAL RELEASING INCISION at the flap base. Without it: tension → ischaemia → dehiscence → OAF. With it: tension-free closure → primary healing. Remember the three Rs of the Rehrmann: Raise full-thickness, Release periosteum at base, Rotate/advance without tension."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q17",
+        "stem": "A 31-year-old male presents 72 hours after surgical extraction of an impacted lower left third molar with severe throbbing pain in the socket, fetid breath, and a visible empty socket with exposed grey-coloured bone. There is no pus, no pericoronitis, and no lymphadenopathy. Temperature is 37.1°C. What is the diagnosis and appropriate management?",
+        "options": {
+          "A": "Secondary haemorrhage; manage with socket repacking and pressure",
+          "B": "Alveolar osteitis (dry socket); irrigate and pack with alvogyl-type dressing, analgesia",
+          "C": "Localised acute suppurative osteomyelitis; incise and drain + IV antibiotics",
+          "D": "Infected socket hematoma; prescribe co-amoxiclav 625 mg TDS for 7 days"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Alveolar osteitis (dry socket) presents characteristically 2-5 days after extraction with severe, poorly localised pain unrelieved by standard analgesia, fetid odour from the socket, and an empty socket with exposed bone — the blood clot has failed to form or has been lost. Temperature is typically normal or minimally elevated, distinguishing it from infection. First-line management is gentle irrigation with warm saline or chlorhexidine, followed by packing with a medicated (eugenol-impregnated) dressing (e.g., Alvogyl). This provides dramatic pain relief within 24-48 hours. The dressing is changed every 2-5 days until granulation tissue covers the socket.",
+          "wrong": {
+            "A": "Secondary haemorrhage typically occurs at 7-10 days post-extraction and presents with active bleeding, not pain and exposed bone.",
+            "C": "Osteomyelitis would present with fever, lymphadenopathy, swelling, trismus, and radiographic changes — not within 72 hours of a straightforward extraction. The absence of systemic features and normal temperature rule against osteomyelitis.",
+            "D": "Infected socket haematoma would show pus formation, fever, and swelling. This presentation is consistent with dry socket, not infection. Antibiotics are not indicated for uncomplicated dry socket."
+          },
+          "guideline": "NICE NG35 (2024) — alveolar osteitis: management with socket irrigation and medicated dressings; antibiotics NOT routinely indicated",
+          "trial": "Blum IR. Contemporary views on dry socket (alveolar osteitis). Int J Oral Maxillofac Surg (2002): eugenol-based dressings provide significant pain relief; antibiotics not indicated in immunocompetent patients",
+          "pearl": "Dry socket (alveolar osteitis) = 2-5 days post-extraction + severe pain + empty socket + exposed grey bone + fetid breath + NO fever or pus. Treatment = irrigation + medicated dressing (Alvogyl = eugenol + iodoform). Antibiotics NOT indicated. Smoking is the strongest modifiable risk factor (OR 4.2). Advise no smoking for at least 72 hours post-extraction."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C4-Q18",
+        "stem": "During an elective surgical third molar extraction in a 25-year-old healthy woman, the surgeon notices the buccal plate of the mandible fractures away as a large piece of cortical bone attached to the tooth. The fragment is ~15 × 8 mm. The IAN appears undamaged. What is the appropriate intraoperative management of the fractured buccal plate?",
+        "options": {
+          "A": "Discard the fractured cortical fragment; close primarily with mucoperiosteal flap",
+          "B": "Smooth the sharp edges with a bone file and leave the fragment in situ attached to the tooth",
+          "C": "Carefully preserve the fragment (if soft tissue attached) and replace it as an autologous bone graft, securing with resorbable sutures",
+          "D": "Remove the fragment, irrigate the socket, and apply a collagen sponge before closure"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "If the fractured buccal cortical plate fragment retains periosteal and soft tissue attachment — even partially — it can be preserved and replaced in its anatomical position. The attached periosteum provides vascularity, allowing the fragment to revascularise and act as an autologous bone graft. It should be gently replaced and stabilised with horizontal mattress sutures through the flap. This technique preserves buccal bone volume and avoids the collapse of soft tissue into the socket that would otherwise occur, maintaining the ridge anatomy important for future prosthodontic rehabilitation.",
+          "wrong": {
+            "A": "Discarding the fragment sacrifices potentially viable autologous bone. If the fragment has periosteal attachment, it has revascularisation potential and should be preserved.",
+            "B": "Leaving the fragment attached to the tooth means discarding it with the tooth. This is the option that wastes the bone.",
+            "D": "Removing the fragment and applying collagen sponge abandons the buccal bone volume unnecessarily. This is acceptable when the fragment is entirely detached and free of soft tissue, but not when attachment is present."
+          },
+          "guideline": "AAOMS Dentoalveolar Surgery Guidelines (2023) — buccal plate fractures with periosteal attachment should be preserved and replaced in situ",
+          "trial": "Pogrel MA. Complications of third molar surgery. Oral Maxillofac Surg Clin North Am (2007): preservation of periosteal-attached buccal plate fragments reduces long-term ridge defect",
+          "pearl": "Buccal plate fracture during third molar removal: if periosteum is attached → PRESERVE and replace as autograft. If completely detached (free fragment with no soft tissue) → discard, as avascular free bone in contaminated socket has high infection risk. The periosteal attachment determines viability."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C4-Q19",
+        "stem": "A 38-year-old woman has a persistent oroantral fistula (OAF) of 6 weeks' duration following upper right molar extraction. She reports right-sided facial pain, purulent nasal discharge, and reduced olfaction. CT sinuses shows complete opacification of the right maxillary sinus with mucosal thickening. What is the appropriate management sequence?",
+        "options": {
+          "A": "Immediate Rehrmann flap closure of the fistula under LA",
+          "B": "Treat the sinusitis first with FESS, then close the OAF secondarily after sinus normalises",
+          "C": "Prescribe nasal decongestants and amoxicillin for 10 days, then close OAF at review",
+          "D": "Combined simultaneous FESS + OAF closure at the same operative sitting under GA"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "An established OAF (>48 hours, now 6 weeks) with chronic maxillary sinusitis (CT: complete opacification, mucosal thickening) requires combined ENT-OMFS management. The most evidence-based approach is combined simultaneous FESS (to drain the sinus, restore sinus drainage via the natural ostium, and remove diseased mucosa) performed at the same operative sitting as OAF excision and formal flap closure. Attempting OAF closure without first addressing the chronic sinusitis leads to failure of the closure due to chronic infection undermining wound healing. Sequential surgery (FESS first, then OAF closure weeks later) adds patient burden and anaesthetic risk without proven superiority over simultaneous management.",
+          "wrong": {
+            "A": "Immediate Rehrmann flap closure of an OAF with established chronic sinusitis will fail — the closure is being performed in an infected field with ongoing sinus disease that will decompress through the closure site.",
+            "B": "Sequential FESS then OAF closure is a valid historical approach but contemporary ENT-OMFS collaboration supports simultaneous closure as more efficient and equally or more effective.",
+            "C": "Antibiotics and decongestants alone for 10 days will not resolve established chronic sinusitis with complete sinus opacification. This merely delays definitive treatment."
+          },
+          "guideline": "EACMFS Clinical Guideline on Oroantral Communications (2023) — OAF with chronic sinusitis requires combined FESS + OAF closure; simultaneous preferred to sequential",
+          "trial": "Obuekwe ON et al. Management of oro-antral fistula in the practice of oral and maxillofacial surgery. J Oral Maxillofac Surg (2005): simultaneous FESS + closure superior to sequential management in chronic sinusitis cases",
+          "pearl": "OAF + chronic sinusitis = COMBINED simultaneous FESS + OAF closure. Closing the OAF first without treating the sinus = failure. The sequence rule: TREAT THE SINUS FIRST (or simultaneously). When sinusitis is mild/absent, local flap alone suffices. FESS reopens the natural sinus ostium; the OMFS team closes the oral opening at the same anaesthetic."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C4-Q20",
+        "stem": "A patient undergoes microsurgical repair of a completely transected inferior alveolar nerve using a sural nerve graft at 4 months post-injury. Which factor has the GREATEST influence on final sensory recovery outcome?",
+        "options": {
+          "A": "Patient age (younger patients have better recovery)",
+          "B": "Length of the nerve graft used to bridge the gap",
+          "C": "Time elapsed from injury to repair (shorter intervals = better recovery)",
+          "D": "Diameter of the epineural suture used (9-0 vs 10-0 nylon)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Time from injury to microsurgical repair is the most powerful predictor of sensory recovery outcome. Regenerating axons must grow approximately 1 mm/day from the repair site to reach peripheral sensory end-organs. Beyond approximately 12 months from injury, central changes (cortical reorganisation) and peripheral changes (Schwann cell senescence, receptor end-organ degeneration) progressively reduce the probability and quality of functional recovery. The AAOMS position paper identifies 3-6 months as the optimal repair window. Age is relevant but less powerful. Graft length affects conduction velocity but not ultimately recovery quality if the repair is otherwise appropriate.",
+          "wrong": {
+            "A": "Patient age affects regeneration rate (younger patients regenerate faster) and neural plasticity, but is secondary to repair timing. A young patient repaired at 18 months post-injury has poorer prognosis than an older patient repaired at 3 months.",
+            "B": "Graft length affects the distance over which axons must regenerate and total recovery time, but if repair is performed within the optimal window, even longer grafts achieve acceptable outcomes. It is not the GREATEST single factor.",
+            "D": "Suture size (9-0 vs 10-0) affects trauma to the nerve fascicles during repair but is a technical detail. Recovery is primarily determined by biological factors (timing, patient age, injury mechanism) rather than suture gauge."
+          },
+          "guideline": "AAOMS Position Paper on Nerve Injuries Following Third Molar Removal (2012) — optimal repair window 3-6 months; beyond 12 months, prognosis for meaningful recovery significantly diminishes",
+          "trial": "Ziccardi VB et al. Microsurgery for the oral and maxillofacial surgeon. J Oral Maxillofac Surg (2009): repair within 6 months achieves S3+ recovery in 70-80%; beyond 12 months, rate drops to <40%",
+          "pearl": "Microsurgical nerve repair: TIMING IS EVERYTHING. Optimal window = 3-6 months post-injury. Beyond 12 months = significantly worse outcomes due to central sensitisation + peripheral receptor degeneration. Grade V (complete transection) confirmed at time of injury = consider immediate primary repair. Sural nerve graft or great auricular nerve graft for gaps >1-2 cm."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

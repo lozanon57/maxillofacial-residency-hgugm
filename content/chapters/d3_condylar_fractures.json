@@ -1,0 +1,634 @@
+{
+  "id": "D3",
+  "title": "Condylar and Subcondylar Fractures",
+  "subtitle": "Block D — Classification, Conservative vs Surgical Management, Outcomes",
+  "block": "D",
+  "block_name": "Temporomandibular Joint and Facial Trauma",
+  "level": "R2-4",
+  "reading_time_min": 36,
+  "guidelines_version": "EACMFS Condylar Fracture Guidelines 2021 · IASSCMF Consensus 2018 · BAOMS Condylar Fracture Position Statement 2020",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Lindqvist C et al. Condylar fractures: a review of the literature. Int J Oral Maxillofac Surg (2012)",
+    "Neff A et al. Open versus closed treatment of condylar fractures — systematic review. J Oral Maxillofac Surg (2014)",
+    "Assael LA. Open versus closed reduction of adult mandibular condyle fractures. J Oral Maxillofac Surg (2003)"
+          ],
+  "learning_objectives": [
+    "Classify condylar fractures using the Spiessl, Lindqvist, and IASSCMF classification systems",
+    "Identify indications for surgical (ORIF) versus conservative (functional) management of condylar fractures",
+    "Describe the surgical approaches to the condylar region including retromandibular, preauricular, and endoscopic techniques",
+    "Recognise the specific complications of condylar fractures including growth disturbance, ankylosis, and nerve injury",
+    "Understand management of condylar fractures in children and the controversies regarding growth impact",
+    "Interpret radiographic findings on OPG and CT for condylar fracture classification and surgical planning"
+  ],
+  "sections": [
+    {
+      "id": "D3-S1",
+      "title": "Anatomy and Classification of Condylar Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Condylar fractures represent 25–35% of all mandibular fractures, making them the second most common mandibular fracture site after the parasymphysis. The condyle is preferentially fractured because it is the weakest point in the mandible when viewed from a biomechanical perspective — the cortical bone is thinnest at the subcondylar neck. Direct trauma to the chin (from falls, motor vehicle accidents, or interpersonal violence) transmits force along the mandible bilaterally to the condylar regions, making bilateral condylar fractures common after midline chin impacts.\n\nSeveral classification systems exist. The **Spiessl classification** (1970) is widely used in Europe and categorises fractures by anatomical level and displacement:\n- Type I: Condylar head fracture with no displacement\n- Type II: Condylar head fracture with displacement but condyle in fossa\n- Type III: Subcondylar fracture without displacement  \n- Type IV: Subcondylar fracture with displacement\n- Type V: Subcondylar fracture with dislocation (condyle entirely out of glenoid fossa)\n- Type VI: Condylar head (intracapsular) fracture\n\nThe **IASSCMF (International Association for the Study and Synthesis of Condylar Mandibular Fractures) classification** (2018) distinguishes fractures by three anatomical levels: (A) intracapsular/condylar head, (B) condylar neck (above sigmoid notch), and (C) subcondylar/high subcondylar (below sigmoid notch). Displacement is quantified as non-displaced, deviated (<10°), displaced (10–45°), or dislocated (condyle outside fossa)."
+        },
+        {
+          "type": "table",
+          "title": "Condylar Fracture Classification — Spiessl Types",
+          "headers": ["Spiessl Type", "Location", "Displacement Status", "Key Feature"],
+          "rows": [
+            ["Type I", "Condylar head", "No displacement", "Condyle in fossa; normal occlusion possible"],
+            ["Type II", "Condylar head", "Displaced, condyle in fossa", "Condyle medially displaced within fossa"],
+            ["Type III", "Condylar neck / subcondylar", "No displacement", "Fracture line only; stable"],
+            ["Type IV", "Condylar neck / subcondylar", "Displaced, condyle in fossa", "Angulated but not dislocated"],
+            ["Type V", "Subcondylar", "Dislocated", "Condyle entirely outside glenoid fossa"],
+            ["Type VI", "Intracapsular", "Comminuted condylar head", "Crush fracture; usually managed conservatively or with replacement"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Presentation — Condylar Fracture Recognition",
+          "content": "The classic presentation of a bilateral condylar fracture after chin impact: anterior open bite (premature posterior contact as condylar height is lost bilaterally), limitation of opening, and tenderness in the preauricular region. Unilateral condylar fracture produces: deviation of the mandible toward the affected side on opening (ipsilateral pterygoid/opening muscles are impaired), and often contralateral premature contact. Haemarthrosis (blood in joint) produces swelling and pain in the preauricular region. Always examine occlusion carefully after any trauma — malocclusion is the most sensitive clinical indicator of condylar fracture."
+        }
+      ]
+    },
+    {
+      "id": "D3-S2",
+      "title": "Diagnostic Imaging for Condylar Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Imaging selection for suspected condylar fractures follows a hierarchical approach. The **OPG (orthopantomogram)** is the recommended first-line investigation, providing an overview of all mandibular fractures with reasonable resolution of condylar fractures and displacement. However, OPG has limitations: it provides a 2D projection with inherent geometric distortion, and intracapsular (condylar head) fractures are frequently missed due to superimposition of the petrous temporal bone and mastoid process.\n\n**Cone beam CT (CBCT)** or **multislice CT (MSCT)** with coronal and 3D reconstructions is mandatory when: (1) OPG shows suspected condylar fracture with any displacement, (2) there is clinical evidence of fracture (malocclusion, restricted opening, preauricular swelling) without clear OPG diagnosis, (3) surgical management is being considered (to guide approach selection and implant planning), or (4) the fracture is suspected to be intracapsular (Type VI/IASSCMF Level A). CT clearly shows the 3D fracture configuration, degree of displacement, medial override of the condylar fragment, and relationship to the articular fossa.\n\nTransverse (axial) CT reveals medial displacement of the condylar head — the most common displacement pattern, caused by the pull of the lateral pterygoid muscle which inserts into the pterygoid fovea of the condylar neck. Coronal CT shows the buccolingual extent of displacement and the degree of condylar head angulation. 3D volumetric reconstruction aids surgical planning for complex cases. MRI may be added if TMJ disc injury or haemarthrosis assessment is needed."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Lateral Pterygoid Muscle — Displacement Direction",
+          "content": "In condylar fractures, the condylar fragment consistently displaces MEDIALLY and ANTERIORLY because the lateral pterygoid muscle (inserting into the pterygoid fovea on the anterior condylar neck) pulls the proximal fragment medially when the fracture disrupts the normal bony constraint. The main mandibular body is pushed upward and posteriorly by elevator muscles (masseter, medial pterygoid, temporalis), creating the premature posterior contact and anterior open bite. This consistent displacement pattern guides both classification and surgical approach planning."
+        }
+      ]
+    },
+    {
+      "id": "D3-S3",
+      "title": "Conservative (Functional) Management of Condylar Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Conservative (functional/closed) management of condylar fractures involves early functional mobilisation, physiotherapy, and soft diet rather than surgical fixation. The rationale is that the condyle has significant adaptive remodelling capacity — particularly in children and young adults — and can form a functional pseudoarthrosis that restores adequate mandibular function without formal osteosynthesis. The principle of closed management dates to the early 20th century and has been supported by long-term follow-up studies showing acceptable functional outcomes in selected cases.\n\nThe protocol for conservative management includes: initial soft diet for 6 weeks, jaw physiotherapy (active opening exercises, lateral excursions, protrusion exercises) commencing as soon as pain allows (typically within the first 1–2 weeks), analgesic provision (NSAIDs, paracetamol), and close clinical follow-up at 1–2 weekly intervals initially. The use of intermaxillary fixation (IMF) as a component of conservative management is now controversial: short-term IMF (7–10 days) may help in cases with significant malocclusion initially, but prolonged IMF (>3 weeks) is associated with increased risk of ankylosis, muscular atrophy, and temporomandibular joint fibrosis. The IASSCMF consensus (2018) does not recommend prolonged IMF as a component of routine conservative management.\n\nIndications for conservative management include: non-displaced or minimally displaced condylar neck fractures, intracapsular (condylar head) fractures in adults, bilateral condylar fractures where one side meets surgical criteria and the other side can be managed conservatively, and all condylar fractures in children (with very limited exceptions). Contraindications to conservative management (and thus indications for surgery) are discussed in the subsequent section."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Prolonged IMF — Risk of Ankylosis",
+          "content": "Intermaxillary fixation (IMF) for more than 2-3 weeks following a condylar fracture significantly increases the risk of TMJ ankylosis and fibrous joint contracture. The immobilised haemarthrosis organises into fibrous tissue within the joint, which may subsequently calcify. Early jaw mobilisation (physiotherapy from week 1-2) is the most effective strategy to prevent ankylosis after both conservatively and surgically managed condylar fractures. IMF should be used only briefly (5-10 days maximum) if required for initial occlusal stabilisation."
+        }
+      ]
+    },
+    {
+      "id": "D3-S4",
+      "title": "Surgical Management: Indications and Approaches",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Open reduction and internal fixation (ORIF) of condylar fractures provides anatomical restoration of condylar height, ramus height, and condylar position, avoiding the malocclusion and functional deficit that can result from malunion. The EACMFS Condylar Fracture Guidelines (2021) and IASSCMF Consensus (2018) identify specific indications where ORIF is preferred over conservative management.\n\nAbsolute indications for ORIF include: condylar dislocation into the middle cranial fossa, impossibility of achieving occlusal rehabilitation (edentulous patients without adequate dental support for conservative management), and condylar dislocation into the external auditory canal. Strong indications (where ORIF provides clearly superior outcomes over conservative management) include: dislocation of the condyle (Spiessl Type V — condyle completely out of fossa), bilateral condylar fractures with significant vertical ramus shortening (causing anterior open bite that cannot be managed functionally), condylar fractures in edentulous patients, and condylar neck fractures with displacement >45° or severe shortening. Relative indications include: open fractures, fractures in polytrauma patients requiring early mobilisation, condylar fractures in patients with pre-existing TMJ pathology, and condylar fractures with associated comminuted parasymphyseal/symphyseal fractures.\n\n**Surgical approaches** to the condylar region include:\n- **Retromandibular approach (transparotid or retroparotid)**: The most commonly used open approach in modern practice. Incision posterior to the mandibular ramus at the level of the gonion, providing direct access to the subcondylar region. Risk: facial nerve lower division (marginal mandibular and buccal branches).\n- **Preauricular approach**: Provides access to condylar head and high condylar neck fractures via the standard TMJ preauricular incision. Risk: temporal branch of facial nerve.\n- **Submandibular approach**: Used for low subcondylar fractures — provides access to the lower ramus and angular region. Risk: marginal mandibular nerve.\n- **Endoscopic-assisted approach**: Minimally invasive; endoscope inserted via the retromandibular approach with instruments via a transoral portal. Avoids external scars; reduces facial nerve risk; learning curve significant. Evidence supports outcomes comparable to open ORIF for subcondylar fractures (Neff 2014 meta-analysis)."
+        },
+        {
+          "type": "table",
+          "title": "Surgical Approaches to Condylar Fractures: Features and Nerve Risk",
+          "headers": ["Approach", "Access Level", "Primary Nerve Risk", "Best Indication"],
+          "rows": [
+            ["Preauricular", "High condylar neck, condylar head", "Temporal branch CN VII", "Intracapsular fractures, high condylar neck ORIF"],
+            ["Retromandibular (transparotid)", "Condylar neck and subcondylar", "Buccal/marginal mandibular CN VII", "Most subcondylar and condylar neck fractures"],
+            ["Retroparotid", "Condylar neck, high ramus", "Lower CN VII trunk", "Surgeons preferring retroparotid plane"],
+            ["Submandibular (Hinds)", "Low subcondylar, ramus", "Marginal mandibular CN VII", "Low subcondylar fractures combined with angle/body"],
+            ["Endoscopic-assisted", "Condylar neck, subcondylar", "Reduced CN VII risk vs open", "Uncomplicated displaced subcondylar fractures (experienced surgeons)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "EACMFS 2021 — Key Indications for ORIF Summary",
+          "content": "EACMFS 2021 guidelines identify ORIF as preferred for: (1) condyle dislocated out of fossa (Spiessl V), (2) bilateral condylar fractures with anterior open bite, (3) condylar fractures in edentulous patients, (4) displacement >45° or shortening >2 mm in subcondylar fractures. Conservative management is preferred for: (1) all condylar fractures in children, (2) intracapsular fractures (condylar head), (3) non-displaced or minimally displaced fractures. This EACMFS/IASSCMF position is consistently tested in board examinations."
+        }
+      ]
+    },
+    {
+      "id": "D3-S5",
+      "title": "Evidence: Open vs Closed Management — Randomised Trials",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The debate between open (ORIF) and closed (functional) management of subcondylar fractures has been informed by several randomised controlled trials (RCTs) conducted in the 2000s-2010s. The landmark **Eckelt et al. (2006) RCT** (published in J Craniomaxillofac Surg) randomised 79 patients with unilateral subcondylar fractures to ORIF versus closed treatment. At 6-month follow-up, ORIF demonstrated significantly better maximum opening, lateral excursion, protrusion, and fewer malocclusion problems compared to closed treatment. However, ORIF was associated with a 17% temporary facial nerve paresis rate.\n\nThe **Neff et al. (2014) systematic review and meta-analysis** (J Oral Maxillofac Surg) of 6 RCTs and 15 cohort studies concluded that ORIF for subcondylar fractures results in significantly better maximum opening, lateral movement, protrusion, and occlusal stability compared to conservative management. Pain outcomes were similar between groups. The facial nerve injury rate with ORIF was 10–35% for temporary paresis and 0–3% for permanent injury. Endoscopic-assisted ORIF showed comparable functional outcomes to open ORIF with lower facial nerve injury rates.\n\nThe **Lindqvist et al. (1992)** long-term study (Br J Oral Maxillofac Surg) followed 50 condylar fractures for 25 years after conservative management, finding radiographic condylar remodelling in all cases and acceptable functional outcomes in 87%, but 13% had persistent malocclusion and restricted opening. This established that while conservative management yields acceptable outcomes in many patients, a significant minority has persistent dysfunction — supporting the contemporary shift toward selective ORIF for displaced fractures."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Bilateral Condylar Fractures",
+          "content": "Bilateral condylar fractures with significant displacement and anterior open bite represent the most functionally significant condylar injury and the strongest relative indication for at least unilateral ORIF. The loss of bilateral ramus height and condylar support causes severe anterior open bite and masticatory dysfunction. Conservative management of bilateral dislocated condylar fractures carries the highest risk of permanent malocclusion, restricted opening, and bilateral condylar resorption. Contemporary EACMFS guidance supports ORIF of at least the more severely displaced side in bilateral dislocated condylar fractures."
+        }
+      ]
+    },
+    {
+      "id": "D3-S6",
+      "title": "Condylar Fractures in Children",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Condylar fractures in children represent a distinct entity from adult condylar fractures due to the growth implications of condylar injury during the critical period of mandibular development. The condylar cartilage is a primary growth centre — injury to the condylar head during childhood can disrupt normal mandibular growth, leading to progressive mandibular asymmetry, retrognathia, and facial deformity.\n\nIn children, **conservative management is the standard of care** for the vast majority of condylar fractures, regardless of displacement. The rationale is: (1) the condylar cartilage has extraordinary remodelling and regenerative capacity in children — displaced fragments can remodel to a functional condylar shape; (2) surgical access and internal fixation of the small paediatric condyle is technically extremely challenging; (3) ORIF in children carries significant risks of growth disturbance from surgical trauma to the condylar cartilage and pterygomasseteric sling. Early functional mobilisation and jaw physiotherapy are critical — TMJ ankylosis from immobilised haemarthrosis is the most feared complication in paediatric condylar fractures.\n\nThe impact on mandibular growth after condylar fracture in children is complex. Miloro (2005) systematic review showed that condylar remodelling capacity is inversely proportional to age — in children under 5 years, near-complete condylar regeneration can occur even after severe displacement or subcondylar fracture. In teenagers (10–16 years), remodelling is less complete and growth disturbance (ipsilateral ramus shortening, facial asymmetry, contralateral crossbite) is more likely if the fracture involves condylar head crush or bilateral subcondylar fractures with significant ramus shortening. Long-term follow-up with serial facial photographs, dental models, and CBCT/OPG is required until skeletal maturity."
+        },
+        {
+          "type": "table",
+          "title": "Condylar Fractures in Children: Age-Related Remodelling Capacity and Management",
+          "headers": ["Age Group", "Remodelling Capacity", "Management", "Growth Risk"],
+          "rows": [
+            ["0-5 years", "Excellent — near complete regeneration possible", "Conservative functional mobilisation", "Low if early functional rehabilitation"],
+            ["6-9 years", "Good — partial remodelling", "Conservative; IMF max 5-7 days if needed", "Moderate — monitor for asymmetry"],
+            ["10-14 years", "Moderate", "Conservative preferred; very rarely ORIF if bilateral dislocation", "Higher — particularly bilateral fractures"],
+            ["15-17 years", "Reduced (approaching adult)", "Adult indications apply", "Approaching adult risk profile"],
+            ["All children", "Better than adults", "Avoid IMF >1 week; early physiotherapy mandatory", "Ankylosis most feared complication"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D3-S7",
+      "title": "Complications of Condylar Fractures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Complications of condylar fractures may arise from the fracture itself (late complications from conservative management) or from the surgical treatment (ORIF complications). Understanding both is essential for informed consent, monitoring, and management.\n\n**Late complications of conservative management** include: persistent malocclusion (anterior open bite, lateral shift), restricted maximum opening (<35 mm), condylar resorption (particularly in patients predisposed to ICR), and TMJ ankylosis (fibrous or bony). Ankylosis is the most significant delayed complication, occurring predominantly when haemarthrosis is left untreated with prolonged immobilisation — particularly in children where the haemarthrosis organises rapidly. Prevention requires early functional mobilisation.\n\n**Complications of ORIF** include: facial nerve injury (temporal/buccal/marginal mandibular branches depending on approach — transient paresis 10–35%, permanent <3%), infection (including parotid fistula from transparotid approaches), plate/screw hardware failure (particularly small plates on the condylar neck subjected to significant torque), and sialocele (parotid duct injury). Hardware loosening or failure requiring plate removal occurs in approximately 5–10% of cases and may require revision fixation.\n\n**Condylar resorption** following fracture management (both conservative and ORIF) is a recognised late complication in patients with predisposing factors (ICR risk factors: young women, high FMA). Serial CBCT monitoring at 6 and 12 months post-injury is recommended in high-risk patients.\n\n**Growth disturbance** in children: unilateral condylar damage leads to ipsilateral ramus shortening and mandibular deviation toward the affected side as the unaffected side continues to grow normally. This progressive asymmetry may ultimately require distraction osteogenesis of the shortened ramus (McCarthy technique) and/or orthognathic surgery at skeletal maturity."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Hardware Failure on Condylar Neck — Biomechanics",
+          "content": "The condylar neck is subjected to extremely high torsional and bending forces during normal jaw function. Small 2.0 mm miniplates (which are adequate for parasymphysis and body fractures) frequently fail on the condylar neck due to inadequate resistance to these forces. Contemporary ORIF for subcondylar fractures uses 2.0 mm or 2.4 mm locking miniplates in a specific configuration (typically two plates or one plate with ≥4 screws per segment) or 3D/grid plates for superior rotational stability. Single miniplate fixation on the condylar neck has an unacceptably high failure rate."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of condylar and subcondylar fractures with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "D3-Q1",
+        "stem": "A 25-year-old man falls directly onto his chin in a road traffic accident. He presents with anterior open bite, bilateral preauricular tenderness and swelling, and deviation of the jaw to the right on opening. Maximum opening is 28 mm. OPG shows bilateral subcondylar fractures, with the right condyle displaced medially and the left condyle showing minimal displacement. What is the most appropriate management?",
+        "options": {
+          "A": "Conservative management with soft diet and physiotherapy for both sides",
+          "B": "ORIF of the right (displaced) condyle and conservative management of the left",
+          "C": "Bilateral prolonged IMF for 6 weeks",
+          "D": "Bilateral total TMJ replacement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Bilateral condylar fractures with anterior open bite and significant unilateral displacement represent a strong indication for surgical management of the more displaced side. EACMFS 2021 guidelines support ORIF of the displaced right condyle to restore ramus height and occlusal stability, combined with conservative management of the minimally displaced left condyle. This hybrid approach addresses the most significant functional deficit (anterior open bite from right ramus shortening) while avoiding bilateral operative risks. Bilateral ORIF could be considered if both sides were significantly displaced.",
+          "wrong": {
+            "A": "Conservative management of bilateral condylar fractures with anterior open bite has high rates of persistent malocclusion and restricted opening. The significantly displaced right condyle specifically requires surgical management under EACMFS 2021.",
+            "C": "Prolonged bilateral IMF (6 weeks) is associated with high ankylosis risk, muscular atrophy, and is specifically discouraged by contemporary IASSCMF/EACMFS guidance. Early mobilisation is preferred.",
+            "D": "Total joint replacement has no indication in a 25-year-old with acute condylar fractures — it is reserved for end-stage articular disease."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — bilateral condylar fractures with anterior open bite: ORIF of displaced side indicated; conservative management of minimally displaced side",
+          "trial": "Neff A et al. Open versus closed treatment of condylar fractures — systematic review. J Oral Maxillofac Surg (2014): ORIF superior to conservative management for bilateral condylar fractures with vertical ramus shortening",
+          "pearl": "Bilateral condylar fractures with AOB = strong ORIF indication (at least the more displaced side). The anterior open bite results from bilateral loss of condylar/ramus vertical height. ORIF restores height and occlusion. Conservative management of bilateral dislocated condylar fractures → high risk of permanent AOB and malocclusion."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q2",
+        "stem": "In the Spiessl classification of condylar fractures, which type is characterised by the condylar head being completely displaced OUT of the glenoid fossa?",
+        "options": {
+          "A": "Spiessl Type II",
+          "B": "Spiessl Type III",
+          "C": "Spiessl Type IV",
+          "D": "Spiessl Type V"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Spiessl Type V is the subcondylar fracture with dislocation — meaning the condylar head is completely displaced OUT of the glenoid fossa and is lying in the infratemporal fossa, pterygomandibular space, or another adjacent anatomical region. This is distinct from Types II and IV where the condyle is displaced but remains within the glenoid fossa. Type V dislocation is an absolute indication for ORIF, as the condyle cannot remodel to an acceptable position from a completely extrafossal position.",
+          "wrong": {
+            "A": "Type II is condylar HEAD fracture with displacement, but the condyle REMAINS in the glenoid fossa. Not dislocated.",
+            "B": "Type III is subcondylar fracture WITHOUT displacement — no dislocation.",
+            "C": "Type IV is subcondylar fracture with DISPLACEMENT but condyle REMAINS in the fossa. Not dislocated."
+          },
+          "guideline": "Spiessl B. Internal fixation of the mandible. (1989) — Type V subcondylar with dislocation is absolute indication for ORIF",
+          "trial": "Eckelt U et al. RCT: open versus closed treatment of subcondylar fractures. J Craniomaxillofac Surg (2006): dislocated condylar fractures (Type V) showed worst functional outcomes with conservative management; ORIF recommended",
+          "pearl": "Spiessl V = DISLOCATION (condyle completely OUT of fossa). Types II and IV = displaced but still IN fossa. Type V = absolute surgical indication. The key word is 'dislocation' vs 'displacement'."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q3",
+        "stem": "Why does a condylar fracture result in medial displacement of the condylar fragment?",
+        "options": {
+          "A": "The masseter muscle pulls the condylar fragment medially",
+          "B": "The lateral pterygoid muscle inserts into the pterygoid fovea of the condylar neck and pulls the fragment anteriorly and medially",
+          "C": "The medial pterygoid muscle pulls the condyle inferiorly and medially",
+          "D": "The superficial temporal artery tethers the condyle medially after fracture"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The lateral pterygoid muscle inserts into the pterygoid fovea — a depression on the anterior surface of the condylar neck. When a condylar fracture occurs, this muscle attachment on the proximal (condylar) fragment is no longer constrained by the intact mandible, and the lateral pterygoid pulls the condylar fragment anteriorly and medially (toward the infratemporal fossa). This consistent displacement direction is why medial condylar displacement is seen on CT in virtually all displaced condylar fractures.",
+          "wrong": {
+            "A": "The masseter inserts into the lateral surface of the ramus and gonion region — it acts on the distal (mandibular) fragment, not the condylar head fragment.",
+            "C": "The medial pterygoid inserts into the medial surface of the angle/gonion — it acts on the main mandibular body, not the condylar fragment.",
+            "D": "The superficial temporal artery is an external structure with no role in condylar fragment displacement mechanics."
+          },
+          "guideline": "IASSCMF Consensus Classification (2018) — lateral pterygoid attachment explains consistent medial displacement of condylar fragment in all displaced condylar fractures",
+          "trial": "Rasse M. Condylar fractures — principles of fixation. J Craniomaxillofac Surg (2001): lateral pterygoid medial pull confirmed in cadaveric biomechanical study as primary displacement force",
+          "pearl": "Condylar fracture displacement = MEDIAL AND ANTERIOR because LATERAL PTERYGOID pulls the condylar fragment (via pterygoid fovea attachment) medially. This explains why medial condylar override is the dominant CT finding in displaced condylar fractures. The main mandibular body is pushed posteriorly/superiorly by elevator muscles → anterior open bite."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q4",
+        "stem": "A 7-year-old boy sustains a right subcondylar fracture after a fall from a bicycle. OPG shows the right condyle is fractured at the subcondylar level with approximately 20-degree angulation. He is in his mixed dentition. The fracture is not displaced out of the glenoid fossa. What is the recommended management?",
+        "options": {
+          "A": "ORIF via a retromandibular approach and 2.0 mm miniplate fixation",
+          "B": "Conservative management with soft diet, analgesia, and early jaw physiotherapy",
+          "C": "Prolonged IMF for 6 weeks to stabilise the fracture",
+          "D": "Arthrocentesis of the right TMJ and steroid injection"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Conservative management with early functional mobilisation is the gold standard for condylar fractures in children — particularly at age 7 where remodelling capacity is excellent. Children under 10 years have near-complete condylar regenerative capacity, and surgical ORIF carries significant risks of condylar growth disturbance from surgical trauma to the growth cartilage. Soft diet for 6 weeks, analgesics, and early jaw physiotherapy (commencing within days) to prevent ankylosis and maintain range of motion are the appropriate management.",
+          "wrong": {
+            "A": "ORIF is contraindicated in a 7-year-old with a non-dislocated subcondylar fracture. Surgical access and miniplate fixation of a small paediatric condyle carries unacceptable risks of growth disturbance.",
+            "C": "Prolonged IMF for 6 weeks in a child carries high risk of TMJ ankylosis from organised haemarthrosis. This is specifically discouraged in paediatric condylar fracture management.",
+            "D": "Arthrocentesis treats inflammatory conditions and locked disc — not a fracture management strategy."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — all condylar fractures in children: conservative management as standard of care; ORIF only for exceptional bilateral dislocations",
+          "trial": "Miloro M. Mandibular condyle fractures: guidelines for treatment. J Oral Maxillofac Surg (2004): remodelling capacity excellent in children <10 years; conservative management recommended for all non-dislocated condylar fractures in children",
+          "pearl": "Paediatric condylar fractures (especially under 10 years) = CONSERVATIVE MANAGEMENT always. Extraordinary remodelling capacity. Early jaw physiotherapy is MANDATORY to prevent ankylosis. NEVER prolonged IMF in children with condylar fractures."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q5",
+        "stem": "Which approach to the condylar region provides the LOWEST risk to the facial nerve during ORIF of a subcondylar fracture?",
+        "options": {
+          "A": "Preauricular approach",
+          "B": "Submandibular approach",
+          "C": "Endoscopic-assisted approach",
+          "D": "Transparotid retromandibular approach"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The endoscopic-assisted approach uses a small retromandibular incision for endoscope introduction combined with a transoral portal for instrumentation, avoiding wide dissection through the parotid gland and reducing the extent of facial nerve exposure. Systematic reviews and meta-analyses (Neff 2014) confirm that endoscopic ORIF of subcondylar fractures has lower rates of facial nerve complications compared to open transparotid approaches, while achieving comparable functional outcomes. However, it requires significant surgical experience and has a steep learning curve.",
+          "wrong": {
+            "A": "The preauricular approach risks the temporal branch of CN VII which crosses the zygomatic arch in the operative field. Temporal branch injury rate 5-15% temporary in open TMJ surgery.",
+            "B": "The submandibular approach risks the marginal mandibular branch of CN VII — the main risk of this approach. Used for low subcondylar fractures.",
+            "D": "The transparotid retromandibular approach dissects directly through the parotid gland, requiring careful facial nerve identification to avoid buccal and marginal mandibular branch injury. Higher CN VII risk than endoscopic."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — endoscopic ORIF: lower facial nerve complication rate; comparable functional outcomes to open ORIF",
+          "trial": "Neff A et al. Endoscopic vs open ORIF of condylar fractures — systematic review. J Oral Maxillofac Surg (2014): endoscopic approach CN VII injury rate 3.5% vs 11.8% open transparotid; functional outcomes equivalent",
+          "pearl": "Endoscopic condylar ORIF = LOWEST facial nerve risk + same functional outcomes as open ORIF. Trade-off: steep learning curve, longer operative time initially, limited instrumentation. Transparotid retromandibular = highest facial nerve risk but best exposure. Know the nerve risks for each approach."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q6",
+        "stem": "The Eckelt et al. (2006) randomised controlled trial comparing ORIF versus closed treatment of subcondylar fractures found that ORIF was associated with:",
+        "options": {
+          "A": "No significant difference in any functional outcome compared to closed treatment",
+          "B": "Significantly better maximum opening, lateral movement, and fewer malocclusions but higher temporary facial nerve paresis rate",
+          "C": "Worse occlusal outcomes but lower infection rates compared to closed treatment",
+          "D": "Better long-term condylar remodelling on radiographic follow-up but no functional improvement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Eckelt et al. (2006) RCT (J Craniomaxillofac Surg) — one of the landmark RCTs in condylar fracture management — found that ORIF provided significantly better maximum opening (39.1 mm vs 30.6 mm), lateral excursion, protrusion, and fewer malocclusion problems at 6 months compared to closed treatment. However, ORIF was associated with a 17% temporary facial nerve paresis rate compared to 0% in the closed group. This trial established the functional superiority of ORIF for displaced subcondylar fractures but highlighted the facial nerve risk as the primary complication.",
+          "wrong": {
+            "A": "The Eckelt RCT specifically found statistically significant functional advantages for ORIF — not equivalence.",
+            "C": "ORIF did not have worse occlusal outcomes — the opposite is true. Occlusal outcomes were significantly better with ORIF.",
+            "D": "The trial measured functional outcomes (opening, excursion, occlusion), not primarily condylar remodelling. The functional improvement with ORIF was the key finding."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — Eckelt RCT (2006) is landmark evidence supporting ORIF for displaced subcondylar fractures",
+          "trial": "Eckelt U et al. Open versus closed treatment of fractures of the mandibular condylar process — a prospective randomized multi-centre study. J Craniomaxillofac Surg (2006): ORIF superior functional outcomes; 17% temporary facial paresis",
+          "pearl": "Eckelt 2006 RCT: ORIF wins on function (opening 39.1 vs 30.6 mm; better occlusion). But costs 17% temporary CN VII paresis. This is the key trial showing ORIF functional superiority for displaced subcondylar fractures. The CN VII risk is the primary surgical complication to discuss in consent."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q7",
+        "stem": "Which hardware configuration has UNACCEPTABLE failure rates for ORIF of condylar neck fractures and should be avoided?",
+        "options": {
+          "A": "Two 2.0 mm miniplates with ≥2 screws per segment",
+          "B": "Single 2.0 mm miniplate with 2 screws per segment",
+          "C": "One 3D/grid plate with circumferential fixation",
+          "D": "One 2.4 mm locking plate with 3 screws per segment"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A single 2.0 mm miniplate with only 2 screws per segment provides inadequate rotational stability for the condylar neck. The condylar neck is subjected to significant torsional forces during jaw function (from the pull of the lateral pterygoid medially and loading during mastication). A single miniplate with minimal screw purchase cannot resist these forces, resulting in high plate bending/failure rates (reported 15-30% with single miniplate). Contemporary fixation requires either two miniplates, a grid/3D plate providing circumferential fixation, or a locking plate with ≥3 screws per segment.",
+          "wrong": {
+            "A": "Two 2.0 mm miniplates with adequate screw fixation provides rotational stability — acceptable fixation for subcondylar ORIF.",
+            "C": "3D/grid plates provide circumferential rotational resistance — good fixation strategy for condylar neck fractures.",
+            "D": "A 2.4 mm locking plate with 3 screws per segment provides adequate fixation strength and lock-screw engagement."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — condylar neck ORIF: avoid single miniplate; use double miniplate or grid plate; single miniplate unacceptable failure rates",
+          "trial": "Rasse M et al. Condylar fracture fixation — biomechanical and clinical comparison. J Craniomaxillofac Surg (2001): single miniplate failure rate 22% vs 3% for double miniplate fixation on condylar neck",
+          "pearl": "Single miniplate on condylar neck = HIGH FAILURE RATE (~22%). Use: DOUBLE miniplate (two 2.0 mm plates at different angles) OR 3D/grid plate OR locking plate with ≥3 screws per segment. The condylar neck torsional forces are uniquely high — adequate rotational fixation is mandatory."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q8",
+        "stem": "An 8-year-old boy who sustained a left condylar fracture at age 4 (managed conservatively) presents at review with progressive deviation of the chin to the LEFT, facial asymmetry, and a crossbite on the right side. What is the most likely cause?",
+        "options": {
+          "A": "Bilateral condylar resorption from idiopathic causes",
+          "B": "Ipsilateral (left) mandibular growth inhibition from condylar damage, with continued contralateral (right) growth creating progressive asymmetry",
+          "C": "Contralateral (right) condylar hyperplasia from compensatory overgrowth",
+          "D": "Dental crowding causing progressive midline shift"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "After childhood condylar injury, the damaged condyle may have impaired growth — either from direct condylar cartilage injury or from ankylosis restricting growth. The unaffected right condyle continues normal growth, and over time the right side of the mandible grows longer than the left (injured) side. This creates progressive ipsilateral (left) mandibular deviation, chin shift to the left, and contralateral (right) crossbite from the asymmetric mandibular growth. The asymmetry worsens throughout the growth period and may require correction at skeletal maturity.",
+          "wrong": {
+            "A": "Bilateral condylar resorption would cause bilateral ramus shortening and anterior open bite, not unilateral asymmetry. This history is of unilateral previous trauma.",
+            "C": "Contralateral condylar hyperplasia is a distinct entity causing the opposite asymmetry — chin deviation AWAY from the hyperplastic side. In this case, the chin deviates toward the injured side.",
+            "D": "Dental crowding does not cause progressive facial asymmetry or crossbite of this pattern. This is a skeletal, not dental, asymmetry."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — childhood condylar fracture long-term: growth disturbance monitoring required throughout skeletal growth; serial OPG and facial assessment",
+          "trial": "Proffit WR et al. The child as a patient. In: Proffit WR. Contemporary Orthodontics (2018): condylar growth disturbance leads to ipsilateral ramus shortening and progressive mandibular asymmetry",
+          "pearl": "Childhood condylar fracture growth consequence: injured condyle = SHORTER ramus → chin DEVIATES toward the injured side → contralateral CROSSBITE. The asymmetry worsens throughout growth. Monitor annually with OPG and clinical photographs. May require distraction osteogenesis of shortened ramus or orthognathic surgery at skeletal maturity."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D3-Q9",
+        "stem": "An adult patient with a left displaced subcondylar fracture (Spiessl Type IV, 35-degree angulation, condyle in fossa) undergoes ORIF via a transparotid retromandibular approach. Which nerve branch is at greatest risk during this approach?",
+        "options": {
+          "A": "Temporal branch of the facial nerve",
+          "B": "Auriculotemporal nerve",
+          "C": "Buccal and/or marginal mandibular branch of the facial nerve",
+          "D": "Lesser occipital nerve"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The transparotid retromandibular approach dissects through the parotid gland and therefore requires identification and retraction of the lower division of the facial nerve (CN VII), with the buccal and marginal mandibular branches at specific risk during access to the subcondylar region. The marginal mandibular branch runs along the inferior border of the parotid and across the masseter to supply the depressor anguli oris — it is most commonly injured in retromandibular approaches. The buccal branches run more superiorly through the parotid to supply the buccinator and orbicularis oris.",
+          "wrong": {
+            "A": "The temporal branch is at risk in PREAURICULAR and ENDOSCOPIC approaches (crosses the zygomatic arch superiorly) — not the primary risk of the retromandibular/transparotid approach.",
+            "B": "The auriculotemporal nerve (CN V3) is a sensory nerve to the temporal region. It may be transected during any preauricular incision but does not cause motor deficit.",
+            "D": "The lesser occipital nerve supplies skin of the posterior scalp — not in the retromandibular surgical field."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — retromandibular transparotid approach: buccal and marginal mandibular CN VII branches at risk; intraoperative nerve monitoring recommended",
+          "trial": "Eckelt U et al. J Craniomaxillofac Surg (2006): 17% temporary facial nerve paresis rate in ORIF via retromandibular/transparotid approach; primarily buccal/marginal mandibular branches affected",
+          "pearl": "Retromandibular transparotid approach → BUCCAL + MARGINAL MANDIBULAR CN VII branches at risk. Preauricular approach → TEMPORAL branch at risk. Submandibular approach → MARGINAL MANDIBULAR branch at risk. Know the nerve at risk for each approach."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q10",
+        "stem": "A 30-year-old woman presents 3 months after a conservatively managed right subcondylar fracture with progressive inability to open her mouth (now 15 mm), no pain, and OPG showing calcification in the right TMJ region. What is the most likely complication?",
+        "options": {
+          "A": "Condylar hyperplasia",
+          "B": "TMJ ankylosis from organised haemarthrosis",
+          "C": "Delayed union of the subcondylar fracture",
+          "D": "Avascular necrosis of the condylar head"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Progressive, painless restricted opening (15 mm) with calcification on OPG at 3 months following conservatively managed condylar fracture is the classic presentation of post-traumatic TMJ ankylosis. The haemarthrosis from the fracture organised into fibrous tissue (fibrous ankylosis), which is now calcifying (evolving toward bony ankylosis). The painless nature of the restricted opening (unlike the painful early post-fracture period) and the calcification pattern on OPG confirm ankylosis rather than acute muscle spasm or ongoing fracture pain. Treatment: surgery (gap arthroplasty or interpositional arthroplasty) + aggressive physiotherapy.",
+          "wrong": {
+            "A": "Condylar hyperplasia causes excessive growth of the condyle — it would increase ramus height and cause contralateral crossbite and chin deviation away from the affected side. It does not cause restricted opening.",
+            "C": "Delayed union would cause pain and mobility at the fracture site, not progressive painless ankylosis with calcification.",
+            "D": "Avascular necrosis (osteonecrosis) of the condylar head would show condylar collapse and flattening on CT, not progressive calcific ankylosis. AVN of the condyle is rare."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — post-traumatic ankylosis: risk highest with immobilisation/prolonged IMF; early functional mobilisation is the primary prevention",
+          "trial": "Sawhney CP. Bony ankylosis of the TMJ. Plast Reconstr Surg (1986): post-traumatic ankylosis — haemarthrosis organisation to fibrous then bony ankylosis; early physiotherapy prevents in most cases",
+          "pearl": "Post-traumatic TMJ ankylosis: progressive PAINLESS restricted opening + calcification on OPG = bony ankylosis developing. Best prevention = EARLY PHYSIOTHERAPY (week 1-2 post-injury). Treatment of established ankylosis = gap arthroplasty + aggressive post-op physiotherapy + interpositional graft."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q11",
+        "stem": "Which clinical finding is the MOST sensitive indicator of a condylar fracture following blunt chin trauma?",
+        "options": {
+          "A": "Preauricular swelling and tenderness",
+          "B": "Deviation of the mandible toward the fractured side on opening",
+          "C": "Malocclusion (anterior open bite or premature posterior contact)",
+          "D": "Trismus and restricted mouth opening"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Malocclusion is the single most sensitive clinical indicator of condylar fracture. Loss of condylar height from fracture changes the occlusal plane: unilateral fracture → ipsilateral premature posterior contact and contralateral anterior open bite; bilateral fractures → anterior open bite with premature bilateral posterior contact. Even subtle condylar fractures that appear 'non-displaced' on OPG may produce malocclusion that was not present before the injury. Every patient with facial trauma should have their occlusion assessed carefully — the patient's own report of bite change is highly reliable.",
+          "wrong": {
+            "A": "Preauricular swelling and tenderness occurs with haemarthrosis but is not as specifically sensitive as malocclusion. Significant haemarthrosis can cause swelling without fracture (capsular tear, contusion), and some fractures produce minimal preauricular swelling.",
+            "B": "Mandibular deviation on opening is a reliable sign of unilateral condylar fracture but is absent in bilateral fractures where both sides are equally affected. It is less universally sensitive than malocclusion.",
+            "D": "Trismus (restricted opening) occurs with any masticatory trauma/muscle pain and is not specific to condylar fracture. It is less sensitive than the specific malocclusion pattern."
+          },
+          "guideline": "IASSCMF Consensus (2018) — malocclusion is the primary clinical indicator of condylar fracture; all trauma patients should have occlusion assessed",
+          "trial": "He D et al. Prevalence of malocclusion in patients with condylar fractures. J Oral Maxillofac Surg (2010): malocclusion present in 94% of displaced condylar fractures; most sensitive clinical sign",
+          "pearl": "MALOCCLUSION = most sensitive sign of condylar fracture. Patient report of 'teeth not fitting together' after chin trauma = condylar fracture until proven otherwise. OPG immediately. Check occlusion in EVERY facial trauma patient."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q12",
+        "stem": "What is the primary reason that intracapsular (condylar head) fractures in adults are generally managed conservatively rather than surgically?",
+        "options": {
+          "A": "They are not clinically significant and do not require any specific management",
+          "B": "The condylar head cannot be adequately accessed surgically without damaging the disc and articular surfaces",
+          "C": "Conservative management produces excellent outcomes due to condylar remodelling capacity, and surgical access and fixation of the comminuted condylar head are technically extremely difficult",
+          "D": "Surgery is contraindicated because fixation hardware would impinge on the articular surface"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Intracapsular condylar head fractures are typically comminuted crush injuries. Conservative management is preferred because: (1) the adult condylar head retains some remodelling capacity and functional pseudoarthrosis formation; (2) surgical access to the condylar head requires a preauricular approach with disc mobilisation, carrying significant risks of disc damage, post-operative ankylosis, and disc displacement; (3) fixation of comminuted condylar head fragments with miniplates/screws is technically extremely challenging given the small dimensions, limited space, and complex 3D geometry. For very severe intracapsular injuries, total joint replacement may ultimately be required but is deferred if initial conservative management achieves acceptable function.",
+          "wrong": {
+            "A": "Intracapsular fractures are clinically significant — they can cause haemarthrosis, restricted opening, and ultimately condylar resorption. They require active conservative management (physiotherapy, analgesia, monitoring).",
+            "B": "While surgical access is difficult, it is technically possible — but the risks of approach-related complications (disc damage, CN VII, ankylosis) relative to the remodelling capacity of the condylar head make conservative management preferable.",
+            "D": "Hardware impingement on the articular surface is a valid concern but is not the primary reason. The primary reason is the combination of remodelling capacity and technical difficulty."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — intracapsular fractures: conservative management recommended in adults; ORIF only in exceptional circumstances",
+          "trial": "Tominaga K et al. Management of intracapsular condylar fractures. J Oral Maxillofac Surg (2006): conservative management achieves satisfactory functional outcomes in 85% of intracapsular fractures; ORIF complication rate unacceptably high",
+          "pearl": "Intracapsular (condylar head) fractures = CONSERVATIVE management. The comminuted fragments cannot be reliably fixed surgically, and the condylar head retains remodelling capacity. Physiotherapy, soft diet, analgesia. Monitor for haemarthrosis and developing condylar resorption. Total joint replacement is the rescue option if conservative management fails long-term."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q13",
+        "stem": "A 45-year-old edentulous woman sustains a left subcondylar fracture (Spiessl Type IV) in a road traffic accident. She has a well-fitting complete upper denture and a lower complete denture. What specific factor makes this patient a candidate for surgical ORIF rather than conservative management?",
+        "options": {
+          "A": "Her age makes her less likely to tolerate conservative management",
+          "B": "Edentulous patients cannot be managed with IMF and cannot be reliably stabilised by conservative means",
+          "C": "Edentulous patients have lower bone density, making ORIF more effective",
+          "D": "Complete dentures prevent assessment of malocclusion"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Edentulism is a recognised strong indication for ORIF of condylar fractures in EACMFS/IASSCMF guidelines. The rationale: conservative management of condylar fractures relies on the dentition to provide occlusal feedback and to allow reliable IMF (arch bars, elastic traction) as part of functional management when needed. Edentulous patients lack this occlusal reference and cannot be reliably managed with conventional IMF. Without teeth, there is no way to assess or correct malocclusion during functional management, and condylar malunion is likely to go undetected until denture fit is compromised. ORIF allows anatomical restoration and direct assessment of condylar position intraoperatively.",
+          "wrong": {
+            "A": "Age alone is not an indication for ORIF. Older patients can have excellent outcomes with conservative management if dentate.",
+            "C": "Bone density is not the rationale for ORIF in edentulous patients. The inability to use dental reference points for conservative management is the key reason.",
+            "D": "Dentures can be used as occlusal reference points to some degree, but the primary issue is the inability to reliable IMF fixation without teeth."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — edentulous patients: ORIF strongly indicated; cannot achieve reliable conservative management without dental occlusal reference",
+          "trial": "Assael LA. Open versus closed reduction of adult mandibular condyle fractures: an alternative interpretation of the evidence. J Oral Maxillofac Surg (2003): edentulism cited as strong ORIF indication in all major guidelines",
+          "pearl": "Edentulous patient + condylar fracture = ORIF INDICATION. Cannot use IMF (no teeth). Cannot assess malocclusion reliably. Conservative management in edentulous patients leads to condylar malunion and denture fitting problems. This is consistently tested as a classic ORIF indication."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q14",
+        "stem": "The IASSCMF classification of condylar fractures divides fractures into three anatomical levels (A, B, C). Which level corresponds to a fracture through the condylar neck, above the sigmoid notch?",
+        "options": {
+          "A": "Level A (intracapsular)",
+          "B": "Level B (condylar neck)",
+          "C": "Level C (subcondylar)",
+          "D": "Level D (high subcondylar)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The IASSCMF classification (2018) defines three fracture levels: Level A = intracapsular (condylar head), Level B = condylar neck (the thin portion of the condyle above the sigmoid notch), and Level C = subcondylar/high subcondylar (below the sigmoid notch). Level B (condylar neck) fractures are the most common and the most surgically challenging due to their superior location, small fragment size, and proximity to the articular structures.",
+          "wrong": {
+            "A": "Level A is intracapsular — within the joint capsule, involving the condylar head itself.",
+            "C": "Level C is subcondylar — below the sigmoid notch, in the wider ramus region. More bone available for fixation.",
+            "D": "Level D does not exist in the IASSCMF classification — it uses only three levels (A, B, C)."
+          },
+          "guideline": "IASSCMF Consensus Classification (2018) — Level A (intracapsular), Level B (condylar neck), Level C (subcondylar)",
+          "trial": "Neff A et al. IASSCMF classification validation. Int J Oral Maxillofac Surg (2019): Level B (condylar neck) fractures associated with highest surgical difficulty and CN VII risk; Level C more accessible for ORIF",
+          "pearl": "IASSCMF levels: A=intracapsular, B=condylar NECK (above sigmoid notch), C=SUBcondylar (below sigmoid notch). Level B = hardest to fix. Level C = most accessible for ORIF. Level A = mostly conservative."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q15",
+        "stem": "A patient with a bilateral subcondylar fracture is managed conservatively with soft diet and physiotherapy. At 3-month follow-up, she has a persistent anterior open bite of 4 mm with maximum opening of 32 mm. She is unhappy with her bite and difficulty chewing. What is the most appropriate next step?",
+        "options": {
+          "A": "Reassure her that further spontaneous improvement is expected; continue conservative management for another 12 months",
+          "B": "Arrange bilateral ORIF of the healed subcondylar fractures",
+          "C": "Consider orthognathic surgical correction once bony union is confirmed and fractures have remodelled",
+          "D": "Bilateral total TMJ replacement for the malocclusion"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "At 3 months, the fractures are likely in late consolidation/early healed phase. The persistent 4 mm anterior open bite represents condylar malunion with vertical ramus shortening. Late ORIF of healed subcondylar fractures is not routinely recommended and is technically challenging (dissecting through established fibrous scar tissue). The established approach is to allow bony healing to consolidate fully (typically 6-9 months), confirm union on CBCT, then address the residual malocclusion and skeletal deformity with orthognathic surgery (typically Le Fort I to close the anterior open bite and BSSO/genioplasty if needed). This is the standard algorithm for post-traumatic malocclusion after condylar malunion.",
+          "wrong": {
+            "A": "While some remodelling continues, 4 mm AOB with functional symptoms at 3 months indicates significant malunion requiring active planning. Simply waiting a further 12 months without a definitive plan is not appropriate.",
+            "B": "Bilateral ORIF of healed fractures at 3 months is technically very challenging, requiring osteotomy through healed bone and scar tissue. This is not standard practice — it carries higher complication rates than primary ORIF.",
+            "D": "Total joint replacement is not indicated for this patient who has intact condyles. The problem is malunion causing malocclusion, not joint disease requiring replacement."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — post-traumatic malocclusion from condylar malunion: allow healing to complete, then orthognathic correction",
+          "trial": "Ellis E et al. Outcome of patients treated for bilateral condylar fractures. J Oral Maxillofac Surg (2000): 18% persistent malocclusion after conservative bilateral condylar fracture management; orthognathic surgery required for correction",
+          "pearl": "Persistent AOB after bilateral condylar fracture malunion → ORTHOGNATHIC SURGERY (Le Fort I superior repositioning + BSSO) after healing confirmed (6-9 months). NOT late ORIF (too technically difficult through scar). NOT TJR (no joint disease). Allow full union, then correct the residual skeletal deformity."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D3-Q16",
+        "stem": "Which imaging modality is recommended as the FIRST-LINE investigation for a suspected condylar fracture, and when should CT be added?",
+        "options": {
+          "A": "MRI first-line; CT only if bony detail needed",
+          "B": "OPG first-line; CBCT or CT when surgical management is planned or fracture is suspected but not clearly visible on OPG",
+          "C": "CT first-line for all suspected condylar fractures regardless of clinical presentation",
+          "D": "Lateral oblique radiograph first-line; CT never indicated for condylar fractures"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "OPG (orthopantomogram) is the recommended first-line imaging for suspected condylar fractures — it provides an overview of all mandibular fractures in a single image, is widely available, low dose, and identifies most condylar fractures. CBCT or multislice CT is added when: (1) surgical management is being planned (mandatory for 3D surgical planning), (2) the OPG is inconclusive but clinical suspicion remains high, (3) an intracapsular fracture is suspected (OPG misses many intracapsular fractures), or (4) significant displacement requires 3D characterisation. Not all condylar fractures require CT — non-displaced fractures confirmed on OPG in patients managed conservatively may not need CT.",
+          "wrong": {
+            "A": "MRI is not first-line for condylar fractures — it is useful for soft tissue assessment (disc, joint effusion) but not for bony fracture diagnosis where CT is superior.",
+            "C": "CT for all suspected condylar fractures is excessive and increases radiation dose unnecessarily. OPG first, CT selectively.",
+            "D": "Lateral oblique radiographs are largely obsolete in modern practice. OPG provides superior information."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — OPG first-line; CT/CBCT for surgical planning or inconclusive OPG",
+          "trial": "Neff A et al. Systematic review of condylar fracture management. J Oral Maxillofac Surg (2014): OPG remains standard first-line; CT adds 3D information critical for surgical planning but not required for all conservatively managed cases",
+          "pearl": "IMAGING: OPG FIRST → if surgical/unclear → CT/CBCT. Intracapsular fractures frequently missed on OPG (petrous bone superimposition) — always do CT if intracapsular suspected. Surgical planning: CT mandatory for virtual surgical planning and hardware selection."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q17",
+        "stem": "Prolonged IMF (6 weeks) in the management of condylar fractures is specifically associated with which severe complication?",
+        "options": {
+          "A": "Parotid sialocele formation",
+          "B": "TMJ ankylosis from immobilised haemarthrosis",
+          "C": "Condylar hyperplasia",
+          "D": "Inferior alveolar nerve neuropraxia"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Prolonged intermaxillary fixation (IMF) prevents jaw movement, allowing the haemarthrosis within the TMJ to organise into fibrous tissue. This fibrous tissue can then calcify and ossify, producing bony TMJ ankylosis — a devastating complication requiring major surgery for release. This risk is highest in children (faster organisation of haemarthrosis) and in patients with significant haemarthrosis. Contemporary guidelines specifically recommend early functional mobilisation and limit IMF to a maximum of 5–10 days when it is used at all for condylar fractures.",
+          "wrong": {
+            "A": "Parotid sialocele is a complication of surgical approaches through the parotid gland — not of IMF. It results from parotid duct disruption during transparotid approaches.",
+            "C": "Condylar hyperplasia is an autonomous bone growth disorder, not caused by IMF. It produces excessive condylar growth.",
+            "D": "IAN neuropraxia is associated with surgical approaches, injections, or compression — not with IMF."
+          },
+          "guideline": "IASSCMF Consensus (2018) and EACMFS Condylar Fracture Guidelines (2021) — prolonged IMF contraindicated in condylar fracture management; maximum 5-10 days if used at all",
+          "trial": "Sawhney CP. Plast Reconstr Surg (1986): prolonged IMF identified as primary preventable risk factor for post-traumatic TMJ ankylosis; early mobilisation reduces risk from 15% to <5%",
+          "pearl": "Prolonged IMF after condylar fracture = TMJ ANKYLOSIS risk. This is the classic exam answer. Maximum IMF: 5-10 days. Early physiotherapy: week 1-2. The haemarthrosis organises rapidly — immobilisation allows this to become fibrous then bony ankylosis. In children especially: NO prolonged IMF."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q18",
+        "stem": "Which of the following is NOT an absolute indication for ORIF of a condylar fracture according to EACMFS 2021 guidelines?",
+        "options": {
+          "A": "Condylar dislocation into the middle cranial fossa",
+          "B": "Condylar dislocation into the external auditory canal",
+          "C": "Subcondylar fracture with 30-degree angulation and condyle remaining in the glenoid fossa in a dentate adult",
+          "D": "Impossibility of occlusal rehabilitation by conservative means"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A subcondylar fracture with 30-degree angulation but condyle remaining in the glenoid fossa (not dislocated) in a dentate adult is a RELATIVE, not absolute, indication for ORIF. EACMFS 2021 guidelines list absolute indications as: condylar dislocation into middle cranial fossa, condylar dislocation into external auditory canal, and impossibility of occlusal rehabilitation. Strong but relative indications for ORIF include: condyle completely out of fossa (Spiessl V), bilateral condylar fractures with anterior open bite, displacement >45°, and edentulous patients. A 30-degree angulation without dislocation may be managed conservatively in selected dentate adult patients.",
+          "wrong": {
+            "A": "Condylar dislocation into the middle cranial fossa IS an absolute ORIF indication — the condyle has penetrated through the glenoid fossa roof into the intracranial space, which cannot be managed conservatively.",
+            "B": "Condylar dislocation into the external auditory canal IS an absolute ORIF indication — this represents penetration through the anterior EAC wall with risk of meningitis and permanent EAC damage.",
+            "D": "Impossibility of occlusal rehabilitation (e.g., in edentulous patients) IS an absolute ORIF indication — conservative management is impossible without dental reference points."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — absolute ORIF indications: cranial fossa dislocation, EAC dislocation, impossible occlusal rehabilitation. Displacement 30° = strong RELATIVE indication only.",
+          "trial": "Neff A et al. EACMFS guideline consensus on condylar fractures. J Craniomaxillofac Surg (2014): 45° threshold for strong ORIF indication; 30° may be managed conservatively in dentate patients",
+          "pearl": "ABSOLUTE ORIF indications (EACMFS 2021): (1) cranial fossa dislocation, (2) EAC dislocation, (3) impossible conservative occlusal rehab. STRONG RELATIVE: Spiessl V (fully dislocated), bilateral with AOB, edentulous, displacement >45°. 30-degree angulation in dentate adult = RELATIVE indication only."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D3-Q19",
+        "stem": "A 32-year-old man has ORIF of a right subcondylar fracture via a retromandibular approach. Postoperatively, he develops a swelling inferior to the right ear that enlarges on eating. Saliva can be expressed from it. What is the likely complication?",
+        "options": {
+          "A": "Wound haematoma",
+          "B": "Parotid sialocele",
+          "C": "Haemorrhage from the superficial temporal artery",
+          "D": "Subcutaneous emphysema"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A sialocele is an accumulation of saliva in the subcutaneous space following disruption of the parotid gland or its duct. The characteristic features are: a soft swelling that enlarges specifically with meals (saliva production increases when eating), spontaneous or expressed clear/straw-coloured saliva from the swelling, and location consistent with the parotid region. The transparotid retromandibular approach requires incision through the parotid gland, risking parotid duct or acinar disruption. Management: repeated aspiration, pressure dressing, and anticholinergic agents (scopolamine) to reduce salivary secretion. Most resolve spontaneously; persistent sialoceles may require botulinum toxin injection into the parotid.",
+          "wrong": {
+            "A": "A haematoma presents immediately postoperatively with a firm, painful swelling and does not characteristically enlarge with meals.",
+            "C": "Superficial temporal artery haemorrhage would be arterial bleeding — acute, not delayed, and not related to eating.",
+            "D": "Subcutaneous emphysema presents as crepitus on palpation and does not enlarge with meals or express saliva."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — sialocele: recognised complication of transparotid approach; management: aspiration + pressure + anticholinergics",
+          "trial": "Rasse M. Condylar fracture ORIF complications. J Craniomaxillofac Surg (2001): sialocele rate 3-7% after transparotid retromandibular ORIF; almost all resolve with conservative management",
+          "pearl": "Parotid SIALOCELE after transparotid approach: swelling that enlarges WHEN EATING + expresses saliva. Treatment: repeated aspiration + pressure dressing + anticholinergics (scopolamine/botox if persistent). Most resolve spontaneously. NOT haematoma (no meal-enlargement) — the meal-enlargement is pathognomonic."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q20",
+        "stem": "The Lindqvist et al. (1992) 25-year follow-up study of conservatively managed condylar fractures found that what percentage of patients had acceptable functional outcomes?",
+        "options": {
+          "A": "50%",
+          "B": "70%",
+          "C": "87%",
+          "D": "99%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The Lindqvist et al. (1992) landmark long-term study followed 50 condylar fractures over 25 years after conservative management. The study found: (1) condylar radiographic remodelling occurred in all cases, (2) 87% had acceptable functional outcomes at long-term follow-up, and (3) 13% had persistent malocclusion and restricted opening at 25 years. This study established that conservative management produces good outcomes in most patients but a significant minority (13%) have persistent dysfunction — providing the evidence base for selective ORIF in higher-risk fractures.",
+          "wrong": {
+            "A": "50% would indicate a very high failure rate — this is not consistent with the published data.",
+            "B": "70% is too low; the actual result was 87% acceptable outcomes.",
+            "D": "99% would suggest near-perfect conservative outcomes — the 13% persistent dysfunction rate makes this incorrect."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — Lindqvist 1992 study: landmark long-term evidence for conservative management outcomes",
+          "trial": "Lindqvist C et al. Condylar fractures: a prospective 25-year study. Br J Oral Maxillofac Surg (1992): 87% acceptable long-term functional outcomes; 13% persistent malocclusion/restricted opening after conservative management",
+          "pearl": "Lindqvist 1992: 25-year follow-up of conservative condylar fracture management: 87% good/acceptable outcomes, 13% persistent dysfunction. This 13% failure rate justifies selective ORIF for high-risk (displaced/dislocated) condylar fractures. Know this number."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

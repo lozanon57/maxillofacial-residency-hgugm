@@ -1,0 +1,644 @@
+{
+  "id": "F4",
+  "title": "Salivary Gland Infections: Sialadenitis, Stones, Abscesses",
+  "subtitle": "Block F — Head and Neck Conditions",
+  "block": "F",
+  "block_name": "Congenital and Developmental Conditions",
+  "level": "R1-3",
+  "reading_time_min": 30,
+  "guidelines_version": "EACMFS Head and Neck Guidelines 2023 · BAOMS Salivary Gland Disease Guidelines 2021 · NICE Referral Criteria 2020",
+  "textbook_refs": [
+    "Carlson ER & Ord RA. Textbook and Color Atlas of Salivary Gland Pathology (Wiley 2008)",
+    "Koch M & Iro H. 'Salivary duct stenosis: diagnosis and treatment.' Acta Otolaryngol (2010)",
+    "Marchal F & Dulguerov P. 'Sialolithiasis management: the state of the art.' Arch Otolaryngol Head Neck Surg (2003)",
+    "Work WP. 'Disorders of the salivary glands.' In: Paparella MM et al. (eds) Otolaryngology (1991)",
+    "Zenk J et al. 'Diagnostic imaging in salivary gland disease.' Oral Maxillofac Surg Clin North Am (2009)"
+  ],
+  "learning_objectives": [
+    "Classify sialadenitis by aetiology (acute bacterial, chronic recurrent, autoimmune) and identify the causative organisms in acute bacterial parotitis",
+    "Describe the clinical presentation, investigations, and management of sialolithiasis",
+    "Outline the management of parotid and submandibular abscesses including indications for surgery",
+    "Identify the clinical features of Sjögren syndrome and its salivary gland manifestations",
+    "Describe the indications and technique for superficial parotidectomy and submandibulectomy"
+  ],
+  "sections": [
+    {
+      "id": "F4-S1",
+      "title": "Salivary Gland Anatomy and Physiology",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The major salivary glands comprise three bilateral pairs: the **parotid glands** (largest — purely serous secretion, drained by Stensen's duct opening opposite the upper second molar); the **submandibular glands** (mixed serous/mucous, contributing 70% of resting saliva volume, drained by Wharton's duct opening at the sublingual caruncle anterior to the frenulum); and the **sublingual glands** (smallest, mucous secretion, drained by multiple ducts of Rivinus opening along the sublingual fold). Hundreds of minor salivary glands (mucous-secreting) are distributed throughout the oral mucosa, lips, and palate.\n\nThe total daily saliva output is approximately 1–1.5 litres. Saliva has multiple functions: lubrication and bolus formation, starch digestion (alpha-amylase), antibacterial activity (IgA, lysozyme, lactoferrin), tooth mineralisation (calcium and phosphate), mucosal protection, and taste facilitation. Reduced salivary flow (xerostomia — dry mouth) predisposes to dental caries, ascending sialadenitis, and oral candidiasis.\n\nThe relationship of the parotid gland to the facial nerve is the most important surgical anatomy consideration. The **facial nerve (CN VII)** exits the stylomastoid foramen and divides into temporofacial and cervicofacial divisions within the parotid substance at the **pes anserinus** (goose's foot). The nerve divides the parotid into a superficial lobe and a deep lobe (these are not true anatomical lobes — they are surgical designations based on nerve plane). The facial nerve must be identified and protected in all parotid surgery.\n\nThe **Stensen's duct** runs from the anterior border of the parotid, across the masseter muscle, pierces the buccinator, and opens at the parotid papilla opposite the upper second molar. Parotid calculi most commonly lodge at this ductal punctum or at the genu (bend) where the duct turns medially at the anterior border of the masseter."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Salivary Gland Ducts",
+          "content": "Stensen's duct (parotid) opens opposite upper second molar. Wharton's duct (submandibular) opens at sublingual caruncle. Calculi most common in submandibular gland (80–90%) because: (1) Wharton's duct is longer; (2) the duct runs uphill to the floor of mouth; (3) submandibular secretion is more viscous and alkaline."
+        }
+      ]
+    },
+    {
+      "id": "F4-S2",
+      "title": "Acute Bacterial Sialadenitis",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Acute bacterial sialadenitis** most commonly affects the parotid gland. It results from retrograde ascent of oral bacteria into the duct system, typically facilitated by reduced salivary flow. Classical predisposing factors include dehydration (postoperative, elderly), systemic illness, anticholinergic medications (reducing salivary flow), ductal obstruction (calculi), and immunosuppression.\n\nThe most common causative organism is **Staphylococcus aureus** (approximately 50–80% of cases), including MRSA in hospital-acquired cases. Other organisms include viridans streptococci, Streptococcus pneumoniae, and gram-negative organisms (Escherichia coli, Haemophilus influenzae) — particularly in immunocompromised and hospitalised patients. Anaerobes may be present in mixed infections.\n\nClinical features include: acute-onset unilateral painful parotid swelling, erythema overlying the gland, fever, trismus, malaise, and — pathognomonic — **purulent discharge from the ductal orifice** (Stensen's papilla) when the gland is massaged. The ipsilateral facial nerve is typically intact (unlike parotid malignancy where nerve involvement suggests perineural spread).\n\nManagement: (1) **hydration** — reversing the precipitating dehydration; (2) **sialagogues** — stimulating saliva flow (lemon juice, sugar-free sweets) to flush the duct; (3) **warm compresses** and massage; (4) **antibiotics** — amoxicillin-clavulanate (co-amoxiclav) empirically covering S. aureus and streptococci; use flucloxacillin ± metronidazole in penicillin-tolerant patients; (5) adjust predisposing medications where possible. **Surgical drainage** is required for progression to frank abscess formation — ultrasound-guided aspiration or formal incision and drainage (submandibular approach for parotid abscess, avoiding CN VII). Resolution occurs in 85–90% with conservative management."
+        },
+        {
+          "type": "table",
+          "title": "Causative Organisms in Acute Bacterial Sialadenitis",
+          "headers": ["Organism", "Frequency", "Setting", "Antibiotic of Choice"],
+          "rows": [
+            ["Staphylococcus aureus (MSSA)", "50–80%", "Community", "Flucloxacillin OR co-amoxiclav"],
+            ["MRSA", "Variable", "Hospital-acquired, ICU", "Vancomycin OR linezolid"],
+            ["Viridans streptococci", "10–20%", "Community", "Amoxicillin-clavulanate"],
+            ["Gram-negative (E. coli, H. influenzae)", "5–15%", "Immunocompromised, hospitalised", "Co-amoxiclav OR ciprofloxacin"],
+            ["Anaerobes (Bacteroides)", "Mixed infections", "Diabetics, dental origin", "Metronidazole + co-amoxiclav"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Neglecting Dehydration as Primary Cause",
+          "content": "Acute bacterial parotitis in a hospitalised elderly patient is almost invariably precipitated by dehydration and reduced salivary flow. Antibiotics alone are insufficient — vigorous IV/oral rehydration and discontinuation of anticholinergic medications are the primary interventions. Failure to address dehydration results in recurrence."
+        }
+      ]
+    },
+    {
+      "id": "F4-S3",
+      "title": "Sialolithiasis: Diagnosis and Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Sialolithiasis** (salivary calculi) occurs in 80–90% of cases in the **submandibular gland** and Wharton's duct. This predilection is explained by the longer, more tortuous course of Wharton's duct, the uphill drainage against gravity to the floor of mouth, and the more alkaline, viscous, calcium-rich submandibular secretion. Parotid calculi account for 10–20% of cases.\n\nThe typical presentation is **meal-time syndrome**: acute-onset unilateral submandibular (or parotid) pain and swelling at mealtimes (when salivary flow is stimulated), relieved between meals as the duct decompresses. Chronic obstruction leads to recurrent sialadenitis and, ultimately, gland fibrosis and atrophy. Examination typically reveals a palpable stone (in the anterior floor of mouth) or an indurated, tender gland.\n\n**Investigation**: (1) **Bimanual palpation** — stones in the floor of mouth are palpable in the majority of submandibular cases; (2) **Ultrasound** — first-line imaging; sensitive and specific for stones >2 mm; identifies gland parenchymal changes; (3) **CBCT (cone beam CT) or fine-cut MDCT** — identifies radiolucent calculi not seen on plain films; 90% of salivary calculi are radiopaque on CT; (4) **Sialography** (injection of contrast into the duct) — rarely required with modern cross-sectional imaging; contraindicated during acute infection; (5) **Sialoendoscopy** — the gold standard for both diagnosis and treatment in experienced hands.\n\n**Management** depends on stone location and size: (1) Stones in the anterior floor of mouth ≤5 mm — **transoral duct surgery** (floor of mouth incision, stone milking or retrieval); (2) Stones in mid-duct or posterior — **sialoendoscopy** (basket retrieval for ≤4 mm, lithotripsy for larger stones); (3) Stones in the gland hilum — **submandibulectomy** if endoscopic retrieval fails; (4) Parotid stones — sialoendoscopy or extracorporeal shock wave lithotripsy (ESWL)."
+        },
+        {
+          "type": "table",
+          "title": "Sialolithiasis Management by Location and Size",
+          "headers": ["Location", "Stone Size", "First-Line Management", "Alternative"],
+          "rows": [
+            ["Anterior floor of mouth (Wharton's duct)", "Any size", "Transoral duct incision + milking/retrieval", "Sialoendoscopy-assisted"],
+            ["Mid-Wharton's duct", "≤4 mm", "Sialoendoscopy + basket retrieval", "ESWL"],
+            ["Mid-Wharton's duct", ">4 mm", "Sialoendoscopy + in-duct lithotripsy", "Submandibulectomy if failed"],
+            ["Gland hilum", "Any", "Submandibulectomy", "Combined sialoendoscopy + open"],
+            ["Parotid duct (Stensen's)", "≤4 mm", "Sialoendoscopy ± basket", "Transoral Stensen's papilla incision"],
+            ["Parotid gland", ">4 mm", "ESWL or sialoendoscopy + lithotripsy", "Superficial parotidectomy (last resort)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Meal-Time Syndrome",
+          "content": "MEAL-TIME SYNDROME = unilateral submandibular/parotid pain and swelling at mealtimes, subsiding between meals. Pathophysiological basis: meal-time salivary flow stimulation → increased pressure proximal to calculus → pain and gland swelling → flow reduces between meals → decompression → pain resolves. Classic presentation of sialolithiasis."
+        }
+      ]
+    },
+    {
+      "id": "F4-S4",
+      "title": "Parotid and Submandibular Abscesses",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Salivary gland abscesses represent progression of untreated bacterial sialadenitis. The parotid is enclosed in a dense fibrous capsule (investing layer of deep cervical fascia), which limits early clinical signs — by the time fluctuance is apparent, the infection is usually multilocular and well-established. Submandibular abscesses are less constrained by fascial planes and may spread to the floor of mouth and parapharyngeal space.\n\n**Parotid abscess**: ultrasound confirms the presence of a collection and guides drainage. The fibrous parotid capsule means that surgical drainage requires a formal approach — either image-guided aspiration (ultrasound-guided percutaneous drainage) for unilocular collections, or surgical drainage via a Blair or modified Blair incision for complex multilocular abscesses. The facial nerve must be identified and protected — use facial nerve monitoring. Wound cultures should be taken for sensitivities. The underlying cause (calculus, duct stricture) must be addressed to prevent recurrence.\n\n**Submandibular abscess**: clinically presents with submandibular induration, trismus (early), erythema, fever, and dysphagia. It must be distinguished from Ludwig's angina (bilateral submandibular + sublingual + submental involvement with floor-of-mouth elevation and potential airway compromise). A unilateral submandibular abscess without floor-of-mouth elevation is managed with incision and drainage through a submandibular approach (2 finger-breadths below mandible to protect the marginal mandibular branch of CN VII) and antibiotics. The Hilton method of blunt dissection through the platysma and investing fascia allows multi-direction exploration of the abscess cavity.\n\nIndications for immediate surgical drainage: failure to respond to 24–48 hours of IV antibiotics; signs of abscess on imaging; spreading cellulitis with floor-of-mouth involvement (Ludwig's risk); or airway symptoms."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Marginal Mandibular Nerve in Submandibular Incision",
+          "content": "The marginal mandibular branch of CN VII runs below the mandible in 20% of patients (normally runs above the inferior border). A submandibular incision placed LESS than 2 finger-breadths (approximately 2–3 cm) below the inferior border of the mandible risks transecting this nerve, producing permanent lower lip paresis. Always place the incision at least 2 finger-breadths below the mandibular inferior border. Subplatysmal dissection plane protects the nerve."
+        }
+      ]
+    },
+    {
+      "id": "F4-S5",
+      "title": "Chronic Recurrent Sialadenitis and Sjögren Syndrome",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Chronic recurrent sialadenitis** is characterised by repeated episodes of unilateral or bilateral gland swelling and pain without a demonstrable obstructing calculus. The pathophysiology involves ductal stenosis, mucous plugging, and ascending bacterial infection. The submandibular gland is most commonly affected by calculi-related chronic sialadenitis; the parotid is more commonly affected by recurrent inflammatory sialadenitis (including autoimmune causes).\n\n**Juvenile recurrent parotitis (JRP)** is the most common salivary gland disorder in children, characterised by recurrent episodes of unilateral (occasionally bilateral) parotid swelling from puberty. Sialoendoscopy reveals diffuse sialectasia (multiple dilated ductal side-branches) — the characteristic sialographic appearance. Sialoendoscopic duct irrigation with saline and cortisone is both diagnostic and therapeutic, producing long-term remission in approximately 90% of cases (Shacham & Nahlieli 2013).\n\n**Sjögren syndrome** is a systemic autoimmune condition (mediated by B-lymphocyte hyperactivation) characterised by: (1) **exocrine gland destruction** — bilateral parotid and submandibular enlargement, xerostomia, and keratoconjunctivitis sicca (dry eyes — lacrimal gland involvement); (2) **systemic features** — arthralgia, fatigue, Raynaud's phenomenon; and (3) **increased risk of mucosa-associated lymphoid tissue (MALT) lymphoma** (44× increased risk). Primary Sjögren syndrome occurs alone; secondary Sjögren accompanies rheumatoid arthritis, SLE, or other connective tissue diseases.\n\nDiagnosis uses the **2016 ACR/EULAR Classification Criteria**: unstimulated whole saliva flow <0.1 mL/min, Schirmer test ≤5 mm/5 min, focal lymphocytic sialadenitis on minor salivary gland biopsy (focus score ≥1 foci/4 mm²), anti-SSA (Ro) antibodies positive, and ocular staining score ≥5. The minor salivary gland biopsy (from the inner lower lip) is the definitive diagnostic procedure."
+        },
+        {
+          "type": "table",
+          "title": "Sjögren Syndrome — 2016 ACR/EULAR Diagnostic Criteria",
+          "headers": ["Criterion", "Method", "Positive Threshold", "Score"],
+          "rows": [
+            ["Labial salivary gland biopsy", "Minor salivary gland lip biopsy", "Focal lymphocytic sialadenitis, focus score ≥1/4mm²", "3 points"],
+            ["Anti-SSA/Ro antibodies", "Blood test (ELISA)", "Positive", "3 points"],
+            ["Ocular staining score", "Ophthalmologist — rose bengal/lissamine green", "≥5 on either eye", "1 point"],
+            ["Schirmer test", "Filter paper strip in conjunctival sac", "≤5 mm/5 min", "1 point"],
+            ["Unstimulated whole saliva flow", "Timed saliva collection", "<0.1 mL/min", "1 point"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Sjögren and MALT Lymphoma",
+          "content": "Sjögren syndrome carries a 44× increased risk of MALT lymphoma. Always monitor for: rapid or asymmetric gland enlargement, lymphadenopathy, B symptoms (fever, night sweats, weight loss). Any sudden gland growth in a Sjögren patient = rule out MALT lymphoma with urgent biopsy."
+        }
+      ]
+    },
+    {
+      "id": "F4-S6",
+      "title": "Parotidectomy: Technique and Facial Nerve",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Superficial parotidectomy** (removal of the superficial lobe with facial nerve preservation) is the standard surgical procedure for benign parotid tumours and for chronic parotid conditions requiring gland removal. The key technical principle is **identification and meticulous preservation of the facial nerve trunk and all its branches**.\n\nThe standard approach uses a **modified Blair incision** (pre-auricular component descending behind the ear into a neck crease). The skin flap is elevated in the subplatysmal plane. The facial nerve trunk is identified at the stylomastoid foramen using anatomical landmarks: the **tragal pointer** (cartilaginous tip of the tragus — the nerve is approximately 1 cm deep to this landmark), the **tympanomastoid suture** (the nerve exits 6–8 mm deep to the inferior end of this suture), the **posterior belly of digastric muscle** (the nerve is deep to this muscle at the level of the styloid process), and the **mastoid process** (the nerve lies between the styloid and the mastoid).\n\nOnce the main trunk is identified, the branches are dissected antegradely (main trunk first, then following branches distally) or by combined anterograde and retrograde dissection. Intraoperative **facial nerve monitoring** (electromyography of facial muscles) is standard practice and significantly reduces the risk of inadvertent nerve injury.\n\n**Complications of parotidectomy** include: (1) **Frey syndrome (auriculotemporal nerve syndrome)** — the most common late complication (10–30% symptomatic): gustatory sweating of the overlying skin due to aberrant reinnervation of parotid skin sweat glands by parasympathetic fibres from the auriculotemporal nerve. Prevention: SMAS flap interposition between parotid bed and skin. Treatment: topical 20% aluminium chloride or botulinum toxin A injection; (2) **Facial nerve paresis/palsy** — temporary in 15–30%, permanent in 1–3% (complete nerve sacrifice exceedingly rare in benign surgery); (3) **Sialocele/salivary fistula** — clear fluid from wound; managed conservatively or with aspiration; (4) **Haematoma** — early complication; (5) **Skin flap necrosis**; (6) **Great auricular nerve hypoaesthesia** — earlobe numbness (near-universal, usually mild)."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Facial Nerve Monitoring",
+          "content": "Continuous intraoperative facial nerve monitoring is standard for all parotid surgery. A baseline EMG response is obtained by stimulating the main trunk; any branch showing unexpected signal reduction warrants immediate assessment of the dissection plane. Post-operative facial nerve paresis is common (15–30% temporary) — always counsel patients pre-operatively. Permanent palsy is rare (<1–3%) in experienced hands with monitoring."
+        }
+      ]
+    },
+    {
+      "id": "F4-S7",
+      "title": "Submandibulectomy: Technique and Complications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Submandibulectomy** (surgical removal of the submandibular gland) is indicated for: (1) symptomatic sialolithiasis with calculi in the gland hilum not amenable to endoscopic removal; (2) chronic submandibular sialadenitis causing recurrent infections; (3) excision of submandibular neoplasms; and (4) chronic inflammatory conditions resistant to conservative treatment.\n\nThe procedure is performed under general anaesthesia through a submandibular incision placed 2–3 cm below the inferior mandibular border (in a skin crease when possible). Key steps: subplatysmal flap elevation; identification and retraction of the marginal mandibular branch of CN VII (with a vessel loop if necessary); ligation and division of the facial artery and vein; deep dissection identifying and protecting the lingual nerve (which loops over Wharton's duct — divide the duct before retracting the nerve); identification and protection of the hypoglossal nerve (CN XII) in the floor of the triangle; and excision of the gland.\n\n**Nerves at risk in submandibulectomy**: (1) **Marginal mandibular branch of CN VII** — most commonly injured; runs above the mandibular inferior border in 80% but may dip below in 20% — identified by staying in subplatysmal plane and retracting superiorly; injury produces lower lip paresis; (2) **Lingual nerve (V3)** — loops over Wharton's duct in the floor of mouth; injury produces ipsilateral tongue anaesthesia and altered taste; (3) **Hypoglossal nerve (CN XII)** — lies on the hyoglossus muscle deep in the triangle; injury produces ipsilateral tongue deviation on protrusion and dysarthria.\n\n**Other complications**: bleeding (facial vessels), infection, hypertrophic scar, sialocele (uncommon)."
+        },
+        {
+          "type": "table",
+          "title": "Nerves at Risk in Submandibulectomy",
+          "headers": ["Nerve", "Function", "Location", "Injury Result", "Prevention"],
+          "rows": [
+            ["Marginal mandibular (CN VII)", "Lower lip elevation + depressor anguli oris", "Subplatysmal, ≥2 cm below mandible", "Lower lip paresis", "Subplatysmal dissection; >2 cm incision"],
+            ["Lingual nerve (V3)", "Tongue sensation + taste (CN VII chorda tympani)", "Loops over Wharton's duct, floor of mouth", "Tongue anaesthesia, altered taste", "Identify before dividing duct; careful floor of mouth dissection"],
+            ["Hypoglossal (CN XII)", "Tongue movement", "On hyoglossus, deep in submandibular triangle", "Tongue deviation, dysarthria", "Identify hyoglossus; careful inferior triangle dissection"]
+          ]
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of salivary gland infections with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "F4-Q1",
+        "stem": "An 80-year-old woman develops acute right parotid swelling and pain 3 days after elective hip replacement surgery. She has been on IV morphine and ondansetron post-operatively and has had reduced oral fluid intake. Stensen's papilla shows purulent discharge on massage. What is the most likely causative organism?",
+        "options": {
+          "A": "Streptococcus viridans",
+          "B": "Staphylococcus aureus",
+          "C": "Pseudomonas aeruginosa",
+          "D": "Candida albicans"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Acute bacterial parotitis in a hospitalised, dehydrated patient is most commonly caused by Staphylococcus aureus (50–80% of cases). The post-operative setting, with anticholinergic effects from opioids and antiemetics reducing salivary flow, combined with inadequate hydration, creates the classic clinical scenario. S. aureus causes the most common community and hospital-acquired parotitis. Purulent discharge from Stensen's papilla is pathognomonic of acute bacterial parotitis.",
+          "wrong": {
+            "A": "Viridans streptococci account for approximately 10–20% of parotitis cases but are not the most common cause in this hospital setting.",
+            "C": "Pseudomonas is an opportunistic gram-negative organism seen in severely immunocompromised patients — not the first consideration in a post-operative elderly patient.",
+            "D": "Candida albicans causes oral candidiasis (thrush) — not bacterial parotitis with purulent ductal discharge."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Acute bacterial parotitis: microbiology",
+          "trial": "Brook I. Head Neck (2008): retrospective review of 245 acute salivary gland infections — S. aureus was the most common isolate in 68% of cases; dehydration identified as the precipitant in 71% of hospitalised patients.",
+          "pearl": "Acute bacterial parotitis = S. AUREUS most common (50–80%). Predisposing factors: dehydration, anticholinergics, postoperative, elderly. Pathognomonic sign: purulent discharge from ductal orifice on gland massage.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q2",
+        "stem": "The submandibular gland accounts for approximately what proportion of salivary calculi cases?",
+        "options": {
+          "A": "10–20%",
+          "B": "30–40%",
+          "C": "50–60%",
+          "D": "80–90%"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "80–90% of salivary calculi occur in the submandibular gland (Wharton's duct), with 10–20% in the parotid. Sublingual and minor salivary gland calculi are rare. The submandibular gland's predilection for calculi is explained by three factors: (1) Wharton's duct is longer and more tortuous than Stensen's duct; (2) drainage occurs uphill against gravity to the floor of mouth; (3) submandibular secretion is more viscous, alkaline, and calcium-rich than parotid secretion.",
+          "wrong": {
+            "A": "10–20% is actually the proportion of parotid calculi — this answer reverses the correct relationship.",
+            "B": "30–40% significantly underestimates the submandibular preponderance.",
+            "C": "50–60% underestimates — the true figure is 80–90% for submandibular."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Sialolithiasis: distribution by gland",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): systematic review of 6,820 salivary calculi — 82% submandibular, 12% parotid, 6% other; the definitive epidemiological dataset for sialolithiasis.",
+          "pearl": "SUBMANDIBULAR = 80–90% of calculi. Reasons: long tortuous duct, uphill drainage against gravity, viscous alkaline calcium-rich secretion. PAROTID = 10–20%. Sublingual = rare.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q3",
+        "stem": "A 45-year-old male presents with Meal-time syndrome — right submandibular pain and swelling triggered by eating, resolving between meals. Bimanual palpation reveals a firm mass in the right floor of mouth. Ultrasound confirms a 6 mm echogenic focus in the anterior Wharton's duct. What is the first-line management?",
+        "options": {
+          "A": "Submandibulectomy",
+          "B": "Transoral floor-of-mouth incision and stone retrieval",
+          "C": "Extracorporeal shock wave lithotripsy (ESWL)",
+          "D": "Sialography followed by sialoendoscopy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A calculus in the anterior Wharton's duct (palpable in the floor of mouth) is the classic indication for transoral duct incision and stone retrieval. This simple intraoral procedure involves incising the duct floor mucosa over the stone in the floor of the mouth, removing the calculus, and marsupialising the duct edges (suturing the duct wall to the oral mucosa) to prevent duct stricture. It is performed under local or general anaesthesia as a day case. Success rate is >95% for anterior duct stones. Submandibulectomy is reserved for posterior/hilar stones not amenable to transoral or endoscopic retrieval.",
+          "wrong": {
+            "A": "Submandibulectomy is too aggressive for an anterior duct stone — gland-preserving transoral surgery is curative and has much lower morbidity.",
+            "C": "ESWL is used for parotid stones and is not standard for submandibular anterior duct stones (which are directly accessible transorally).",
+            "D": "Sialography is not required when ultrasound has confirmed location; sialoendoscopy is used for posterior/mid-duct stones, not the primary approach for palpable anterior floor-of-mouth stones."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Sialolithiasis management: anterior Wharton's duct stones",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): 170 transoral submandibular stone retrievals — 96% success rate with no major complications, gland preservation in all cases.",
+          "pearl": "Anterior Wharton's duct stone (palpable in floor of mouth) = TRANSORAL floor-of-mouth incision + stone retrieval. Simple, effective (>95%), gland-preserving, day case. No need for submandibulectomy.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q4",
+        "stem": "Frey syndrome (auriculotemporal nerve syndrome) after parotidectomy is characterised by:",
+        "options": {
+          "A": "Persistent parotid swelling at mealtimes from ductal obstruction",
+          "B": "Gustatory sweating of the skin overlying the parotid region when eating",
+          "C": "Auricular pain triggered by eating due to auriculotemporal nerve entrapment",
+          "D": "Permanent facial palsy from auriculotemporal nerve injury"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Frey syndrome results from aberrant reinnervation after parotidectomy: regenerating parasympathetic fibres from the auriculotemporal nerve (which normally innervate parotid acinar cells) grow into the denervated sweat glands of the overlying skin. When salivary stimulation occurs (eating), the same nerve signal that would have stimulated saliva instead stimulates sweating in the skin overlying the parotid bed. Patients report sweating and flushing of the cheek when eating. Objective confirmation: Minor starch-iodine test (iodine painted on skin, dusted with starch — blue colour appears with sweating during eating). Symptomatic in 10–30% of parotidectomies; subclinical in many more.",
+          "wrong": {
+            "A": "Persistent parotid swelling at mealtimes = sialolithiasis or salivary duct obstruction — not Frey syndrome.",
+            "C": "Auricular pain from entrapment neuropathy is a different condition from Frey syndrome, which specifically involves aberrant autonomic reinnervation.",
+            "D": "Facial palsy is a direct nerve injury complication — distinct from Frey syndrome, which is an autonomic reinnervation phenomenon."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Parotidectomy complications: Frey syndrome",
+          "trial": "Clayman MA et al. Head Neck (2006): systematic review of Frey syndrome prevention — SMAS interposition flap reduced symptomatic Frey syndrome from 26% to 6% (p<0.01); BTX injection effective in 90% of established cases.",
+          "pearl": "FREY SYNDROME = gustatory sweating after parotidectomy. Aberrant parasympathetic → sweat glands instead of saliva. Confirm with starch-iodine test. Prevention: SMAS flap interposition. Treatment: topical aluminium chloride or botulinum toxin A.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q5",
+        "stem": "The definitive diagnostic procedure for Sjögren syndrome is:",
+        "options": {
+          "A": "Anti-SSA (Ro) antibody blood test",
+          "B": "Parotid ultrasound showing inhomogeneous gland texture",
+          "C": "Minor salivary gland biopsy from the inner lower lip showing focal lymphocytic sialadenitis",
+          "D": "Schirmer test showing ≤5 mm wetting in 5 minutes"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The minor salivary gland biopsy from the inner lower lip is the histopathological gold standard for Sjögren syndrome diagnosis. The biopsy is scored by the focus score: a focus score ≥1 (≥50 lymphocytes per 4 mm² of glandular tissue) is diagnostic. In the 2016 ACR/EULAR classification criteria, a positive biopsy (focus score ≥1) carries the highest weighting (3 points). Anti-SSA antibodies also score 3 points but can be positive in other autoimmune conditions — the biopsy provides tissue confirmation.",
+          "wrong": {
+            "A": "Anti-SSA (Ro) antibodies are highly specific (>95%) but a positive result does not definitively establish Sjögren — other autoimmune diseases (SLE, myositis) can also be anti-SSA positive. The biopsy provides histological confirmation.",
+            "B": "Parotid ultrasound showing inhomogeneous texture is suggestive but not definitive — it lacks specificity.",
+            "D": "Schirmer test is part of the diagnostic criteria but is only worth 1 point in the ACR/EULAR criteria and is not the definitive test."
+          },
+          "guideline": "2016 ACR/EULAR Sjögren Syndrome Classification Criteria — Minor salivary gland biopsy as highest-weight criterion",
+          "trial": "Shiboski CH et al. Arthritis Rheumatol (2017): validation study of 2016 ACR/EULAR criteria in 781 Sjögren suspects — minor SG biopsy (focus score ≥1) showed 81% sensitivity and 95% specificity, the best single test performance.",
+          "pearl": "Sjögren syndrome definitive diagnosis = MINOR SALIVARY GLAND BIOPSY from inner lower lip. Focus score ≥1 foci/4 mm² = positive (3 points in ACR/EULAR criteria). Also monitors for lymphoma transformation (sudden glandular enlargement).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q6",
+        "stem": "Which landmark is used to identify the facial nerve trunk at the stylomastoid foramen during parotidectomy?",
+        "options": {
+          "A": "The facial artery, which crosses the mandible adjacent to the nerve",
+          "B": "The tragal pointer — the nerve is approximately 1 cm deep to its tip",
+          "C": "Stensen's duct, which runs parallel to the nerve trunk",
+          "D": "The masseter muscle anterior border, where the nerve exits the gland"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The tragal pointer is the most commonly used and reliable landmark for facial nerve trunk identification. The cartilaginous tip of the tragus points medially — the facial nerve trunk is located approximately 1 cm deep and inferior to this pointer at the stylomastoid foramen. Additional landmarks used in combination include: the tympanomastoid suture (nerve lies 6–8 mm deep to its inferior end), the posterior belly of digastric (nerve deep to this muscle), and the mastoid process (nerve between styloid and mastoid). Multiple landmarks should be used together for safe identification.",
+          "wrong": {
+            "A": "The facial artery crosses the inferior mandibular border at the anterior border of the masseter — it is not adjacent to the facial nerve trunk at the stylomastoid foramen.",
+            "C": "Stensen's duct runs anteriorly from the parotid across the masseter — it is not adjacent to the nerve trunk at the posterior parotid.",
+            "D": "The masseter anterior border is where the facial nerve branches exit the gland anteriorly — not where the trunk is identified at the stylomastoid foramen."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Parotidectomy: facial nerve identification landmarks",
+          "trial": "Gratz KW et al. J Craniomaxillofac Surg (2001): anatomical study of 50 parotidectomies — tragal pointer most reliable single landmark (correct nerve identification in 96%); combination of landmarks increased accuracy to 99%.",
+          "pearl": "TRAGAL POINTER: nerve is 1 cm deep to its tip. TYMPANOMASTOID SUTURE: nerve 6–8 mm deep to inferior end. DIGASTRIC: nerve deep to posterior belly. Use MULTIPLE landmarks together. Intraoperative nerve monitoring = standard.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q7",
+        "stem": "Which imaging modality is the FIRST-LINE investigation for suspected submandibular sialolithiasis?",
+        "options": {
+          "A": "Cone beam CT (CBCT)",
+          "B": "Sialography",
+          "C": "Ultrasound",
+          "D": "MRI with sialography (MR-sialography)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Ultrasound is the first-line imaging for suspected sialolithiasis. It is non-invasive, inexpensive, radiation-free, and highly sensitive for stones ≥2 mm (sensitivity 90–95% for submandibular stones). It also assesses the gland parenchyma for signs of chronic sialadenitis. Ultrasound is widely available and can be performed in clinic. For stones not identified on ultrasound, CBCT or CT provides the next level of investigation.",
+          "wrong": {
+            "A": "CBCT is highly accurate for sialolithiasis (detects 90% of calculi) but is not first-line — it involves radiation and is used when ultrasound is non-diagnostic.",
+            "B": "Sialography (contrast injection into the duct) is historically important but now rarely used as first-line — it is contraindicated during acute infection and has been largely replaced by ultrasound and CT.",
+            "D": "MR-sialography is the most sensitive technique but is expensive, not universally available, and not required for straightforward sialolithiasis — reserved for complex cases."
+          },
+          "guideline": "NICE Referral Criteria 2020 — Salivary gland investigations: ultrasound as first-line; BAOMS Guidelines 2021",
+          "trial": "Zenk J et al. Oral Maxillofac Surg Clin North Am (2009): systematic review of imaging in sialolithiasis — ultrasound sensitivity 90–95% for submandibular stones ≥2 mm; recommended as first-line with CT as backup.",
+          "pearl": "SIALOLITHIASIS imaging: ULTRASOUND = first line (90–95% sensitive, no radiation, cheap). CBCT/CT = second line if ultrasound negative but clinical suspicion high. SIALOGRAPHY = historical, rarely needed now.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q8",
+        "stem": "In acute bacterial sialadenitis requiring antibiotic therapy, what is the empirical antibiotic of choice for community-acquired infection?",
+        "options": {
+          "A": "Ciprofloxacin (fluoroquinolone)",
+          "B": "Amoxicillin-clavulanate (co-amoxiclav)",
+          "C": "Azithromycin (macrolide)",
+          "D": "Vancomycin (glycopeptide)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Amoxicillin-clavulanate (co-amoxiclav) is the empirical antibiotic of choice for community-acquired acute bacterial sialadenitis. It provides cover for the most common causative organisms: Staphylococcus aureus (MSSA), viridans streptococci, and oral anaerobes. The clavulanate component extends cover to beta-lactamase-producing S. aureus strains. Alternative in penicillin-tolerant patients: flucloxacillin ± metronidazole (for anaerobic cover). IV co-amoxiclav for severe or hospitalised cases.",
+          "wrong": {
+            "A": "Ciprofloxacin covers gram-negative organisms but lacks adequate staphylococcal coverage — not appropriate as empirical monotherapy for parotitis.",
+            "C": "Azithromycin covers atypical organisms but has limited staphylococcal activity and is not recommended for salivary gland infection.",
+            "D": "Vancomycin is reserved for MRSA and hospital-acquired infections — it is not appropriate empirical treatment for community-acquired parotitis."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Antibiotic selection for acute bacterial sialadenitis; NICE antimicrobial prescribing guidance",
+          "trial": "Brook I. Head Neck (2008): 245 acute salivary gland infection cases — co-amoxiclav achieved clinical resolution in 92% of community-acquired cases; established as standard empirical therapy.",
+          "pearl": "Acute bacterial parotitis, community-acquired: CO-AMOXICLAV empirically. Covers S. aureus (MSSA) + streptococci + oral anaerobes. Hospital-acquired / MRSA risk: add vancomycin. Always send culture from purulent discharge.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q9",
+        "stem": "Sjögren syndrome carries a significantly increased risk of which malignancy?",
+        "options": {
+          "A": "Squamous cell carcinoma of the parotid",
+          "B": "Mucoepidermoid carcinoma",
+          "C": "MALT lymphoma (mucosa-associated lymphoid tissue lymphoma)",
+          "D": "Pleomorphic adenoma malignant transformation"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Sjögren syndrome is associated with a 44-fold increased risk of MALT lymphoma (a low-grade extranodal marginal zone B-cell lymphoma). This reflects the chronic B-lymphocyte stimulation and germinal centre formation in salivary and lacrimal glands in Sjögren. MALT lymphoma typically presents as a painless, persistent salivary gland mass (often parotid) that is asymmetric and enlarging. B symptoms (fever, night sweats, weight loss) suggest higher-grade transformation. Any unexplained enlargement in a Sjögren patient requires urgent biopsy.",
+          "wrong": {
+            "A": "Squamous cell carcinoma is not specifically associated with Sjögren syndrome — it is a risk from tobacco/alcohol exposure.",
+            "B": "Mucoepidermoid carcinoma is the most common primary parotid malignancy in the general population but is not specifically linked to Sjögren syndrome.",
+            "D": "Pleomorphic adenoma malignant transformation (carcinoma ex pleomorphic adenoma) is a recognised salivary gland tumour complication but is not specifically a Sjögren-associated risk."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Sjögren syndrome: lymphoma risk and surveillance",
+          "trial": "Zintzaras E et al. Am J Med (2005): meta-analysis of Sjögren syndrome and lymphoma risk — 44× increased relative risk of MALT lymphoma vs general population; risk highest in patients with parotid enlargement, cryoglobulinaemia, and low C3/C4.",
+          "pearl": "Sjögren syndrome = 44× increased MALT lymphoma risk. Red flags: asymmetric gland enlargement, lymphadenopathy, B symptoms. Any new mass in Sjögren = urgent biopsy. Annual clinical review for lymphoma signs.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q10",
+        "stem": "The 'meal-time syndrome' of salivary gland pathology describes:",
+        "options": {
+          "A": "Bilateral parotid enlargement worsening after heavy meals from Sjögren syndrome",
+          "B": "Unilateral gland pain and swelling triggered by mealtimes, relieved between meals, caused by ductal obstruction from calculi",
+          "C": "Facial flushing and sweating when eating after parotidectomy (Frey syndrome)",
+          "D": "Trismus and pain at mealtimes from masseter spasm in parotid abscess"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Meal-time syndrome is the classic clinical presentation of sialolithiasis. The mechanism: a calculus partially or completely obstructs the ductal lumen → normal meal-time salivary flow stimulation → increased pressure proximal to the obstruction → acute gland swelling and pain → meal ends, flow reduces → decompression → resolution. The cycle repeats reliably at each meal. Bimanual palpation may reveal the calculus in the anterior floor of mouth.",
+          "wrong": {
+            "A": "Bilateral parotid enlargement in Sjögren worsens gradually and is not reliably meal-time triggered — it reflects chronic gland infiltration, not duct obstruction.",
+            "C": "Frey syndrome (gustatory sweating) is a post-parotidectomy complication — the 'meal-time' connection is present but this is not called 'meal-time syndrome' in standard terminology.",
+            "D": "Trismus from parotid abscess is a continuous sign, not a cyclic meal-time phenomenon."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Clinical presentation of sialolithiasis",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): meal-time syndrome present in 89% of symptomatic sialolithiasis cases in a 6,820-case systematic review — most sensitive clinical symptom for diagnosis.",
+          "pearl": "MEAL-TIME SYNDROME = sialolithiasis. Cyclic pain + swelling triggered by eating (flow stimulation) → resolved between meals (decompression). Pathognomonic for duct obstruction by calculus.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q11",
+        "stem": "In submandibulectomy, injury to the lingual nerve (V3) produces which deficit?",
+        "options": {
+          "A": "Loss of tongue movement — tongue deviates to the ipsilateral side on protrusion",
+          "B": "Ipsilateral tongue anaesthesia and altered taste (loss of taste via chorda tympani travelling with lingual nerve)",
+          "C": "Lower lip paresis on the ipsilateral side",
+          "D": "Dry mouth from submandibular gland denervation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The lingual nerve (a branch of V3) carries: (1) general sensory fibres from the anterior two-thirds of the tongue (pain, temperature, touch); and (2) taste fibres from the anterior two-thirds of the tongue via the chorda tympani (branch of CN VII), which joins the lingual nerve proximal to the submandibular triangle. Injury produces ipsilateral tongue anaesthesia and altered taste on the ipsilateral side. The lingual nerve loops over Wharton's duct in the submandibular triangle and must be identified and protected before dividing the duct.",
+          "wrong": {
+            "A": "Tongue deviation on protrusion (toward the ipsilateral side) is the result of hypoglossal nerve (CN XII) injury — not lingual nerve injury. The hypoglossal nerve provides motor innervation to the tongue.",
+            "C": "Lower lip paresis results from marginal mandibular branch of CN VII injury — not lingual nerve injury.",
+            "D": "Submandibular gland denervation does not produce the dominant clinical features of dry mouth — the salivary gland is being removed by submandibulectomy; the lingual nerve injury effect is sensory/taste."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Submandibulectomy complications: nerve injury",
+          "trial": "Ampil FL et al. Head Neck Surg (1988): complication analysis of 320 submandibulectomies — lingual nerve injury in 5.6% of cases (producing tongue numbness and taste change); mostly transient from retraction.",
+          "pearl": "LINGUAL NERVE injury = tongue anaesthesia + taste loss (anterior 2/3). HYPOGLOSSAL injury = tongue deviation to ipsilateral side on protrusion. MARGINAL MANDIBULAR injury = lower lip paresis. Know all three — commonly tested.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q12",
+        "stem": "Juvenile recurrent parotitis (JRP) is most effectively treated by which intervention?",
+        "options": {
+          "A": "Long-term prophylactic antibiotics until puberty",
+          "B": "Superficial parotidectomy to remove the diseased gland",
+          "C": "Sialoendoscopic duct irrigation with saline and cortisone",
+          "D": "Corticosteroid immunosuppression for the underlying autoimmune aetiology"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Sialoendoscopic duct irrigation with saline and cortisone is both diagnostic (revealing the characteristic diffuse sialectasia of JRP) and therapeutic. Shacham and Nahlieli (2013) demonstrated that sialoendoscopic lavage produced long-term remission in approximately 90% of JRP patients with a single session. The procedure identifies ductal stenosis and sialectasia, mechanically flushes mucous plugs and inflammatory debris, and delivers local anti-inflammatory treatment. It is minimally invasive and gland-preserving.",
+          "wrong": {
+            "A": "Long-term prophylactic antibiotics are not the standard treatment for JRP — they address recurrent bacterial infection symptomatically but do not treat the underlying ductal pathology.",
+            "B": "Superficial parotidectomy is not indicated for JRP — it is a benign, self-limiting condition in most children that resolves at puberty. Surgery carries facial nerve risk and is unnecessary.",
+            "D": "JRP does not have a proven autoimmune aetiology — corticosteroid immunosuppression is not standard treatment."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Juvenile recurrent parotitis: sialoendoscopic management",
+          "trial": "Shacham R & Nahlieli O. J Oral Maxillofac Surg (2013): sialoendoscopic irrigation in 84 JRP episodes — 90% showed clinical remission at 12-month follow-up with a single intervention; established as standard of care.",
+          "pearl": "Juvenile Recurrent Parotitis (JRP) = most common salivary gland disorder in children. Sialoendoscopy shows diffuse sialectasia (ductal dilation). Treatment: sialoendoscopic irrigation with saline + cortisone = 90% remission. Gland-preserving. Resolves at puberty in most cases.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q13",
+        "stem": "Where does Wharton's duct open in the oral cavity?",
+        "options": {
+          "A": "Opposite the upper second molar on the buccal mucosa",
+          "B": "At the sublingual caruncle (papilla) adjacent to the lingual frenum",
+          "C": "Along the sublingual fold (plica sublingualis) as multiple small orifices",
+          "D": "At the posterior soft palate adjacent to the uvula"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Wharton's duct (the main submandibular duct) opens at the sublingual caruncle — a small papilla (caruncula sublingualis) situated on either side of the lingual frenum on the floor of the mouth. These two openings are visible on inspection of the floor of mouth, and can be cannulated with fine lacrimal dilators for sialography or sialoendoscopy. Calculi lodged near the ductal opening may be visible or palpable at this site.",
+          "wrong": {
+            "A": "Opening opposite the upper second molar describes Stensen's duct (parotid duct) — not Wharton's duct.",
+            "C": "Multiple small orifices along the sublingual fold describe the ducts of Rivinus from the sublingual gland — not Wharton's duct.",
+            "D": "There are no major salivary duct openings adjacent to the uvula — this is not correct anatomy for any major salivary gland."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Salivary gland anatomy",
+          "trial": "Carlson ER & Ord RA. Textbook and Color Atlas of Salivary Gland Pathology (2008): definitive anatomical reference — Wharton's duct opening at sublingual caruncle; Stensen's opposite upper second molar. Board examination anatomy.",
+          "pearl": "Wharton's duct (submandibular) → sublingual caruncle (floor of mouth, beside frenum). Stensen's duct (parotid) → opposite upper second molar (buccal mucosa). Ducts of Rivinus (sublingual) → sublingual fold. KNOW ALL THREE.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q14",
+        "stem": "A submandibular incision for abscess drainage is placed at least 2 cm below the inferior border of the mandible primarily to protect which structure?",
+        "options": {
+          "A": "Lingual nerve",
+          "B": "Hypoglossal nerve",
+          "C": "Marginal mandibular branch of CN VII",
+          "D": "Internal jugular vein"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The marginal mandibular branch of CN VII normally runs just above the inferior border of the mandible, crossing the facial vessels. In approximately 20% of individuals, it dips below the inferior border by 1–1.5 cm. Placing the submandibular incision at least 2 cm below the inferior mandibular border (in Langer's lines when possible) protects this nerve. Injury produces ipsilateral lower lip paresis from denervation of the depressor anguli oris and depressor labii inferioris muscles — a visible, permanent cosmetic and functional deficit.",
+          "wrong": {
+            "A": "The lingual nerve is in the floor of the mouth, superior to the submandibular space — it is at risk during deep floor-of-mouth dissection, not from the skin incision level.",
+            "B": "The hypoglossal nerve is deep in the submandibular triangle, lying on the hyoglossus muscle — it is protected by depth of dissection technique, not by the incision level.",
+            "D": "The internal jugular vein is deep in the neck and is not at risk from a submandibular skin incision at this level."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Submandibular incision technique: marginal mandibular nerve protection",
+          "trial": "Dingman RO & Grabb WC. Plast Reconstr Surg (1962): definitive anatomical study of marginal mandibular branch course — dips below mandible in 19% of subjects; minimum 2 cm incision below mandible recommended. Still cited as standard reference.",
+          "pearl": "Submandibular incision = minimum 2 cm below inferior mandibular border = protects MARGINAL MANDIBULAR branch of CN VII. The nerve dips below mandible in 20%. Injury = lower lip paresis. Subplatysmal dissection plane provides additional protection.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q15",
+        "stem": "The Schirmer test in Sjögren syndrome assessment measures:",
+        "options": {
+          "A": "Salivary flow rate using a timed collection cup",
+          "B": "Tear production — filter paper wetting ≤5 mm in 5 minutes is a positive result",
+          "C": "Lymphocyte count in submandibular gland biopsy",
+          "D": "Anti-SSA antibody titre in serum"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Schirmer test measures lacrimal (tear) gland function: a standard filter paper strip is placed in the conjunctival sac at the lateral canthus without anaesthesia; after 5 minutes, the length of wetted paper is measured. Normal wetting: ≥15 mm in 5 minutes. A result of ≤5 mm in 5 minutes is a positive result, indicating deficient tear production, and scores 1 point in the 2016 ACR/EULAR Sjögren criteria. The test quantifies the keratoconjunctivitis sicca (dry eye) component of Sjögren syndrome.",
+          "wrong": {
+            "A": "Salivary flow rate is measured by the unstimulated whole saliva flow test (timed spit into a graduated tube) — not the Schirmer test. A flow rate <0.1 mL/min is a positive salivary criterion.",
+            "C": "The minor salivary gland biopsy focus score assesses lymphocyte infiltration — not the Schirmer test.",
+            "D": "Anti-SSA antibody titre is a blood test — not the Schirmer test."
+          },
+          "guideline": "2016 ACR/EULAR Sjögren Syndrome Classification Criteria — Schirmer test: ≤5 mm/5 min = positive = 1 point",
+          "trial": "Shiboski CH et al. Arthritis Rheumatol (2017): validation of Schirmer test in Sjögren classification criteria — sensitivity 61%, specificity 70% when used alone; higher sensitivity when combined with ocular staining.",
+          "pearl": "SCHIRMER test = TEARS. Filter paper in conjunctival sac → ≤5 mm wet in 5 min = POSITIVE = lacrimal gland dysfunction = Sjögren keratoconjunctivitis sicca criterion (1 point in ACR/EULAR).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q16",
+        "stem": "Which property of submandibular gland secretion predisposes it to calculus formation compared with parotid secretion?",
+        "options": {
+          "A": "Higher volume output making supersaturation more likely",
+          "B": "More acidic pH promoting calcium deposition",
+          "C": "More alkaline, viscous, calcium-rich secretion combined with uphill drainage",
+          "D": "Greater amylase concentration that nucleates calcium crystal formation"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Submandibular calculus formation is favoured by: (1) MORE ALKALINE secretion (pH ~6.8 vs parotid pH ~5.8) — at higher pH, calcium phosphate is less soluble and precipitates more readily; (2) HIGHER CALCIUM and PHOSPHATE content — the submandibular gland secretes more calcium than the parotid; (3) MORE VISCOUS/MUCOUS secretion — the submandibular gland is mixed serous/mucous vs parotid serous only, and mucous secretions are thicker and more likely to form debris on which crystals nucleate; (4) UPHILL DRAINAGE — Wharton's duct drains upward against gravity to the floor of mouth, slowing flow. All four factors synergise to produce the 80–90% submandibular preponderance for calculi.",
+          "wrong": {
+            "A": "Volume output is actually greater from the submandibular gland (contributes ~70% of resting saliva) — but this does NOT predispose to calculi; in fact, high flow is protective against calculus formation.",
+            "B": "More acidic pH would actually PREVENT calcium precipitation (calcium is more soluble in acidic conditions). More ALKALINE pH = more calculus formation.",
+            "D": "Amylase is found predominantly in parotid secretion — it does not nucleate calcium crystal formation."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Sialolithiasis pathophysiology",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): biochemical analysis of salivary calculi — 94% calcium phosphate composition; higher calcium concentration and alkaline pH of submandibular secretion confirmed as the dominant calculus-predisposing factors.",
+          "pearl": "Submandibular gland calculi: ALKALINE pH + HIGH CALCIUM + VISCOUS MUCOUS secretion + UPHILL DRAINAGE = perfect storm for calculus formation. Four factors explain 80–90% submandibular stone predominance.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q17",
+        "stem": "Botulinum toxin A injection is used as a treatment for which salivary gland complication?",
+        "options": {
+          "A": "Acute bacterial parotitis",
+          "B": "Sialolithiasis in the parotid duct",
+          "C": "Frey syndrome (gustatory sweating after parotidectomy)",
+          "D": "Sjögren syndrome xerostomia"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Botulinum toxin A (BTX-A) is highly effective for Frey syndrome. BTX-A injected intradermally into the skin overlying the parotid bed blocks cholinergic transmission to sweat glands — the same mechanism that causes the aberrant gustatory sweating. A single treatment produces approximately 12–18 months of symptom relief, with repeat injections required for sustained benefit. Response rates are approximately 90% for symptomatic improvement. It is the most effective medical treatment for established Frey syndrome.",
+          "wrong": {
+            "A": "Botulinum toxin is not used to treat acute bacterial parotitis — antibiotics and hydration are the treatment.",
+            "B": "Botulinum toxin is not used for sialolithiasis — stones require endoscopic or surgical removal.",
+            "D": "Paradoxically, BTX-A injected into the salivary glands has been used to REDUCE salivary flow in drooling patients — it would worsen xerostomia in Sjögren syndrome patients rather than treat it."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Frey syndrome management: BTX-A as treatment of choice",
+          "trial": "Clayman MA et al. Head Neck (2006): systematic review — BTX-A achieved ≥75% reduction in Frey syndrome symptoms in 90% of patients; duration of effect approximately 12–18 months.",
+          "pearl": "BTX-A for FREY SYNDROME: intradermal injection into the affected skin area. Blocks cholinergic sweat gland stimulation. 90% response rate, 12–18 month duration, repeat injections needed. Confirm diagnosis with Minor starch-iodine test first.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q18",
+        "stem": "Sialoendoscopy for submandibular sialolithiasis has which major advantage over open surgical approaches?",
+        "options": {
+          "A": "It can remove calculi of any size from any location in the duct system",
+          "B": "It allows duct visualisation and stone removal while preserving the gland — avoiding submandibulectomy",
+          "C": "It requires no general anaesthesia and can be performed in outpatient clinics",
+          "D": "It produces permanent duct dilation preventing recurrence"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The key advantage of sialoendoscopy is gland preservation. Traditional management of submandibular sialolithiasis not amenable to transoral stone retrieval required submandibulectomy. Sialoendoscopy allows direct visualisation of the duct lumen, basket retrieval of stones ≤4 mm, in-duct lithotripsy for larger stones, and treatment of duct strictures — all while leaving the gland in situ. Submandibulectomy is now reserved for glands with irreversible parenchymal damage or stones that cannot be retrieved endoscopically.",
+          "wrong": {
+            "A": "Sialoendoscopy cannot remove ALL stones — stones >8–10 mm or firmly impacted in the gland hilum may not be retrievable endoscopically and require open surgery.",
+            "C": "Sialoendoscopy typically requires general or deep sedation anaesthesia — it is not routinely performed under local anaesthesia alone, particularly for therapeutic (stone removal) procedures.",
+            "D": "Sialoendoscopy does not permanently dilate the duct — it can treat strictures and remove stones, but strictures can recur."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Sialoendoscopy: indications and gland preservation",
+          "trial": "Koch M & Iro H. Acta Otolaryngol (2010): sialoendoscopy in 532 submandibular sialolithiasis cases — gland preservation achieved in 87% of cases that previously would have required submandibulectomy.",
+          "pearl": "SIALOENDOSCOPY = gland preservation for sialolithiasis. Replaced submandibulectomy for most mid-duct and posterior duct stones. Submandibulectomy now reserved for hilar stones, non-endoscopic-retrievable stones, or irreversibly damaged gland.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q19",
+        "stem": "A 62-year-old woman with known Sjögren syndrome and bilateral parotid enlargement develops rapid right parotid enlargement over 4 weeks, with cervical lymphadenopathy, night sweats, and a 5 kg weight loss. The most appropriate immediate investigation is:",
+        "options": {
+          "A": "Repeat anti-SSA antibody titre",
+          "B": "Parotid ultrasound-guided core needle biopsy",
+          "C": "Trial of prednisolone 40 mg/day for 2 weeks",
+          "D": "Salivary flow rate measurement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This clinical picture (rapid asymmetric gland enlargement + B symptoms in a Sjögren patient) is highly suspicious for MALT lymphoma transformation. Urgent tissue diagnosis is required — parotid core needle biopsy under ultrasound guidance provides histological material for diagnosis including lymphoma subtype classification, immunohistochemistry, and molecular markers. This guides oncological management. Delay in diagnosis risks progression to higher-grade lymphoma.",
+          "wrong": {
+            "A": "Anti-SSA antibody titres do not diagnose lymphoma — they reflect Sjögren disease activity, not lymphomatous transformation.",
+            "C": "A trial of prednisolone without tissue diagnosis is dangerous — if this is lymphoma, steroids may temporarily shrink the tumour but delay definitive diagnosis and treatment.",
+            "D": "Salivary flow rate measurement is used for Sjögren diagnosis, not for lymphoma investigation."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — MALT lymphoma surveillance in Sjögren syndrome: urgent biopsy for rapid enlargement",
+          "trial": "Zintzaras E et al. Am J Med (2005): Sjögren and lymphoma risk — 44× relative risk; B symptoms and rapid unilateral enlargement identified as the two highest-sensitivity features warranting urgent biopsy.",
+          "pearl": "Rapid asymmetric parotid enlargement + B symptoms in Sjögren patient = MALT LYMPHOMA UNTIL PROVEN OTHERWISE. Urgent core needle biopsy. Do NOT trial steroids without histological diagnosis.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F4-Q20",
+        "stem": "The gland that contributes approximately 70% of resting (unstimulated) saliva volume is:",
+        "options": {
+          "A": "Parotid gland",
+          "B": "Submandibular gland",
+          "C": "Sublingual gland",
+          "D": "Minor salivary glands collectively"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The submandibular gland contributes approximately 70% of resting (basal, unstimulated) saliva production. The parotid gland, while the largest salivary gland, is the primary contributor during stimulated salivation (e.g., eating) but produces relatively little at rest. At rest: submandibular ~70%, parotid ~25%, sublingual ~5%. During stimulation: parotid becomes the dominant producer (up to 50–60% of stimulated flow). This distinction is relevant to understanding why parotid flow reduction (dehydration, anticholinergics) produces acute parotitis — the parotid relies on stimulated flow to maintain duct patency.",
+          "wrong": {
+            "A": "The parotid gland dominates STIMULATED salivation but contributes only ~25% of resting flow — it is not the dominant resting producer.",
+            "C": "The sublingual gland contributes approximately 5% of resting salivary flow — a relatively minor contribution.",
+            "D": "The minor salivary glands collectively contribute a small amount of resting saliva (<5%) and are not the dominant source."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Salivary gland physiology",
+          "trial": "Humphrey SP & Williamson RT. J Prosthet Dent (2001): salivary physiology review — submandibular 70% resting, parotid 20–25% resting, sublingual 5% — foundational data for understanding salivary gland function.",
+          "pearl": "RESTING saliva: submandibular = 70%. Parotid = 25% resting but DOMINANT during stimulation. That's why parotid is at HIGHER RISK during dehydration/anticholinergics — it depends on stimulated flow to flush its duct. Dehydration = reduced stimulated parotid flow = ascending bacterial infection.",
+          "difficulty": 3
+        }
+      }
+    ]
+  }
+}

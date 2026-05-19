@@ -1,0 +1,629 @@
+{
+  "id": "G1",
+  "title": "Evidence-Based OMFS: GRADE, Study Hierarchy, Critical Appraisal",
+  "subtitle": "Block G — Research and Academic Development",
+  "block": "G",
+  "block_name": "Research and Academic Development",
+  "level": "R1-5",
+  "reading_time_min": 28,
+  "guidelines_version": "GRADE Working Group 2011 · OCEBM Levels of Evidence 2011 · Cochrane Handbook v6.3 (2022)",
+  "textbook_refs": [
+    "Guyatt GH et al. 'GRADE: an emerging consensus on rating quality of evidence and strength of recommendations.' BMJ (2008)",
+    "Sackett DL et al. Evidence-Based Medicine: How to Practice and Teach EBM (Churchill Livingstone 2000)",
+    "Higgins JPT et al. Cochrane Handbook for Systematic Reviews of Interventions v6.3 (Cochrane 2022)",
+    "OCEBM Levels of Evidence Working Group. 'The Oxford Levels of Evidence 2.' CEBM (2011)",
+    "Schünemann HJ et al. 'GRADE guidelines: 3. Rating the quality of evidence.' J Clin Epidemiol (2011)"
+  ],
+  "learning_objectives": [
+    "Define evidence-based medicine (EBM) and describe its application to OMFS clinical decision-making",
+    "Classify study designs using the OCEBM hierarchy and identify the appropriate study type for each clinical question",
+    "Apply the GRADE framework to assess quality of evidence and strength of recommendations",
+    "Critically appraise a systematic review or RCT using a structured checklist",
+    "Identify common biases in OMFS research and describe methods to minimise them"
+  ],
+  "sections": [
+    {
+      "id": "G1-S1",
+      "title": "Principles of Evidence-Based Medicine in OMFS",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Evidence-based medicine (EBM)** is the conscientious, explicit, and judicious integration of the best available research evidence with clinical expertise and patient values in making decisions about the care of individual patients (Sackett et al. 1996). In oral and maxillofacial surgery, EBM is essential for: (1) selecting surgical techniques based on comparative effectiveness data rather than tradition; (2) informing patients of realistic outcomes with appropriate uncertainty; (3) identifying gaps in knowledge requiring research; and (4) developing and updating clinical guidelines.\n\nThe EBM process involves five steps: (1) **Ask** — formulate a structured clinical question (PICO: Population, Intervention, Comparison, Outcome); (2) **Acquire** — search the literature systematically; (3) **Appraise** — critically evaluate the quality and relevance of retrieved evidence; (4) **Apply** — integrate evidence with clinical expertise and patient values; (5) **Assess** — evaluate the outcome and update practice accordingly.\n\nThe **PICO framework** is fundamental to EBM and directly determines the appropriate study design to answer the question. A therapy question (does this treatment work?) is best answered by a randomised controlled trial (RCT). A prognosis question (what will happen to this patient?) is best answered by a cohort study. A diagnosis question (does this test identify the condition?) is best answered by a diagnostic accuracy study. A harm question (does this exposure cause this outcome?) may be best answered by a case-control study when the outcome is rare."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — PICO Framework",
+          "content": "PICO = Population, Intervention, Comparison, Outcome. Every clinical question can be structured this way. PICO determines the study design needed. Therapy question → RCT. Diagnosis question → diagnostic accuracy study. Prognosis question → cohort study. Harm question (rare outcome) → case-control study."
+        }
+      ]
+    },
+    {
+      "id": "G1-S2",
+      "title": "Study Design Hierarchy: OCEBM Levels of Evidence",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Not all evidence is equal. Study designs are ranked hierarchically by their ability to minimise bias and answer specific clinical questions. The **Oxford Centre for Evidence-Based Medicine (OCEBM) Levels of Evidence (2011)** provides the most widely adopted framework, with five levels from 1 (highest) to 5 (lowest) for each question type.\n\nFor **therapy questions**, the hierarchy from highest to lowest is: (1) Systematic reviews of RCTs; (2) Individual RCTs; (3) Non-randomised controlled studies (cohort studies); (4) Case series; (5) Expert opinion. For **diagnosis questions**: (1) Systematic reviews of diagnostic accuracy studies; (2) Individual cross-sectional studies with consecutive patients; (3) Non-consecutive patient series; (4) Case-control studies; (5) Mechanism-based reasoning.\n\nThe limitations of the simple hierarchy must be understood: (1) A well-conducted large observational study may provide more reliable evidence than a poorly conducted small RCT; (2) Some OMFS interventions cannot be randomised for ethical or practical reasons (e.g., comparing surgical access routes for rare tumours); (3) Case series, despite their low hierarchy position, may be the only available evidence for uncommon conditions in OMFS; (4) Expert opinion, while Level 5, should not be dismissed — it synthesises clinical experience beyond what research evidence captures. The GRADE system addresses these nuances by rating evidence quality directly rather than relying solely on study design."
+        },
+        {
+          "type": "table",
+          "title": "OCEBM Levels of Evidence for Therapy Questions",
+          "headers": ["Level", "Study Design", "Characteristics", "Biases Limited"],
+          "rows": [
+            ["1a", "Systematic review of RCTs", "Pooled analysis of multiple RCTs; meta-analysis", "Selection, confounding, chance"],
+            ["1b", "Individual RCT (with narrow CI)", "Randomised allocation; masked if possible", "Selection, confounding"],
+            ["2a", "Systematic review of cohort studies", "Pooled prospective comparative studies", "Confounding partially"],
+            ["2b", "Individual cohort study", "Prospective; comparison group present", "Confounding partially"],
+            ["3a/3b", "Systematic review / individual case-control", "Retrospective; cases vs controls", "Limited; recall bias, selection"],
+            ["4", "Case series", "No comparison group; descriptive only", "Minimal — high bias risk"],
+            ["5", "Expert opinion/mechanism-based reasoning", "Non-systematic; consensus or theory", "Not controlled"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Equating Study Type with Evidence Quality",
+          "content": "Study type determines the POTENTIAL for high-quality evidence, but design alone does not guarantee it. A poorly conducted RCT (inadequate allocation concealment, high attrition, underpowered) provides lower quality evidence than a well-conducted large prospective cohort study. Always appraise the study's methodological quality, not just its design label."
+        }
+      ]
+    },
+    {
+      "id": "G1-S3",
+      "title": "GRADE: Grading Quality of Evidence and Strength of Recommendations",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **GRADE (Grading of Recommendations Assessment, Development, and Evaluation)** framework is the international standard for rating evidence quality and the strength of clinical recommendations. It is used by major clinical guideline bodies including NICE, WHO, Cochrane, and the major surgical societies.\n\nIn GRADE, evidence quality can be rated as: **High** (further research very unlikely to change the estimate — typically well-conducted RCTs with consistent results); **Moderate** (further research likely to have an important impact); **Low** (further research very likely to have an important impact); or **Very Low** (highly uncertain estimate). \n\nCritically, GRADE allows evidence quality to be **upgraded or downgraded** from the starting classification. RCT evidence starts at High but can be downgraded for: (1) **Risk of bias** — methodological flaws; (2) **Inconsistency** — unexplained heterogeneity between studies; (3) **Indirectness** — the population, intervention, or outcome in studies differs from the clinical question; (4) **Imprecision** — wide confidence intervals from small samples; (5) **Publication bias** — selective reporting of positive results. Observational studies start at Low but can be upgraded for: large effect sizes (OR >2), dose-response gradient, or when all residual confounding would reduce rather than increase the effect.\n\nThe **Strength of Recommendation** in GRADE is either Strong (most patients should receive this intervention — the desirable effects clearly outweigh undesirable effects) or Weak/Conditional (different choices may be appropriate for different patients — shared decision-making is important). A strong recommendation can be made even on low-quality evidence if the desirable effects clearly outweigh harms (e.g., surgical airway in imminent asphyxia — no RCT is needed)."
+        },
+        {
+          "type": "table",
+          "title": "GRADE Evidence Quality — Starting Points and Modifying Factors",
+          "headers": ["Starting Quality", "Downgrade Factors (each -1 or -2)", "Upgrade Factors (each +1 or +2)", "Final Quality"],
+          "rows": [
+            ["RCTs → HIGH", "Risk of bias: serious or very serious", "Large effect (OR >2 or >5)", "HIGH / MODERATE / LOW"],
+            ["RCTs → HIGH", "Inconsistency: unexplained heterogeneity", "Dose-response gradient", "As above"],
+            ["RCTs → HIGH", "Indirectness: population/setting differences", "All residual confounding reduces effect", "As above"],
+            ["RCTs → HIGH", "Imprecision: few events, wide CI", "—", "As above"],
+            ["RCTs → HIGH", "Publication bias: asymmetric funnel plot", "—", "As above"],
+            ["Observational → LOW", "Same factors apply", "Large effect OR dose-response", "MODERATE (if upgraded)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G1-S4",
+      "title": "Bias in OMFS Research: Types and Mitigation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bias is a systematic error that produces results that differ from the true effect. Understanding bias types and their mitigation is essential for critically appraising OMFS literature and designing rigorous studies.\n\n**Selection bias** occurs when participants assigned to groups differ systematically in ways that affect the outcome. In RCTs, selection bias is controlled by **randomisation** — concealed random allocation ensures groups are comparable at baseline. In OMFS, inadequate allocation concealment (using transparent envelopes, odd/even patient numbers) allows selection bias even in 'randomised' trials.\n\n**Performance bias** occurs when participants and investigators know the treatment assignment, and this knowledge influences care. Minimised by **blinding** — though blinding participants in surgical trials is often impossible. Blinding outcomes assessors (outcome assessor blinding) is usually feasible and important.\n\n**Detection bias** occurs when outcomes are assessed differently between groups. Controlled by blinded outcome assessment.\n\n**Attrition bias** occurs when the number or reasons for missing data differ between groups. Minimised by intention-to-treat analysis (all randomised patients analysed in their assigned group, regardless of protocol adherence).\n\n**Reporting bias** occurs when certain outcomes are selectively reported based on their results. Minimised by prospective trial registration (ISRCTN, ClinicalTrials.gov) — which commits investigators to their pre-specified primary outcome before results are known. The Cochrane Risk of Bias 2 (RoB 2) tool assesses these domains systematically in RCT appraisal."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Intention-to-Treat Analysis",
+          "content": "Intention-to-treat (ITT) analysis includes ALL randomised patients in their allocated group for the primary analysis, regardless of adherence, crossover, or dropout. ITT preserves the benefits of randomisation and prevents bias from selective exclusion of participants. Per-protocol analysis (only those who completed treatment) is at risk of selection bias and should be reported as secondary analysis only."
+        }
+      ]
+    },
+    {
+      "id": "G1-S5",
+      "title": "Critical Appraisal of Systematic Reviews in OMFS",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "A **systematic review** is a structured synthesis of all available evidence on a specific clinical question, using pre-defined eligibility criteria and systematic search strategies to minimise bias. A **meta-analysis** is a statistical technique for combining quantitative results from multiple studies within a systematic review, producing a pooled effect estimate with greater statistical power.\n\nCritical appraisal of systematic reviews uses the **AMSTAR-2 (A Measurement Tool to Assess Systematic Reviews-2)** checklist, covering: (1) Did the review use a comprehensive literature search? (2) Was study selection in duplicate? (3) Was data extraction in duplicate? (4) Was risk of bias assessed? (5) Were appropriate statistical methods used? (6) Was publication bias assessed? (7) Was the source of funding of included studies considered?\n\nKey statistical concepts in meta-analysis: **Heterogeneity** (I² statistic — measures the proportion of variability attributable to study differences rather than chance; I² >75% = high heterogeneity, suggesting that pooling may be inappropriate); **Forest plot** (visual representation of individual study and pooled effect estimates with confidence intervals — the 'diamond' at the bottom represents the pooled estimate); **Funnel plot** (scatter plot of study effect vs precision — asymmetry suggests publication bias); **Relative risk (RR)** vs **odds ratio (OR)** — OR overestimates the RR when the outcome is common (>10%); **Number needed to treat (NNT)** — the clinically interpretable measure of effect size."
+        },
+        {
+          "type": "table",
+          "title": "Heterogeneity in Meta-Analysis: I² Interpretation",
+          "headers": ["I² Value", "Heterogeneity Level", "Interpretation", "Action"],
+          "rows": [
+            ["0–25%", "Low", "Studies are consistent; pooling appropriate", "Fixed-effects or random-effects model"],
+            ["25–50%", "Moderate", "Some inconsistency; explore sources", "Random-effects model preferred; subgroup analysis"],
+            ["50–75%", "Substantial", "Marked inconsistency — explore causes", "Subgroup analysis; consider not pooling"],
+            [">75%", "High/Considerable", "Pooling likely inappropriate", "Narrative synthesis; investigate clinical/methodological heterogeneity"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Applying OMFS Evidence",
+          "content": "Most OMFS surgical interventions have limited high-quality RCT evidence. The Eckelt 2006 condylar fracture trial remains the most cited OMFS RCT. When facing a clinical decision with only Level 3–4 evidence, clearly acknowledge the uncertainty to the patient during consent and document both the evidence used and its limitations. This is not a failure — it reflects the reality of surgical evidence."
+        }
+      ]
+    },
+    {
+      "id": "G1-S6",
+      "title": "Clinical Practice Guidelines and NICE Guidance",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Clinical practice guidelines** synthesise evidence to produce recommendations for clinical practice. In the UK, NICE (National Institute for Health and Care Excellence) produces technology appraisals, clinical guidelines, and interventional procedures guidance that inform NHS commissioning and medico-legal practice. Understanding how guidelines are produced and their limitations is important for OMFS residents.\n\nGuidelines have limitations: (1) **Evidence gaps** — recommendations are often based on extrapolation from indirect evidence when direct OMFS evidence is absent; (2) **Conflict of interest** — guideline panel members may have financial ties to industry; (3) **Update lag** — guidelines may not reflect the most recent evidence; (4) **Applicability** — recommendations developed in one health system may not translate directly to another. Guidelines should be interpreted as synthesised expert guidance, not as absolute rules overriding clinical judgement in individual patients.\n\nThe **AGREE II tool (Appraisal of Guidelines for Research and Evaluation)** is used to critically evaluate the quality of clinical practice guidelines across six domains: scope and purpose, stakeholder involvement, rigour of development, clarity of presentation, applicability, and editorial independence. AGREE II scores help assess whether a guideline should be followed in clinical practice."
+        }
+      ]
+    },
+    {
+      "id": "G1-S7",
+      "title": "Number Needed to Treat (NNT) and Clinical Significance",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Statistical significance** and **clinical significance** are distinct concepts that are frequently confused in surgical literature. A statistically significant result (p <0.05) simply means the observed difference is unlikely to be due to chance — it does not indicate that the difference is clinically important. A large trial can detect a statistically significant but clinically trivial difference (e.g., 1 mm difference in mouth opening after TMJ arthrocentesis — statistically significant with n=500, but clinically meaningless).\n\nThe **Number Needed to Treat (NNT)** is the most clinically interpretable measure of treatment effect: NNT = 1 / Absolute Risk Reduction (ARR). It represents the number of patients who must receive the treatment for one additional patient to benefit. A lower NNT indicates greater treatment effect. For context: NNT of 2–5 is highly effective (comparable to aspirin in acute MI); NNT of 10–20 is moderately effective; NNT >50 indicates small effect.\n\n**Confidence intervals (CI)** convey both the precision of the estimate and its clinical significance. A wide CI indicates imprecision from small sample size. When the CI crosses the null value (RR = 1.0 or OR = 1.0 or difference = 0), the result is not statistically significant. More importantly, if the entire CI falls within the region of clinical equivalence (the minimal clinically important difference — MCID), the result is both clinically and statistically equivalent.\n\nThe **Minimal Clinically Important Difference (MCID)** is the smallest difference in outcome that patients would consider meaningful. In OMFS, published MCIDs include: mouth opening — 5 mm; pain VAS — 1.5/10 (on a 0–10 scale); OHIP-14 score — 9 points. If two treatments differ by less than the MCID even if statistically significant, this difference is not clinically meaningful."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — NNT Calculation",
+          "content": "NNT = 1 / Absolute Risk Reduction. If Treatment A reduces complication rate from 20% to 10%: ARR = 10% = 0.10. NNT = 1/0.10 = 10. For every 10 patients treated with A instead of B, one complication is prevented. NNT is always more clinically meaningful than relative risk or p-value alone."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of evidence-based OMFS with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "G1-Q1",
+        "stem": "The PICO framework structures clinical questions for EBM purposes. In the question 'In adult patients with acute closed lock of the TMJ (P), does arthrocentesis (I) compared with conservative physiotherapy (C) produce better mouth opening at 6 months (O)?', what study design would best answer this question?",
+        "options": {
+          "A": "Case-control study",
+          "B": "Systematic review of randomised controlled trials",
+          "C": "Cross-sectional prevalence study",
+          "D": "Case series"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This is a therapy question (comparing two interventions for an outcome). The highest level of evidence for therapy questions is a systematic review of RCTs (OCEBM Level 1a). A systematic review pools all RCTs comparing arthrocentesis to conservative management for TMJ closed lock, producing a pooled effect estimate with greater statistical power than any single trial. In the absence of a systematic review, the next best evidence is an individual RCT (Level 1b).",
+          "wrong": {
+            "A": "Case-control studies are best suited to rare-outcome harm questions (e.g., does OMFS surgery cause a rare complication?) — they cannot answer therapy questions with direct comparison.",
+            "C": "Cross-sectional prevalence studies answer frequency questions (how common is a condition?) — not comparative effectiveness questions.",
+            "D": "Case series describe outcomes without a comparison group — they cannot determine whether arthrocentesis is better than physiotherapy."
+          },
+          "guideline": "OCEBM Levels of Evidence 2011 — Therapy question hierarchy: systematic review of RCTs = Level 1a",
+          "trial": "Cochrane Database Syst Rev: multiple systematic reviews on TMJ interventions confirm that therapy questions require RCT-level evidence for definitive answers.",
+          "pearl": "THERAPY question → SYSTEMATIC REVIEW of RCTs (highest). Prognosis → cohort. Diagnosis → diagnostic accuracy study. Harm (rare) → case-control. PICO determines design.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q2",
+        "stem": "In a meta-analysis of RCTs examining orthognathic surgery outcomes, the I² statistic is reported as 82%. What does this mean for interpreting the pooled result?",
+        "options": {
+          "A": "82% of the variability in results is due to chance — the pooled estimate is very reliable",
+          "B": "82% of the variability is attributable to differences between studies rather than chance — pooling may be inappropriate",
+          "C": "82% of patients in the meta-analysis achieved the primary outcome",
+          "D": "The confidence interval covers 82% of the possible effect range"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The I² statistic measures heterogeneity: it estimates the proportion of total variability in results attributable to between-study differences (rather than chance). I² of 82% is considered high heterogeneity (threshold >75%). This means the studies included in the meta-analysis are not measuring the same underlying effect — they differ in patient populations, interventions, outcome definitions, or other factors. Pooling results in the presence of high heterogeneity can produce a misleading estimate. The appropriate response is subgroup analysis to identify sources of heterogeneity, or reporting a narrative synthesis without a pooled estimate.",
+          "wrong": {
+            "A": "I² does NOT measure reliability due to chance — it measures between-study variability. High I² means LOW reliability of the pooled estimate, not high.",
+            "C": "I² is a statistical measure of variability — it has nothing to do with the proportion of patients achieving outcomes.",
+            "D": "I² is not related to confidence interval coverage — CI reflects precision (sample size), not heterogeneity."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 10: Heterogeneity and I² statistic interpretation",
+          "trial": "Higgins JPT et al. BMJ (2003): original I² paper — I² >75% defined as 'considerable' heterogeneity; pooling should be approached with caution.",
+          "pearl": "I² interpretation: 0–25% = low; 25–50% = moderate; 50–75% = substantial; >75% = high/considerable. HIGH I² = studies are very different = pooled estimate potentially misleading = investigate sources of heterogeneity.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q3",
+        "stem": "A surgical RCT compares two fixation methods for condylar fractures. The primary outcome (functional malocclusion at 6 months) occurs in 15% of Group A (ORIF) and 25% of Group B (closed treatment). What is the Number Needed to Treat (NNT) for ORIF to prevent one case of malocclusion?",
+        "options": {
+          "A": "2",
+          "B": "5",
+          "C": "10",
+          "D": "15"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "NNT = 1 / Absolute Risk Reduction. ARR = Event rate in control group - Event rate in treatment group = 25% - 15% = 10% = 0.10. NNT = 1/0.10 = 10. For every 10 patients treated with ORIF instead of closed treatment, one additional case of malocclusion is prevented at 6 months.",
+          "wrong": {
+            "A": "NNT of 2 would require an ARR of 50% — not consistent with the 10% ARR in this example.",
+            "B": "NNT of 5 would require an ARR of 20% — not consistent with the 10% ARR (25% - 15% = 10%).",
+            "D": "NNT of 15 would require an ARR of 6.7% — not consistent with the 10% ARR calculated above."
+          },
+          "guideline": "GRADE Working Group 2011 — NNT as the preferred measure of clinical significance for treatment effects",
+          "trial": "Eckelt U et al. J Craniomaxillofac Surg (2006): condylar fracture RCT — NNT calculation from published event rates demonstrates how absolute risk reduction translates to clinical practice.",
+          "pearl": "NNT = 1/ARR. ARR = control rate − treatment rate = 25% − 15% = 10% = 0.10. NNT = 1/0.10 = 10. Always calculate NNT from published event rates — p-values and relative risks alone do not convey clinical magnitude.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q4",
+        "stem": "In the GRADE system, RCT evidence starts at which quality level, and which finding would cause this to be downgraded to 'Low'?",
+        "options": {
+          "A": "Starts at Moderate; downgraded to Low by small sample size",
+          "B": "Starts at High; downgraded two levels to Low by serious risk of bias AND serious imprecision",
+          "C": "Starts at High; downgraded to Low by any methodological flaw",
+          "D": "Starts at Low for surgical RCTs because blinding is always impossible"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In GRADE, RCT evidence starts at HIGH quality. Each domain (risk of bias, inconsistency, indirectness, imprecision, publication bias) can downgrade by -1 (serious) or -2 (very serious). Starting at High, two separate serious downgrades (-1 -1) would produce Moderate quality; two very serious problems (-2) would downgrade two levels to Low. Downgrading -2 from a single domain OR -1 from two separate domains produces Low quality evidence from an RCT start.",
+          "wrong": {
+            "A": "RCTs start at HIGH quality in GRADE — not Moderate. Observational studies start at Low.",
+            "C": "Any single methodological flaw downgrade by -1 produces Moderate, not Low — two separate -1 downgrades or one -2 downgrade are needed to reach Low from High.",
+            "D": "Surgical trials cannot be blinded to participants, but this is accepted — absence of participant blinding does not automatically downgrade evidence quality if outcomes are objective and assessors are blinded. Impossible blinding in surgery does not start evidence at Low."
+          },
+          "guideline": "Guyatt GH et al. BMJ (2008) — GRADE framework: RCTs start at High; downgrading criteria",
+          "trial": "Schünemann HJ et al. J Clin Epidemiol (2011): GRADE guidelines Paper 3 — detailed description of downgrading criteria and thresholds.",
+          "pearl": "GRADE: RCTs start HIGH. Observational studies start LOW. Each serious downgrade factor = -1. Very serious = -2. High → Moderate: one serious factor. High → Low: two serious factors (or one very serious). High → Very Low: extreme downgrading.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q5",
+        "stem": "A large RCT comparing two cleft palate repair techniques finds a statistically significant difference (p = 0.04) in VPI rates at 5 years, favouring Technique A. The absolute risk difference is 2% (VPI: 16% vs 18%). The MCID for VPI difference in palate surgery is considered 5%. How should this result be interpreted?",
+        "options": {
+          "A": "Technique A is clearly superior — a statistically significant result always indicates clinical superiority",
+          "B": "The result is statistically significant but not clinically significant — the 2% difference is below the MCID of 5%",
+          "C": "The result is inconclusive because the p-value is above 0.01",
+          "D": "The 2% difference is clinically significant because it affects thousands of patients globally"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Statistical significance (p=0.04) indicates the result is unlikely to be due to chance — but it says nothing about clinical importance. The MCID for this outcome is 5%, meaning a difference smaller than 5% would not be perceived as meaningful by patients or clinicians. A 2% absolute difference falls below the MCID — it is statistically significant but NOT clinically significant. Patients and clinicians should not change practice based on a 2% difference when the MCID is 5%. This illustrates the critical distinction between statistical and clinical significance.",
+          "wrong": {
+            "A": "Statistical significance NEVER automatically implies clinical superiority. A large trial can detect any trivially small difference as statistically significant — but the clinical magnitude may be irrelevant.",
+            "C": "The p=0.04 threshold (less than 0.05) is conventionally accepted as statistically significant — there is no standard requiring p<0.01 for all research.",
+            "D": "The clinical significance of a difference is determined by the MCID per patient, not by population-level projections. A 2% difference below the MCID remains clinically insignificant regardless of how many patients receive treatment."
+          },
+          "guideline": "GRADE Working Group 2011 — Distinction between statistical and clinical significance; MCID concept",
+          "trial": "Eurocleft study (Shaw WC et al. Cleft Palate Craniofac J 1992): demonstrated that clinically meaningful differences in speech outcomes require at least 5% VPI rate differences to be detected as clinically relevant by families and clinicians.",
+          "pearl": "p-value < 0.05 = STATISTICAL significance (unlikely due to chance). Difference > MCID = CLINICAL significance (meaningful to patients). A 2% difference below the 5% MCID = statistically significant but NOT clinically meaningful. Always check MCID.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G1-Q6",
+        "stem": "Which tool is used to assess the risk of bias in a randomised controlled trial for inclusion in a Cochrane systematic review?",
+        "options": {
+          "A": "AMSTAR-2",
+          "B": "AGREE II",
+          "C": "Cochrane Risk of Bias 2 (RoB 2)",
+          "D": "Newcastle-Ottawa Scale"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The Cochrane Risk of Bias 2 (RoB 2) tool is the standard instrument for assessing bias in randomised controlled trials in Cochrane systematic reviews. It evaluates five domains: (1) bias arising from the randomisation process; (2) bias from deviations from intended interventions; (3) bias from missing outcome data; (4) bias in measurement of outcomes; and (5) bias in selection of reported results. Each domain is rated as 'low risk', 'some concerns', or 'high risk'. An overall risk-of-bias judgement is made based on the worst-rated domain.",
+          "wrong": {
+            "A": "AMSTAR-2 is used to appraise the quality of SYSTEMATIC REVIEWS — not individual RCTs.",
+            "B": "AGREE II is used to appraise CLINICAL PRACTICE GUIDELINES — not individual studies.",
+            "D": "The Newcastle-Ottawa Scale assesses bias in OBSERVATIONAL STUDIES (cohort and case-control) — not RCTs."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 8: RoB 2 tool for randomised trials",
+          "trial": "Sterne JAC et al. BMJ (2019): RoB 2 validation paper — 5-domain structure described and validated across multiple disease areas.",
+          "pearl": "Bias assessment tools: RoB 2 = RANDOMISED TRIALS. Newcastle-Ottawa = OBSERVATIONAL studies. AMSTAR-2 = SYSTEMATIC REVIEWS. AGREE II = CLINICAL GUIDELINES. Use the right tool for the right study type.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q7",
+        "stem": "Intention-to-treat (ITT) analysis in RCTs involves:",
+        "options": {
+          "A": "Analysing only the patients who completed the full treatment protocol",
+          "B": "Analysing all randomised patients in their allocated group regardless of adherence or withdrawal",
+          "C": "Excluding patients who experienced adverse events from the primary analysis",
+          "D": "Restricting analysis to patients who met all eligibility criteria after randomisation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Intention-to-treat analysis includes ALL randomised patients in their allocated group for the primary analysis, regardless of whether they: received the treatment, adhered to the protocol, withdrew, were lost to follow-up, or crossed over to the other group. ITT preserves the benefits of randomisation (comparable groups at baseline) and reflects real-world effectiveness rather than ideal-world efficacy. It is the required primary analysis for surgical RCTs.",
+          "wrong": {
+            "A": "Analysing only protocol completers is called 'per-protocol analysis' — it is at risk of selection bias and should only be reported as a secondary analysis.",
+            "C": "Excluding adverse event patients introduces selection bias and may inflate apparent safety — this violates ITT principles.",
+            "D": "Excluding patients based on post-randomisation criteria (even eligibility criteria) introduces bias — once randomised, patients should remain in the analysis."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 8: Intention-to-treat principle in RCT analysis",
+          "trial": "Moher D et al. Lancet (1998): CONSORT Statement original publication — ITT as mandatory primary analysis for all RCTs.",
+          "pearl": "ITT = analyse ALL randomised patients in their ALLOCATED GROUP regardless of what actually happened. Preserves randomisation benefits. Reflects real-world effectiveness. Per-protocol = only completers = biased secondary analysis.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q8",
+        "stem": "What does a funnel plot in a meta-analysis assess?",
+        "options": {
+          "A": "Dose-response relationship between treatment and outcome",
+          "B": "Heterogeneity between included studies using the I² statistic",
+          "C": "Publication bias — asymmetry suggests smaller studies with negative results may not have been published",
+          "D": "The quality of individual study randomisation methods"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A funnel plot graphs each study's effect estimate (x-axis) against a measure of study precision, typically sample size or standard error (y-axis). In the absence of bias, studies should scatter symmetrically around the pooled effect — larger studies have more precision and cluster near the top; smaller studies scatter more widely at the bottom, forming a funnel shape. Asymmetry of the funnel suggests publication bias: if smaller studies with negative or null results are not published, the bottom of the funnel will be empty on the negative-result side, producing an asymmetric plot.",
+          "wrong": {
+            "A": "Dose-response relationships are assessed through separate analyses (e.g., meta-regression) — not funnel plots.",
+            "B": "Heterogeneity is measured by the I² statistic and chi-squared test — not by the funnel plot.",
+            "D": "Individual study randomisation quality is assessed by the RoB 2 tool — not by the funnel plot."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 13: Funnel plots and publication bias",
+          "trial": "Egger M et al. BMJ (1997): validation of funnel plot asymmetry as a test for publication bias — established the standard methodology for detecting reporting bias in meta-analyses.",
+          "pearl": "FUNNEL PLOT = assesses PUBLICATION BIAS. Symmetric funnel = no publication bias. Asymmetric (missing bottom-right) = small negative studies missing = publication bias likely. Egger's test formally tests funnel plot asymmetry.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q9",
+        "stem": "According to GRADE, a 'Weak' (Conditional) recommendation means:",
+        "options": {
+          "A": "The intervention is harmful and should be used only with caution",
+          "B": "Different choices may be appropriate for different patients — shared decision-making is important",
+          "C": "The evidence is very low quality and the recommendation should not be followed",
+          "D": "The recommendation applies only in research settings"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In GRADE, a Weak (Conditional) recommendation does not mean the intervention is ineffective or harmful — it means that the balance between desirable and undesirable effects is less clear, or that patient values and preferences vary substantially regarding the trade-offs. Different patients may make different choices based on their individual circumstances and preferences. Clinicians should engage in shared decision-making rather than uniformly applying the intervention. By contrast, a Strong recommendation means 'most patients in this situation should receive this treatment' and can be applied without extensive individual discussion.",
+          "wrong": {
+            "A": "A GRADE recommendation specifically indicating harm would use different language (e.g., 'strong recommendation against'). A weak recommendation does not imply harm.",
+            "C": "Low evidence quality may lead to a weak recommendation, but a weak recommendation based on low evidence may still guide clinical practice — it is not advice to ignore the recommendation.",
+            "D": "GRADE recommendations apply in clinical practice — they are not restricted to research settings."
+          },
+          "guideline": "Guyatt GH et al. BMJ (2008) — GRADE system: strong vs weak recommendations explained",
+          "trial": "Guyatt GH et al. J Clin Epidemiol (2011): GRADE guidelines Paper 2 — weak recommendation interpretation: 'we suggest' vs strong recommendation: 'we recommend'.",
+          "pearl": "STRONG recommendation = 'we RECOMMEND' = most patients should receive this. WEAK recommendation = 'we SUGGEST' = reasonable alternative choices exist, patient preferences matter, shared decision-making required.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q10",
+        "stem": "In the hierarchy of evidence for DIAGNOSIS questions, what is the highest level of evidence?",
+        "options": {
+          "A": "Systematic review of randomised controlled trials",
+          "B": "Systematic review of cross-sectional diagnostic accuracy studies with consecutive patients",
+          "C": "Prospective cohort study",
+          "D": "Expert consensus opinion"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For DIAGNOSIS questions, the appropriate study design is a cross-sectional diagnostic accuracy study (sometimes called a validation study) — comparing the index test to a reference standard in consecutive patients suspected of having the condition. The highest evidence level for diagnosis is a systematic review of such cross-sectional diagnostic accuracy studies (OCEBM Level 1a for diagnosis). This differs from therapy questions, where the highest level is a systematic review of RCTs.",
+          "wrong": {
+            "A": "Systematic reviews of RCTs are the highest level for THERAPY questions — RCTs are generally not the study design for diagnostic accuracy evaluation.",
+            "C": "A prospective cohort study is used for prognosis questions — it answers 'what will happen?' rather than 'does this test correctly identify the condition?'",
+            "D": "Expert consensus opinion is OCEBM Level 5 — the lowest level of evidence for all question types."
+          },
+          "guideline": "OCEBM Levels of Evidence 2011 — Different question types require different study designs at the top of their hierarchy",
+          "trial": "OCEBM Working Group. Oxford CEBM (2011): explicit table of evidence levels by question type — systematic reviews of diagnostic accuracy studies = Level 1a for diagnosis.",
+          "pearl": "DIAGNOSIS hierarchy TOP = systematic review of CROSS-SECTIONAL diagnostic accuracy studies. NOT RCTs. THERAPY TOP = systematic review of RCTs. Different questions = different study designs at the top.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q11",
+        "stem": "Allocation concealment in a randomised controlled trial prevents which type of bias?",
+        "options": {
+          "A": "Detection bias",
+          "B": "Attrition bias",
+          "C": "Selection bias during participant allocation",
+          "D": "Reporting bias"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Allocation concealment prevents selection bias during the randomisation process. Without concealment, investigators who know the forthcoming allocation can selectively enrol or exclude participants — consciously or unconsciously — based on their expected treatment assignment. For example, if the next allocation is 'surgery', an investigator might defer enrolment of a frailer patient to avoid a poor surgical outcome. Methods of adequate allocation concealment include: central randomisation by phone or web, sequentially numbered sealed opaque envelopes, and pharmacy-controlled drug allocation. Inadequate concealment (transparent envelopes, date-of-birth allocation, alternation) is one of the most common sources of bias in surgical RCTs.",
+          "wrong": {
+            "A": "Detection bias is prevented by blinding of outcome assessors — not by allocation concealment.",
+            "B": "Attrition bias is minimised by intention-to-treat analysis and strategies to minimise dropout — not by allocation concealment.",
+            "D": "Reporting bias is prevented by prospective trial registration — not by allocation concealment."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 8: allocation concealment and selection bias",
+          "trial": "Schulz KF et al. JAMA (1995): meta-epidemiological study — trials with inadequate allocation concealment exaggerated treatment effects by 37% on average compared with trials with adequate concealment.",
+          "pearl": "ALLOCATION CONCEALMENT = prevents SELECTION BIAS. Without it, investigators can game the allocation to enrol better/worse patients into preferred arms. Gold standard: central randomisation or sealed opaque envelopes.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q12",
+        "stem": "The Sackett definition of EBM emphasises integration of three elements. Which is MISSING from the following: 'best available research evidence + clinical expertise = evidence-based decision'?",
+        "options": {
+          "A": "Cost-effectiveness of the intervention",
+          "B": "Patient values and preferences",
+          "C": "Guideline recommendations from the relevant professional society",
+          "D": "Laboratory evidence from animal studies"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Sackett's definition of EBM (2000) requires the integration of THREE elements: (1) best available research evidence; (2) clinical expertise; AND (3) patient values and preferences. The third element is often omitted in simplified presentations. Patient values and preferences are essential — even the highest-quality evidence for an intervention is irrelevant if the patient does not value the outcome or is not willing to accept the treatment risks. EBM is not evidence-dictatorship but evidence-informed shared decision-making.",
+          "wrong": {
+            "A": "Cost-effectiveness is a factor in healthcare policy and NICE decisions but is not one of the three core Sackett EBM elements for individual patient decisions.",
+            "C": "Professional society guidelines are a source of synthesised evidence but are not a separate pillar of the EBM triad in the Sackett definition.",
+            "D": "Animal study evidence is not one of the three EBM pillars — it contributes to the evidence base but does not stand alongside clinical expertise and patient values in Sackett's definition."
+          },
+          "guideline": "Sackett DL et al. Evidence-Based Medicine (Churchill Livingstone 2000): the three-part EBM definition",
+          "trial": "Sackett DL et al. BMJ (1996): original EBM definition paper — 'evidence-based medicine is the conscientious, explicit, and judicious use of current best evidence in making decisions about the care of individual patients.' The three-element triad is foundational.",
+          "pearl": "EBM = three elements: RESEARCH EVIDENCE + CLINICAL EXPERTISE + PATIENT VALUES. All three are required. Ignoring patient values = not EBM. Knowing the evidence but ignoring expertise or preferences = not EBM.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q13",
+        "stem": "Publication bias in the surgical literature refers to:",
+        "options": {
+          "A": "The tendency for journals to publish papers with novel techniques rather than confirmatory studies",
+          "B": "The selective publication of studies with statistically significant (positive) results, leading to overestimation of treatment effects in systematic reviews",
+          "C": "The bias introduced when authors publish multiple papers from the same dataset",
+          "D": "The tendency for industry-funded trials to use composite endpoints"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Publication bias occurs because studies with statistically significant (positive) results are more likely to be submitted and accepted for publication than studies with null or negative results. This creates a biased literature where the published record overestimates treatment effects. When a meta-analysis is conducted using only published studies, the pooled estimate may be inflated. Detection methods include funnel plot asymmetry and Egger's test. Prevention: prospective trial registration commits investigators to publishing regardless of outcome.",
+          "wrong": {
+            "A": "Novelty bias (preference for novel techniques) is a real editorial tendency but is not the standard definition of 'publication bias' — which specifically refers to selective publication by result direction.",
+            "C": "Multiple publications from the same dataset is 'duplicate publication' or 'salami slicing' — a separate problem from publication bias.",
+            "D": "Industry-funded composite endpoint use is a form of outcome reporting bias — related to but distinct from publication bias."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 13: Publication bias and selective reporting",
+          "trial": "Egger M et al. BMJ (1997): funnel plot asymmetry test for publication bias — demonstrated 41% of included trials in a meta-analysis were unpublished, skewing the pooled estimate by 30%.",
+          "pearl": "PUBLICATION BIAS = positive results published, negative results not = overestimate of treatment effects in meta-analysis. Funnel plot detects it. Trial registration prevents it. The most important systematic bias in the medical literature.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q14",
+        "stem": "The Newcastle-Ottawa Scale is used to assess the quality of which study type?",
+        "options": {
+          "A": "Randomised controlled trials",
+          "B": "Systematic reviews",
+          "C": "Clinical practice guidelines",
+          "D": "Cohort and case-control studies (observational studies)"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "The Newcastle-Ottawa Scale (NOS) is a validated tool for assessing the methodological quality of non-randomised (observational) studies — specifically cohort studies and case-control studies. It evaluates three domains: (1) selection of study groups; (2) comparability of groups; and (3) assessment of the exposure or outcome. Each domain is rated with stars (maximum 9 stars). NOS is widely used in systematic reviews that include observational studies (e.g., systematic reviews of prognosis or harm questions in OMFS).",
+          "wrong": {
+            "A": "RCT quality is assessed with the Cochrane RoB 2 tool — not Newcastle-Ottawa.",
+            "B": "Systematic review quality is assessed with AMSTAR-2 — not Newcastle-Ottawa.",
+            "C": "Clinical practice guideline quality is assessed with AGREE II — not Newcastle-Ottawa."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Non-randomised study quality assessment tools",
+          "trial": "Wells GA et al. Newcastle-Ottawa Scale (Ottawa Hospital Research Institute 2013): the standard tool for observational study quality in systematic reviews.",
+          "pearl": "Newcastle-Ottawa Scale = OBSERVATIONAL STUDIES (cohort + case-control). RoB 2 = RCTs. AMSTAR-2 = systematic reviews. AGREE II = guidelines. Match the tool to the study type.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q15",
+        "stem": "Which of the following best describes indirectness as a reason for downgrading evidence quality in GRADE?",
+        "options": {
+          "A": "The primary outcome was not pre-specified in the trial registry",
+          "B": "The population, intervention, comparison, or outcome in the available studies differs meaningfully from the clinical question being answered",
+          "C": "The confidence intervals are wide due to a small sample size",
+          "D": "Multiple studies show inconsistent results in different directions"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Indirectness in GRADE occurs when the available evidence does not directly address the clinical question being answered. Common forms of indirectness in OMFS: (1) POPULATION indirectness — evidence from adult patients applied to paediatric patients; (2) INTERVENTION indirectness — evidence for a similar but not identical technique; (3) COMPARISON indirectness — studies used a different comparator than the clinical alternative; (4) OUTCOME indirectness — the study measured surrogate outcomes (e.g., radiological bone level) when the clinical question is about pain or function. Indirectness is graded as serious (-1) or very serious (-2) depending on how different the evidence is from the question.",
+          "wrong": {
+            "A": "Outcome not pre-specified = selective outcome reporting = risk of reporting bias — not indirectness.",
+            "C": "Wide confidence intervals from small samples = IMPRECISION — a separate GRADE downgrading criterion.",
+            "D": "Studies showing inconsistent results in different directions = INCONSISTENCY — another separate GRADE downgrading criterion."
+          },
+          "guideline": "Guyatt GH et al. J Clin Epidemiol (2011): GRADE guidelines Paper 5 — indirectness as a downgrading criterion",
+          "trial": "Schünemann HJ et al. J Clin Epidemiol (2011): series of GRADE methodology papers — indirectness defined and illustrated across multiple clinical scenarios.",
+          "pearl": "GRADE DOWNGRADING reasons (5): Risk of Bias / Inconsistency / INDIRECTNESS (evidence not directly addressing the clinical question) / Imprecision / Publication Bias. Mnemonic: 'RIIIP' or 'BIG IP'. Indirectness = population/intervention/comparison/outcome mismatch.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G1-Q16",
+        "stem": "Blinding of outcome assessors in a surgical RCT comparing two jaw fracture fixation techniques prevents which bias?",
+        "options": {
+          "A": "Selection bias",
+          "B": "Attrition bias",
+          "C": "Detection (ascertainment) bias",
+          "D": "Allocation bias"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Detection bias (ascertainment bias) occurs when outcomes are measured differently between groups — the assessor's knowledge of treatment allocation influences their measurement of outcomes. For example, an assessor who knows a patient received ORIF might rate their occlusal outcome more favourably (consciously or unconsciously) than an assessor who is masked. Blinding outcome assessors to treatment allocation eliminates this differential measurement. In surgical trials where participant blinding is impossible, assessor blinding is the most feasible and important form of blinding.",
+          "wrong": {
+            "A": "Selection bias is prevented by allocation concealment — not by assessor blinding.",
+            "B": "Attrition bias is minimised by ITT analysis and minimising dropout — not by assessor blinding.",
+            "D": "Allocation bias is another term for selection bias during randomisation — prevented by allocation concealment, not assessor blinding."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 8: Detection bias and outcome assessor blinding",
+          "trial": "Schulz KF et al. JAMA (1995): meta-epidemiological study — lack of assessor blinding was associated with 27% exaggeration of treatment effects across surgical trials.",
+          "pearl": "ASSESSOR BLINDING = prevents DETECTION BIAS. Participants often cannot be blinded in surgical trials — but outcomes assessors (radiologists, speech therapists, QoL assessors) can and should always be blinded to treatment allocation.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q17",
+        "stem": "A case series is classified as which OCEBM level of evidence for a therapy question?",
+        "options": {
+          "A": "Level 1",
+          "B": "Level 2",
+          "C": "Level 3",
+          "D": "Level 4"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Case series are OCEBM Level 4 evidence for therapy questions. A case series describes outcomes in a group of patients who received a treatment, without a comparison group. It cannot determine whether outcomes differ from what would have occurred without treatment. Despite being Level 4, case series remain important in OMFS for describing outcomes of new or rare techniques where comparative studies are not yet feasible. Level 5 is expert opinion/mechanism-based reasoning — the lowest level.",
+          "wrong": {
+            "A": "Level 1 = systematic review of RCTs or individual RCT — not case series.",
+            "B": "Level 2 = systematic review or individual cohort study — not case series.",
+            "C": "Level 3 = systematic review or individual case-control study — not case series."
+          },
+          "guideline": "OCEBM Levels of Evidence 2011 — Therapy question hierarchy",
+          "trial": "OCEBM Working Group. Oxford CEBM (2011): explicit table — case series = Level 4 for therapy; expert opinion = Level 5.",
+          "pearl": "OCEBM Levels: 1 = SR of RCTs / RCT; 2 = SR / cohort; 3 = SR / case-control; 4 = CASE SERIES; 5 = expert opinion. Most OMFS evidence is Level 3–4 — always acknowledge this when applying evidence to practice.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q18",
+        "stem": "Which measure best quantifies the precision of an estimate in a clinical trial or meta-analysis?",
+        "options": {
+          "A": "P-value",
+          "B": "Standard deviation",
+          "C": "Confidence interval (CI)",
+          "D": "I² statistic"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The confidence interval (CI) quantifies the precision of a point estimate. A 95% CI means that if the study were repeated 100 times, 95% of the resulting CIs would contain the true population value. Narrow CIs indicate high precision (large sample, low variability); wide CIs indicate low precision (small sample, high variability). The CI also conveys statistical significance: if the CI excludes the null value (1.0 for ratios, 0 for differences), the result is statistically significant at the alpha level corresponding to the CI width. CIs provide more information than p-values — they convey both statistical significance and the range of plausible values.",
+          "wrong": {
+            "A": "P-value answers the question 'if there were no true effect, how likely is this result by chance?' — it does not quantify precision or the magnitude of the effect.",
+            "B": "Standard deviation describes the spread of individual observations around the mean — not the precision of the mean estimate. Standard ERROR (standard deviation / √n) is the precision measure for the mean.",
+            "D": "I² measures heterogeneity between studies in a meta-analysis — it does not measure precision of a single estimate."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Chapter 15: Confidence intervals as measures of precision",
+          "trial": "Gardner MJ & Altman DG. BMJ (1986): seminal paper promoting confidence intervals over p-values — 'Confidence intervals rather than p values: estimation rather than hypothesis testing.'",
+          "pearl": "CONFIDENCE INTERVAL = precision. Narrow CI = high precision = large sample. Wide CI = low precision = small sample. CI crossing null value = not significant. CI entirely above/below null = significant. Always report CIs alongside p-values.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q19",
+        "stem": "When designing an OMFS clinical study, prospective registration on a public trial registry (e.g., ISRCTN, ClinicalTrials.gov) primarily prevents which methodological problem?",
+        "options": {
+          "A": "Selection bias through inadequate randomisation",
+          "B": "Selective outcome reporting (reporting bias)",
+          "C": "High attrition in the follow-up period",
+          "D": "Inappropriate statistical methods"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Prospective trial registration before patient enrolment commits the investigators to their pre-specified primary and secondary outcomes, analysis plans, and endpoints. This prevents selective outcome reporting (reporting bias): the practice of analysing multiple outcomes and reporting only those with favourable (statistically significant) results. By comparing what was pre-registered with what was published, reviewers can identify if primary outcomes were switched, secondary outcomes were promoted, or unfavourable outcomes were omitted. Registration also facilitates identification of unpublished studies to address publication bias in systematic reviews.",
+          "wrong": {
+            "A": "Selection bias from inadequate randomisation is prevented by proper randomisation technique and allocation concealment — not by trial registration.",
+            "C": "High attrition is minimised by study design features (follow-up systems, patient engagement) — not by registration.",
+            "D": "Inappropriate statistical methods are addressed by pre-specified statistical analysis plans (also included in registration) but the primary prevention purpose of registration is outcome reporting."
+          },
+          "guideline": "CONSORT 2010 Statement — Prospective trial registration as mandatory requirement; Cochrane Handbook v6.3",
+          "trial": "Chan AW et al. JAMA (2004): comparison of registered outcomes vs published outcomes in 102 RCTs — 62% had at least one primary outcome that differed between registration and publication; established the need for mandatory registration.",
+          "pearl": "TRIAL REGISTRATION = prevents OUTCOME REPORTING BIAS. Register BEFORE enrolment. Compare registered outcomes vs published outcomes to detect bias. All RCTs submitted to major journals must be registered as a condition of publication.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G1-Q20",
+        "stem": "The AMSTAR-2 tool is used to evaluate the quality of which study type?",
+        "options": {
+          "A": "Randomised controlled trials",
+          "B": "Observational cohort studies",
+          "C": "Systematic reviews",
+          "D": "Diagnostic accuracy studies"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "AMSTAR-2 (A Measurement Tool to Assess Systematic Reviews, Version 2) is the standard instrument for critically appraising the methodological quality of systematic reviews and meta-analyses, including those including non-randomised studies. It has 16 items assessing: PICO components, search strategy comprehensiveness, duplicate study selection and data extraction, risk of bias assessment, statistical methods, heterogeneity investigation, and funding source assessment. Overall quality is rated as High, Moderate, Low, or Critically Low.",
+          "wrong": {
+            "A": "RCT quality = Cochrane RoB 2 tool.",
+            "B": "Observational cohort study quality = Newcastle-Ottawa Scale.",
+            "D": "Diagnostic accuracy study quality = QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies, version 2)."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — AMSTAR-2 for systematic review quality assessment",
+          "trial": "Shea BJ et al. BMJ (2017): AMSTAR-2 development and validation paper — 16-item tool; high-quality systematic reviews must score 'Low concern' on all critical domains.",
+          "pearl": "AMSTAR-2 = SYSTEMATIC REVIEWS. RoB 2 = RCTs. Newcastle-Ottawa = OBSERVATIONAL. QUADAS-2 = DIAGNOSTIC ACCURACY. AGREE II = GUIDELINES. Five tools, five study types — essential exam knowledge.",
+          "difficulty": 1
+        }
+      }
+    ]
+  }
+}

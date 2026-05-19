@@ -1,0 +1,334 @@
+{
+  "pearls": [
+    {
+      "text": "The marginal mandibular branch of the facial nerve runs within 1cm inferior to the mandibular lower border anteriorly. All submandibular incisions must be placed ≥2cm below the inferior border of the mandible to protect it.",
+      "source": "A1 · Introduction to OMFS",
+      "tags": ["anatomy", "facial nerve", "submandibular", "surgical safety"]
+    },
+    {
+      "text": "The facial artery crosses the inferior border of the mandible at the anterior edge of the masseter muscle — the most reliable landmark for facial artery ligation during submandibular approaches.",
+      "source": "A1 · Introduction to OMFS",
+      "tags": ["anatomy", "facial artery", "landmarks", "haemostasis"]
+    },
+    {
+      "text": "The inferior alveolar nerve enters the mandibular foramen on the medial ramus, 1cm above the occlusal plane. Its average diameter is 2.4mm. During bilateral sagittal split osteotomy, it must be visualised and protected before splitting.",
+      "source": "A1 · Introduction to OMFS",
+      "tags": ["anatomy", "IAN", "BSSO", "nerve protection"]
+    },
+    {
+      "text": "TNM 8th edition (AJCC/UICC 2017) introduced depth of invasion (DOI) as a T-category modifier for oral cavity SCC: DOI >5mm upstages to T2; DOI >10mm upstages to T3. DOI is measured from the mucosal basement membrane, not tumour surface.",
+      "source": "B1 · Oral Cancer Staging",
+      "tags": ["oncology", "TNM", "depth of invasion", "oral SCC"]
+    },
+    {
+      "text": "Perineural invasion (PNI) in oral cavity SCC is an independent predictor of local recurrence and reduced survival. It is classified as 'large calibre' (≥0.1mm nerve diameter) — a major adverse feature warranting postoperative radiotherapy consideration per NCCN.",
+      "source": "B1 · Oral Cancer Staging",
+      "tags": ["oncology", "perineural invasion", "pathology", "radiation"]
+    },
+    {
+      "text": "Elective ipsilateral selective neck dissection (levels I–III) is indicated for clinically N0 oral cavity SCC when the risk of occult nodal metastasis exceeds 20% — approximately equivalent to T2 tumours (>2cm) and tumours with DOI >4mm.",
+      "source": "B5 · Neck Dissection",
+      "tags": ["oncology", "neck dissection", "elective", "N0 neck"]
+    },
+    {
+      "text": "The spinal accessory nerve (CN XI) runs through the posterior triangle, crossing from the internal jugular vein to the trapezius muscle. It must be preserved in all selective neck dissections — its sacrifice causes shoulder drop and chronic pain.",
+      "source": "B5 · Neck Dissection",
+      "tags": ["anatomy", "CN XI", "neck dissection", "shoulder function"]
+    },
+    {
+      "text": "Radial forearm free flap (RFFF) pedicle length is 20–25cm with 2–3mm vessel diameter — the most reliable flap for intraoral tongue and floor-of-mouth reconstruction. The Allen test must be performed pre-operatively to confirm ulnar dominance.",
+      "source": "A7 · Reconstruction Principles",
+      "tags": ["reconstruction", "RFFF", "free flap", "Allen test"]
+    },
+    {
+      "text": "The anterolateral thigh (ALT) free flap provides 8–10cm × 25cm skin with a pedicle of 8–12cm length. It is the workhorse flap for large oropharyngeal and midface defects. Flap thickness varies significantly by BMI.",
+      "source": "A7 · Reconstruction Principles",
+      "tags": ["reconstruction", "ALT flap", "free flap", "oropharynx"]
+    },
+    {
+      "text": "Osseointegration requires 6 weeks of undisturbed healing in trabecular bone and 12 weeks in cortical bone. The Branemark original protocol (1977) used a two-stage approach with 3–6 months healing before loading.",
+      "source": "C3 · Dental Implants",
+      "tags": ["implants", "osseointegration", "Branemark", "healing protocol"]
+    },
+    {
+      "text": "Inferior alveolar nerve block achieves anaesthesia of the ipsilateral lower teeth, buccal gingivae from the molars anteriorly, and skin/mucosa of the lower lip and chin. It targets the IAN at the mandibular foramen — 1cm above occlusal plane on the medial ramus.",
+      "source": "A1 · Introduction to OMFS",
+      "tags": ["anaesthesia", "IAN block", "inferior alveolar", "technique"]
+    },
+    {
+      "text": "The Wilkes classification stages internal derangement of the TMJ: Stage I (pre-displacement, normal radiograph) to Stage V (perforation with degenerative change). MRI is the gold standard for disc position assessment.",
+      "source": "D1 · TMJ Disorders",
+      "tags": ["TMJ", "Wilkes", "internal derangement", "MRI"]
+    },
+    {
+      "text": "Arthrocentesis of the TMJ uses two needles in the canthal–tragal line: the posterior needle for lavage inflow at the posterior recess, anterior needle for outflow. Minimum 100–200mL lactated Ringer's solution. Effective for reducing pro-inflammatory cytokines.",
+      "source": "D2 · TMJ Surgery",
+      "tags": ["TMJ", "arthrocentesis", "lavage", "technique"]
+    },
+    {
+      "text": "The Pruzansky-Kaban classification for HFM mandibular hypoplasia: Type I = small hypoplastic condyle, functional joint; Type IIA = condyle flattened, functional joint present; Type IIB = no functional TMJ, condyle displaced; Type III = complete absence of condyle/ramus/TMJ.",
+      "source": "F3 · Hemifacial Microsomia",
+      "tags": ["HFM", "Pruzansky-Kaban", "classification", "mandible"]
+    },
+    {
+      "text": "Distraction osteogenesis activation rate: 1mm/day in two 0.5mm increments (morning and evening). Latency period 5–7 days. Consolidation 6–8 weeks. Do NOT activate before the latency period ends — premature activation prevents callus formation.",
+      "source": "F3 · Hemifacial Microsomia",
+      "tags": ["DO", "distraction osteogenesis", "activation rate", "latency"]
+    },
+    {
+      "text": "Virchow's law (1851): when a cranial suture fuses prematurely, skull growth stops perpendicular to the fused suture and compensatory growth occurs parallel to it. This explains the characteristic skull shapes: sagittal fusion → scaphocephaly (boat-shaped, CI<75).",
+      "source": "F2 · Craniosynostosis",
+      "tags": ["craniosynostosis", "Virchow's law", "skull shape", "scaphocephaly"]
+    },
+    {
+      "text": "Metopic synostosis produces trigonocephaly (triangular forehead) with hypotelorism. The metopic suture normally fuses at 9–12 months — premature fusion before this is pathological. Fronto-orbital advancement is indicated when fronto-orbital retrusion is >5mm.",
+      "source": "F2 · Craniosynostosis",
+      "tags": ["craniosynostosis", "metopic", "trigonocephaly", "hypotelorism"]
+    },
+    {
+      "text": "Positional plagiocephaly vs true lambdoid synostosis: positional shows anterior displacement of the ipsilateral ear and parallelogram skull shape; true lambdoid synostosis shows POSTERIOR displacement of the ear and trapezoid skull shape on vertex view.",
+      "source": "F2 · Craniosynostosis",
+      "tags": ["craniosynostosis", "lambdoid", "positional plagiocephaly", "differential diagnosis"]
+    },
+    {
+      "text": "Apert syndrome = FGFR2 mutation (Ser252Trp or Pro253Arg) + bicoronal synostosis + complex syndactyly (mitten hand). Intelligence varies widely. Distinguished from Crouzon syndrome (FGFR2, no limb anomalies).",
+      "source": "F2 · Craniosynostosis",
+      "tags": ["craniosynostosis", "Apert", "FGFR2", "syndromic"]
+    },
+    {
+      "text": "Fronto-orbital advancement (FOA) is the standard surgical treatment for single-suture coronal and syndromic craniosynostosis. Optimal timing is 6–12 months of age. Major risk: significant blood loss (50–200% estimated blood volume). Cross-matched blood mandatory.",
+      "source": "F2 · Craniosynostosis",
+      "tags": ["craniosynostosis", "FOA", "surgical timing", "blood loss"]
+    },
+    {
+      "text": "Veau classification for cleft palate: Class I = soft palate only; Class II = hard and soft palate, not involving alveolus; Class III = complete unilateral cleft (alveolus to uvula); Class IV = complete bilateral cleft. The incisive foramen is the landmark dividing primary (anterior) from secondary (posterior) palate.",
+      "source": "F1 · Cleft Lip and Palate",
+      "tags": ["cleft", "Veau classification", "cleft palate", "anatomy"]
+    },
+    {
+      "text": "Alveolar bone grafting (ABG) timing: one-third to one-half root formation of the ipsilateral canine on OPG — NOT chronological age. This typically corresponds to 8–11 years. The canine root must be partially formed so it can 'seek' its own bone after grafting.",
+      "source": "F1 · Cleft Lip and Palate",
+      "tags": ["cleft", "ABG", "alveolar bone graft", "timing"]
+    },
+    {
+      "text": "Furlow double-opposing Z-plasty for cleft palate repair: levator veli palatini is transposed from its abnormal anteroposterior orientation to a normal transverse orientation by including it in the posteriorly-based muscle flap of each Z-plasty. This is associated with the best speech outcomes.",
+      "source": "F1 · Cleft Lip and Palate",
+      "tags": ["cleft", "Furlow", "Z-plasty", "velopharyngeal"]
+    },
+    {
+      "text": "Maternal cigarette smoking is the strongest modifiable environmental risk factor for cleft lip with or without palate (OR 1.34–2.1). Folic acid supplementation 400mcg pre-conceptually reduces the relative risk by approximately 25%.",
+      "source": "F1 · Cleft Lip and Palate",
+      "tags": ["cleft", "aetiology", "smoking", "folic acid"]
+    },
+    {
+      "text": "Submandibular gland accounts for 80–90% of salivary calculi. Contributing factors: uphill drainage against gravity (Wharton's duct), alkaline calcium-rich secretion, viscous mucous saliva. Parotid calculi are rare (5–10%) due to serous secretion and downhill drainage.",
+      "source": "F4 · Salivary Gland Infections",
+      "tags": ["sialolithiasis", "submandibular", "calculi", "pathophysiology"]
+    },
+    {
+      "text": "Meal-time syndrome (pre- and peri-prandial swelling of the submandibular gland) is pathognomonic of sialolithiasis. The calculus partially obstructs Wharton's duct, causing saliva to accumulate during eating when salivary flow increases.",
+      "source": "F4 · Salivary Gland Infections",
+      "tags": ["sialolithiasis", "meal-time syndrome", "Wharton's duct", "diagnosis"]
+    },
+    {
+      "text": "Staphylococcus aureus is the most common causative organism in acute suppurative parotitis (50–80% of cases). Risk factors include dehydration, immunosuppression, post-operative state, anticholinergic medications. First-line treatment: co-amoxiclav (covers S. aureus and anaerobes) + rehydration.",
+      "source": "F4 · Salivary Gland Infections",
+      "tags": ["parotitis", "S. aureus", "microbiology", "treatment"]
+    },
+    {
+      "text": "Frey syndrome (gustatory sweating) occurs in 30–50% of parotidectomy patients. Mechanism: aberrant parasympathetic reinnervation of sweat glands by auriculotemporal nerve fibres originally destined for parotid. Prevention: SMAS flap interposition. Treatment: botulinum toxin A injections.",
+      "source": "F4 · Salivary Gland Infections",
+      "tags": ["parotidectomy", "Frey syndrome", "complication", "botulinum toxin"]
+    },
+    {
+      "text": "Sjögren syndrome diagnostic criteria (2016 ACR/EULAR): minor salivary gland biopsy showing focal lymphocytic sialadenitis with focus score ≥1 (foci per 4mm²) = 3 points (highest weighting). Total score ≥4 = diagnosis. Anti-SSA/Ro antibodies = 3 points.",
+      "source": "F4 · Salivary Gland Infections",
+      "tags": ["Sjögren", "diagnosis", "ACR/EULAR", "minor salivary gland biopsy"]
+    },
+    {
+      "text": "Sjögren syndrome confers 44× increased risk of MALT lymphoma compared with the general population. Persistent parotid enlargement, lymphadenopathy, monoclonal gammopathy, and cryoglobulinaemia are clinical warning signs requiring haematological investigation.",
+      "source": "F4 · Salivary Gland Infections",
+      "tags": ["Sjögren", "MALT lymphoma", "oncology risk", "surveillance"]
+    },
+    {
+      "text": "Parotidectomy facial nerve landmarks: (1) tragal pointer — nerve lies 1cm deep and inferior to the tip of the tragal cartilage; (2) tympanomastoid suture — nerve exits 6–8mm inferior to the inferior end; (3) posterior belly of digastric — nerve is superior to the digastric at the styloid process.",
+      "source": "F4 · Salivary Gland Infections",
+      "tags": ["parotidectomy", "facial nerve", "landmarks", "surgical anatomy"]
+    },
+    {
+      "text": "The condylar head absorbs 30% of masticatory load and is the most vulnerable site in facial fractures. Intracapsular condylar fractures in children should be managed conservatively with early mobilisation to prevent ankylosis and growth disturbance.",
+      "source": "D3 · Condylar Fractures",
+      "tags": ["condylar fracture", "paediatric", "conservative", "ankylosis prevention"]
+    },
+    {
+      "text": "Endoscopic condylar fracture repair (ESCF) has emerged as a minimally invasive alternative to open reduction for subcondylar fractures displaced >5mm or angulated >15 degrees. Three- to four-port technique allows ORIF under direct vision with minimal scar.",
+      "source": "D3 · Condylar Fractures",
+      "tags": ["condylar fracture", "endoscopic", "ESCF", "technique"]
+    },
+    {
+      "text": "The zygomaticomaxillary complex (ZMC) has four articulations: zygomaticofrontal suture, zygomaticoarch, infraorbital rim, and zygomaticomaxillary buttress. All four must be reduced and fixed for stable ZMC fracture repair.",
+      "source": "E3 · Midface Fractures",
+      "tags": ["ZMC fracture", "four-point fixation", "midface", "fracture repair"]
+    },
+    {
+      "text": "Le Fort I fracture line passes through: piriform aperture, anterior nasal spine, maxillary sinuses, pterygomaxillary junction — separating the tooth-bearing maxilla from the rest of the face. Patients have mid-face mobility with intact orbital rims.",
+      "source": "E3 · Midface Fractures",
+      "tags": ["Le Fort", "Le Fort I", "fracture pattern", "anatomy"]
+    },
+    {
+      "text": "Nasotracheal intubation is CONTRAINDICATED in suspected Le Fort III and panfacial fractures due to the risk of tube passage through a cribriform plate fracture into the anterior cranial fossa. Use oral intubation or awake fibreoptic nasal intubation with CT confirmation of cribriform plate integrity.",
+      "source": "E5 · Panfacial Fractures",
+      "tags": ["Le Fort", "nasotracheal", "contraindication", "airway management"]
+    },
+    {
+      "text": "Panfacial fracture sequencing debate: bottom-up (Manson) starts by establishing mandibular occlusion as the foundation; outside-in (Gruss) starts with zygomatic arches and frontal bar to restore facial width and projection first. Both require restoring all four facial dimensions.",
+      "source": "E5 · Panfacial Fractures",
+      "tags": ["panfacial fracture", "sequencing", "Manson", "Gruss"]
+    },
+    {
+      "text": "Virtual surgical planning (VSP) for panfacial fractures requires CT with ≤1mm slice thickness. Mirror imaging uses the uninjured contralateral side as template. VSP reduces surgical time, improves symmetry, and enables prefabricated titanium patient-specific implants.",
+      "source": "E5 · Panfacial Fractures",
+      "tags": ["VSP", "virtual surgical planning", "panfacial", "CT requirements"]
+    },
+    {
+      "text": "Frontal sinus fracture management depends on posterior table integrity and nasofrontal duct status. Anterior table only fractures: ORIF if cosmetically significant. Posterior table fractures with duct injury: cranialization (obliterate sinus, drill posterior table to dura).",
+      "source": "E4 · Frontal Sinus Fractures",
+      "tags": ["frontal sinus", "fracture", "cranialization", "nasofrontal duct"]
+    },
+    {
+      "text": "Enophthalmos in orbital floor fractures develops when orbital volume increases by >1.5–2.0cm³. Cosmetically significant enophthalmos (>2mm) requires orbital floor reconstruction. Pure blow-out fractures: repair within 2 weeks to prevent fibrosis of herniated orbital fat.",
+      "source": "E3 · Midface Fractures",
+      "tags": ["orbital floor", "enophthalmos", "blow-out", "orbital volume"]
+    },
+    {
+      "text": "Load-bearing vs load-sharing fixation: load-bearing (2.4mm reconstruction plate) bridges the defect and bears all masticatory forces — used for comminuted fractures and after resection. Load-sharing (2.0mm miniplate) distributes load between plate and bone — requires bone continuity.",
+      "source": "E5 · Panfacial Fractures",
+      "tags": ["fixation", "load-bearing", "load-sharing", "reconstruction plate"]
+    },
+    {
+      "text": "The number needed to treat (NNT) = 1/ARR (absolute risk reduction). NNT of 10 means 10 patients must receive the treatment to prevent one additional adverse outcome. NNT should always be interpreted alongside the severity of the outcome and treatment burden.",
+      "source": "G1 · Evidence-Based OMFS",
+      "tags": ["NNT", "statistics", "evidence-based medicine", "ARR"]
+    },
+    {
+      "text": "GRADE evidence quality: High = further research unlikely to change confidence; Moderate = further research likely to have impact; Low = further research very likely to change estimates; Very Low = uncertain estimate. RCTs begin as High; observational studies begin as Low.",
+      "source": "G1 · Evidence-Based OMFS",
+      "tags": ["GRADE", "evidence quality", "RCT", "observational studies"]
+    },
+    {
+      "text": "I² statistic (heterogeneity in meta-analysis): 0–25% = low; 25–50% = moderate; 50–75% = substantial; >75% = considerable. When I²>50%, investigate sources of heterogeneity before relying on pooled estimate. I² does NOT represent the percentage of studies showing a given direction of effect.",
+      "source": "G1 · Evidence-Based OMFS",
+      "tags": ["meta-analysis", "I²", "heterogeneity", "statistics"]
+    },
+    {
+      "text": "CONSORT 2010 requires prospective trial registration as one of its checklist items. Clinical trials must be registered in an WHO-approved registry (ClinicalTrials.gov, ISRCTN, EUDRACT) BEFORE the first participant is enrolled.",
+      "source": "G2 · Clinical Trials in OMFS",
+      "tags": ["CONSORT", "trial registration", "RCT", "ethics"]
+    },
+    {
+      "text": "The IDEAL framework stages surgical innovation: Stage 1 = first use (case report, 1–5 patients), Stage 2a = development (small prospective series, 5–50), Stage 2b = exploratory (larger cohort 50–200), Stage 3 = assessment (RCT vs standard), Stage 4 = surveillance (long-term registry).",
+      "source": "G2 · Clinical Trials in OMFS",
+      "tags": ["IDEAL", "surgical innovation", "framework", "stages"]
+    },
+    {
+      "text": "Type I error (alpha, false positive): concluding an effect exists when it does not. Set at 5% (alpha=0.05). Type II error (beta, false negative): missing a real effect. Set at 20% (beta=0.20), corresponding to 80% power. Power = 1 − beta.",
+      "source": "G2 · Clinical Trials in OMFS",
+      "tags": ["statistics", "Type I error", "Type II error", "power"]
+    },
+    {
+      "text": "OHIP-14 (Oral Health Impact Profile-14) has a score range 0–56; higher scores = worse oral health-related QoL. The minimum clinically important difference (MCID) is approximately 9 points. Use to assess surgical outcomes before and after orthognathic surgery, implant placement, or oral cancer treatment.",
+      "source": "G3 · Outcomes Research",
+      "tags": ["OHIP-14", "PRO", "MCID", "oral health QoL"]
+    },
+    {
+      "text": "EQ-5D utility score (0=death, 1=perfect health) is used to calculate QALYs: QALY = utility × time in health state. NICE's willingness-to-pay threshold: £20,000–30,000 per QALY. Interventions above £30,000/QALY require exceptional justification.",
+      "source": "G3 · Outcomes Research",
+      "tags": ["EQ-5D", "QALY", "NICE", "health economics"]
+    },
+    {
+      "text": "The COMET Initiative (Core Outcome Measures in Effectiveness Trials) develops core outcome sets — the minimum standardised outcomes that should be measured in clinical trials for a given condition. Using core outcome sets enables data pooling across trials and reduces outcome heterogeneity in meta-analyses.",
+      "source": "G3 · Outcomes Research",
+      "tags": ["COMET", "core outcome sets", "standardisation", "meta-analysis"]
+    },
+    {
+      "text": "VAS (Visual Analogue Scale) pain MCID: approximately 13–15mm on a 100mm scale. NRS (Numerical Rating Scale) pain MCID: approximately 1.5–2 points on a 0–10 scale. These thresholds are critical for sample size calculations in pain outcome studies.",
+      "source": "G3 · Outcomes Research",
+      "tags": ["VAS", "NRS", "MCID", "pain measurement"]
+    },
+    {
+      "text": "All four ICMJE authorship criteria must be met: (1) substantial intellectual contribution; (2) drafting or critical revision; (3) final approval; (4) accountability. Gift authorship (adding non-contributing individuals) and ghost authorship (omitting qualifying contributors) are both research misconduct.",
+      "source": "G4 · Scientific Writing and Publication",
+      "tags": ["authorship", "ICMJE", "gift authorship", "ghost authorship"]
+    },
+    {
+      "text": "STROBE (observational studies), CONSORT (RCTs), PRISMA (systematic reviews), CARE (case reports), STARD (diagnostic accuracy). Match the reporting guideline to the study design at the point of study planning — not at submission. EQUATOR Network provides all checklists.",
+      "source": "G4 · Scientific Writing and Publication",
+      "tags": ["reporting guidelines", "STROBE", "CONSORT", "PRISMA", "EQUATOR"]
+    },
+    {
+      "text": "PROSPERO registration must occur BEFORE searches are conducted in a systematic review. Retrospective registration (after searches/analysis are complete) is a limitation and most high-impact journals require prospective registration. Registration prevents post-hoc outcome selection bias.",
+      "source": "G4 · Scientific Writing and Publication",
+      "tags": ["PROSPERO", "systematic review", "registration", "bias prevention"]
+    },
+    {
+      "text": "h-index definition: h papers each cited at least h times. To calculate: rank publications by citation count; h-index = the rank number where rank equals citation count. h-index is biased toward senior, prolific researchers and varies significantly by specialty.",
+      "source": "G4 · Scientific Writing and Publication",
+      "tags": ["h-index", "bibliometrics", "citation", "academic performance"]
+    },
+    {
+      "text": "Predatory journal warning signs: unsolicited email invitations; journal name mimicking a legitimate title; rapid acceptance within days; payment demanded before review; no legitimate editorial board. Verify using DOAJ (Directory of Open Access Journals) and Cabell's Predatory Reports.",
+      "source": "G4 · Scientific Writing and Publication",
+      "tags": ["predatory journals", "publication integrity", "open access", "verification"]
+    },
+    {
+      "text": "Gold Open Access = immediate permanent free access under Creative Commons licence (typically CC-BY). CC licences are irrevocable and permanent — they do not expire. Green OA = self-archiving of accepted manuscript after embargo period (typically 6–12 months).",
+      "source": "G4 · Scientific Writing and Publication",
+      "tags": ["open access", "Gold OA", "Green OA", "Creative Commons"]
+    },
+    {
+      "text": "Dry socket (alveolar osteitis) occurs in 3–5% of routine extractions, rising to 25–30% after mandibular third molar removal in high-risk patients. Risk factors: female sex, OCP, smoking, traumatic extraction, immunosuppression. Treatment: gentle irrigation + zinc oxide eugenol dressing (Alvogyl).",
+      "source": "C4 · Dentoalveolar Complications",
+      "tags": ["dry socket", "alveolar osteitis", "complication", "third molar"]
+    },
+    {
+      "text": "Medication-related osteonecrosis of the jaw (MRONJ) staging (AAOMS 2022): Stage 0 = no exposed bone but symptoms; Stage 1 = exposed bone, no infection; Stage 2 = exposed bone with infection (pain/erythema/pus); Stage 3 = exposed bone with pathological fracture, fistula, or osteolysis to inferior border.",
+      "source": "C4 · Dentoalveolar Complications",
+      "tags": ["MRONJ", "AAOMS staging", "osteonecrosis", "bisphosphonate"]
+    },
+    {
+      "text": "For Le Fort I osteotomy (maxillary impaction): total maxillary blood supply must be maintained via at least one soft tissue pedicle — descending palatine artery (posterior), mucoperiosteal pedicle, and nasal mucosa. Complete degloving must be avoided.",
+      "source": "A4 · Orthognathic Surgery: Principles",
+      "tags": ["Le Fort I", "blood supply", "maxilla", "orthognathic"]
+    },
+    {
+      "text": "Bilateral sagittal split osteotomy (BSSO): the Obwegeser-Dal Pont modification places the vertical cut anterior to the first molar through the buccal cortex, allowing greater advancement range. The neurovascular bundle must remain in the distal segment.",
+      "source": "A4 · Orthognathic Surgery: Principles",
+      "tags": ["BSSO", "sagittal split", "Obwegeser", "IAN protection"]
+    },
+    {
+      "text": "Genioplasty can advance, retrude, lengthen, shorten, or lateralise the chin. The mental nerve exits the mental foramen between the first and second premolars. The osteotomy must be ≥5mm below the mental foramina to protect the nerve.",
+      "source": "A5 · Orthognathic Surgery: Genioplasty",
+      "tags": ["genioplasty", "mental nerve", "osteotomy", "surgical safety"]
+    },
+    {
+      "text": "Soft tissue to skeletal movement ratios after orthognathic surgery: upper lip advancement (Le Fort I) = 0.5:1; lower lip following mandibular advancement (BSSO) = 0.9:1; chin (genioplasty) = 0.9:1. These ratios guide surgical planning and patient counselling.",
+      "source": "A5 · Orthognathic Surgery: Genioplasty",
+      "tags": ["orthognathic", "soft tissue ratio", "planning", "counselling"]
+    },
+    {
+      "text": "The Angle classification: Class I = mesiobuccal cusp of upper first molar occludes in the buccal groove of lower first molar; Class II = lower molar is distal (retrognathic mandible); Class III = lower molar is mesial (prognathic mandible or hypoplastic maxilla).",
+      "source": "A4 · Orthognathic Surgery: Principles",
+      "tags": ["Angle classification", "occlusion", "Class I/II/III", "orthognathic planning"]
+    },
+    {
+      "text": "The nasoalveolar moulding (NAM) appliance in cleft lip/palate: used from birth to 3–4 months before primary lip repair. It reduces the alveolar gap, lengthens the columella, and improves nostril symmetry, facilitating less tension at lip repair. Requires weekly adjustment.",
+      "source": "F1 · Cleft Lip and Palate",
+      "tags": ["NAM", "cleft", "presurgical orthopaedics", "columella"]
+    },
+    {
+      "text": "Velopharyngeal insufficiency (VPI) after cleft palate repair: 10–25% incidence. Assessed by nasendoscopy and speech assessment. Posterior pharyngeal flap (central port + two lateral ports) addresses sagittal VPI; sphincter pharyngoplasty (Orticochea) addresses circular VPI patterns.",
+      "source": "F1 · Cleft Lip and Palate",
+      "tags": ["VPI", "cleft palate", "pharyngeal flap", "sphincter pharyngoplasty"]
+    }
+  ]
+}

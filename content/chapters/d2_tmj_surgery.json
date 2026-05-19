@@ -1,0 +1,639 @@
+{
+  "id": "D2",
+  "title": "Temporomandibular Joint Surgery",
+  "subtitle": "Block D — Arthrocentesis, Arthroscopy, Arthroplasty, Total Joint Replacement",
+  "block": "D",
+  "block_name": "Temporomandibular Joint and Facial Trauma",
+  "level": "R3-5",
+  "reading_time_min": 38,
+  "guidelines_version": "AAOMS TMD Clinical Practice Guidelines 2022 · EACMFS TMJ Surgery Guidelines 2023 · BAOMS Alloplastic Joint Replacement Guidelines 2021",
+  "textbook_refs": [
+    "McCain JP (ed). Principles and Practice of Temporomandibular Joint Arthroscopy (1996)",
+    "Mercuri LG (ed). Temporomandibular Joint Total Joint Replacement — TMJ TJR (2016)",
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Nitzan DW et al. Arthrocentesis: A simplified treatment for severe, complicated TMJ lock. J Oral Maxillofac Surg (1991)"
+  ],
+  "learning_objectives": [
+    "Describe the technique, indications, and expected outcomes of TMJ arthrocentesis",
+    "Identify the arthroscopic anatomical landmarks and understand the diagnostic and operative arthroscopy repertoire",
+    "Compare the outcomes and indications for disc repositioning (eminectomy, discoplasty) versus discectomy",
+    "Describe the indications and contraindications for total TMJ replacement with stock and custom prostheses",
+    "Recognise complications of TMJ surgery including facial nerve injury, haemorrhage, and iatrogenic ankylosis",
+    "Understand the role of fat grafting, dermis grafting, and interpositional arthroplasty in TMJ reconstruction"
+  ],
+  "sections": [
+    {
+      "id": "D2-S1",
+      "title": "Arthrocentesis: Technique and Indications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "TMJ arthrocentesis — lavage of the superior joint compartment — is the simplest and most widely applied interventional procedure for the TMJ. Introduced by Nitzan et al. in 1991, it was demonstrated to achieve rapid resolution of acute closed lock in over 95% of cases. The procedure can be performed under local anaesthesia with or without intravenous sedation, making it suitable for outpatient delivery.\n\nThe technique uses the tragus-corner of eye line (Holmlund-Hellsing line) as the anatomical reference: the posterior needle entry point is 10 mm anterior to the tragus and 2 mm below this line; the anterior entry point is 20 mm anterior to the tragus and 10 mm below the line. With the patient in full occlusion, both needles are inserted into the superior joint compartment (confirmed by resistance-free flow), and the joint is lavaged with 200–300 mL of normal saline or lactated Ringer's solution. At completion, the space may be injected with corticosteroid (triamcinolone 10 mg) or hyaluronic acid (1 mL).\n\nMechanism of action is multifactorial: (1) physical removal of inflammatory mediators (prostaglandins, interleukins, bradykinin) that cause pain and synovitis; (2) removal of 'adhesive' interactions between disc and eminence that prevent normal disc translation; (3) hydrostatic pressure mobilises the articular disc; (4) injectate effect if corticosteroid/HA added. Arthrocentesis is indicated for: acute closed lock (DDwoR with limited opening), inflammatory arthralgia not responding to conservative management, and Wilkes Stage III–IV disease failing conservative treatment. Contraindications include: ankylosis (bony), overlying skin infection, allergy to injectate, and inability to cooperate."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Holmlund-Hellsing Line — Arthrocentesis Anatomy",
+          "content": "The Holmlund-Hellsing line runs from the mid-tragus to the lateral canthus of the eye. POSTERIOR NEEDLE: 10 mm anterior to tragus, 2 mm BELOW the line (targets posterior superior compartment). ANTERIOR NEEDLE: 20 mm anterior to tragus, 10 mm BELOW the line (targets anterior superior compartment for outflow). Both needles enter the superior compartment. Confirm by resistance-free injection — if resistance is felt, the needle is in soft tissue or through the disc."
+        }
+      ]
+    },
+    {
+      "id": "D2-S2",
+      "title": "TMJ Arthroscopy: Anatomy, Technique, and Indications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "TMJ arthroscopy uses a 1.9–2.3 mm diameter arthroscope to visualise the superior joint compartment directly. It represents a significant advance over arthrocentesis in providing diagnosis and operative intervention under direct vision. The standard approach is via the same Holmlund-Hellsing portal sites as for arthrocentesis, with the arthroscope introduced via the posterior portal and an operative instrument via the anterior portal.\n\nDiagnostic arthroscopy defines the standard anatomical zones of the superior compartment: the anterior recess, the intermediate zone, the posterior pouch, and the medial and lateral gutters. Normal synovium appears pale yellow and glistening; inflamed synovium is hyperaemic (red, vascular). The disc surface should be smooth and white. Adhesions appear as fibrous bands bridging the disc to the eminence or temporal surface and are a common finding in Wilkes Stage III–IV cases.\n\nOperative arthroscopic procedures include: lysis and lavage (breaking adhesions by sweeping the arthroscope or instruments through the compartment — the most commonly performed procedure), disc mobilisation and repositioning, synovectomy, and abrasion arthroplasty of the articular eminence. Lysis and lavage achieves excellent results (>80% improvement in pain and function) for Wilkes Stage III disease and is superior to arthrocentesis for adhesion lysis. Arthroscopy is the treatment of choice for acute closed lock failing arthrocentesis, Wilkes Stage III–IV not responding to conservative management, and diagnostic uncertainty requiring direct visualisation and synovial biopsy.\n\nThe facial nerve (cranial nerve VII) runs in close proximity to the TMJ — the temporal branch crosses superior to the joint, and the posterior facial nerve trunk passes anterior to the stylomastoid foramen, 5–10 mm deep to the parotid fascia. Facial nerve injury during arthroscopy is uncommon (<1%) but a recognised complication. Other complications include: haemorrhage (external carotid artery branches — middle meningeal artery if needle penetrates the petrotympanic fissure — is rare but catastrophic), instrument breakage, cartilage damage, and synovial fistula."
+        },
+        {
+          "type": "table",
+          "title": "TMJ Arthroscopy vs Arthrocentesis: Comparison",
+          "headers": ["Feature", "Arthrocentesis", "Arthroscopy"],
+          "rows": [
+            ["Visualisation", "None — blind procedure", "Direct vision of joint compartment"],
+            ["Instrumentation", "Two needles only", "1.9-2.3 mm arthroscope + operative instruments"],
+            ["Anaesthesia", "LA ± sedation", "Usually GA; LA/sedation possible"],
+            ["Adhesion lysis", "Hydrostatic/mechanical (blind)", "Direct lysis under vision"],
+            ["Synovial biopsy", "Not possible", "Possible under direct vision"],
+            ["Disc repositioning", "Not possible", "Possible (suture technique)"],
+            ["Wilkes Stage indication", "III (acute); IV (adjunct)", "III-IV (preferred over arthrocentesis for adhesions)"],
+            ["Success rate (pain/function)", "85-90% acute DDwoR", ">85% Stage III; 70-80% Stage IV"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Facial Nerve — Zone of Risk During TMJ Surgery",
+          "content": "The temporal branch of the facial nerve crosses the zygomatic arch approximately 1.5 cm anterior to the tragus at the level of the condylar neck. This is directly within the surgical field for TMJ arthroscopy (anterior portal) and open TMJ surgery. Always mark the preauricular incision and stay deep to the SMAS/superficial temporal fascia to avoid this branch. The main trunk of the facial nerve exits the stylomastoid foramen and must be protected during any open TMJ approach via a retromandibular or preauricular incision."
+        }
+      ]
+    },
+    {
+      "id": "D2-S3",
+      "title": "Open TMJ Surgery: Disc Repositioning and Discectomy",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Open TMJ surgery is reserved for patients who have failed arthroscopic management or who require more extensive disc or bony surgery. The **preauricular approach** (extended preauricular, endaural, or Al-Kayat modification) is the standard access route to the TMJ, providing excellent exposure of the condyle, articular eminence, and disc with acceptable aesthetic results when carefully closed. The Al-Kayat modification (1979) uses a curvilinear preauricular incision with temporal extension to provide improved exposure whilst protecting the temporal branch of the facial nerve.\n\n**Disc repositioning (discoplasty)** aims to restore normal disc-condyle relationship. Techniques include: posterior band release with anterior disc suturing to the condylar neck (disc anchor procedure), plication (posterior band shortening to reduce disc displacement), and discpexy (suturing disc to lateral pterygoid). Disc repositioning is most successful for Wilkes Stage III disease when the disc is still intact and morphologically appropriate. Reported success rates for Wilkes Stage III are 85–90% at 1 year for pain and function. Outcomes deteriorate with increasing Wilkes stage.\n\n**Eminectomy (eminoplasty)** flattens or removes the articular eminence to reduce mechanical impingement of the disc and improve disc mobility. It is used for recurrent subluxation/dislocation and as an adjunct to disc repositioning in Wilkes Stage III–IV disease.\n\n**Discectomy** is indicated when the disc is perforated, morphologically destroyed, or irreparable (Wilkes Stage V). The disc is completely removed. Historically, discectomy alone was followed by fibrous ankylosis in some patients. To prevent this, **interpositional grafts** are placed in the discectomy space: autologous dermis-fat graft (harvested from the abdomen), temporal fascia (temporalis muscle and fascia pedicle graft — 'temporalis myofascial flap'), or micronised alloderm. The temporalis myofascial flap provides a vascularised interpositional tissue with good long-term outcomes (McCarthy 1987) and is the most widely used technique in the UK and Europe."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Discectomy + Interpositional Graft — What to Use",
+          "content": "After total disc removal for Wilkes Stage V, the most widely used interpositional material is the temporalis myofascial flap (temporal muscle + fascia, pedicled on the deep temporal artery). It provides vascularised tissue that resists fibrosis and remodels into a functional pseudodisc. Alternative: auricular cartilage graft (for smaller defects). Alloplastic disc replacements (e.g., Proplast-Teflon — now abandoned due to catastrophic foreign body reactions) should not be used. Dermis-fat graft from the abdomen is an accepted alternative with good long-term results."
+        }
+      ]
+    },
+    {
+      "id": "D2-S4",
+      "title": "Total TMJ Replacement: Indications and Prostheses",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Total temporomandibular joint replacement (TMJ TJR) involves replacement of both the condylar component and the glenoid fossa/eminence with prosthetic components. It is the definitive surgical treatment for end-stage TMJ disease. Current prosthetic systems available in Europe and the US include: **Biomet (Zimmer-Biomet) TMJ Prosthesis** (both stock sizes and custom patient-specific implants, PSI), **TMJ Concepts (Techmedica)** (custom PSI only), and **Stryker TMJ Prosthesis**. Materials: cobalt-chromium alloy or titanium condylar head, ultra-high molecular weight polyethylene (UHMWPE) fossa component.\n\nIndications for TMJ TJR include: end-stage TMJ osteoarthritis (Wilkes Stage V) failing conservative and arthroscopic management; failed prior TMJ surgery (previously failed disc surgery, discectomy without interpositional graft); inflammatory arthritis with severe condylar destruction (RA, JIA — after confirmed disease remission); severe condylar resorption with progressive malocclusion; TMJ ankylosis (bony, recurrent — see D3); and condylar tumour resection requiring reconstruction. TJR may be combined with orthognathic surgery (simultaneous or sequential) for patients with severe skeletal deformity from condylar resorption or ankylosis.\n\n**Stock vs. custom prostheses**: Stock prostheses come in standardised sizes and are suitable for most patients; they reduce cost and manufacturing lead time. Custom (patient-specific) prostheses are designed from CT data to match the exact anatomy of the patient and are preferred in cases with severe anatomical distortion (prior surgery, severe resorption, ankylosis), paediatric patients (though TJR is generally deferred until skeletal maturity), and complex combined orthognathic procedures. Patient-specific implants are designed using virtual surgical planning (VSP) software and 3D printed surgical guides.\n\nContraindications to TJR: active systemic infection, active inflammatory arthritis (disease not controlled), allergy to prosthetic materials, growing patients (relative — defer until skeletal maturity if possible), and inadequate bone stock for fixation."
+        },
+        {
+          "type": "table",
+          "title": "Indications for TMJ TJR vs Conservative/Arthroscopic Management",
+          "headers": ["Clinical Scenario", "First-Line", "If Fails/Not Appropriate", "TMJ TJR Indication"],
+          "rows": [
+            ["Acute closed lock (DDwoR)", "Arthrocentesis", "Arthroscopy lysis and lavage", "Not indicated (disc surgery first)"],
+            ["Wilkes Stage III DDwoR", "Arthroscopy", "Open discoplasty", "Not first-line unless disc destroyed"],
+            ["Wilkes Stage V (perforated disc, OA)", "Arthroscopy + discectomy", "Open discectomy + interposition graft", "Yes — failed prior surgery or severe OA"],
+            ["RA/JIA condylar destruction", "Rheumatology DMARD control", "Splinting, arthrocentesis", "Yes — after confirmed disease remission"],
+            ["ICR with severe retrognathia", "Serial CBCT + splint 12-24 months", "Orthognathic surgery alone (if stable)", "Yes — if condyles insufficient to support orthognathics"],
+            ["TMJ ankylosis (bony)", "Gap arthroplasty", "Interpositional arthroplasty", "Yes — recurrent ankylosis or severe deformity"],
+            ["Condylar osteochondroma", "Resection of tumor", "N/A", "Yes — if condyle removed, TJR for reconstruction"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Proplast-Teflon Prostheses — Historical Warning",
+          "content": "Proplast-Teflon (Vitek) alloplastic disc replacements, used extensively in the 1980s, caused a catastrophic foreign body giant-cell reaction resulting in severe bone destruction, severe pain, and systemic illness. They were recalled in 1990. Patients who received these implants may still present decades later with ongoing complications. Current-generation prostheses use cobalt-chromium and UHMWPE with a proven safety record. Never recommend any alloplastic disc replacement; total joint systems with metal and UHMWPE are the evidence-based choice."
+        }
+      ]
+    },
+    {
+      "id": "D2-S5",
+      "title": "TMJ Ankylosis",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "TMJ ankylosis — defined as pathological immobility of the joint — is classified as fibrous (soft tissue fusion) or bony (osseous fusion with continuity of bone between condyle and temporal bone). Bony ankylosis is the more severe form, completely preventing mandibular movement. The most common causes in adults are: trauma (subcondylar fracture — particularly if treated conservatively without mobilisation), infection (septic arthritis from haematogenous spread or direct extension), and inflammatory arthritis (RA, JIA in children). In children, the aetiology is predominantly trauma (forced use of obstetric forceps, condylar fracture from falls, birth injury) and infection.\n\nClinical features include: severe trismus (sometimes complete inability to open), mandibular retrognathia (due to restricted mandibular growth when ankylosis occurs in childhood), chin deviation toward the affected side (unilateral), anterior open bite and facial asymmetry (bilateral or unilateral childhood ankylosis). The Sawhney classification (1986) categorises ankylosis into 4 types based on the degree of bony fusion and surgical relevance:\n- Type I: Fibrous adhesions, condyle visible\n- Type II: Bony on lateral aspect, condylar head still identifiable\n- Type III: Complete bony fusion, condylar head and ramus fused to glenoid and zygomatic arch\n- Type IV: Full bony block between ramus and zygomatic arch/base of skull — most challenging.\n\nSurgical management requires: complete resection of the ankylosed mass (gap arthroplasty creating a 1.5–2 cm gap between the ramus and temporal bone), aggressive physiotherapy to maintain opening, and reconstruction of the TMJ. Options for reconstruction include: costochondral rib graft (CCG — preferred in children due to growth potential), distraction osteogenesis of the reconstructed ramus, or total joint replacement (preferred in adults/skeletally mature patients). The risk of re-ankylosis is highest in patients with severe bony ankylosis and inadequate physiotherapy — aggressive jaw-opening exercises must begin within 1 week of surgery."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Costochondral Rib Graft — Growth Potential Consideration",
+          "content": "The costochondral rib graft (CCG) uses a rib segment with attached costal cartilage to replace the condyle and ramus in children with TMJ ankylosis. The cartilaginous cap has growth potential, allowing mandibular growth to continue after reconstruction — this is its key advantage over total alloplastic joint replacement in children. The risk is unpredictable growth: some grafts overgrow causing condylar hyperplasia-like deformity, others show minimal growth. Despite unpredictability, CCG remains the preferred reconstruction in children below skeletal maturity; TJR is reserved for skeletally mature patients."
+        }
+      ]
+    },
+    {
+      "id": "D2-S6",
+      "title": "Complications of TMJ Surgery",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Complications of TMJ surgery range from minor and transient to serious and potentially permanent. Understanding these complications is essential for informed consent, prevention, and management.\n\n**Facial nerve injury** is the most feared complication of open TMJ surgery. The temporal branch of the facial nerve — responsible for frontalis, orbicularis oculi (upper), and corrugator muscle innervation — is at particular risk during preauricular incisions and dissection over the zygomatic arch. Incidence of temporary temporal nerve weakness following open TMJ surgery is reported at 5–15%; permanent injury is <1%. Prevention: careful anatomical dissection within the correct fascial plane (staying deep to temporoparietal fascia superficial to superficial temporal fascia). Intraoperative nerve monitoring using facial electromyography (fEMG) is recommended for complex cases.\n\n**Haemorrhage**: The superficial temporal artery (branch of external carotid) and middle temporal artery are at risk in preauricular dissection. Deep penetration (e.g., arthroscope directed medially through the petrotympanic fissure) risks injury to the middle meningeal artery (branch of maxillary artery, runs in the middle cranial fossa) — reported in rare arthroscopy cases with catastrophic intracranial haemorrhage. Extreme care with needle/instrument direction is essential.\n\n**Condylar sag / proximal segment malpositioning** occurs during open joint surgery if the condylar head is not properly supported and seated in the fossa during wound closure. Prevention: manual support of the condyle with the surgical assistant holding the mandible up during closure, or use of a chin cup.\n\n**Heterotopic ossification** (re-ankylosis): New bone formation between the condyle/ramus and the temporal bone following surgery — particularly after ankylosis release without aggressive physiotherapy. Prevention: aggressive mandibular physiotherapy beginning within 1 week of surgery, and use of interpositional material to prevent bone-to-bone contact."
+        },
+        {
+          "type": "table",
+          "title": "TMJ Surgery Complications: Prevention and Management",
+          "headers": ["Complication", "Risk Procedure", "Prevention", "Management"],
+          "rows": [
+            ["Temporal branch facial nerve injury", "Open surgery, preauricular incision", "Stay deep to temporoparietal fascia; nerve monitoring", "Observation 3-6 months; most transient; physiotherapy"],
+            ["Middle meningeal artery injury", "Arthroscopy (medial penetration)", "Limit needle depth; direct laterally not medially", "Immediate neurosurgery referral; CT head"],
+            ["Superficial temporal artery injury", "Preauricular dissection", "Visualise artery before incision; ligate", "Direct pressure; ligation"],
+            ["Re-ankylosis (heterotopic ossification)", "Ankylosis release surgery", "Aggressive physiotherapy from week 1; interposition graft", "Surgical re-release if >2 episodes; consider TJR"],
+            ["Condylar sag", "BSSO, open TMJ surgery", "Manual condylar support during closure", "Repositioning if detected intraoperatively; revision if malocclusion"],
+            ["Prosthetic implant loosening/failure", "TMJ TJR", "Adequate bone stock; avoid in active infection/arthritis", "Revision surgery; exchange of components"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D2-S7",
+      "title": "Outcomes and Evidence for TMJ Surgical Interventions",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The evidence base for TMJ surgical interventions has grown substantially over the past two decades. A systematic review by Reston and Turkelson (2003) in the Annals of Internal Medicine assessed all TMD treatments, concluding that the evidence supports arthroscopy for pain and function improvement in Wilkes Stage III–IV disease. The Cochrane review by Alomar et al. (2019) on interventions for TMJ disc displacement identified arthrocentesis and arthroscopy as effective for reducing pain and improving opening in DDwoR, with arthroscopy offering superior results when adhesions are present.\n\nFor total joint replacement, the Mercuri prospective study (2012) of the Biomet TMJ system in 347 joints reported 5-year outcomes showing significant improvement in pain (VAS reduction from 8.2 to 2.1), maximum opening (17.3 mm to 37.4 mm), and patient-reported quality of life. Prosthesis survival at 5 years was 97.2%. Systematic reviews by Leandro et al. (2013) and Sidebottom et al. (2020) of UK/European TJR centres reported similar functional outcomes and confirmed TJR as the gold standard for end-stage TMJ disease.\n\nThe landmark multicentre study by Gonzalez-Garcia et al. (JOMS 2011) on outcomes of combined TJR + orthognathic surgery demonstrated that simultaneous total joint replacement and Le Fort I/BSSO achieves stable skeletal correction with acceptable relapse rates (2–4% at 2 years), comparable to conventional orthognathic surgery in non-arthritic patients — validating the combined simultaneous approach for patients with severe TMJ disease and associated skeletal deformity."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — When to Escalate from Conservative to Surgical TMJ Management",
+          "content": "The decision to escalate from conservative to surgical management should be made after: (1) minimum 3-6 months of optimised conservative management (splint, physiotherapy, pharmacotherapy), (2) confirmed diagnosis with MRI/CBCT, (3) Wilkes Stage III or higher, and (4) significant functional limitation or refractory pain affecting quality of life. For acute closed lock (<2 weeks duration): proceed directly to arthrocentesis. For chronic DDwoR (>3 months) not responding to conservative: arthroscopy. For end-stage OA (Wilkes V, failed prior surgery): TJR discussion."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of TMJ surgery with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "D2-Q1",
+        "stem": "A 34-year-old woman presents with acute inability to open her mouth beyond 23 mm of 4 days' duration after waking one morning. She has a longstanding history of right TMJ clicking that is now absent. There is deviation of the mandible to the right on opening. She has tried NSAIDs and soft diet without improvement. MRI shows right disc anteriorly displaced in both closed and open mouth positions, with joint effusion. What is the most appropriate initial surgical intervention?",
+        "options": {
+          "A": "Bilateral TMJ arthroscopy under GA with disc repositioning",
+          "B": "Right TMJ arthrocentesis under LA/sedation",
+          "C": "Open discoplasty via preauricular approach",
+          "D": "Total right TMJ replacement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Acute closed lock (DDwoR) of 4 days' duration, failing NSAIDs, is a primary indication for arthrocentesis. The procedure lavages inflammatory mediators from the superior joint compartment and breaks adhesions between the disc and articular eminence, allowing disc mobilisation. Success rate for acute closed lock with arthrocentesis is >90%. It can be performed under LA/sedation as an outpatient procedure, making it the least invasive and most appropriate first surgical step. Arthroscopy is escalated if arthrocentesis fails or if adhesions require direct lysis.",
+          "wrong": {
+            "A": "Bilateral arthroscopy under GA is excessive as a first step for a unilateral acute closed lock of 4 days. Arthrocentesis should be tried first — if it fails, escalate to arthroscopy.",
+            "C": "Open discoplasty is reserved for failure of arthroscopic management. Proceeding directly to open surgery for a 4-day acute closed lock bypasses less invasive options.",
+            "D": "Total joint replacement has no indication for acute closed lock — it is reserved for end-stage disease (Wilkes V, failed prior surgery, severe OA)."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — acute DDwoR failing conservative management: arthrocentesis first-line interventional treatment",
+          "trial": "Nitzan DW et al. Arthrocentesis: a simplified treatment for severe, complicated TMJ lock. J Oral Maxillofac Surg (1991): arthrocentesis success rate 95% for acute closed lock in 39 patients",
+          "pearl": "Acute closed lock + failed conservative management = ARTHROCENTESIS first. Holmlund-Hellsing line for portal placement. Success >90%. If fails → escalate to arthroscopy for direct adhesion lysis. Open surgery and TJR are NOT first-line for acute closed lock."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D2-Q2",
+        "stem": "During TMJ arthrocentesis using the Holmlund-Hellsing line, where is the POSTERIOR needle placed?",
+        "options": {
+          "A": "10 mm anterior to the tragus and 10 mm below the line",
+          "B": "20 mm anterior to the tragus and 2 mm below the line",
+          "C": "10 mm anterior to the tragus and 2 mm below the line",
+          "D": "5 mm anterior to the tragus directly on the line"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The posterior needle for TMJ arthrocentesis (Holmlund-Hellsing technique) is placed 10 mm anterior to the mid-tragus and 2 mm BELOW the Holmlund-Hellsing line (tragus-lateral canthus line). This places the needle into the posterior part of the superior joint compartment. The ANTERIOR needle is placed 20 mm anterior to the tragus and 10 mm below the line, for the outflow cannula in the anterior recess of the superior compartment. The 2 mm below-line position avoids the superior articular surface and positions the needle correctly within the posterior superior compartment.",
+          "wrong": {
+            "A": "10 mm anterior to tragus + 10 mm below the line would be placed too inferiorly, potentially entering the parotid gland rather than the joint.",
+            "B": "20 mm anterior + 2 mm below describes the ANTERIOR needle position, not the posterior needle.",
+            "D": "On the line directly is too superior — would risk entering the temporal bone articular surface region."
+          },
+          "guideline": "Nitzan DW et al. Arthrocentesis technique. J Oral Maxillofac Surg (1991) — posterior needle: 10 mm anterior to tragus, 2 mm below HL line; anterior: 20 mm anterior, 10 mm below",
+          "trial": "Holmlund A, Hellsing G. Arthroscopy of the TMJ: occurrence and nature of cartilage changes. Int J Oral Maxillofac Surg (1988): HL line established as anatomical reference for TMJ portal placement",
+          "pearl": "ARTHROCENTESIS LANDMARKS: Holmlund-Hellsing line = tragus to lateral canthus. POSTERIOR needle: 10mm anterior to tragus, 2mm BELOW line. ANTERIOR needle: 20mm anterior to tragus, 10mm BELOW line. Memory aid: posterior needle = 10/2; anterior needle = 20/10."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q3",
+        "stem": "A 45-year-old man with longstanding right TMJ pain and crepitus is found on MRI to have a perforated articular disc with severe condylar erosion and osteophyte formation (Wilkes Stage V). He has failed arthrocentesis and two arthroscopic procedures. What is the most appropriate surgical option?",
+        "options": {
+          "A": "Third arthroscopy with more aggressive synovectomy",
+          "B": "Open discectomy without interpositional graft",
+          "C": "Total right TMJ replacement",
+          "D": "Modified condylotomy"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "This is end-stage TMJ disease (Wilkes Stage V — perforated disc, severe OA) having failed two arthroscopic procedures. Total joint replacement (TJR) with a condylar prosthesis and fossa component (Biomet/TMJ Concepts system) is the appropriate definitive intervention. TJR provides predictable pain relief, improved function, and restoration of mandibular mechanics. Long-term studies (Mercuri 2012) show 97% prosthesis survival at 5 years with significant pain reduction.",
+          "wrong": {
+            "A": "A third arthroscopy for Wilkes Stage V with perforated disc and failed prior arthroscopy would be futile — there is no disc to repair and no reversible lesion to address arthroscopically.",
+            "B": "Open discectomy without interpositional graft risks fibrous ankylosis and is inadequate for Stage V disease with severe OA. Even discectomy with interposition graft would be insufficient given two failed prior procedures.",
+            "D": "Modified condylotomy repositions the condyle and is used for disc repositioning in selected DDwR cases — not for end-stage OA with perforated disc."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — end-stage TMJ disease (Wilkes V) failing prior surgery: total joint replacement is indicated",
+          "trial": "Mercuri LG et al. Biomet TMJ prosthesis long-term outcomes. J Oral Maxillofac Surg (2012): 5-year prospective study; 97.2% survival; VAS pain reduction from 8.2 to 2.1; opening improvement from 17.3 to 37.4 mm",
+          "pearl": "Failed arthroscopy × 2 + Wilkes Stage V (perforated disc + severe OA) = TOTAL JOINT REPLACEMENT. TJR criteria: end-stage disease + failed prior surgical management. Do not repeat arthroscopy for failed Stage V. Biomet and TMJ Concepts systems are standard — stock or custom patient-specific."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q4",
+        "stem": "Which of the following represents the MOST appropriate interpositional material after total disc removal (discectomy) to prevent fibrous ankylosis?",
+        "options": {
+          "A": "Proplast-Teflon disc replacement",
+          "B": "Temporalis myofascial flap",
+          "C": "Silicone rubber disc",
+          "D": "Acellular dermal matrix (Alloderm) alone"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The temporalis myofascial flap (temporal muscle with its investing fascia, pedicled on the deep temporal artery) is the gold-standard autologous interpositional material after TMJ discectomy. It provides vascularised tissue that resists fibrosis, remodels into a functional pseudodisc, and has good long-term outcomes in preventing ankylosis. The flap is raised through the preauricular incision and rotated inferiorly to fill the discectomy space. Dermis-fat graft from the abdomen is an accepted alternative. Auricular cartilage can be used for smaller defects.",
+          "wrong": {
+            "A": "Proplast-Teflon (Vitek) prostheses caused catastrophic foreign body giant-cell reactions leading to severe bone destruction. They were recalled in 1990 and must NEVER be used.",
+            "C": "Silicone rubber disc replacements caused similar foreign body reactions to Proplast-Teflon, including osteolysis and severe systemic reactions. Not used in modern practice.",
+            "D": "Alloderm (acellular dermal matrix) can be used as interpositional material but is not the gold standard — it lacks the vascularity and bulk of the temporalis myofascial flap. Used as an adjunct rather than the primary interpositional tissue."
+          },
+          "guideline": "EACMFS TMJ Surgery Guidelines (2023) — discectomy: temporalis myofascial flap is preferred autologous interpositional material; alloplastic discs contraindicated",
+          "trial": "Wolford LM, Karras SC. Autologous fat implantation around TMJ prosthetics. J Oral Maxillofac Surg (1997): temporalis myofascial flap and fat interposition reduce re-ankylosis after discectomy vs no interposition",
+          "pearl": "Post-discectomy interposition: TEMPORALIS MYOFASCIAL FLAP = gold standard (vascularised, autologous, remodels to functional pseudodisc). NEVER: Proplast-Teflon or silicone disc replacements — both recalled for catastrophic foreign body reactions. Fat graft (abdomen) = acceptable alternative."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q5",
+        "stem": "The Al-Kayat modification of the preauricular approach to the TMJ uses a specific incision design to protect which structure?",
+        "options": {
+          "A": "The external carotid artery",
+          "B": "The temporal branch of the facial nerve",
+          "C": "The auriculotemporal nerve",
+          "D": "The superficial temporal artery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Al-Kayat (1979) modification of the preauricular approach uses a curvilinear preauricular incision with a temporal extension that runs within the temporal hairline, allowing superior flap retraction in a plane deep to the temporoparietal fascia (superficial temporal fascia) and superficial to the superficial layer of the deep temporal fascia. This dissection plane keeps the temporal branch of the facial nerve (VII) within the superficial flap, protecting it from injury. The temporal branch crosses the zygomatic arch approximately 1.5 cm anterior to the tragus and is the nerve most at risk during this approach.",
+          "wrong": {
+            "A": "The external carotid artery lies well below and posterior to the TMJ; it is not the primary concern in the preauricular approach.",
+            "C": "The auriculotemporal nerve (branch of CN V3) provides sensory supply to the TMJ and temporal scalp — it runs with the superficial temporal artery and is protected by the same fascial plane dissection, but the primary design purpose of the Al-Kayat modification is protection of the MOTOR facial nerve temporal branch.",
+            "D": "The superficial temporal artery is identified and either retracted or ligated during the approach — it is not the specific nerve structure the Al-Kayat modification was designed to protect."
+          },
+          "guideline": "EACMFS TMJ Surgery Technical Guidelines (2023) — preauricular approach: Al-Kayat modification for temporal branch CN VII protection",
+          "trial": "Al-Kayat A, Bramley P. A modified pre-auricular approach to the temporomandibular joint and malar arch. Br J Oral Surg (1979): temporal branch facial nerve injury rate reduced with modified curvilinear incision and sub-SMAS dissection plane",
+          "pearl": "Al-Kayat modification: curvilinear preauricular incision + temporal extension within hairline. Dissection plane: DEEP to temporoparietal fascia (SMAS equivalent) = temporal branch CN VII rides in the superficial flap = protected. The nerve crosses the zygomatic arch ~1.5 cm anterior to the tragus. This is the critical anatomy for TMJ surgery access."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q6",
+        "stem": "TMJ arthrocentesis lavage with 200-300 mL saline achieves its therapeutic effect primarily through which mechanism?",
+        "options": {
+          "A": "Stretching of the capsular ligaments to increase range of motion",
+          "B": "Removal of inflammatory mediators and breaking of adhesions between disc and eminence",
+          "C": "Hyaluronic acid injection into the inferior joint compartment",
+          "D": "Repositioning of the anteriorly displaced disc onto the condylar head"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The primary mechanisms of arthrocentesis lavage are: (1) dilution and removal of pro-inflammatory mediators (IL-1, IL-6, TNF-α, prostaglandins, bradykinin) from the joint space, reducing synovial inflammation and pain; (2) hydrostatic pressure of the lavage fluid breaks fibrous adhesions (sticky disc phenomenon) between the articular disc and the temporal articular surface, allowing the disc to resume normal translatory movement. Secondary mechanisms include washing out matrix metalloproteinases that degrade cartilage and providing mechanical joint lubrication.",
+          "wrong": {
+            "A": "Capsular stretching plays a minor role; the primary mechanism is inflammatory mediator removal and adhesion breaking, not capsular distension.",
+            "C": "Hyaluronic acid is injected as an adjunct at the END of arthrocentesis, not the mechanism of the lavage itself. The lavage is saline.",
+            "D": "Arthrocentesis does not mechanically reposition the disc. It creates conditions allowing the disc to move more freely, but disc repositioning is not the primary mechanism. Disc recapture may occur as a result but is not the direct action."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — arthrocentesis mechanism: inflammatory mediator washout + adhesion lysis",
+          "trial": "Nitzan DW et al. The role of friction and adhesion in the pathogenesis of hypomobility of the TMJ. J Oral Maxillofac Surg (1990): 'sticky disc' adhesion is the primary mechanical cause of closed lock; lavage breaks these adhesions",
+          "pearl": "Arthrocentesis mechanism = TWO PARTS: (1) INFLAMMATORY MEDIATOR REMOVAL (IL-1, TNF, PGE2) + (2) ADHESION LYSIS ('sticky disc' breaking). This explains why 200-300 mL lavage is needed — not just a small injection. The volume provides both anti-inflammatory effect and hydraulic adhesion breaking."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q7",
+        "stem": "A 52-year-old woman requires total right TMJ replacement following failed prior disc surgery. Pre-operative CT shows the right condylar head has been previously removed with only 5 mm of remaining condylar neck and an irregular glenoid fossa surface. What type of prosthesis system is most appropriate?",
+        "options": {
+          "A": "Standard stock Biomet prosthesis (small size)",
+          "B": "Patient-specific custom implant (PSI) designed from CT data",
+          "C": "Costochondral rib graft reconstruction",
+          "D": "Interpositional dermis-fat graft without joint replacement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The severely distorted anatomy — prior condylar head removal, irregular glenoid fossa, only 5 mm of remaining condylar neck — is a classic indication for custom patient-specific implants (PSI). Standard stock prostheses rely on normal anatomical dimensions; they cannot accommodate the severe distortion in this case. PSI is designed from the patient's CT data using virtual surgical planning, with the exact condylar neck length, angulation, and fossa shape precisely matched to the patient's unique anatomy. This maximises fit, fixation, and functional outcome.",
+          "wrong": {
+            "A": "A standard stock prosthesis requires adequate condylar neck length and a normally contoured glenoid fossa for stable fixation and correct positioning. With only 5 mm of condylar neck and irregular fossa surface, stock fitting would be unreliable.",
+            "C": "Costochondral rib graft is appropriate for children; this is a 52-year-old skeletally mature woman requiring a reliable adult reconstruction — total joint prosthesis is preferred over biological reconstruction in this age group.",
+            "D": "Interpositional grafting alone does not replace the removed condylar head or restore condylar support to the ramus."
+          },
+          "guideline": "BAOMS Alloplastic TMJ Replacement Guidelines (2021) — custom PSI indicated for: prior surgery with anatomical distortion, severe resorption, complex combined cases",
+          "trial": "Gonzalez-Garcia R et al. Combined TJR + orthognathic surgery outcomes. J Oral Maxillofac Surg (2011): custom PSI achieved superior skeletal stability vs stock prosthesis in anatomically complex cases",
+          "pearl": "Stock TMJ prosthesis = normal/near-normal anatomy. CUSTOM PSI = distorted anatomy (prior surgery, severe resorption, ankylosis, complex combined cases). PSI is designed from CT data — virtual surgical planning ensures precise fit. Cost and lead time are higher for PSI but indispensable in complex cases."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q8",
+        "stem": "A surgeon performing right TMJ arthroscopy notices the arthroscope has passed medially through the petrotympanic fissure and the patient develops sudden profuse arterial bleeding from the posterior portal. What structure has been injured?",
+        "options": {
+          "A": "Superficial temporal artery",
+          "B": "Middle meningeal artery",
+          "C": "External carotid artery",
+          "D": "Posterior auricular artery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The middle meningeal artery — a branch of the maxillary artery (internal carotid territory) — enters the skull through the foramen spinosum, immediately medial to the TMJ and posterior to the spine of the sphenoid. If the arthroscope is directed excessively medially and posteriorly, it can penetrate through the posterior-medial wall of the glenoid fossa or through the petrotympanic fissure and injure the middle meningeal artery as it courses intracranially. This is an extremely rare but potentially fatal complication, causing epidural haematoma. Immediate neurosurgical emergency response is required.",
+          "wrong": {
+            "A": "The superficial temporal artery lies superficial to the joint in the preauricular soft tissues — injury occurs during skin/soft tissue dissection, not from medial intra-articular arthroscope penetration.",
+            "C": "The external carotid artery is located well inferior and posterior to the TMJ; it would not be injured by medial arthroscope penetration through the petrotympanic fissure.",
+            "D": "The posterior auricular artery runs behind the ear and is not at risk from arthroscope positioning medial to the joint."
+          },
+          "guideline": "EACMFS TMJ Surgery Technical Guidelines (2023) — middle meningeal artery injury: rare catastrophic arthroscopy complication; never direct instrument medially toward petrotympanic fissure",
+          "trial": "Laskin DM. Complications of TMJ arthroscopy. J Oral Maxillofac Surg (1992): case reports of middle meningeal artery injury with medial arthroscope perforation; absolute contraindication to medial instrument direction",
+          "pearl": "MIDDLE MENINGEAL ARTERY: the most feared vascular complication of TMJ arthroscopy. Located medially just posterior to the glenoid fossa at the petrotympanic fissure. NEVER direct the arthroscope medially. It enters the skull at foramen spinosum. Injury = epidural haematoma = neurosurgical emergency. Prevention: maintain lateral instrument orientation throughout."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q9",
+        "stem": "Which Sawhney classification of TMJ ankylosis is characterised by complete bony fusion between the condyle/ramus and the zygomatic arch, with no identifiable condylar head?",
+        "options": {
+          "A": "Sawhney Type I",
+          "B": "Sawhney Type II",
+          "C": "Sawhney Type III",
+          "D": "Sawhney Type IV"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Sawhney Type IV is the most severe form: complete massive bony fusion creating a block of bone between the ramus and the zygomatic arch and base of skull, with no identifiable anatomical condylar structures. This is the most surgically challenging type. Types I–III have progressively increasing bony involvement: Type I = fibrous only; Type II = bony on lateral aspect, condyle still identifiable; Type III = complete bony fusion but condylar head and ramus still individually identified; Type IV = complete block, no anatomical landmarks preserved.",
+          "wrong": {
+            "A": "Type I = fibrous adhesions only; condyle is visible on CT.",
+            "B": "Type II = bony fusion on the lateral aspect of the joint, but the condylar head can still be identified.",
+            "C": "Type III = complete bony ankylosis with condylar and ramus structures fused, but individual anatomical components can still be identified on CT. More surgically challenging than Type II but less severe than Type IV."
+          },
+          "guideline": "Sawhney CP. Bony ankylosis of the TMJ: follow-up of 70 patients treated with arthroplasty and acrylic spacer interposition. Plast Reconstr Surg (1986) — Type I-IV classification still widely used in surgical planning",
+          "trial": "Sawhney CP. Plast Reconstr Surg (1986): 70 cases of bony ankylosis; Type IV requires most extensive resection; re-ankylosis rate higher in Types III-IV without aggressive physiotherapy",
+          "pearl": "Sawhney Classification: I=fibrous (condyle visible), II=lateral bony (condyle identifiable), III=complete bony (condyle/ramus structures identifiable), IV=MASSIVE BLOCK (no identifiable structures). Type IV = most difficult surgery. All require aggressive post-op physiotherapy to prevent re-ankylosis."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q10",
+        "stem": "The Mercuri prospective study (2012) of Biomet total TMJ replacement in 347 joints reported 5-year prosthesis survival of approximately:",
+        "options": {
+          "A": "75%",
+          "B": "85%",
+          "C": "97%",
+          "D": "100%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The Mercuri (2012) prospective study reported 97.2% prosthesis survival at 5 years for the Biomet total TMJ prosthesis system. This includes both stock and custom prostheses. The study also demonstrated significant improvements in pain (VAS from 8.2 to 2.1) and maximum opening (from 17.3 mm to 37.4 mm). Failures in the 2.8% were predominantly aseptic loosening of the condylar component. This data underpins TJR as the definitive treatment for end-stage TMJ disease.",
+          "wrong": {
+            "A": "75% survival would be considered unacceptable for a joint replacement; this is far below reported results.",
+            "B": "85% is closer to hip replacement survival at 20 years; the 5-year TMJ TJR survival is considerably higher.",
+            "D": "100% would be exceptional; some hardware failures and revisions are expected even with excellent implant design."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — total joint replacement: >90% long-term success rate; Biomet/TMJ Concepts systems are approved systems",
+          "trial": "Mercuri LG et al. Biomet TMJ Replacement System: a prospective 5-year study. J Oral Maxillofac Surg (2012): 97.2% 5-year prosthesis survival; VAS improvement from 8.2 to 2.1; MIO improvement from 17.3 to 37.4 mm",
+          "pearl": "Biomet TMJ TJR 5-year survival = 97.2% (Mercuri 2012). Pain VAS: 8.2 → 2.1. Opening: 17.3 mm → 37.4 mm. These are the landmark outcome numbers for TMJ TJR. Know them for the exam."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q11",
+        "stem": "After TMJ ankylosis release surgery, what is the SINGLE most important measure to prevent re-ankylosis (heterotopic ossification)?",
+        "options": {
+          "A": "Intraoperative radiotherapy to the surgical site",
+          "B": "Aggressive mandibular physiotherapy commencing within the first post-operative week",
+          "C": "Administration of IV bisphosphonate for 6 months post-surgery",
+          "D": "Placement of a silicone rubber spacer between the ramus and temporal bone"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Aggressive mandibular physiotherapy — active and passive jaw-opening exercises commenced within 1 week of ankylosis release surgery — is the single most important factor in preventing re-ankylosis. The exercises disrupt early fibrous adhesion formation, maintain the surgical gap, and stimulate mature fibrous pseudo-articulation rather than bony regeneration. Patients typically require a custom mouth opening device (mouth prop, Therabite, dynasplint) and supervised physiotherapy for 3–6 months. Re-ankylosis risk is directly correlated with inadequate physiotherapy.",
+          "wrong": {
+            "A": "Radiotherapy to a surgical site carries risks of radiation osteonecrosis and is not a standard practice for ankylosis prevention.",
+            "C": "Bisphosphonates inhibit osteoclast activity and may theoretically reduce heterotopic ossification, but physiotherapy is the primary and most evidence-based intervention. Bisphosphonate for 6 months post-TMJ surgery is not standard protocol.",
+            "D": "Silicone rubber spacers caused foreign body reactions (similar to Proplast-Teflon failures) and are not used in modern TMJ surgery. Interpositional grafts (temporalis myofascial flap) are used."
+          },
+          "guideline": "EACMFS TMJ Surgery Guidelines (2023) — post-ankylosis surgery: physiotherapy within 1 week mandatory; most important re-ankylosis prevention",
+          "trial": "Sawhney CP. Plast Reconstr Surg (1986): re-ankylosis rate 15% with inadequate physiotherapy vs <5% with aggressive early physiotherapy protocol",
+          "pearl": "TMJ ankylosis re-ankylosis prevention = PHYSIOTHERAPY WITHIN WEEK 1. This is more important than the surgical technique itself. Without early physiotherapy, re-ankylosis rates approach 15%. Use Therabite/dynasplint for passive stretch 3-5× daily. First follow-up at 1 week specifically to confirm physiotherapy is underway."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q12",
+        "stem": "A costochondral rib graft (CCG) is preferred over total alloplastic joint replacement for TMJ ankylosis reconstruction in children because of which unique property?",
+        "options": {
+          "A": "Lower infection rate",
+          "B": "Growth potential of the cartilaginous cap",
+          "C": "Greater load-bearing capacity",
+          "D": "Easier surgical technique requiring shorter operation time"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The costochondral rib graft's cartilaginous cap (costal cartilage junction with rib bone) has intrinsic growth potential — chondrocyte proliferation within the cartilage allows graft growth in conjunction with overall mandibular growth. This allows continued mandibular development after reconstruction in a growing child, avoiding the severe mandibular hypoplasia and facial deformity that would result if mandibular growth was definitively arrested. In contrast, alloplastic total joint prostheses are fixed in size and do not grow with the child. The main drawback of CCG is unpredictable growth — some grafts overgrow (condylar hyperplasia-like), others undergrow.",
+          "wrong": {
+            "A": "Infection rates are actually lower with alloplastic prostheses than with biological grafts, which are susceptible to graft resorption and infection. This is not the reason for preferring CCG in children.",
+            "C": "Alloplastic prostheses have superior load-bearing capacity compared to a biological rib graft. CCG is not used for its mechanical properties.",
+            "D": "CCG requires rib harvest (donor site morbidity) and complex carving/shaping surgery. Alloplastic procedures may actually be quicker in experienced hands."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — paediatric TMJ ankylosis reconstruction: CCG preferred for growth potential; TJR deferred until skeletal maturity",
+          "trial": "Perrott DH et al. Costochondral graft construction/reconstruction of the ramus/condyle unit. Int J Oral Maxillofac Surg (1994): CCG shows growth potential in children; follow-up required for overgrowth",
+          "pearl": "CCG in children = GROWTH POTENTIAL of cartilaginous cap. Main advantage over alloplastic. Main risk = UNPREDICTABLE GROWTH (over OR under). TJR in adults. CCG in children (skeletally immature). Follow-up for potential overgrowth requiring condylectomy later."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q13",
+        "stem": "In which Wilkes stage does arthroscopic lysis and lavage provide the BEST outcomes, supporting it as the procedure of choice?",
+        "options": {
+          "A": "Wilkes Stage I",
+          "B": "Wilkes Stage II",
+          "C": "Wilkes Stage III",
+          "D": "Wilkes Stage V"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Arthroscopic lysis and lavage achieves its best outcomes in Wilkes Stage III (intermediate) — chronic non-reducing disc displacement with adhesions, beginning articular surface changes, but without the advanced disc perforation and severe OA of Stages IV–V. At Stage III, the disc is still morphologically suitable for repositioning and the articular surfaces are not yet severely damaged. Reported success rates exceed 85% for pain and function improvement in Stage III. Stage IV outcomes are acceptable (70–80%) but less predictable; Stage V has an intact disc disruption that cannot be adequately addressed arthroscopically.",
+          "wrong": {
+            "A": "Stage I (painless click, no structural changes) does not require surgical intervention — conservative management or reassurance is appropriate.",
+            "B": "Stage II (intermittent locking, slight disc deformity) also responds well to conservative management. Arthroscopy is not the first line.",
+            "D": "Stage V (perforated disc, advanced OA) is beyond the scope of arthroscopic benefit — the perforated disc cannot be repaired arthroscopically, and severe OA requires joint replacement consideration."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — arthroscopic lysis and lavage: optimal indication Wilkes Stage III; >85% success rate",
+          "trial": "Reston JT, Turkelson CM. Meta-analysis of surgical treatments for TMJ disc displacement. J Oral Maxillofac Surg (2003): arthroscopy superior to splint therapy for Stage III; success rate 82-91% for pain and function",
+          "pearl": "Arthroscopy best results = WILKES STAGE III. This is the key staging threshold for arthroscopic surgery: Stages I-II = conservative management. Stage III = arthroscopy (lysis and lavage). Stage IV = arthroscopy or open surgery. Stage V = discectomy ± TJR."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q14",
+        "stem": "What is the primary risk of performing a total TMJ replacement during ACTIVE rheumatoid arthritis (RA) rather than waiting for disease remission?",
+        "options": {
+          "A": "Haemorrhage due to anticoagulant medications",
+          "B": "Progressive prosthetic bone loss and implant failure from ongoing synovial inflammation and bone resorption",
+          "C": "Rejection of prosthetic components due to RA-related immune dysregulation",
+          "D": "Infection due to methotrexate-induced immunosuppression"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Active RA causes ongoing synovial inflammation with elevated TNF-α, IL-1, and IL-6 driving aggressive synovial pannus formation and osteoclast-mediated bone resorption. If total joint replacement is performed during active disease, the same pathological process that destroyed the native joint will continue to erode the bone adjacent to the prosthetic components, leading to periprosthetic bone loss and ultimately implant loosening and failure. Additionally, active RA-associated inflammation impairs wound healing. Disease remission (ideally for ≥6 months, confirmed by serology and clinical assessment) is required before TJR.",
+          "wrong": {
+            "A": "Anticoagulation in RA patients is not standard — RA does not typically require anticoagulation. This is not the primary concern.",
+            "C": "Prosthetic components (titanium, cobalt-chromium, UHMWPE) are biocompatible materials that do not elicit immune rejection in the same way as biological transplants.",
+            "D": "Methotrexate-related immunosuppression is a perioperative consideration, but current guidance does not mandate stopping MTX for elective joint surgery (unlike biologics). The primary risk is disease activity, not immunosuppression from DMARDs."
+          },
+          "guideline": "BAOMS Alloplastic TMJ Replacement Guidelines (2021) — active inflammatory arthritis is a contraindication to TJR; rheumatology clearance and disease remission required",
+          "trial": "Gonzalez-Garcia R et al. Combined TJR + orthognathic in RA/JIA. JOMS (2011): active RA at time of TJR associated with higher revision rates; disease remission ≥6 months before surgery recommended",
+          "pearl": "Active RA = CONTRAINDICATION to TMJ TJR. Reason: ongoing synovial inflammation and osteoclastic bone resorption → periprosthetic bone loss → implant failure. Wait for disease remission ≥6 months (confirmed clinically and serologically) before planning TJR in RA."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q15",
+        "stem": "The modified condylotomy is a TMJ procedure performed via an intraoral approach. What is its mechanism and primary indication?",
+        "options": {
+          "A": "Removes the condylar head to decompress the joint in severe osteoarthritis",
+          "B": "Makes an intraoral ramus osteotomy (sagittal or subcondylar) to allow the condyle to move inferiorly and anteriorly, reducing disc displacement",
+          "C": "Fuses the condyle to the glenoid fossa for recurrent dislocation",
+          "D": "Shortens the articular eminence to prevent condylar translation locking"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The modified condylotomy (Hall 1984) uses an intraoral sagittal or subcondylar osteotomy of the ramus to allow the condyle to move inferiorly and anteriorly under the anteriorly displaced disc — effectively repositioning the condyle under the disc without directly manipulating the disc. It is used for DDwR and DDwoR (Wilkes Stage II–IV) in patients who are not candidates for arthroscopy or who have failed conservative management. The intraoral approach avoids external scars and facial nerve risk. It provides simultaneous disc repositioning and joint decompression.",
+          "wrong": {
+            "A": "Condylotomy does not remove the condylar head — that would be condylectomy. Condylotomy merely makes an osteotomy to reposition the condyle.",
+            "C": "Fusion for recurrent dislocation would be ankylosis induction — this is eminectomy that is used for recurrent dislocation, not condylotomy.",
+            "D": "Eminoplasty/eminectomy reduces the articular eminence to prevent condylar locking/dislocation — this describes that procedure, not condylotomy."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — modified condylotomy: indication for DDwR/DDwoR (Wilkes II-IV) failing conservative management, intraoral approach",
+          "trial": "Hall HD. Modified condylotomy for treatment of the painful TMJ with a reducing disc. Oral Surg (1984): condylotomy success rate 79% for DDwR; intraoral approach with no facial nerve risk",
+          "pearl": "Modified condylotomy = INTRAORAL ramus osteotomy → condyle drops down and forward UNDER displaced disc → disc recaptured without touching it directly. Advantage: no external scar, no facial nerve risk. Indication: DDwR/DDwoR Wilkes II-IV failing conservative or arthroscopy."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q16",
+        "stem": "Intra-articular hyaluronic acid (HA) injection into the TMJ is placed in which joint compartment, and what is its proposed mechanism?",
+        "options": {
+          "A": "Inferior compartment; reducing disc displacement by lubricating the condyle-disc interface",
+          "B": "Superior compartment; viscosupplementation improving synovial fluid quality and reducing friction",
+          "C": "Both compartments simultaneously; bilateral anti-inflammatory effect",
+          "D": "Retrodiscal tissue; reducing retrodiscal bilaminar zone inflammation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Hyaluronic acid (sodium hyaluronate) injection is placed in the SUPERIOR joint compartment — the same compartment accessed for arthrocentesis. The proposed mechanism is viscosupplementation: replacing or supplementing degraded synovial fluid (which shows lower hyaluronate concentration in OA and disc displacement) with high-molecular-weight hyaluronic acid, restoring normal viscoelastic properties, improving joint lubrication, and reducing friction. Secondary effects include modulation of inflammatory cytokines (reducing IL-1β, TNF-α) and direct effect on chondrocyte metabolism. It is used for TMJ OA and disc displacement disorders, typically administered after arthrocentesis lavage.",
+          "wrong": {
+            "A": "The inferior compartment is a much smaller space responsible for condylar rotation — it is not the standard injection site and HA in the inferior compartment has no specific clinical evidence basis.",
+            "C": "Simultaneous bilateral injection is occasionally done in bilateral OA but is not the standard technique. Single superior compartment injection is the norm.",
+            "D": "Retrodiscal tissue injection is not a standard HA injection site."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — HA injection: superior compartment; indicated for TMJ OA and persistent disc displacement post-arthrocentesis",
+          "trial": "Altman R et al. Systematic review: HA injection in TMJ osteoarthritis. J Oral Rehabil (2022): HA superior to placebo for pain at 3 and 6 months; best evidence when given after arthrocentesis lavage",
+          "pearl": "HA injection = SUPERIOR compartment = viscosupplementation. Give after arthrocentesis lavage (wash out inflammation first, then inject HA for lubrication). 1 mL of Ostenil or Suplasyn. Evidence: pain reduction at 3-6 months. Works best in TMJ OA and persistent disc displacement."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q17",
+        "stem": "A 35-year-old woman undergoes elective left TMJ arthroscopy for Wilkes Stage III disc displacement. During the procedure, she develops immediate profound weakness of the left frontalis muscle and inability to raise the left eyebrow. Which nerve/branch has been injured?",
+        "options": {
+          "A": "Auriculotemporal nerve (V3)",
+          "B": "Zygomaticotemporal nerve (V2)",
+          "C": "Temporal branch of the facial nerve (VII)",
+          "D": "Trigeminal motor branch to masseter"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The temporal branch of the facial nerve (CN VII) is responsible for innervation of the frontalis muscle (forehead elevation), corrugator supercilii, and upper orbicularis oculi. Weakness of the frontalis (inability to raise the eyebrow) and potential upper eyelid weakness indicate temporal branch injury. This branch crosses the zygomatic arch approximately 1.5 cm anterior to the tragus — directly in the operative field for TMJ arthroscopy — and is the most commonly injured nerve in preauricular and arthroscopic TMJ procedures. Most post-arthroscopy temporal branch neuropraxia resolves within 3–6 months.",
+          "wrong": {
+            "A": "The auriculotemporal nerve (CN V3) provides sensory supply to the TMJ, temporal scalp, and auricle. Its injury would cause sensory loss in the temporal region, not frontalis motor weakness.",
+            "B": "The zygomaticotemporal nerve (CN V2) is purely sensory — it supplies the temporal skin. No motor function.",
+            "D": "The motor branch to the masseter (masseteric nerve) comes from CN V3 and innervates the masseter muscle, not the frontalis."
+          },
+          "guideline": "EACMFS TMJ Surgery Guidelines (2023) — facial nerve temporal branch injury: most common neurological complication; 5-15% transient; <1% permanent",
+          "trial": "Holmlund A et al. Facial nerve injury as a complication of TMJ arthroscopy. J Oral Maxillofac Surg (1991): temporal branch injury rate 6.5% in 154 arthroscopies; all cases resolved within 3-6 months",
+          "pearl": "Frontalis weakness after TMJ surgery = TEMPORAL BRANCH CN VII injury. This branch crosses the zygomatic arch ~1.5 cm anterior to the tragus. Prevention: dissect in the correct fascial plane (deep to SMAS, superficial to deep temporal fascia). Most transient (neuropraxia) and resolve within 3-6 months."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D2-Q18",
+        "stem": "Which finding at arthroscopy is characteristic of Wilkes Stage III disc displacement and is the primary target for arthroscopic operative treatment?",
+        "options": {
+          "A": "Smooth, white disc surface with normal glistening synovium",
+          "B": "Fibrous adhesions between the disc and the articular eminence surface",
+          "C": "Gross disc perforation with visible condylar bone",
+          "D": "Massive synovial proliferation (synovitis villi)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In Wilkes Stage III, the primary arthroscopic finding is fibrous adhesions — bands of fibrous tissue bridging the superior surface of the disc to the articular eminence or temporal articular surface. These adhesions prevent normal disc translation during opening, causing the 'stuck disc' phenomenon. They appear as pale fibrous strands bridging the joint space. The primary operative arthroscopic procedure is lysis of these adhesions using the arthroscope sweep or purpose-designed instruments, combined with lavage to remove inflammatory mediators. Breaking these adhesions restores disc mobility.",
+          "wrong": {
+            "A": "Smooth white disc with glistening synovium is the finding of a NORMAL joint (Stage I). This is not the typical Stage III finding.",
+            "C": "Gross disc perforation with visible condylar bone is the finding of Wilkes Stage V — end-stage disease. Not Stage III.",
+            "D": "Synovial villi are a finding in inflammatory arthritis (RA, JIA) affecting the TMJ — not the primary finding in Wilkes Stage III internal derangement."
+          },
+          "guideline": "Wilkes CH. Arch Otolaryngol Head Neck Surg (1989); McCain JP. Principles and Practice of TMJ Arthroscopy (1996): fibrous adhesions = Stage III hallmark; lysis and lavage targets these adhesions",
+          "trial": "McCain JP et al. Arthroscopy of the TMJ. J Oral Maxillofac Surg (1992): fibrous adhesions identified in 89% of Stage III cases; lysis of adhesions restored disc mobility in 84%",
+          "pearl": "Wilkes Stage III arthroscopic hallmark = FIBROUS ADHESIONS (disc to eminence). Treatment = LYSIS AND LAVAGE. Break adhesions under direct vision + wash out inflammatory mediators. Success >85% for pain and function at 1 year."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q19",
+        "stem": "A 28-year-old woman with a history of recurrent TMJ dislocation (jaw locking in open position, requiring manipulation to relocate 4 times in the past year) is referred for surgical management. Conservative measures have failed. What is the most appropriate surgical procedure?",
+        "options": {
+          "A": "Total TMJ replacement",
+          "B": "Eminectomy (articular eminence reduction)",
+          "C": "Bilateral disc repositioning via open preauricular approach",
+          "D": "Bilateral arthrocentesis and corticosteroid injection"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Recurrent TMJ dislocation (hypermobility causing the condyle to lock anterior to the articular eminence in the wide open position) is treated surgically by eminectomy (eminoplasty) — reducing or removing the articular eminence. By flattening the eminence, there is no anatomical barrier preventing the condyle from returning to the glenoid fossa when the patient tries to close. The procedure is performed via a preauricular approach. Alternative procedures include eminence augmentation (creating a bony stop to prevent excessive translation) and injection of autologous blood or sclerosant into the joint to create fibrosis, but eminectomy has the most consistent long-term evidence.",
+          "wrong": {
+            "A": "Total joint replacement is for end-stage joint destruction — recurrent dislocation does not involve joint destruction.",
+            "C": "Disc repositioning is for disc displacement disorders — recurrent dislocation is a condylar hypermobility problem, not a disc displacement problem. These are different diagnoses.",
+            "D": "Arthrocentesis and corticosteroid injection treat inflammatory arthralgia and acute closed lock — not recurrent dislocation/hypermobility."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — recurrent TMJ dislocation failing conservative management: eminectomy is the evidence-based surgical treatment",
+          "trial": "Undt G et al. Surgical management of chronic TMJ dislocation. J Oral Maxillofac Surg (1997): eminectomy success rate 87% for preventing recurrent dislocation at 2 years follow-up",
+          "pearl": "Recurrent TMJ DISLOCATION (condyle locks anterior to eminence, open position) = EMINECTOMY. Remove the articular eminence so the condyle can freely return. Different from CLOSED LOCK (DDwoR) = arthrocentesis/arthroscopy. Know the difference: OPEN lock = dislocation = eminectomy. CLOSED lock = DDwoR = arthrocentesis/arthroscopy."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q20",
+        "stem": "Which of the following is an ABSOLUTE contraindication to TMJ total joint replacement?",
+        "options": {
+          "A": "Prior failed disc surgery on the same joint",
+          "B": "Patient age over 65 years",
+          "C": "Active, uncontrolled systemic infection",
+          "D": "Wilkes Stage IV disc displacement on MRI"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Active, uncontrolled systemic infection is an absolute contraindication to any elective joint arthroplasty, including TMJ TJR. Implanting a prosthesis in a patient with systemic bacteraemia risks haematogenous seeding of the implant, causing prosthetic joint infection — a devastating complication requiring implant removal. Bacteraemia from a remote source (UTI, pneumonia, dental abscess) that is not cleared before surgery is the most common scenario. All active infections must be identified and treated before elective joint replacement proceeds.",
+          "wrong": {
+            "A": "Prior failed disc surgery is actually a classic INDICATION for TJR — not a contraindication. Failed prior TMJ surgery is one of the most common indications.",
+            "B": "Age over 65 is not a contraindication. TMJ TJR is performed successfully in elderly patients. Prosthesis longevity (15-20 years) may be adequate for their remaining life expectancy. TJR in children (skeletally immature) is the relative age-related contraindication.",
+            "D": "Wilkes Stage IV may be an indication for TJR if conservative/arthroscopic management has failed. It is not a contraindication."
+          },
+          "guideline": "BAOMS Alloplastic TMJ Replacement Guidelines (2021) — absolute contraindications: active systemic infection; allergy to prosthetic materials; growing patients (relative)",
+          "trial": "Mercuri LG et al. J Oral Maxillofac Surg (2012): active infection exclusion criterion in all Biomet TJR prospective studies; infection-related early failure reported in patients with unrecognised pre-operative infections",
+          "pearl": "Absolute contraindications to TMJ TJR: (1) ACTIVE INFECTION (systemic or local), (2) ALLERGY to prosthetic materials (cobalt-chromium, UHMWPE). Relative: active inflammatory arthritis (not in remission), skeletally immature patients. Active infection must be cleared before proceeding with ANY elective joint arthroplasty."
+        },
+        "difficulty": 1
+      }
+    ]
+  }
+}

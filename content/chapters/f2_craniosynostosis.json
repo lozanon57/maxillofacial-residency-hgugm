@@ -1,0 +1,650 @@
+{
+  "id": "F2",
+  "title": "Craniosynostosis: Sutural Patterns, Classification, Surgery",
+  "subtitle": "Block F — Congenital and Developmental Conditions",
+  "block": "F",
+  "block_name": "Congenital and Developmental Conditions",
+  "level": "R3-5",
+  "reading_time_min": 36,
+  "guidelines_version": "EACMFS Craniofacial Guidelines 2022 · GOSH/UCLH Craniosynostosis Protocol 2023 · European Craniofacial Society Consensus 2021",
+  "textbook_refs": [
+    "Mathijssen IM. 'Guideline for care of patients with the diagnoses of craniosynostosis.' J Craniofac Surg (2015)",
+    "Sgouros S. Craniofacial Syndromes (Springer 2010)",
+    "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (Little Brown 1982)",
+    "McCarthy JG et al. 'Spring-mediated cranial reshaping for craniosynostosis.' Plast Reconstr Surg (2012)",
+    "Oi S & Matsumoto S. 'Morphological findings of postoperative craniosynostosis.' Childs Brain (1984)"
+  ],
+  "learning_objectives": [
+    "Describe the pathophysiology of craniosynostosis and the consequences of premature suture fusion",
+    "Classify craniosynostosis by suture involvement and identify the resultant skull shapes",
+    "Distinguish simple (isolated) from complex (syndromic) craniosynostosis and name the major syndromes",
+    "Outline the principles and techniques of surgical correction (craniectomy, fronto-orbital advancement, spring-assisted cranioplasty)",
+    "Describe the management of raised intracranial pressure in craniosynostosis"
+  ],
+  "sections": [
+    {
+      "id": "F2-S1",
+      "title": "Pathophysiology and Normal Skull Development",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The cranial sutures are fibrous joints between the flat bones of the neurocranium that allow growth of the skull vault in response to the expanding brain. Normal calvarial growth follows **Virchow's law (1851)**: when a suture fuses prematurely, growth perpendicular to the fused suture ceases, while compensatory growth occurs parallel to the fused suture at adjacent patent sutures. This law explains the predictable head shape deformities produced by each specific suture fusion pattern.\n\n**Craniosynostosis** is the premature fusion of one or more cranial sutures, occurring in approximately 1 in 2,000–2,500 live births. It can be primary (intrinsic sutural defect) or secondary (mechanical — e.g., in metopic ridging from positional plagiocephaly, which must be distinguished from true craniosynostosis). The cause of premature fusion is multifactorial: most cases are sporadic, but 15–20% of cases are associated with identified genetic mutations, most commonly in **FGFR1, FGFR2, FGFR3** (fibroblast growth factor receptor genes) and **TWIST1** gene mutations.\n\nThe brain grows most rapidly in the first 2 years of life (tripling birth volume by age 2 and reaching 80% of adult size by age 3). Premature suture fusion restricts this growth, potentially causing: (1) **raised intracranial pressure (ICP)** — particularly in multi-suture synostosis; (2) **skull deformity** — the primary presenting feature; (3) **cognitive and developmental delay** — associated with raised ICP and some genetic syndromes; and (4) **ophthalmological complications** — exposure keratopathy (from proptosis in syndromic synostosis) and optic atrophy from raised ICP."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Virchow's Law",
+          "content": "Virchow's law (1851): premature suture fusion stops growth PERPENDICULAR to the fused suture; compensatory growth continues PARALLEL to the fused suture. This explains all craniosynostosis skull shapes. Sagittal synostosis: no transverse growth (narrow skull) → compensatory AP growth = scaphocephaly (long narrow head)."
+        }
+      ]
+    },
+    {
+      "id": "F2-S2",
+      "title": "Classification by Suture Involvement and Skull Shape",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Craniosynostosis is classified by: (1) which suture(s) are fused; (2) simple (single suture) versus complex (multiple sutures); and (3) non-syndromic versus syndromic. Understanding the resulting skull shape from each suture fusion is essential for both clinical diagnosis and surgical planning.\n\n**Sagittal synostosis** (most common — 40–60% of all cases) produces **scaphocephaly**: a long, narrow skull with frontal bossing and occipital prominence. Virchow's law explains the shape: sagittal suture fusion prevents transverse expansion, so compensatory growth occurs anteroposteriorly. The cephalic index (skull width/length × 100) is <75 (normal 75–85). Treatment is typically early strip craniectomy (2–4 months) or later calvarial remodelling.\n\n**Coronal synostosis** (second most common — 20–25%, most frequently bilateral in syndromic cases) produces **plagiocephaly** (unilateral) or **brachycephaly** (bilateral). Unilateral coronal synostosis produces flattening of the ipsilateral forehead and anterior skull, with compensatory contralateral frontal bossing. The ipsilateral orbit is elevated and the nasal root deviates toward the affected side ('harlequin' eye deformity on X-ray). Bilateral coronal synostosis produces a short, wide, high skull with bitemporal flattening.\n\n**Metopic synostosis** (10–15% of simple synostosis, increasingly recognised) produces **trigonocephaly**: a triangular forehead with a prominent midline ridge, hypotelorism (decreased intercanthal distance), and temporal constriction. The metopic suture normally fuses at 6–9 months, so fusion before this must be distinguished from normal early closure — clinical and radiological assessment is required.\n\n**Lambdoid synostosis** (rarest — 2–4%) produces posterior plagiocephaly — which must be carefully distinguished from deformational (positional) plagiocephaly from prone/supine positioning. Key distinguishing features: true lambdoid synostosis shows ipsilateral ear displacement posteriorly and downward (unlike positional plagiocephaly where the ear displaces anteriorly)."
+        },
+        {
+          "type": "table",
+          "title": "Craniosynostosis by Suture — Shape, Diagnosis, Treatment",
+          "headers": ["Suture Fused", "Skull Shape", "Characteristic Sign", "Frequency", "Surgery Timing"],
+          "rows": [
+            ["Sagittal", "Scaphocephaly (long, narrow)", "Cephalic index <75; palpable ridge", "40–60%", "Strip craniectomy 2–4 months OR remodelling 6–12 months"],
+            ["Unilateral coronal", "Anterior plagiocephaly", "'Harlequin' eye on skull X-ray", "15–20%", "Fronto-orbital advancement 6–12 months"],
+            ["Bilateral coronal", "Brachycephaly", "Short wide skull, bitemporal flattening", "5–10%", "Bilateral fronto-orbital advancement 6–12 months"],
+            ["Metopic", "Trigonocephaly", "Triangular forehead, midline ridge, hypotelorism", "10–15%", "Frontal remodelling 6–12 months"],
+            ["Lambdoid", "Posterior plagiocephaly", "Ipsilateral ear posterior + inferior (vs positional: anterior)", "2–4%", "Posterior remodelling 9–18 months"],
+            ["Multiple (syndromic)", "Variable — turricephaly, cloverleaf", "Raised ICP, hypertelorism, proptosis", "15–20%", "MDT, urgent if raised ICP"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Positional vs True Lambdoid Plagiocephaly",
+          "content": "Posterior plagiocephaly is 50:1 more commonly positional (deformational) than true lambdoid synostosis. KEY DISTINCTION: In true lambdoid synostosis, the ipsilateral ear is displaced POSTERIOR and INFERIOR. In positional plagiocephaly, the ipsilateral ear is displaced ANTERIOR. Parallelogram-shaped skull on vertex view (positional) vs trapezoid skull (lambdoid synostosis). When in doubt, CT confirms."
+        }
+      ]
+    },
+    {
+      "id": "F2-S3",
+      "title": "Syndromic Craniosynostosis: FGFR Mutations and Major Syndromes",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Syndromic craniosynostosis accounts for approximately 15–20% of cases and is associated with mutations in fibroblast growth factor receptor genes (FGFR1, 2, 3) and TWIST1. The major syndromes each have characteristic suture involvement, extracranial features, and genetic basis.\n\n**Apert syndrome** (FGFR2 mutation, Ser252Trp or Pro253Arg) is characterised by bicoronal synostosis (brachycephaly or turribrachycephaly), severe midface hypoplasia (class III, sleep apnoea), and complex syndactyly of hands and feet (type I, II, or III — 'mitten hand'). IQ is variable but developmental delay is common. Bilateral coronal suture involvement is near universal.\n\n**Crouzon syndrome** (FGFR2 mutations — multiple) presents with bicoronal and occasionally multiple suture synostosis, midface hypoplasia, hypertelorism, and proptosis. Unlike Apert, there is no syndactyly. Normal intelligence is usual. Raised ICP is more common than in other syndromes. Chiari I malformation is associated in some patients.\n\n**Pfeiffer syndrome** (FGFR1 or FGFR2 mutations) presents with coronal or complex synostosis, broad deviated thumbs and great toes, partial soft tissue syndactyly, and variable severity (Types I–III — Pfeiffer Type III = cloverleaf skull = most severe).\n\n**Muenke syndrome** (FGFR3 P250R mutation — the most common identifiable genetic cause of coronal synostosis) presents with uni- or bilateral coronal synostosis, sensorineural hearing loss, and variable limb anomalies. Intelligence is usually normal. This mutation accounts for approximately 30% of bilateral coronal synostosis cases referred to genetics.\n\n**Saethre-Chotzen syndrome** (TWIST1 haploinsufficiency) presents with coronal synostosis, low frontal hairline, ptosis, and limb anomalies (brachydactyly, cutaneous syndactyly). Normal intelligence is typical."
+        },
+        {
+          "type": "table",
+          "title": "Major Syndromic Craniosynostosis — Features and Genetics",
+          "headers": ["Syndrome", "Gene", "Suture", "Distinguishing Feature", "Intelligence"],
+          "rows": [
+            ["Apert", "FGFR2 (Ser252Trp/Pro253Arg)", "Bicoronal", "Complex syndactyly hands/feet ('mitten hand')", "Variable — often delayed"],
+            ["Crouzon", "FGFR2 (multiple)", "Bi/multisuture", "No syndactyly; most proptosis; Chiari I association", "Usually normal"],
+            ["Pfeiffer I", "FGFR1 or FGFR2", "Coronal", "Broad thumb/great toe, mild", "Normal"],
+            ["Pfeiffer III", "FGFR2", "Cloverleaf skull", "Most severe; life-threatening", "Impaired"],
+            ["Muenke", "FGFR3 (P250R)", "Uni/bicoronal", "SNHL; most common single-gene coronal synostosis", "Normal"],
+            ["Saethre-Chotzen", "TWIST1", "Coronal", "Low hairline, ptosis, cutaneous syndactyly", "Normal"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Apert vs Crouzon",
+          "content": "Both Apert and Crouzon have FGFR2 mutations and bicoronal synostosis with midface hypoplasia. KEY DISTINCTION: Apert = complex syndactyly of hands and feet. Crouzon = NO limb anomalies. Proptosis is more severe in Crouzon. Intelligence is more often affected in Apert."
+        }
+      ]
+    },
+    {
+      "id": "F2-S4",
+      "title": "Diagnosis: Clinical Assessment and Imaging",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Diagnosis of craniosynostosis requires clinical assessment confirmed by imaging. The clinical examination focuses on: (1) **skull shape** — identifying the deformity pattern; (2) **palpation of the sutures** — a ridged, non-movable suture suggests premature fusion; (3) **fundoscopy** — papilloedema indicates raised ICP; (4) **developmental assessment** — cognitive and motor milestones; and (5) **ophthalmological review** — proptosis, corneal exposure, and optic atrophy.\n\n**CT scan** (3D reconstruction, ≤1 mm slices) is the gold standard imaging for craniosynostosis — it directly demonstrates suture fusion, skull shape deformity, intracranial volume, and associated brain anomalies. However, radiation exposure in infants is a concern, and many centres use low-dose protocols. **MRI** is indicated when Chiari malformation, hydrocephalus, or intracranial pathology is suspected. Plain skull radiographs show suture effacement and 'copper-beaten' skull (the latter suggests longstanding raised ICP) but are less sensitive than CT for diagnosis.\n\n**Raised ICP assessment**: ICP is elevated in approximately 15% of single-suture and 40–60% of multi-suture synostosis cases. Clinical signs include headache, irritability, vomiting, papilloedema, and the 'copper-beaten' skull pattern on X-ray. **Invasive ICP monitoring** (overnight subdural bolt) is the gold standard but is invasive. Ophthalmological monitoring (optic disc health) is used as a non-invasive surrogate in most centres. **Head circumference measurement** is a simple screening tool — crossing centile lines downward (cranial growth failure) suggests inadequate compensation."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — When to Suspect Raised ICP",
+          "content": "In any child with craniosynostosis, the following warrant urgent ICP assessment: papilloedema on fundoscopy, behavioural change or progressive developmental delay, headaches (particularly early morning), 'copper-beaten' skull on plain X-ray, or head circumference crossing centiles downward. Any of these in a child with known or suspected multi-suture synostosis = emergency referral to a craniofacial centre."
+        }
+      ]
+    },
+    {
+      "id": "F2-S5",
+      "title": "Surgical Management: Principles and Techniques",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The goals of surgical treatment of craniosynostosis are: (1) relieve raised ICP; (2) create adequate intracranial volume for brain growth; (3) improve skull shape and craniofacial aesthetics; and (4) facilitate orbital and midface development in syndromic cases. Surgery is performed by a multidisciplinary team including a paediatric neurosurgeon and an oral/maxillofacial or craniofacial surgeon.\n\n**Strip craniectomy** (simple linear craniectomy over the fused suture) is the simplest procedure, performed in the first 2–4 months of life when the skull bones are thin and pliable. The excised suture must remain open for brain growth to correct the deformity through normal expansion. Historically limited by the short window of effectiveness and need for very early timing. Modern minimally invasive strip craniectomy may be combined with **spring-assisted cranioplasty** (springs placed across the craniectomy site that generate sustained force to widen the skull as the brain grows — removed at 6–12 months).\n\n**Fronto-orbital advancement (FOA)** is the standard treatment for frontal and coronal synostosis. Performed at 6–12 months, it involves: (1) bifrontal craniotomy (removing the frontal bone); (2) bilateral orbital bar osteotomy (removing the supraorbital bar); (3) reshaping and advancing both structures; and (4) rigid fixation with resorbable plates. FOA simultaneously increases anterior cranial volume, corrects forehead contour, and advances the supraorbital rims — correcting the 'harlequin' eye deformity in unilateral coronal and the temporal hollowing of bilateral coronal synostosis.\n\n**Total calvarial remodelling** (posterior remodelling for lambdoid, sagittal remodelling 'barrel stave' or total for complex cases) is performed for extensive deformities or when early surgery was not performed. **Distraction osteogenesis (DO)** of the cranial vault is increasingly used in severe cases — gradual distraction using internal or external devices produces larger volume gains than conventional osteotomy and remodelling.\n\n**Midface procedures** in syndromic synostosis (Le Fort III advancement, monobloc frontofacial advancement, Le Fort I osteotomy) are staged procedures performed later in childhood to address the severe midface hypoplasia of Apert and Crouzon syndromes — these are covered in orthognathic surgery content."
+        },
+        {
+          "type": "table",
+          "title": "Surgical Techniques for Craniosynostosis by Indication",
+          "headers": ["Technique", "Timing", "Indication", "Advantage", "Limitation"],
+          "rows": [
+            ["Strip craniectomy ± springs", "2–4 months", "Sagittal (early), selected cases", "Minimally invasive, small scar", "Narrow window; needs very early timing"],
+            ["Fronto-orbital advancement (FOA)", "6–12 months", "Coronal, metopic, frontal synostosis", "Gold standard for frontal; volume + shape", "Major surgery — blood transfusion likely"],
+            ["Sagittal remodelling (barrel stave)", "6–12 months", "Sagittal synostosis (later)", "Comprehensive shape correction", "More invasive than early strip craniectomy"],
+            ["Total calvarial remodelling", "6–18 months", "Complex, multi-suture, delayed cases", "Full correction of severe deformity", "Longest operation; highest blood loss"],
+            ["Cranial vault DO", "Variable", "Severe volume loss, reoperation", "Large volume gains", "Device management; longer treatment"],
+            ["Monobloc/frontofacial advancement", ">2–3 years", "Syndromic midface hypoplasia (Apert/Crouzon)", "Simultaneous cranial + midface correction", "High complication rate; staged preferred"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Delayed Diagnosis and Raised ICP",
+          "content": "Raised ICP in craniosynostosis is frequently silent until advanced. Papilloedema is the key clinical sign — it indicates chronically elevated ICP and risk of optic atrophy. Fundoscopy should be performed at every clinic visit. A child with craniosynostosis and behaviour change, declining school performance, or early morning headache requires URGENT ICP assessment, not routine follow-up."
+        }
+      ]
+    },
+    {
+      "id": "F2-S6",
+      "title": "Fronto-Orbital Advancement: Operative Steps and Complications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Fronto-orbital advancement (FOA) is the most commonly performed craniofacial operation for craniosynostosis. The operation is performed in the supine position through a bicoronal (zigzag) incision providing access to the entire frontal and temporal calvarium. The key operative steps are: (1) **bicoronal flap elevation** — a coronal incision with subpericranial dissection exposes the frontal bone and supraorbital rims; (2) **frontal bone flap removal** — bifrontal craniotomy removing the frontal bone as a single or bifrontal flap; (3) **supraorbital bar osteotomy** — cuts through the frontal bone above the orbits, removing the supraorbital bar in continuity; (4) **reshaping** — the frontal bone and orbital bar are reshaped on a back-table (scored, bent, and recontoured as required); (5) **advancement and fixation** — the orbital bar is advanced (typically 10–15 mm) and fixed with resorbable plates and sutures; the frontal bone is repositioned and fixed.\n\nThe neurosurgeon manages the dural component: small dural tears are repaired primarily; CSF leakage is monitored. The craniofacial surgeon manages the bony orbital and frontal reconstruction.\n\n**Blood loss** is the most significant intraoperative hazard — infants undergoing FOA may lose 50–200% of their estimated blood volume. Pre-operative blood type and cross-match, red cell salvage, and paediatric anaesthetic blood management protocols are mandatory. Transfusion rates approach 100% in many series.\n\n**Major complications** include: blood loss/haemodynamic instability (most common intraoperative), dural tear (managed during repair), CSF leak, infection (2–5%), need for reoperation for relapse (10–20% of cases require further surgery), and resorbable plate complications (palpable plates, rarely plate migration)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — FOA Blood Loss",
+          "content": "Fronto-orbital advancement in a 6–12-month-old infant requires meticulous blood management — 50–200% estimated blood volume loss is typical. Pre-operative erythropoietin, intraoperative cell salvage, and fresh frozen plasma protocols are standard. Informed consent must include blood transfusion. Parents must be counselled that transfusion is expected, not a complication."
+        }
+      ]
+    },
+    {
+      "id": "F2-S7",
+      "title": "Outcomes, Long-Term Follow-Up, and Neurodevelopmental Considerations",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Outcomes after surgical correction of craniosynostosis are generally good for single-suture non-syndromic cases. Aesthetic outcomes (skull shape, orbital symmetry) are satisfactory in 75–90% of cases, with reoperation required in 10–20% for relapse or inadequate initial correction. Functional outcomes (normalisation of ICP, prevention of optic atrophy, facilitation of cognitive development) are the primary surgical goals.\n\nNeurodevelopmental outcomes in non-syndromic single-suture synostosis have been studied extensively. Subtle neurodevelopmental differences (lower verbal and non-verbal IQ compared with siblings, language delays, attention difficulties) have been documented even after successful surgery in sagittal and metopic synostosis. Whether these differences reflect the underlying genetic aetiology, the effects of raised ICP, or the perioperative environment (general anaesthesia in infancy) remains debated. The **European Multicentre CRANIO trial** (ongoing since 2015) is the largest prospective study examining neurodevelopmental outcomes following surgical correction of isolated craniosynostosis.\n\nIn **syndromic craniosynostosis**, the long-term management involves staged operations across childhood and adolescence: cranial vault surgery in infancy, midface advancement at age 4–6 years (monobloc or Le Fort III distraction), and finally orthognathic surgery at skeletal maturity. Sleep studies (polysomnography) are essential in Apert and Crouzon patients — obstructive sleep apnoea (OSA) from midface hypoplasia is universal and may require CPAP, tracheostomy, or midface advancement depending on severity. Ophthalmological follow-up is lifelong — proptosis and corneal exposure require treatment to prevent permanent visual loss.\n\nAll craniosynostosis patients should be followed in a **specialist craniofacial MDT** clinic until at least skeletal maturity. The MDT includes craniofacial surgery, neurosurgery, ophthalmology, orthodontics, OMFS, speech therapy, neuropsychology, and genetics (for genetic counselling regarding recurrence in future pregnancies)."
+        },
+        {
+          "type": "table",
+          "title": "Follow-Up and Monitoring Protocol for Craniosynostosis",
+          "headers": ["Parameter", "Frequency", "Method", "Action Threshold"],
+          "rows": [
+            ["ICP — papilloedema", "Every 6 months", "Fundoscopy", "Papilloedema = urgent ICP measurement"],
+            ["Head circumference", "Every 3–6 months (first 2 years)", "OFC measurement", "Crossing centiles downward = concern"],
+            ["Cognitive/developmental", "Annually", "Neuropsychology", "Formal assessment; school support if delayed"],
+            ["OSA (syndromic)", "Annually", "Polysomnography", "AHI >5/hr = treatment required"],
+            ["Vision/proptosis", "Every 6–12 months", "Ophthalmology review", "Corneal exposure = urgent treatment"],
+            ["Dental/orthodontic", "Annually from age 5", "Orthodontic review", "Crossbite, class III — plan early"],
+            ["Genetic counselling", "At diagnosis + reproductive age", "Clinical genetics", "Recurrence risk for family planning"]
+          ]
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of craniosynostosis with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "F2-Q1",
+        "stem": "A 4-month-old infant presents with a long, narrow skull (cephalic index 68) and a palpable midline ridge. Virchow's law predicts that premature fusion of which suture produces this skull shape?",
+        "options": {
+          "A": "Metopic suture",
+          "B": "Right coronal suture",
+          "C": "Sagittal suture",
+          "D": "Left lambdoid suture"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Sagittal suture synostosis produces scaphocephaly — a long, narrow skull (cephalic index <75) with a palpable ridge along the fused sagittal suture. By Virchow's law, fusion of the sagittal suture prevents transverse (bitemporal) growth, and compensatory growth occurs anteroposteriorly, producing the elongated skull with frontal bossing and occipital bulging. The midline palpable ridge overlying the fused sagittal suture is the hallmark clinical sign.",
+          "wrong": {
+            "A": "Metopic suture fusion produces trigonocephaly — a triangular forehead with midline ridge and hypotelorism, NOT a long narrow skull.",
+            "B": "Right coronal suture fusion produces right anterior plagiocephaly — ipsilateral forehead flattening, 'harlequin' eye, and contralateral bossing, NOT scaphocephaly.",
+            "D": "Left lambdoid suture fusion produces posterior plagiocephaly — ipsilateral posterior flattening with ear displaced posterior and inferior, NOT scaphocephaly."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Craniosynostosis classification and skull shapes",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): definitive correlation of suture fusion pattern with skull deformity — the foundational reference for understanding Virchow's law in clinical practice.",
+          "pearl": "SAGITTAL synostosis = SCAPHOCEPHALY (long narrow skull, CI <75, midline ridge). Most common synostosis (40–60%). Virchow: no transverse growth → compensatory AP growth.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q2",
+        "stem": "Apert syndrome is distinguished from Crouzon syndrome primarily by the presence of:",
+        "options": {
+          "A": "Bicoronal synostosis",
+          "B": "Complex syndactyly of the hands and feet",
+          "C": "Severe midface hypoplasia with class III malocclusion",
+          "D": "FGFR2 gene mutation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Both Apert and Crouzon syndromes share bicoronal synostosis, midface hypoplasia, and FGFR2 mutations. The distinguishing feature of Apert syndrome is complex syndactyly of the hands and feet (ranging from simple soft tissue webbing to complete bony fusion — the 'mitten hand'). Crouzon syndrome has NO limb anomalies. This distinction is the classic board examination differentiator between these two syndromes.",
+          "wrong": {
+            "A": "Bicoronal synostosis is common to both Apert and Crouzon — it does not distinguish them.",
+            "C": "Severe midface hypoplasia is a feature of both syndromes — in fact, it is often more severe in Crouzon.",
+            "D": "Both Apert and Crouzon are caused by FGFR2 mutations (different specific mutations, but the same gene) — this does not distinguish them clinically."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Syndromic craniosynostosis: differential diagnosis",
+          "trial": "Cohen MM Jr. Craniosynostosis: Diagnosis, Evaluation, and Management, 2nd ed. (Oxford 2000): definitive reference for distinguishing syndromic craniosynostoses — Apert = FGFR2 + syndactyly; Crouzon = FGFR2, no syndactyly.",
+          "pearl": "APERT vs CROUZON: both = FGFR2 + bicoronal + midface hypoplasia. KEY DIFFERENCE: Apert = SYNDACTYLY (complex, hands and feet). Crouzon = NO limb anomalies. Know this distinction — it is universally tested.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q3",
+        "stem": "Virchow's law in craniosynostosis states that:",
+        "options": {
+          "A": "Skull growth occurs perpendicular to fused sutures, not parallel",
+          "B": "Premature suture fusion prevents growth perpendicular to the fused suture, with compensatory growth parallel to it",
+          "C": "All cranial sutures fuse by 18 months of age in normal development",
+          "D": "Raised ICP develops in 100% of multi-suture synostosis within the first year"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Virchow's law (1851) states that when a suture fuses prematurely, growth stops perpendicular to the fused suture, while compensatory growth continues at adjacent patent sutures parallel to the fused suture. This explains the predictable skull shape produced by each suture fusion: sagittal fusion stops lateral (transverse) growth → AP elongation; coronal fusion stops AP growth → wide skull.",
+          "wrong": {
+            "A": "This is the reverse of Virchow's law — growth STOPS perpendicular and continues parallel to the fused suture, not vice versa.",
+            "C": "Normal cranial suture fusion occurs progressively throughout childhood and into adulthood — the metopic suture fuses at 6–9 months, but the other sutures (coronal, sagittal, lambdoid) remain patent into adulthood.",
+            "D": "Raised ICP develops in approximately 40–60% of multi-suture synostosis — not 100%. In single-suture synostosis, the rate is approximately 15%."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Pathophysiology; Mathijssen IM, J Craniofac Surg (2015)",
+          "trial": "Renier D et al. Pediatrics (1982): first systematic ICP measurement series in craniosynostosis — 15% raised ICP in single-suture, 40–60% in multi-suture; confirming Virchow's law's clinical implications.",
+          "pearl": "Virchow's law = growth STOPS perpendicular to fused suture; COMPENSATORY growth parallel. This single principle explains ALL craniosynostosis skull shapes.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q4",
+        "stem": "A 6-month-old girl is referred with right-sided posterior head flattening. Clinical examination shows the right ear displaced ANTERIORLY and the right occiput flat, with a parallelogram-shaped skull on vertex view. The most likely diagnosis is:",
+        "options": {
+          "A": "Right lambdoid synostosis",
+          "B": "Deformational (positional) plagiocephaly",
+          "C": "Right coronal synostosis",
+          "D": "Sagittal synostosis with right-sided predominance"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Deformational (positional) plagiocephaly is characterised by posterior flattening with ANTERIOR ear displacement on the affected side — the forehead on the flat side compensates by bulging anteriorly, pushing the ear forward. The skull shape on vertex view is a PARALLELOGRAM. This is caused by external forces (supine positioning) and not by suture fusion. It is approximately 50:1 more common than true lambdoid synostosis. In true lambdoid synostosis, the ear displaces POSTERIOR and INFERIOR (Mastoid bulge sign) and the skull shape is TRAPEZOIDAL.",
+          "wrong": {
+            "A": "True lambdoid synostosis: ear displaced POSTERIOR and inferior, trapezoid skull shape on vertex view. This patient has anterior ear displacement and parallelogram shape = positional.",
+            "C": "Right coronal synostosis produces ANTERIOR plagiocephaly (frontal flattening ipsilaterally) with 'harlequin' eye — not posterior flattening.",
+            "D": "Sagittal synostosis produces bitemporal narrowing and AP elongation — not asymmetric posterior plagiocephaly."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Differential diagnosis: positional vs lambdoid synostosis",
+          "trial": "Argenta LC et al. J Craniofac Surg (1996): classification and description of positional plagiocephaly — anterior ear displacement and parallelogram skull shape as diagnostic criteria. Widely adopted as the standard differentiating criteria.",
+          "pearl": "POSITIONAL plagiocephaly: anterior ear displacement + parallelogram skull (vertex view). TRUE lambdoid synostosis: POSTERIOR + INFERIOR ear displacement + trapezoid skull. 50:1 ratio favours positional. Posterior flat = THINK POSITIONAL FIRST.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q5",
+        "stem": "Which FGFR mutation is responsible for Muenke syndrome, the most common identifiable genetic cause of coronal synostosis?",
+        "options": {
+          "A": "FGFR1 P252R",
+          "B": "FGFR2 Ser252Trp",
+          "C": "FGFR3 P250R",
+          "D": "TWIST1 haploinsufficiency"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Muenke syndrome is caused by the FGFR3 P250R mutation (proline-to-arginine substitution at position 250 in fibroblast growth factor receptor 3). It is the most common identifiable single-gene cause of coronal synostosis, accounting for approximately 30% of bilateral coronal synostosis cases referred for genetic testing. Features include uni- or bilateral coronal synostosis, sensorineural hearing loss, and variable limb anomalies (fused wrist bones). Intelligence is usually normal.",
+          "wrong": {
+            "A": "FGFR1 mutations cause Pfeiffer syndrome (along with some FGFR2 mutations) — not Muenke syndrome.",
+            "B": "FGFR2 Ser252Trp is one of the two specific FGFR2 mutations causing Apert syndrome — not Muenke.",
+            "D": "TWIST1 haploinsufficiency causes Saethre-Chotzen syndrome (coronal synostosis + low hairline + ptosis) — not Muenke."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Genetic basis of craniosynostosis",
+          "trial": "Muenke M et al. Am J Hum Genet (1997): original description of FGFR3 P250R as the cause of Muenke syndrome — identified in 30% of bilateral coronal synostosis in a multicentre series.",
+          "pearl": "Muenke = FGFR3 P250R = most common single-gene coronal synostosis cause. Also has SNHL (sensorineural hearing loss) — always screen hearing in coronal synostosis. Normal intelligence.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q6",
+        "stem": "The 'harlequin eye' sign on skull X-ray in craniosynostosis indicates:",
+        "options": {
+          "A": "Bilateral coronal synostosis with bilateral orbital elevation",
+          "B": "Unilateral coronal synostosis with ipsilateral orbital rim elevation",
+          "C": "Metopic synostosis with hypotelorism",
+          "D": "Raised intracranial pressure with orbital wall remodelling"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The 'harlequin eye' sign on plain skull X-ray (or CT) describes the elevation of the ipsilateral orbital roof in unilateral coronal synostosis. The ipsilateral supraorbital rim is elevated superiorly (giving the orbit an oblique, upward-slanting appearance resembling a harlequin mask) due to restricted growth at the fused coronal suture. On clinical examination, the ipsilateral forehead is flat and the brow is elevated. The nasal root deviates toward the affected side. This sign is specific for unilateral coronal synostosis.",
+          "wrong": {
+            "A": "Bilateral coronal synostosis produces bilateral brachycephaly — both orbits are affected symmetrically, not producing the asymmetric harlequin sign.",
+            "C": "Metopic synostosis produces a triangular forehead with midline ridge and hypotelorism — the orbits are displaced medially, not elevated asymmetrically.",
+            "D": "Raised ICP produces a 'copper-beaten' or 'thumb-print' skull pattern, not the harlequin eye sign specifically."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Radiological signs of craniosynostosis",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): harlequin eye described as the specific radiological sign of unilateral coronal synostosis — still the standard clinical reference.",
+          "pearl": "'HARLEQUIN EYE' = unilateral coronal synostosis sign on X-ray. Ipsilateral orbital rim ELEVATED superiorly. Also see clinically: ipsilateral forehead flat + brow elevated + nasal root deviation to affected side.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q7",
+        "stem": "At what age should fronto-orbital advancement (FOA) be performed for unilateral coronal synostosis?",
+        "options": {
+          "A": "First 2 weeks of life (neonatal period)",
+          "B": "6–12 months of age",
+          "C": "18–24 months of age",
+          "D": "3–5 years of age (before school entry)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The optimal timing for FOA in coronal synostosis is 6–12 months of age. By this age, the frontal bone is thick enough to hold fixation hardware, the skull is sufficiently pliable to allow reshaping, but brain growth (tripling from birth to 2 years) is still occurring rapidly enough that the correction will be maintained. Early surgery (within the first year) is also important for neurodevelopmental outcomes — avoiding prolonged raised ICP or restricted brain growth. Surgery before 6 months is associated with higher blood loss as a percentage of body weight and technical difficulty; surgery after 12 months is associated with increasing bone rigidity.",
+          "wrong": {
+            "A": "Neonatal FOA is technically hazardous — bone is paper-thin, fixation is unreliable, and blood volume is very small. Neonatal surgery is reserved only for craniosynostosis with life-threatening raised ICP.",
+            "C": "18–24 months misses the optimal window — the skull becomes increasingly rigid and difficult to reshape; neurodevelopmental benefits of early surgery may be reduced.",
+            "D": "3–5 years is too late for primary FOA — calvarial remodelling becomes technically challenging; this age group may require more extensive remodelling rather than the standard FOA."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — FOA timing: 6–12 months as standard",
+          "trial": "Renier D et al. J Neurosurg (1996): 100-patient series — FOA at 6–12 months produced best combination of shape correction durability and neurodevelopmental outcomes vs earlier or later timing.",
+          "pearl": "FOA TIMING: 6–12 months = optimal. Brain grows fastest first 2 years; surgery in this window = bone pliable + fixation possible + brain growth supports correction. Earlier = anaesthetic/blood risk. Later = rigid bone.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q8",
+        "stem": "What proportion of single-suture craniosynostosis cases have elevated intracranial pressure (ICP)?",
+        "options": {
+          "A": "5%",
+          "B": "15%",
+          "C": "40–60%",
+          "D": "100%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Approximately 15% of single-suture (simple) craniosynostosis cases have elevated ICP. This rises to 40–60% in multi-suture and syndromic craniosynostosis. The lower rate in single-suture cases reflects the compensation available through the remaining patent sutures. However, 15% is not negligible — fundoscopy and ICP monitoring are essential components of follow-up for ALL craniosynostosis patients, regardless of how 'mild' the case appears.",
+          "wrong": {
+            "A": "5% underestimates the ICP rate — the established figure from Renier's series is approximately 15% for single-suture.",
+            "C": "40–60% is the rate for multi-suture and syndromic craniosynostosis — not single-suture.",
+            "D": "100% would imply that all cases have raised ICP — this is incorrect; many single-suture cases have normal ICP and are primarily cosmetic concerns."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — ICP monitoring in craniosynostosis",
+          "trial": "Renier D et al. Pediatrics (1982): ICP measurement in 76 children with craniosynostosis — 15% raised ICP in isolated suture synostosis, 47% in multi-suture. This remains the definitive dataset.",
+          "pearl": "ICP: 15% = single suture; 40–60% = multi-suture/syndromic. Always monitor with fundoscopy. 'Copper beaten' skull on X-ray = longstanding raised ICP sign. Every craniosynostosis child = regular ophthalmological follow-up.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q9",
+        "stem": "Trigonocephaly (triangular forehead with midline ridge) results from premature fusion of which suture?",
+        "options": {
+          "A": "Coronal suture",
+          "B": "Lambdoid suture",
+          "C": "Metopic suture",
+          "D": "Sagittal suture"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Metopic suture synostosis produces trigonocephaly: a triangular forehead when viewed from above, with a prominent midline ridge extending from the glabella posteriorly along the mid-forehead, bitemporal constriction, and hypotelorism (decreased intercanthal distance) due to orbital displacement medially. By Virchow's law, metopic fusion prevents lateral frontal growth, and the compensatory AP growth at the sides of the forehead creates the triangular shape. The metopic suture normally fuses at 6–9 months of age — a palpable ridge with typical skull shape suggests pathological early fusion.",
+          "wrong": {
+            "A": "Coronal suture fusion produces plagiocephaly (unilateral) or brachycephaly (bilateral) — not trigonocephaly.",
+            "B": "Lambdoid suture fusion produces posterior plagiocephaly — not trigonocephaly.",
+            "D": "Sagittal suture fusion produces scaphocephaly (long narrow skull) — not trigonocephaly."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Metopic synostosis: diagnosis and surgical management",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): trigonocephaly defined and distinguished from metopic ridging — the definitive clinical and surgical reference.",
+          "pearl": "METOPIC = TRIGONOCEPHALY (triangular forehead). Also: midline ridge + hypotelorism + temporal constriction. Normal metopic closure = 6–9 months. Metopic ridging without trigonocephaly may be physiological — clinical judgement required.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q10",
+        "stem": "A 2-year-old boy with Crouzon syndrome (bicoronal synostosis, midface hypoplasia, severe proptosis) is found to have bilateral corneal exposure on ophthalmological review. What is the MOST appropriate immediate management?",
+        "options": {
+          "A": "Orbital decompression via endoscopic approach",
+          "B": "Urgent total calvarial remodelling to increase intracranial volume",
+          "C": "Lubricant eye drops and tarsal suturing (tarsorrhaphy) pending definitive midface surgery",
+          "D": "Le Fort III midface advancement urgently at this age"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Corneal exposure in syndromic craniosynostosis with proptosis requires immediate protection of the cornea to prevent corneal scarring and permanent visual loss. Urgent measures include lubricant eye drops and/or ointment (artificial tears), moisture chambers, and if severe, temporary tarsorrhaphy (partial or complete eyelid closure sutures). These measures protect the cornea while definitive surgery (midface advancement) is planned. Le Fort III advancement at age 2 is generally not indicated — midface surgery is typically deferred to age 4–6 years to allow adequate facial growth before skeletal advancement.",
+          "wrong": {
+            "A": "Endoscopic orbital decompression is used for thyroid eye disease — it is not standard for proptosis in craniosynostosis.",
+            "B": "Total calvarial remodelling addresses intracranial volume but does not directly protect the cornea from exposure keratopathy — it does not address the proptosis urgently.",
+            "D": "Le Fort III at age 2 is generally too early — cranial and facial bone development is insufficient for stable fixation, and midface surgery is typically deferred to 4–6 years. Emergency midface surgery is reserved for severe, life-threatening airway compromise."
+          },
+          "guideline": "GOSH/UCLH Craniosynostosis Protocol 2023 — Ophthalmic management: corneal exposure treatment algorithm",
+          "trial": "Mathijssen IM. J Craniofac Surg (2015): systematic review of ophthalmic complications in syndromic craniosynostosis — corneal exposure managed with lubricants + tarsorrhaphy as bridge to definitive midface surgery in 87% of cases.",
+          "pearl": "Corneal exposure in craniosynostosis = IMMEDIATE risk of visual loss from corneal scarring. Bridge management: lubricants + tarsorrhaphy. Definitive: midface advancement at age 4–6. Never leave corneal exposure untreated — it can cause permanent blindness.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q11",
+        "stem": "Spring-assisted cranioplasty after strip craniectomy for sagittal synostosis works by:",
+        "options": {
+          "A": "Applying external helmet moulding forces to reshape the skull over 12 months",
+          "B": "Internal titanium springs generating sustained widening force across the craniectomy site as brain growth occurs",
+          "C": "Gradual distraction of the skull base through a fixed external frame",
+          "D": "Injectable hydroxyapatite cement filling the widened craniectomy gap over 6 months"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Spring-assisted cranioplasty involves placement of one or more internal titanium expansion springs across the strip craniectomy site. The springs' intrinsic recoil force generates a sustained, gradual widening force that works synergistically with brain growth over 6–12 months. The springs are removed at a second, shorter procedure (approximately 6–12 months after insertion) once the desired skull expansion is achieved. The technique allows gradual, controlled widening without requiring total calvarial remodelling, with smaller scars and potentially reduced operative time.",
+          "wrong": {
+            "A": "Helmet moulding (orthotic helmet therapy) is used for deformational plagiocephaly (positional) — it does not treat true craniosynostosis and does not generate internal widening forces.",
+            "C": "Skull base distraction through an external frame describes a different technique used for midface advancement — not sagittal spring-assisted cranioplasty.",
+            "D": "Injectable cement filling does not generate active widening forces — it is a passive gap filler used in calvarial defect repair, not in craniosynostosis expansion."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Spring-mediated cranioplasty in sagittal synostosis",
+          "trial": "McCarthy JG et al. Plast Reconstr Surg (2012): spring-assisted cranioplasty in sagittal synostosis — 40-patient series showing equivalent cephalic index improvement to conventional remodelling with reduced operative time and blood loss.",
+          "pearl": "Spring-assisted cranioplasty: internal springs after strip craniectomy → sustained widening force → corrects scaphocephaly over 6–12 months → spring removal at second brief procedure. Minimally invasive alternative to total calvarial remodelling.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q12",
+        "stem": "A child with known unilateral coronal synostosis presents to clinic at age 18 months. His parents report he has become more irritable over the past 4 weeks, wakes crying at night, and his school nurse noticed he seems less responsive. Fundoscopy shows bilateral disc margin blurring. The most appropriate next step is:",
+        "options": {
+          "A": "Reassure — irritability is normal at this developmental stage",
+          "B": "Urgent referral to the craniofacial centre for ICP assessment and likely surgery",
+          "C": "Prescribe a course of ibuprofen for 2 weeks and review",
+          "D": "MRI brain in 4 weeks to assess intracranial contents"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This child has signs of raised ICP: behavioural change (irritability), nocturnal symptoms (early morning headache equivalent in a toddler), and bilateral disc margin blurring (papilloedema). In a child with craniosynostosis, raised ICP is a neurosurgical emergency requiring urgent assessment and likely surgery to increase intracranial volume. Delay risks optic atrophy and permanent visual loss. Urgent referral to the craniofacial centre for ICP measurement and surgical planning is mandatory.",
+          "wrong": {
+            "A": "Reassurance is entirely inappropriate — this child has clinical signs of raised ICP. The combination of behavioural change, nocturnal symptoms, and disc margin changes in a child with craniosynostosis is a neurosurgical emergency.",
+            "C": "Ibuprofen for headache symptoms is dangerous management when raised ICP is the likely cause — it addresses the symptom and delays treatment.",
+            "D": "MRI in 4 weeks is not urgent enough — raised ICP with papilloedema requires same-day or next-day specialist assessment."
+          },
+          "guideline": "GOSH/UCLH Craniosynostosis Protocol 2023 — Raised ICP recognition and management",
+          "trial": "Renier D et al. Pediatrics (1982): natural history of untreated raised ICP in craniosynostosis — optic atrophy developed in 5/12 patients with papilloedema who were not operated on within 6 months. Urgent surgery is protective.",
+          "pearl": "Papilloedema + behaviour change + nocturnal symptoms in craniosynostosis child = RAISED ICP EMERGENCY. Refer urgently to craniofacial centre. Risk = optic atrophy → permanent visual loss. Do NOT wait, do NOT reassure.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q13",
+        "stem": "Saethre-Chotzen syndrome is caused by haploinsufficiency of which gene?",
+        "options": {
+          "A": "FGFR2",
+          "B": "FGFR3",
+          "C": "TWIST1",
+          "D": "FGFR1"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Saethre-Chotzen syndrome is caused by TWIST1 haploinsufficiency — loss of one functional copy of the TWIST1 gene (a basic helix-loop-helix transcription factor that regulates craniofacial and limb development). Clinical features include coronal synostosis (uni- or bilateral), low frontal hairline, ptosis of the upper eyelids, broad forehead, and limb anomalies (brachydactyly, soft tissue cutaneous syndactyly). Intelligence is usually normal.",
+          "wrong": {
+            "A": "FGFR2 mutations cause Apert, Crouzon, and Pfeiffer syndromes — not Saethre-Chotzen.",
+            "B": "FGFR3 P250R causes Muenke syndrome — not Saethre-Chotzen.",
+            "D": "FGFR1 mutations cause some cases of Pfeiffer syndrome — not Saethre-Chotzen."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Genetics of syndromic craniosynostosis",
+          "trial": "El Ghouzzi V et al. Nat Genet (1997): identification of TWIST1 mutations as the cause of Saethre-Chotzen syndrome in a large French cohort — the landmark genetic study for this syndrome.",
+          "pearl": "TWIST1 = SAETHRE-CHOTZEN. Features: coronal synostosis + LOW HAIRLINE + PTOSIS + cutaneous syndactyly. Normal intelligence. Distinguish from Muenke (FGFR3) which also has coronal synostosis but different features (SNHL, no ptosis).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q14",
+        "stem": "Obstructive sleep apnoea in Apert syndrome is primarily caused by:",
+        "options": {
+          "A": "Macroglossia due to abnormal tongue muscle development",
+          "B": "Midface hypoplasia producing posterior displacement of the midface and nasopharyngeal airway narrowing",
+          "C": "Central sleep apnoea from brainstem compression by a Chiari malformation",
+          "D": "Circumferential tonsil and adenoid hypertrophy independent of the skeletal deformity"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "OSA in Apert (and Crouzon) syndrome is primarily caused by midface hypoplasia. The posteriorly positioned midface narrows the nasopharyngeal airway at multiple levels, reducing the cross-sectional area available for breathing. As the child grows, increasing nasal and pharyngeal length worsens OSA. Polysomnography is mandatory in syndromic craniosynostosis — AHI >5/hr requires treatment (CPAP as first line; midface advancement as definitive treatment when appropriate).",
+          "wrong": {
+            "A": "Macroglossia is not a feature of Apert or Crouzon syndrome — the tongue is of normal size. Macroglossia is a feature of Beckwith-Wiedemann and Down syndrome.",
+            "C": "Chiari I malformation occurs in a subset of Crouzon syndrome patients — central sleep apnoea is less common than obstructive OSA from midface hypoplasia in these syndromes.",
+            "D": "Adenotonsillar hypertrophy contributes to OSA in children generally, but the primary driver in Apert/Crouzon is skeletal midface hypoplasia narrowing the pharyngeal airway."
+          },
+          "guideline": "GOSH/UCLH Craniosynostosis Protocol 2023 — OSA management in syndromic craniosynostosis",
+          "trial": "Sher AE. Int J Pediatr Otorhinolaryngol (1992): site of airway obstruction in syndromic craniosynostosis — nasopharyngeal narrowing from midface hypoplasia identified as primary mechanism in 91% of cases.",
+          "pearl": "OSA in Apert/Crouzon = midface hypoplasia → nasopharyngeal narrowing. ALL syndromic craniosynostosis = polysomnography annually. Treatment: CPAP bridge → midface advancement (Le Fort III or DO) at age 4–6 years.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q15",
+        "stem": "The 'copper-beaten' skull pattern on plain X-ray in craniosynostosis indicates:",
+        "options": {
+          "A": "Normal bony trabeculae pattern in infants aged 6–18 months",
+          "B": "Longstanding raised intracranial pressure producing gyral impressions on the inner skull table",
+          "C": "Calcification of the dural sinuses in syndromic craniosynostosis",
+          "D": "Artefact from motion during the X-ray exposure"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The 'copper-beaten' (also called 'thumb-printed' or 'finger-printed') skull appearance on plain X-ray reflects gyral impressions (widened gyral convolutions pressing against the inner skull table and leaving lucent areas between the bony prominences). This pattern indicates longstanding raised ICP — the brain is being compressed against the skull vault. It is a late and serious radiological sign requiring urgent ICP assessment. The normal skull in infants shows smooth inner table without this pattern.",
+          "wrong": {
+            "A": "The copper-beaten pattern is pathological, not a normal variant. Normal infant skull X-rays show uniform bony density without gyral impressions.",
+            "C": "Dural sinus calcification is a different radiological finding seen in specific conditions (hyperparathyroidism, idiopathic) — it is not the copper-beaten pattern.",
+            "D": "Motion artefact produces blurring and ghosting, not the specific gyral impression pattern of copper-beaten skull."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Radiological signs of raised ICP in craniosynostosis",
+          "trial": "Renier D et al. Pediatrics (1982): copper-beaten skull correlated with raised ICP in 89% of cases in a 76-patient series — established as a reliable (though late) indicator of ICP elevation.",
+          "pearl": "'COPPER-BEATEN' skull = LATE sign of raised ICP = URGENT ICP assessment needed. By the time this is visible on X-ray, ICP has been elevated for a considerable time. Do not wait for this sign — monitor with fundoscopy proactively.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q16",
+        "stem": "In fronto-orbital advancement (FOA) for coronal synostosis, which structure is at greatest risk of damage during the supraorbital bar osteotomy?",
+        "options": {
+          "A": "Frontal sinus (inadvertent entry)",
+          "B": "Dura mater",
+          "C": "Superior rectus muscle",
+          "D": "Trochlea of the superior oblique muscle"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The dura mater is the structure at greatest risk during FOA and supraorbital bar osteotomy. The dura is intimately adherent to the inner table of the frontal bone in infants, and cutting the cranial bone flap or supraorbital bar carries a risk of dural tear. Dural tears are identified and repaired immediately by the neurosurgeon. In infants, the dura is thin and vulnerable. Small dural tears are managed with direct suture repair; larger tears may require dural patch grafting.",
+          "wrong": {
+            "A": "The frontal sinus is not developed in infants (6–12 months) — it is a rudimentary cellular structure at this age, and does not become a pneumatised sinus until age 5–7 years. Frontal sinus injury is a concern in adult frontal surgery but not in infant FOA.",
+            "C": "The superior rectus muscle is located behind the globe — it is not in the operative field for supraorbital bar osteotomy.",
+            "D": "The trochlea is in the superomedial orbit — it can be encountered during medial orbital rim osteotomy but is not the greatest risk during supraorbital bar work."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — FOA operative technique and complications",
+          "trial": "Renier D et al. J Neurosurg (1996): retrospective series of 212 FOA procedures — dural tear in 7.5% of cases, all managed intraoperatively; no cases of unrecognised CSF leak post-procedure.",
+          "pearl": "FOA risks: dural tear (most important neurosurgical risk), blood loss (most important anaesthetic risk), CN VII risk (temporal branch in coronal incision), relapse requiring reoperation (10–20% long-term). Frontal sinus NOT a concern in infant FOA.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q17",
+        "stem": "The gold standard imaging modality for confirming the diagnosis of craniosynostosis and assessing suture patency is:",
+        "options": {
+          "A": "Ultrasound of cranial sutures in the neonatal period",
+          "B": "3D CT with fine-cut axial sequences (≤1 mm slice thickness)",
+          "C": "MRI brain with T2-weighted sequences",
+          "D": "Plain skull X-ray in AP and lateral projections"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "3D CT with fine-cut axial sequences (≤1 mm slice thickness) is the gold standard for confirming craniosynostosis. It directly demonstrates suture fusion versus patency, characterises the 3D skull deformity, assesses intracranial volume, identifies any associated intracranial anomalies, and provides the data needed for surgical planning including VSP. Despite radiation concerns in infants, the diagnostic accuracy of 3D CT is unmatched by other modalities for suture assessment.",
+          "wrong": {
+            "A": "Neonatal cranial ultrasound can screen for major anomalies but cannot reliably assess suture patency or skull shape in three dimensions — it is not the gold standard for craniosynostosis diagnosis.",
+            "C": "MRI provides excellent brain tissue assessment but does not clearly image bone/suture anatomy as well as CT — it is not the primary modality for craniosynostosis diagnosis, though it complements CT for associated brain anomalies.",
+            "D": "Plain skull X-ray is limited in sensitivity for suture assessment (particularly in early fusion) and does not provide three-dimensional information needed for surgical planning. It remains a useful supplementary tool but is not the gold standard."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Imaging standards for craniosynostosis diagnosis",
+          "trial": "Mathijssen IM. J Craniofac Surg (2015): systematic guideline review — 3D CT identified as gold standard with sensitivity >95% for suture fusion vs 67% for plain X-ray in same-patient comparison.",
+          "pearl": "GOLD STANDARD for craniosynostosis = 3D CT, ≤1 mm slice thickness. Provides: suture patency, 3D skull shape, intracranial volume, surgical planning data. Low-dose protocols minimise radiation. Always obtain 3D reconstruction.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q18",
+        "stem": "A child with Pfeiffer syndrome Type III is born with a 'cloverleaf' skull deformity and respiratory distress. What does the cloverleaf skull pattern indicate?",
+        "options": {
+          "A": "Isolated sagittal and lambdoid synostosis producing a three-lobed shape",
+          "B": "Fusion of multiple sutures (coronal, lambdoid, and often sagittal) producing a trilobular skull with severe raised ICP",
+          "C": "Premature skull base fusion producing upward herniation of the cerebellum",
+          "D": "Bilateral temporal bone fractures producing the characteristic three-part shape"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The cloverleaf skull (Kleeblattschädel) represents the most severe craniosynostosis phenotype, seen in Pfeiffer Type III (and occasionally other severe syndromes). It results from premature fusion of multiple sutures — typically bicoronal, sagittal, and lambdoid — with the metopic patent. The fused sutures prevent growth in all directions, forcing the brain to expand through the remaining patent sutures, producing a three-lobed (cloverleaf) shape with extreme bitemporal bulging and biparietal bulging. It is associated with severe raised ICP, dramatic proptosis, and often life-threatening respiratory compromise requiring urgent surgical intervention (craniectomy).",
+          "wrong": {
+            "A": "Isolated sagittal and lambdoid synostosis would produce scaphocephaly with posterior plagiocephaly — not the trilobular cloverleaf shape. The cloverleaf requires bicoronal + additional sutures.",
+            "C": "Upward herniation of the cerebellum (Chiari-like) can accompany severe craniosynostosis but is not the mechanism of the cloverleaf skull shape itself.",
+            "D": "Temporal bone fractures are a traumatic condition — not a congenital skull shape."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Pfeiffer syndrome: severe phenotypes and emergency management",
+          "trial": "Cohen MM Jr. Craniosynostosis (2000): cloverleaf skull in Pfeiffer Type III — multisuture fusion mechanism, life-threatening raised ICP, and need for emergency craniectomy in first weeks of life.",
+          "pearl": "CLOVERLEAF skull = most severe craniosynostosis = Pfeiffer Type III + others. Multiple sutures fused → trilobular expansion through patent sutures. Severe raised ICP → URGENT craniectomy in neonatal period. Life-threatening.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q19",
+        "stem": "Hypotelorism (decreased intercanthal distance) as a component of trigonocephaly is caused by:",
+        "options": {
+          "A": "Premature fusion of the frontozygomatic sutures",
+          "B": "Medial displacement of the orbits due to restricted bitemporal growth from metopic synostosis",
+          "C": "Deficient frontal bone growth causing orbital rim narrowing",
+          "D": "Increased intracranial pressure pushing the orbits medially"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In metopic synostosis, fusion of the metopic suture prevents normal bitemporal (lateral) expansion of the frontal bone. By Virchow's law, compensatory growth occurs perpendicular to the fused suture — i.e., in the anteroposterior direction rather than laterally. This produces a narrow, triangular forehead with the orbits displaced medially (decreased intercanthal distance = hypotelorism). The hypotelorism is thus a direct consequence of the restricted transverse frontal growth forcing the orbits toward the midline.",
+          "wrong": {
+            "A": "Frontozygomatic suture fusion is not a recognised component of metopic synostosis — it would produce a different deformity.",
+            "C": "Deficient frontal bone growth is the consequence of the synostosis but the mechanism of hypotelorism is specifically the medial orbital displacement from lateral growth restriction, not the deficit itself.",
+            "D": "Raised ICP can cause various skull changes but does not specifically produce hypotelorism — hypotelorism in trigonocephaly is explained by the local Virchow's law growth pattern."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Metopic synostosis: pathophysiology of trigonocephaly and hypotelorism",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): anatomical analysis of trigonocephaly — hypotelorism as consequence of medial orbital displacement from lateral growth restriction; corrected by frontal remodelling with orbital advancement.",
+          "pearl": "Metopic synostosis = trigonocephaly + HYPOTELORISM (medial orbital displacement from lateral growth restriction). Surgical correction: frontal remodelling + lateral orbital advancement to increase intercanthal distance.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q20",
+        "stem": "Which statement about resorbable fixation plates in paediatric craniofacial surgery is CORRECT?",
+        "options": {
+          "A": "Resorbable plates are contraindicated in children under 2 years due to resorption before union",
+          "B": "Resorbable plates are appropriate for paediatric cranial fixation because they resorb before significant growth restriction occurs and avoid the need for hardware removal",
+          "C": "Resorbable plates produce equivalent rigidity to titanium plates in load-bearing applications",
+          "D": "Resorbable plates must always be removed at a second operation to prevent inflammatory reactions"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Resorbable (absorbable) fixation plates (polyglycolic acid/polylactic acid copolymers) are widely used in paediatric craniofacial surgery because: (1) they resorb over 12–18 months, removing the risk of hardware-related growth restriction (titanium plates in growing skulls can tether bone and restrict growth); (2) they do not require routine removal at a second operation; (3) the forces in cranial fixation are low (unlike mandibular fixation) — the brain provides internal pressure support, so the lower rigidity of resorbable plates is acceptable. Resorbable plates are NOT appropriate for load-bearing mandibular applications.",
+          "wrong": {
+            "A": "Resorbable plates are commonly used in children under 2 years — their resorption timeline (12–18 months) is well beyond the time required for calvarial bone union in infants (6–8 weeks). Resorption before union is not a practical concern.",
+            "C": "Resorbable plates provide significantly less rigidity than titanium plates — this is acceptable in cranial fixation (low mechanical load) but contraindicates them for mandibular load-bearing applications.",
+            "D": "The purpose of resorbable plates is precisely that they do NOT require removal — they resorb spontaneously. Planned removal would negate their advantage over titanium plates."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Fixation hardware in paediatric craniofacial surgery",
+          "trial": "Eppley BL et al. J Craniofac Surg (2004): randomised comparison of resorbable vs titanium fixation in 87 children undergoing FOA — equivalent skull shape outcomes, with resorbable group requiring zero hardware removal vs 8% titanium hardware removal for growth restriction.",
+          "pearl": "RESORBABLE plates = preferred for PAEDIATRIC cranial surgery. Resorb in 12–18 months → no growth restriction → no removal needed. NOT for load-bearing mandible. Titanium = still used for mandible, midface, and adult craniofacial work.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}
