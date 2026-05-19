@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Apply the AJCC 8th edition TNM classification for oral cavity cancers, including the concept of depth of invasion (DOI)",
     "Describe the indications and principles of surgical resection with adequate margins for oral cavity SCC",
-    "Identify the clinical scenarios requiring elective versus therapeutic neck dissection in oral cavity cancer",
-    "Explain the rationale and technique for composite resection including marginal and segmental mandibulectomy",
-    "Interpret the evidence for adjuvant therapy (radiation and chemoradiation) based on pathological risk factors",
-    "Recognize the role of perineural invasion, lymphovascular invasion, and extranodal extension as high-risk features"
+    "Analyze the risk factors for occult nodal metastasis by primary site and depth of invasion, and differentiate indications for unilateral versus bilateral elective neck dissection in cN0 oral cavity cancer",
+    "Examine the anatomical and oncological criteria that determine marginal versus segmental mandibulectomy, and distinguish composite resection from mandibulotomy access in the surgical management of oral cavity SCC",
+    "Evaluate the pathological risk factors (positive margins, extranodal extension, PNI, LVI) and apply NCCN 2024 criteria to recommend adjuvant radiation alone versus concurrent chemoradiation after oral cavity resection",
+    "Critique the evidence from RTOG 9501 and EORTC 22931 to justify the selection of concurrent cisplatin-based chemoradiation over radiation alone in patients with high-risk pathological features after oral cavity surgery"
   ],
   "sections": [
     {
@@ -33,16 +33,61 @@
         {
           "type": "table",
           "title": "Oral Cavity Subsites and Key Surgical Anatomy",
-          "headers": ["Subsite", "Boundaries", "Common Presentation", "Level of Nodal Drainage"],
+          "headers": [
+            "Subsite",
+            "Boundaries",
+            "Common Presentation",
+            "Level of Nodal Drainage"
+          ],
           "rows": [
-            ["Oral tongue (ant 2/3)", "Tip to circumvallate papillae", "Lateral border ulcer", "I, II, III (bilateral if midline)"],
-            ["Floor of mouth", "Below tongue to inner alveolus", "Ulcerated plaque", "I, II (bilateral)"],
-            ["Buccal mucosa", "Inner cheek mucosa", "Verrucous or ulcerated", "I, II, III"],
-            ["Lower alveolar ridge", "Mandibular gingiva", "Gingival thickening", "I, II"],
-            ["Upper alveolar ridge", "Maxillary gingiva", "Palatal involvement", "II, III"],
-            ["Hard palate", "Behind incisors to soft palate junction", "Submucosal mass or ulcer", "II"],
-            ["Retromolar trigone", "Behind last molar over ascending ramus", "Deep infiltration, trismus", "II, III (high risk IIb)"],
-            ["Lip", "Vermilion to wet-dry junction", "Keratotic ulcer or lip mass", "I (submental if midline)"]
+            [
+              "Oral tongue (ant 2/3)",
+              "Tip to circumvallate papillae",
+              "Lateral border ulcer",
+              "I, II, III (bilateral if midline)"
+            ],
+            [
+              "Floor of mouth",
+              "Below tongue to inner alveolus",
+              "Ulcerated plaque",
+              "I, II (bilateral)"
+            ],
+            [
+              "Buccal mucosa",
+              "Inner cheek mucosa",
+              "Verrucous or ulcerated",
+              "I, II, III"
+            ],
+            [
+              "Lower alveolar ridge",
+              "Mandibular gingiva",
+              "Gingival thickening",
+              "I, II"
+            ],
+            [
+              "Upper alveolar ridge",
+              "Maxillary gingiva",
+              "Palatal involvement",
+              "II, III"
+            ],
+            [
+              "Hard palate",
+              "Behind incisors to soft palate junction",
+              "Submucosal mass or ulcer",
+              "II"
+            ],
+            [
+              "Retromolar trigone",
+              "Behind last molar over ascending ramus",
+              "Deep infiltration, trismus",
+              "II, III (high risk IIb)"
+            ],
+            [
+              "Lip",
+              "Vermilion to wet-dry junction",
+              "Keratotic ulcer or lip mass",
+              "I (submental if midline)"
+            ]
           ]
         },
         {
@@ -64,13 +109,49 @@
         {
           "type": "table",
           "title": "AJCC 8th Edition T Classification for Oral Cavity Cancer",
-          "headers": ["T Stage", "Size Criterion", "DOI Criterion", "Structural Invasion", "Clinical Implication"],
+          "headers": [
+            "T Stage",
+            "Size Criterion",
+            "DOI Criterion",
+            "Structural Invasion",
+            "Clinical Implication"
+          ],
           "rows": [
-            ["T1", "≤2 cm", "DOI ≤5 mm", "None", "Wide local excision; elective END controversial"],
-            ["T2", "≤4 cm / any 2-4 cm", "DOI >5 mm and ≤10 mm", "None", "Resection + elective neck dissection"],
-            ["T3", ">4 cm OR any size", "DOI >10 mm", "None", "Resection + neck dissection + consider PORT"],
-            ["T4a", "Any", "Any", "Cortical bone, extrinsic tongue muscles, max sinus, skin", "Composite resection; high-risk for chemoRT"],
-            ["T4b", "Any", "Any", "Masticator space, pterygoid plates, skull base, ICA encasement", "Often unresectable; consider systemic therapy"]
+            [
+              "T1",
+              "≤2 cm",
+              "DOI ≤5 mm",
+              "None",
+              "Wide local excision; elective END controversial"
+            ],
+            [
+              "T2",
+              "≤4 cm / any 2-4 cm",
+              "DOI >5 mm and ≤10 mm",
+              "None",
+              "Resection + elective neck dissection"
+            ],
+            [
+              "T3",
+              ">4 cm OR any size",
+              "DOI >10 mm",
+              "None",
+              "Resection + neck dissection + consider PORT"
+            ],
+            [
+              "T4a",
+              "Any",
+              "Any",
+              "Cortical bone, extrinsic tongue muscles, max sinus, skin",
+              "Composite resection; high-risk for chemoRT"
+            ],
+            [
+              "T4b",
+              "Any",
+              "Any",
+              "Masticator space, pterygoid plates, skull base, ICA encasement",
+              "Often unresectable; consider systemic therapy"
+            ]
           ]
         },
         {
@@ -93,20 +174,61 @@
       "blocks": [
         {
           "type": "text",
-          "content": "Surgical resection with adequate margins remains the primary treatment modality for resectable oral cavity cancer. The goal is **R0 resection** — negative margins on pathological examination. The standard accepted margin is **≥5 mm** on the permanent section specimen. A margin of <1 mm is classified as involved (positive); 1-4 mm is close; ≥5 mm is clear. The distinction between close and positive margins is critical because positive margins mandate re-excision if technically feasible, while close margins in high-risk patients mandate adjuvant chemoradiation.\n\nThe **frozen section analysis** plays a key role in intraoperative margin assessment but has limitations. False negative rates for frozen sections in oral cavity cancer have been reported between 10-20%, primarily due to shrinkage artifact (specimens contract approximately 25-30% after excision due to muscle retraction and fixation), heterogeneous tumour margins, and sampling error in large specimens. Therefore, final pathological margins on permanent sections are the standard for treatment planning decisions.\n\nWhen tumour abuts or invades the mandible, the surgical decision is between **marginal mandibulectomy** (preservation of mandibular continuity with a rim of bone removed) and **segmental mandibulectomy** (discontinuous resection with free flap reconstruction). Marginal mandibulectomy is appropriate when the periosteum is intact and cortical bone invasion is absent or minimal; it is contraindicated when there is frank cortical erosion, medullary invasion, or prior radiation to the mandible. The inferior alveolar canal position relative to the inferior mandibular border is critical — adequate bone height (≥1 cm inferior border) must be maintained to avoid pathological fracture after marginal resection.\n\n**Composite resection** refers to combined resection of primary tumour with segment of mandible and/or floor of mouth and neck dissection performed as a single specimen. This reduces risk of positive margins at the tumour-bone interface and avoids piecemeal resection. **Mandibulotomy** (parasymphyseal or lateral body osteotomy to split the mandible for access) is used for posterior oral cavity tumours that would otherwise require blind resection; it is a surgical access approach, not a resection.",
-          "type": "text"
+          "content": "Surgical resection with adequate margins remains the primary treatment modality for resectable oral cavity cancer. The goal is **R0 resection** — negative margins on pathological examination. The standard accepted margin is **≥5 mm** on the permanent section specimen. A margin of <1 mm is classified as involved (positive); 1-4 mm is close; ≥5 mm is clear. The distinction between close and positive margins is critical because positive margins mandate re-excision if technically feasible, while close margins in high-risk patients mandate adjuvant chemoradiation.\n\nThe **frozen section analysis** plays a key role in intraoperative margin assessment but has limitations. False negative rates for frozen sections in oral cavity cancer have been reported between 10-20%, primarily due to shrinkage artifact (specimens contract approximately 25-30% after excision due to muscle retraction and fixation), heterogeneous tumour margins, and sampling error in large specimens. Therefore, final pathological margins on permanent sections are the standard for treatment planning decisions.\n\nWhen tumour abuts or invades the mandible, the surgical decision is between **marginal mandibulectomy** (preservation of mandibular continuity with a rim of bone removed) and **segmental mandibulectomy** (discontinuous resection with free flap reconstruction). Marginal mandibulectomy is appropriate when the periosteum is intact and cortical bone invasion is absent or minimal; it is contraindicated when there is frank cortical erosion, medullary invasion, or prior radiation to the mandible. The inferior alveolar canal position relative to the inferior mandibular border is critical — adequate bone height (≥1 cm inferior border) must be maintained to avoid pathological fracture after marginal resection.\n\n**Composite resection** refers to combined resection of primary tumour with segment of mandible and/or floor of mouth and neck dissection performed as a single specimen. This reduces risk of positive margins at the tumour-bone interface and avoids piecemeal resection. **Mandibulotomy** (parasymphyseal or lateral body osteotomy to split the mandible for access) is used for posterior oral cavity tumours that would otherwise require blind resection; it is a surgical access approach, not a resection."
         },
         {
           "type": "table",
           "title": "Mandibular Resection Decision Algorithm",
-          "headers": ["Clinical Scenario", "Periosteum Status", "Bone Status", "Recommended Resection", "Reconstruction"],
+          "headers": [
+            "Clinical Scenario",
+            "Periosteum Status",
+            "Bone Status",
+            "Recommended Resection",
+            "Reconstruction"
+          ],
           "rows": [
-            ["Tumour abuts mandible, no invasion", "Intact", "Normal", "Wide excision, peel periosteum", "Primary closure or local flap"],
-            ["Tumour invades periosteum only", "Breached", "Cortex intact", "Marginal mandibulectomy", "Local flap or thin RFFF"],
-            ["Cortical erosion without medullary invasion", "Absent", "Cortex eroded", "Marginal vs segmental (surgeon judgment)", "RFFF or DCIA flap"],
-            ["Medullary invasion confirmed on imaging", "Absent", "Medullary involvement", "Segmental mandibulectomy", "Fibula or DCIA free flap"],
-            ["IAN canal involvement", "Absent", "Nerve involved", "Segmental mandibulectomy", "Fibula free flap"],
-            ["Prior RT, osteoradionecrosis", "Absent", "Variable", "Segmental mandibulectomy", "Free tissue transfer mandatory"]
+            [
+              "Tumour abuts mandible, no invasion",
+              "Intact",
+              "Normal",
+              "Wide excision, peel periosteum",
+              "Primary closure or local flap"
+            ],
+            [
+              "Tumour invades periosteum only",
+              "Breached",
+              "Cortex intact",
+              "Marginal mandibulectomy",
+              "Local flap or thin RFFF"
+            ],
+            [
+              "Cortical erosion without medullary invasion",
+              "Absent",
+              "Cortex eroded",
+              "Marginal vs segmental (surgeon judgment)",
+              "RFFF or DCIA flap"
+            ],
+            [
+              "Medullary invasion confirmed on imaging",
+              "Absent",
+              "Medullary involvement",
+              "Segmental mandibulectomy",
+              "Fibula or DCIA free flap"
+            ],
+            [
+              "IAN canal involvement",
+              "Absent",
+              "Nerve involved",
+              "Segmental mandibulectomy",
+              "Fibula free flap"
+            ],
+            [
+              "Prior RT, osteoradionecrosis",
+              "Absent",
+              "Variable",
+              "Segmental mandibulectomy",
+              "Free tissue transfer mandatory"
+            ]
           ]
         },
         {
@@ -128,14 +250,63 @@
         {
           "type": "table",
           "title": "Occult Nodal Metastasis Rate by Oral Cavity Subsite",
-          "headers": ["Subsite", "T1", "T2", "T3", "Bilateral Risk", "Standard END"],
+          "headers": [
+            "Subsite",
+            "T1",
+            "T2",
+            "T3",
+            "Bilateral Risk",
+            "Standard END"
+          ],
           "rows": [
-            ["Oral tongue", "20-26%", "30-46%", ">50%", "Midline >25%", "SND I-III bilateral if midline"],
-            ["Floor of mouth", "15-20%", "25-35%", ">40%", ">20% if anterior", "SND I-III bilateral"],
-            ["Buccal mucosa", "10-15%", "20-30%", "35-45%", "<10%", "SND I-III ipsilateral"],
-            ["Lower alveolar ridge", "10-15%", "20-25%", "30-40%", "Low", "SND I-III ipsilateral"],
-            ["Hard palate", "5-10%", "15-20%", "25-35%", "Low", "SND I-III ipsilateral"],
-            ["Retromolar trigone", "15-20%", "25-40%", ">45%", "Low-moderate", "SND I-III ± IV"]
+            [
+              "Oral tongue",
+              "20-26%",
+              "30-46%",
+              ">50%",
+              "Midline >25%",
+              "SND I-III bilateral if midline"
+            ],
+            [
+              "Floor of mouth",
+              "15-20%",
+              "25-35%",
+              ">40%",
+              ">20% if anterior",
+              "SND I-III bilateral"
+            ],
+            [
+              "Buccal mucosa",
+              "10-15%",
+              "20-30%",
+              "35-45%",
+              "<10%",
+              "SND I-III ipsilateral"
+            ],
+            [
+              "Lower alveolar ridge",
+              "10-15%",
+              "20-25%",
+              "30-40%",
+              "Low",
+              "SND I-III ipsilateral"
+            ],
+            [
+              "Hard palate",
+              "5-10%",
+              "15-20%",
+              "25-35%",
+              "Low",
+              "SND I-III ipsilateral"
+            ],
+            [
+              "Retromolar trigone",
+              "15-20%",
+              "25-40%",
+              ">45%",
+              "Low-moderate",
+              "SND I-III ± IV"
+            ]
           ]
         },
         {
@@ -179,17 +350,67 @@
         {
           "type": "table",
           "title": "Pathological Risk Factors and Recommended Adjuvant Treatment",
-          "headers": ["Risk Factor", "Category", "Adjuvant Recommendation", "Guideline Reference"],
+          "headers": [
+            "Risk Factor",
+            "Category",
+            "Adjuvant Recommendation",
+            "Guideline Reference"
+          ],
           "rows": [
-            ["Positive margins (R1)", "High risk", "Chemoradiation (cisplatin + RT 66 Gy)", "NCCN 2024; RTOG 9501"],
-            ["Pathological ENE", "High risk", "Chemoradiation (cisplatin + RT 60-66 Gy)", "NCCN 2024; EORTC 22931"],
-            ["pN2-3 without ENE", "Intermediate risk", "Radiation alone (60-63 Gy)", "NCCN 2024"],
-            ["Single pN1 without ENE", "Intermediate risk", "RT if other adverse features present", "NCCN 2024"],
-            ["PNI (named nerve)", "Intermediate risk", "RT with extension to skull base", "NCCN 2024"],
-            ["PNI (unnamed nerve)", "Intermediate risk", "RT recommended", "NCCN 2024"],
-            ["LVI", "Intermediate risk", "RT recommended with other features", "NCCN 2024"],
-            ["T3-T4 pN0, clear margins, no ENE", "Intermediate risk", "RT consider based on extent", "NCCN 2024"],
-            ["pT1-T2 N0 clear margins no adverse features", "Low risk", "Observation", "NCCN 2024"]
+            [
+              "Positive margins (R1)",
+              "High risk",
+              "Chemoradiation (cisplatin + RT 66 Gy)",
+              "NCCN 2024; RTOG 9501"
+            ],
+            [
+              "Pathological ENE",
+              "High risk",
+              "Chemoradiation (cisplatin + RT 60-66 Gy)",
+              "NCCN 2024; EORTC 22931"
+            ],
+            [
+              "pN2-3 without ENE",
+              "Intermediate risk",
+              "Radiation alone (60-63 Gy)",
+              "NCCN 2024"
+            ],
+            [
+              "Single pN1 without ENE",
+              "Intermediate risk",
+              "RT if other adverse features present",
+              "NCCN 2024"
+            ],
+            [
+              "PNI (named nerve)",
+              "Intermediate risk",
+              "RT with extension to skull base",
+              "NCCN 2024"
+            ],
+            [
+              "PNI (unnamed nerve)",
+              "Intermediate risk",
+              "RT recommended",
+              "NCCN 2024"
+            ],
+            [
+              "LVI",
+              "Intermediate risk",
+              "RT recommended with other features",
+              "NCCN 2024"
+            ],
+            [
+              "T3-T4 pN0, clear margins, no ENE",
+              "Intermediate risk",
+              "RT consider based on extent",
+              "NCCN 2024"
+            ],
+            [
+              "pT1-T2 N0 clear margins no adverse features",
+              "Low risk",
+              "Observation",
+              "NCCN 2024"
+            ]
           ]
         }
       ]
@@ -200,8 +421,7 @@
       "blocks": [
         {
           "type": "text",
-          "content": "Structured surveillance after treatment of oral cavity cancer is critical because most recurrences occur within the first 2 years. The standard follow-up schedule per NCCN 2024 is: every 1-3 months in year 1; every 2-6 months in year 2; every 4-8 months in years 3-5; annually after year 5. Post-treatment baseline imaging (CT or MRI with contrast of the primary site and neck) should be performed 8-12 weeks after completion of definitive or adjuvant therapy to establish a new baseline for comparison.\n\n**PET-CT surveillance** is recommended 3-6 months after definitive (chemo)radiation for oropharyngeal and selected oral cavity patients to assess treatment response. A negative post-treatment PET-CT has a very high negative predictive value (>95%) for residual nodal disease and may obviate planned neck dissection. However, this applies primarily to oropharyngeal cancer treated definitively with chemoradiation; for oral cavity cancer treated with surgery, post-treatment PET-CT surveillance is typically reserved for monitoring after adjuvant therapy.\n\n**Salvage surgery** for locoregional recurrence should be considered in all fit patients. Salvage resection for isolated locoregional recurrence achieves 5-year survival in 15-30% of carefully selected patients. Prior radiation significantly increases surgical morbidity — wound healing is impaired, and free tissue transfer with non-irradiated tissue is essential. For distant metastases, systemic therapy with platinum-based regimens combined with pembrolizumab (based on KEYNOTE-048, Shah et al., Lancet 2018) is the current standard first-line treatment for recurrent/metastatic head and neck SCC (R/M HNSCC), regardless of PD-L1 status for the pembrolizumab arm in the CPS ≥20 population.",
-          "type": "text"
+          "content": "Structured surveillance after treatment of oral cavity cancer is critical because most recurrences occur within the first 2 years. The standard follow-up schedule per NCCN 2024 is: every 1-3 months in year 1; every 2-6 months in year 2; every 4-8 months in years 3-5; annually after year 5. Post-treatment baseline imaging (CT or MRI with contrast of the primary site and neck) should be performed 8-12 weeks after completion of definitive or adjuvant therapy to establish a new baseline for comparison.\n\n**PET-CT surveillance** is recommended 3-6 months after definitive (chemo)radiation for oropharyngeal and selected oral cavity patients to assess treatment response. A negative post-treatment PET-CT has a very high negative predictive value (>95%) for residual nodal disease and may obviate planned neck dissection. However, this applies primarily to oropharyngeal cancer treated definitively with chemoradiation; for oral cavity cancer treated with surgery, post-treatment PET-CT surveillance is typically reserved for monitoring after adjuvant therapy.\n\n**Salvage surgery** for locoregional recurrence should be considered in all fit patients. Salvage resection for isolated locoregional recurrence achieves 5-year survival in 15-30% of carefully selected patients. Prior radiation significantly increases surgical morbidity — wound healing is impaired, and free tissue transfer with non-irradiated tissue is essential. For distant metastases, systemic therapy with platinum-based regimens combined with pembrolizumab (based on KEYNOTE-048, Shah et al., Lancet 2018) is the current standard first-line treatment for recurrent/metastatic head and neck SCC (R/M HNSCC), regardless of PD-L1 status for the pembrolizumab arm in the CPS ≥20 population."
         },
         {
           "type": "callout",

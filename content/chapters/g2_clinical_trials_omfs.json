@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Describe the core components of an RCT and the purpose of each design element",
     "Apply the CONSORT 2010 checklist to evaluate the completeness of RCT reporting",
-    "Identify the ethical principles governing clinical research in OMFS and their legal framework",
-    "Explain the IDEAL framework for the staged development and evaluation of surgical innovations",
-    "Describe the regulatory and approval requirements for conducting a clinical trial in the UK"
+    "Analyze an OMFS clinical trial protocol for adherence to ethical principles (Helsinki, ICH-GCP, Spanish regulations), identify ethical risks specific to surgical research, and evaluate consent process adequacy and subject protection",
+    "Evaluate a surgical innovation using the IDEAL framework, differentiate the stage of development, and recommend appropriate study design (case series, development study, exploration RCT, assessment RCT) for each IDEAL stage",
+    "Assess and critically appraise the regulatory requirements for initiating a clinical trial in the EU/UK (EudraCT, MHRA/AEMPS approval, ethics committee review), differentiating requirements for interventional versus observational designs"
   ],
   "sections": [
     {
@@ -49,14 +49,49 @@
         {
           "type": "table",
           "title": "Sample Size Calculation — Key Parameters",
-          "headers": ["Parameter", "Definition", "Typical Value", "Effect on Sample Size"],
+          "headers": [
+            "Parameter",
+            "Definition",
+            "Typical Value",
+            "Effect on Sample Size"
+          ],
           "rows": [
-            ["Alpha (α)", "Type I error: probability of false positive", "0.05 (two-sided)", "Smaller α → larger N"],
-            ["Power (1-β)", "Probability of detecting true difference", "0.80 or 0.90", "Higher power → larger N"],
-            ["MCID", "Minimum clinically important difference", "Specific to outcome", "Smaller MCID → larger N"],
-            ["Event rate (control)", "Baseline outcome frequency", "Estimated from pilot/literature", "Lower rate → larger N"],
-            ["Standard deviation (SD)", "Variability of continuous outcome", "From pilot study or literature", "Higher SD → larger N"],
-            ["Attrition adjustment", "Expected dropout/loss to follow-up", "10–20% typical", "Inflate N by 1/(1−attrition rate)"]
+            [
+              "Alpha (α)",
+              "Type I error: probability of false positive",
+              "0.05 (two-sided)",
+              "Smaller α → larger N"
+            ],
+            [
+              "Power (1-β)",
+              "Probability of detecting true difference",
+              "0.80 or 0.90",
+              "Higher power → larger N"
+            ],
+            [
+              "MCID",
+              "Minimum clinically important difference",
+              "Specific to outcome",
+              "Smaller MCID → larger N"
+            ],
+            [
+              "Event rate (control)",
+              "Baseline outcome frequency",
+              "Estimated from pilot/literature",
+              "Lower rate → larger N"
+            ],
+            [
+              "Standard deviation (SD)",
+              "Variability of continuous outcome",
+              "From pilot study or literature",
+              "Higher SD → larger N"
+            ],
+            [
+              "Attrition adjustment",
+              "Expected dropout/loss to follow-up",
+              "10–20% typical",
+              "Inflate N by 1/(1−attrition rate)"
+            ]
           ]
         }
       ]
@@ -88,14 +123,49 @@
         {
           "type": "table",
           "title": "UK Clinical Trial Regulatory Requirements",
-          "headers": ["Requirement", "Body", "Applicable to", "Timeline"],
+          "headers": [
+            "Requirement",
+            "Body",
+            "Applicable to",
+            "Timeline"
+          ],
           "rows": [
-            ["IRAS application", "IRAS online portal", "All research involving patients", "First step in UK process"],
-            ["REC approval", "UK Research Ethics Committee (HRA)", "All research involving human participants", "28 working days target"],
-            ["HRA approval", "Health Research Authority", "All NHS research", "Concurrent with/after REC"],
-            ["MHRA CTA", "Medicines and Healthcare products Regulatory Agency", "CTIMPs only (drugs/devices)", "Additional 30 days after REC"],
-            ["NHS R&D approval", "Individual NHS Trust", "All NHS research", "After HRA approval, per site"],
-            ["Trial registration", "ISRCTN / ClinicalTrials.gov", "All RCTs (mandatory for publication)", "Before first patient enrolment"]
+            [
+              "IRAS application",
+              "IRAS online portal",
+              "All research involving patients",
+              "First step in UK process"
+            ],
+            [
+              "REC approval",
+              "UK Research Ethics Committee (HRA)",
+              "All research involving human participants",
+              "28 working days target"
+            ],
+            [
+              "HRA approval",
+              "Health Research Authority",
+              "All NHS research",
+              "Concurrent with/after REC"
+            ],
+            [
+              "MHRA CTA",
+              "Medicines and Healthcare products Regulatory Agency",
+              "CTIMPs only (drugs/devices)",
+              "Additional 30 days after REC"
+            ],
+            [
+              "NHS R&D approval",
+              "Individual NHS Trust",
+              "All NHS research",
+              "After HRA approval, per site"
+            ],
+            [
+              "Trial registration",
+              "ISRCTN / ClinicalTrials.gov",
+              "All RCTs (mandatory for publication)",
+              "Before first patient enrolment"
+            ]
           ]
         }
       ]

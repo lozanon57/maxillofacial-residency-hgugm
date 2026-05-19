@@ -17,10 +17,10 @@
   "learning_objectives": [
     "Explain the Ilizarov principle of tension-stress and the biological phases of distraction osteogenesis",
     "Describe the standard distraction protocol (latency, activation rate, consolidation) and the rationale for each phase",
-    "Compare intraoral and extraoral distraction devices for mandibular and midface applications",
-    "Identify appropriate indications for distraction versus acute osteotomy in the craniofacial skeleton",
-    "Recognise and manage complications of distraction including premature consolidation, fibrous union, and vector deviation",
-    "Apply distraction principles to specific clinical scenarios: hemifacial microsomia, cleft midface hypoplasia, and OSA in Pierre Robin sequence"
+    "Evaluate and compare intraoral versus extraoral distraction devices for mandibular and midface applications by analyzing vector control, patient compliance, scar formation, and device stability",
+    "Analyze and justify appropriate indications for distraction osteogenesis versus acute osteotomy in the craniofacial skeleton, considering patient age, defect magnitude, soft-tissue envelope, and airway requirements",
+    "Assess complications of distraction osteogenesis (premature consolidation, fibrous union, device failure, pin tract infection, relapse) and recommend evidence-based prevention and salvage strategies for each",
+    "Evaluate and select distraction protocols for specific complex clinical scenarios (hemifacial microsomia, cleft midface hypoplasia, syndromic craniosynostosis) by integrating surgical timing, device selection, and multidisciplinary care planning"
   ],
   "sections": [
     {
@@ -34,12 +34,37 @@
         {
           "type": "table",
           "title": "Distraction Osteogenesis Protocol: Standard Parameters",
-          "headers": ["Phase", "Duration", "Parameter", "Key Points"],
+          "headers": [
+            "Phase",
+            "Duration",
+            "Parameter",
+            "Key Points"
+          ],
           "rows": [
-            ["Latency", "5–7 days (adults); 3–5 days (children)", "No activation; device locked", "Too short = fibrous union; too long = premature consolidation in children"],
-            ["Activation", "Depends on movement required", "0.5–1.0 mm/day (standard 1 mm/day in 2 × 0.5 mm doses)", "Faster rates reduce bone quality; slower rates reduce but don't eliminate relapse"],
-            ["Consolidation", "2–3× activation phase duration; minimum 8–12 weeks adults", "Device locked; no activation", "Remove device only when radiograph shows cortical bridging of regenerate"],
-            ["Device removal", "After confirmed consolidation", "Clinical + radiographic criteria", "Premature removal = relapse; CT confirms consolidation when X-ray equivocal"]
+            [
+              "Latency",
+              "5–7 days (adults); 3–5 days (children)",
+              "No activation; device locked",
+              "Too short = fibrous union; too long = premature consolidation in children"
+            ],
+            [
+              "Activation",
+              "Depends on movement required",
+              "0.5–1.0 mm/day (standard 1 mm/day in 2 × 0.5 mm doses)",
+              "Faster rates reduce bone quality; slower rates reduce but don't eliminate relapse"
+            ],
+            [
+              "Consolidation",
+              "2–3× activation phase duration; minimum 8–12 weeks adults",
+              "Device locked; no activation",
+              "Remove device only when radiograph shows cortical bridging of regenerate"
+            ],
+            [
+              "Device removal",
+              "After confirmed consolidation",
+              "Clinical + radiographic criteria",
+              "Premature removal = relapse; CT confirms consolidation when X-ray equivocal"
+            ]
           ]
         },
         {
@@ -77,13 +102,43 @@
         {
           "type": "table",
           "title": "Mandibular Distraction Indications and Evidence",
-          "headers": ["Indication", "Age Group", "Device", "Key Evidence"],
+          "headers": [
+            "Indication",
+            "Age Group",
+            "Device",
+            "Key Evidence"
+          ],
           "rows": [
-            ["Large Class II advancement (>10–12 mm)", "Adolescent/adult", "Intraoral/extraoral", "Rachmiel 2001: 12% relapse DO vs 48% acute osteotomy"],
-            ["Hemifacial microsomia", "Paediatric (4–8 yr) or skeletal maturity", "Extraoral", "McCarthy et al. 1992: original craniofacial DO publication"],
-            ["Pierre Robin sequence airway obstruction", "Neonatal (<4 weeks)", "Specialised neonatal extraoral", "Hong et al. 2011: 95% tracheostomy avoidance"],
-            ["Transport DO (large defect reconstruction)", "Any age", "Extraoral bidirectional", "Diss et al. 2007: defects up to 8 cm reconstructed"],
-            ["SARPE (transverse deficiency >5 mm)", "Adult", "Intraoral palatal expander", "Seeberger et al. 2010: >95% success for 5–12 mm transverse expansion"]
+            [
+              "Large Class II advancement (>10–12 mm)",
+              "Adolescent/adult",
+              "Intraoral/extraoral",
+              "Rachmiel 2001: 12% relapse DO vs 48% acute osteotomy"
+            ],
+            [
+              "Hemifacial microsomia",
+              "Paediatric (4–8 yr) or skeletal maturity",
+              "Extraoral",
+              "McCarthy et al. 1992: original craniofacial DO publication"
+            ],
+            [
+              "Pierre Robin sequence airway obstruction",
+              "Neonatal (<4 weeks)",
+              "Specialised neonatal extraoral",
+              "Hong et al. 2011: 95% tracheostomy avoidance"
+            ],
+            [
+              "Transport DO (large defect reconstruction)",
+              "Any age",
+              "Extraoral bidirectional",
+              "Diss et al. 2007: defects up to 8 cm reconstructed"
+            ],
+            [
+              "SARPE (transverse deficiency >5 mm)",
+              "Adult",
+              "Intraoral palatal expander",
+              "Seeberger et al. 2010: >95% success for 5–12 mm transverse expansion"
+            ]
           ]
         },
         {
@@ -137,13 +192,43 @@
         {
           "type": "table",
           "title": "Distraction Osteogenesis Complications: Management Summary",
-          "headers": ["Complication", "Cause", "Prevention", "Management"],
+          "headers": [
+            "Complication",
+            "Cause",
+            "Prevention",
+            "Management"
+          ],
           "rows": [
-            ["Premature consolidation", "Latency too long; activation too slow", "Standard protocol: 5–7 day latency, 1 mm/day", "Increased activation rate; re-corticotomy if needed"],
-            ["Fibrous non-union", "Activation too fast (>1.5 mm/day) or infection", "Standard 1 mm/day; prophylactic antibiotics", "Bone graft regenerate zone after consolidation phase"],
-            ["Vector deviation", "Muscle pull; device angle mismatch", "CT vector planning; vector parallel to bone axis", "Adjust device vector; revision osteotomy if severe"],
-            ["Pin loosening", "Infection; patient compliance", "Daily pin care; prophylactic antibiotics", "Replace loose pin; intensify antibiotics"],
-            ["Relapse after consolidation", "Expected partial relapse ~10–15%", "Overcorrect by 10–15%", "Orthodontic finishing; rarely revision distraction"]
+            [
+              "Premature consolidation",
+              "Latency too long; activation too slow",
+              "Standard protocol: 5–7 day latency, 1 mm/day",
+              "Increased activation rate; re-corticotomy if needed"
+            ],
+            [
+              "Fibrous non-union",
+              "Activation too fast (>1.5 mm/day) or infection",
+              "Standard 1 mm/day; prophylactic antibiotics",
+              "Bone graft regenerate zone after consolidation phase"
+            ],
+            [
+              "Vector deviation",
+              "Muscle pull; device angle mismatch",
+              "CT vector planning; vector parallel to bone axis",
+              "Adjust device vector; revision osteotomy if severe"
+            ],
+            [
+              "Pin loosening",
+              "Infection; patient compliance",
+              "Daily pin care; prophylactic antibiotics",
+              "Replace loose pin; intensify antibiotics"
+            ],
+            [
+              "Relapse after consolidation",
+              "Expected partial relapse ~10–15%",
+              "Overcorrect by 10–15%",
+              "Orthodontic finishing; rarely revision distraction"
+            ]
           ]
         },
         {

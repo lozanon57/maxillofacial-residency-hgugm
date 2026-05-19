@@ -18,10 +18,10 @@
   "learning_objectives": [
     "Describe the anatomical basis of BSSO and the course of the inferior alveolar nerve within the sagittal split",
     "Explain the Obwegeser-Dal Pont modification and its advantages over the original technique",
-    "Identify risk factors for bad splits and describe intraoperative management",
-    "Compare positional screws and miniplate fixation in terms of condylar position control",
-    "Manage condylar torque and sag and their effects on occlusal outcome",
-    "Counsel patients appropriately regarding inferior alveolar nerve injury rates and recovery prognosis"
+    "Analyze the risk factors predisposing to bad splits in BSSO and differentiate the surgical management options for each bad split pattern (lingual plate fracture, coronoid process fracture, condylar fracture)",
+    "Evaluate the evidence comparing positional screws versus miniplate fixation for condylar position control and mandibular stability after BSSO, and recommend fixation strategy based on the evidence and planned movement",
+    "Assess condylar torque and sag as intraoperative complications of BSSO and recommend systematic techniques to prevent and correct their effects on final occlusion",
+    "Evaluate the evidence on inferior alveolar nerve injury rates, recovery predictors, and long-term outcomes after BSSO, and justify pre-operative counselling content and the clinical assessment of post-operative neurosensory changes"
   ],
   "sections": [
     {
@@ -35,12 +35,37 @@
         {
           "type": "table",
           "title": "BSSO Technique Evolution: Key Modifications",
-          "headers": ["Author", "Year", "Modification", "Advantage"],
+          "headers": [
+            "Author",
+            "Year",
+            "Modification",
+            "Advantage"
+          ],
           "rows": [
-            ["Trauner & Obwegeser", "1957", "Original sagittal split, lingual and lateral cuts", "First intraoral technique; avoids facial incision"],
-            ["Dal Pont", "1961", "Extended lateral cut anterior to external oblique ridge (to 1st molar)", "Increased bony contact; better stability; more movement range"],
-            ["Hunsuck", "1968", "Shortened medial cut — stops just past lingula", "Reduces IAN injury risk; preserves medial periosteum"],
-            ["Epker", "1977", "Added vertical buccal stop cut posterior to 1st molar", "Controls split terminus; reduces bad splits; most widely used today"]
+            [
+              "Trauner & Obwegeser",
+              "1957",
+              "Original sagittal split, lingual and lateral cuts",
+              "First intraoral technique; avoids facial incision"
+            ],
+            [
+              "Dal Pont",
+              "1961",
+              "Extended lateral cut anterior to external oblique ridge (to 1st molar)",
+              "Increased bony contact; better stability; more movement range"
+            ],
+            [
+              "Hunsuck",
+              "1968",
+              "Shortened medial cut — stops just past lingula",
+              "Reduces IAN injury risk; preserves medial periosteum"
+            ],
+            [
+              "Epker",
+              "1977",
+              "Added vertical buccal stop cut posterior to 1st molar",
+              "Controls split terminus; reduces bad splits; most widely used today"
+            ]
           ]
         },
         {
@@ -62,15 +87,55 @@
         {
           "type": "table",
           "title": "IAN Injury After BSSO: Risk Factors and Rates",
-          "headers": ["Factor", "Low Risk", "High Risk", "Mechanism"],
+          "headers": [
+            "Factor",
+            "Low Risk",
+            "High Risk",
+            "Mechanism"
+          ],
           "rows": [
-            ["Movement type", "Setback <6 mm", "Advancement >10 mm / inferior repositioning", "Nerve stretch in advancement; compression in setback"],
-            ["Canal position", "Well below apices", "High canal position (close to apices)", "Less cancellous buffer; direct osteotomy injury"],
-            ["Split type", "Clean greenstick split", "Bad split through canal region", "Direct nerve laceration or compression"],
-            ["Fixation method", "Miniplates (rigid)", "Excessive positional screw torque", "Compression of nerve in canal by over-tightened screws"],
-            ["Surgeon experience", ">50 cases/year", "Low-volume surgeons", "Technical precision; recognition of nerve exposure"],
-            ["Temporary deficit rate", "—", "75–100% all patients", "Stretch/neuropraxia; most resolve by 3–6 months"],
-            ["Permanent deficit rate", "5–10% (mild disturbance)", "Up to 35% (objective testing)", "Axonotmesis; recovery over 12–18 months"]
+            [
+              "Movement type",
+              "Setback <6 mm",
+              "Advancement >10 mm / inferior repositioning",
+              "Nerve stretch in advancement; compression in setback"
+            ],
+            [
+              "Canal position",
+              "Well below apices",
+              "High canal position (close to apices)",
+              "Less cancellous buffer; direct osteotomy injury"
+            ],
+            [
+              "Split type",
+              "Clean greenstick split",
+              "Bad split through canal region",
+              "Direct nerve laceration or compression"
+            ],
+            [
+              "Fixation method",
+              "Miniplates (rigid)",
+              "Excessive positional screw torque",
+              "Compression of nerve in canal by over-tightened screws"
+            ],
+            [
+              "Surgeon experience",
+              ">50 cases/year",
+              "Low-volume surgeons",
+              "Technical precision; recognition of nerve exposure"
+            ],
+            [
+              "Temporary deficit rate",
+              "—",
+              "75–100% all patients",
+              "Stretch/neuropraxia; most resolve by 3–6 months"
+            ],
+            [
+              "Permanent deficit rate",
+              "5–10% (mild disturbance)",
+              "Up to 35% (objective testing)",
+              "Axonotmesis; recovery over 12–18 months"
+            ]
           ]
         },
         {
@@ -114,13 +179,43 @@
         {
           "type": "table",
           "title": "Bad Split Patterns: Classification and Management",
-          "headers": ["Pattern", "Incidence", "Cause", "Management"],
+          "headers": [
+            "Pattern",
+            "Incidence",
+            "Cause",
+            "Management"
+          ],
           "rows": [
-            ["Lingual plate fracture", "Most common (1–2%)", "Dense bone, excessive osteotome force", "Complete split; add supplementary fixation screw to lingual fragment"],
-            ["Buccal plate fracture", "0.3–0.5%", "Excessive lateral pressure; dense external oblique ridge", "Fix buccal fragment; may reduce contact area"],
-            ["Condylar fracture", "0.1–0.3%", "Fracture propagates to condylar neck", "Abandon movement; fix all fragments; defer orthognathic surgery 3–6 months"],
-            ["Greenstick fracture", "1–3%", "Incomplete periosteal release; soft bone", "Complete osteotomy; usually no additional fixation needed"],
-            ["Tooth root damage", "0.5–1%", "Lateral osteotomy too anterior; high apices", "Endodontic evaluation; monitor; rarely symptomatic"]
+            [
+              "Lingual plate fracture",
+              "Most common (1–2%)",
+              "Dense bone, excessive osteotome force",
+              "Complete split; add supplementary fixation screw to lingual fragment"
+            ],
+            [
+              "Buccal plate fracture",
+              "0.3–0.5%",
+              "Excessive lateral pressure; dense external oblique ridge",
+              "Fix buccal fragment; may reduce contact area"
+            ],
+            [
+              "Condylar fracture",
+              "0.1–0.3%",
+              "Fracture propagates to condylar neck",
+              "Abandon movement; fix all fragments; defer orthognathic surgery 3–6 months"
+            ],
+            [
+              "Greenstick fracture",
+              "1–3%",
+              "Incomplete periosteal release; soft bone",
+              "Complete osteotomy; usually no additional fixation needed"
+            ],
+            [
+              "Tooth root damage",
+              "0.5–1%",
+              "Lateral osteotomy too anterior; high apices",
+              "Endodontic evaluation; monitor; rarely symptomatic"
+            ]
           ]
         },
         {
@@ -142,15 +237,47 @@
         {
           "type": "table",
           "title": "BSSO Fixation: Positional Screws vs Miniplates",
-          "headers": ["Parameter", "Bicortical Screws", "Monocortical Miniplates"],
+          "headers": [
+            "Parameter",
+            "Bicortical Screws",
+            "Monocortical Miniplates"
+          ],
           "rows": [
-            ["Rigidity", "Higher (bicortical purchase)", "Moderate (monocortical only)"],
-            ["IAN compression risk", "Yes — if placed inferiorly or over-torqued", "No — monocortical, away from canal"],
-            ["Condylar position", "Fixed at moment of screw insertion — no adjustment", "Adjustable during plate bending and fixation"],
-            ["Skeletal stability", "Equivalent or slightly better in setback", "Equivalent in most meta-analyses"],
-            ["Preferred indication", "Class III setback (≤8 mm)", "Class II advancement; any case with condylar position concern"],
-            ["Hardware removal", "Rarely required; low profile", "May need removal if prominent or palpable"],
-            ["Technique difficulty", "Requires accurate condylar seating before fixation", "More forgiving of condylar position during application"]
+            [
+              "Rigidity",
+              "Higher (bicortical purchase)",
+              "Moderate (monocortical only)"
+            ],
+            [
+              "IAN compression risk",
+              "Yes — if placed inferiorly or over-torqued",
+              "No — monocortical, away from canal"
+            ],
+            [
+              "Condylar position",
+              "Fixed at moment of screw insertion — no adjustment",
+              "Adjustable during plate bending and fixation"
+            ],
+            [
+              "Skeletal stability",
+              "Equivalent or slightly better in setback",
+              "Equivalent in most meta-analyses"
+            ],
+            [
+              "Preferred indication",
+              "Class III setback (≤8 mm)",
+              "Class II advancement; any case with condylar position concern"
+            ],
+            [
+              "Hardware removal",
+              "Rarely required; low profile",
+              "May need removal if prominent or palpable"
+            ],
+            [
+              "Technique difficulty",
+              "Requires accurate condylar seating before fixation",
+              "More forgiving of condylar position during application"
+            ]
           ]
         },
         {
@@ -172,15 +299,55 @@
         {
           "type": "table",
           "title": "BSSO Stability: Movement Direction and Magnitude",
-          "headers": ["Movement", "Magnitude", "Relapse Rate (1 year)", "Notes"],
+          "headers": [
+            "Movement",
+            "Magnitude",
+            "Relapse Rate (1 year)",
+            "Notes"
+          ],
           "rows": [
-            ["Advancement (Class II)", "≤5 mm", "<5%", "Most stable; preferred magnitude"],
-            ["Advancement (Class II)", "5–8 mm", "5–15%", "Moderate risk; bimaxillary may distribute load"],
-            ["Advancement (Class II)", ">8–10 mm", "15–25%", "High risk; consider DO or bimaxillary surgery"],
-            ["Setback (Class III)", "≤6 mm", "<5%", "Very stable"],
-            ["Setback (Class III)", "6–10 mm", "10–20%", "Consider bimaxillary surgery to reduce per-jaw movement"],
-            ["Setback (Class III)", ">10 mm", "20–35%", "High relapse; airway effects; consider DO"],
-            ["Asymmetry correction", "≤4 mm", "<10%", "Greater relapse with larger asymmetric movements"]
+            [
+              "Advancement (Class II)",
+              "≤5 mm",
+              "<5%",
+              "Most stable; preferred magnitude"
+            ],
+            [
+              "Advancement (Class II)",
+              "5–8 mm",
+              "5–15%",
+              "Moderate risk; bimaxillary may distribute load"
+            ],
+            [
+              "Advancement (Class II)",
+              ">8–10 mm",
+              "15–25%",
+              "High risk; consider DO or bimaxillary surgery"
+            ],
+            [
+              "Setback (Class III)",
+              "≤6 mm",
+              "<5%",
+              "Very stable"
+            ],
+            [
+              "Setback (Class III)",
+              "6–10 mm",
+              "10–20%",
+              "Consider bimaxillary surgery to reduce per-jaw movement"
+            ],
+            [
+              "Setback (Class III)",
+              ">10 mm",
+              "20–35%",
+              "High relapse; airway effects; consider DO"
+            ],
+            [
+              "Asymmetry correction",
+              "≤4 mm",
+              "<10%",
+              "Greater relapse with larger asymmetric movements"
+            ]
           ]
         },
         {

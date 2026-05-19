@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Classify mandibular fractures by anatomical site, fracture pattern (favourable/unfavourable), and displacement",
     "Identify the ideal osteosynthesis lines (Champy lines) for miniplate fixation of mandibular fractures",
-    "Select the appropriate fixation technique for each fracture site: symphysis, parasymphysis, body, angle, ramus, and condyle",
-    "Describe the surgical approaches to the mandible for open reduction and internal fixation",
-    "Recognise complications of mandibular fractures: infection, non-union, malunion, inferior alveolar nerve injury, and osteomyelitis",
-    "Manage mandibular fractures in the context of teeth in the fracture line and in the edentulous patient"
+    "Analyze each mandibular fracture site (symphysis, parasymphysis, body, angle, ramus, condyle, coronoid) and select the evidence-based fixation technique based on Champy biomechanical principles, fracture pattern, and dentition status",
+    "Evaluate surgical approaches to mandibular ORIF (transcutaneous, transbuccal, transoral) by differentiating anatomical risks, scar implications, and access limitations for each fracture site and patient profile",
+    "Assess and manage complications of mandibular fractures (infection, non-union, malunion, hardware failure, inferior alveolar nerve injury) by differentiating prevention strategies from stepwise evidence-based treatment protocols",
+    "Differentiate management strategies for mandibular fractures involving teeth in the fracture line (extraction versus retention criteria) and in the edentulous patient (load-bearing versus load-sharing fixation), justifying each decision with biomechanical and clinical evidence"
   ],
   "sections": [
     {
@@ -33,15 +33,55 @@
         {
           "type": "table",
           "title": "Mandibular Fracture Sites: Frequency and Key Features",
-          "headers": ["Site", "Frequency", "Key Anatomical Feature", "Preferred Fixation"],
+          "headers": [
+            "Site",
+            "Frequency",
+            "Key Anatomical Feature",
+            "Preferred Fixation"
+          ],
           "rows": [
-            ["Condyle/subcondylar", "25-35%", "Lateral pterygoid displacement; bilateral fractures cause AOB", "Conservative preferred; ORIF for dislocated/bilateral AOB cases"],
-            ["Angle", "20-30%", "Weakened by wisdom tooth; unfavourable horizontal pattern", "Champy single miniplate on oblique external line"],
-            ["Parasymphysis", "15-25%", "Canine root weakens cortex; bilateral = 'bucket handle'", "One plate on inferior border + one on superior (tension zone)"],
-            ["Body", "15-20%", "Mental nerve at risk; tooth roots in line", "Two-plate system or 3D plate"],
-            ["Symphysis", "5-10%", "Bilateral impact zone; may be comminuted", "Two plates (superior and inferior border)"],
-            ["Ramus", "3-5%", "Protected by pterygomasseteic sling; rarely displaced", "Conservative; ORIF if displaced/comminuted"],
-            ["Coronoid", "<1%", "Isolated coronoid fracture very rare", "Usually conservative; trismus resolves"]
+            [
+              "Condyle/subcondylar",
+              "25-35%",
+              "Lateral pterygoid displacement; bilateral fractures cause AOB",
+              "Conservative preferred; ORIF for dislocated/bilateral AOB cases"
+            ],
+            [
+              "Angle",
+              "20-30%",
+              "Weakened by wisdom tooth; unfavourable horizontal pattern",
+              "Champy single miniplate on oblique external line"
+            ],
+            [
+              "Parasymphysis",
+              "15-25%",
+              "Canine root weakens cortex; bilateral = 'bucket handle'",
+              "One plate on inferior border + one on superior (tension zone)"
+            ],
+            [
+              "Body",
+              "15-20%",
+              "Mental nerve at risk; tooth roots in line",
+              "Two-plate system or 3D plate"
+            ],
+            [
+              "Symphysis",
+              "5-10%",
+              "Bilateral impact zone; may be comminuted",
+              "Two plates (superior and inferior border)"
+            ],
+            [
+              "Ramus",
+              "3-5%",
+              "Protected by pterygomasseteic sling; rarely displaced",
+              "Conservative; ORIF if displaced/comminuted"
+            ],
+            [
+              "Coronoid",
+              "<1%",
+              "Isolated coronoid fracture very rare",
+              "Usually conservative; trismus resolves"
+            ]
           ]
         },
         {
@@ -79,14 +119,49 @@
         {
           "type": "table",
           "title": "Surgical Approaches for Mandibular ORIF: Site-Approach Matching",
-          "headers": ["Fracture Site", "Preferred Approach", "Nerve at Risk", "Notes"],
+          "headers": [
+            "Fracture Site",
+            "Preferred Approach",
+            "Nerve at Risk",
+            "Notes"
+          ],
           "rows": [
-            ["Symphysis", "Transoral labial vestibule", "Marginal mandibular (care with retraction)", "Two plates; avoid mental nerve"],
-            ["Parasymphysis", "Transoral", "Mental nerve, marginal mandibular", "Two plates; identify and protect mental nerve"],
-            ["Body", "Transoral ± submandibular (2nd plate)", "Mental nerve, marginal mandibular", "Two plates often needed"],
-            ["Angle", "Transoral (Champy) ± submandibular", "Marginal mandibular (extraoral)", "Single plate on oblique external line for Champy technique"],
-            ["Ramus (high)", "Retromandibular", "CN VII lower division", "Rare ORIF; usually conservative"],
-            ["Condylar neck", "Retromandibular or preauricular", "CN VII temporal/buccal", "Double miniplate; see D3"]
+            [
+              "Symphysis",
+              "Transoral labial vestibule",
+              "Marginal mandibular (care with retraction)",
+              "Two plates; avoid mental nerve"
+            ],
+            [
+              "Parasymphysis",
+              "Transoral",
+              "Mental nerve, marginal mandibular",
+              "Two plates; identify and protect mental nerve"
+            ],
+            [
+              "Body",
+              "Transoral ± submandibular (2nd plate)",
+              "Mental nerve, marginal mandibular",
+              "Two plates often needed"
+            ],
+            [
+              "Angle",
+              "Transoral (Champy) ± submandibular",
+              "Marginal mandibular (extraoral)",
+              "Single plate on oblique external line for Champy technique"
+            ],
+            [
+              "Ramus (high)",
+              "Retromandibular",
+              "CN VII lower division",
+              "Rare ORIF; usually conservative"
+            ],
+            [
+              "Condylar neck",
+              "Retromandibular or preauricular",
+              "CN VII temporal/buccal",
+              "Double miniplate; see D3"
+            ]
           ]
         }
       ]
@@ -134,14 +209,49 @@
         {
           "type": "table",
           "title": "Mandibular Fracture ORIF Complications: Risk Factors, Prevention, Management",
-          "headers": ["Complication", "Incidence", "Risk Factors", "Management"],
+          "headers": [
+            "Complication",
+            "Incidence",
+            "Risk Factors",
+            "Management"
+          ],
           "rows": [
-            ["Infection", "5-12% overall; 20-30% at angle", "Impacted third molar in line; delayed repair; heavy alcohol use", "Antibiotics; drainage; plate removal at 6-8 weeks if hardware-related"],
-            ["Non-union", "1-3%", "Infection; poor fixation; osteoporosis; radiation", "Bone graft + rigid reconstruction plate"],
-            ["Malunion", "2-5%", "Inadequate primary reduction; early plate failure", "Secondary osteotomy and re-fixation"],
-            ["IAN neuropraxia", "15-25%", "Body/parasymphysis fractures; surgical retraction", "Observation; recovery expected in months"],
-            ["Plate palpability/exposure", "3-8%", "Thin soft tissue over plate; titanium plates", "Plate removal after fracture union"],
-            ["Osteomyelitis", "<2%", "Untreated infection; radiation-damaged bone", "Sequestrectomy + long-term antibiotics"]
+            [
+              "Infection",
+              "5-12% overall; 20-30% at angle",
+              "Impacted third molar in line; delayed repair; heavy alcohol use",
+              "Antibiotics; drainage; plate removal at 6-8 weeks if hardware-related"
+            ],
+            [
+              "Non-union",
+              "1-3%",
+              "Infection; poor fixation; osteoporosis; radiation",
+              "Bone graft + rigid reconstruction plate"
+            ],
+            [
+              "Malunion",
+              "2-5%",
+              "Inadequate primary reduction; early plate failure",
+              "Secondary osteotomy and re-fixation"
+            ],
+            [
+              "IAN neuropraxia",
+              "15-25%",
+              "Body/parasymphysis fractures; surgical retraction",
+              "Observation; recovery expected in months"
+            ],
+            [
+              "Plate palpability/exposure",
+              "3-8%",
+              "Thin soft tissue over plate; titanium plates",
+              "Plate removal after fracture union"
+            ],
+            [
+              "Osteomyelitis",
+              "<2%",
+              "Untreated infection; radiation-damaged bone",
+              "Sequestrectomy + long-term antibiotics"
+            ]
           ]
         }
       ]

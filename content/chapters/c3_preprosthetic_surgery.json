@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Classify alveolar ridge defects (Cawood and Howell) and select appropriate augmentation strategies",
     "Compare autogenous bone grafts, allografts, xenografts, and alloplasts for ridge augmentation indications and outcomes",
-    "Describe the principles of guided bone regeneration (GBR) and the role of barrier membranes",
-    "Plan and describe the lateral window sinus lift technique including anatomy and complications",
-    "Apply the principles of socket preservation after tooth extraction to reduce ridge resorption",
-    "Identify key complications of bone augmentation and apply evidence-based management"
+    "Analyze the principles of guided bone regeneration (GBR), differentiate membrane types and their clinical performance profiles, and select the appropriate GBR technique based on defect morphology and regenerative goals",
+    "Evaluate the anatomical risk factors and evidence-based technique modifications for lateral window sinus lift, differentiate management of intraoperative membrane perforations, and justify timing of implant placement relative to graft maturation",
+    "Assess the clinical evidence for socket preservation after extraction and evaluate the comparative efficacy of different grafting materials in reducing ridge resorption and maintaining bone volume for subsequent implant placement",
+    "Critically appraise the complications of bone augmentation procedures (graft resorption, infection, membrane exposure, nerve injury) and recommend evidence-based prevention and stepwise management strategies for each"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Cawood-Howell Ridge Classification and Augmentation Strategy",
-          "headers": ["Class", "Description", "Augmentation Need", "Preferred Strategy"],
+          "headers": [
+            "Class",
+            "Description",
+            "Augmentation Need",
+            "Preferred Strategy"
+          ],
           "rows": [
-            ["I", "Dentate — tooth present", "None", "Socket preservation at extraction"],
-            ["II", "Immediate post-extraction", "Preserve socket", "Socket preservation (graft + membrane)"],
-            ["III", "Rounded ridge, adequate width and height", "Minimal or none", "Implant ± GBR simultaneous"],
-            ["IV", "Knife-edge — adequate height, insufficient width", "Horizontal augmentation", "GBR, block graft, or split-ridge technique"],
-            ["V", "Flat ridge — insufficient height and width", "Vertical + horizontal", "Vertical GBR, distraction osteogenesis, block graft"],
-            ["VI", "Depressed below basal bone", "Major reconstruction", "Large block graft, free flap (rare)"]
+            [
+              "I",
+              "Dentate — tooth present",
+              "None",
+              "Socket preservation at extraction"
+            ],
+            [
+              "II",
+              "Immediate post-extraction",
+              "Preserve socket",
+              "Socket preservation (graft + membrane)"
+            ],
+            [
+              "III",
+              "Rounded ridge, adequate width and height",
+              "Minimal or none",
+              "Implant ± GBR simultaneous"
+            ],
+            [
+              "IV",
+              "Knife-edge — adequate height, insufficient width",
+              "Horizontal augmentation",
+              "GBR, block graft, or split-ridge technique"
+            ],
+            [
+              "V",
+              "Flat ridge — insufficient height and width",
+              "Vertical + horizontal",
+              "Vertical GBR, distraction osteogenesis, block graft"
+            ],
+            [
+              "VI",
+              "Depressed below basal bone",
+              "Major reconstruction",
+              "Large block graft, free flap (rare)"
+            ]
           ]
         },
         {
@@ -62,13 +97,55 @@
         {
           "type": "table",
           "title": "Bone Graft Properties by Type",
-          "headers": ["Graft Type", "Osteogenesis", "Osteoinduction", "Osteoconduction", "Donor Site", "Key Advantage"],
+          "headers": [
+            "Graft Type",
+            "Osteogenesis",
+            "Osteoinduction",
+            "Osteoconduction",
+            "Donor Site",
+            "Key Advantage"
+          ],
           "rows": [
-            ["Autogenous (autograft)", "Yes", "Yes", "Yes", "Patient (chin, ramus, iliac)", "Gold standard; all 3 properties"],
-            ["Allograft FDBA", "No", "No", "Yes", "Human cadaver", "No donor site; predictable scaffold"],
-            ["Allograft DFDBA", "No", "Yes (partial)", "Yes", "Human cadaver", "Osteoinductive + no donor site"],
-            ["Xenograft (Bio-Oss)", "No", "No", "Yes", "Bovine/porcine", "Slow resorption; widely researched"],
-            ["Alloplast (β-TCP)", "No", "No", "Yes", "Synthetic", "Resorbable; no disease risk"]
+            [
+              "Autogenous (autograft)",
+              "Yes",
+              "Yes",
+              "Yes",
+              "Patient (chin, ramus, iliac)",
+              "Gold standard; all 3 properties"
+            ],
+            [
+              "Allograft FDBA",
+              "No",
+              "No",
+              "Yes",
+              "Human cadaver",
+              "No donor site; predictable scaffold"
+            ],
+            [
+              "Allograft DFDBA",
+              "No",
+              "Yes (partial)",
+              "Yes",
+              "Human cadaver",
+              "Osteoinductive + no donor site"
+            ],
+            [
+              "Xenograft (Bio-Oss)",
+              "No",
+              "No",
+              "Yes",
+              "Bovine/porcine",
+              "Slow resorption; widely researched"
+            ],
+            [
+              "Alloplast (β-TCP)",
+              "No",
+              "No",
+              "Yes",
+              "Synthetic",
+              "Resorbable; no disease risk"
+            ]
           ]
         },
         {
@@ -106,13 +183,43 @@
         {
           "type": "table",
           "title": "Lateral Window Sinus Lift: Complications and Management",
-          "headers": ["Complication", "Incidence", "Cause", "Management"],
+          "headers": [
+            "Complication",
+            "Incidence",
+            "Cause",
+            "Management"
+          ],
           "rows": [
-            ["Schneiderian membrane perforation", "10–20%", "Thin membrane; septa; technique", "Small (<5 mm): collagen patch + continue. Large: consider abandoning"],
-            ["Postoperative sinusitis", "2–5%", "Graft contamination; osteomeatal complex obstruction", "Antibiotics; nasal decongestants; functional endoscopic sinus surgery if no resolution"],
-            ["Graft infection", "2–5%", "Contamination; membrane perforation", "Debridement; antibiotics; staged re-graft after healing"],
-            ["Posterior superior alveolar artery bleeding", "5–10%", "Window created through PSAA course", "Bipolar cautery; pressure; rarely ligation"],
-            ["Implant failure post-sinus lift", "5–10%", "Poor quality regenerate; infection; poor primary stability", "Explant; re-graft; re-implant"]
+            [
+              "Schneiderian membrane perforation",
+              "10–20%",
+              "Thin membrane; septa; technique",
+              "Small (<5 mm): collagen patch + continue. Large: consider abandoning"
+            ],
+            [
+              "Postoperative sinusitis",
+              "2–5%",
+              "Graft contamination; osteomeatal complex obstruction",
+              "Antibiotics; nasal decongestants; functional endoscopic sinus surgery if no resolution"
+            ],
+            [
+              "Graft infection",
+              "2–5%",
+              "Contamination; membrane perforation",
+              "Debridement; antibiotics; staged re-graft after healing"
+            ],
+            [
+              "Posterior superior alveolar artery bleeding",
+              "5–10%",
+              "Window created through PSAA course",
+              "Bipolar cautery; pressure; rarely ligation"
+            ],
+            [
+              "Implant failure post-sinus lift",
+              "5–10%",
+              "Poor quality regenerate; infection; poor primary stability",
+              "Explant; re-graft; re-implant"
+            ]
           ]
         },
         {

@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Classify sialadenitis by aetiology (acute bacterial, chronic recurrent, autoimmune) and identify the causative organisms in acute bacterial parotitis",
     "Describe the clinical presentation, investigations, and management of sialolithiasis",
-    "Outline the management of parotid and submandibular abscesses including indications for surgery",
-    "Identify the clinical features of Sjögren syndrome and its salivary gland manifestations",
-    "Describe the indications and technique for superficial parotidectomy and submandibulectomy"
+    "Analyze the clinical and imaging criteria for surgical versus conservative management of parotid and submandibular abscesses, and evaluate the indications for incision and drainage versus gland excision based on extent of infection and gland viability",
+    "Differentiate the salivary gland manifestations of Sjögren syndrome from infectious sialadenitis using clinical, laboratory (anti-Ro/La, biopsy), and imaging features, and evaluate the implications for management and malignancy surveillance",
+    "Evaluate the indications and technique for superficial parotidectomy versus submandibulectomy in the context of chronic salivary disease, and justify the surgical approach based on gland pathology, duct anatomy, and facial nerve risk"
   ],
   "sections": [
     {
@@ -49,13 +49,43 @@
         {
           "type": "table",
           "title": "Causative Organisms in Acute Bacterial Sialadenitis",
-          "headers": ["Organism", "Frequency", "Setting", "Antibiotic of Choice"],
+          "headers": [
+            "Organism",
+            "Frequency",
+            "Setting",
+            "Antibiotic of Choice"
+          ],
           "rows": [
-            ["Staphylococcus aureus (MSSA)", "50–80%", "Community", "Flucloxacillin OR co-amoxiclav"],
-            ["MRSA", "Variable", "Hospital-acquired, ICU", "Vancomycin OR linezolid"],
-            ["Viridans streptococci", "10–20%", "Community", "Amoxicillin-clavulanate"],
-            ["Gram-negative (E. coli, H. influenzae)", "5–15%", "Immunocompromised, hospitalised", "Co-amoxiclav OR ciprofloxacin"],
-            ["Anaerobes (Bacteroides)", "Mixed infections", "Diabetics, dental origin", "Metronidazole + co-amoxiclav"]
+            [
+              "Staphylococcus aureus (MSSA)",
+              "50–80%",
+              "Community",
+              "Flucloxacillin OR co-amoxiclav"
+            ],
+            [
+              "MRSA",
+              "Variable",
+              "Hospital-acquired, ICU",
+              "Vancomycin OR linezolid"
+            ],
+            [
+              "Viridans streptococci",
+              "10–20%",
+              "Community",
+              "Amoxicillin-clavulanate"
+            ],
+            [
+              "Gram-negative (E. coli, H. influenzae)",
+              "5–15%",
+              "Immunocompromised, hospitalised",
+              "Co-amoxiclav OR ciprofloxacin"
+            ],
+            [
+              "Anaerobes (Bacteroides)",
+              "Mixed infections",
+              "Diabetics, dental origin",
+              "Metronidazole + co-amoxiclav"
+            ]
           ]
         },
         {
@@ -77,14 +107,49 @@
         {
           "type": "table",
           "title": "Sialolithiasis Management by Location and Size",
-          "headers": ["Location", "Stone Size", "First-Line Management", "Alternative"],
+          "headers": [
+            "Location",
+            "Stone Size",
+            "First-Line Management",
+            "Alternative"
+          ],
           "rows": [
-            ["Anterior floor of mouth (Wharton's duct)", "Any size", "Transoral duct incision + milking/retrieval", "Sialoendoscopy-assisted"],
-            ["Mid-Wharton's duct", "≤4 mm", "Sialoendoscopy + basket retrieval", "ESWL"],
-            ["Mid-Wharton's duct", ">4 mm", "Sialoendoscopy + in-duct lithotripsy", "Submandibulectomy if failed"],
-            ["Gland hilum", "Any", "Submandibulectomy", "Combined sialoendoscopy + open"],
-            ["Parotid duct (Stensen's)", "≤4 mm", "Sialoendoscopy ± basket", "Transoral Stensen's papilla incision"],
-            ["Parotid gland", ">4 mm", "ESWL or sialoendoscopy + lithotripsy", "Superficial parotidectomy (last resort)"]
+            [
+              "Anterior floor of mouth (Wharton's duct)",
+              "Any size",
+              "Transoral duct incision + milking/retrieval",
+              "Sialoendoscopy-assisted"
+            ],
+            [
+              "Mid-Wharton's duct",
+              "≤4 mm",
+              "Sialoendoscopy + basket retrieval",
+              "ESWL"
+            ],
+            [
+              "Mid-Wharton's duct",
+              ">4 mm",
+              "Sialoendoscopy + in-duct lithotripsy",
+              "Submandibulectomy if failed"
+            ],
+            [
+              "Gland hilum",
+              "Any",
+              "Submandibulectomy",
+              "Combined sialoendoscopy + open"
+            ],
+            [
+              "Parotid duct (Stensen's)",
+              "≤4 mm",
+              "Sialoendoscopy ± basket",
+              "Transoral Stensen's papilla incision"
+            ],
+            [
+              "Parotid gland",
+              ">4 mm",
+              "ESWL or sialoendoscopy + lithotripsy",
+              "Superficial parotidectomy (last resort)"
+            ]
           ]
         },
         {
@@ -122,13 +187,43 @@
         {
           "type": "table",
           "title": "Sjögren Syndrome — 2016 ACR/EULAR Diagnostic Criteria",
-          "headers": ["Criterion", "Method", "Positive Threshold", "Score"],
+          "headers": [
+            "Criterion",
+            "Method",
+            "Positive Threshold",
+            "Score"
+          ],
           "rows": [
-            ["Labial salivary gland biopsy", "Minor salivary gland lip biopsy", "Focal lymphocytic sialadenitis, focus score ≥1/4mm²", "3 points"],
-            ["Anti-SSA/Ro antibodies", "Blood test (ELISA)", "Positive", "3 points"],
-            ["Ocular staining score", "Ophthalmologist — rose bengal/lissamine green", "≥5 on either eye", "1 point"],
-            ["Schirmer test", "Filter paper strip in conjunctival sac", "≤5 mm/5 min", "1 point"],
-            ["Unstimulated whole saliva flow", "Timed saliva collection", "<0.1 mL/min", "1 point"]
+            [
+              "Labial salivary gland biopsy",
+              "Minor salivary gland lip biopsy",
+              "Focal lymphocytic sialadenitis, focus score ≥1/4mm²",
+              "3 points"
+            ],
+            [
+              "Anti-SSA/Ro antibodies",
+              "Blood test (ELISA)",
+              "Positive",
+              "3 points"
+            ],
+            [
+              "Ocular staining score",
+              "Ophthalmologist — rose bengal/lissamine green",
+              "≥5 on either eye",
+              "1 point"
+            ],
+            [
+              "Schirmer test",
+              "Filter paper strip in conjunctival sac",
+              "≤5 mm/5 min",
+              "1 point"
+            ],
+            [
+              "Unstimulated whole saliva flow",
+              "Timed saliva collection",
+              "<0.1 mL/min",
+              "1 point"
+            ]
           ]
         },
         {
@@ -166,11 +261,35 @@
         {
           "type": "table",
           "title": "Nerves at Risk in Submandibulectomy",
-          "headers": ["Nerve", "Function", "Location", "Injury Result", "Prevention"],
+          "headers": [
+            "Nerve",
+            "Function",
+            "Location",
+            "Injury Result",
+            "Prevention"
+          ],
           "rows": [
-            ["Marginal mandibular (CN VII)", "Lower lip elevation + depressor anguli oris", "Subplatysmal, ≥2 cm below mandible", "Lower lip paresis", "Subplatysmal dissection; >2 cm incision"],
-            ["Lingual nerve (V3)", "Tongue sensation + taste (CN VII chorda tympani)", "Loops over Wharton's duct, floor of mouth", "Tongue anaesthesia, altered taste", "Identify before dividing duct; careful floor of mouth dissection"],
-            ["Hypoglossal (CN XII)", "Tongue movement", "On hyoglossus, deep in submandibular triangle", "Tongue deviation, dysarthria", "Identify hyoglossus; careful inferior triangle dissection"]
+            [
+              "Marginal mandibular (CN VII)",
+              "Lower lip elevation + depressor anguli oris",
+              "Subplatysmal, ≥2 cm below mandible",
+              "Lower lip paresis",
+              "Subplatysmal dissection; >2 cm incision"
+            ],
+            [
+              "Lingual nerve (V3)",
+              "Tongue sensation + taste (CN VII chorda tympani)",
+              "Loops over Wharton's duct, floor of mouth",
+              "Tongue anaesthesia, altered taste",
+              "Identify before dividing duct; careful floor of mouth dissection"
+            ],
+            [
+              "Hypoglossal (CN XII)",
+              "Tongue movement",
+              "On hyoglossus, deep in submandibular triangle",
+              "Tongue deviation, dysarthria",
+              "Identify hyoglossus; careful inferior triangle dissection"
+            ]
           ]
         }
       ]

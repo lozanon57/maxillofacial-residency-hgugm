@@ -15,10 +15,10 @@
   "learning_objectives": [
     "Distinguish the epidemiological and prognostic differences between HPV-positive and HPV-negative oropharyngeal cancer",
     "Apply the AJCC 8th edition separate staging system for HPV-positive oropharyngeal cancer (p16-positive)",
-    "Describe the indications, technique, and oncological outcomes of transoral robotic surgery (TORS) for oropharyngeal cancer",
-    "Outline the evidence base for de-escalation strategies in HPV-positive oropharyngeal cancer",
-    "Explain the role of concurrent chemoradiation as the primary treatment modality for locally advanced oropharyngeal cancer",
-    "Identify the clinical features that distinguish oropharyngeal from oral cavity tumours for staging purposes"
+    "Analyze the surgical, functional, and oncological outcomes of transoral robotic surgery (TORS) versus primary chemoradiation for oropharyngeal cancer, and select the appropriate treatment modality based on tumour stage and patient factors",
+    "Evaluate the evidence for de-escalation strategies in HPV-positive oropharyngeal cancer (MC1273, OPTIMA, NRG-HN002) and justify when de-escalation is or is not appropriate based on patient risk stratification",
+    "Assess the comparative efficacy of concurrent cisplatin-based chemoradiation versus TORS-based transoral surgery in locally advanced HPV-positive oropharyngeal cancer and recommend treatment strategy with supporting rationale",
+    "Differentiate oropharyngeal from oral cavity tumours using clinical, staging, and HPV-related criteria, and evaluate the implications of this distinction for p16 testing, staging pathway, and treatment selection"
   ],
   "sections": [
     {
@@ -32,18 +32,62 @@
         {
           "type": "table",
           "title": "HPV-Positive vs HPV-Negative Oropharyngeal Cancer — Key Differences",
-          "headers": ["Feature", "HPV-Positive (p16+)", "HPV-Negative (p16-)"],
+          "headers": [
+            "Feature",
+            "HPV-Positive (p16+)",
+            "HPV-Negative (p16-)"
+          ],
           "rows": [
-            ["Median age", "55-60 years", "60-70 years"],
-            ["Sex", "Male predominance (M:F 5-7:1)", "Male predominance (M:F 3:1)"],
-            ["Risk factors", "Multiple sexual partners, oral sex", "Tobacco + alcohol (synergistic)"],
-            ["Primary subsite", "Tonsil > base of tongue", "Base of tongue, posterior wall"],
-            ["Histology", "Non-keratinising SCC", "Keratinising SCC"],
-            ["p16 IHC", "Strong diffuse positive (≥70% cells)", "Negative or focal"],
-            ["5-year OS (stage III-IV)", "85-90%", "35-45%"],
-            ["Response to CRT", "Excellent (pCR 60-70%)", "Moderate (pCR 25-35%)"],
-            ["AJCC 8th staging system", "Separate HPV-p OPSCC system", "Standard H&N staging"],
-            ["Distant metastasis pattern", "More common, but late and oligo", "Earlier, multiple sites"]
+            [
+              "Median age",
+              "55-60 years",
+              "60-70 years"
+            ],
+            [
+              "Sex",
+              "Male predominance (M:F 5-7:1)",
+              "Male predominance (M:F 3:1)"
+            ],
+            [
+              "Risk factors",
+              "Multiple sexual partners, oral sex",
+              "Tobacco + alcohol (synergistic)"
+            ],
+            [
+              "Primary subsite",
+              "Tonsil > base of tongue",
+              "Base of tongue, posterior wall"
+            ],
+            [
+              "Histology",
+              "Non-keratinising SCC",
+              "Keratinising SCC"
+            ],
+            [
+              "p16 IHC",
+              "Strong diffuse positive (≥70% cells)",
+              "Negative or focal"
+            ],
+            [
+              "5-year OS (stage III-IV)",
+              "85-90%",
+              "35-45%"
+            ],
+            [
+              "Response to CRT",
+              "Excellent (pCR 60-70%)",
+              "Moderate (pCR 25-35%)"
+            ],
+            [
+              "AJCC 8th staging system",
+              "Separate HPV-p OPSCC system",
+              "Standard H&N staging"
+            ],
+            [
+              "Distant metastasis pattern",
+              "More common, but late and oligo",
+              "Earlier, multiple sites"
+            ]
           ]
         },
         {
@@ -81,15 +125,47 @@
         {
           "type": "table",
           "title": "TORS Indications and Contraindications for Oropharyngeal Cancer",
-          "headers": ["Criterion", "Favourable for TORS", "Contraindication to TORS"],
+          "headers": [
+            "Criterion",
+            "Favourable for TORS",
+            "Contraindication to TORS"
+          ],
           "rows": [
-            ["T stage", "T1-T2, selected T3 tonsil", "T4a, T4b"],
-            ["Location", "Tonsil, base of tongue (lateral)", "Midline base of tongue, posterior wall extension"],
-            ["Mouth opening", "≥35 mm interincisal", "<25 mm (trismus) — absolute CI"],
-            ["Neck", "Any N stage if primary resectable", "Unresectable nodal disease encasing carotid"],
-            ["HPV status", "p16-positive favoured (de-escalation)", "p16-negative (higher relapse risk)"],
-            ["Hypopharyngeal extension", "Not involved", "Any hypopharyngeal involvement"],
-            ["Patient factors", "No morbid obesity, good dentition", "Macroglossia, retrognathia limiting exposure"]
+            [
+              "T stage",
+              "T1-T2, selected T3 tonsil",
+              "T4a, T4b"
+            ],
+            [
+              "Location",
+              "Tonsil, base of tongue (lateral)",
+              "Midline base of tongue, posterior wall extension"
+            ],
+            [
+              "Mouth opening",
+              "≥35 mm interincisal",
+              "<25 mm (trismus) — absolute CI"
+            ],
+            [
+              "Neck",
+              "Any N stage if primary resectable",
+              "Unresectable nodal disease encasing carotid"
+            ],
+            [
+              "HPV status",
+              "p16-positive favoured (de-escalation)",
+              "p16-negative (higher relapse risk)"
+            ],
+            [
+              "Hypopharyngeal extension",
+              "Not involved",
+              "Any hypopharyngeal involvement"
+            ],
+            [
+              "Patient factors",
+              "No morbid obesity, good dentition",
+              "Macroglossia, retrognathia limiting exposure"
+            ]
           ]
         },
         {
@@ -148,8 +224,7 @@
       "blocks": [
         {
           "type": "text",
-          "content": "**Cervical metastasis from unknown primary (CMUP)** presents most commonly as a cystic cervical level II mass in a young male patient — this is the classic presentation of HPV-positive OPSCC with a small tonsillar primary obscured within the crypts. The incidental pathological feature of **non-keratinising SCC** in a cystic level II neck mass should immediately trigger a directed workup for an oropharyngeal primary.\n\nThe evaluation of CMUP includes: thorough clinical examination of the nasopharynx, oropharynx, base of tongue, and piriform sinuses; CT and PET-CT for localisation; and **direct laryngoscopy with directed biopsies** under general anaesthesia. If initial evaluation is negative, **palatine and lingual tonsillectomy** (bilateral) should be performed to detect small HPV-related primaries buried in tonsillar crypts — this approach detects a primary in 40-50% of previously unknown cases. Identification of the primary site allows for targeted radiation field design, potentially reducing the radiation volume and associated toxicity.\n\nIf no primary is identified after comprehensive workup and bilateral tonsillectomy, the patient is classified as having a true **carcinoma of unknown primary (CUP)**. Treatment is typically with ipsilateral or bilateral neck irradiation, depending on laterality of nodal disease, often combined with mucosal irradiation of suspected at-risk sites (base of tongue, nasopharynx). For p16-positive CUP of the neck, the prognosis mirrors that of HPV-positive OPSCC and treatment should follow the same principles.",
-          "type": "text"
+          "content": "**Cervical metastasis from unknown primary (CMUP)** presents most commonly as a cystic cervical level II mass in a young male patient — this is the classic presentation of HPV-positive OPSCC with a small tonsillar primary obscured within the crypts. The incidental pathological feature of **non-keratinising SCC** in a cystic level II neck mass should immediately trigger a directed workup for an oropharyngeal primary.\n\nThe evaluation of CMUP includes: thorough clinical examination of the nasopharynx, oropharynx, base of tongue, and piriform sinuses; CT and PET-CT for localisation; and **direct laryngoscopy with directed biopsies** under general anaesthesia. If initial evaluation is negative, **palatine and lingual tonsillectomy** (bilateral) should be performed to detect small HPV-related primaries buried in tonsillar crypts — this approach detects a primary in 40-50% of previously unknown cases. Identification of the primary site allows for targeted radiation field design, potentially reducing the radiation volume and associated toxicity.\n\nIf no primary is identified after comprehensive workup and bilateral tonsillectomy, the patient is classified as having a true **carcinoma of unknown primary (CUP)**. Treatment is typically with ipsilateral or bilateral neck irradiation, depending on laterality of nodal disease, often combined with mucosal irradiation of suspected at-risk sites (base of tongue, nasopharynx). For p16-positive CUP of the neck, the prognosis mirrors that of HPV-positive OPSCC and treatment should follow the same principles."
         },
         {
           "type": "callout",

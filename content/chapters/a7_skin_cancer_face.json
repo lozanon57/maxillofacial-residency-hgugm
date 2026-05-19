@@ -13,13 +13,13 @@
     "NCCN Clinical Practice Guidelines in Oncology — Melanoma v3.2024",
     "Swetter SM et al. Guidelines of Care for the Management of Primary Cutaneous Melanoma (J Am Acad Dermatol 2019)",
     "Motley R et al. Multiprofessional Guidelines for the Management of the Patient with Primary Cutaneous SCC (Br J Dermatol 2009)"
-          ],
+  ],
   "learning_objectives": [
     "Classify basal cell carcinoma (BCC) by subtype and risk level, and select appropriate treatment (excision, Mohs, radiotherapy, hedgehog pathway inhibitor)",
     "Apply NCCN risk stratification for cutaneous SCC to guide surgical margins and sentinel lymph node biopsy decisions",
-    "Stage facial melanoma using AJCC 8th edition and describe the role of sentinel lymph node biopsy (SLNB) and adjuvant therapy",
-    "Describe reconstructive options for facial skin cancer defects (primary closure, flaps, skin grafts) relevant to cosmetic subunit principles",
-    "Identify clinical and histopathological features that indicate Mohs micrographic surgery over standard excision for facial skin cancers"
+    "Analyze facial melanoma staging criteria under AJCC 8th edition and evaluate the evidence for sentinel lymph node biopsy, adjuvant immunotherapy, and radiation in stage I-III disease",
+    "Evaluate reconstructive options for facial skin cancer defects by analyzing defect size, location, and tissue availability, and recommend primary closure, local flap, regional flap, or skin graft with justification for each scenario",
+    "Critique the indications for Mohs micrographic surgery over standard excision by examining histological risk features (PNI, poorly differentiated, recurrent tumours), anatomical location, and cost-effectiveness evidence"
   ],
   "sections": [
     {
@@ -33,13 +33,43 @@
         {
           "type": "table",
           "title": "BCC Treatment — Selection by Risk Category",
-          "headers": ["Risk Category", "Features", "Preferred Treatment", "Margin"],
+          "headers": [
+            "Risk Category",
+            "Features",
+            "Preferred Treatment",
+            "Margin"
+          ],
           "rows": [
-            ["Low-risk", "Primary, well-defined, nodular/superficial, non-H-zone, no PNI, immunocompetent", "Standard excision", "4 mm"],
-            ["High-risk", "H-zone, recurrent, aggressive subtype, large (>2 cm trunk; >1 cm H-zone), PNI, immunosuppressed", "Mohs micrographic surgery", "Margin control by frozen section"],
-            ["High-risk (surgery not feasible)", "Elderly, comorbidities, unresectable", "Radiotherapy (EXT-RT or IMRT)", "N/A — RT field margin"],
-            ["Advanced/metastatic", "Locally advanced unresectable; distant metastasis", "Hedgehog pathway inhibitor (vismodegib/sonidegib)", "N/A — systemic"],
-            ["Superficial BCC", "Thin, non-H-zone superficial", "PDT, imiquimod 5%, curettage + ED", "N/A — field treatment"]
+            [
+              "Low-risk",
+              "Primary, well-defined, nodular/superficial, non-H-zone, no PNI, immunocompetent",
+              "Standard excision",
+              "4 mm"
+            ],
+            [
+              "High-risk",
+              "H-zone, recurrent, aggressive subtype, large (>2 cm trunk; >1 cm H-zone), PNI, immunosuppressed",
+              "Mohs micrographic surgery",
+              "Margin control by frozen section"
+            ],
+            [
+              "High-risk (surgery not feasible)",
+              "Elderly, comorbidities, unresectable",
+              "Radiotherapy (EXT-RT or IMRT)",
+              "N/A — RT field margin"
+            ],
+            [
+              "Advanced/metastatic",
+              "Locally advanced unresectable; distant metastasis",
+              "Hedgehog pathway inhibitor (vismodegib/sonidegib)",
+              "N/A — systemic"
+            ],
+            [
+              "Superficial BCC",
+              "Thin, non-H-zone superficial",
+              "PDT, imiquimod 5%, curettage + ED",
+              "N/A — field treatment"
+            ]
           ]
         },
         {
@@ -61,16 +91,52 @@
         {
           "type": "table",
           "title": "NCCN High-Risk Features for Cutaneous SCC",
-          "headers": ["Feature", "Threshold", "Clinical Implication"],
+          "headers": [
+            "Feature",
+            "Threshold",
+            "Clinical Implication"
+          ],
           "rows": [
-            ["Tumour size", ">2 cm", "High-risk; wide excision or Mohs"],
-            ["Depth", ">2 mm; Clark IV–V", "High-risk; sentinel node consideration"],
-            ["Location", "Ear, lip, H-zone", "High-risk regardless of size"],
-            ["Differentiation", "Poorly differentiated", "Higher metastatic potential"],
-            ["Perineural invasion", "Named nerve or extensive", "Adjuvant radiotherapy; imaging"],
-            ["Lymphovascular invasion", "Present", "Higher metastatic potential"],
-            ["Recurrence", "Recurrent tumour", "Mohs preferred; wider margins"],
-            ["Immunosuppression", "OTR, haematological malignancy, HIV", "More aggressive behaviour; closer surveillance"]
+            [
+              "Tumour size",
+              ">2 cm",
+              "High-risk; wide excision or Mohs"
+            ],
+            [
+              "Depth",
+              ">2 mm; Clark IV–V",
+              "High-risk; sentinel node consideration"
+            ],
+            [
+              "Location",
+              "Ear, lip, H-zone",
+              "High-risk regardless of size"
+            ],
+            [
+              "Differentiation",
+              "Poorly differentiated",
+              "Higher metastatic potential"
+            ],
+            [
+              "Perineural invasion",
+              "Named nerve or extensive",
+              "Adjuvant radiotherapy; imaging"
+            ],
+            [
+              "Lymphovascular invasion",
+              "Present",
+              "Higher metastatic potential"
+            ],
+            [
+              "Recurrence",
+              "Recurrent tumour",
+              "Mohs preferred; wider margins"
+            ],
+            [
+              "Immunosuppression",
+              "OTR, haematological malignancy, HIV",
+              "More aggressive behaviour; closer surveillance"
+            ]
           ]
         },
         {
@@ -108,14 +174,42 @@
         {
           "type": "table",
           "title": "Melanoma Surgical Margins — Breslow Thickness Guidelines",
-          "headers": ["Breslow Thickness", "Recommended Excision Margin", "SLNB Recommended?"],
+          "headers": [
+            "Breslow Thickness",
+            "Recommended Excision Margin",
+            "SLNB Recommended?"
+          ],
           "rows": [
-            ["In situ (lentigo maligna)", "5–10 mm (Mohs or staged excision)", "No"],
-            ["T1a (<0.8 mm, no ulceration)", "1 cm", "Consider for T1b; not routine T1a"],
-            ["T1b (0.8–1.0 mm or ulceration)", "1 cm", "Yes"],
-            ["T2a–T2b (1.01–2.0 mm)", "1–2 cm", "Yes"],
-            ["T3a–T3b (2.01–4.0 mm)", "2 cm", "Yes"],
-            ["T4a–T4b (>4.0 mm)", "2 cm", "Yes"]
+            [
+              "In situ (lentigo maligna)",
+              "5–10 mm (Mohs or staged excision)",
+              "No"
+            ],
+            [
+              "T1a (<0.8 mm, no ulceration)",
+              "1 cm",
+              "Consider for T1b; not routine T1a"
+            ],
+            [
+              "T1b (0.8–1.0 mm or ulceration)",
+              "1 cm",
+              "Yes"
+            ],
+            [
+              "T2a–T2b (1.01–2.0 mm)",
+              "1–2 cm",
+              "Yes"
+            ],
+            [
+              "T3a–T3b (2.01–4.0 mm)",
+              "2 cm",
+              "Yes"
+            ],
+            [
+              "T4a–T4b (>4.0 mm)",
+              "2 cm",
+              "Yes"
+            ]
           ]
         },
         {
@@ -137,14 +231,49 @@
         {
           "type": "table",
           "title": "Landmark Trials in Adjuvant Melanoma Therapy",
-          "headers": ["Trial", "Treatment", "Stage", "Key Result"],
+          "headers": [
+            "Trial",
+            "Treatment",
+            "Stage",
+            "Key Result"
+          ],
           "rows": [
-            ["MSLT-1 (Morton NEJM 2006)", "SLNB vs observation", "T1b–T4", "SLNB = most important prognostic staging tool"],
-            ["MSLT-2 (Faries NEJM 2017)", "CLND vs US surveillance after +SLNB", "Stage IIIA–IIIB", "CLND no OS benefit; observation + US acceptable"],
-            ["KEYNOTE-054 (Eggermont NEJM 2018)", "Pembrolizumab vs placebo adjuvant", "Stage III", "HR 0.57 for RFS; adjuvant standard of care"],
-            ["CheckMate 238 (Weber Lancet Oncol 2017)", "Nivolumab vs ipilimumab adjuvant", "Stage IIIC/IV resected", "Nivolumab superior RFS, lower toxicity"],
-            ["COMBI-AD (Long NEJM 2017)", "Dabrafenib + trametinib adjuvant", "Stage III BRAF V600", "HR 0.47 for RFS; 5-year RFS 52% vs 36%"],
-            ["CheckMate 067 (Larkin NEJM 2015)", "Nivo + ipi vs monotherapy", "Stage IV", "5-year OS 52% (combination) vs 44%/26%"]
+            [
+              "MSLT-1 (Morton NEJM 2006)",
+              "SLNB vs observation",
+              "T1b–T4",
+              "SLNB = most important prognostic staging tool"
+            ],
+            [
+              "MSLT-2 (Faries NEJM 2017)",
+              "CLND vs US surveillance after +SLNB",
+              "Stage IIIA–IIIB",
+              "CLND no OS benefit; observation + US acceptable"
+            ],
+            [
+              "KEYNOTE-054 (Eggermont NEJM 2018)",
+              "Pembrolizumab vs placebo adjuvant",
+              "Stage III",
+              "HR 0.57 for RFS; adjuvant standard of care"
+            ],
+            [
+              "CheckMate 238 (Weber Lancet Oncol 2017)",
+              "Nivolumab vs ipilimumab adjuvant",
+              "Stage IIIC/IV resected",
+              "Nivolumab superior RFS, lower toxicity"
+            ],
+            [
+              "COMBI-AD (Long NEJM 2017)",
+              "Dabrafenib + trametinib adjuvant",
+              "Stage III BRAF V600",
+              "HR 0.47 for RFS; 5-year RFS 52% vs 36%"
+            ],
+            [
+              "CheckMate 067 (Larkin NEJM 2015)",
+              "Nivo + ipi vs monotherapy",
+              "Stage IV",
+              "5-year OS 52% (combination) vs 44%/26%"
+            ]
           ]
         },
         {
@@ -182,15 +311,55 @@
         {
           "type": "table",
           "title": "Reconstruction Options by Facial Subunit",
-          "headers": ["Subunit", "Small Defect (<1 cm)", "Medium Defect (1–3 cm)", "Large Defect (>3 cm)"],
+          "headers": [
+            "Subunit",
+            "Small Defect (<1 cm)",
+            "Medium Defect (1–3 cm)",
+            "Large Defect (>3 cm)"
+          ],
           "rows": [
-            ["Nose (alar/tip)", "Secondary intention or FTSG", "Nasolabial flap or bilobed", "Paramedian forehead flap"],
-            ["Upper eyelid", "Primary closure <25%", "Advancement flap 25–50%", "Cutler-Beard switch flap >50%"],
-            ["Lower eyelid", "Primary closure <25%", "Tenzel flap 25–50%", "Tarsoconjunctival + FTSG >50%"],
-            ["Cheek", "Primary closure or FTSG", "Rotation/V-Y advancement", "Cervicofacial rotation; free flap"],
-            ["Lip (upper)", "Primary closure <1/3", "Abbe flap (vermilion transfer)", "Karapandzic rotation-advancement"],
-            ["Ear/auricle", "FTSG to conchal bowl", "FTSG + cartilage graft", "Prosthetic; Nagata reconstruction"],
-            ["Forehead", "Primary closure or FTSG", "Advancement/rotation", "Tissue expander or free flap"]
+            [
+              "Nose (alar/tip)",
+              "Secondary intention or FTSG",
+              "Nasolabial flap or bilobed",
+              "Paramedian forehead flap"
+            ],
+            [
+              "Upper eyelid",
+              "Primary closure <25%",
+              "Advancement flap 25–50%",
+              "Cutler-Beard switch flap >50%"
+            ],
+            [
+              "Lower eyelid",
+              "Primary closure <25%",
+              "Tenzel flap 25–50%",
+              "Tarsoconjunctival + FTSG >50%"
+            ],
+            [
+              "Cheek",
+              "Primary closure or FTSG",
+              "Rotation/V-Y advancement",
+              "Cervicofacial rotation; free flap"
+            ],
+            [
+              "Lip (upper)",
+              "Primary closure <1/3",
+              "Abbe flap (vermilion transfer)",
+              "Karapandzic rotation-advancement"
+            ],
+            [
+              "Ear/auricle",
+              "FTSG to conchal bowl",
+              "FTSG + cartilage graft",
+              "Prosthetic; Nagata reconstruction"
+            ],
+            [
+              "Forehead",
+              "Primary closure or FTSG",
+              "Advancement/rotation",
+              "Tissue expander or free flap"
+            ]
           ]
         },
         {

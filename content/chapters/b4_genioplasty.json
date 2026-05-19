@@ -16,9 +16,9 @@
   "learning_objectives": [
     "Describe the neurovascular anatomy relevant to genioplasty, including the mental nerve and the arteries supplying the chin segment",
     "Explain the sliding osteotomy technique and the role of the muscle pedicle in maintaining chin viability",
-    "Compare alloplastic chin augmentation with osseous genioplasty in terms of indications and complications",
-    "Plan multidimensional chin movements (advancement, setback, impaction, vertical augmentation, asymmetry correction)",
-    "Recognise and manage complications including mental nerve injury, bony step deformity, and alloplastic implant problems"
+    "Evaluate and compare alloplastic chin augmentation versus osseous sliding genioplasty by analyzing complication profiles, long-term stability, and indications for each approach in primary and secondary chin surgery",
+    "Analyze multi-dimensional chin movement planning (advancement, setback, impaction, vertical augmentation, asymmetry correction) and recommend osteotomy design and fixation strategy for each clinical scenario",
+    "Assess and manage complications of genioplasty (mental nerve injury, bony step deformity, alloplastic implant infection, wound dehiscence) by differentiating preventive technique modifications from stepwise treatment algorithms"
   ],
   "sections": [
     {
@@ -32,14 +32,44 @@
         {
           "type": "table",
           "title": "Genioplasty Neurovascular Anatomy: Structures at Risk",
-          "headers": ["Structure", "Location", "Injury Mechanism", "Consequence"],
+          "headers": [
+            "Structure",
+            "Location",
+            "Injury Mechanism",
+            "Consequence"
+          ],
           "rows": [
-            ["Mental nerve", "Exits mental foramen between premolars; anterior loop extends 0–5 mm anterior to foramen", "Osteotomy too close to foramen; retractor pressure; drilling", "Lower lip/chin hypoaesthesia; paraesthesia"],
-            ["Submental artery", "Enters chin from superior (floor of mouth attachment)", "Detachment of muscle pedicle from inferior border", "Avascular necrosis of chin segment"],
-            ["Inferior labial artery", "Labiomental soft tissue anterior to chin", "Excessive subperiosteal dissection superiorly", "Soft tissue ischaemia; prolonged swelling"],
-            ["Genioglossus/geniohyoid", "Attaches to genial tubercles on lingual surface", "Detachment during muscle pedicle stripping", "Loss of vascular supply to chin segment"],
-            ["Tooth roots (lower incisors)", "3–6 mm above inferior border depending on alveolar height", "Osteotomy too superior; inadequate planning", "Root damage; pulp necrosis; tooth loss"]
-        ]
+            [
+              "Mental nerve",
+              "Exits mental foramen between premolars; anterior loop extends 0–5 mm anterior to foramen",
+              "Osteotomy too close to foramen; retractor pressure; drilling",
+              "Lower lip/chin hypoaesthesia; paraesthesia"
+            ],
+            [
+              "Submental artery",
+              "Enters chin from superior (floor of mouth attachment)",
+              "Detachment of muscle pedicle from inferior border",
+              "Avascular necrosis of chin segment"
+            ],
+            [
+              "Inferior labial artery",
+              "Labiomental soft tissue anterior to chin",
+              "Excessive subperiosteal dissection superiorly",
+              "Soft tissue ischaemia; prolonged swelling"
+            ],
+            [
+              "Genioglossus/geniohyoid",
+              "Attaches to genial tubercles on lingual surface",
+              "Detachment during muscle pedicle stripping",
+              "Loss of vascular supply to chin segment"
+            ],
+            [
+              "Tooth roots (lower incisors)",
+              "3–6 mm above inferior border depending on alveolar height",
+              "Osteotomy too superior; inadequate planning",
+              "Root damage; pulp necrosis; tooth loss"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -76,14 +106,49 @@
         {
           "type": "table",
           "title": "Genioplasty Movements: Technical Details and Soft-Tissue Response",
-          "headers": ["Movement", "Technique", "Soft Tissue Ratio", "Notes"],
+          "headers": [
+            "Movement",
+            "Technique",
+            "Soft Tissue Ratio",
+            "Notes"
+          ],
           "rows": [
-            ["Advancement", "Slide chin forward; fix with plate spanning the step", "90–95% of bony movement at Pg", "Most stable movement; soft tissue follows well"],
-            ["Setback", "Slide chin back; may need ostectomy for large setbacks", "85–90% of bony movement", "Risk of chin pad ptosis if >6 mm; consider conservative approach"],
-            ["Vertical impaction", "Remove wedge from superior to inferior cut; close gap", "70–80% vertical reduction", "Excellent for long lower face; most reliable vertical change"],
-            ["Vertical augmentation", "Interpositional graft (bone/alloplast) between cuts", "50–70% vertical increase", "Graft resorption possible; DFDBA or beta-TCP used"],
-            ["Asymmetry correction (transverse)", "Lateral off-centre slide; step notch guide", "~70–80% of bony correction", ">5 mm transverse movements may be unstable"],
-            ["Advancement + impaction", "Two-vector movement; plate bent to hold both vectors", "90% AP, 70% vertical", "Requires careful plate bending; most common combination"]
+            [
+              "Advancement",
+              "Slide chin forward; fix with plate spanning the step",
+              "90–95% of bony movement at Pg",
+              "Most stable movement; soft tissue follows well"
+            ],
+            [
+              "Setback",
+              "Slide chin back; may need ostectomy for large setbacks",
+              "85–90% of bony movement",
+              "Risk of chin pad ptosis if >6 mm; consider conservative approach"
+            ],
+            [
+              "Vertical impaction",
+              "Remove wedge from superior to inferior cut; close gap",
+              "70–80% vertical reduction",
+              "Excellent for long lower face; most reliable vertical change"
+            ],
+            [
+              "Vertical augmentation",
+              "Interpositional graft (bone/alloplast) between cuts",
+              "50–70% vertical increase",
+              "Graft resorption possible; DFDBA or beta-TCP used"
+            ],
+            [
+              "Asymmetry correction (transverse)",
+              "Lateral off-centre slide; step notch guide",
+              "~70–80% of bony correction",
+              ">5 mm transverse movements may be unstable"
+            ],
+            [
+              "Advancement + impaction",
+              "Two-vector movement; plate bent to hold both vectors",
+              "90% AP, 70% vertical",
+              "Requires careful plate bending; most common combination"
+            ]
           ]
         },
         {
@@ -137,16 +202,61 @@
         {
           "type": "table",
           "title": "Genioplasty Complications: Incidence, Cause, and Management",
-          "headers": ["Complication", "Incidence", "Primary Cause", "Management"],
+          "headers": [
+            "Complication",
+            "Incidence",
+            "Primary Cause",
+            "Management"
+          ],
           "rows": [
-            ["Temporary mental nerve hypoaesthesia", "~100%", "Expected stretch/neuropraxia", "Reassurance; resolves 3–6 months"],
-            ["Permanent mental nerve deficit", "2–5%", "Osteotomy too close to foramen; direct nerve injury", "Neurosensory monitoring; rarely requires repair"],
-            ["Avascular necrosis of chin segment", "<1%", "Muscle pedicle stripping from inferior border", "Debridement; reconstruction if severe"],
-            ["Bony step deformity", "5–15%", "Inadequate lateral bone contouring after movement", "Burring under LA; often resolves with swelling"],
-            ["Witch's chin (soft tissue ptosis)", "3–8%", "Mentalis muscle not resuspended at closure", "Secondary resuspension; cosmetic revision"],
-            ["Skeletal relapse", "<5% at 1 year", "Overcorrection needed for >8 mm advancements", "Overcorrect 1–2 mm; stable if <10 mm movement"],
-            ["Implant migration (alloplastic)", "2–8%", "Oversized pocket; no fixation screws", "Repositioning and screw fixation"],
-            ["Bone resorption (alloplastic)", "~30% at 10 yr (minor)", "Implant pressure on cortical bone", "Monitor; significant resorption (>3 mm) may require change to osseous genioplasty"]
+            [
+              "Temporary mental nerve hypoaesthesia",
+              "~100%",
+              "Expected stretch/neuropraxia",
+              "Reassurance; resolves 3–6 months"
+            ],
+            [
+              "Permanent mental nerve deficit",
+              "2–5%",
+              "Osteotomy too close to foramen; direct nerve injury",
+              "Neurosensory monitoring; rarely requires repair"
+            ],
+            [
+              "Avascular necrosis of chin segment",
+              "<1%",
+              "Muscle pedicle stripping from inferior border",
+              "Debridement; reconstruction if severe"
+            ],
+            [
+              "Bony step deformity",
+              "5–15%",
+              "Inadequate lateral bone contouring after movement",
+              "Burring under LA; often resolves with swelling"
+            ],
+            [
+              "Witch's chin (soft tissue ptosis)",
+              "3–8%",
+              "Mentalis muscle not resuspended at closure",
+              "Secondary resuspension; cosmetic revision"
+            ],
+            [
+              "Skeletal relapse",
+              "<5% at 1 year",
+              "Overcorrection needed for >8 mm advancements",
+              "Overcorrect 1–2 mm; stable if <10 mm movement"
+            ],
+            [
+              "Implant migration (alloplastic)",
+              "2–8%",
+              "Oversized pocket; no fixation screws",
+              "Repositioning and screw fixation"
+            ],
+            [
+              "Bone resorption (alloplastic)",
+              "~30% at 10 yr (minor)",
+              "Implant pressure on cortical bone",
+              "Monitor; significant resorption (>3 mm) may require change to osseous genioplasty"
+            ]
           ]
         },
         {

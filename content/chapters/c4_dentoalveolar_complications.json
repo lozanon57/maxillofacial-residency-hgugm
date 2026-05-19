@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Classify odontogenic space infections and their anatomical boundaries to guide surgical drainage decisions",
     "Recognise Ludwig's angina criteria and manage airway in severe deep space infections",
-    "Diagnose and classify osteomyelitis of the jaws with appropriate imaging and treatment protocols",
-    "Manage oroantral communications: immediate primary closure criteria and delayed management strategies",
-    "Identify, classify, and determine microsurgical repair thresholds for inferior alveolar and lingual nerve injuries",
-    "Manage mandibular fractures occurring as a complication of tooth extraction"
+    "Analyze imaging findings (OPG, CBCT, MRI) to diagnose and classify osteomyelitis of the jaws, differentiate acute suppurative from chronic sclerosing variants, and recommend appropriate medical and surgical treatment protocols",
+    "Evaluate oroantral communication management by differentiating indications for immediate primary closure from delayed strategies, and recommend the appropriate flap technique (buccal advancement, palatal rotation, buccal fat pad) based on defect size and chronicity",
+    "Assess the severity of inferior alveolar and lingual nerve injuries using clinical and electrophysiological criteria, differentiate indications for microsurgical repair from observation, and evaluate the evidence for timing and outcomes of nerve repair",
+    "Analyze mandibular fractures occurring as complications of tooth extraction, evaluate fracture pattern and displacement using classification criteria, and recommend appropriate management (conservative versus ORIF) with timing justification"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Primary Odontogenic Fascial Spaces: Boundaries, Sources, and Clinical Features",
-          "headers": ["Space", "Boundaries", "Primary Source", "Key Clinical Feature"],
+          "headers": [
+            "Space",
+            "Boundaries",
+            "Primary Source",
+            "Key Clinical Feature"
+          ],
           "rows": [
-            ["Buccal", "Buccinator (medial), skin (lateral), zygoma (superior), inferior border mandible (inferior)", "Maxillary/mandibular molars and premolars", "Facial swelling; trismus uncommon"],
-            ["Sublingual", "Mylohyoid (inferior), oral mucosa (superior), mandible (lateral)", "Mandibular anterior teeth/premolars (apex above mylohyoid)", "Elevated floor of mouth, dysphagia"],
-            ["Submandibular", "Mylohyoid (superior/medial), platysma (lateral), digastric (posterior)", "Mandibular molars (apex below mylohyoid)", "Submandibular swelling, neck oedema"],
-            ["Submental", "Symphysis (posterior), platysma (anterior/lateral), mylohyoid (floor)", "Mandibular incisors (via submental spread)", "Chin swelling, induration"],
-            ["Masticator", "Ramus, masseter (lateral), medial pterygoid (medial), zygomatic arch (superior)", "Mandibular third molars", "Trismus, lateral face swelling"],
-            ["Parapharyngeal", "Pharynx (medial), pterygoid/parotid (lateral), skull base (superior)", "Extension from masticator/submandibular", "Medial pharyngeal wall displacement, stridor"]
+            [
+              "Buccal",
+              "Buccinator (medial), skin (lateral), zygoma (superior), inferior border mandible (inferior)",
+              "Maxillary/mandibular molars and premolars",
+              "Facial swelling; trismus uncommon"
+            ],
+            [
+              "Sublingual",
+              "Mylohyoid (inferior), oral mucosa (superior), mandible (lateral)",
+              "Mandibular anterior teeth/premolars (apex above mylohyoid)",
+              "Elevated floor of mouth, dysphagia"
+            ],
+            [
+              "Submandibular",
+              "Mylohyoid (superior/medial), platysma (lateral), digastric (posterior)",
+              "Mandibular molars (apex below mylohyoid)",
+              "Submandibular swelling, neck oedema"
+            ],
+            [
+              "Submental",
+              "Symphysis (posterior), platysma (anterior/lateral), mylohyoid (floor)",
+              "Mandibular incisors (via submental spread)",
+              "Chin swelling, induration"
+            ],
+            [
+              "Masticator",
+              "Ramus, masseter (lateral), medial pterygoid (medial), zygomatic arch (superior)",
+              "Mandibular third molars",
+              "Trismus, lateral face swelling"
+            ],
+            [
+              "Parapharyngeal",
+              "Pharynx (medial), pterygoid/parotid (lateral), skull base (superior)",
+              "Extension from masticator/submandibular",
+              "Medial pharyngeal wall displacement, stridor"
+            ]
           ]
         },
         {
@@ -84,14 +119,56 @@
         {
           "type": "table",
           "title": "Osteomyelitis Classification and Management",
-          "headers": ["Type", "Duration", "Microbiology", "Radiographic Feature", "Treatment"],
+          "headers": [
+            "Type",
+            "Duration",
+            "Microbiology",
+            "Radiographic Feature",
+            "Treatment"
+          ],
           "rows": [
-            ["Acute suppurative", "<4 weeks", "S. aureus, streptococci, mixed anaerobes", "Periosteal reaction, early bone lysis", "IV antibiotics 4-6 wks + sequestrectomy"],
-            ["Chronic secondary", ">6 weeks", "Mixed anaerobes, S. aureus", "Sequestrum, involucrum, cloacae", "Decortication + 6-12 wks antibiotics"],
-            ["Primary chronic (PCO)", ">6 weeks, no septic focus", "Usually sterile (culture neg)", "Diffuse sclerosis, periosteal layering", "NSAIDs, bisphosphonates, cortisone"],
-            ["Actinomycotic", "Weeks–months", "Actinomyces israelii", "Moth-eaten, 'wooden jaw'", "High-dose penicillin 6-12 months"],
-            ["Osteoradionecrosis", "Post-RT, any duration", "Secondary infection (Pseudomonas, MRSA)", "Exposed bone, sequestrum, fistula", "HBO + debridement ± resection"],
-            ["MRONJ", "Post-antiresorptive, ≥8 wks", "Secondary (Actinomyces common)", "Sclerosis, sequestrum, ONJ", "Stage-dependent (AAOMS 2022 protocol)"]
+            [
+              "Acute suppurative",
+              "<4 weeks",
+              "S. aureus, streptococci, mixed anaerobes",
+              "Periosteal reaction, early bone lysis",
+              "IV antibiotics 4-6 wks + sequestrectomy"
+            ],
+            [
+              "Chronic secondary",
+              ">6 weeks",
+              "Mixed anaerobes, S. aureus",
+              "Sequestrum, involucrum, cloacae",
+              "Decortication + 6-12 wks antibiotics"
+            ],
+            [
+              "Primary chronic (PCO)",
+              ">6 weeks, no septic focus",
+              "Usually sterile (culture neg)",
+              "Diffuse sclerosis, periosteal layering",
+              "NSAIDs, bisphosphonates, cortisone"
+            ],
+            [
+              "Actinomycotic",
+              "Weeks–months",
+              "Actinomyces israelii",
+              "Moth-eaten, 'wooden jaw'",
+              "High-dose penicillin 6-12 months"
+            ],
+            [
+              "Osteoradionecrosis",
+              "Post-RT, any duration",
+              "Secondary infection (Pseudomonas, MRSA)",
+              "Exposed bone, sequestrum, fistula",
+              "HBO + debridement ± resection"
+            ],
+            [
+              "MRONJ",
+              "Post-antiresorptive, ≥8 wks",
+              "Secondary (Actinomyces common)",
+              "Sclerosis, sequestrum, ONJ",
+              "Stage-dependent (AAOMS 2022 protocol)"
+            ]
           ]
         },
         {
@@ -113,14 +190,49 @@
         {
           "type": "table",
           "title": "Management Algorithm for Oroantral Communications",
-          "headers": ["Defect Size / Timing", "Sinus Status", "Preferred Technique", "Notes"],
+          "headers": [
+            "Defect Size / Timing",
+            "Sinus Status",
+            "Preferred Technique",
+            "Notes"
+          ],
           "rows": [
-            ["≤5 mm, immediate", "Healthy", "Gelatin sponge + figure-of-8 suture", "No flap required if small and primary"],
-            [">5 mm, immediate", "Healthy", "Buccal advancement flap (Rehrmann)", "Periosteal release mandatory for tension-free"],
-            ["Any size, immediate", "Limited buccal tissue", "Palatal rotation flap (Ahlfors)", "Requires greater palatine foramen identification"],
-            ["Large (>3 cm), immediate", "Any", "Buccal fat pad flap", "Left to epithelialise; keratinised tissue lacking"],
-            ["OAF (epithelialised, >48-72h)", "Inflamed/sinusitis", "Treat sinusitis first, then excise tract + flap", "Functional endoscopic sinus surgery (FESS) may be required"],
-            ["OAF with CSOM", "Chronic sinusitis, polyps", "Combined FESS + oral closure", "ENT co-management"]
+            [
+              "≤5 mm, immediate",
+              "Healthy",
+              "Gelatin sponge + figure-of-8 suture",
+              "No flap required if small and primary"
+            ],
+            [
+              ">5 mm, immediate",
+              "Healthy",
+              "Buccal advancement flap (Rehrmann)",
+              "Periosteal release mandatory for tension-free"
+            ],
+            [
+              "Any size, immediate",
+              "Limited buccal tissue",
+              "Palatal rotation flap (Ahlfors)",
+              "Requires greater palatine foramen identification"
+            ],
+            [
+              "Large (>3 cm), immediate",
+              "Any",
+              "Buccal fat pad flap",
+              "Left to epithelialise; keratinised tissue lacking"
+            ],
+            [
+              "OAF (epithelialised, >48-72h)",
+              "Inflamed/sinusitis",
+              "Treat sinusitis first, then excise tract + flap",
+              "Functional endoscopic sinus surgery (FESS) may be required"
+            ],
+            [
+              "OAF with CSOM",
+              "Chronic sinusitis, polyps",
+              "Combined FESS + oral closure",
+              "ENT co-management"
+            ]
           ]
         },
         {
@@ -142,13 +254,49 @@
         {
           "type": "table",
           "title": "Sunderland Classification Applied to Dentoalveolar Nerve Injuries",
-          "headers": ["Grade", "Injury Level", "Continuity", "Spontaneous Recovery", "Action"],
+          "headers": [
+            "Grade",
+            "Injury Level",
+            "Continuity",
+            "Spontaneous Recovery",
+            "Action"
+          ],
           "rows": [
-            ["I (Neuropraxia)", "Myelin only", "Preserved", "Complete; days–weeks", "Observe; reassure patient"],
-            ["II (Axonotmesis)", "Axon + myelin", "Endoneurium intact", "Complete; weeks–months", "Observe 3 months; if no improvement, reassess"],
-            ["III", "Axon + endoneurium", "Perineurium intact", "Partial; months", "Observe 3 months; consider exploration if no recovery"],
-            ["IV", "All except epineurium", "Epineurium only", "Poor", "Explore at 3 months if no recovery; repair"],
-            ["V (Neurotmesis)", "Complete transection", "None", "None", "Immediate repair if confirmed; or plan at 3 months"]
+            [
+              "I (Neuropraxia)",
+              "Myelin only",
+              "Preserved",
+              "Complete; days–weeks",
+              "Observe; reassure patient"
+            ],
+            [
+              "II (Axonotmesis)",
+              "Axon + myelin",
+              "Endoneurium intact",
+              "Complete; weeks–months",
+              "Observe 3 months; if no improvement, reassess"
+            ],
+            [
+              "III",
+              "Axon + endoneurium",
+              "Perineurium intact",
+              "Partial; months",
+              "Observe 3 months; consider exploration if no recovery"
+            ],
+            [
+              "IV",
+              "All except epineurium",
+              "Epineurium only",
+              "Poor",
+              "Explore at 3 months if no recovery; repair"
+            ],
+            [
+              "V (Neurotmesis)",
+              "Complete transection",
+              "None",
+              "None",
+              "Immediate repair if confirmed; or plan at 3 months"
+            ]
           ]
         },
         {

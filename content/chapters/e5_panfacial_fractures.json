@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Define panfacial fractures and describe the epidemiological and injury patterns that produce them",
     "Compare bottom-up versus outside-in sequencing strategies, citing evidence for each approach",
-    "Outline the principles of virtual surgical planning (VSP) and its indications in panfacial reconstruction",
-    "Describe the management of combined Le Fort, ZMC, and mandibular fractures including fixation sequence",
-    "Identify complications unique to panfacial fractures and strategies for their prevention"
+    "Analyze the role of virtual surgical planning (VSP) in panfacial fracture reconstruction, evaluate the evidence for VSP-guided versus conventional repair in terms of accuracy and outcomes, and justify when VSP is indicated",
+    "Evaluate combined Le Fort, ZMC, and mandibular fractures and recommend the optimal fixation sequence (bottom-up versus outside-in) with clinical rationale based on available anatomical reference points and fracture stability",
+    "Assess complications unique to panfacial fractures (malocclusion, malar projection loss, orbital dystopia, airway compromise) and recommend evidence-based prevention strategies and secondary correction approaches for each"
   ],
   "sections": [
     {
@@ -33,13 +33,37 @@
         {
           "type": "table",
           "title": "Classification of Facial Injury Severity — Relevant to Panfacial Fractures",
-          "headers": ["System", "Parameter", "Relevance to Panfacial Injury"],
+          "headers": [
+            "System",
+            "Parameter",
+            "Relevance to Panfacial Injury"
+          ],
           "rows": [
-            ["AO/ASIF", "Load-bearing vs load-sharing fixation", "Comminution → load-bearing plates required"],
-            ["Gruss-Mackinnon (1986)", "Central and lateral midfacial disruption", "Framework for identifying missing bony segments"],
-            ["Manson severity", "Degrees of comminution (mild/moderate/severe)", "Guides VSP and bone grafting decisions"],
-            ["ISS (Injury Severity Score)", "Overall polytrauma scoring", "Drives timing of definitive facial repair"],
-            ["GCS (Glasgow Coma Scale)", "Neurological status", "Determines whether facial repair is delayed or immediate"]
+            [
+              "AO/ASIF",
+              "Load-bearing vs load-sharing fixation",
+              "Comminution → load-bearing plates required"
+            ],
+            [
+              "Gruss-Mackinnon (1986)",
+              "Central and lateral midfacial disruption",
+              "Framework for identifying missing bony segments"
+            ],
+            [
+              "Manson severity",
+              "Degrees of comminution (mild/moderate/severe)",
+              "Guides VSP and bone grafting decisions"
+            ],
+            [
+              "ISS (Injury Severity Score)",
+              "Overall polytrauma scoring",
+              "Drives timing of definitive facial repair"
+            ],
+            [
+              "GCS (Glasgow Coma Scale)",
+              "Neurological status",
+              "Determines whether facial repair is delayed or immediate"
+            ]
           ]
         },
         {
@@ -67,14 +91,49 @@
         {
           "type": "table",
           "title": "Facial Buttress System — Components and Reconstruction Priority",
-          "headers": ["Buttress", "Orientation", "Anatomical Landmarks", "Priority in Panfacial Repair"],
+          "headers": [
+            "Buttress",
+            "Orientation",
+            "Anatomical Landmarks",
+            "Priority in Panfacial Repair"
+          ],
           "rows": [
-            ["Nasomaxillary", "Vertical", "Piriform aperture → frontal bone", "High — restores facial height"],
-            ["Zygomaticomaxillary (ZM)", "Vertical", "ZM suture → inferior orbital rim", "High — restores facial width"],
-            ["Pterygomaxillary", "Vertical", "Pterygoid plates → maxillary tuberosity", "Moderate — Le Fort reduction"],
-            ["Frontal bar", "Horizontal", "Supraorbital rims + glabella", "Very high — structural upper framework"],
-            ["Infraorbital", "Horizontal", "Both infraorbital rims", "High — orbital volume and midface width"],
-            ["Zygomatic arch", "Horizontal", "From ZF suture to temporal bone", "High — facial projection and width"]
+            [
+              "Nasomaxillary",
+              "Vertical",
+              "Piriform aperture → frontal bone",
+              "High — restores facial height"
+            ],
+            [
+              "Zygomaticomaxillary (ZM)",
+              "Vertical",
+              "ZM suture → inferior orbital rim",
+              "High — restores facial width"
+            ],
+            [
+              "Pterygomaxillary",
+              "Vertical",
+              "Pterygoid plates → maxillary tuberosity",
+              "Moderate — Le Fort reduction"
+            ],
+            [
+              "Frontal bar",
+              "Horizontal",
+              "Supraorbital rims + glabella",
+              "Very high — structural upper framework"
+            ],
+            [
+              "Infraorbital",
+              "Horizontal",
+              "Both infraorbital rims",
+              "High — orbital volume and midface width"
+            ],
+            [
+              "Zygomatic arch",
+              "Horizontal",
+              "From ZF suture to temporal bone",
+              "High — facial projection and width"
+            ]
           ]
         }
       ]
@@ -90,14 +149,42 @@
         {
           "type": "table",
           "title": "Bottom-Up vs Outside-In Sequencing — Comparison",
-          "headers": ["Feature", "Bottom-Up (Manson)", "Outside-In (Gruss)"],
+          "headers": [
+            "Feature",
+            "Bottom-Up (Manson)",
+            "Outside-In (Gruss)"
+          ],
           "rows": [
-            ["Starting reference", "Mandibular occlusion", "Zygomatic arches / frontal bar"],
-            ["Best indication", "Bilateral condylar fractures absent; intact arches", "Intact arches/frontal bar; comminuted mandible"],
-            ["Occlusion verification", "Immediate (done first)", "Deferred (done after midface)"],
-            ["Facial projection control", "Less direct", "More direct"],
-            ["Evidence level", "Level III-IV case series", "Level III-IV case series"],
-            ["Hybrid approach", "Most centres — use both depending on anatomy", "Preferred by many European centres"]
+            [
+              "Starting reference",
+              "Mandibular occlusion",
+              "Zygomatic arches / frontal bar"
+            ],
+            [
+              "Best indication",
+              "Bilateral condylar fractures absent; intact arches",
+              "Intact arches/frontal bar; comminuted mandible"
+            ],
+            [
+              "Occlusion verification",
+              "Immediate (done first)",
+              "Deferred (done after midface)"
+            ],
+            [
+              "Facial projection control",
+              "Less direct",
+              "More direct"
+            ],
+            [
+              "Evidence level",
+              "Level III-IV case series",
+              "Level III-IV case series"
+            ],
+            [
+              "Hybrid approach",
+              "Most centres — use both depending on anatomy",
+              "Preferred by many European centres"
+            ]
           ]
         },
         {
@@ -125,15 +212,55 @@
         {
           "type": "table",
           "title": "VSP Workflow for Panfacial Fracture Reconstruction",
-          "headers": ["Step", "Action", "Technology", "Timeframe"],
+          "headers": [
+            "Step",
+            "Action",
+            "Technology",
+            "Timeframe"
+          ],
           "rows": [
-            ["1", "Fine-cut CT acquisition (≤1 mm)", "CT scanner", "Day 0–2 (acute)"],
-            ["2", "DICOM segmentation, 3D model generation", "Mimics, ProPlan CMF software", "Day 2–3"],
-            ["3", "Mirror-image reconstruction of pre-injury anatomy", "CAD software", "Day 3–4"],
-            ["4", "Virtual reduction and implant design", "CAD/CAM design", "Day 4–5"],
-            ["5", "PSI manufacturing (titanium) and resin model printing", "CNC milling / 3D printing", "Day 5–7"],
-            ["6", "Surgical rehearsal on resin model", "Resin model", "Day before surgery"],
-            ["7", "Definitive repair guided by PSI and cutting guides", "OR", "Day 7–14"]
+            [
+              "1",
+              "Fine-cut CT acquisition (≤1 mm)",
+              "CT scanner",
+              "Day 0–2 (acute)"
+            ],
+            [
+              "2",
+              "DICOM segmentation, 3D model generation",
+              "Mimics, ProPlan CMF software",
+              "Day 2–3"
+            ],
+            [
+              "3",
+              "Mirror-image reconstruction of pre-injury anatomy",
+              "CAD software",
+              "Day 3–4"
+            ],
+            [
+              "4",
+              "Virtual reduction and implant design",
+              "CAD/CAM design",
+              "Day 4–5"
+            ],
+            [
+              "5",
+              "PSI manufacturing (titanium) and resin model printing",
+              "CNC milling / 3D printing",
+              "Day 5–7"
+            ],
+            [
+              "6",
+              "Surgical rehearsal on resin model",
+              "Resin model",
+              "Day before surgery"
+            ],
+            [
+              "7",
+              "Definitive repair guided by PSI and cutting guides",
+              "OR",
+              "Day 7–14"
+            ]
           ]
         },
         {
@@ -155,14 +282,42 @@
         {
           "type": "table",
           "title": "Surgical Approaches Used in Panfacial Fracture Repair",
-          "headers": ["Approach", "Access Provided", "Structures at Risk"],
+          "headers": [
+            "Approach",
+            "Access Provided",
+            "Structures at Risk"
+          ],
           "rows": [
-            ["Coronal", "Frontal bar, zygomatic arches, orbital rims, nasofrontal area", "Supraorbital nerve (V1), temporal branch CN VII, superficial temporal artery"],
-            ["Lower eyelid (subciliary/transconjunctival)", "Orbital floor, infraorbital rim, ZM buttress", "Inferior oblique muscle, lacrimal punctum (medial), lower lid ectropion"],
-            ["Gingivolabial sulcus", "Le Fort I segment, ZM buttress, piriform aperture", "Infraorbital nerve, buccal branches CN VII"],
-            ["Vestibular mandibular", "Mandibular body, symphysis, parasymphysis", "Mental nerve (V3), marginal mandibular branch CN VII"],
-            ["Retromandibular / preauricular", "Condyle, ramus, coronoid", "Buccal/marginal branch CN VII, parotid duct, auriculotemporal nerve"],
-            ["Existing lacerations", "Opportunistic access — always consider", "Dependent on location"]
+            [
+              "Coronal",
+              "Frontal bar, zygomatic arches, orbital rims, nasofrontal area",
+              "Supraorbital nerve (V1), temporal branch CN VII, superficial temporal artery"
+            ],
+            [
+              "Lower eyelid (subciliary/transconjunctival)",
+              "Orbital floor, infraorbital rim, ZM buttress",
+              "Inferior oblique muscle, lacrimal punctum (medial), lower lid ectropion"
+            ],
+            [
+              "Gingivolabial sulcus",
+              "Le Fort I segment, ZM buttress, piriform aperture",
+              "Infraorbital nerve, buccal branches CN VII"
+            ],
+            [
+              "Vestibular mandibular",
+              "Mandibular body, symphysis, parasymphysis",
+              "Mental nerve (V3), marginal mandibular branch CN VII"
+            ],
+            [
+              "Retromandibular / preauricular",
+              "Condyle, ramus, coronoid",
+              "Buccal/marginal branch CN VII, parotid duct, auriculotemporal nerve"
+            ],
+            [
+              "Existing lacerations",
+              "Opportunistic access — always consider",
+              "Dependent on location"
+            ]
           ]
         },
         {
@@ -184,17 +339,57 @@
         {
           "type": "table",
           "title": "Complications of Panfacial Fractures by Time Course",
-          "headers": ["Timing", "Complication", "Management"],
+          "headers": [
+            "Timing",
+            "Complication",
+            "Management"
+          ],
           "rows": [
-            ["Immediate", "Airway obstruction (bucket handle)", "Immediate jaw thrust, wire cutters, intubation or surgical airway"],
-            ["Immediate", "Posterior epistaxis", "Posterior nasal packing; sphenopalatine embolisation if refractory"],
-            ["Immediate", "CSF rhinorrhoea", "Conservative 7–10 days; lumbar drain if persistent; neurosurgical repair if >4 weeks"],
-            ["Early postop", "Malocclusion", "Early reoperation (<6 weeks); osteotomy if late (>6 months)"],
-            ["Early postop", "Plate infection/exposure", "Antibiotics; plate removal once healed if fracture united"],
-            ["Late", "Enophthalmos", "Orbital wall reconstruction (titanium mesh, PSI)"],
-            ["Late", "Midface retrusion", "Le Fort I/II/III osteotomy (secondary correction)"],
-            ["Late", "Saddle nose deformity", "Septal reconstruction + dorsal grafting"],
-            ["Late", "Ankylosis (TMJ)", "Aggressive physiotherapy; condylar arthroplasty or TJR if severe"]
+            [
+              "Immediate",
+              "Airway obstruction (bucket handle)",
+              "Immediate jaw thrust, wire cutters, intubation or surgical airway"
+            ],
+            [
+              "Immediate",
+              "Posterior epistaxis",
+              "Posterior nasal packing; sphenopalatine embolisation if refractory"
+            ],
+            [
+              "Immediate",
+              "CSF rhinorrhoea",
+              "Conservative 7–10 days; lumbar drain if persistent; neurosurgical repair if >4 weeks"
+            ],
+            [
+              "Early postop",
+              "Malocclusion",
+              "Early reoperation (<6 weeks); osteotomy if late (>6 months)"
+            ],
+            [
+              "Early postop",
+              "Plate infection/exposure",
+              "Antibiotics; plate removal once healed if fracture united"
+            ],
+            [
+              "Late",
+              "Enophthalmos",
+              "Orbital wall reconstruction (titanium mesh, PSI)"
+            ],
+            [
+              "Late",
+              "Midface retrusion",
+              "Le Fort I/II/III osteotomy (secondary correction)"
+            ],
+            [
+              "Late",
+              "Saddle nose deformity",
+              "Septal reconstruction + dorsal grafting"
+            ],
+            [
+              "Late",
+              "Ankylosis (TMJ)",
+              "Aggressive physiotherapy; condylar arthroplasty or TJR if severe"
+            ]
           ]
         },
         {

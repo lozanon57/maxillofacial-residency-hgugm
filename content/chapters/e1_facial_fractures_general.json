@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Apply ATLS primary survey principles to the facial trauma patient, prioritising airway, breathing, and haemorrhage control",
     "Describe the epidemiology of facial fractures and common aetiologies by geographic and demographic context",
-    "Select appropriate radiographic investigations for facial fractures and interpret key findings",
-    "Identify immediately life-threatening complications of facial fractures including airway obstruction and massive haemorrhage",
-    "Recognise patterns of soft tissue injury associated with facial fractures and apply principles of wound management",
-    "Understand timing principles for facial fracture repair: immediate, early, and delayed surgery indications"
+    "Analyze facial fracture radiographs and CT scans, differentiate imaging modalities by clinical scenario (ED versus OR planning), and recommend the appropriate imaging protocol and interpret key findings relevant to surgical decision-making",
+    "Evaluate and manage immediately life-threatening complications of facial fractures — including airway obstruction, arterial haemorrhage, cervical spine injury, and skull base fracture with CSF leak — applying ATLS decision algorithms for each",
+    "Assess patterns of soft tissue injury associated with facial fractures, differentiate wound management priorities by contamination level and tissue loss, and recommend timing and technique for soft tissue repair",
+    "Evaluate the evidence for immediate, early, and delayed facial fracture repair, differentiate timing indications by fracture pattern and patient status, and justify the surgical timing strategy with supporting clinical rationale"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Facial Fracture Distribution by Bone and Common Aetiology",
-          "headers": ["Fracture Site", "Frequency", "Common Aetiology", "Gender Predominance"],
+          "headers": [
+            "Fracture Site",
+            "Frequency",
+            "Common Aetiology",
+            "Gender Predominance"
+          ],
           "rows": [
-            ["Nasal bone", "40-50% of facial fractures", "Direct blow to nose (assault, sport, falls)", "Equal (slight male predominance)"],
-            ["Mandible", "20-30%", "Assault (parasymphysis); RTA (condyle); falls (angle/body)", "Male 3:1"],
-            ["Zygomatic complex (ZMC)", "15-20%", "Assault (direct blow to malar), RTA", "Male predominant"],
-            ["Orbital floor / blow-out", "10-15%", "Direct globe compression or cheek impact", "Male predominant"],
-            ["Le Fort I/II/III", "5-10%", "High-velocity RTA, falls from height", "Male predominant"],
-            ["Frontal sinus", "5-10%", "High-velocity impact (RTA, assault with weapon)", "Male predominant"]
+            [
+              "Nasal bone",
+              "40-50% of facial fractures",
+              "Direct blow to nose (assault, sport, falls)",
+              "Equal (slight male predominance)"
+            ],
+            [
+              "Mandible",
+              "20-30%",
+              "Assault (parasymphysis); RTA (condyle); falls (angle/body)",
+              "Male 3:1"
+            ],
+            [
+              "Zygomatic complex (ZMC)",
+              "15-20%",
+              "Assault (direct blow to malar), RTA",
+              "Male predominant"
+            ],
+            [
+              "Orbital floor / blow-out",
+              "10-15%",
+              "Direct globe compression or cheek impact",
+              "Male predominant"
+            ],
+            [
+              "Le Fort I/II/III",
+              "5-10%",
+              "High-velocity RTA, falls from height",
+              "Male predominant"
+            ],
+            [
+              "Frontal sinus",
+              "5-10%",
+              "High-velocity impact (RTA, assault with weapon)",
+              "Male predominant"
+            ]
           ]
         },
         {
@@ -84,12 +119,37 @@
         {
           "type": "table",
           "title": "Haemorrhage Management Algorithm in Facial Trauma",
-          "headers": ["Severity", "Clinical Picture", "First-Line Management", "Escalation"],
+          "headers": [
+            "Severity",
+            "Clinical Picture",
+            "First-Line Management",
+            "Escalation"
+          ],
           "rows": [
-            ["Minor epistaxis", "Anterior bleeding, not brisk", "Direct pressure, anterior nasal packing", "Vasoconstrictor spray (oxymetazoline), cautery"],
-            ["Moderate epistaxis", "Posterior bleeding, persistent", "Posterior nasal pack or balloon (Rapid Rhino)", "ENT review; review fracture reduction"],
-            ["Severe facial haemorrhage", "Brisk, volume depletion, haemodynamic compromise", "Fracture reduction + packing + blood products", "Angioembolisation (interventional radiology)"],
-            ["Pseudoaneurysm (delayed)", "Delayed severe epistaxis 7-14 days post-injury", "CT angiography", "Embolisation; rarely surgical ligation"]
+            [
+              "Minor epistaxis",
+              "Anterior bleeding, not brisk",
+              "Direct pressure, anterior nasal packing",
+              "Vasoconstrictor spray (oxymetazoline), cautery"
+            ],
+            [
+              "Moderate epistaxis",
+              "Posterior bleeding, persistent",
+              "Posterior nasal pack or balloon (Rapid Rhino)",
+              "ENT review; review fracture reduction"
+            ],
+            [
+              "Severe facial haemorrhage",
+              "Brisk, volume depletion, haemodynamic compromise",
+              "Fracture reduction + packing + blood products",
+              "Angioembolisation (interventional radiology)"
+            ],
+            [
+              "Pseudoaneurysm (delayed)",
+              "Delayed severe epistaxis 7-14 days post-injury",
+              "CT angiography",
+              "Embolisation; rarely surgical ligation"
+            ]
           ]
         }
       ]

@@ -12,14 +12,14 @@
     "Lindqvist C et al. Condylar fractures: a review of the literature. Int J Oral Maxillofac Surg (2012)",
     "Neff A et al. Open versus closed treatment of condylar fractures — systematic review. J Oral Maxillofac Surg (2014)",
     "Assael LA. Open versus closed reduction of adult mandibular condyle fractures. J Oral Maxillofac Surg (2003)"
-          ],
+  ],
   "learning_objectives": [
     "Classify condylar fractures using the Spiessl, Lindqvist, and IASSCMF classification systems",
     "Identify indications for surgical (ORIF) versus conservative (functional) management of condylar fractures",
-    "Describe the surgical approaches to the condylar region including retromandibular, preauricular, and endoscopic techniques",
-    "Recognise the specific complications of condylar fractures including growth disturbance, ankylosis, and nerve injury",
-    "Understand management of condylar fractures in children and the controversies regarding growth impact",
-    "Interpret radiographic findings on OPG and CT for condylar fracture classification and surgical planning"
+    "Analyze the surgical approaches to the condylar region (retromandibular, preauricular, transparotid endoscopic) and differentiate the anatomical risks, exposure limitations, and evidence-based indications for each approach",
+    "Evaluate the complications of condylar fractures (growth disturbance, ankylosis, condylar resorption, hardware failure, facial nerve injury) and recommend evidence-based prevention protocols and management algorithms for each",
+    "Critically appraise the evidence on management of condylar fractures in children, differentiate the growth impact of conservative versus surgical management, and justify the treatment strategy for different age groups and fracture patterns",
+    "Analyze radiographic findings (OPG, CBCT, sagittal CT) to classify condylar fractures, differentiate subcondylar from intracapsular patterns, and recommend ORIF versus conservative management based on imaging, occlusion, and surgical risk"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Condylar Fracture Classification — Spiessl Types",
-          "headers": ["Spiessl Type", "Location", "Displacement Status", "Key Feature"],
+          "headers": [
+            "Spiessl Type",
+            "Location",
+            "Displacement Status",
+            "Key Feature"
+          ],
           "rows": [
-            ["Type I", "Condylar head", "No displacement", "Condyle in fossa; normal occlusion possible"],
-            ["Type II", "Condylar head", "Displaced, condyle in fossa", "Condyle medially displaced within fossa"],
-            ["Type III", "Condylar neck / subcondylar", "No displacement", "Fracture line only; stable"],
-            ["Type IV", "Condylar neck / subcondylar", "Displaced, condyle in fossa", "Angulated but not dislocated"],
-            ["Type V", "Subcondylar", "Dislocated", "Condyle entirely outside glenoid fossa"],
-            ["Type VI", "Intracapsular", "Comminuted condylar head", "Crush fracture; usually managed conservatively or with replacement"]
+            [
+              "Type I",
+              "Condylar head",
+              "No displacement",
+              "Condyle in fossa; normal occlusion possible"
+            ],
+            [
+              "Type II",
+              "Condylar head",
+              "Displaced, condyle in fossa",
+              "Condyle medially displaced within fossa"
+            ],
+            [
+              "Type III",
+              "Condylar neck / subcondylar",
+              "No displacement",
+              "Fracture line only; stable"
+            ],
+            [
+              "Type IV",
+              "Condylar neck / subcondylar",
+              "Displaced, condyle in fossa",
+              "Angulated but not dislocated"
+            ],
+            [
+              "Type V",
+              "Subcondylar",
+              "Dislocated",
+              "Condyle entirely outside glenoid fossa"
+            ],
+            [
+              "Type VI",
+              "Intracapsular",
+              "Comminuted condylar head",
+              "Crush fracture; usually managed conservatively or with replacement"
+            ]
           ]
         },
         {
@@ -94,13 +129,43 @@
         {
           "type": "table",
           "title": "Surgical Approaches to Condylar Fractures: Features and Nerve Risk",
-          "headers": ["Approach", "Access Level", "Primary Nerve Risk", "Best Indication"],
+          "headers": [
+            "Approach",
+            "Access Level",
+            "Primary Nerve Risk",
+            "Best Indication"
+          ],
           "rows": [
-            ["Preauricular", "High condylar neck, condylar head", "Temporal branch CN VII", "Intracapsular fractures, high condylar neck ORIF"],
-            ["Retromandibular (transparotid)", "Condylar neck and subcondylar", "Buccal/marginal mandibular CN VII", "Most subcondylar and condylar neck fractures"],
-            ["Retroparotid", "Condylar neck, high ramus", "Lower CN VII trunk", "Surgeons preferring retroparotid plane"],
-            ["Submandibular (Hinds)", "Low subcondylar, ramus", "Marginal mandibular CN VII", "Low subcondylar fractures combined with angle/body"],
-            ["Endoscopic-assisted", "Condylar neck, subcondylar", "Reduced CN VII risk vs open", "Uncomplicated displaced subcondylar fractures (experienced surgeons)"]
+            [
+              "Preauricular",
+              "High condylar neck, condylar head",
+              "Temporal branch CN VII",
+              "Intracapsular fractures, high condylar neck ORIF"
+            ],
+            [
+              "Retromandibular (transparotid)",
+              "Condylar neck and subcondylar",
+              "Buccal/marginal mandibular CN VII",
+              "Most subcondylar and condylar neck fractures"
+            ],
+            [
+              "Retroparotid",
+              "Condylar neck, high ramus",
+              "Lower CN VII trunk",
+              "Surgeons preferring retroparotid plane"
+            ],
+            [
+              "Submandibular (Hinds)",
+              "Low subcondylar, ramus",
+              "Marginal mandibular CN VII",
+              "Low subcondylar fractures combined with angle/body"
+            ],
+            [
+              "Endoscopic-assisted",
+              "Condylar neck, subcondylar",
+              "Reduced CN VII risk vs open",
+              "Uncomplicated displaced subcondylar fractures (experienced surgeons)"
+            ]
           ]
         },
         {
@@ -138,13 +203,43 @@
         {
           "type": "table",
           "title": "Condylar Fractures in Children: Age-Related Remodelling Capacity and Management",
-          "headers": ["Age Group", "Remodelling Capacity", "Management", "Growth Risk"],
+          "headers": [
+            "Age Group",
+            "Remodelling Capacity",
+            "Management",
+            "Growth Risk"
+          ],
           "rows": [
-            ["0-5 years", "Excellent — near complete regeneration possible", "Conservative functional mobilisation", "Low if early functional rehabilitation"],
-            ["6-9 years", "Good — partial remodelling", "Conservative; IMF max 5-7 days if needed", "Moderate — monitor for asymmetry"],
-            ["10-14 years", "Moderate", "Conservative preferred; very rarely ORIF if bilateral dislocation", "Higher — particularly bilateral fractures"],
-            ["15-17 years", "Reduced (approaching adult)", "Adult indications apply", "Approaching adult risk profile"],
-            ["All children", "Better than adults", "Avoid IMF >1 week; early physiotherapy mandatory", "Ankylosis most feared complication"]
+            [
+              "0-5 years",
+              "Excellent — near complete regeneration possible",
+              "Conservative functional mobilisation",
+              "Low if early functional rehabilitation"
+            ],
+            [
+              "6-9 years",
+              "Good — partial remodelling",
+              "Conservative; IMF max 5-7 days if needed",
+              "Moderate — monitor for asymmetry"
+            ],
+            [
+              "10-14 years",
+              "Moderate",
+              "Conservative preferred; very rarely ORIF if bilateral dislocation",
+              "Higher — particularly bilateral fractures"
+            ],
+            [
+              "15-17 years",
+              "Reduced (approaching adult)",
+              "Adult indications apply",
+              "Approaching adult risk profile"
+            ],
+            [
+              "All children",
+              "Better than adults",
+              "Avoid IMF >1 week; early physiotherapy mandatory",
+              "Ankylosis most feared complication"
+            ]
           ]
         }
       ]

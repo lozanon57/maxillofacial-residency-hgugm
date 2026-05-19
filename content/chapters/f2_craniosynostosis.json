@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Describe the pathophysiology of craniosynostosis and the consequences of premature suture fusion",
     "Classify craniosynostosis by suture involvement and identify the resultant skull shapes",
-    "Distinguish simple (isolated) from complex (syndromic) craniosynostosis and name the major syndromes",
-    "Outline the principles and techniques of surgical correction (craniectomy, fronto-orbital advancement, spring-assisted cranioplasty)",
-    "Describe the management of raised intracranial pressure in craniosynostosis"
+    "Differentiate simple (isolated) from complex (syndromic) craniosynostosis using clinical, genetic, and imaging criteria, evaluate the implications for surgical timing and approach, and identify the major syndromes and their associated mutations",
+    "Evaluate the principles and techniques of surgical correction (craniectomy, fronto-orbital advancement, total calvarial remodelling, spring-assisted cranioplasty) by differentiating their indications, timing, and evidence-based outcomes",
+    "Assess the diagnosis and management of raised intracranial pressure in craniosynostosis, differentiating monitoring methods, surgical decompression thresholds, and long-term neurodevelopmental implications for single versus multi-suture disease"
   ],
   "sections": [
     {
@@ -49,14 +49,56 @@
         {
           "type": "table",
           "title": "Craniosynostosis by Suture — Shape, Diagnosis, Treatment",
-          "headers": ["Suture Fused", "Skull Shape", "Characteristic Sign", "Frequency", "Surgery Timing"],
+          "headers": [
+            "Suture Fused",
+            "Skull Shape",
+            "Characteristic Sign",
+            "Frequency",
+            "Surgery Timing"
+          ],
           "rows": [
-            ["Sagittal", "Scaphocephaly (long, narrow)", "Cephalic index <75; palpable ridge", "40–60%", "Strip craniectomy 2–4 months OR remodelling 6–12 months"],
-            ["Unilateral coronal", "Anterior plagiocephaly", "'Harlequin' eye on skull X-ray", "15–20%", "Fronto-orbital advancement 6–12 months"],
-            ["Bilateral coronal", "Brachycephaly", "Short wide skull, bitemporal flattening", "5–10%", "Bilateral fronto-orbital advancement 6–12 months"],
-            ["Metopic", "Trigonocephaly", "Triangular forehead, midline ridge, hypotelorism", "10–15%", "Frontal remodelling 6–12 months"],
-            ["Lambdoid", "Posterior plagiocephaly", "Ipsilateral ear posterior + inferior (vs positional: anterior)", "2–4%", "Posterior remodelling 9–18 months"],
-            ["Multiple (syndromic)", "Variable — turricephaly, cloverleaf", "Raised ICP, hypertelorism, proptosis", "15–20%", "MDT, urgent if raised ICP"]
+            [
+              "Sagittal",
+              "Scaphocephaly (long, narrow)",
+              "Cephalic index <75; palpable ridge",
+              "40–60%",
+              "Strip craniectomy 2–4 months OR remodelling 6–12 months"
+            ],
+            [
+              "Unilateral coronal",
+              "Anterior plagiocephaly",
+              "'Harlequin' eye on skull X-ray",
+              "15–20%",
+              "Fronto-orbital advancement 6–12 months"
+            ],
+            [
+              "Bilateral coronal",
+              "Brachycephaly",
+              "Short wide skull, bitemporal flattening",
+              "5–10%",
+              "Bilateral fronto-orbital advancement 6–12 months"
+            ],
+            [
+              "Metopic",
+              "Trigonocephaly",
+              "Triangular forehead, midline ridge, hypotelorism",
+              "10–15%",
+              "Frontal remodelling 6–12 months"
+            ],
+            [
+              "Lambdoid",
+              "Posterior plagiocephaly",
+              "Ipsilateral ear posterior + inferior (vs positional: anterior)",
+              "2–4%",
+              "Posterior remodelling 9–18 months"
+            ],
+            [
+              "Multiple (syndromic)",
+              "Variable — turricephaly, cloverleaf",
+              "Raised ICP, hypertelorism, proptosis",
+              "15–20%",
+              "MDT, urgent if raised ICP"
+            ]
           ]
         },
         {
@@ -78,14 +120,56 @@
         {
           "type": "table",
           "title": "Major Syndromic Craniosynostosis — Features and Genetics",
-          "headers": ["Syndrome", "Gene", "Suture", "Distinguishing Feature", "Intelligence"],
+          "headers": [
+            "Syndrome",
+            "Gene",
+            "Suture",
+            "Distinguishing Feature",
+            "Intelligence"
+          ],
           "rows": [
-            ["Apert", "FGFR2 (Ser252Trp/Pro253Arg)", "Bicoronal", "Complex syndactyly hands/feet ('mitten hand')", "Variable — often delayed"],
-            ["Crouzon", "FGFR2 (multiple)", "Bi/multisuture", "No syndactyly; most proptosis; Chiari I association", "Usually normal"],
-            ["Pfeiffer I", "FGFR1 or FGFR2", "Coronal", "Broad thumb/great toe, mild", "Normal"],
-            ["Pfeiffer III", "FGFR2", "Cloverleaf skull", "Most severe; life-threatening", "Impaired"],
-            ["Muenke", "FGFR3 (P250R)", "Uni/bicoronal", "SNHL; most common single-gene coronal synostosis", "Normal"],
-            ["Saethre-Chotzen", "TWIST1", "Coronal", "Low hairline, ptosis, cutaneous syndactyly", "Normal"]
+            [
+              "Apert",
+              "FGFR2 (Ser252Trp/Pro253Arg)",
+              "Bicoronal",
+              "Complex syndactyly hands/feet ('mitten hand')",
+              "Variable — often delayed"
+            ],
+            [
+              "Crouzon",
+              "FGFR2 (multiple)",
+              "Bi/multisuture",
+              "No syndactyly; most proptosis; Chiari I association",
+              "Usually normal"
+            ],
+            [
+              "Pfeiffer I",
+              "FGFR1 or FGFR2",
+              "Coronal",
+              "Broad thumb/great toe, mild",
+              "Normal"
+            ],
+            [
+              "Pfeiffer III",
+              "FGFR2",
+              "Cloverleaf skull",
+              "Most severe; life-threatening",
+              "Impaired"
+            ],
+            [
+              "Muenke",
+              "FGFR3 (P250R)",
+              "Uni/bicoronal",
+              "SNHL; most common single-gene coronal synostosis",
+              "Normal"
+            ],
+            [
+              "Saethre-Chotzen",
+              "TWIST1",
+              "Coronal",
+              "Low hairline, ptosis, cutaneous syndactyly",
+              "Normal"
+            ]
           ]
         },
         {
@@ -123,14 +207,56 @@
         {
           "type": "table",
           "title": "Surgical Techniques for Craniosynostosis by Indication",
-          "headers": ["Technique", "Timing", "Indication", "Advantage", "Limitation"],
+          "headers": [
+            "Technique",
+            "Timing",
+            "Indication",
+            "Advantage",
+            "Limitation"
+          ],
           "rows": [
-            ["Strip craniectomy ± springs", "2–4 months", "Sagittal (early), selected cases", "Minimally invasive, small scar", "Narrow window; needs very early timing"],
-            ["Fronto-orbital advancement (FOA)", "6–12 months", "Coronal, metopic, frontal synostosis", "Gold standard for frontal; volume + shape", "Major surgery — blood transfusion likely"],
-            ["Sagittal remodelling (barrel stave)", "6–12 months", "Sagittal synostosis (later)", "Comprehensive shape correction", "More invasive than early strip craniectomy"],
-            ["Total calvarial remodelling", "6–18 months", "Complex, multi-suture, delayed cases", "Full correction of severe deformity", "Longest operation; highest blood loss"],
-            ["Cranial vault DO", "Variable", "Severe volume loss, reoperation", "Large volume gains", "Device management; longer treatment"],
-            ["Monobloc/frontofacial advancement", ">2–3 years", "Syndromic midface hypoplasia (Apert/Crouzon)", "Simultaneous cranial + midface correction", "High complication rate; staged preferred"]
+            [
+              "Strip craniectomy ± springs",
+              "2–4 months",
+              "Sagittal (early), selected cases",
+              "Minimally invasive, small scar",
+              "Narrow window; needs very early timing"
+            ],
+            [
+              "Fronto-orbital advancement (FOA)",
+              "6–12 months",
+              "Coronal, metopic, frontal synostosis",
+              "Gold standard for frontal; volume + shape",
+              "Major surgery — blood transfusion likely"
+            ],
+            [
+              "Sagittal remodelling (barrel stave)",
+              "6–12 months",
+              "Sagittal synostosis (later)",
+              "Comprehensive shape correction",
+              "More invasive than early strip craniectomy"
+            ],
+            [
+              "Total calvarial remodelling",
+              "6–18 months",
+              "Complex, multi-suture, delayed cases",
+              "Full correction of severe deformity",
+              "Longest operation; highest blood loss"
+            ],
+            [
+              "Cranial vault DO",
+              "Variable",
+              "Severe volume loss, reoperation",
+              "Large volume gains",
+              "Device management; longer treatment"
+            ],
+            [
+              "Monobloc/frontofacial advancement",
+              ">2–3 years",
+              "Syndromic midface hypoplasia (Apert/Crouzon)",
+              "Simultaneous cranial + midface correction",
+              "High complication rate; staged preferred"
+            ]
           ]
         },
         {
@@ -168,15 +294,55 @@
         {
           "type": "table",
           "title": "Follow-Up and Monitoring Protocol for Craniosynostosis",
-          "headers": ["Parameter", "Frequency", "Method", "Action Threshold"],
+          "headers": [
+            "Parameter",
+            "Frequency",
+            "Method",
+            "Action Threshold"
+          ],
           "rows": [
-            ["ICP — papilloedema", "Every 6 months", "Fundoscopy", "Papilloedema = urgent ICP measurement"],
-            ["Head circumference", "Every 3–6 months (first 2 years)", "OFC measurement", "Crossing centiles downward = concern"],
-            ["Cognitive/developmental", "Annually", "Neuropsychology", "Formal assessment; school support if delayed"],
-            ["OSA (syndromic)", "Annually", "Polysomnography", "AHI >5/hr = treatment required"],
-            ["Vision/proptosis", "Every 6–12 months", "Ophthalmology review", "Corneal exposure = urgent treatment"],
-            ["Dental/orthodontic", "Annually from age 5", "Orthodontic review", "Crossbite, class III — plan early"],
-            ["Genetic counselling", "At diagnosis + reproductive age", "Clinical genetics", "Recurrence risk for family planning"]
+            [
+              "ICP — papilloedema",
+              "Every 6 months",
+              "Fundoscopy",
+              "Papilloedema = urgent ICP measurement"
+            ],
+            [
+              "Head circumference",
+              "Every 3–6 months (first 2 years)",
+              "OFC measurement",
+              "Crossing centiles downward = concern"
+            ],
+            [
+              "Cognitive/developmental",
+              "Annually",
+              "Neuropsychology",
+              "Formal assessment; school support if delayed"
+            ],
+            [
+              "OSA (syndromic)",
+              "Annually",
+              "Polysomnography",
+              "AHI >5/hr = treatment required"
+            ],
+            [
+              "Vision/proptosis",
+              "Every 6–12 months",
+              "Ophthalmology review",
+              "Corneal exposure = urgent treatment"
+            ],
+            [
+              "Dental/orthodontic",
+              "Annually from age 5",
+              "Orthodontic review",
+              "Crossbite, class III — plan early"
+            ],
+            [
+              "Genetic counselling",
+              "At diagnosis + reproductive age",
+              "Clinical genetics",
+              "Recurrence risk for family planning"
+            ]
           ]
         }
       ]

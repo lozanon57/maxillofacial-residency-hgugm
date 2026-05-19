@@ -17,10 +17,10 @@
   "learning_objectives": [
     "Define osseointegration and describe the biological processes of implant-bone interface formation",
     "Apply the ITI and EACMFS criteria for implant patient selection including contraindications",
-    "Plan implant placement using CBCT-based assessment of bone quantity and quality",
-    "Classify peri-implant diseases (peri-implant mucositis, peri-implantitis) and apply current treatment protocols",
-    "Identify major risk factors for implant failure including diabetes, smoking, and radiation therapy",
-    "Manage early and late implant failure and the specific risks of implants in irradiated bone"
+    "Analyze CBCT imaging to assess bone quantity and quality at implant sites, differentiate risk factors that modify implant placement planning, and recommend implant dimensions and surgical approach for each clinical scenario",
+    "Evaluate the evidence for non-surgical versus surgical management of peri-implantitis, differentiate treatment intensity based on disease staging, and recommend a patient-specific evidence-based treatment protocol",
+    "Assess patient-specific risk factors for implant failure (uncontrolled diabetes, active smoking, head and neck irradiation, bisphosphonate therapy) and recommend evidence-based modifications to implant protocols and timing",
+    "Evaluate and manage early and late implant failure by differentiating biological from mechanical causes, applying evidence-based protocols for each failure type, and justify special precautions for implants in irradiated bone"
   ],
   "sections": [
     {
@@ -34,12 +34,37 @@
         {
           "type": "table",
           "title": "Implant Stability Parameters and Clinical Interpretation",
-          "headers": ["Parameter", "Measurement Method", "Good Stability", "Concerning Value"],
+          "headers": [
+            "Parameter",
+            "Measurement Method",
+            "Good Stability",
+            "Concerning Value"
+          ],
           "rows": [
-            ["Primary stability", "Insertion torque (N·cm)", ">25 N·cm", "<15 N·cm — consider delayed loading or abort"],
-            ["Resonance frequency (ISQ)", "Osstell/Penguin device", ">65 ISQ", "<55 ISQ — increase loading protocol duration"],
-            ["Marginal bone loss (year 1)", "Periapical radiograph", "<1.5 mm", ">2 mm — evaluate for peri-implantitis"],
-            ["Marginal bone loss (year 2+)", "Annual periapical radiograph", "<0.2 mm/year", ">0.5 mm/year — diagnosis peri-implantitis"]
+            [
+              "Primary stability",
+              "Insertion torque (N·cm)",
+              ">25 N·cm",
+              "<15 N·cm — consider delayed loading or abort"
+            ],
+            [
+              "Resonance frequency (ISQ)",
+              "Osstell/Penguin device",
+              ">65 ISQ",
+              "<55 ISQ — increase loading protocol duration"
+            ],
+            [
+              "Marginal bone loss (year 1)",
+              "Periapical radiograph",
+              "<1.5 mm",
+              ">2 mm — evaluate for peri-implantitis"
+            ],
+            [
+              "Marginal bone loss (year 2+)",
+              "Annual periapical radiograph",
+              "<0.2 mm/year",
+              ">0.5 mm/year — diagnosis peri-implantitis"
+            ]
           ]
         },
         {
@@ -61,15 +86,55 @@
         {
           "type": "table",
           "title": "Implant Contraindications: Absolute vs Relative",
-          "headers": ["Condition", "Type", "Implication", "Management"],
+          "headers": [
+            "Condition",
+            "Type",
+            "Implication",
+            "Management"
+          ],
           "rows": [
-            ["IV bisphosphonates (active)", "Absolute", "MRONJ risk 1–10%", "Do not place; explain alternatives"],
-            ["Head/neck RT >50 Gy (recent)", "Absolute/high risk", "ORN risk >10%", "HBO protocol if proceeding; defer minimum 1 year"],
-            ["HbA1c >8% (uncontrolled DM)", "Relative", "1.5× failure rate", "Optimise glycaemic control before placement"],
-            ["Smoking >10 cigs/day", "Relative", "2× failure rate", "Smoking cessation counselling; 1 month pre + 2 months post"],
-            ["Oral bisphosphonates", "Relative", "Low MRONJ risk", "Informed consent; no routine drug holiday"],
-            ["Post-cardiac event (<6 months)", "Absolute (temporary)", "Surgical risk", "Defer 6–12 months"],
-            ["Periodontal disease (uncontrolled)", "Relative", "Peri-implantitis risk", "Treat periodontitis first; re-evaluate"]
+            [
+              "IV bisphosphonates (active)",
+              "Absolute",
+              "MRONJ risk 1–10%",
+              "Do not place; explain alternatives"
+            ],
+            [
+              "Head/neck RT >50 Gy (recent)",
+              "Absolute/high risk",
+              "ORN risk >10%",
+              "HBO protocol if proceeding; defer minimum 1 year"
+            ],
+            [
+              "HbA1c >8% (uncontrolled DM)",
+              "Relative",
+              "1.5× failure rate",
+              "Optimise glycaemic control before placement"
+            ],
+            [
+              "Smoking >10 cigs/day",
+              "Relative",
+              "2× failure rate",
+              "Smoking cessation counselling; 1 month pre + 2 months post"
+            ],
+            [
+              "Oral bisphosphonates",
+              "Relative",
+              "Low MRONJ risk",
+              "Informed consent; no routine drug holiday"
+            ],
+            [
+              "Post-cardiac event (<6 months)",
+              "Absolute (temporary)",
+              "Surgical risk",
+              "Defer 6–12 months"
+            ],
+            [
+              "Periodontal disease (uncontrolled)",
+              "Relative",
+              "Peri-implantitis risk",
+              "Treat periodontitis first; re-evaluate"
+            ]
           ]
         },
         {
@@ -107,15 +172,47 @@
         {
           "type": "table",
           "title": "Peri-implant Mucositis vs Peri-implantitis: Diagnostic Criteria",
-          "headers": ["Feature", "Peri-implant Mucositis", "Peri-implantitis"],
+          "headers": [
+            "Feature",
+            "Peri-implant Mucositis",
+            "Peri-implantitis"
+          ],
           "rows": [
-            ["Bone loss", "No (beyond initial remodelling)", "Yes — progressive beyond threshold"],
-            ["Bleeding on probing", "Yes", "Yes + suppuration common"],
-            ["Pocket depth", "≤5 mm (may be normal)", ">5 mm typical"],
-            ["Reversibility", "Yes with treatment", "No — bone loss is permanent"],
-            ["Radiographic finding", "Normal bone level", "Bone loss at implant shoulder/threads"],
-            ["Analogy to natural teeth", "Gingivitis", "Periodontitis"],
-            ["Prevalence (implant sites)", "~43%", "~20%"]
+            [
+              "Bone loss",
+              "No (beyond initial remodelling)",
+              "Yes — progressive beyond threshold"
+            ],
+            [
+              "Bleeding on probing",
+              "Yes",
+              "Yes + suppuration common"
+            ],
+            [
+              "Pocket depth",
+              "≤5 mm (may be normal)",
+              ">5 mm typical"
+            ],
+            [
+              "Reversibility",
+              "Yes with treatment",
+              "No — bone loss is permanent"
+            ],
+            [
+              "Radiographic finding",
+              "Normal bone level",
+              "Bone loss at implant shoulder/threads"
+            ],
+            [
+              "Analogy to natural teeth",
+              "Gingivitis",
+              "Periodontitis"
+            ],
+            [
+              "Prevalence (implant sites)",
+              "~43%",
+              "~20%"
+            ]
           ]
         },
         {
@@ -153,13 +250,43 @@
         {
           "type": "table",
           "title": "Implant Failure: Early vs Late — Causes and Management",
-          "headers": ["Type", "Timing", "Common Causes", "Management"],
+          "headers": [
+            "Type",
+            "Timing",
+            "Common Causes",
+            "Management"
+          ],
           "rows": [
-            ["Early failure", "0–6 months", "Low primary stability, DM, smoking, overheating, infection", "Remove implant; treat cause; re-implant after 3–6 months"],
-            ["Peri-implantitis", ">6 months", "Biofilm, poor hygiene, residual cement, smoking", "Non-surgical → surgical debridement → removal if refractory"],
-            ["Overload failure", "Variable", "Parafunctional loading, short implants, type IV bone", "Remove implant; redesign prosthesis; add implants"],
-            ["Mechanical failure", "Variable", "Component fracture, abutment screw loosening", "Component replacement; redesign restoration"],
-            ["Peri-implantitis stage III", ">12 months", "Advanced bone loss to apical third", "Implant removal + GBR + delayed re-implant"]
+            [
+              "Early failure",
+              "0–6 months",
+              "Low primary stability, DM, smoking, overheating, infection",
+              "Remove implant; treat cause; re-implant after 3–6 months"
+            ],
+            [
+              "Peri-implantitis",
+              ">6 months",
+              "Biofilm, poor hygiene, residual cement, smoking",
+              "Non-surgical → surgical debridement → removal if refractory"
+            ],
+            [
+              "Overload failure",
+              "Variable",
+              "Parafunctional loading, short implants, type IV bone",
+              "Remove implant; redesign prosthesis; add implants"
+            ],
+            [
+              "Mechanical failure",
+              "Variable",
+              "Component fracture, abutment screw loosening",
+              "Component replacement; redesign restoration"
+            ],
+            [
+              "Peri-implantitis stage III",
+              ">12 months",
+              "Advanced bone loss to apical third",
+              "Implant removal + GBR + delayed re-implant"
+            ]
           ]
         },
         {

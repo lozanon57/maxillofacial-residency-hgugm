@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Describe the surgical anatomy of the frontal sinus including the nasofrontal outflow tract and posterior table relationship to the anterior cranial fossa",
     "Classify frontal sinus fractures and determine whether anterior table, posterior table, or nasofrontal outflow tract is involved",
-    "Distinguish when frontal sinus fractures can be managed conservatively versus when surgical intervention is required",
-    "Understand the principles and indications for frontal sinus obliteration versus cranialization",
-    "Recognise immediate and delayed complications of frontal sinus fractures including CSF leak, meningitis, and mucocoele formation",
-    "Describe the surgical approaches used for frontal sinus exposure and repair"
+    "Evaluate frontal sinus fracture management by differentiating CT-based criteria for nasofrontal outflow tract obstruction, posterior table displacement, and dural injury, and recommend conservative versus surgical intervention with clinical justification",
+    "Analyze the principles of frontal sinus obliteration versus cranialization, differentiate the indications for each based on outflow tract status and posterior table integrity, and evaluate the evidence for each approach in terms of late complication rates",
+    "Assess and manage complications of frontal sinus fractures (CSF leak, meningitis, mucocele, osteomyelitis, late sinus opacification) by differentiating early versus delayed presentations and recommending evidence-based intervention thresholds",
+    "Evaluate surgical approaches for frontal sinus exposure (bicoronal flap, endoscopic access, trephination) by differentiating exposure, scarring, and morbidity profiles, and justify approach selection based on fracture pattern and repair goals"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Frontal Sinus Fracture Classification and Management Algorithm",
-          "headers": ["Fracture Type", "Structures Involved", "Immediate Risk", "Surgical Indication"],
+          "headers": [
+            "Fracture Type",
+            "Structures Involved",
+            "Immediate Risk",
+            "Surgical Indication"
+          ],
           "rows": [
-            ["Anterior table — non-displaced", "Anterior cortex only", "Cosmetic contour irregularity", "None — conservative management"],
-            ["Anterior table — displaced (>1 table width)", "Anterior cortex", "Forehead contour deformity; forehead numbness", "ORIF for cosmetic restoration"],
-            ["Posterior table — non-displaced", "Posterior cortex; potential dural tear", "CSF leak; meningitis risk", "Observation; neurosurgery if CSF persists"],
-            ["Posterior table — displaced (>1 table width)", "Posterior cortex; dural tear likely; intracranial injury", "Dural tear; CSF leak; meningitis; brain injury", "Neurosurgical evaluation; cranialization or repair"],
-            ["NFOT involved — any", "Nasofrontal outflow tract", "Mucocoele formation (delayed); chronic sinusitis", "Obliterate sinus or restore drainage"],
-            ["Comminuted — all walls", "Entire sinus; dura; brain", "Multiple risks; intracranial injury", "Combined neurosurgery + OMFS approach"]
+            [
+              "Anterior table — non-displaced",
+              "Anterior cortex only",
+              "Cosmetic contour irregularity",
+              "None — conservative management"
+            ],
+            [
+              "Anterior table — displaced (>1 table width)",
+              "Anterior cortex",
+              "Forehead contour deformity; forehead numbness",
+              "ORIF for cosmetic restoration"
+            ],
+            [
+              "Posterior table — non-displaced",
+              "Posterior cortex; potential dural tear",
+              "CSF leak; meningitis risk",
+              "Observation; neurosurgery if CSF persists"
+            ],
+            [
+              "Posterior table — displaced (>1 table width)",
+              "Posterior cortex; dural tear likely; intracranial injury",
+              "Dural tear; CSF leak; meningitis; brain injury",
+              "Neurosurgical evaluation; cranialization or repair"
+            ],
+            [
+              "NFOT involved — any",
+              "Nasofrontal outflow tract",
+              "Mucocoele formation (delayed); chronic sinusitis",
+              "Obliterate sinus or restore drainage"
+            ],
+            [
+              "Comminuted — all walls",
+              "Entire sinus; dura; brain",
+              "Multiple risks; intracranial injury",
+              "Combined neurosurgery + OMFS approach"
+            ]
           ]
         },
         {
@@ -78,15 +113,47 @@
         {
           "type": "table",
           "title": "Obliteration vs Cranialization: Indications and Comparison",
-          "headers": ["Feature", "Obliteration", "Cranialization"],
+          "headers": [
+            "Feature",
+            "Obliteration",
+            "Cranialization"
+          ],
           "rows": [
-            ["Posterior table status", "Intact or minimally displaced", "Comminuted, significantly displaced, or removed"],
-            ["Dural tear", "Absent or repaired primarily", "Present (large) or impossible to repair without cranial access"],
-            ["NFOT", "Plugged with fat", "Plugged with fat"],
-            ["Anterior table", "Preserved and plated", "Preserved and plated"],
-            ["Brain relationship", "Anterior cranial floor remains", "Brain cavity expanded to fill sinus space"],
-            ["Neurosurgery involvement", "May not require neurosurgery", "Requires neurosurgery (posterior table removal)"],
-            ["Mucocoele risk", "3-25% (complete mucosal stripping essential)", "3-25% (residual mucosa risk)"]
+            [
+              "Posterior table status",
+              "Intact or minimally displaced",
+              "Comminuted, significantly displaced, or removed"
+            ],
+            [
+              "Dural tear",
+              "Absent or repaired primarily",
+              "Present (large) or impossible to repair without cranial access"
+            ],
+            [
+              "NFOT",
+              "Plugged with fat",
+              "Plugged with fat"
+            ],
+            [
+              "Anterior table",
+              "Preserved and plated",
+              "Preserved and plated"
+            ],
+            [
+              "Brain relationship",
+              "Anterior cranial floor remains",
+              "Brain cavity expanded to fill sinus space"
+            ],
+            [
+              "Neurosurgery involvement",
+              "May not require neurosurgery",
+              "Requires neurosurgery (posterior table removal)"
+            ],
+            [
+              "Mucocoele risk",
+              "3-25% (complete mucosal stripping essential)",
+              "3-25% (residual mucosa risk)"
+            ]
           ]
         },
         {

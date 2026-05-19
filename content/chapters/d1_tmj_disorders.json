@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Apply the Wilkes classification to stage internal derangements of the TMJ from clinical and radiographic findings",
     "Distinguish masticatory myofascial pain from TMJ arthropathy and intra-articular disc disorders using DC/TMD criteria",
-    "Interpret TMJ MRI findings relevant to disc displacement with and without reduction",
-    "Select appropriate conservative management strategies (splint therapy, physiotherapy, pharmacotherapy) based on diagnosis and staging",
-    "Recognise indications for escalation from conservative to surgical management of TMD",
-    "Identify systemic conditions commonly associated with TMJ arthritis (rheumatoid, psoriatic, juvenile idiopathic arthritis)"
+    "Analyze TMJ MRI sequences to interpret disc position, morphology, and articular surface changes, differentiate disc displacement with and without reduction from degenerative joint disease, and integrate findings with clinical presentation",
+    "Evaluate and select appropriate conservative management strategies (occlusal splint design, physiotherapy protocol, pharmacotherapy) for each TMD subtype based on DC/TMD diagnosis, disease severity, and patient-specific factors",
+    "Assess the clinical criteria for escalation from conservative to surgical management of TMD, differentiate the indications for arthrocentesis, arthroscopy, and open surgery, and evaluate the evidence for each intervention",
+    "Differentiate TMJ involvement patterns in rheumatoid arthritis, psoriatic arthritis, juvenile idiopathic arthritis, and ankylosing spondylitis using clinical and imaging criteria, and recommend disease-specific interdisciplinary management"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "TMJ Articular Structures and Clinical Relevance",
-          "headers": ["Structure", "Composition", "Function", "Clinical Relevance"],
+          "headers": [
+            "Structure",
+            "Composition",
+            "Function",
+            "Clinical Relevance"
+          ],
           "rows": [
-            ["Articular disc (intermediate zone)", "Dense fibrocartilage, avascular", "Weight bearing, load distribution", "Perforation = bone-on-bone contact, OA"],
-            ["Posterior band", "Thick fibrocartilage (~3mm)", "Anchors disc posteriorly", "Anterior disc displacement = condyle rides on posterior band"],
-            ["Bilaminar zone (retrodiscal)", "Superior elastic + inferior inelastic collagen", "Disc return on closing", "Highly innervated/vascularised; source of pain in disc displacement"],
-            ["Superior joint compartment", "Synovial fluid, superior surface disc", "Translation during wide opening", "Site of steroid/hyaluronic acid injection"],
-            ["Fibrocartilage (articular surface)", "Type I collagen, no nerve supply", "Load bearing, joint movement", "Repairs poorly when damaged; susceptible to adaptive remodelling"],
-            ["Condylar head", "Bone with fibrocartilage cap", "Rotates/translates during jaw opening", "Condylar erosion in inflammatory arthritis, OA"]
+            [
+              "Articular disc (intermediate zone)",
+              "Dense fibrocartilage, avascular",
+              "Weight bearing, load distribution",
+              "Perforation = bone-on-bone contact, OA"
+            ],
+            [
+              "Posterior band",
+              "Thick fibrocartilage (~3mm)",
+              "Anchors disc posteriorly",
+              "Anterior disc displacement = condyle rides on posterior band"
+            ],
+            [
+              "Bilaminar zone (retrodiscal)",
+              "Superior elastic + inferior inelastic collagen",
+              "Disc return on closing",
+              "Highly innervated/vascularised; source of pain in disc displacement"
+            ],
+            [
+              "Superior joint compartment",
+              "Synovial fluid, superior surface disc",
+              "Translation during wide opening",
+              "Site of steroid/hyaluronic acid injection"
+            ],
+            [
+              "Fibrocartilage (articular surface)",
+              "Type I collagen, no nerve supply",
+              "Load bearing, joint movement",
+              "Repairs poorly when damaged; susceptible to adaptive remodelling"
+            ],
+            [
+              "Condylar head",
+              "Bone with fibrocartilage cap",
+              "Rotates/translates during jaw opening",
+              "Condylar erosion in inflammatory arthritis, OA"
+            ]
           ]
         },
         {
@@ -62,13 +97,49 @@
         {
           "type": "table",
           "title": "Wilkes Classification of TMJ Internal Derangement",
-          "headers": ["Stage", "Clinical Features", "MRI Findings", "Structural Changes", "Typical Management"],
+          "headers": [
+            "Stage",
+            "Clinical Features",
+            "MRI Findings",
+            "Structural Changes",
+            "Typical Management"
+          ],
           "rows": [
-            ["I (Early)", "Painless click; full opening; no locking", "Slight disc displacement anteriorly; reduces on opening", "None; normal disc contour", "Reassurance, self-care, physiotherapy"],
-            ["II (Early/intermediate)", "Occasional painful click; intermittent locking; slight opening limitation", "Anterior disc displacement; irregular disc contour", "Slight disc deformation", "Splint, physiotherapy, NSAIDs"],
-            ["III (Intermediate)", "Frequent painful locking; restricted opening <35mm; joint pain", "Non-reducing anterior disc displacement; moderate disc deformation", "Articular surface changes beginning", "Failed conservative → arthroscopy"],
-            ["IV (Intermediate/late)", "Chronic pain; restricted opening; crepitus", "Chronic non-reducing displacement; severe disc deformation", "Osteophytes, sclerosis, flattening condyle", "Arthroscopy or open discoplasty"],
-            ["V (Late)", "Variable pain; crepitus; malocclusion changes possible", "Perforated/destroyed disc; severe osteoarthritis", "Advanced OA: osteophytes, flattening, resorption, erosion", "Discectomy ± replacement; TJR if severe"]
+            [
+              "I (Early)",
+              "Painless click; full opening; no locking",
+              "Slight disc displacement anteriorly; reduces on opening",
+              "None; normal disc contour",
+              "Reassurance, self-care, physiotherapy"
+            ],
+            [
+              "II (Early/intermediate)",
+              "Occasional painful click; intermittent locking; slight opening limitation",
+              "Anterior disc displacement; irregular disc contour",
+              "Slight disc deformation",
+              "Splint, physiotherapy, NSAIDs"
+            ],
+            [
+              "III (Intermediate)",
+              "Frequent painful locking; restricted opening <35mm; joint pain",
+              "Non-reducing anterior disc displacement; moderate disc deformation",
+              "Articular surface changes beginning",
+              "Failed conservative → arthroscopy"
+            ],
+            [
+              "IV (Intermediate/late)",
+              "Chronic pain; restricted opening; crepitus",
+              "Chronic non-reducing displacement; severe disc deformation",
+              "Osteophytes, sclerosis, flattening condyle",
+              "Arthroscopy or open discoplasty"
+            ],
+            [
+              "V (Late)",
+              "Variable pain; crepitus; malocclusion changes possible",
+              "Perforated/destroyed disc; severe osteoarthritis",
+              "Advanced OA: osteophytes, flattening, resorption, erosion",
+              "Discectomy ± replacement; TJR if severe"
+            ]
           ]
         },
         {
@@ -106,15 +177,47 @@
         {
           "type": "table",
           "title": "Key Features Distinguishing Masticatory Myalgia from TMJ Disc Disorder",
-          "headers": ["Feature", "Masticatory Myalgia/MFP", "TMJ Disc Displacement"],
+          "headers": [
+            "Feature",
+            "Masticatory Myalgia/MFP",
+            "TMJ Disc Displacement"
+          ],
           "rows": [
-            ["Pain location", "Muscle belly on palpation; diffuse face/head", "Preauricular; localized to joint"],
-            ["Joint sounds", "Absent", "Click (DDwR) or crepitus (OA/DDwoR)"],
-            ["Opening pattern", "Reduced; straight (symmetric); improves on passive stretch", "Deflects to affected side (DDwoR); reciprocal click (DDwR)"],
-            ["Response to passive stretch", "Opening increases (muscle guard)", "Opening remains limited (mechanical block)"],
-            ["Bruxism association", "Strong", "Moderate"],
-            ["MRI findings", "Normal joint; possible muscle hypertrophy", "Disc displacement; possible effusion"],
-            ["Primary treatment", "Physiotherapy, CBT, low-dose TCA, occlusal splint", "Splint, NSAIDs, arthrocentesis if locking"]
+            [
+              "Pain location",
+              "Muscle belly on palpation; diffuse face/head",
+              "Preauricular; localized to joint"
+            ],
+            [
+              "Joint sounds",
+              "Absent",
+              "Click (DDwR) or crepitus (OA/DDwoR)"
+            ],
+            [
+              "Opening pattern",
+              "Reduced; straight (symmetric); improves on passive stretch",
+              "Deflects to affected side (DDwoR); reciprocal click (DDwR)"
+            ],
+            [
+              "Response to passive stretch",
+              "Opening increases (muscle guard)",
+              "Opening remains limited (mechanical block)"
+            ],
+            [
+              "Bruxism association",
+              "Strong",
+              "Moderate"
+            ],
+            [
+              "MRI findings",
+              "Normal joint; possible muscle hypertrophy",
+              "Disc displacement; possible effusion"
+            ],
+            [
+              "Primary treatment",
+              "Physiotherapy, CBT, low-dose TCA, occlusal splint",
+              "Splint, NSAIDs, arthrocentesis if locking"
+            ]
           ]
         }
       ]

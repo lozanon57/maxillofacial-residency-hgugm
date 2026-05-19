@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Describe the surgical anatomy relevant to the Le Fort I osteotomy, including blood supply to the maxilla, and adjacent at-risk structures",
     "Explain the step-by-step Le Fort I technique from incision to rigid fixation",
-    "Identify the movements achievable by Le Fort I osteotomy and the principles of applying each",
-    "Recognise and manage intraoperative and post-operative complications of Le Fort I osteotomy",
-    "Describe the healing biology of the maxilla after osteotomy, including vascular supply and bone union timescales"
+    "Analyze the range of movements achievable by Le Fort I osteotomy, differentiate the biomechanical principles governing each movement vector, and select appropriate fixation strategies to maintain planned repositioning",
+    "Evaluate the intraoperative and post-operative complications of Le Fort I osteotomy (vascular crisis, pterygoid plate fracture, velopharyngeal insufficiency, avascular necrosis, relapse) and recommend evidence-based prevention and management strategies",
+    "Critique the healing biology of the maxilla after osteotomy, comparing vascular supply patterns and bone union rates, and justify early versus delayed loading decisions based on the biological and fixation factors involved"
   ],
   "sections": [
     {
@@ -49,14 +49,49 @@
         {
           "type": "table",
           "title": "Structures at Risk During Le Fort I Osteotomy",
-          "headers": ["Structure", "Location / Risk", "Consequence of Injury", "Prevention"],
+          "headers": [
+            "Structure",
+            "Location / Risk",
+            "Consequence of Injury",
+            "Prevention"
+          ],
           "rows": [
-            ["Descending palatine artery", "Greater palatine canal; palatal mucoperiosteum", "Ischaemia / necrosis of mobilised maxilla", "Preserve palatal mucosa intact throughout"],
-            ["Infraorbital nerve (V2)", "4–7 mm below infraorbital rim", "Numbness upper lip, cheek, side of nose", "Keep horizontal cut ≥5 mm below infraorbital rim"],
-            ["Pterygoid venous plexus", "Pterygomaxillary area", "Significant haemorrhage", "Vasoconstrictor infiltration; pack and pressure"],
-            ["Internal maxillary artery", "Pterygopalatine fossa, superior to pterygomaxillary junction", "Catastrophic haemorrhage; possible fatal", "Curved osteotome placed accurately; avoid superior direction"],
-            ["Nasolacrimal duct", "Anteromedial maxillary wall to nasal cavity", "Epiphora (rare)", "Anteromedial osteotomy cut kept low on pyriform rim"],
-            ["Tooth roots", "Within 3–5 mm of osteotomy line", "Root damage; tooth devitalisation", "Cephalometric/CBCT confirmation of tooth root positions"]
+            [
+              "Descending palatine artery",
+              "Greater palatine canal; palatal mucoperiosteum",
+              "Ischaemia / necrosis of mobilised maxilla",
+              "Preserve palatal mucosa intact throughout"
+            ],
+            [
+              "Infraorbital nerve (V2)",
+              "4–7 mm below infraorbital rim",
+              "Numbness upper lip, cheek, side of nose",
+              "Keep horizontal cut ≥5 mm below infraorbital rim"
+            ],
+            [
+              "Pterygoid venous plexus",
+              "Pterygomaxillary area",
+              "Significant haemorrhage",
+              "Vasoconstrictor infiltration; pack and pressure"
+            ],
+            [
+              "Internal maxillary artery",
+              "Pterygopalatine fossa, superior to pterygomaxillary junction",
+              "Catastrophic haemorrhage; possible fatal",
+              "Curved osteotome placed accurately; avoid superior direction"
+            ],
+            [
+              "Nasolacrimal duct",
+              "Anteromedial maxillary wall to nasal cavity",
+              "Epiphora (rare)",
+              "Anteromedial osteotomy cut kept low on pyriform rim"
+            ],
+            [
+              "Tooth roots",
+              "Within 3–5 mm of osteotomy line",
+              "Root damage; tooth devitalisation",
+              "Cephalometric/CBCT confirmation of tooth root positions"
+            ]
           ]
         }
       ]
@@ -88,13 +123,43 @@
         {
           "type": "table",
           "title": "Le Fort I Movements and Clinical Applications",
-          "headers": ["Movement", "Bone Management", "Clinical Indication", "Key Consideration"],
+          "headers": [
+            "Movement",
+            "Bone Management",
+            "Clinical Indication",
+            "Key Consideration"
+          ],
           "rows": [
-            ["Anterior advancement", "No bone removal/addition", "Class III, cleft maxillary hypoplasia", "Max 8–10 mm; >10 mm = DO"],
-            ["Impaction (superior)", "Bone removed from sinus floor", "VME (gummy smile), AOB", "Alar cinch suture; nasal tip rotation"],
-            ["Inferior repositioning", "Bone graft fills gap", "Hypodivergent, short face", "Less stable; graft required"],
-            ["Cant correction", "Asymmetric impaction ± advancement", "Facial asymmetry, canted occlusal plane", "VSP essential for asymmetric planning"],
-            ["Setback (posterior)", "Not routinely performed", "Rarely needed", "Risk of vascular compromise; avoid >3 mm"]
+            [
+              "Anterior advancement",
+              "No bone removal/addition",
+              "Class III, cleft maxillary hypoplasia",
+              "Max 8–10 mm; >10 mm = DO"
+            ],
+            [
+              "Impaction (superior)",
+              "Bone removed from sinus floor",
+              "VME (gummy smile), AOB",
+              "Alar cinch suture; nasal tip rotation"
+            ],
+            [
+              "Inferior repositioning",
+              "Bone graft fills gap",
+              "Hypodivergent, short face",
+              "Less stable; graft required"
+            ],
+            [
+              "Cant correction",
+              "Asymmetric impaction ± advancement",
+              "Facial asymmetry, canted occlusal plane",
+              "VSP essential for asymmetric planning"
+            ],
+            [
+              "Setback (posterior)",
+              "Not routinely performed",
+              "Rarely needed",
+              "Risk of vascular compromise; avoid >3 mm"
+            ]
           ]
         },
         {

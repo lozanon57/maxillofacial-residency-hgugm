@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Describe the technique, indications, and expected outcomes of TMJ arthrocentesis",
     "Identify the arthroscopic anatomical landmarks and understand the diagnostic and operative arthroscopy repertoire",
-    "Compare the outcomes and indications for disc repositioning (eminectomy, discoplasty) versus discectomy",
-    "Describe the indications and contraindications for total TMJ replacement with stock and custom prostheses",
-    "Recognise complications of TMJ surgery including facial nerve injury, haemorrhage, and iatrogenic ankylosis",
-    "Understand the role of fat grafting, dermis grafting, and interpositional arthroplasty in TMJ reconstruction"
+    "Evaluate the outcomes and indications for disc repositioning (discoplasty, eminectomy) versus discectomy with or without interposition, differentiate when each surgical approach is appropriate, and critically appraise the supporting evidence",
+    "Analyze the indications and contraindications for total TMJ replacement (stock versus custom prostheses) and evaluate patient selection criteria, expected outcomes, and failure modes based on published prospective studies",
+    "Assess and manage complications of TMJ surgery (facial nerve injury, vascular haemorrhage, iatrogenic ankylosis, heterotopic bone formation, implant failure) by differentiating prevention strategies from stepwise intervention algorithms",
+    "Evaluate the evidence for biological interpositional materials (fat, dermis, temporalis fascia) in TMJ reconstruction, differentiating their indications, harvest techniques, and comparative outcomes in failed joint and ankylosis surgery"
   ],
   "sections": [
     {
@@ -49,16 +49,52 @@
         {
           "type": "table",
           "title": "TMJ Arthroscopy vs Arthrocentesis: Comparison",
-          "headers": ["Feature", "Arthrocentesis", "Arthroscopy"],
+          "headers": [
+            "Feature",
+            "Arthrocentesis",
+            "Arthroscopy"
+          ],
           "rows": [
-            ["Visualisation", "None — blind procedure", "Direct vision of joint compartment"],
-            ["Instrumentation", "Two needles only", "1.9-2.3 mm arthroscope + operative instruments"],
-            ["Anaesthesia", "LA ± sedation", "Usually GA; LA/sedation possible"],
-            ["Adhesion lysis", "Hydrostatic/mechanical (blind)", "Direct lysis under vision"],
-            ["Synovial biopsy", "Not possible", "Possible under direct vision"],
-            ["Disc repositioning", "Not possible", "Possible (suture technique)"],
-            ["Wilkes Stage indication", "III (acute); IV (adjunct)", "III-IV (preferred over arthrocentesis for adhesions)"],
-            ["Success rate (pain/function)", "85-90% acute DDwoR", ">85% Stage III; 70-80% Stage IV"]
+            [
+              "Visualisation",
+              "None — blind procedure",
+              "Direct vision of joint compartment"
+            ],
+            [
+              "Instrumentation",
+              "Two needles only",
+              "1.9-2.3 mm arthroscope + operative instruments"
+            ],
+            [
+              "Anaesthesia",
+              "LA ± sedation",
+              "Usually GA; LA/sedation possible"
+            ],
+            [
+              "Adhesion lysis",
+              "Hydrostatic/mechanical (blind)",
+              "Direct lysis under vision"
+            ],
+            [
+              "Synovial biopsy",
+              "Not possible",
+              "Possible under direct vision"
+            ],
+            [
+              "Disc repositioning",
+              "Not possible",
+              "Possible (suture technique)"
+            ],
+            [
+              "Wilkes Stage indication",
+              "III (acute); IV (adjunct)",
+              "III-IV (preferred over arthrocentesis for adhesions)"
+            ],
+            [
+              "Success rate (pain/function)",
+              "85-90% acute DDwoR",
+              ">85% Stage III; 70-80% Stage IV"
+            ]
           ]
         },
         {
@@ -96,15 +132,55 @@
         {
           "type": "table",
           "title": "Indications for TMJ TJR vs Conservative/Arthroscopic Management",
-          "headers": ["Clinical Scenario", "First-Line", "If Fails/Not Appropriate", "TMJ TJR Indication"],
+          "headers": [
+            "Clinical Scenario",
+            "First-Line",
+            "If Fails/Not Appropriate",
+            "TMJ TJR Indication"
+          ],
           "rows": [
-            ["Acute closed lock (DDwoR)", "Arthrocentesis", "Arthroscopy lysis and lavage", "Not indicated (disc surgery first)"],
-            ["Wilkes Stage III DDwoR", "Arthroscopy", "Open discoplasty", "Not first-line unless disc destroyed"],
-            ["Wilkes Stage V (perforated disc, OA)", "Arthroscopy + discectomy", "Open discectomy + interposition graft", "Yes — failed prior surgery or severe OA"],
-            ["RA/JIA condylar destruction", "Rheumatology DMARD control", "Splinting, arthrocentesis", "Yes — after confirmed disease remission"],
-            ["ICR with severe retrognathia", "Serial CBCT + splint 12-24 months", "Orthognathic surgery alone (if stable)", "Yes — if condyles insufficient to support orthognathics"],
-            ["TMJ ankylosis (bony)", "Gap arthroplasty", "Interpositional arthroplasty", "Yes — recurrent ankylosis or severe deformity"],
-            ["Condylar osteochondroma", "Resection of tumor", "N/A", "Yes — if condyle removed, TJR for reconstruction"]
+            [
+              "Acute closed lock (DDwoR)",
+              "Arthrocentesis",
+              "Arthroscopy lysis and lavage",
+              "Not indicated (disc surgery first)"
+            ],
+            [
+              "Wilkes Stage III DDwoR",
+              "Arthroscopy",
+              "Open discoplasty",
+              "Not first-line unless disc destroyed"
+            ],
+            [
+              "Wilkes Stage V (perforated disc, OA)",
+              "Arthroscopy + discectomy",
+              "Open discectomy + interposition graft",
+              "Yes — failed prior surgery or severe OA"
+            ],
+            [
+              "RA/JIA condylar destruction",
+              "Rheumatology DMARD control",
+              "Splinting, arthrocentesis",
+              "Yes — after confirmed disease remission"
+            ],
+            [
+              "ICR with severe retrognathia",
+              "Serial CBCT + splint 12-24 months",
+              "Orthognathic surgery alone (if stable)",
+              "Yes — if condyles insufficient to support orthognathics"
+            ],
+            [
+              "TMJ ankylosis (bony)",
+              "Gap arthroplasty",
+              "Interpositional arthroplasty",
+              "Yes — recurrent ankylosis or severe deformity"
+            ],
+            [
+              "Condylar osteochondroma",
+              "Resection of tumor",
+              "N/A",
+              "Yes — if condyle removed, TJR for reconstruction"
+            ]
           ]
         },
         {
@@ -142,14 +218,49 @@
         {
           "type": "table",
           "title": "TMJ Surgery Complications: Prevention and Management",
-          "headers": ["Complication", "Risk Procedure", "Prevention", "Management"],
+          "headers": [
+            "Complication",
+            "Risk Procedure",
+            "Prevention",
+            "Management"
+          ],
           "rows": [
-            ["Temporal branch facial nerve injury", "Open surgery, preauricular incision", "Stay deep to temporoparietal fascia; nerve monitoring", "Observation 3-6 months; most transient; physiotherapy"],
-            ["Middle meningeal artery injury", "Arthroscopy (medial penetration)", "Limit needle depth; direct laterally not medially", "Immediate neurosurgery referral; CT head"],
-            ["Superficial temporal artery injury", "Preauricular dissection", "Visualise artery before incision; ligate", "Direct pressure; ligation"],
-            ["Re-ankylosis (heterotopic ossification)", "Ankylosis release surgery", "Aggressive physiotherapy from week 1; interposition graft", "Surgical re-release if >2 episodes; consider TJR"],
-            ["Condylar sag", "BSSO, open TMJ surgery", "Manual condylar support during closure", "Repositioning if detected intraoperatively; revision if malocclusion"],
-            ["Prosthetic implant loosening/failure", "TMJ TJR", "Adequate bone stock; avoid in active infection/arthritis", "Revision surgery; exchange of components"]
+            [
+              "Temporal branch facial nerve injury",
+              "Open surgery, preauricular incision",
+              "Stay deep to temporoparietal fascia; nerve monitoring",
+              "Observation 3-6 months; most transient; physiotherapy"
+            ],
+            [
+              "Middle meningeal artery injury",
+              "Arthroscopy (medial penetration)",
+              "Limit needle depth; direct laterally not medially",
+              "Immediate neurosurgery referral; CT head"
+            ],
+            [
+              "Superficial temporal artery injury",
+              "Preauricular dissection",
+              "Visualise artery before incision; ligate",
+              "Direct pressure; ligation"
+            ],
+            [
+              "Re-ankylosis (heterotopic ossification)",
+              "Ankylosis release surgery",
+              "Aggressive physiotherapy from week 1; interposition graft",
+              "Surgical re-release if >2 episodes; consider TJR"
+            ],
+            [
+              "Condylar sag",
+              "BSSO, open TMJ surgery",
+              "Manual condylar support during closure",
+              "Repositioning if detected intraoperatively; revision if malocclusion"
+            ],
+            [
+              "Prosthetic implant loosening/failure",
+              "TMJ TJR",
+              "Adequate bone stock; avoid in active infection/arthritis",
+              "Revision surgery; exchange of components"
+            ]
           ]
         }
       ]

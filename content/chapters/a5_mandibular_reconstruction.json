@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Apply the Brown classification of mandibulectomy defects to guide reconstructive decision-making",
     "Describe the anatomy of the fibula free flap (FFF) including vascular pedicle, osteotomy planning, and soft tissue components",
-    "Explain the role of virtual surgical planning (VSP) and CAD/CAM cutting guides in achieving accurate mandibular reconstruction",
-    "Compare free flap options for mandibular reconstruction (fibula, DCIA, scapula, radial forearm) and select the appropriate flap based on defect type",
-    "Recognise and manage early and late complications of microvascular mandibular reconstruction including flap failure, hardware exposure, and osteoradionecrosis"
+    "Analyze the role of virtual surgical planning (VSP) and CAD/CAM cutting guides in achieving accurate 3D osteotomy and plate pre-bending, and evaluate the evidence for VSP over conventional planning in terms of surgical accuracy and outcomes",
+    "Evaluate and compare free flap options for mandibular reconstruction (fibula, DCIA, scapula, radial forearm) based on bone volume, vascular pedicle length, and donor-site morbidity, and justify flap selection for specific defect classes",
+    "Assess early and late complications of microvascular mandibular reconstruction (flap failure, hardware exposure, osteoradionecrosis, implant failure) and recommend evidence-based prevention and salvage strategies for each"
   ],
   "sections": [
     {
@@ -33,17 +33,67 @@
         {
           "type": "table",
           "title": "Brown Classification of Mandibulectomy Defects",
-          "headers": ["Class", "Bone Defect", "Key Landmark", "Reconstructive Priority"],
+          "headers": [
+            "Class",
+            "Bone Defect",
+            "Key Landmark",
+            "Reconstructive Priority"
+          ],
           "rows": [
-            ["I", "Marginal/alveolar — continuity maintained", "No symphysis or condyle loss", "Dental implants; no bone flap needed"],
-            ["II", "Hemi-mandibulectomy — condyle intact; chin preserved", "Up to contralateral canine", "Fibula FFF (2–3 osteotomies); preserve condyle"],
-            ["III", "Includes symphysis/chin point", "Crosses midline", "Fibula FFF (3–4 osteotomies); critical for facial contour"],
-            ["IV", "Condylectomy/disarticulation", "Includes condyle", "FFF + condylar reconstruction; total joint prosthesis"],
-            ["a", "No soft tissue", "Bone only", "Osseous flap only"],
-            ["b", "Oral mucosa defect", "Mucosal lining needed", "Skin paddle from FFF or RFFF for lining"],
-            ["c", "Facial skin defect", "External cover needed", "FFF + second skin paddle for external cover"],
-            ["d", "Oral + facial skin", "Both surfaces needed", "FFF + double skin paddle; chimeric flap"],
-            ["e", "Through-and-through", "Full-thickness cheek", "FFF + folded/chimeric flap; complex reconstruction"]
+            [
+              "I",
+              "Marginal/alveolar — continuity maintained",
+              "No symphysis or condyle loss",
+              "Dental implants; no bone flap needed"
+            ],
+            [
+              "II",
+              "Hemi-mandibulectomy — condyle intact; chin preserved",
+              "Up to contralateral canine",
+              "Fibula FFF (2–3 osteotomies); preserve condyle"
+            ],
+            [
+              "III",
+              "Includes symphysis/chin point",
+              "Crosses midline",
+              "Fibula FFF (3–4 osteotomies); critical for facial contour"
+            ],
+            [
+              "IV",
+              "Condylectomy/disarticulation",
+              "Includes condyle",
+              "FFF + condylar reconstruction; total joint prosthesis"
+            ],
+            [
+              "a",
+              "No soft tissue",
+              "Bone only",
+              "Osseous flap only"
+            ],
+            [
+              "b",
+              "Oral mucosa defect",
+              "Mucosal lining needed",
+              "Skin paddle from FFF or RFFF for lining"
+            ],
+            [
+              "c",
+              "Facial skin defect",
+              "External cover needed",
+              "FFF + second skin paddle for external cover"
+            ],
+            [
+              "d",
+              "Oral + facial skin",
+              "Both surfaces needed",
+              "FFF + double skin paddle; chimeric flap"
+            ],
+            [
+              "e",
+              "Through-and-through",
+              "Full-thickness cheek",
+              "FFF + folded/chimeric flap; complex reconstruction"
+            ]
           ]
         },
         {
@@ -65,14 +115,42 @@
         {
           "type": "table",
           "title": "Fibula Free Flap — Key Anatomical Parameters",
-          "headers": ["Parameter", "Detail", "Clinical Relevance"],
+          "headers": [
+            "Parameter",
+            "Detail",
+            "Clinical Relevance"
+          ],
           "rows": [
-            ["Pedicle artery", "Peroneal (fibular) artery", "Pedicle length 6–8 cm; diameter 2–2.5 mm"],
-            ["Venous drainage", "Venae comitantes (2) → peroneal vein", "Diameter 2–4 mm; good for anastomosis"],
-            ["Bone length available", "22–27 cm (usable ~14–18 cm)", "Preserves 6 cm distally + proximal neck"],
-            ["Skin paddle blood supply", "Septocutaneous / musculocutaneous perforators", "Preop perforator mapping with Doppler"],
-            ["Muscle component", "Flexor hallucis longus (optional)", "Provides bulk for dead space; increases pedicle length"],
-            ["Contraindications", "Peronea magna; severe PVD; prior fibula trauma", "Must confirm triple-vessel runoff preoperatively"]
+            [
+              "Pedicle artery",
+              "Peroneal (fibular) artery",
+              "Pedicle length 6–8 cm; diameter 2–2.5 mm"
+            ],
+            [
+              "Venous drainage",
+              "Venae comitantes (2) → peroneal vein",
+              "Diameter 2–4 mm; good for anastomosis"
+            ],
+            [
+              "Bone length available",
+              "22–27 cm (usable ~14–18 cm)",
+              "Preserves 6 cm distally + proximal neck"
+            ],
+            [
+              "Skin paddle blood supply",
+              "Septocutaneous / musculocutaneous perforators",
+              "Preop perforator mapping with Doppler"
+            ],
+            [
+              "Muscle component",
+              "Flexor hallucis longus (optional)",
+              "Provides bulk for dead space; increases pedicle length"
+            ],
+            [
+              "Contraindications",
+              "Peronea magna; severe PVD; prior fibula trauma",
+              "Must confirm triple-vessel runoff preoperatively"
+            ]
           ]
         },
         {
@@ -116,13 +194,55 @@
         {
           "type": "table",
           "title": "Free Flap Options for Mandibular Reconstruction — Comparison",
-          "headers": ["Flap", "Bone Available", "Soft Tissue", "Pedicle Length", "Best For", "Key Limitation"],
+          "headers": [
+            "Flap",
+            "Bone Available",
+            "Soft Tissue",
+            "Pedicle Length",
+            "Best For",
+            "Key Limitation"
+          ],
           "rows": [
-            ["Fibula (FFF)", "14–18 cm, multiple osteotomies", "Septocutaneous paddle up to 7×15 cm", "6–8 cm", "All Classes; gold standard", "Low height (12–14 mm); may need distraction for implants"],
-            ["DCIA (iliac crest)", "Large cross-section; 6–10 cm", "Limited internal oblique only", "3–5 cm", "Class II; large cross-section for implants", "Limited osteotomies; pedicle length; donor hernia"],
-            ["Scapula", "Lateral border 10–14 cm", "Excellent: chimeric with LD and serratus", "6–10 cm", "Complex 3D defects IId/e; poor vessels elsewhere", "No simultaneous 2-team; patient repositioning"],
-            ["RFFF (osteocutaneous)", "Radius up to 10 cm", "Excellent thin pliable skin", "15–20 cm", "Anterior small defects; soft tissue lining", "Fracture risk 10–25%; limited bone height"],
-            ["Vascularised fibula + DO", "Fibula + vertical distraction", "Skin paddle available", "6–8 cm", "Class II/III with implant rehabilitation", "Two-stage procedure; compliance required"]
+            [
+              "Fibula (FFF)",
+              "14–18 cm, multiple osteotomies",
+              "Septocutaneous paddle up to 7×15 cm",
+              "6–8 cm",
+              "All Classes; gold standard",
+              "Low height (12–14 mm); may need distraction for implants"
+            ],
+            [
+              "DCIA (iliac crest)",
+              "Large cross-section; 6–10 cm",
+              "Limited internal oblique only",
+              "3–5 cm",
+              "Class II; large cross-section for implants",
+              "Limited osteotomies; pedicle length; donor hernia"
+            ],
+            [
+              "Scapula",
+              "Lateral border 10–14 cm",
+              "Excellent: chimeric with LD and serratus",
+              "6–10 cm",
+              "Complex 3D defects IId/e; poor vessels elsewhere",
+              "No simultaneous 2-team; patient repositioning"
+            ],
+            [
+              "RFFF (osteocutaneous)",
+              "Radius up to 10 cm",
+              "Excellent thin pliable skin",
+              "15–20 cm",
+              "Anterior small defects; soft tissue lining",
+              "Fracture risk 10–25%; limited bone height"
+            ],
+            [
+              "Vascularised fibula + DO",
+              "Fibula + vertical distraction",
+              "Skin paddle available",
+              "6–8 cm",
+              "Class II/III with implant rehabilitation",
+              "Two-stage procedure; compliance required"
+            ]
           ]
         },
         {
@@ -160,15 +280,55 @@
         {
           "type": "table",
           "title": "Complications of Fibula Free Flap Mandibular Reconstruction",
-          "headers": ["Complication", "Incidence", "Timing", "Management"],
+          "headers": [
+            "Complication",
+            "Incidence",
+            "Timing",
+            "Management"
+          ],
           "rows": [
-            ["Flap failure (thrombosis)", "2–5%", "<72h (early); >72h (late)", "Immediate re-exploration; salvage 40–60% if <4h"],
-            ["Plate exposure", "10–20% at 5y", "Months–years", "Conservative to mucosal flap; plate removal if fused bone"],
-            ["Wound infection/dehiscence", "5–10%", "Days–weeks", "IV antibiotics; debridement; reclosure vs secondary healing"],
-            ["Donor site wound", "5–15%", "Weeks", "SSG to fibula donor; tibialis/peroneal tendon protected"],
-            ["Ankle instability", "1–3%", "Months", "Preserve 6 cm distal fibula and interosseous ligament"],
-            ["Hardware failure (plate fracture)", "3–8%", "Months–years", "Plate revision; ensure bone union before hardware removal"],
-            ["Implant loss in fibula", "5–15%", "Months–years post-implant", "Re-implantation; vertical DO if insufficient height"]
+            [
+              "Flap failure (thrombosis)",
+              "2–5%",
+              "<72h (early); >72h (late)",
+              "Immediate re-exploration; salvage 40–60% if <4h"
+            ],
+            [
+              "Plate exposure",
+              "10–20% at 5y",
+              "Months–years",
+              "Conservative to mucosal flap; plate removal if fused bone"
+            ],
+            [
+              "Wound infection/dehiscence",
+              "5–10%",
+              "Days–weeks",
+              "IV antibiotics; debridement; reclosure vs secondary healing"
+            ],
+            [
+              "Donor site wound",
+              "5–15%",
+              "Weeks",
+              "SSG to fibula donor; tibialis/peroneal tendon protected"
+            ],
+            [
+              "Ankle instability",
+              "1–3%",
+              "Months",
+              "Preserve 6 cm distal fibula and interosseous ligament"
+            ],
+            [
+              "Hardware failure (plate fracture)",
+              "3–8%",
+              "Months–years",
+              "Plate revision; ensure bone union before hardware removal"
+            ],
+            [
+              "Implant loss in fibula",
+              "5–15%",
+              "Months–years post-implant",
+              "Re-implantation; vertical DO if insufficient height"
+            ]
           ]
         },
         {

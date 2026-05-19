@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Define evidence-based medicine (EBM) and describe its application to OMFS clinical decision-making",
     "Classify study designs using the OCEBM hierarchy and identify the appropriate study type for each clinical question",
-    "Apply the GRADE framework to assess quality of evidence and strength of recommendations",
-    "Critically appraise a systematic review or RCT using a structured checklist",
-    "Identify common biases in OMFS research and describe methods to minimise them"
+    "Analyze a clinical question in OMFS using PICO framework, apply the GRADE framework to assess the quality of the supporting evidence, and justify the strength of the resulting clinical recommendation",
+    "Critically appraise a systematic review or RCT relevant to OMFS using structured checklists (PRISMA, CONSORT, Cochrane RoB tool), identify methodological strengths and weaknesses, and evaluate the applicability of findings to clinical practice",
+    "Evaluate the common biases in OMFS research (selection, performance, detection, reporting bias), differentiate their mechanisms, and assess their impact on the validity and applicability of surgical research findings"
   ],
   "sections": [
     {
@@ -49,15 +49,55 @@
         {
           "type": "table",
           "title": "OCEBM Levels of Evidence for Therapy Questions",
-          "headers": ["Level", "Study Design", "Characteristics", "Biases Limited"],
+          "headers": [
+            "Level",
+            "Study Design",
+            "Characteristics",
+            "Biases Limited"
+          ],
           "rows": [
-            ["1a", "Systematic review of RCTs", "Pooled analysis of multiple RCTs; meta-analysis", "Selection, confounding, chance"],
-            ["1b", "Individual RCT (with narrow CI)", "Randomised allocation; masked if possible", "Selection, confounding"],
-            ["2a", "Systematic review of cohort studies", "Pooled prospective comparative studies", "Confounding partially"],
-            ["2b", "Individual cohort study", "Prospective; comparison group present", "Confounding partially"],
-            ["3a/3b", "Systematic review / individual case-control", "Retrospective; cases vs controls", "Limited; recall bias, selection"],
-            ["4", "Case series", "No comparison group; descriptive only", "Minimal — high bias risk"],
-            ["5", "Expert opinion/mechanism-based reasoning", "Non-systematic; consensus or theory", "Not controlled"]
+            [
+              "1a",
+              "Systematic review of RCTs",
+              "Pooled analysis of multiple RCTs; meta-analysis",
+              "Selection, confounding, chance"
+            ],
+            [
+              "1b",
+              "Individual RCT (with narrow CI)",
+              "Randomised allocation; masked if possible",
+              "Selection, confounding"
+            ],
+            [
+              "2a",
+              "Systematic review of cohort studies",
+              "Pooled prospective comparative studies",
+              "Confounding partially"
+            ],
+            [
+              "2b",
+              "Individual cohort study",
+              "Prospective; comparison group present",
+              "Confounding partially"
+            ],
+            [
+              "3a/3b",
+              "Systematic review / individual case-control",
+              "Retrospective; cases vs controls",
+              "Limited; recall bias, selection"
+            ],
+            [
+              "4",
+              "Case series",
+              "No comparison group; descriptive only",
+              "Minimal — high bias risk"
+            ],
+            [
+              "5",
+              "Expert opinion/mechanism-based reasoning",
+              "Non-systematic; consensus or theory",
+              "Not controlled"
+            ]
           ]
         },
         {
@@ -79,14 +119,49 @@
         {
           "type": "table",
           "title": "GRADE Evidence Quality — Starting Points and Modifying Factors",
-          "headers": ["Starting Quality", "Downgrade Factors (each -1 or -2)", "Upgrade Factors (each +1 or +2)", "Final Quality"],
+          "headers": [
+            "Starting Quality",
+            "Downgrade Factors (each -1 or -2)",
+            "Upgrade Factors (each +1 or +2)",
+            "Final Quality"
+          ],
           "rows": [
-            ["RCTs → HIGH", "Risk of bias: serious or very serious", "Large effect (OR >2 or >5)", "HIGH / MODERATE / LOW"],
-            ["RCTs → HIGH", "Inconsistency: unexplained heterogeneity", "Dose-response gradient", "As above"],
-            ["RCTs → HIGH", "Indirectness: population/setting differences", "All residual confounding reduces effect", "As above"],
-            ["RCTs → HIGH", "Imprecision: few events, wide CI", "—", "As above"],
-            ["RCTs → HIGH", "Publication bias: asymmetric funnel plot", "—", "As above"],
-            ["Observational → LOW", "Same factors apply", "Large effect OR dose-response", "MODERATE (if upgraded)"]
+            [
+              "RCTs → HIGH",
+              "Risk of bias: serious or very serious",
+              "Large effect (OR >2 or >5)",
+              "HIGH / MODERATE / LOW"
+            ],
+            [
+              "RCTs → HIGH",
+              "Inconsistency: unexplained heterogeneity",
+              "Dose-response gradient",
+              "As above"
+            ],
+            [
+              "RCTs → HIGH",
+              "Indirectness: population/setting differences",
+              "All residual confounding reduces effect",
+              "As above"
+            ],
+            [
+              "RCTs → HIGH",
+              "Imprecision: few events, wide CI",
+              "—",
+              "As above"
+            ],
+            [
+              "RCTs → HIGH",
+              "Publication bias: asymmetric funnel plot",
+              "—",
+              "As above"
+            ],
+            [
+              "Observational → LOW",
+              "Same factors apply",
+              "Large effect OR dose-response",
+              "MODERATE (if upgraded)"
+            ]
           ]
         }
       ]
@@ -118,12 +193,37 @@
         {
           "type": "table",
           "title": "Heterogeneity in Meta-Analysis: I² Interpretation",
-          "headers": ["I² Value", "Heterogeneity Level", "Interpretation", "Action"],
+          "headers": [
+            "I² Value",
+            "Heterogeneity Level",
+            "Interpretation",
+            "Action"
+          ],
           "rows": [
-            ["0–25%", "Low", "Studies are consistent; pooling appropriate", "Fixed-effects or random-effects model"],
-            ["25–50%", "Moderate", "Some inconsistency; explore sources", "Random-effects model preferred; subgroup analysis"],
-            ["50–75%", "Substantial", "Marked inconsistency — explore causes", "Subgroup analysis; consider not pooling"],
-            [">75%", "High/Considerable", "Pooling likely inappropriate", "Narrative synthesis; investigate clinical/methodological heterogeneity"]
+            [
+              "0–25%",
+              "Low",
+              "Studies are consistent; pooling appropriate",
+              "Fixed-effects or random-effects model"
+            ],
+            [
+              "25–50%",
+              "Moderate",
+              "Some inconsistency; explore sources",
+              "Random-effects model preferred; subgroup analysis"
+            ],
+            [
+              "50–75%",
+              "Substantial",
+              "Marked inconsistency — explore causes",
+              "Subgroup analysis; consider not pooling"
+            ],
+            [
+              ">75%",
+              "High/Considerable",
+              "Pooling likely inappropriate",
+              "Narrative synthesis; investigate clinical/methodological heterogeneity"
+            ]
           ]
         },
         {

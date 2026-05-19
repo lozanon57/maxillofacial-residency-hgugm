@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Classify midface fractures using the Le Fort classification and recognise compound Le Fort patterns",
     "Describe the anatomy and classification of zygomatic complex fractures using the Zingg and Manson systems",
-    "Identify and manage orbital blowout fractures including indications for repair, timing, and surgical approaches",
-    "Recognise naso-orbital-ethmoidal (NOE) fractures, classify them using the Markowitz system, and understand the management of medial canthal tendon injuries",
-    "Apply the principles of 'outside-in' and 'bottom-up' reconstruction to complex midface fractures",
-    "Recognise post-traumatic enophthalmos, telecanthus, and late midface deformity"
+    "Analyze orbital blowout fracture parameters (defect size, enophthalmos, diplopia, entrapment) and evaluate the evidence-based indications, timing, and surgical approaches for repair versus observation",
+    "Evaluate naso-orbital-ethmoidal (NOE) fracture severity using the Markowitz classification, differentiate management of unilateral versus bilateral type I-III injuries, and justify canthopexy and nasal dorsum reconstruction strategies",
+    "Analyze complex midface fracture patterns and apply 'outside-in' and 'bottom-up' sequencing principles, justifying the reconstruction order and fixation hierarchy for combined Le Fort, ZMC, and NOE fractures",
+    "Assess post-traumatic midface deformities (enophthalmos, telecanthus, malar flattening) by distinguishing their causes, appropriate timing for secondary reconstruction, and evidence-based correction strategies"
   ],
   "sections": [
     {
@@ -33,11 +33,31 @@
         {
           "type": "table",
           "title": "Le Fort Classification Summary",
-          "headers": ["Type", "Fracture Level", "Structures Involved", "Clinical Feature"],
+          "headers": [
+            "Type",
+            "Fracture Level",
+            "Structures Involved",
+            "Clinical Feature"
+          ],
           "rows": [
-            ["Le Fort I", "Low maxillary (horizontal)", "Maxillary alveolus, nasal septum, pterygoid plates", "Mobile dental arch without midfacial skin movement; AOB"],
-            ["Le Fort II", "Pyramidal (infraorbital rim)", "Maxilla, nasal pyramid, infraorbital rim, pterygoid plates", "Middle third face movement; periorbital bruising; infraorbital nerve paraesthesia"],
-            ["Le Fort III", "Craniofacial dysjunction", "Entire midface from skull base; ZF suture, zygomatic arch, nasofrontal suture", "Dish-face deformity; CSF rhinorrhoea; elongated face; massive oedema"]
+            [
+              "Le Fort I",
+              "Low maxillary (horizontal)",
+              "Maxillary alveolus, nasal septum, pterygoid plates",
+              "Mobile dental arch without midfacial skin movement; AOB"
+            ],
+            [
+              "Le Fort II",
+              "Pyramidal (infraorbital rim)",
+              "Maxilla, nasal pyramid, infraorbital rim, pterygoid plates",
+              "Middle third face movement; periorbital bruising; infraorbital nerve paraesthesia"
+            ],
+            [
+              "Le Fort III",
+              "Craniofacial dysjunction",
+              "Entire midface from skull base; ZF suture, zygomatic arch, nasofrontal suture",
+              "Dish-face deformity; CSF rhinorrhoea; elongated face; massive oedema"
+            ]
           ]
         },
         {
@@ -59,12 +79,32 @@
         {
           "type": "table",
           "title": "Surgical Approaches for ZMC Fracture ORIF",
-          "headers": ["Structure", "Approach", "Fixation Points"],
+          "headers": [
+            "Structure",
+            "Approach",
+            "Fixation Points"
+          ],
           "rows": [
-            ["Zygomaticofrontal (ZF) suture", "Upper blepharoplasty or lateral eyebrow incision", "1-2 screws or miniplate; usually first point fixed"],
-            ["Infraorbital rim", "Lower eyelid (transconjunctival/subciliary) or vestibular incision", "Miniplate; also provides floor access"],
-            ["Zygomaticomaxillary (ZM) buttress", "Intraoral vestibular upper buccal sulcus", "L-plate or T-plate; strongest fixation point"],
-            ["Zygomatic arch", "Coronal (Gillies) or preauricular incision; or Gillies temporal lift via stab incision", "Reduction without fixation (Gillies); or direct plating via coronal approach"]
+            [
+              "Zygomaticofrontal (ZF) suture",
+              "Upper blepharoplasty or lateral eyebrow incision",
+              "1-2 screws or miniplate; usually first point fixed"
+            ],
+            [
+              "Infraorbital rim",
+              "Lower eyelid (transconjunctival/subciliary) or vestibular incision",
+              "Miniplate; also provides floor access"
+            ],
+            [
+              "Zygomaticomaxillary (ZM) buttress",
+              "Intraoral vestibular upper buccal sulcus",
+              "L-plate or T-plate; strongest fixation point"
+            ],
+            [
+              "Zygomatic arch",
+              "Coronal (Gillies) or preauricular incision; or Gillies temporal lift via stab incision",
+              "Reduction without fixation (Gillies); or direct plating via coronal approach"
+            ]
           ]
         },
         {
@@ -102,11 +142,31 @@
         {
           "type": "table",
           "title": "Markowitz NOE Fracture Classification and Management",
-          "headers": ["Type", "MCT Status", "Fracture Pattern", "Management"],
+          "headers": [
+            "Type",
+            "MCT Status",
+            "Fracture Pattern",
+            "Management"
+          ],
           "rows": [
-            ["Type I", "MCT on single intact fragment", "Single large central fragment", "ORIF of central fragment; restore MCT position by fixing fragment"],
-            ["Type II", "MCT on major comminuted fragment", "Comminuted but MCT on identifiable piece", "ORIF of fragments + transnasal canthopexy if fragment not stable"],
-            ["Type III", "MCT avulsed or on tiny fragments", "Severely comminuted; no identifiable MCT attachment", "Transnasal canthopexy wire through posterior lacrimal crest + bone grafting"]
+            [
+              "Type I",
+              "MCT on single intact fragment",
+              "Single large central fragment",
+              "ORIF of central fragment; restore MCT position by fixing fragment"
+            ],
+            [
+              "Type II",
+              "MCT on major comminuted fragment",
+              "Comminuted but MCT on identifiable piece",
+              "ORIF of fragments + transnasal canthopexy if fragment not stable"
+            ],
+            [
+              "Type III",
+              "MCT avulsed or on tiny fragments",
+              "Severely comminuted; no identifiable MCT attachment",
+              "Transnasal canthopexy wire through posterior lacrimal crest + bone grafting"
+            ]
           ]
         },
         {

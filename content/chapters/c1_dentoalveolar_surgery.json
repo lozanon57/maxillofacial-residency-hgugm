@@ -16,10 +16,10 @@
   "learning_objectives": [
     "Classify impacted third molars using the Pell-Gregory and Winter classification systems",
     "Identify radiographic signs of inferior alveolar nerve proximity on panoramic radiograph and CBCT",
-    "Plan surgical extraction using appropriate incision, osteotomy, and tooth sectioning techniques",
-    "Counsel patients regarding common complications: dry socket, IAN injury, lingual nerve injury, and infection",
-    "Manage postoperative complications including alveolar osteitis, haemorrhage, and trismus",
-    "Apply evidence-based indications for prophylactic removal versus retention of asymptomatic impacted third molars"
+    "Analyze a clinical and radiographic case of an impacted third molar and justify the selection of incision design, osteotomy extent, and tooth sectioning strategy based on anatomical risk and difficulty classification",
+    "Evaluate the pre-operative risk factors for inferior alveolar nerve and lingual nerve injury in third molar surgery and recommend evidence-based pre-operative counselling and risk mitigation strategies",
+    "Assess and manage postoperative complications of dentoalveolar surgery (alveolar osteitis, haemorrhage, trismus, nerve injury, oro-antral communication) by distinguishing their pathophysiology and applying stepwise management algorithms",
+    "Critically appraise the evidence for prophylactic removal versus retention of asymptomatic impacted third molars and justify clinical decision-making based on patient age, risk stratification, and current NICE and SIGN guideline recommendations"
   ],
   "sections": [
     {
@@ -33,12 +33,32 @@
         {
           "type": "table",
           "title": "Pell-Gregory Classification: Difficulty Assessment",
-          "headers": ["Pell-Gregory Class/Position", "Surgical Difficulty", "Primary Challenge"],
+          "headers": [
+            "Pell-Gregory Class/Position",
+            "Surgical Difficulty",
+            "Primary Challenge"
+          ],
           "rows": [
-            ["I-A", "Easiest", "Simple elevation; minimal bone removal"],
-            ["I-B or II-A", "Moderate", "Some bone removal needed; access adequate"],
-            ["II-B or III-A", "Difficult", "Significant bone removal; ramus overlap"],
-            ["III-B, II-C, III-C", "Most difficult", "Deep impaction; high IAN proximity risk; tooth sectioning usually required"]
+            [
+              "I-A",
+              "Easiest",
+              "Simple elevation; minimal bone removal"
+            ],
+            [
+              "I-B or II-A",
+              "Moderate",
+              "Some bone removal needed; access adequate"
+            ],
+            [
+              "II-B or III-A",
+              "Difficult",
+              "Significant bone removal; ramus overlap"
+            ],
+            [
+              "III-B, II-C, III-C",
+              "Most difficult",
+              "Deep impaction; high IAN proximity risk; tooth sectioning usually required"
+            ]
           ]
         },
         {
@@ -92,14 +112,49 @@
         {
           "type": "table",
           "title": "Coronectomy vs Full Extraction: Complication Comparison for High-Risk (IAN Contact) Cases",
-          "headers": ["Outcome", "Full Extraction", "Coronectomy", "Notes"],
+          "headers": [
+            "Outcome",
+            "Full Extraction",
+            "Coronectomy",
+            "Notes"
+          ],
           "rows": [
-            ["Temporary IAN injury", "0.5–8%", "0.5–1%", "Dramatically reduced with coronectomy for IAN-contact cases"],
-            ["Permanent IAN injury", "0.5–3%", "~0.1%", "Near elimination of permanent deficit risk"],
-            ["Dry socket (alveolar osteitis)", "25–35% (smokers); 5–15% (non-smokers)", "N/A (no extraction socket)", "Coronectomy eliminates dry socket risk"],
-            ["Root migration requiring removal", "N/A", "25–30% over 2 years", "Most migrations away from nerve; removal at 2 years usually safer"],
-            ["Secondary infection", "Low (healed socket)", "5–10%", "If infected, roots must be removed; local antibiotics may help initially"],
-            ["Patient satisfaction", "High (tooth removed)", "Moderate (tooth partially remains)", "Requires counselling about root retention and possible later procedure"]
+            [
+              "Temporary IAN injury",
+              "0.5–8%",
+              "0.5–1%",
+              "Dramatically reduced with coronectomy for IAN-contact cases"
+            ],
+            [
+              "Permanent IAN injury",
+              "0.5–3%",
+              "~0.1%",
+              "Near elimination of permanent deficit risk"
+            ],
+            [
+              "Dry socket (alveolar osteitis)",
+              "25–35% (smokers); 5–15% (non-smokers)",
+              "N/A (no extraction socket)",
+              "Coronectomy eliminates dry socket risk"
+            ],
+            [
+              "Root migration requiring removal",
+              "N/A",
+              "25–30% over 2 years",
+              "Most migrations away from nerve; removal at 2 years usually safer"
+            ],
+            [
+              "Secondary infection",
+              "Low (healed socket)",
+              "5–10%",
+              "If infected, roots must be removed; local antibiotics may help initially"
+            ],
+            [
+              "Patient satisfaction",
+              "High (tooth removed)",
+              "Moderate (tooth partially remains)",
+              "Requires counselling about root retention and possible later procedure"
+            ]
           ]
         },
         {
@@ -137,15 +192,47 @@
         {
           "type": "table",
           "title": "IAN vs Lingual Nerve Injury After Third Molar Surgery",
-          "headers": ["Parameter", "Inferior Alveolar Nerve", "Lingual Nerve"],
+          "headers": [
+            "Parameter",
+            "Inferior Alveolar Nerve",
+            "Lingual Nerve"
+          ],
           "rows": [
-            ["Territory affected", "Lower lip, chin, buccal gingiva (mental nerve)", "Anterior two-thirds tongue + lingual gingiva"],
-            ["Temporary incidence", "1–5% (standard); up to 20% (IAN contact)", "0.5–2%"],
-            ["Permanent incidence", "0.5–3%", "0.2–0.5%"],
-            ["Primary cause", "Root displacement into canal; bone removal trauma", "Lingual plate retractor; bone removal lingual plate"],
-            ["Natural history", "80–90% neuropraxia resolves by 3 months", "Similar; lingual dysaesthesia may be more distressing"],
-            ["Impact on QoL", "Lip numbness; difficulty with dental hygiene", "Taste loss + tongue hypoaesthesia; significant QoL impact"],
-            ["Surgical repair success", "Moderate (30–70% improvement)", "Higher success rate with early exploration (<3 months)"]
+            [
+              "Territory affected",
+              "Lower lip, chin, buccal gingiva (mental nerve)",
+              "Anterior two-thirds tongue + lingual gingiva"
+            ],
+            [
+              "Temporary incidence",
+              "1–5% (standard); up to 20% (IAN contact)",
+              "0.5–2%"
+            ],
+            [
+              "Permanent incidence",
+              "0.5–3%",
+              "0.2–0.5%"
+            ],
+            [
+              "Primary cause",
+              "Root displacement into canal; bone removal trauma",
+              "Lingual plate retractor; bone removal lingual plate"
+            ],
+            [
+              "Natural history",
+              "80–90% neuropraxia resolves by 3 months",
+              "Similar; lingual dysaesthesia may be more distressing"
+            ],
+            [
+              "Impact on QoL",
+              "Lip numbness; difficulty with dental hygiene",
+              "Taste loss + tongue hypoaesthesia; significant QoL impact"
+            ],
+            [
+              "Surgical repair success",
+              "Moderate (30–70% improvement)",
+              "Higher success rate with early exploration (<3 months)"
+            ]
           ]
         },
         {

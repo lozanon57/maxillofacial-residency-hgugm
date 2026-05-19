@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Define patient-reported outcomes (PROs) and distinguish them from clinician-reported outcomes",
     "Describe the key instruments used to measure oral health-related quality of life (OHRQoL) in OMFS",
-    "Apply the concept of minimal clinically important difference (MCID) to interpret PRO results",
-    "Explain core outcome sets (COS) and their importance in OMFS research standardisation",
-    "Critically evaluate the use of visual analogue scales, Likert scales, and global impression tools in OMFS"
+    "Analyze the psychometric properties (reliability, validity, responsiveness) of OHRQoL instruments used in OMFS (OHIP-14, UW-QOL, HEAD-Q) and evaluate their appropriateness for specific surgical populations and research questions",
+    "Evaluate and apply the concept of minimal clinically important difference (MCID) to interpret PRO results in OMFS trials, differentiating statistical significance from clinical meaningfulness in the context of sample size and effect size",
+    "Critically appraise the use of PRO measurement tools (VAS, Likert scales, global impression ratings) in OMFS research by evaluating their measurement properties, bias susceptibility, and fitness for purpose across different clinical contexts"
   ],
   "sections": [
     {
@@ -49,15 +49,63 @@
         {
           "type": "table",
           "title": "Key PRO Instruments in OMFS",
-          "headers": ["Instrument", "Items", "Domains", "OMFS Application", "MCID"],
+          "headers": [
+            "Instrument",
+            "Items",
+            "Domains",
+            "OMFS Application",
+            "MCID"
+          ],
           "rows": [
-            ["OHIP-14", "14", "7 OHRQoL dimensions", "Orthognathic, implants, fractures, TMJ", "~9 points"],
-            ["OHIP-49", "49", "7 OHRQoL dimensions", "Research; comprehensive assessment", "Not well-defined"],
-            ["FACE-Q", "Multiple scales", "Aesthetics, QoL, adverse effects", "Rhinoplasty, orthognathic, craniofacial", "Scale-specific"],
-            ["JFLS-20", "20", "Jaw function (mastication, mobility, verbal)", "TMJ, orthognathic, fractures", "7 points (JFLS)"],
-            ["EQ-5D", "5 + VAS", "Generic HRQoL: mobility, self-care, usual activities, pain, anxiety", "Health economic evaluations", "0.07 utility"],
-            ["VAS Pain (0–100 mm)", "1", "Pain intensity", "All pain-related OMFS", "13–15 mm"],
-            ["GAD-7 / PHQ-9", "7 / 9", "Anxiety / Depression", "Psychosocial OMFS outcomes", "5 points (PHQ-9)"]
+            [
+              "OHIP-14",
+              "14",
+              "7 OHRQoL dimensions",
+              "Orthognathic, implants, fractures, TMJ",
+              "~9 points"
+            ],
+            [
+              "OHIP-49",
+              "49",
+              "7 OHRQoL dimensions",
+              "Research; comprehensive assessment",
+              "Not well-defined"
+            ],
+            [
+              "FACE-Q",
+              "Multiple scales",
+              "Aesthetics, QoL, adverse effects",
+              "Rhinoplasty, orthognathic, craniofacial",
+              "Scale-specific"
+            ],
+            [
+              "JFLS-20",
+              "20",
+              "Jaw function (mastication, mobility, verbal)",
+              "TMJ, orthognathic, fractures",
+              "7 points (JFLS)"
+            ],
+            [
+              "EQ-5D",
+              "5 + VAS",
+              "Generic HRQoL: mobility, self-care, usual activities, pain, anxiety",
+              "Health economic evaluations",
+              "0.07 utility"
+            ],
+            [
+              "VAS Pain (0–100 mm)",
+              "1",
+              "Pain intensity",
+              "All pain-related OMFS",
+              "13–15 mm"
+            ],
+            [
+              "GAD-7 / PHQ-9",
+              "7 / 9",
+              "Anxiety / Depression",
+              "Psychosocial OMFS outcomes",
+              "5 points (PHQ-9)"
+            ]
           ]
         }
       ]
@@ -89,14 +137,42 @@
         {
           "type": "table",
           "title": "Generic vs Condition-Specific PRO Instruments — Comparison",
-          "headers": ["Feature", "Generic (EQ-5D)", "Condition-Specific (OHIP-14)"],
+          "headers": [
+            "Feature",
+            "Generic (EQ-5D)",
+            "Condition-Specific (OHIP-14)"
+          ],
           "rows": [
-            ["Comparison across diseases", "Yes — enables cross-condition comparison", "No — specific to oral/maxillofacial domain"],
-            ["Sensitivity to oral change", "Low — captures broad function only", "High — designed for oral health impact"],
-            ["Health economic evaluation", "Yes — produces QALYs for NICE", "No — cannot be converted to QALYs directly"],
-            ["Validation in OMFS", "Moderate — not specifically validated for OMFS", "Extensive — validated in orthognathic, TMJ, implants"],
-            ["Respondent burden", "Low — 5 items", "Moderate — 14 items"],
-            ["Recommended in OMFS trials", "Yes (for HE component)", "Yes (as primary PRO)"]
+            [
+              "Comparison across diseases",
+              "Yes — enables cross-condition comparison",
+              "No — specific to oral/maxillofacial domain"
+            ],
+            [
+              "Sensitivity to oral change",
+              "Low — captures broad function only",
+              "High — designed for oral health impact"
+            ],
+            [
+              "Health economic evaluation",
+              "Yes — produces QALYs for NICE",
+              "No — cannot be converted to QALYs directly"
+            ],
+            [
+              "Validation in OMFS",
+              "Moderate — not specifically validated for OMFS",
+              "Extensive — validated in orthognathic, TMJ, implants"
+            ],
+            [
+              "Respondent burden",
+              "Low — 5 items",
+              "Moderate — 14 items"
+            ],
+            [
+              "Recommended in OMFS trials",
+              "Yes (for HE component)",
+              "Yes (as primary PRO)"
+            ]
           ]
         }
       ]

@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Apply the Brown and Shaw classification of maxillectomy defects (classes I–IV with subdivisions) to guide reconstructive decision-making",
     "Compare obturator prostheses versus free flap reconstruction for maxillary defects based on defect class, patient factors, and functional outcomes",
-    "Describe the anatomy of the soft palate and its role in velopharyngeal function after maxillectomy",
-    "Identify appropriate free flap options for maxillary reconstruction (ALT, RFFF, rectus abdominis, fibula, iliac crest) and select based on defect",
-    "Recognise the principles of orbital exenteration and orbital reconstruction"
+    "Analyze the anatomy of the soft palate and the consequences of velopharyngeal insufficiency after maxillectomy, and differentiate prosthetic from surgical approaches to speech and swallowing rehabilitation",
+    "Evaluate and select appropriate free flap options for maxillary reconstruction (ALT, RFFF, rectus abdominis, fibula) based on Brown-Shaw defect class, orbital floor integrity, and soft tissue volume requirements",
+    "Assess the oncological and functional indications for orbital exenteration versus orbital preservation in maxillary malignancy, and justify the reconstructive strategy for each scenario based on defect extent and patient-specific goals"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Brown Classification of Maxillectomy Defects",
-          "headers": ["Class", "Vertical Extent", "Orbit", "Key Functional Consequence"],
+          "headers": [
+            "Class",
+            "Vertical Extent",
+            "Orbit",
+            "Key Functional Consequence"
+          ],
           "rows": [
-            ["I", "Infrastructure — alveolus, hard palate, +/- posterior wall; floor of nose preserved", "Not involved", "Oral-antral communication; dental deficiency"],
-            ["II", "Low maxillectomy — one side of palate; orbital floor intact", "Not involved", "Oral-nasal communication; dental/palatal function"],
-            ["III", "Total maxillectomy — orbital floor removed; orbital contents preserved", "Floor removed, orbit preserved", "Enophthalmos; diplopia; orbital support loss"],
-            ["IV", "Total maxillectomy + orbital exenteration", "Eye and contents removed", "Blindness; major facial disfigurement"],
-            ["a", "Unilateral (to midline)", "—", "Obturator feasible in Class I–IIa"],
-            ["b", "Bilateral or crosses midline", "—", "Free flap reconstruction preferred"]
+            [
+              "I",
+              "Infrastructure — alveolus, hard palate, +/- posterior wall; floor of nose preserved",
+              "Not involved",
+              "Oral-antral communication; dental deficiency"
+            ],
+            [
+              "II",
+              "Low maxillectomy — one side of palate; orbital floor intact",
+              "Not involved",
+              "Oral-nasal communication; dental/palatal function"
+            ],
+            [
+              "III",
+              "Total maxillectomy — orbital floor removed; orbital contents preserved",
+              "Floor removed, orbit preserved",
+              "Enophthalmos; diplopia; orbital support loss"
+            ],
+            [
+              "IV",
+              "Total maxillectomy + orbital exenteration",
+              "Eye and contents removed",
+              "Blindness; major facial disfigurement"
+            ],
+            [
+              "a",
+              "Unilateral (to midline)",
+              "—",
+              "Obturator feasible in Class I–IIa"
+            ],
+            [
+              "b",
+              "Bilateral or crosses midline",
+              "—",
+              "Free flap reconstruction preferred"
+            ]
           ]
         },
         {
@@ -78,14 +113,49 @@
         {
           "type": "table",
           "title": "Free Flap Selection for Maxillary Reconstruction",
-          "headers": ["Flap", "Components", "Best For", "Limitation"],
+          "headers": [
+            "Flap",
+            "Components",
+            "Best For",
+            "Limitation"
+          ],
           "rows": [
-            ["ALT (fasciocutaneous)", "Skin paddle + VL muscle option", "Brown IIb/III; versatile lining", "Limited bone (no hard palate bony support)"],
-            ["Fibula (osteocutaneous)", "Bone + skin paddle", "IIb/III requiring alveolar bone + implants", "Complex inset; limited soft tissue bulk"],
-            ["RFFF", "Thin fasciocutaneous", "I–IIa soft tissue lining", "No bone; radius fracture risk if osteocutaneous"],
-            ["Rectus abdominis", "Muscle + skin", "Large III/IV; orbital fill", "Bulk may compromise speech; abdominal morbidity"],
-            ["DCIA (iliac crest)", "Bone with full height", "Posterior alveolar reconstruction", "Short pedicle; limited soft tissue"],
-            ["Scapula (chimeric)", "Bone + parascapular skin + LD muscle", "Complex IIId/IV with massive loss", "No simultaneous harvest; repositioning needed"]
+            [
+              "ALT (fasciocutaneous)",
+              "Skin paddle + VL muscle option",
+              "Brown IIb/III; versatile lining",
+              "Limited bone (no hard palate bony support)"
+            ],
+            [
+              "Fibula (osteocutaneous)",
+              "Bone + skin paddle",
+              "IIb/III requiring alveolar bone + implants",
+              "Complex inset; limited soft tissue bulk"
+            ],
+            [
+              "RFFF",
+              "Thin fasciocutaneous",
+              "I–IIa soft tissue lining",
+              "No bone; radius fracture risk if osteocutaneous"
+            ],
+            [
+              "Rectus abdominis",
+              "Muscle + skin",
+              "Large III/IV; orbital fill",
+              "Bulk may compromise speech; abdominal morbidity"
+            ],
+            [
+              "DCIA (iliac crest)",
+              "Bone with full height",
+              "Posterior alveolar reconstruction",
+              "Short pedicle; limited soft tissue"
+            ],
+            [
+              "Scapula (chimeric)",
+              "Bone + parascapular skin + LD muscle",
+              "Complex IIId/IV with massive loss",
+              "No simultaneous harvest; repositioning needed"
+            ]
           ]
         },
         {
@@ -123,12 +193,37 @@
         {
           "type": "table",
           "title": "Orbital Complications After Class III Maxillectomy",
-          "headers": ["Complication", "Mechanism", "Prevention", "Management"],
+          "headers": [
+            "Complication",
+            "Mechanism",
+            "Prevention",
+            "Management"
+          ],
           "rows": [
-            ["Enophthalmos", "Globe descends into maxillary defect", "Accurate orbital floor reconstruction", "Titanium mesh revision; fat graft"],
-            ["Diplopia", "Extraocular muscle tethering", "Reconstruct at correct horizontal", "Strabismus surgery; prism glasses"],
-            ["Epiphora", "Nasolacrimal obstruction", "Preserve nasolacrimal duct when possible", "DCR (dacryocystorhinostomy)"],
-            ["Lower lid ectropion", "Scar contracture pulling lid down", "Tension-free lower lid closure", "Full-thickness skin graft; canthopexy"]
+            [
+              "Enophthalmos",
+              "Globe descends into maxillary defect",
+              "Accurate orbital floor reconstruction",
+              "Titanium mesh revision; fat graft"
+            ],
+            [
+              "Diplopia",
+              "Extraocular muscle tethering",
+              "Reconstruct at correct horizontal",
+              "Strabismus surgery; prism glasses"
+            ],
+            [
+              "Epiphora",
+              "Nasolacrimal obstruction",
+              "Preserve nasolacrimal duct when possible",
+              "DCR (dacryocystorhinostomy)"
+            ],
+            [
+              "Lower lid ectropion",
+              "Scar contracture pulling lid down",
+              "Tension-free lower lid closure",
+              "Full-thickness skin graft; canthopexy"
+            ]
           ]
         }
       ]

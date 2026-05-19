@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Define hemifacial microsomia and describe the spectrum of the condition using OMENS-Plus classification",
     "Classify mandibular hypoplasia in hemifacial microsomia using the Pruzansky-Kaban system",
-    "Compare early distraction osteogenesis versus late orthognathic surgery in HFM management",
-    "Describe the indications and technique of total joint replacement (TJR) in the absence of a condyle",
-    "Outline the multidisciplinary management plan from birth to skeletal maturity in a child with HFM"
+    "Evaluate early distraction osteogenesis versus late orthognathic surgery in hemifacial microsomia management, differentiating indications by Pruzansky-Kaban grade, airway status, and age, and critically appraising the evidence for each approach",
+    "Analyze the indications, surgical technique, and outcomes of total joint replacement (TJR) in severe hemifacial microsomia (Pruzansky-Kaban type III), differentiating stock from custom prostheses and evaluating evidence for growth in the operated side",
+    "Evaluate and recommend the multidisciplinary management plan from birth to skeletal maturity in a child with HFM by integrating surgical timing, orthodontic intervention, speech therapy, and the impact of treatment decisions on long-term skeletal and facial outcomes"
   ],
   "sections": [
     {
@@ -49,13 +49,49 @@
         {
           "type": "table",
           "title": "OMENS-Plus Classification — Domains and Scoring",
-          "headers": ["Domain", "Grade 0", "Grade 1", "Grade 2", "Grade 3"],
+          "headers": [
+            "Domain",
+            "Grade 0",
+            "Grade 1",
+            "Grade 2",
+            "Grade 3"
+          ],
           "rows": [
-            ["O — Orbital", "Normal", "Mild volume deficit", "Moderate dystopia/deficit", "Severe volume deficit/absent orbit"],
-            ["M — Mandibular (Pruzansky-Kaban)", "Normal", "Pruzansky I: small but normal condyle + ramus", "IIA: flat condyle, functional; IIB: no functional TMJ", "III: no condyle, ramus, or TMJ"],
-            ["E — Ear", "Normal", "Small pinna, normal EAC", "Lobule remnant only, absent EAC", "Absent pinna (anotia)"],
-            ["N — Nerve", "Normal", "Mild paresis, 1–2 branches", "Moderate paresis, >2 branches", "Complete unilateral CN VII palsy"],
-            ["S — Soft tissue", "Normal", "Minimal deficit; subcutaneous only", "Moderate deficit; involving muscle", "Severe deficit; major soft tissue loss"]
+            [
+              "O — Orbital",
+              "Normal",
+              "Mild volume deficit",
+              "Moderate dystopia/deficit",
+              "Severe volume deficit/absent orbit"
+            ],
+            [
+              "M — Mandibular (Pruzansky-Kaban)",
+              "Normal",
+              "Pruzansky I: small but normal condyle + ramus",
+              "IIA: flat condyle, functional; IIB: no functional TMJ",
+              "III: no condyle, ramus, or TMJ"
+            ],
+            [
+              "E — Ear",
+              "Normal",
+              "Small pinna, normal EAC",
+              "Lobule remnant only, absent EAC",
+              "Absent pinna (anotia)"
+            ],
+            [
+              "N — Nerve",
+              "Normal",
+              "Mild paresis, 1–2 branches",
+              "Moderate paresis, >2 branches",
+              "Complete unilateral CN VII palsy"
+            ],
+            [
+              "S — Soft tissue",
+              "Normal",
+              "Minimal deficit; subcutaneous only",
+              "Moderate deficit; involving muscle",
+              "Severe deficit; major soft tissue loss"
+            ]
           ]
         },
         {
@@ -77,12 +113,42 @@
         {
           "type": "table",
           "title": "Management by Pruzansky-Kaban Type",
-          "headers": ["Type", "Anatomy", "Primary Management", "Timing", "Notes"],
+          "headers": [
+            "Type",
+            "Anatomy",
+            "Primary Management",
+            "Timing",
+            "Notes"
+          ],
           "rows": [
-            ["Type I", "Small condyle + ramus, functional joint", "Orthodontics ± orthognathic surgery at maturity", "Skeletal maturity", "Often orthodontic camouflage sufficient"],
-            ["Type IIA", "Flat condyle, functional joint", "Early DO if severe OR orthognathic at maturity", "Growth (DO) or maturity (orthognathic)", "Monitor for worsening asymmetry"],
-            ["Type IIB", "Condyle present, no functional TMJ", "Early DO; alloplastic TJR at maturity", "DO in growth; TJR at maturity", "TMJ absent → DO + TJR later"],
-            ["Type III", "No condyle, ramus, or TMJ", "CCG in growing child; TJR at skeletal maturity", "CCG during growth; TJR >18 years", "CCG growth unpredictable; TJR more reliable at maturity"]
+            [
+              "Type I",
+              "Small condyle + ramus, functional joint",
+              "Orthodontics ± orthognathic surgery at maturity",
+              "Skeletal maturity",
+              "Often orthodontic camouflage sufficient"
+            ],
+            [
+              "Type IIA",
+              "Flat condyle, functional joint",
+              "Early DO if severe OR orthognathic at maturity",
+              "Growth (DO) or maturity (orthognathic)",
+              "Monitor for worsening asymmetry"
+            ],
+            [
+              "Type IIB",
+              "Condyle present, no functional TMJ",
+              "Early DO; alloplastic TJR at maturity",
+              "DO in growth; TJR at maturity",
+              "TMJ absent → DO + TJR later"
+            ],
+            [
+              "Type III",
+              "No condyle, ramus, or TMJ",
+              "CCG in growing child; TJR at skeletal maturity",
+              "CCG during growth; TJR >18 years",
+              "CCG growth unpredictable; TJR more reliable at maturity"
+            ]
           ]
         },
         {
@@ -120,12 +186,42 @@
         {
           "type": "table",
           "title": "Auricular Reconstruction Options in HFM",
-          "headers": ["Method", "Age", "Staged", "Durability", "Limitation"],
+          "headers": [
+            "Method",
+            "Age",
+            "Staged",
+            "Durability",
+            "Limitation"
+          ],
           "rows": [
-            ["Autologous rib cartilage (Nagata/Brent)", "6–10 years", "2–3 stages", "Excellent (lifelong)", "Donor site morbidity; specialist skill required"],
-            ["Alloplastic (Medpor)", "3–5 years", "1–2 stages", "Good (risk of extrusion 5–15%)", "Extrusion over time; not lifelong reliability"],
-            ["Auricular prosthesis + BAHA implants", "Any age (BAHA from infancy)", "1 stage (implant), prosthesis replaced every 2–3 years", "Good hearing rehab; prosthesis less durable", "Prosthesis replacement; non-surgical option"],
-            ["Observation + BAHA (soft-band)", "From birth", "Non-surgical", "n/a", "No aesthetic correction; only hearing"]
+            [
+              "Autologous rib cartilage (Nagata/Brent)",
+              "6–10 years",
+              "2–3 stages",
+              "Excellent (lifelong)",
+              "Donor site morbidity; specialist skill required"
+            ],
+            [
+              "Alloplastic (Medpor)",
+              "3–5 years",
+              "1–2 stages",
+              "Good (risk of extrusion 5–15%)",
+              "Extrusion over time; not lifelong reliability"
+            ],
+            [
+              "Auricular prosthesis + BAHA implants",
+              "Any age (BAHA from infancy)",
+              "1 stage (implant), prosthesis replaced every 2–3 years",
+              "Good hearing rehab; prosthesis less durable",
+              "Prosthesis replacement; non-surgical option"
+            ],
+            [
+              "Observation + BAHA (soft-band)",
+              "From birth",
+              "Non-surgical",
+              "n/a",
+              "No aesthetic correction; only hearing"
+            ]
           ]
         },
         {
@@ -163,17 +259,67 @@
         {
           "type": "table",
           "title": "HFM Management Timeline from Birth to Adulthood",
-          "headers": ["Age", "Assessment/Intervention", "Specialty", "Goal"],
+          "headers": [
+            "Age",
+            "Assessment/Intervention",
+            "Specialty",
+            "Goal"
+          ],
           "rows": [
-            ["Birth", "OMENS-Plus classification, audiological screening, ophthalmology", "MDT", "Baseline documentation, early hearing rehab"],
-            ["0–6 months", "Soft-band BAHA if conductive hearing loss", "Audiology/ENT", "Language development"],
-            ["6 months–3 years", "Orthodontic monitoring, feeding assessment, corneal protection if CN VII palsy", "Orthodontics, ophthalmology", "Prevent secondary deformity"],
-            ["4–5 years", "Osseointegrated BAHA implant; consider ear reconstruction planning", "ENT/OMFS", "Permanent hearing device"],
-            ["5–10 years", "Mandibular DO if indicated (Type IIA/IIB); CCG if Type III", "OMFS", "Skeletal symmetry during growth"],
-            ["6–10 years", "Autologous rib cartilage auricular reconstruction (Nagata/Brent)", "OMFS/Plastic Surgery", "Ear aesthetics"],
-            ["Adolescence (growth monitoring)", "Serial cephalometrics, OPT, orthodontic preparation", "Orthodontics/OMFS", "Plan definitive orthognathic surgery"],
-            ["Skeletal maturity (17–19 years)", "Le Fort I ± sagittal split ± TJR (VSP-guided); soft tissue fat grafting", "OMFS", "Definitive skeletal correction"],
-            ["Post-orthognathic", "Rhinoplasty if needed; further fat grafting for soft tissue", "OMFS/Plastic Surgery", "Final aesthetic refinement"]
+            [
+              "Birth",
+              "OMENS-Plus classification, audiological screening, ophthalmology",
+              "MDT",
+              "Baseline documentation, early hearing rehab"
+            ],
+            [
+              "0–6 months",
+              "Soft-band BAHA if conductive hearing loss",
+              "Audiology/ENT",
+              "Language development"
+            ],
+            [
+              "6 months–3 years",
+              "Orthodontic monitoring, feeding assessment, corneal protection if CN VII palsy",
+              "Orthodontics, ophthalmology",
+              "Prevent secondary deformity"
+            ],
+            [
+              "4–5 years",
+              "Osseointegrated BAHA implant; consider ear reconstruction planning",
+              "ENT/OMFS",
+              "Permanent hearing device"
+            ],
+            [
+              "5–10 years",
+              "Mandibular DO if indicated (Type IIA/IIB); CCG if Type III",
+              "OMFS",
+              "Skeletal symmetry during growth"
+            ],
+            [
+              "6–10 years",
+              "Autologous rib cartilage auricular reconstruction (Nagata/Brent)",
+              "OMFS/Plastic Surgery",
+              "Ear aesthetics"
+            ],
+            [
+              "Adolescence (growth monitoring)",
+              "Serial cephalometrics, OPT, orthodontic preparation",
+              "Orthodontics/OMFS",
+              "Plan definitive orthognathic surgery"
+            ],
+            [
+              "Skeletal maturity (17–19 years)",
+              "Le Fort I ± sagittal split ± TJR (VSP-guided); soft tissue fat grafting",
+              "OMFS",
+              "Definitive skeletal correction"
+            ],
+            [
+              "Post-orthognathic",
+              "Rhinoplasty if needed; further fat grafting for soft tissue",
+              "OMFS/Plastic Surgery",
+              "Final aesthetic refinement"
+            ]
           ]
         }
       ]

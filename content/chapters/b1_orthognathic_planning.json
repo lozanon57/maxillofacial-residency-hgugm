@@ -13,13 +13,13 @@
     "Steinhuber T et al. Virtual Surgical Planning in Orthognathic Surgery — Systematic Review (J Oral Maxillofac Surg 2018)",
     "Baan F et al. Accuracy of Virtual Surgical Planning for Orthognathic Surgery (J Craniomaxillofac Surg 2016)",
     "Nadjmi N. Fully Personalized Orthognathic Surgery Planning (J Craniomaxillofac Surg 2015)"
-          ],
+  ],
   "learning_objectives": [
     "Interpret a lateral cephalometric radiograph, identify key cephalometric landmarks, and perform standard angular and linear measurements (SNA, SNB, ANB, Wits appraisal)",
     "Classify skeletal discrepancies (Class I, II, III) and vertical pattern (hyperdivergent, hypodivergent) based on cephalometric analysis",
-    "Describe the phases of orthognathic treatment (pre-surgical orthodontics, surgery, post-surgical orthodontics) and the rationale for each",
-    "Explain the role of virtual surgical planning (VSP) and its advantages over traditional model surgery and facebow transfer",
-    "Determine patient selection criteria for orthognathic surgery and describe the combined orthodontic-surgical team approach"
+    "Analyze the phases of orthognathic treatment (pre-surgical orthodontics, surgery, post-surgical orthodontics) and differentiate surgery-first protocols from conventional sequencing, citing evidence for appropriate patient selection",
+    "Evaluate the accuracy and clinical outcomes of virtual surgical planning (VSP) compared with traditional model surgery, and justify when VSP is cost-effective and when conventional planning remains preferable",
+    "Assess patient-specific selection criteria for orthognathic surgery and recommend the combined orthodontic-surgical strategy, including expected post-surgical stability and relapse risk for each class of skeletal discrepancy"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Indications for Orthognathic Surgery by Skeletal Deformity Type",
-          "headers": ["Deformity", "Definition", "Surgery", "Indication"],
+          "headers": [
+            "Deformity",
+            "Definition",
+            "Surgery",
+            "Indication"
+          ],
           "rows": [
-            ["Skeletal Class III", "ANB <0°; mandibular prognathism or maxillary hypoplasia", "BSSO setback ± Le Fort I advancement", "ANB < −3°; functional malocclusion; aesthetics"],
-            ["Skeletal Class II", "ANB >4°; mandibular retrognathia", "BSSO advancement ± genioplasty", "ANB >6°; deep bite; chin deficiency"],
-            ["Anterior open bite", "Lack of anterior occlusion; hyperdivergent", "Le Fort I impact + BSSO ± genioplasty", "AOB >3 mm; skeletal etiology; failed orthodontics"],
-            ["Vertical maxillary excess", "Excessive gingival show (>2 mm at repose)", "Le Fort I impaction", "Gingival show >3–4 mm; lower face height excess"],
-            ["Asymmetry", "Dental midline deviation; cant of occlusal plane", "Le Fort I ± unilateral BSSO ± genioplasty", "Facial midline deviation >3 mm; functional asymmetry"],
-            ["OSA (severe)", "AHI >30; refractory to CPAP", "Maxillomandibular advancement (MMA)", "AHI >30; CPAP failure; skeletal deficiency"]
+            [
+              "Skeletal Class III",
+              "ANB <0°; mandibular prognathism or maxillary hypoplasia",
+              "BSSO setback ± Le Fort I advancement",
+              "ANB < −3°; functional malocclusion; aesthetics"
+            ],
+            [
+              "Skeletal Class II",
+              "ANB >4°; mandibular retrognathia",
+              "BSSO advancement ± genioplasty",
+              "ANB >6°; deep bite; chin deficiency"
+            ],
+            [
+              "Anterior open bite",
+              "Lack of anterior occlusion; hyperdivergent",
+              "Le Fort I impact + BSSO ± genioplasty",
+              "AOB >3 mm; skeletal etiology; failed orthodontics"
+            ],
+            [
+              "Vertical maxillary excess",
+              "Excessive gingival show (>2 mm at repose)",
+              "Le Fort I impaction",
+              "Gingival show >3–4 mm; lower face height excess"
+            ],
+            [
+              "Asymmetry",
+              "Dental midline deviation; cant of occlusal plane",
+              "Le Fort I ± unilateral BSSO ± genioplasty",
+              "Facial midline deviation >3 mm; functional asymmetry"
+            ],
+            [
+              "OSA (severe)",
+              "AHI >30; refractory to CPAP",
+              "Maxillomandibular advancement (MMA)",
+              "AHI >30; CPAP failure; skeletal deficiency"
+            ]
           ]
         },
         {
@@ -62,15 +97,55 @@
         {
           "type": "table",
           "title": "Key Cephalometric Values and Clinical Interpretation",
-          "headers": ["Measurement", "Normal Value", "Increased", "Decreased"],
+          "headers": [
+            "Measurement",
+            "Normal Value",
+            "Increased",
+            "Decreased"
+          ],
           "rows": [
-            ["SNA", "82° ± 2°", "Maxillary prognathism", "Maxillary retrognathia"],
-            ["SNB", "80° ± 2°", "Mandibular prognathism", "Mandibular retrognathia (Class II)"],
-            ["ANB", "2° ± 2°", ">4° = Class II skeletal", "<0° = Class III skeletal"],
-            ["Wits appraisal", "0 mm (F); −1 mm (M)", "Class II", "Class III"],
-            ["FMA", "25° ± 4°", "Hyperdivergent (open bite risk)", "Hypodivergent (deep bite)"],
-            ["IMPA", "90° ± 5°", "Lower incisor proclined", "Lower incisor retroclined"],
-            ["U1-SN", "102° ± 2°", "Upper incisor proclined", "Upper incisor retroclined"]
+            [
+              "SNA",
+              "82° ± 2°",
+              "Maxillary prognathism",
+              "Maxillary retrognathia"
+            ],
+            [
+              "SNB",
+              "80° ± 2°",
+              "Mandibular prognathism",
+              "Mandibular retrognathia (Class II)"
+            ],
+            [
+              "ANB",
+              "2° ± 2°",
+              ">4° = Class II skeletal",
+              "<0° = Class III skeletal"
+            ],
+            [
+              "Wits appraisal",
+              "0 mm (F); −1 mm (M)",
+              "Class II",
+              "Class III"
+            ],
+            [
+              "FMA",
+              "25° ± 4°",
+              "Hyperdivergent (open bite risk)",
+              "Hypodivergent (deep bite)"
+            ],
+            [
+              "IMPA",
+              "90° ± 5°",
+              "Lower incisor proclined",
+              "Lower incisor retroclined"
+            ],
+            [
+              "U1-SN",
+              "102° ± 2°",
+              "Upper incisor proclined",
+              "Upper incisor retroclined"
+            ]
           ]
         },
         {
@@ -108,15 +183,47 @@
         {
           "type": "table",
           "title": "VSP vs Conventional Model Surgery — Comparative Summary",
-          "headers": ["Parameter", "VSP", "Conventional Model Surgery"],
+          "headers": [
+            "Parameter",
+            "VSP",
+            "Conventional Model Surgery"
+          ],
           "rows": [
-            ["Mean position error", "~1.0 mm", "~2.4 mm"],
-            ["Operating time", "35–45 min shorter", "Reference"],
-            ["Splint fabrication", "CAD/CAM (accurate)", "Manual facebow + articulator"],
-            ["Soft tissue prediction", "Built-in algorithm", "Manual estimation"],
-            ["Airway visualisation", "3D volumetric", "Not available"],
-            ["Cost", "Higher (software + CAD/CAM)", "Lower (lab fees)"],
-            ["Radiation exposure", "CBCT required", "Conventional cephalogram"]
+            [
+              "Mean position error",
+              "~1.0 mm",
+              "~2.4 mm"
+            ],
+            [
+              "Operating time",
+              "35–45 min shorter",
+              "Reference"
+            ],
+            [
+              "Splint fabrication",
+              "CAD/CAM (accurate)",
+              "Manual facebow + articulator"
+            ],
+            [
+              "Soft tissue prediction",
+              "Built-in algorithm",
+              "Manual estimation"
+            ],
+            [
+              "Airway visualisation",
+              "3D volumetric",
+              "Not available"
+            ],
+            [
+              "Cost",
+              "Higher (software + CAD/CAM)",
+              "Lower (lab fees)"
+            ],
+            [
+              "Radiation exposure",
+              "CBCT required",
+              "Conventional cephalogram"
+            ]
           ]
         },
         {
@@ -170,14 +277,49 @@
         {
           "type": "table",
           "title": "Skeletal Stability of Orthognathic Movements (Most to Least Stable)",
-          "headers": ["Movement", "Stability", "Relapse Rate", "Key Factor"],
+          "headers": [
+            "Movement",
+            "Stability",
+            "Relapse Rate",
+            "Key Factor"
+          ],
           "rows": [
-            ["Mandibular superior repositioning", "Very stable", "<5%", "Gravity supports bone contact"],
-            ["Maxillary impaction", "Stable", "5–10%", "Soft tissue forces; 4-point fixation"],
-            ["Mandibular advancement (<8 mm)", "Stable", "10–15%", "Rigid fixation; condylar torque minimisation"],
-            ["Maxillary advancement", "Moderately stable", "10–20%", "Magnitude-dependent; plate fixation"],
-            ["Mandibular setback (large)", "Least stable", "20–40% for >8 mm", "Muscle tension; condylar positioning"],
-            ["Vertical lengthening of mandible", "Least stable", "High", "Bone grafts needed; distraction preferred"]
+            [
+              "Mandibular superior repositioning",
+              "Very stable",
+              "<5%",
+              "Gravity supports bone contact"
+            ],
+            [
+              "Maxillary impaction",
+              "Stable",
+              "5–10%",
+              "Soft tissue forces; 4-point fixation"
+            ],
+            [
+              "Mandibular advancement (<8 mm)",
+              "Stable",
+              "10–15%",
+              "Rigid fixation; condylar torque minimisation"
+            ],
+            [
+              "Maxillary advancement",
+              "Moderately stable",
+              "10–20%",
+              "Magnitude-dependent; plate fixation"
+            ],
+            [
+              "Mandibular setback (large)",
+              "Least stable",
+              "20–40% for >8 mm",
+              "Muscle tension; condylar positioning"
+            ],
+            [
+              "Vertical lengthening of mandible",
+              "Least stable",
+              "High",
+              "Bone grafts needed; distraction preferred"
+            ]
           ]
         },
         {

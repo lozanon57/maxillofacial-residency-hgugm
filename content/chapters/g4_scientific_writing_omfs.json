@@ -16,11 +16,11 @@
   "learning_objectives": [
     "Structure an OMFS manuscript according to IMRAD format with each section's specific content requirements",
     "Apply ICMJE authorship criteria to determine legitimate author and contributor status",
-    "Navigate the peer review process from submission to revision response",
-    "Select an appropriate journal using impact factor, scope, and open-access considerations",
-    "Identify and avoid research misconduct including fabrication, falsification, plagiarism, and duplicate publication",
-    "Write an effective structured abstract for a surgical RCT or cohort study",
-    "Apply appropriate reporting guidelines (CONSORT, STROBE, PRISMA, CARE) to manuscript preparation"
+    "Analyze the peer review process from submission to final decision, differentiate types of reviewer feedback (major revision, minor revision, rejection), and evaluate strategies for constructing an effective point-by-point response to reviewers",
+    "Evaluate potential journals for OMFS manuscript submission by critically appraising impact factor, scope, turnaround time, open-access policies, and predatory journal indicators, and justify journal selection with supporting evidence",
+    "Assess and identify research misconduct including fabrication, falsification, plagiarism, and duplicate publication, evaluate the institutional and journal-level mechanisms for investigation, and recommend preventive practices for the surgical researcher",
+    "Evaluate and critique a structured abstract for an OMFS RCT or cohort study against CONSORT or STROBE abstract extensions, differentiating complete from incomplete reporting and recommending specific improvements",
+    "Assess manuscript compliance with CONSORT, STROBE, PRISMA, and CARE reporting guidelines by systematically applying each checklist, identifying gaps, and recommending specific revisions to achieve complete guideline-adherent reporting"
   ],
   "sections": [
     {
@@ -34,13 +34,43 @@
         {
           "type": "table",
           "title": "IMRAD Section Content Requirements",
-          "headers": ["Section", "Core Content", "Common Errors", "Tense"],
+          "headers": [
+            "Section",
+            "Core Content",
+            "Common Errors",
+            "Tense"
+          ],
           "rows": [
-            ["Introduction", "Background, knowledge gap, study aim/hypothesis", "Literature review instead of gap analysis; no clear aim stated", "Present"],
-            ["Methods", "Design, ethics, participants, interventions, outcomes, statistics", "Insufficient detail for replication; missing ethical approval reference", "Past"],
-            ["Results", "Data matching all methods; tables/figures with text narrative", "Interpretation in results; missing data for all reported outcomes", "Past"],
-            ["Discussion", "Interpret results vs literature; limitations; conclusions", "Repeating results; overclaiming; no limitations paragraph", "Present/past mix"],
-            ["Abstract", "Structured summary ≤250–300 words; all key results with values", "Vague conclusions; results not matching paper; omitting p-values", "Past (methods/results)"]
+            [
+              "Introduction",
+              "Background, knowledge gap, study aim/hypothesis",
+              "Literature review instead of gap analysis; no clear aim stated",
+              "Present"
+            ],
+            [
+              "Methods",
+              "Design, ethics, participants, interventions, outcomes, statistics",
+              "Insufficient detail for replication; missing ethical approval reference",
+              "Past"
+            ],
+            [
+              "Results",
+              "Data matching all methods; tables/figures with text narrative",
+              "Interpretation in results; missing data for all reported outcomes",
+              "Past"
+            ],
+            [
+              "Discussion",
+              "Interpret results vs literature; limitations; conclusions",
+              "Repeating results; overclaiming; no limitations paragraph",
+              "Present/past mix"
+            ],
+            [
+              "Abstract",
+              "Structured summary ≤250–300 words; all key results with values",
+              "Vague conclusions; results not matching paper; omitting p-values",
+              "Past (methods/results)"
+            ]
           ]
         },
         {
@@ -78,13 +108,43 @@
         {
           "type": "table",
           "title": "Abstract Formats by Study Type",
-          "headers": ["Study Type", "Preferred Format", "Required Elements", "Reporting Guideline"],
+          "headers": [
+            "Study Type",
+            "Preferred Format",
+            "Required Elements",
+            "Reporting Guideline"
+          ],
           "rows": [
-            ["RCT", "Structured (7–8 headings)", "Trial design, interventions, primary outcome with CI, harms, registration number", "CONSORT for Abstracts (Hopewell 2008)"],
-            ["Cohort/case-control", "Structured (6 headings)", "Design, setting, participants, exposures, outcomes with ORs/HRs, limitations", "STROBE statement"],
-            ["Systematic review/MA", "Structured (7 headings)", "Databases, eligibility, n included, key pooled estimate, PROSPERO number", "PRISMA for Abstracts"],
-            ["Case report", "Unstructured or semi-structured", "Patient demographics, presenting complaint, interventions, outcome, learning point", "CARE guidelines"],
-            ["Diagnostic accuracy", "Structured (6 headings)", "Index test, reference standard, sensitivity/specificity with CI, prevalence", "STARD 2015"]
+            [
+              "RCT",
+              "Structured (7–8 headings)",
+              "Trial design, interventions, primary outcome with CI, harms, registration number",
+              "CONSORT for Abstracts (Hopewell 2008)"
+            ],
+            [
+              "Cohort/case-control",
+              "Structured (6 headings)",
+              "Design, setting, participants, exposures, outcomes with ORs/HRs, limitations",
+              "STROBE statement"
+            ],
+            [
+              "Systematic review/MA",
+              "Structured (7 headings)",
+              "Databases, eligibility, n included, key pooled estimate, PROSPERO number",
+              "PRISMA for Abstracts"
+            ],
+            [
+              "Case report",
+              "Unstructured or semi-structured",
+              "Patient demographics, presenting complaint, interventions, outcome, learning point",
+              "CARE guidelines"
+            ],
+            [
+              "Diagnostic accuracy",
+              "Structured (6 headings)",
+              "Index test, reference standard, sensitivity/specificity with CI, prevalence",
+              "STARD 2015"
+            ]
           ]
         }
       ]
@@ -100,12 +160,32 @@
         {
           "type": "table",
           "title": "ICMJE Authorship Criteria — All Four Must Be Met",
-          "headers": ["Criterion", "Typical Examples Meeting Criterion", "Common Misconceptions"],
+          "headers": [
+            "Criterion",
+            "Typical Examples Meeting Criterion",
+            "Common Misconceptions"
+          ],
           "rows": [
-            ["1. Substantial intellectual contribution", "Study design, data collection, statistical analysis, interpretation", "Collecting specimens only; providing equipment; general supervision"],
-            ["2. Drafting or critical revision", "Writing Introduction, Methods, Results; revising manuscript intellectually", "Checking references only; correcting grammar only"],
-            ["3. Final approval", "Reading and approving the final submitted version", "Approving concept but not seeing final manuscript"],
-            ["4. Accountability", "Ability to identify which co-author is responsible for each part", "Sending 'approve' email without reading final draft"]
+            [
+              "1. Substantial intellectual contribution",
+              "Study design, data collection, statistical analysis, interpretation",
+              "Collecting specimens only; providing equipment; general supervision"
+            ],
+            [
+              "2. Drafting or critical revision",
+              "Writing Introduction, Methods, Results; revising manuscript intellectually",
+              "Checking references only; correcting grammar only"
+            ],
+            [
+              "3. Final approval",
+              "Reading and approving the final submitted version",
+              "Approving concept but not seeing final manuscript"
+            ],
+            [
+              "4. Accountability",
+              "Ability to identify which co-author is responsible for each part",
+              "Sending 'approve' email without reading final draft"
+            ]
           ]
         },
         {
@@ -137,14 +217,42 @@
         {
           "type": "table",
           "title": "Peer Review Timeline and Decision Outcomes",
-          "headers": ["Stage", "Typical Timeframe", "Author Action"],
+          "headers": [
+            "Stage",
+            "Typical Timeframe",
+            "Author Action"
+          ],
           "rows": [
-            ["Submission → Editorial decision (initial)", "1–4 weeks", "Confirm receipt; check submission completeness"],
-            ["External review", "4–12 weeks", "None (wait); may send one polite status enquiry after 10–12 weeks"],
-            ["Decision: Major Revision", "Revise within 3 months typically", "Address all comments; submit point-by-point response letter"],
-            ["Decision: Minor Revision", "Revise within 4 weeks typically", "Address all comments; minimal response letter"],
-            ["Decision: Accept", "Copyediting 2–8 weeks", "Check proofs carefully; approve final version"],
-            ["Decision: Reject with invitation to resubmit", "Resubmit within 3–6 months", "Treat as major revision; thorough revision required"]
+            [
+              "Submission → Editorial decision (initial)",
+              "1–4 weeks",
+              "Confirm receipt; check submission completeness"
+            ],
+            [
+              "External review",
+              "4–12 weeks",
+              "None (wait); may send one polite status enquiry after 10–12 weeks"
+            ],
+            [
+              "Decision: Major Revision",
+              "Revise within 3 months typically",
+              "Address all comments; submit point-by-point response letter"
+            ],
+            [
+              "Decision: Minor Revision",
+              "Revise within 4 weeks typically",
+              "Address all comments; minimal response letter"
+            ],
+            [
+              "Decision: Accept",
+              "Copyediting 2–8 weeks",
+              "Check proofs carefully; approve final version"
+            ],
+            [
+              "Decision: Reject with invitation to resubmit",
+              "Resubmit within 3–6 months",
+              "Treat as major revision; thorough revision required"
+            ]
           ]
         }
       ]
@@ -166,14 +274,56 @@
         {
           "type": "table",
           "title": "Key OMFS and Related Journals for Publication",
-          "headers": ["Journal", "Publisher", "JIF (approx)", "Scope Emphasis", "OA Option"],
+          "headers": [
+            "Journal",
+            "Publisher",
+            "JIF (approx)",
+            "Scope Emphasis",
+            "OA Option"
+          ],
           "rows": [
-            ["Journal of Oral & Maxillofacial Surgery", "Elsevier (AAOMS)", "~2.5", "Clinical OMFS, North American focus", "Gold OA (APC)"],
-            ["Int J Oral Maxillofacial Surgery", "Elsevier (IAOMS)", "~3.0", "International clinical OMFS, reconstructive", "Gold OA (APC)"],
-            ["British J Oral Maxillofacial Surgery", "Elsevier (BAOMS)", "~2.0", "UK/European clinical OMFS, case series", "Green OA (6 months)"],
-            ["Oral Oncology", "Elsevier", "~4.5", "Head and neck oncology, translational", "Gold OA (APC)"],
-            ["Journal of Craniomaxillofacial Surgery", "Elsevier (EACMFS)", "~2.8", "CMF surgery, trauma, reconstruction", "Gold OA (APC)"],
-            ["Oral Surgery, Oral Medicine…", "Elsevier (AAOMS)", "~2.2", "Oral pathology, oral medicine, dento-alveolar", "Gold OA (APC)"]
+            [
+              "Journal of Oral & Maxillofacial Surgery",
+              "Elsevier (AAOMS)",
+              "~2.5",
+              "Clinical OMFS, North American focus",
+              "Gold OA (APC)"
+            ],
+            [
+              "Int J Oral Maxillofacial Surgery",
+              "Elsevier (IAOMS)",
+              "~3.0",
+              "International clinical OMFS, reconstructive",
+              "Gold OA (APC)"
+            ],
+            [
+              "British J Oral Maxillofacial Surgery",
+              "Elsevier (BAOMS)",
+              "~2.0",
+              "UK/European clinical OMFS, case series",
+              "Green OA (6 months)"
+            ],
+            [
+              "Oral Oncology",
+              "Elsevier",
+              "~4.5",
+              "Head and neck oncology, translational",
+              "Gold OA (APC)"
+            ],
+            [
+              "Journal of Craniomaxillofacial Surgery",
+              "Elsevier (EACMFS)",
+              "~2.8",
+              "CMF surgery, trauma, reconstruction",
+              "Gold OA (APC)"
+            ],
+            [
+              "Oral Surgery, Oral Medicine…",
+              "Elsevier (AAOMS)",
+              "~2.2",
+              "Oral pathology, oral medicine, dento-alveolar",
+              "Gold OA (APC)"
+            ]
           ]
         }
       ]
@@ -201,14 +351,49 @@
         {
           "type": "table",
           "title": "Research Misconduct: Definitions, Examples, and Consequences",
-          "headers": ["Misconduct Type", "Definition", "OMFS Example", "Typical Consequence"],
+          "headers": [
+            "Misconduct Type",
+            "Definition",
+            "OMFS Example",
+            "Typical Consequence"
+          ],
           "rows": [
-            ["Fabrication", "Making up data/results", "Inventing patient outcomes in a case series", "Retraction; dismissal; funding ban; criminal charges if patient harm"],
-            ["Falsification", "Manipulating data/images", "Adjusting cephalometric measurements to support hypothesis", "Retraction; institutional investigation; career termination"],
-            ["Plagiarism", "Using others' work without attribution", "Copying introduction paragraphs from a previous OMFS paper", "Retraction; editor blacklist; employer notification"],
-            ["Gift authorship", "Listing non-contributing author", "Adding consultant to authorship list as courtesy", "Correction; COPE investigation; journal warning"],
-            ["Duplicate publication", "Publishing same data twice", "Submitting same cohort to two different OMFS journals simultaneously", "Retraction of one paper; journal ban"],
-            ["Data fabrication (images)", "Manipulating gel/histology images", "Duplicating histological slides across specimens", "Retraction; ORI/UKRIO investigation; funding recovery"]
+            [
+              "Fabrication",
+              "Making up data/results",
+              "Inventing patient outcomes in a case series",
+              "Retraction; dismissal; funding ban; criminal charges if patient harm"
+            ],
+            [
+              "Falsification",
+              "Manipulating data/images",
+              "Adjusting cephalometric measurements to support hypothesis",
+              "Retraction; institutional investigation; career termination"
+            ],
+            [
+              "Plagiarism",
+              "Using others' work without attribution",
+              "Copying introduction paragraphs from a previous OMFS paper",
+              "Retraction; editor blacklist; employer notification"
+            ],
+            [
+              "Gift authorship",
+              "Listing non-contributing author",
+              "Adding consultant to authorship list as courtesy",
+              "Correction; COPE investigation; journal warning"
+            ],
+            [
+              "Duplicate publication",
+              "Publishing same data twice",
+              "Submitting same cohort to two different OMFS journals simultaneously",
+              "Retraction of one paper; journal ban"
+            ],
+            [
+              "Data fabrication (images)",
+              "Manipulating gel/histology images",
+              "Duplicating histological slides across specimens",
+              "Retraction; ORI/UKRIO investigation; funding recovery"
+            ]
           ]
         }
       ]
@@ -230,15 +415,63 @@
         {
           "type": "table",
           "title": "EQUATOR Reporting Guidelines by Study Type",
-          "headers": ["Study Design", "Guideline", "Year", "Items", "Key Feature"],
+          "headers": [
+            "Study Design",
+            "Guideline",
+            "Year",
+            "Items",
+            "Key Feature"
+          ],
           "rows": [
-            ["RCT", "CONSORT", "2010 (updated 2012)", "25 items + flow diagram", "Primary outcome pre-specified; allocation concealment described"],
-            ["Cohort/case-control/cross-sectional", "STROBE", "2007", "22 items", "Exposure and outcome definitions; handling of confounders"],
-            ["Systematic review / meta-analysis", "PRISMA", "2020", "27 items + flow diagram", "PROSPERO registration; risk of bias assessment"],
-            ["Case report", "CARE", "2013", "13 items", "Timeline; patient perspective; informed consent"],
-            ["Diagnostic accuracy", "STARD", "2015", "30 items + flow diagram", "Pre-specified threshold; reference standard"],
-            ["Surgical innovation (single arm)", "IDEAL framework", "2009/2016", "Stage-specific", "Stage in IDEAL spectrum declared in title/abstract"],
-            ["Economic evaluation", "CHEERS", "2022", "28 items", "Time horizon; discount rate; sensitivity analysis"]
+            [
+              "RCT",
+              "CONSORT",
+              "2010 (updated 2012)",
+              "25 items + flow diagram",
+              "Primary outcome pre-specified; allocation concealment described"
+            ],
+            [
+              "Cohort/case-control/cross-sectional",
+              "STROBE",
+              "2007",
+              "22 items",
+              "Exposure and outcome definitions; handling of confounders"
+            ],
+            [
+              "Systematic review / meta-analysis",
+              "PRISMA",
+              "2020",
+              "27 items + flow diagram",
+              "PROSPERO registration; risk of bias assessment"
+            ],
+            [
+              "Case report",
+              "CARE",
+              "2013",
+              "13 items",
+              "Timeline; patient perspective; informed consent"
+            ],
+            [
+              "Diagnostic accuracy",
+              "STARD",
+              "2015",
+              "30 items + flow diagram",
+              "Pre-specified threshold; reference standard"
+            ],
+            [
+              "Surgical innovation (single arm)",
+              "IDEAL framework",
+              "2009/2016",
+              "Stage-specific",
+              "Stage in IDEAL spectrum declared in title/abstract"
+            ],
+            [
+              "Economic evaluation",
+              "CHEERS",
+              "2022",
+              "28 items",
+              "Time horizon; discount rate; sensitivity analysis"
+            ]
           ]
         },
         {

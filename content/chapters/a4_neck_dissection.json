@@ -17,9 +17,9 @@
   "learning_objectives": [
     "Apply the Academy/AHNS 2008 classification of neck dissections (radical, modified radical, selective, extended) and describe the lymph node levels I–VI with boundaries",
     "Determine the appropriate neck dissection type for cN0 and cN+ disease based on primary site and NCCN 2024 guidelines",
-    "Describe the surgical anatomy of the neck relevant to neck dissection, including structures at risk (spinal accessory nerve, internal jugular vein, common carotid artery, marginal mandibular nerve, phrenic nerve, thoracic duct)",
-    "Interpret the SENTI-MELA and PET-NECK trial results and apply them to elective neck management decisions",
-    "Recognise and manage the major complications of neck dissection: chyle leak, haematoma, wound dehiscence, spinal accessory nerve injury, carotid artery exposure"
+    "Examine the surgical anatomy of the neck at risk during dissection — including the spinal accessory nerve, phrenic nerve, thoracic duct, internal jugular vein, and hypoglossal nerve — and differentiate the anatomical landmarks used to preserve each structure",
+    "Evaluate the SENTI-MELA and PET-NECK trial results and recommend evidence-based neck management strategies for cN0 and post-treatment patients, justifying decisions about elective dissection versus watchful waiting",
+    "Assess and manage the major complications of neck dissection (chyle leak, haematoma, wound breakdown, marginal mandibular nerve palsy, internal jugular vein thrombosis) by differentiating prevention strategies from stepwise treatment algorithms"
   ],
   "sections": [
     {
@@ -33,14 +33,49 @@
         {
           "type": "table",
           "title": "Cervical Lymph Node Levels — Boundaries and Primary Drainage Sites",
-          "headers": ["Level", "Sublevels", "Anatomical Boundaries", "Primary Drainage"],
+          "headers": [
+            "Level",
+            "Sublevels",
+            "Anatomical Boundaries",
+            "Primary Drainage"
+          ],
           "rows": [
-            ["I", "IA, IB", "IA: ant. digastric–hyoid; IB: digastric triangle", "Oral cavity, lip, anterior floor of mouth"],
-            ["II", "IIA, IIB", "Skull base to hyoid; posterior to IJV (IIA), posterior to XI (IIB)", "Oral cavity, oropharynx, hypopharynx, larynx, parotid"],
-            ["III", "—", "Hyoid to inferior cricoid, along IJV", "Oral cavity, oropharynx, larynx, hypopharynx"],
-            ["IV", "—", "Inferior cricoid to clavicle, along IJV", "Larynx, hypopharynx, oesophagus, thyroid"],
-            ["V", "VA, VB", "Posterior triangle; VA above, VB below omohyoid", "Scalp, skin, nasopharynx"],
-            ["VI", "—", "Between carotid arteries, hyoid to sternal notch", "Thyroid, parathyroid, subglottis, cervical oesophagus"]
+            [
+              "I",
+              "IA, IB",
+              "IA: ant. digastric–hyoid; IB: digastric triangle",
+              "Oral cavity, lip, anterior floor of mouth"
+            ],
+            [
+              "II",
+              "IIA, IIB",
+              "Skull base to hyoid; posterior to IJV (IIA), posterior to XI (IIB)",
+              "Oral cavity, oropharynx, hypopharynx, larynx, parotid"
+            ],
+            [
+              "III",
+              "—",
+              "Hyoid to inferior cricoid, along IJV",
+              "Oral cavity, oropharynx, larynx, hypopharynx"
+            ],
+            [
+              "IV",
+              "—",
+              "Inferior cricoid to clavicle, along IJV",
+              "Larynx, hypopharynx, oesophagus, thyroid"
+            ],
+            [
+              "V",
+              "VA, VB",
+              "Posterior triangle; VA above, VB below omohyoid",
+              "Scalp, skin, nasopharynx"
+            ],
+            [
+              "VI",
+              "—",
+              "Between carotid arteries, hyoid to sternal notch",
+              "Thyroid, parathyroid, subglottis, cervical oesophagus"
+            ]
           ]
         },
         {
@@ -62,16 +97,61 @@
         {
           "type": "table",
           "title": "Neck Dissection Types — Classification Summary",
-          "headers": ["Type", "Levels Removed", "Structures Preserved/Sacrificed", "Indication"],
+          "headers": [
+            "Type",
+            "Levels Removed",
+            "Structures Preserved/Sacrificed",
+            "Indication"
+          ],
           "rows": [
-            ["Radical (RND)", "I–V", "SCM, IJV, CN XI all sacrificed", "Direct invasion of these structures"],
-            ["MRND Type I", "I–V", "SCM + IJV preserved; CN XI sacrificed", "Rare: CN XI encased by node"],
-            ["MRND Type II", "I–V", "CN XI + IJV preserved; SCM sacrificed", "Bulky IIB/posterior disease"],
-            ["MRND Type III (Bocca)", "I–V", "SCM + IJV + CN XI all preserved", "cN+ without structural invasion"],
-            ["SND Supraomohyoid", "I–III", "SCM, IJV, CN XI preserved", "cN0 oral cavity"],
-            ["SND Lateral", "II–IV", "SCM, IJV, CN XI preserved", "cN0/cN+ larynx, hypopharynx, oropharynx"],
-            ["SND Central", "VI", "Preserves lateral structures", "Thyroid Ca, subglottic primaries"],
-            ["Extended ND", "I–V + extra", "Varies; may sacrifice carotid, CN XII", "Disease beyond standard levels"]
+            [
+              "Radical (RND)",
+              "I–V",
+              "SCM, IJV, CN XI all sacrificed",
+              "Direct invasion of these structures"
+            ],
+            [
+              "MRND Type I",
+              "I–V",
+              "SCM + IJV preserved; CN XI sacrificed",
+              "Rare: CN XI encased by node"
+            ],
+            [
+              "MRND Type II",
+              "I–V",
+              "CN XI + IJV preserved; SCM sacrificed",
+              "Bulky IIB/posterior disease"
+            ],
+            [
+              "MRND Type III (Bocca)",
+              "I–V",
+              "SCM + IJV + CN XI all preserved",
+              "cN+ without structural invasion"
+            ],
+            [
+              "SND Supraomohyoid",
+              "I–III",
+              "SCM, IJV, CN XI preserved",
+              "cN0 oral cavity"
+            ],
+            [
+              "SND Lateral",
+              "II–IV",
+              "SCM, IJV, CN XI preserved",
+              "cN0/cN+ larynx, hypopharynx, oropharynx"
+            ],
+            [
+              "SND Central",
+              "VI",
+              "Preserves lateral structures",
+              "Thyroid Ca, subglottic primaries"
+            ],
+            [
+              "Extended ND",
+              "I–V + extra",
+              "Varies; may sacrifice carotid, CN XII",
+              "Disease beyond standard levels"
+            ]
           ]
         },
         {
@@ -115,13 +195,43 @@
         {
           "type": "table",
           "title": "PET-NECK Trial — Key Results Summary",
-          "headers": ["Outcome", "PET-CT Surveillance", "Planned Neck Dissection", "p-value"],
+          "headers": [
+            "Outcome",
+            "PET-CT Surveillance",
+            "Planned Neck Dissection",
+            "p-value"
+          ],
           "rows": [
-            ["2-year OS", "84.9%", "81.5%", "0.42 (NS)"],
-            ["Neck dissections performed", "54/282", "221/282", "< 0.001"],
-            ["Major complication rate", "Lower", "Higher", "< 0.05"],
-            ["Mean cost per patient", "£1,521 less", "Reference", "< 0.001"],
-            ["NPV of negative PET", "93%", "N/A", "—"]
+            [
+              "2-year OS",
+              "84.9%",
+              "81.5%",
+              "0.42 (NS)"
+            ],
+            [
+              "Neck dissections performed",
+              "54/282",
+              "221/282",
+              "< 0.001"
+            ],
+            [
+              "Major complication rate",
+              "Lower",
+              "Higher",
+              "< 0.05"
+            ],
+            [
+              "Mean cost per patient",
+              "£1,521 less",
+              "Reference",
+              "< 0.001"
+            ],
+            [
+              "NPV of negative PET",
+              "93%",
+              "N/A",
+              "—"
+            ]
           ]
         },
         {
@@ -143,14 +253,49 @@
         {
           "type": "table",
           "title": "Structures at Risk During Neck Dissection — Anatomical Location and Clinical Consequence of Injury",
-          "headers": ["Structure", "Location / Risk Level", "Consequence of Injury", "Prevention"],
+          "headers": [
+            "Structure",
+            "Location / Risk Level",
+            "Consequence of Injury",
+            "Prevention"
+          ],
           "rows": [
-            ["Spinal accessory (CN XI)", "Posterior to SCM, posterior triangle", "Shoulder drop, limited abduction, chronic pain", "Identify at Erb's point; careful IIB/VA dissection"],
-            ["Marginal mandibular n.", "Deep to platysma, below mandible", "Lower lip weakness/asymmetry", "Incise platysma below angle; ligate facial vein low"],
-            ["Phrenic nerve", "Anterior scalene surface", "Ipsilateral hemidiaphragm paralysis", "Stay superficial to pre-vertebral fascia at Level IV"],
-            ["Hypoglossal n. (CN XII)", "Loops around ECA above lingual a.", "Ipsilateral tongue deviation/atrophy", "Identify before ligating facial/lingual arteries"],
-            ["Thoracic duct", "Left IJV-subclavian junction", "Chylous fistula", "Left Level IV: ligate all small vessels, check Valsalva"],
-            ["Sympathetic trunk", "Pre-vertebral fascia, deep to carotid sheath", "Horner syndrome (ptosis, miosis, anhidrosis)", "Preserve pre-vertebral fascia"]
+            [
+              "Spinal accessory (CN XI)",
+              "Posterior to SCM, posterior triangle",
+              "Shoulder drop, limited abduction, chronic pain",
+              "Identify at Erb's point; careful IIB/VA dissection"
+            ],
+            [
+              "Marginal mandibular n.",
+              "Deep to platysma, below mandible",
+              "Lower lip weakness/asymmetry",
+              "Incise platysma below angle; ligate facial vein low"
+            ],
+            [
+              "Phrenic nerve",
+              "Anterior scalene surface",
+              "Ipsilateral hemidiaphragm paralysis",
+              "Stay superficial to pre-vertebral fascia at Level IV"
+            ],
+            [
+              "Hypoglossal n. (CN XII)",
+              "Loops around ECA above lingual a.",
+              "Ipsilateral tongue deviation/atrophy",
+              "Identify before ligating facial/lingual arteries"
+            ],
+            [
+              "Thoracic duct",
+              "Left IJV-subclavian junction",
+              "Chylous fistula",
+              "Left Level IV: ligate all small vessels, check Valsalva"
+            ],
+            [
+              "Sympathetic trunk",
+              "Pre-vertebral fascia, deep to carotid sheath",
+              "Horner syndrome (ptosis, miosis, anhidrosis)",
+              "Preserve pre-vertebral fascia"
+            ]
           ]
         },
         {
@@ -172,15 +317,55 @@
         {
           "type": "table",
           "title": "Complications of Neck Dissection — Recognition and Management",
-          "headers": ["Complication", "Incidence", "Diagnosis", "Management"],
+          "headers": [
+            "Complication",
+            "Incidence",
+            "Diagnosis",
+            "Management"
+          ],
           "rows": [
-            ["Chyle leak", "1–2.5%", "Milky drain fluid post-feed; TG >110 mg/dL", "Low-fat diet, octreotide, NPD; surgery if >500 mL/day ×5 days"],
-            ["Haematoma", "1–3%", "Expanding neck mass, airway compromise, within 6h", "Immediate return to theatre for evacuation"],
-            ["CN XI injury (shoulder)", "5–25%", "Shoulder drop, abduction <90°, winging scapula", "Physio; neurorrhaphy/graft if complete transection"],
-            ["Wound dehiscence", "2–5%", "Wound breakdown, exposed carotid", "Debridement + free flap reconstruction"],
-            ["Carotid blow-out", "<1% overall, higher post-XRT", "Herald bleed then haemorrhage", "Digital pressure; emergency embolisation or ligation"],
-            ["Phrenic nerve palsy", "0.5–1%", "Raised hemidiaphragm on CXR; dyspnoea", "Conservative (usually temporary); diaphragm plication if permanent"],
-            ["Horner syndrome", "<1%", "Ipsilateral ptosis, miosis, anhidrosis", "No treatment; educate patient (permanent if sympathetic trunk divided)"]
+            [
+              "Chyle leak",
+              "1–2.5%",
+              "Milky drain fluid post-feed; TG >110 mg/dL",
+              "Low-fat diet, octreotide, NPD; surgery if >500 mL/day ×5 days"
+            ],
+            [
+              "Haematoma",
+              "1–3%",
+              "Expanding neck mass, airway compromise, within 6h",
+              "Immediate return to theatre for evacuation"
+            ],
+            [
+              "CN XI injury (shoulder)",
+              "5–25%",
+              "Shoulder drop, abduction <90°, winging scapula",
+              "Physio; neurorrhaphy/graft if complete transection"
+            ],
+            [
+              "Wound dehiscence",
+              "2–5%",
+              "Wound breakdown, exposed carotid",
+              "Debridement + free flap reconstruction"
+            ],
+            [
+              "Carotid blow-out",
+              "<1% overall, higher post-XRT",
+              "Herald bleed then haemorrhage",
+              "Digital pressure; emergency embolisation or ligation"
+            ],
+            [
+              "Phrenic nerve palsy",
+              "0.5–1%",
+              "Raised hemidiaphragm on CXR; dyspnoea",
+              "Conservative (usually temporary); diaphragm plication if permanent"
+            ],
+            [
+              "Horner syndrome",
+              "<1%",
+              "Ipsilateral ptosis, miosis, anhidrosis",
+              "No treatment; educate patient (permanent if sympathetic trunk divided)"
+            ]
           ]
         },
         {

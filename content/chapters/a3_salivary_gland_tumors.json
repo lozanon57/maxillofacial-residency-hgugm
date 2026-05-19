@@ -15,10 +15,10 @@
   "learning_objectives": [
     "Classify salivary gland tumours using the WHO 2022 classification and identify the most common benign and malignant histotypes",
     "Describe the technique of superficial and total parotidectomy with facial nerve identification and preservation",
-    "Identify the indications for and complications of submandibular gland excision",
-    "Apply the criteria distinguishing Frey syndrome, first bite syndrome, and facial nerve palsy after parotidectomy",
-    "Recognise the clinical and imaging features distinguishing benign from malignant parotid tumours",
-    "Outline the indications for neck dissection and adjuvant therapy in malignant salivary gland tumours"
+    "Analyze the anatomical boundaries and surgical planes of the submandibular triangle, differentiate indications for submandibular gland excision versus conservative management, and anticipate which structures are at risk in each scenario",
+    "Evaluate the management of Frey syndrome, first bite syndrome, and facial nerve weakness after parotidectomy by distinguishing their mechanisms, timing, and evidence-based treatment options",
+    "Differentiate benign from malignant parotid tumours by critically appraising clinical, sonographic, and MRI features, and recommend the appropriate surgical strategy based on histological diagnosis and tumour extent",
+    "Justify the indications for elective neck dissection and adjuvant therapy in malignant salivary gland tumours by evaluating histological grade, T stage, perineural invasion, and tumour type-specific recurrence patterns"
   ],
   "sections": [
     {
@@ -32,16 +32,70 @@
         {
           "type": "table",
           "title": "Common Salivary Gland Tumours — Histotype, Grade, and Key Features",
-          "headers": ["Histotype", "Benign/Malignant", "Grade", "Key Feature", "Prognosis 10yr OS"],
+          "headers": [
+            "Histotype",
+            "Benign/Malignant",
+            "Grade",
+            "Key Feature",
+            "Prognosis 10yr OS"
+          ],
           "rows": [
-            ["Pleomorphic adenoma", "Benign", "—", "Pseudopods; 1-5% malignant transformation over 20+ years", "Excellent (near 100% if fully excised)"],
-            ["Warthin tumour", "Benign", "—", "Bilateral in 10-15%; smokers; oncocytic cysts with lymphoid stroma", "Excellent"],
-            ["Mucoepidermoid Ca (low)", "Malignant", "Low", "Mucous + epidermoid cells; cystic; palate common", "~90%"],
-            ["Mucoepidermoid Ca (high)", "Malignant", "High", "Solid; rapid growth; nodal metastasis 50%", "~50%"],
-            ["Adenoid cystic Ca", "Malignant", "Low-Int-High", "Perineural invasion; cribriform/tubular/solid patterns; late DM", "~60% (late recurrence)"],
-            ["Acinic cell Ca", "Malignant", "Low", "Acinar differentiation; bilateral 3%; young adults", "~80%"],
-            ["Salivary duct Ca", "Malignant", "High", "AR-positive; HER2 amplified; BRST-like histology", "~25-35%"],
-            ["Carcinoma ex PA", "Malignant", "Variable", "Pre-existing PA; facial pain/palsy warning signs", "~50% (capsular invasion)–25% (widely invasive)"]
+            [
+              "Pleomorphic adenoma",
+              "Benign",
+              "—",
+              "Pseudopods; 1-5% malignant transformation over 20+ years",
+              "Excellent (near 100% if fully excised)"
+            ],
+            [
+              "Warthin tumour",
+              "Benign",
+              "—",
+              "Bilateral in 10-15%; smokers; oncocytic cysts with lymphoid stroma",
+              "Excellent"
+            ],
+            [
+              "Mucoepidermoid Ca (low)",
+              "Malignant",
+              "Low",
+              "Mucous + epidermoid cells; cystic; palate common",
+              "~90%"
+            ],
+            [
+              "Mucoepidermoid Ca (high)",
+              "Malignant",
+              "High",
+              "Solid; rapid growth; nodal metastasis 50%",
+              "~50%"
+            ],
+            [
+              "Adenoid cystic Ca",
+              "Malignant",
+              "Low-Int-High",
+              "Perineural invasion; cribriform/tubular/solid patterns; late DM",
+              "~60% (late recurrence)"
+            ],
+            [
+              "Acinic cell Ca",
+              "Malignant",
+              "Low",
+              "Acinar differentiation; bilateral 3%; young adults",
+              "~80%"
+            ],
+            [
+              "Salivary duct Ca",
+              "Malignant",
+              "High",
+              "AR-positive; HER2 amplified; BRST-like histology",
+              "~25-35%"
+            ],
+            [
+              "Carcinoma ex PA",
+              "Malignant",
+              "Variable",
+              "Pre-existing PA; facial pain/palsy warning signs",
+              "~50% (capsular invasion)–25% (widely invasive)"
+            ]
           ]
         },
         {
@@ -79,15 +133,47 @@
         {
           "type": "table",
           "title": "Parotidectomy Extent Based on Clinical Scenario",
-          "headers": ["Clinical Scenario", "Recommended Procedure", "Facial Nerve Management"],
+          "headers": [
+            "Clinical Scenario",
+            "Recommended Procedure",
+            "Facial Nerve Management"
+          ],
           "rows": [
-            ["Small superficial lobe PA (≤3 cm)", "Superficial parotidectomy", "Identify main trunk + preserve all branches"],
-            ["Large superficial lobe PA (>3 cm) or deep extension", "Total parotidectomy", "Preserve facial nerve"],
-            ["Deep lobe tumour, benign", "Total parotidectomy ± transoral/transcervical", "Preserve facial nerve"],
-            ["Low-grade parotid malignancy, no nerve involvement", "Total parotidectomy", "Preserve facial nerve"],
-            ["High-grade malignancy, nerve involved", "Total parotidectomy", "Sacrifice involved segment, immediate nerve graft"],
-            ["Carcinoma ex PA", "Total parotidectomy + neck dissection", "Preserve if no direct invasion; sacrifice if invaded"],
-            ["Recurrent PA after prior parotidectomy", "Revision total parotidectomy", "Retrograde nerve dissection; nerve monitoring essential"]
+            [
+              "Small superficial lobe PA (≤3 cm)",
+              "Superficial parotidectomy",
+              "Identify main trunk + preserve all branches"
+            ],
+            [
+              "Large superficial lobe PA (>3 cm) or deep extension",
+              "Total parotidectomy",
+              "Preserve facial nerve"
+            ],
+            [
+              "Deep lobe tumour, benign",
+              "Total parotidectomy ± transoral/transcervical",
+              "Preserve facial nerve"
+            ],
+            [
+              "Low-grade parotid malignancy, no nerve involvement",
+              "Total parotidectomy",
+              "Preserve facial nerve"
+            ],
+            [
+              "High-grade malignancy, nerve involved",
+              "Total parotidectomy",
+              "Sacrifice involved segment, immediate nerve graft"
+            ],
+            [
+              "Carcinoma ex PA",
+              "Total parotidectomy + neck dissection",
+              "Preserve if no direct invasion; sacrifice if invaded"
+            ],
+            [
+              "Recurrent PA after prior parotidectomy",
+              "Revision total parotidectomy",
+              "Retrograde nerve dissection; nerve monitoring essential"
+            ]
           ]
         },
         {
@@ -146,8 +232,7 @@
       "blocks": [
         {
           "type": "text",
-          "content": "The management of the neck in malignant salivary gland tumours is guided by the risk of nodal metastasis, which varies significantly by histotype and grade. **High-grade malignancies** (high-grade mucoepidermoid, salivary duct carcinoma, undifferentiated carcinoma, carcinoma ex PA) have nodal metastasis rates of 30-60% and warrant elective neck dissection. **Low-grade malignancies** (low-grade mucoepidermoid, acinic cell carcinoma, ACC without solid pattern) have nodal metastasis rates of 5-15%; elective neck dissection is controversial but generally recommended for T2+ disease by most guidelines.\n\nFor the cN+ neck in salivary malignancies, **modified radical or selective neck dissection** (levels II-IV for parotid primaries; levels I-IV for submandibular primaries) is performed. ENE in salivary gland metastases, as in HNSCC, is an adverse prognostic factor indicating adjuvant chemoradiation.\n\n**Adjuvant radiation** is recommended for: all T3-T4 malignant salivary tumours; all high-grade histotypes regardless of T stage; positive or close margins; perineural invasion (especially named nerve); lymphovascular invasion; and cervical nodal metastasis. PORT dose is typically 60-66 Gy to the primary tumour bed. For ACC, the PORT field must include the involved nerve pathway to the skull base.\n\n**Salivary duct carcinoma** deserves special mention: it is an aggressive high-grade carcinoma with an androgen receptor (AR) positive rate of 70-90% and HER2 amplification in approximately 25-35% of cases. The HER2-positive subgroup may benefit from **trastuzumab-based therapy** (analogous to HER2+ breast cancer). AR-positive cases may respond to **androgen deprivation therapy** (combined androgen blockade). These molecular markers should be routinely assessed in salivary duct carcinoma diagnosis.",
-          "type": "text"
+          "content": "The management of the neck in malignant salivary gland tumours is guided by the risk of nodal metastasis, which varies significantly by histotype and grade. **High-grade malignancies** (high-grade mucoepidermoid, salivary duct carcinoma, undifferentiated carcinoma, carcinoma ex PA) have nodal metastasis rates of 30-60% and warrant elective neck dissection. **Low-grade malignancies** (low-grade mucoepidermoid, acinic cell carcinoma, ACC without solid pattern) have nodal metastasis rates of 5-15%; elective neck dissection is controversial but generally recommended for T2+ disease by most guidelines.\n\nFor the cN+ neck in salivary malignancies, **modified radical or selective neck dissection** (levels II-IV for parotid primaries; levels I-IV for submandibular primaries) is performed. ENE in salivary gland metastases, as in HNSCC, is an adverse prognostic factor indicating adjuvant chemoradiation.\n\n**Adjuvant radiation** is recommended for: all T3-T4 malignant salivary tumours; all high-grade histotypes regardless of T stage; positive or close margins; perineural invasion (especially named nerve); lymphovascular invasion; and cervical nodal metastasis. PORT dose is typically 60-66 Gy to the primary tumour bed. For ACC, the PORT field must include the involved nerve pathway to the skull base.\n\n**Salivary duct carcinoma** deserves special mention: it is an aggressive high-grade carcinoma with an androgen receptor (AR) positive rate of 70-90% and HER2 amplification in approximately 25-35% of cases. The HER2-positive subgroup may benefit from **trastuzumab-based therapy** (analogous to HER2+ breast cancer). AR-positive cases may respond to **androgen deprivation therapy** (combined androgen blockade). These molecular markers should be routinely assessed in salivary duct carcinoma diagnosis."
         },
         {
           "type": "callout",
