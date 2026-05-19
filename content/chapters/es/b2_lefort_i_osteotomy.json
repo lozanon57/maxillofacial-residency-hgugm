@@ -1,0 +1,622 @@
+{
+  "id": "B2",
+  "title": "Osteotomía de Le Fort I",
+  "subtitle": "Bloque B — Cirugía Ortognática y Esquelética: Técnica Quirúrgica, Complicaciones y Resultados",
+  "block": "B",
+  "block_name": "Cirugía Ortognática y Esquelética",
+  "level": "R3-5",
+  "reading_time_min": 38,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · BAOMS 2022",
+  "textbook_refs": [
+    "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics, 6th ed. (Mosby 2018)",
+    "Posnick JC. Orthognathic Surgery: Principles and Practice (Saunders 2014)",
+    "Bell WH. Revascularization and bone healing after anterior maxillary osteotomy (J Oral Surg 1969)",
+    "Drommer R. The history of the Le Fort I osteotomy (J Maxillofac Surg 1986)",
+    "Rachmiel A et al. Maxillary osteotomy healing and stability (Int J Oral Maxillofac Surg 2001)"
+  ],
+  "learning_objectives": [
+    "Describir la anatomía quirúrgica relevante para la osteotomía de Le Fort I, incluyendo el aporte vascular al maxilar y las estructuras adyacentes en riesgo",
+    "Explicar el procedimiento de Le Fort I paso a paso, desde la incisión hasta la fijación rígida",
+    "Identificar los movimientos posibles mediante la osteotomía de Le Fort I y los principios para aplicar cada uno",
+    "Reconocer y manejar las complicaciones intraoperatorias y postoperatorias de la osteotomía de Le Fort I",
+    "Describir la biología de la curación del maxilar tras la osteotomía, incluyendo el aporte vascular y los plazos de consolidación ósea"
+  ],
+  "sections": [
+    {
+      "id": "B2-S1",
+      "title": "Desarrollo Histórico e Indicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La osteotomía de Le Fort I (también denominada osteotomía maxilar horizontal u osteotomía de Wassmund-Obwegeser) lleva el nombre de René Le Fort, quien describió las líneas de fractura a través del maxilar tras un traumatismo facial (1901). El procedimiento quirúrgico tal como se realiza en la actualidad fue desarrollado de forma sistemática por Obwegeser (1960) y popularizado para el reposicionamiento maxilar por Bell y Epker en la década de 1970. Los estudios de laboratorio fundamentales de Bell (J Oral Surg 1969) demostraron que el maxilar mantiene su viabilidad tras la movilización completa, siempre que se conserve el mucoperiostio palatino — esta es la vía vascular crítica para el maxilar osteotomizado. La osteotomía de Le Fort I secciona el maxilar a la altura del seno maxilar, aproximadamente 3–5 mm por encima de los ápices de los dientes maxilares, a través de las paredes laterales del maxilar, a lo largo de las paredes posteriores de los senos maxilares, a través del tabique nasal (justo por encima del suelo nasal) y a través de las uniones pterigomaxilares. Esto permite que todo el maxilar inferior portador de dientes (bloque dentoalveolar) sea libremente reposicionado en todos los planos — anteriormente, posteriormente, superiormente (impacción), inferiormente (reposicionamiento inferior), lateralmente y en guiñada. Indicaciones: todas las formas de discrepancia esquelética maxilar que requieran corrección vertical, sagital, transversal o rotacional como parte de la cirugía ortognática o traumatológica. También se utiliza en cirugía de fisura labiopalatina para el avance maxilar (Le Fort I con distracción osteogénica para grandes deficiencias maxilares relacionadas con fisura)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Estudio de Revascularización de Bell",
+          "content": "Bell WH (J Oral Surg 1969): demostró que la movilización completa del maxilar es compatible con la viabilidad ósea siempre que se conserve el mucoperiostio palatino. La arteria palatina descendente (rama de la arteria maxilar que entra por el agujero palatino mayor) dentro del colgajo palatino es el principal aporte vascular al maxilar osteotomizado. Por ello, la mucosa palatina nunca debe incidirse ni desgarrarse durante el Le Fort I."
+        }
+      ]
+    },
+    {
+      "id": "B2-S2",
+      "title": "Anatomía Quirúrgica — Vascularización y Estructuras en Riesgo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Comprender la anatomía vascular del maxilar es esencial para realizar una osteotomía de Le Fort I segura. El aporte vascular al maxilar tiene múltiples contribuciones: (1) **Arteria palatina descendente** (rama de la arteria maxilar a través del conducto palatino mayor) — el vaso más importante para el maxilar osteotomizado; discurre dentro del mucoperiostio palatino y proporciona el pedículo vascular crítico que sustenta el maxilar movilizado. (2) **Arteria alveolar superior posterior** (rama de la arteria maxilar) — irriga los dientes maxilares posteriores y la encía vestibular. (3) **Arteria alveolar superior anterior** (rama de la arteria infraorbitaria) — irriga los dientes maxilares anteriores. (4) **Arteria facial** — pequeña contribución a través de la anastomosis nasopalatina. La osteotomía secciona las porciones inferiores de todas estas arterias excepto la palatina descendente, que queda protegida dentro del colgajo palatino intacto. **Estructuras en riesgo durante el Le Fort I**: (1) Nervio infraorbitario (V2) — emerge por el agujero infraorbitario aproximadamente 4–7 mm por debajo del reborde infraorbitario; en riesgo durante la disección en el suelo nasal y la pared lateral del seno si la disección se lleva demasiado superiormente; (2) Arteria palatina descendente — en el conducto palatino mayor; en riesgo durante la disfunción pterigomaxilar si el osteotomo curvo se coloca demasiado anteriormente (debe dirigirse posterolateralmente); (3) Plexo venoso pterigoideo — hemorragia profusa durante la separación pterigomaxilar; se maneja con presión y anestésico local con vasoconstrictor; (4) Arteria maxilar interna (o una de sus ramas principales) — hemorragia catastrófica rara si el osteotomo pterigoideo curvo pasa por encima de la unión pterigomaxilar hacia la fosa pterigomaxilar."
+        },
+        {
+          "type": "table",
+          "title": "Estructuras en Riesgo durante la Osteotomía de Le Fort I",
+          "headers": ["Estructura", "Localización / Riesgo", "Consecuencia de la Lesión", "Prevención"],
+          "rows": [
+            ["Arteria palatina descendente", "Conducto palatino mayor; mucoperiostio palatino", "Isquemia / necrosis del maxilar movilizado", "Conservar la mucosa palatina intacta en todo momento"],
+            ["Nervio infraorbitario (V2)", "4–7 mm por debajo del reborde infraorbitario", "Parestesia del labio superior, mejilla y lado de la nariz", "Mantener el corte horizontal ≥5 mm por debajo del reborde infraorbitario"],
+            ["Plexo venoso pterigoideo", "Zona pterigomaxilar", "Hemorragia significativa", "Infiltración de vasoconstrictor; compresión y relleno con apósito"],
+            ["Arteria maxilar interna", "Fosa pterigomaxilar, por encima de la unión pterigomaxilar", "Hemorragia catastrófica; posiblemente fatal", "Colocación precisa del osteotomo curvo; evitar dirección superior"],
+            ["Conducto nasolagrimal", "Pared maxilar anteromedial hacia la cavidad nasal", "Epífora (rara)", "Corte osteotómico anteromedial mantenido bajo en el reborde piriforme"],
+            ["Raíces dentarias", "Dentro de 3–5 mm de la línea de osteotomía", "Daño radicular; devitalización dental", "Confirmación cefalométrica/CBCT de las posiciones de las raíces dentarias"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2-S3",
+      "title": "Técnica Quirúrgica — Paso a Paso",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La técnica estándar de la osteotomía de Le Fort I procede de la siguiente manera: (1) **Infiltración** — anestésico local con adrenalina 1:100.000 subperiósticamente a lo largo del vestíbulo maxilar y bilateralmente en los agujeros infraorbitarios; (2) **Incisión** — incisión horizontal de la mucosa en el vestíbulo maxilar (surco labial), 4–5 mm por encima de la unión mucogingival desde el primer molar al primer molar, con incisiones de descarga verticales bilaterales; (3) **Disección subperióstica** — elevación del colgajo mucoperióstico superiormente, exponiendo la cara maxilar anterior, los rebordes piriformes, las paredes nasales laterales y los contrafuertes cigomáticos bilateralmente. Los haces neurovasculares infraorbitarios se identifican y protegen. Se eleva la mucosa nasal del suelo; (4) **Osteotomía** — usando una sierra alternante u oscilante (hoja protegida), se realiza la osteotomía horizontal 3–5 mm por encima de los ápices dentarios (confirmado en el CBCT preoperatorio): paredes laterales del seno maxilar desde el reborde piriforme posteriormente hasta la unión pterigomaxilar bilateralmente. El tabique nasal se corta con un osteotomo septal; (5) **Disfunción pterigomaxilar** — el osteotomo curvo se coloca en el aspecto inferior de la fisura pterigomaxilar y se golpea posterolateralmente, separando las apófisis pterigoides del tubérculo maxilar. Este es el paso más crítico y peligroso; (6) **Movilización** — el maxilar se moviliza hacia abajo (downfracture) con presión digital o con las pinzas de desimpactación de Rowe. La movilización debe ser suave y progresiva; (7) Se coloca la **férula intermedia** si se planifica cirugía bimaxilar; (8) **Reposicionamiento** — el maxilar se mueve a la posición planificada, guiado por la férula quirúrgica; (9) **Fijación** — miniplatos de titanio (en 4 puntos: rebordes piriformes bilaterales + contrafuertes cigomáticos bilaterales) y tornillos fijan el maxilar en la nueva posición. Se utilizan injertos óseos si el reposicionamiento inferior crea un espacio >3 mm."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Técnica de Disfunción Pterigomaxilar",
+          "content": "El osteotomo curvo para la separación pterigomaxilar debe dirigirse POSTEROLATERALMENTE y colocarse en el aspecto INFERIOR de la fisura pterigomaxilar. Si se coloca demasiado superiormente o se dirige medialmente hacia la fosa pterigomaxilar, se puede seccionar la arteria maxilar interna, causando una hemorragia catastrófica. Confirme siempre la posición del osteotomo con palpación bimanual. Nunca utilice fuerza excesiva con el mazo — una separación controlada y progresiva es lo correcto."
+        }
+      ]
+    },
+    {
+      "id": "B2-S4",
+      "title": "Movimientos y Aplicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La osteotomía de Le Fort I permite el movimiento del maxilar en múltiples planos: (1) **Avance anterior** — para retrognacia maxilar (Clase III) o secuelas de fisura. Máximo 8–10 mm con osteotomía estándar; avances mayores requieren distracción osteogénica. (2) **Reposicionamiento posterior** — menos frecuentemente necesario; riesgo de isquemia en el territorio de la arteria maxilar si el desplazamiento posterior es >2–3 mm. (3) **Reposicionamiento superior (impacción)** — para exceso vertical maxilar (sonrisa gingival, corrección de mordida abierta anterior). Requiere la extirpación de hueso del suelo del seno; debe planificarse con precisión ya que afecta a la nariz, la exposición dental y la altura facial inferior. (4) **Reposicionamiento inferior** — para aumentar la exposición dental o la altura facial inferior; requiere injerto óseo en el sitio de osteotomía (cresta ilíaca o material aloplástico) para rellenar el espacio; menos estable que la impacción. (5) **Ensanchamiento transversal** — se puede lograr un ensanchamiento transversal limitado (2–3 mm) separando quirúrgicamente la sutura palatina media durante el Le Fort I; para deficiencias transversales mayores, el SARPE es un prerrequisito. (6) **Correcciones rotacionales (inclinación)** — cantidades asimétricas de impacción/avance en cada lado corrigen las inclinaciones del plano oclusal. (7) **Movimientos multivectoriales combinados** — la mayoría de los casos clínicos requieren impacción + avance + rotación simultáneos, todos planificados virtualmente en VSP. La **anchura de la base alar** aumenta aproximadamente 1 mm por cada 3 mm de avance maxilar (por ensanchamiento de la base nasal). Se coloca una sutura de cinch alar (cierre en V-Y de la incisión vestibular) antes del cierre final de la herida para prevenir el aleteo alar y la elevación de la punta nasal."
+        },
+        {
+          "type": "table",
+          "title": "Movimientos del Le Fort I y Aplicaciones Clínicas",
+          "headers": ["Movimiento", "Manejo Óseo", "Indicación Clínica", "Consideración Clave"],
+          "rows": [
+            ["Avance anterior", "Sin extracción/adición ósea", "Clase III, hipoplasia maxilar por fisura", "Máx. 8–10 mm; >10 mm = distracción osteogénica"],
+            ["Impacción (superior)", "Se extrae hueso del suelo del seno", "EVM (sonrisa gingival), mordida abierta anterior", "Sutura alar cinch; rotación de punta nasal"],
+            ["Reposicionamiento inferior", "Injerto óseo rellena el espacio", "Hipodivergente, cara corta", "Menos estable; requiere injerto"],
+            ["Corrección de inclinación", "Impacción ± avance asimétrico", "Asimetría facial, plano oclusal inclinado", "VSP esencial para planificación asimétrica"],
+            ["Retroceso (posterior)", "No se realiza de forma rutinaria", "Raramente necesario", "Riesgo de compromiso vascular; evitar >3 mm"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Sutura de Cinch Alar",
+          "content": "La sutura de cinch alar es una sutura profunda colocada a través del tejido de la base alar antes del cierre de la herida. Previene que las bases alares nasales se ensanchen tras la osteotomía de Le Fort I (el aleteo alar aumenta ~1 mm por cada 3 mm de avance maxilar). Sin la sutura alar cinch, la nariz se ensancha, lo cual es estéticamente indeseable en pacientes con bases alares normales o anchas."
+        }
+      ]
+    },
+    {
+      "id": "B2-S5",
+      "title": "Complicaciones — Reconocimiento y Manejo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones de la osteotomía de Le Fort I se clasifican por tiempo y sistema. **Complicaciones intraoperatorias**: (1) **Hemorragia excesiva** del plexo venoso pterigoideo o de la arteria maxilar interna — manejar con taponamiento a presión; si es arterial, puede requerir embolización intervencionista. (2) **Fractura desfavorable** — fisura que se extiende hacia el suelo orbitario, el pterigoideo o la raíz nasal; generalmente se maneja de forma conservadora con placas de fijación adicionales. (3) **Daño radicular** — si el corte osteotómico es demasiado bajo; confirme preoperatoriamente con CBCT e intraoperatoriamente si es necesario. **Complicaciones postoperatorias precoces**: (1) **Hematoma/sangrado** — la mayoría dentro de las 24 horas; si es expansivo, regreso al quirófano. (2) **Infección/sinusitis** — la sinusitis maxilar post-Le Fort I ocurre en el 3–5%; tratar con antibióticos y descongestionantes; raramente requiere lavado del seno. (3) **Disfunción nerviosa sensitiva** — parestesia del nervio infraorbitario en el 30–50% en el postoperatorio; la mayoría se resuelve a los 6–12 meses. La pérdida sensitiva permanente ocurre en <5%. **Complicaciones tardías**: (1) **Recidiva esquelética** — depende de la magnitud y dirección del movimiento; contrarreste con fijación rígida en 4 puntos, elásticos dentales y ortodoncia postquirúrgica. (2) **Necrosis aséptica del maxilar** — extremadamente rara (<0,1%); causada por la devascularización del maxilar por desgarro del mucoperiostio palatino; se presenta como necrosis del paladar y los dientes semanas después de la cirugía. (3) **Compromiso de la vía aérea nasal** — la impacción acorta la vía aérea nasal superior; puede ser necesaria la rinoseptoplastia. (4) **Palpabilidad o exposición del material de osteosíntesis** — las placas de titanio son palpables en pacientes delgados; extracción a los 12–18 meses cuando se complete la consolidación ósea. (5) **Cambios periodontales** — raros; asociados con tensión excesiva sobre el cierre del colgajo mucoso."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Integridad de la Mucosa Palatina",
+          "content": "La necrosis avascular del maxilar es catastrófica y casi completamente prevenible. El mucoperiostio palatino es el principal aporte vascular al maxilar osteotomizado. Cualquier desgarro, perforación o tensión excesiva sobre el colgajo palatino arriesga la devascularización. Diseque siempre la mucosa del suelo nasal con cuidado. Si se produce una perforación palatina, debe repararse inmediatamente y el caso debe reconsiderarse si es grande."
+        }
+      ]
+    },
+    {
+      "id": "B2-S6",
+      "title": "Biología de la Curación y Manejo Postoperatorio",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La curación ósea tras el Le Fort I sigue la biología estándar de curación de fracturas con consideraciones adicionales para el maxilar osteotomizado. La cronología de la curación: (1) Fase inflamatoria (0–7 días): formación de hematoma, afluencia de células inflamatorias, comienza la angiogénesis; (2) Fase de callo blando (1–3 semanas): fibroblastos y condroblastos forman un puente fibrocartilaginoso; (3) Fase de callo duro (3–8 semanas): depósito de hueso reticular en las líneas de osteotomía; (4) Remodelación ósea (3–12 meses): el hueso laminar reemplaza al hueso reticular, las placas pueden extraerse a los 12 meses. La consolidación radiográfica es típicamente visible a las 6–8 semanas. Manejo postoperatorio: **Dieta** — dieta líquida durante 2 semanas, dieta blanda durante 6 semanas (sin alimentos duros), dieta normal a las 12 semanas; **Tracción elástica** — pequeños elásticos intermaxilares en el postoperatorio guían las discrepancias oclusales menores y mantienen la oclusión planificada; **Higiene oral** — enjuague con clorhexidina durante 2–4 semanas; **Restricción de actividad** — sin deportes de contacto durante 12 semanas; **Cuidado nasal** — irrigación salina, descongestionantes para reducir el riesgo de sinusitis tras la impacción maxilar; **Imagen de seguimiento** — ortopantomografía a las 6 semanas para confirmar la posición de las placas y la curación ósea."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Regreso a la Dieta Normal",
+          "content": "Los pacientes suelen recibir el alta hospitalaria con dieta líquida durante 2 semanas tras el Le Fort I. Avanzar a dieta blanda a las 2–6 semanas y dieta normal a las 12 semanas garantiza la curación ósea sin fractura o desplazamiento de las placas por la carga precoz con alimentos duros. Los pacientes preguntan frecuentemente sobre la alimentación — explique claramente las restricciones dietéticas ya que el incumplimiento arriesga el fallo del implante antes de que se complete la consolidación ósea."
+        }
+      ]
+    },
+    {
+      "id": "B2-S7",
+      "title": "Le Fort I Multisegmentario y Situaciones Especiales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La osteotomía de Le Fort I monosegmentaria estándar mueve todo el maxilar dentoalveolar como una unidad. En ciertas situaciones, el maxilar puede dividirse en múltiples segmentos (Le Fort I multisegmentario) para permitir el reposicionamiento diferencial de distintos segmentos y para manejar discrepancias transversales dentro de la arcada. La modificación multisegmentaria más común es el **Le Fort I segmentario** (2–3 piezas): el maxilar se divide en la línea media (cortes parasagitales palatinos) o en un sitio de extracción de premolar, permitiendo la expansión o constricción de diferentes porciones de la arcada simultáneamente con el reposicionamiento anteroposterior y vertical. Se utiliza cuando: (1) la discrepancia transversal de arcada significativa no puede manejarse solo con SARPE; (2) se necesita un posicionamiento vertical diferencial de diferentes segmentos (p. ej., nivelar una arcada irregular). **Riesgos de la osteotomía multisegmentaria**: mayor riesgo de compromiso vascular para los segmentos individuales (pedículos más pequeños), mayor tasa de recidiva, riesgo de necrosis ósea entre segmentos. El Le Fort I multisegmentario requiere una planificación meticulosa con VSP. **Le Fort I alto (equivalente Le Fort II/III)**: para la hipoplasia mediofacial sindrómica (Crouzon, Apert), se realiza un avance del macizo facial Le Fort III (o procedimiento monobloc), moviendo todo el macizo facial incluyendo las órbitas — esto está fuera del alcance de la cirugía ortognática estándar y se realiza en unidades craneofaciales."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Distracción Osteogénica para Grandes Avances",
+          "content": "Para avances maxilares >10 mm (frecuentes en pacientes con fisura con hipoplasia maxilar grave), el avance agudo monoetapa con Le Fort I se asocia con altas tasas de recidiva y tensión de los tejidos blandos. La distracción osteogénica (DO) tras los cortes Le Fort I permite el avance gradual (1 mm/día de activación durante 10–14 días) con regeneración ósea simultánea, recidiva significativamente menor y menor tensión de tejidos blandos. La DO de transporte utiliza un dispositivo activado diariamente a través de un mecanismo enterrado o externo."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre la osteotomía de Le Fort I — anatomía, técnica, complicaciones y curación — con 20 preguntas estilo examen de residentes.",
+    "questions": [
+      {
+        "id": "B2-Q1",
+        "stem": "El principal aporte vascular al maxilar tras la osteotomía de Le Fort I se mantiene a través de qué vaso y su tejido asociado?",
+        "options": {
+          "A": "Arteria alveolar superior anterior a través del mucoperiostio vestibular",
+          "B": "Arteria palatina descendente dentro del mucoperiostio palatino intacto",
+          "C": "Arteria infraorbitaria a través del colgajo de mucosa labial",
+          "D": "Arteria maxilar interna a través del periostio de la unión pterigomaxilar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los estudios de revascularización de Bell (J Oral Surg 1969) demostraron que la arteria palatina descendente, que discurre dentro del mucoperiostio palatino intacto, es el pedículo vascular crítico que mantiene la viabilidad maxilar tras la movilización completa. Siempre que la mucosa palatina se mantenga intacta y sin tensión, el maxilar permanece adecuadamente perfundido incluso con todas las demás conexiones vasculares seccionadas.",
+          "wrong": {
+            "A": "La arteria alveolar superior anterior (de la arteria infraorbitaria) irriga los dientes maxilares anteriores pero sus conexiones inferiores se seccionan en la osteotomía — no es el principal aporte vascular post-osteotomía.",
+            "C": "El colgajo de mucosa labial (incisión vestibular) se eleva durante el abordaje y su contribución mucosa disminuye durante el procedimiento — este no es el pedículo crítico.",
+            "D": "El periostio de la unión pterigomaxilar se incide y las apófisis pterigoides se separan durante el procedimiento — este no es el pedículo vascular conservado."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Bell WH. J Oral Surg 1969",
+          "trial": "Bell WH (J Oral Surg 1969): estudio de laboratorio fundamental que demuestra la viabilidad maxilar tras la osteotomía completa de Le Fort I cuando se conserva la mucosa palatina; estableció el principio quirúrgico de que el colgajo palatino intacto = perfusión adecuada.",
+          "pearl": "Aporte vascular del maxilar tras Le Fort I: arteria palatina descendente dentro del mucoperiostio palatino intacto = el pedículo crítico. Nunca desgarrar o perforar la mucosa palatina. La perforación palatina = riesgo de necrosis avascular de todo el maxilar."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q2",
+        "stem": "Durante la osteotomía de Le Fort I, ¿a qué distancia mínima por encima de los ápices de los dientes maxilares debe realizarse el corte horizontal?",
+        "options": {
+          "A": "1 mm",
+          "B": "3–5 mm",
+          "C": "8–10 mm",
+          "D": "15 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La osteotomía horizontal de Le Fort I se realiza 3–5 mm por encima de los ápices de los dientes maxilares. Esto garantiza la integridad de las raíces dentarias al tiempo que permanece por debajo del agujero infraorbitario y deja suficiente hueso para la colocación de las placas de fijación. La posición exacta debe confirmarse preoperatoriamente en el CBCT, ya que las posiciones de los ápices radiculares varían entre pacientes — especialmente importante para los pacientes con raíces de canino largas.",
+          "wrong": {
+            "A": "1 mm por encima de los ápices arriesga la sección radicular durante el corte osteotómico, causando devitalización dental.",
+            "C": "8–10 mm por encima de los ápices probablemente vulneraría el suelo infraorbitario (el agujero infraorbitario está aproximadamente 7 mm por debajo del reborde infraorbitario) y reduciría el hueso disponible para el segmento osteotómico.",
+            "D": "15 mm por encima de los ápices estaría al nivel del suelo orbitario — esto convertiría la osteotomía en un nivel de Le Fort II (fractura piramidal), que no es el objetivo."
+          },
+          "guideline": "Posnick JC. Orthognathic Surgery (Saunders 2014); EACMFS Guidelines 2023",
+          "trial": "Rachmiel A et al. (Int J Oral Maxillofac Surg 2001): estudio anatómico de los niveles de la osteotomía de Le Fort I — confirmados 3–5 mm por encima de los ápices radiculares como óptimo para la protección dental y suficiente hueso de fijación.",
+          "pearl": "Nivel de la osteotomía de Le Fort I: 3–5 mm por encima de los ápices radiculares de los dientes maxilares. Confirme con CBCT preoperatoriamente — las raíces de los caninos suelen ser las más altas. Mantenga el corte por debajo del agujero infraorbitario (nervio infraorbitario 7 mm por debajo del reborde infraorbitario). Fijación en 4 puntos: rebordes piriformes + contrafuertes cigomáticos."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q3",
+        "stem": "¿Qué abordaje de fijación proporciona la fijación Le Fort I más estable y es actualmente práctica estándar?",
+        "options": {
+          "A": "Osteosíntesis con alambre (alambrado circunferencial a través de agujeros de taladro)",
+          "B": "Fijación con miniplaca de titanio en 2 puntos (solo contrafuertes cigomáticos bilaterales)",
+          "C": "Fijación con miniplaca de titanio en 4 puntos (rebordes piriformes bilaterales y contrafuertes cigomáticos bilaterales)",
+          "D": "Cemento óseo (PMMA) en la línea de osteotomía"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La fijación con miniplacas de titanio en 4 puntos — dos placas en los rebordes piriformes bilaterales (anteriores) y dos placas en los contrafuertes cigomáticos bilaterales (posteriores) — proporciona la fijación de Le Fort I más estable, distribuyendo las fuerzas masticatorias y quirúrgicas a través de cuatro puntos del esqueleto maxilar. Esto ha reemplazado a la osteosíntesis con alambre, que tenía tasas de recidiva significativamente mayores y requería fijación intermaxilar (FIM) prolongada en el postoperatorio.",
+          "wrong": {
+            "A": "La osteosíntesis con alambre fue la técnica histórica — requería 6 semanas de FIM (alambrado de mandíbulas), es menos estable y tiene mayores tasas de recidiva. Ya no se utiliza para la cirugía ortognática estándar.",
+            "B": "La fijación en 2 puntos (solo contrafuertes cigomáticos) es insuficiente para la estabilidad anterior — las placas del reborde piriforme proporcionan soporte anterior crítico contra la tracción hacia abajo de los tejidos blandos maxilares anteriores.",
+            "D": "El cemento óseo no se utiliza para la fijación ortognática — no puede soportar las fuerzas masticatorias y no permite la curación ósea en el sitio de osteotomía."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Proffit WR et al. (Am J Orthod Dentofacial Orthop 1996): fijación interna rígida frente a osteosíntesis con alambre tras Le Fort I — la fijación rígida tuvo tasas de recidiva significativamente menores y eliminó la necesidad de FIM de 6 semanas.",
+          "pearl": "Fijación Le Fort I: 4 miniplacas de titanio — rebordes piriformes bilaterales + contrafuertes cigomáticos bilaterales. Tornillos estándar: 1,5–2,0 mm autorroscantes. Ventajas frente al alambre: movilidad mandibular inmediata, sin FIM, menor recidiva. Placas extraíbles a los 12+ meses si son sintomáticas."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q4",
+        "stem": "Se coloca una sutura de cinch alar al final de una osteotomía de Le Fort I con 5 mm de avance maxilar. ¿Cuál es el propósito principal de esta sutura?",
+        "options": {
+          "A": "Cerrar la incisión palatina si se requirió acceso a la mucosa palatina",
+          "B": "Prevenir el ensanchamiento postoperatorio de la base alar (aleteo nasal) secundario al avance maxilar",
+          "C": "Reducir la desviación postoperatoria del tabique nasal",
+          "D": "Comprimir la cavidad del seno maxilar para prevenir hematoma"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El avance maxilar hace que las bases alares de los tejidos blandos se ensanchen (se aleteen lateralmente) debido al avance de los tejidos blandos adheridos al maxilar anterior. La relación es aproximadamente 1 mm de ensanchamiento alar por cada 3 mm de avance maxilar. La sutura de cinch alar (una sutura reabsorbible profunda colocada entre las bases de los alerones antes del cierre de la herida vestibular) aprieta las bases alares, previniendo el ensanchamiento postoperatorio. Sin el cinch alar, los pacientes desarrollan una base nasal indeseablemente ensanchada.",
+          "wrong": {
+            "A": "El cierre de la incisión palatina no es el propósito de la sutura de cinch alar — en el Le Fort I estándar, la mucosa palatina se accede a través de la incisión vestibular y la mucosa palatina en sí misma no se incide.",
+            "C": "La desviación del tabique nasal se aborda mediante una septoplastia concurrente o mediante ajustes específicos de la osteotomía, no con la sutura de cinch alar.",
+            "D": "La prevención del hematoma del seno no está relacionada con la colocación de suturas — pueden usarse taponamientos nasales o drenaje del seno si se anticipa sinusitis."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Precious DS et al. (Int J Adult Orthod Orthognath Surg 1993): cambios en la base alar tras Le Fort I — sin cinch alar, ensanchamiento medio de 2,4 mm con 5 mm de avance; la sutura cinch redujo el ensanchamiento a 0,4 mm.",
+          "pearl": "Sutura de cinch alar: previene el ensanchamiento de la base alar tras el avance Le Fort I. ~1 mm de ensanchamiento por 3 mm de avance sin cinch. Colocar ANTES del cierre de la herida a través del tejido de la base alar. Use también cierre en V-Y de la incisión vestibular para prevenir el adelgazamiento del labio superior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q5",
+        "stem": "Un paciente desarrolla necrosis avascular de una porción del maxilar anterior tras la osteotomía de Le Fort I. La causa intraoperatoria más probable es:",
+        "options": {
+          "A": "Uso excesivo de electrocauterio en la encía vestibular",
+          "B": "Desgarro o perforación del mucoperiostio palatino durante la disección del suelo nasal",
+          "C": "Colocación de demasiados tornillos de fijación en el área piriforme",
+          "D": "Tiempo quirúrgico prolongado (>4 horas)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La necrosis avascular del maxilar tras Le Fort I es causada por la devascularización del maxilar osteotomizado, que ocurre cuando el mucoperiostio palatino (que contiene la arteria palatina descendente) se desgarra, perfora o se pone bajo tensión excesiva. Una perforación palatina interrumpe el único pedículo vascular restante del maxilar movilizado. El tiempo quirúrgico y el número de tornillos de fijación no causan devascularización.",
+          "wrong": {
+            "A": "El electrocauterio en la encía vestibular puede causar lesión gingival local pero no devasculariza el maxilar — el pedículo palatino permanece intacto.",
+            "C": "La colocación de tornillos de fijación en el área piriforme es técnica estándar. El número de tornillos no compromete el aporte vascular del pedículo palatino.",
+            "D": "El tiempo quirúrgico prolongado por sí solo no causa necrosis avascular maxilar siempre que la mucosa palatina esté intacta. La duración de la cirugía no es la variable clave — la integridad del pedículo lo es."
+          },
+          "guideline": "Bell WH J Oral Surg 1969; EACMFS Guidelines 2023",
+          "trial": "Lanigan DT et al. (J Oral Maxillofac Surg 1990): necrosis avascular tras Le Fort I — todos los casos reportados asociados con desgarros de la mucosa palatina o tensión excesiva; confirmó la perforación palatina como etiología principal.",
+          "pearl": "Prevención de la necrosis avascular: NUNCA desgarrar, perforar ni colocar tensión sobre el mucoperiostio palatino. Si se produce una perforación palatina, reparar inmediatamente con suturas. Si la perforación es grande: reconsiderar el procedimiento o añadir soporte provisional hasta confirmar la vascularización. Incidencia <0,1% en centros con experiencia."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q6",
+        "stem": "La parestesia del nervio infraorbitario tras la osteotomía de Le Fort I se reporta en qué proporción de pacientes en el postoperatorio, y cuál es la evolución natural típica?",
+        "options": {
+          "A": "5% de los pacientes; permanente en la mayoría de los casos",
+          "B": "30–50% de los pacientes; la mayoría se resuelve a los 6–12 meses",
+          "C": "70–80% de los pacientes; permanente en todos",
+          "D": "Menos del 1% de los pacientes; raramente ocurre"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La parestesia del nervio infraorbitario (V2) ocurre en el 30–50% de los pacientes tras la osteotomía de Le Fort I debido a tracción, estiramiento o traumatismo menor del nervio durante la disección subperióstica o la osteotomía cerca del agujero infraorbitario. La gran mayoría (>90%) se resuelve a los 6–12 meses. La pérdida sensitiva permanente ocurre en <5%. Esta es una complicación importante a tratar en el consentimiento informado preoperatorio.",
+          "wrong": {
+            "A": "Una incidencia del 5% es muy baja — la parestesia del NIO ocurre en el 30–50% de los casos. No es permanente en la mayoría de los casos.",
+            "C": "El 70–80% es una sobreestimación, y «permanente en todos» es categóricamente incorrecto — la gran mayoría se resuelve.",
+            "D": "Menos del 1% infraestima dramáticamente la verdadera incidencia. La parestesia del NIO es uno de los eventos neurológicos postoperatorios más frecuentes tras el Le Fort I."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; BAOMS Standards 2022",
+          "trial": "Colella G et al. (Int J Oral Maxillofac Surg 2007): revisión sistemática de las alteraciones neurosensoriales tras cirugía ortognática — parestesia del NIO en el 30–40% post-Le Fort I; >90% de recuperación a los 12 meses; pérdida permanente <5%.",
+          "pearl": "Parestesia del NIO post-Le Fort I: incidencia 30–50%. Evolución natural: >90% de recuperación a los 12 meses. Pérdida permanente <5%. Documentar preoperatoriamente, asesorar al paciente, tranquilizar en el seguimiento. Si no hay mejora a los 12 meses: considerar cartografía nerviosa y pruebas neurosensoriales formales."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q7",
+        "stem": "Para un procedimiento de impacción de Le Fort I (reposicionamiento superior) de 4 mm para corregir el exceso vertical maxilar, ¿qué paso de manejo óseo es necesario?",
+        "options": {
+          "A": "Se coloca un injerto óseo en el sitio de osteotomía para rellenar el espacio superior",
+          "B": "Se extirpan 4 mm de hueso del aspecto superior de la osteotomía (del suelo del seno y las paredes laterales del seno) antes del reposicionamiento",
+          "C": "No se requiere manejo óseo — el maxilar simplemente se comprime superiormente",
+          "D": "Se extirpa el reborde piriforme para permitir el movimiento hacia arriba sin contacto óseo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para el reposicionamiento superior (impacción), primero debe eliminarse el hueso al que se moverá el maxilar. Una impacción de 4 mm requiere extraer 4 mm de hueso de los bordes superiores de la osteotomía (el suelo del seno inferior y las paredes maxilares laterales inferiores). Sin la extirpación del hueso, el maxilar no puede moverse superiormente — las paredes óseas bloquearían el movimiento. La cantidad de hueso extraído es igual a la cantidad de impacción planificada.",
+          "wrong": {
+            "A": "Los injertos óseos se utilizan para el REPOSICIONAMIENTO INFERIOR (para rellenar el espacio creado cuando el maxilar se mueve ABAJO). Para la impacción (moverse ARRIBA), el hueso se EXTIRPA, no se añade.",
+            "C": "El maxilar no puede «simplemente comprimirse superiormente» sin extirpación ósea — las paredes óseas rígidas impiden el movimiento superior sin crear espacio mediante la extirpación ósea.",
+            "D": "Los rebordes piriformes se conservan para la colocación de las placas de fijación — no se extirpan. La extirpación ósea es del aspecto SUPERIOR de la osteotomía (suelo del seno), no del reborde piriforme."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Stec M et al. (Int J Oral Maxillofac Surg 2007): impacción Le Fort I para EVM — relación 1:1 entre extirpación ósea (mm) e impacción maxilar lograda; confirmada la técnica estándar de extirpación ósea superior.",
+          "pearl": "Impacción Le Fort I: Extirpar hueso del aspecto SUPERIOR de la osteotomía = cantidad de impacción deseada. Reposicionamiento inferior Le Fort I: INJERTO ÓSEO rellena el espacio inferior. Impacción = movimiento más estable. Reposicionamiento inferior = menos estable (requiere injerto)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q8",
+        "stem": "La disfunción pterigomaxilar es el paso durante el Le Fort I en el que el osteotomo curvo separa las apófisis pterigoides del tubérculo maxilar. ¿En qué dirección debe dirigirse el osteotomo para evitar la lesión de la arteria maxilar interna?",
+        "options": {
+          "A": "Directamente superior y medial hacia la base del cráneo",
+          "B": "Directamente posterior a lo largo de la línea media",
+          "C": "Posterolateral, colocado en el aspecto INFERIOR de la fisura pterigomaxilar",
+          "D": "Anterosuperior hacia el agujero infraorbitario"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El osteotomo curvo para la disfunción pterigomaxilar debe dirigirse POSTEROLATERALMENTE y colocarse en el aspecto INFERIOR de la fisura pterigomaxilar. Esta dirección separa la unión pterigomaxilar de forma segura, lejos de la arteria maxilar interna y sus ramas en la fosa pterigomaxilar superiormente. Si el osteotomo se coloca demasiado superiormente o se dirige medialmente/superiormente, puede entrar en la fosa pterigomaxilar y lacerar la arteria maxilar interna.",
+          "wrong": {
+            "A": "La dirección superior y medial llevaría el osteotomo directamente hacia la arteria maxilar interna y la fosa pterigomaxilar — la dirección más peligrosa posible.",
+            "B": "Directamente posterior produciría una fractura no anatómica y riesgo de lesión de la arteria maxilar posterior.",
+            "D": "Anterosuperior hacia el agujero infraorbitario no separaría la unión pterigomaxilar en absoluto — esta es la estructura y dirección incorrectas."
+          },
+          "guideline": "Posnick JC. Orthognathic Surgery 2014; EACMFS Guidelines 2023",
+          "trial": "Lanigan DT and Tubman DE (J Oral Maxillofac Surg 1987): lesiones de la arteria maxilar interna durante Le Fort I — todos los casos asociados con osteotomo colocado superiormente o dirigido medialmente; la dirección posterolateral con colocación inferior es segura.",
+          "pearl": "Disfunción pterigomaxilar: osteotomo curvo, punta colocada en la fisura pterigomaxilar INFERIOR, dirigida POSTEROLATERALMENTE. Golpes suaves de mazo — separación progresiva. Si hay resistencia: no forzar — verificar posición. La lesión de la AIM es potencialmente mortal. Utilice palpación bimanual para confirmar la colocación correcta."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q9",
+        "stem": "Una osteotomía de Le Fort I con 8 mm de avance para un paciente con fisura resulta en una recidiva esquelética postoperatoria significativa de 4 mm (50%) a los 12 meses. ¿Qué modificación técnica habría sido más probable para prevenir esta recidiva?",
+        "options": {
+          "A": "Añadir BSSO concurrente para equilibrar las fuerzas",
+          "B": "Usar distracción osteogénica (DO) en lugar de avance agudo",
+          "C": "Aumentar el número de tornillos de fijación de 4 a 8 por placa",
+          "D": "Realizar la cirugía a una edad más temprana (16 en lugar de 22)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para avances maxilares >8–10 mm (especialmente frecuentes en pacientes con fisura con hipoplasia maxilar grave), el Le Fort I agudo monoetapa se asocia con alta recidiva debido a: (1) tensión excesiva de los tejidos blandos (labio, mejilla, musculatura faríngea) que traccionan el maxilar hacia atrás; (2) contacto óseo insuficiente en el sitio de osteotomía; (3) dificultad para lograr fijación rígida bajo tensión. La distracción osteogénica (DO) permite el avance gradual a 1 mm/día, con formación ósea simultánea rellenando el espacio, minimizando la tensión de los tejidos blandos y logrando contacto óseo en todo momento. La recidiva tras DO para el avance maxilar en fisura es significativamente menor (10–15% frente a 40–60% para Le Fort I agudo de 8+ mm).",
+          "wrong": {
+            "A": "Añadir BSSO no aborda la recidiva esquelética maxilar — el BSSO mueve la mandíbula, no el maxilar. La recidiva maxilar es un problema de estabilidad maxilar.",
+            "C": "Aumentar el número de tornillos de 4 a 8 por placa no mejora significativamente la estabilidad de los grandes avances agudos donde el problema principal es la tensión de los tejidos blandos que traccionan el maxilar hacia atrás.",
+            "D": "Realizar la cirugía antes (a los 16 en un paciente con fisura) arriesga la recidiva por crecimiento continuado — los pacientes con fisura a menudo tienen potencial de crecimiento hasta la veintena temprana. La cirugía más temprana sería inapropiada."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Rachmiel A et al. Int J Oral Maxillofac Surg 2001",
+          "trial": "Rachmiel A et al. (Int J Oral Maxillofac Surg 2001): DO frente a avance agudo Le Fort I en hipoplasia maxilar por fisura — DO: recidiva media 12% a los 2 años; agudo: recidiva media 48% para avances >8 mm; estableció la DO como técnica preferida para grandes avances en fisura.",
+          "pearl": "Gran avance maxilar (>10 mm, frecuente en fisura): usar distracción osteogénica. Tasa de activación 1 mm/día; latencia 5–7 días; consolidación 3 meses. Tasa de recidiva 10–15% frente a 40–60% para Le Fort I agudo en fisura. DO estándar en los equipos de fisura."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q10",
+        "stem": "La incisión vestibular estándar del Le Fort I se realiza a qué nivel anatómico?",
+        "options": {
+          "A": "A través de la encía adherida, 1 mm del margen gingival",
+          "B": "En la unión mucogingival",
+          "C": "En el vestíbulo labial, 4–5 mm por encima de la unión mucogingival (en mucosa móvil)",
+          "D": "A través de la mucosa palatina en la unión del paladar duro y blando"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La incisión vestibular del Le Fort I se realiza en la mucosa labial móvil del vestíbulo maxilar, aproximadamente 4–5 mm por encima de la unión mucogingival. Esta localización: (1) proporciona un collarín mucoso adecuado para el cierre de la herida sin tensión; (2) evita el margen gingival (que crearía problemas periodontales); (3) deja un collarín mucoso en el lado del colgajo para el cierre; (4) proporciona acceso adecuado a la cara maxilar anterior para la disección subperióstica.",
+          "wrong": {
+            "A": "La incisión a través de la encía adherida comprometería el surco gingival y causaría defectos periodontales — nunca apropiado para la incisión ortognática.",
+            "B": "La incisión en la unión mucogingival deja un collarín mucoso inadecuado en el lado gingival para el cierre de la herida, arriesgando la dehiscencia y la exposición periodontal.",
+            "D": "La mucosa palatina no se incide en el Le Fort I estándar — es el pedículo vascular crítico y debe conservarse intacto en todo momento."
+          },
+          "guideline": "Posnick JC. Orthognathic Surgery 2014; EACMFS Guidelines 2023",
+          "trial": "Descripción de técnica estándar confirmada por Posnick JC (Orthognathic Surgery Principles and Practice, Saunders 2014) como la colocación de incisión universalmente aceptada para Le Fort I — 4–5 mm por encima de la unión mucogingival en mucosa móvil.",
+          "pearl": "Incisión Le Fort I: horizontal en el vestíbulo maxilar, 4–5 mm por encima de la unión mucogingival, del primer molar al primer molar con descargas verticales bilaterales. Esto deja un collarín mucoso adecuado en el lado dental para el cierre de la herida. Nunca incidir la mucosa palatina — es el aporte vascular."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q11",
+        "stem": "Tras la osteotomía de Le Fort I, ¿en qué semana postoperatoria típicamente deben pasar los pacientes de dieta líquida a blanda?",
+        "options": {
+          "A": "Días 3–5 postoperatorio",
+          "B": "2 semanas postoperatorio",
+          "C": "6 semanas postoperatorio",
+          "D": "12 semanas postoperatorio (dieta normal)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Protocolo dietético estándar post-Le Fort I: dieta líquida durante 2 semanas (permite la fase inflamatoria inicial y la formación temprana de callo blando sin carga); dieta blanda de la semana 2 a la 6 (el hueso reticular se está formando pero la tolerancia a la carga completa aún no está lograda); dieta normal a las 12 semanas (callo duro y remodelación temprana completa, la fijación con placas es segura). La transición a dieta blanda a las 2 semanas coincide con el inicio de la fase reparativa.",
+          "wrong": {
+            "A": "Los días 3–5 es demasiado precoz — el hueso está en la fase inflamatoria aguda con solo hematoma presente; la carga prematura arriesga el desplazamiento de las placas.",
+            "C": "6 semanas es cuando se considera la transición de dieta blanda a normal — no cuando la líquida pasa a blanda. Esperar 6 semanas para cualquier alimento sólido es innecesariamente prolongado.",
+            "D": "12 semanas es cuando el paciente puede comer normalmente (dieta completa) — este es el cronograma de dieta completa, no la transición de líquida a blanda."
+          },
+          "guideline": "EACMFS Orthognathic Post-operative Care Guidelines 2023; Posnick JC 2014",
+          "trial": "Protocolo clínico estándar de Posnick JC Orthognathic Surgery 2014 y normas BAOMS — líquida ×2 semanas, blanda ×2–6 semanas, normal ×12 semanas; basado en la cronología de la biología de curación ósea.",
+          "pearl": "Dieta post-Le Fort I: Líquida ×2 semanas → Blanda ×6 semanas → Normal a las 12 semanas. Elásticos desde la semana 1. Citas de ortodoncia se reanudan a las 4–8 semanas. Sin deportes de contacto ×12 semanas. Extracción de placas a los 12+ meses si son sintomáticas."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q12",
+        "stem": "La hemorragia masiva intraoperatoria durante la disfunción pterigomaxilar del Le Fort I implica con mayor frecuencia qué vaso?",
+        "options": {
+          "A": "Arteria carótida externa",
+          "B": "Arteria maxilar interna o plexo venoso pterigoideo",
+          "C": "Arteria alveolar inferior",
+          "D": "Arteria facial transversa"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fuente más común de hemorragia significativa durante la disfunción pterigomaxilar del Le Fort I es el plexo venoso pterigoideo (sangrado venoso difuso del espacio pterigoideo) o, en casos más graves, la arteria maxilar interna o una de sus ramas (que se encuentra en la fosa pterigomaxilar, por encima de la unión pterigomaxilar). El sangrado menor del plexo venoso pterigoideo es frecuente y se controla con presión. La lesión de la arteria maxilar interna es rara (<0,1%) pero catastrófica.",
+          "wrong": {
+            "A": "La arteria carótida externa no está en el campo quirúrgico del Le Fort I — es el vaso madre de la arteria maxilar interna pero no se expone durante la cirugía ortognática.",
+            "C": "La arteria alveolar inferior entra en el foramen mandibular — no está en el campo quirúrgico maxilar del Le Fort I.",
+            "D": "La arteria facial transversa es una rama de la arteria temporal superficial que irriga la cara lateral — no se encuentra durante la osteotomía de Le Fort I."
+          },
+          "guideline": "Lanigan DT et al. J Oral Maxillofac Surg 1990; EACMFS Guidelines 2023",
+          "trial": "Lanigan DT and Tubman DE (J Oral Maxillofac Surg 1987): análisis de 1500 osteotomías de Le Fort I — hemorragia significativa en el 0,8%; fuente: plexo venoso pterigoideo (más frecuente), lesión de la AIM (rara); la lesión de la AIM requirió intervención en todos los casos.",
+          "pearl": "Sangrado Le Fort I: plexo venoso pterigoideo (frecuente, controlado con presión) frente a lesión de la AIM (raro, catastrófico). Si hay hemorragia arterial no controlada: empaquetar, llamar a radiología intervencionista (embolización). Prevención: colocación precisa del osteotomo, adrenalina preoperatoria, evitar dirección superior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q13",
+        "stem": "Tras el Le Fort I con 5 mm de avance maxilar, el paciente reporta una mejora significativa de la vía aérea nasal. ¿Cuál es la explicación anatómica?",
+        "options": {
+          "A": "El tabique nasal se endereza con el movimiento de avance",
+          "B": "La espina nasal anterior avanza hacia adelante con el maxilar, ampliando la base nasal y mejorando el flujo aéreo nasal",
+          "C": "La inflamación se resuelve tras 2 semanas, abriendo mecánicamente la vía aérea",
+          "D": "Los cornetes nasales se extirpan como parte del procedimiento de Le Fort I"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Cuando el maxilar avanza en una osteotomía de Le Fort I, la espina nasal anterior (que forma parte del segmento maxilar movilizado) también avanza hacia adelante. Esto amplía la apertura nasal anterior (apertura piriforme), mejora la proyección de la punta nasal y puede reducir la resistencia de la vía aérea nasal en pacientes que tenían una apertura piriforme estrecha. Además, la rotación de la punta nasal y los cambios en el ángulo nasolabial acompañan al avance maxilar y contribuyen a los cambios de la vía aérea y estéticos.",
+          "wrong": {
+            "A": "El enderezamiento del tabique nasal no ocurre automáticamente con el avance Le Fort I — el tabique nasal se corta a nivel del suelo durante el procedimiento, pero su desviación superior (si existe) no se ve afectada a menos que se realice una septoplastia concurrente.",
+            "C": "La inflamación postoperatoria típicamente REDUCE el flujo aéreo en las primeras semanas — la mejora debida a la resolución de la inflamación es un cambio tardío (>4 semanas), no el mecanismo principal.",
+            "D": "Los cornetes no se extirpan como parte del Le Fort I — permanecen intactos. La reducción de cornetes es un procedimiento separado (turbinoplastia) que a veces se realiza de forma concurrente si está indicado."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Kahnberg KE et al. (Int J Oral Maxillofac Surg 2001): cambios en la vía aérea nasal tras el avance maxilar Le Fort I — mejora significativa en el área transversal de la vía aérea nasal correlacionada con el ensanchamiento de la apertura piriforme; confirmó el avance de la espina nasal anterior como mecanismo principal.",
+          "pearl": "Efectos del avance Le Fort I sobre la nariz: (1) Ensanchamiento de la base alar (prevenido con cinch alar); (2) Rotación de la punta nasal (hacia arriba, aumenta el ángulo nasolabial); (3) Ensanchamiento de la apertura piriforme (mejora la vía aérea nasal); (4) La ENA avanza con el maxilar. Todos deben considerarse en la planificación quirúrgica y el asesoramiento al paciente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q14",
+        "stem": "En el contexto de la curación de la osteotomía de Le Fort I, ¿cuál es el plazo típico para que la consolidación ósea radiográfica sea visible en los sitios de osteotomía?",
+        "options": {
+          "A": "1–2 semanas",
+          "B": "4–6 semanas",
+          "C": "6–8 semanas",
+          "D": "6 meses"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La consolidación ósea radiográfica (puente óseo visible en las líneas de osteotomía en OPG o TC) aparece típicamente a las 6–8 semanas tras la osteotomía de Le Fort I. Esto corresponde a la fase de callo duro de la curación, cuando el hueso reticular está suficientemente mineralizado para ser visible en la radiografía simple. La consolidación clínica (capacidad de masticar alimentos blandos sin desplazamiento de las placas) se logra generalmente a las 6 semanas, aunque la resistencia mecánica se aproxima a la normal a las 12 semanas.",
+          "wrong": {
+            "A": "1–2 semanas corresponde a la fase inflamatoria — solo se produce curación de tejidos blandos; el puente óseo aún no es radiográficamente visible.",
+            "B": "4–6 semanas es ligeramente precoz — el callo blando a las 4–6 semanas contiene osteoide y hueso reticular temprano pero puede no ser fiablemente visible en OPG. Las 6–8 semanas es el plazo más preciso.",
+            "D": "6 meses es durante la fase de remodelación — en este momento, el hueso laminar está reemplazando al hueso reticular y las líneas de osteotomía pueden estar completamente obliteradas radiográficamente. La consolidación visible ocurre mucho antes."
+          },
+          "guideline": "EACMFS Orthognathic Post-operative Care Guidelines 2023",
+          "trial": "Bell WH (Oral Surg Oral Med Oral Pathol 1977): estudios histológicos y radiográficos de curación ósea tras osteotomía maxilar — consolidación radiográfica a las 6–8 semanas; consolidación histológica (hueso laminar) a los 3–6 meses; extracción de placas segura después de 12 meses.",
+          "pearl": "Cronología de curación del Le Fort I: Inflamatoria 0–1 semana; callo blando 1–4 semanas; hueso reticular (consolidación radiográfica) 6–8 semanas; hueso laminar (resistencia completa) 3–6 meses; remodelación completa 12 meses. Placas extraíbles a los 12+ meses. Fuerzas ortodóncicas reanudadas a las 4–8 semanas."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q15",
+        "stem": "Se realiza un Le Fort I multisegmentario (Le Fort I segmentario con división en línea media) para corregir simultáneamente una discrepancia maxilar transversal. En comparación con el Le Fort I monosegmentario, ¿qué riesgo de complicación está AUMENTADO con la técnica multisegmentaria?",
+        "options": {
+          "A": "Parestesia del nervio infraorbitario",
+          "B": "Infección del seno maxilar",
+          "C": "Necrosis avascular de los segmentos individuales y mayor tasa de recidiva esquelética",
+          "D": "Sangrado del plexo venoso pterigoideo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Cuando el maxilar se divide en múltiples piezas (Le Fort I segmentario multisegmentario), cada pieza tiene un pedículo mucoso palatino más pequeño que el maxilar completo. El aporte vascular a los segmentos individuales está reducido, aumentando el riesgo de necrosis parcial del segmento. Además, los múltiples sitios de osteotomía crean más interfaces de curación ósea, cada una con potencial de no unión o recidiva parcial, resultando en una mayor tasa de recidiva esquelética global en comparación con el Le Fort I monosegmentario.",
+          "wrong": {
+            "A": "El riesgo de parestesia del nervio infraorbitario no aumenta significativamente con la técnica multisegmentaria — el nervio está al mismo nivel anatómico independientemente del número de piezas maxilares creadas.",
+            "B": "El riesgo de infección del seno maxilar es similar en Le Fort I mono vs multisegmentario — ambos exponen el interior del seno. El multisegmentario tiene más sitios de osteotomía pero esto no aumenta directamente el riesgo de sinusitis.",
+            "D": "El riesgo de sangrado del plexo venoso pterigoideo es el mismo — el paso de disfunción pterigomaxilar es idéntico en Le Fort I mono vs multisegmentario."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Turvey TA and Hall DJ (J Oral Maxillofac Surg 1982): complicaciones del Le Fort I multisegmentario — mayor tasa de devitalización dental y necrosis de segmentos frente al monosegmentario; la preservación cuidadosa del pedículo reduce pero no elimina este riesgo.",
+          "pearl": "Riesgos del Le Fort I multisegmentario: pedículos más pequeños por segmento = mayor riesgo de necrosis; más sitios de curación ósea = mayor potencial de recidiva. Ventajas: corrección simultánea transversal + vertical + sagital en un procedimiento. Reservado para cirujanos con experiencia con planificación VSP cuidadosa."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q16",
+        "stem": "Tras la osteotomía de Le Fort I, el cirujano observa que la línea media maxilar se ha desplazado 2 mm a la izquierda de lo planificado. ¿Durante qué parte del procedimiento debería haberse detectado y corregido esto?",
+        "options": {
+          "A": "Durante el cierre de la herida — las suturas pueden ajustarse para desplazar la línea media",
+          "B": "Tras la fijación final con placas — pueden añadirse tornillos adicionales para redirigir la línea media",
+          "C": "Antes de la fijación final — tras la colocación de la férula y el asentamiento, la línea media debe confirmarse con los puntos de referencia faciales antes de aplicar las placas",
+          "D": "Esto no puede corregirse — los desplazamientos de la línea media tras Le Fort I son permanentes"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Tras colocar la férula quirúrgica y asentar el maxilar, el cirujano debe confirmar la línea media maxilar en relación con los puntos de referencia faciales (línea media facial, filtrum, tabique nasal) ANTES de aplicar las placas de fijación. Si se detecta un desplazamiento de 2 mm en esta etapa, el maxilar puede simplemente reposicionarse y la férula recolocarse. Una vez aplicadas las placas de fijación y apretados los tornillos, el maxilar queda fijado — corregir un error de línea media tras la fijación de las placas es mucho más difícil (requiere la retirada de las placas y la recolocación).",
+          "wrong": {
+            "A": "Las suturas de la herida no afectan la posición del hueso maxilar — la mucosa suturada no puede redirigir un segmento óseo fijado.",
+            "B": "Tras la fijación final con placas, el hueso ya está asegurado. Añadir más tornillos no puede desplazar la posición ósea — solo puede fijar aún más la posición actual (incorrecta).",
+            "D": "Los desplazamientos de la línea media SÍ PUEDEN corregirse — la clave es detectarlos antes de la fijación. La corrección post-fijación requiere la retirada de las placas y re-osteotomía, que es un procedimiento de revisión mayor."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC 2014",
+          "trial": "Baan F et al. (J Craniomaxillofac Surg 2016): análisis de errores de posicionamiento del Le Fort I — los desplazamientos de la línea media se detectan más frecuentemente intraoperatoriamente si se realiza una verificación sistemática post-férula antes de la fijación; recomiendan un protocolo de verificación intraoperatoria estandarizado.",
+          "pearl": "Antes de aplicar las placas de fijación del Le Fort I: verificar — (1) línea media (frente al tabique nasal y el filtrum); (2) altura vertical (frente a lo planificado y referencia contralateral); (3) simetría. Estas verificaciones deben ser sistemáticas ANTES de comprometerse con la colocación de las placas. Las correcciones post-fijación requieren cirugía de revisión."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q17",
+        "stem": "¿Qué procedimiento adicional se realiza de forma rutinaria de forma concurrente con la impacción Le Fort I para prevenir cambios en la morfología de la punta nasal y el ancho de la base alar?",
+        "options": {
+          "A": "Solo septoplastia",
+          "B": "Turbinectomía (reducción de cornete inferior)",
+          "C": "Sutura de cinch alar y cierre en V-Y de la incisión vestibular",
+          "D": "Osteotomía del hueso nasal (rinotomía lateral)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La sutura de cinch alar (previene el ensanchamiento de la base alar) y el cierre en V-Y de la incisión vestibular (previene el adelgazamiento y la eversión del labio superior) se realizan de forma rutinaria con la impacción y el avance Le Fort I para controlar los cambios nasales predecibles. El cierre en V-Y añade volumen al labio superior y compensa la tendencia del labio a adelgazarse durante el cierre de la incisión vestibular.",
+          "wrong": {
+            "A": "La septoplastia aborda la desviación del tabique nasal — se realiza de forma concurrente si el paciente tiene un tabique desviado significativo que cause obstrucción nasal, pero no es una parte rutinaria de cada Le Fort I.",
+            "B": "La turbinectomía (turbinoplastia o reducción de cornete inferior) se realiza de forma concurrente si hay cornete inferior hipertrófico que contribuya a la obstrucción nasal — no es un procedimiento rutinario para cada impacción Le Fort I.",
+            "D": "La osteotomía del hueso nasal (osteotomías laterales) es un paso de rinoplastia para estrechar un dorso nasal ancho — no forma parte de la osteotomía de Le Fort I y no se realiza de forma rutinaria durante la cirugía ortognática."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Precious DS et al. Int J Adult Orthod 1993",
+          "trial": "Precious DS et al. (Int J Adult Orthod Orthognath Surg 1993): cambios alares tras Le Fort I — la sutura cinch alar reduce el ensanchamiento de media 2,4 mm a 0,4 mm; el cierre en V-Y previene el adelgazamiento del labio superior.",
+          "pearl": "Cierre rutinario de la herida Le Fort I: (1) Sutura de cinch alar (profunda, bases alares bilaterales) para prevenir el ensanchamiento; (2) Avance en V-Y de la mucosa vestibular para prevenir el adelgazamiento del labio superior. Ambas son adiciones sencillas que mejoran significativamente los resultados estéticos."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q18",
+        "stem": "Una mujer de 24 años se somete a Le Fort I por retrognacia maxilar Clase III esquelética (planificados 8 mm de avance). Durante la movilización con las pinzas de desimpactación de Rowe, se escucha un crujido audible y el cirujano observa una fractura inesperada que se extiende hacia las apófisis pterigoides, creando un fragmento maxilar posterior libre. ¿Cuál es el manejo inmediato más apropiado?",
+        "options": {
+          "A": "Abandonar el procedimiento inmediatamente y planificar revisión a los 12 meses",
+          "B": "Extraer el fragmento fracturado — será reemplazado por injerto óseo",
+          "C": "Completar suavemente la movilización, evaluar el fragmento y añadir placas de fijación adicionales para estabilizar tanto el segmento principal como la pieza fracturada",
+          "D": "Empaquetar el área y convertir a una osteotomía Le Fort II"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Una fractura desfavorable durante la movilización del Le Fort I (una fisura que se extiende más allá de la línea de osteotomía planificada) se maneja: (1) completando suavemente la movilización para garantizar la libertad completa del maxilar; (2) evaluando cuidadosamente el fragmento fracturado (la mayoría de las fracturas desfavorables implican las apófisis pterigoides o la pared posterior del seno y permanecen vascularizadas a través del pedículo palatino); (3) reposicionando tanto el segmento maxilar principal como el fragmento fracturado; (4) aplicando placas de fijación adicionales para estabilizar la fractura. En la mayoría de los casos, el fragmento fracturado permanece viable y cura sin secuelas con fijación adicional.",
+          "wrong": {
+            "A": "Abandonar el procedimiento y planificar revisión a los 12 meses es excesivamente conservador — la mayoría de las fracturas desfavorables pueden manejarse intraoperatoriamente con fijación adicional.",
+            "B": "Extraer el fragmento fracturado dejaría un defecto que requeriría injerto óseo y extirpa hueso vascularizado que puede curar si se fija adecuadamente — extirpación de tejido innecesaria.",
+            "D": "Convertir a Le Fort II (que incluye el suelo orbitario) no está indicado para una fractura maxilar posterior desfavorable — esto extendería dramáticamente el procedimiento y aumentaría la morbilidad."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Fonseca RJ et al. (Oral Maxillofac Surg Clin North Am 2004): manejo de fracturas desfavorables durante la cirugía ortognática — la fijación con placas adicionales logra curación normal en el 95% de los casos; la extirpación del fragmento raramente es necesaria.",
+          "pearl": "Fractura desfavorable Le Fort I: completar la movilización suavemente, evaluar la viabilidad del fragmento (pedículo palatino intacto = viable), reposicionar + placas de fijación adicionales. La mayoría curan sin incidencias. Documentar en el registro operatorio. Monitorear signos de devascularización postoperatoria (cambio de color, dolor)."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q19",
+        "stem": "Para una osteotomía de Le Fort I, el diámetro y la longitud típicos de los tornillos de la placa de titanio utilizados para la fijación son:",
+        "options": {
+          "A": "Tornillos corticales de 3,5 mm, longitud 16 mm",
+          "B": "Tornillos autorroscantes de 1,5–2,0 mm, longitud 5–7 mm (monocortical)",
+          "C": "Tornillos esponjosos de 6,0 mm, longitud 30 mm (bicortical)",
+          "D": "Tornillos bloqueados de 4,5 mm, longitud 12 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fijación del Le Fort I utiliza sistemas de miniplacas estándar con tornillos autorroscantes de 1,5 mm o 2,0 mm (monocortical), típicamente de 5–7 mm de longitud. Están diseñados para la fijación del macizo facial donde el hueso es relativamente delgado (cortical de 2–5 mm). La fijación monocortical es suficiente ya que las placas proporcionan estabilidad de carga sin necesidad de anclaje bicortical. Los tornillos más grandes (corticales de 3,5 mm o 4,5 mm) se utilizan para la fijación mandibular o craneal — serían inapropiados y dañinos en el delgado hueso maxilar.",
+          "wrong": {
+            "A": "Los tornillos corticales de 3,5 mm son tornillos de fijación mandibular — demasiado grandes para las delgadas paredes maxilares.",
+            "C": "Los tornillos esponjosos de 6,0 mm a 30 mm son para fijación de hueso largo (ortopédica) — completamente inapropiados para uso en el esqueleto facial.",
+            "D": "Los tornillos bloqueados de 4,5 mm se utilizan en placas de reconstrucción mandibular — demasiado grandes para la fijación mediofacial Le Fort I."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; DePuy Synthes Orthognathic Plating System Technical Guide",
+          "trial": "Protocolo clínico estándar — la fijación Le Fort I con miniplacas de titanio y tornillos monocorticales autorroscantes de 1,5–2,0 mm es universalmente aceptada según la EACMFS 2023 y todos los principales textos de cirugía ortognática.",
+          "pearl": "Fijación mediofacial (Le Fort I): miniplacas de titanio de 1,5 mm o 2,0 mm con tornillos monocorticales autorroscantes de longitud 5–7 mm. Fijación en 4 puntos: rebordes piriformes bilaterales + contrafuertes cigomáticos bilaterales. Fijación mandibular (BSSO): placas de 2,0 mm o tornillos autorroscantes bicorticales de 2,0 mm."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q20",
+        "stem": "Se completa una osteotomía de Le Fort I para corrección de EVM (3 mm de impacción) con fijación miniplacas en 4 puntos. La férula postoperatoria se mantiene en posición durante 6 semanas. A las 8 semanas, el ortodoncista observa 1,5 mm de recidiva esquelética (el maxilar ha descendido inferiormente). ¿Cuál es la explicación más probable?",
+        "options": {
+          "A": "Fractura de la placa por masticar alimentos duros demasiado pronto",
+          "B": "Remodelación fisiológica normal — todas las impacciones Le Fort I recidivan completamente",
+          "C": "Remodelación ósea fisiológica normal en el suelo del seno — se espera una recidiva menor de 0–1,5 mm dentro del rango normal",
+          "D": "Férula mantenida demasiado tiempo, causando supraoclusión de los dientes"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Una recidiva esquelética menor de 0–1,5 mm tras la impacción Le Fort I está dentro del rango esperado de remodelación ósea fisiológica normal. La impacción es uno de los movimientos Le Fort I más estables (5–10% de recidiva), y una recidiva de 1,5 mm de una impacción de 3 mm representa el 50% — en el extremo superior del rango normal pero dentro de los rangos reportados. El hueso en el suelo del seno sufre remodelación al restablecer la dimensión vertical maxilar. Una verdadera recidiva mayor de 2 mm a las 8 semanas justifica una reevaluación. El paciente debe ser monitorizado ya que la ortodoncia postquirúrgica se ajustará para acomodar las discrepancias menores residuales.",
+          "wrong": {
+            "A": "La fractura de la placa por masticar alimentos duros prematuramente produciría una recidiva repentina significativa o deformidad en el momento del evento — no una gradual de 1,5 mm a las 8 semanas. Las restricciones dietéticas postoperatorias (líquida ×2 semanas, blanda ×6 semanas) previenen esto.",
+            "B": "La recidiva completa de todas las impacciones Le Fort I es una afirmación falsa — la mayoría de las impacciones Le Fort I son muy estables con <10% de recidiva. La recidiva completa es infrecuente.",
+            "D": "La supraoclusión de los dientes por la inmovilización con la férula es una preocupación real con FIM prolongada, pero una férula de 6 semanas con seguimiento ortodóncico regular no causa supraoclusión significativa en pacientes ortognáticos que tienen excelentes contactos oclusales dentarios guiados por la férula."
+          },
+          "guideline": "Proffit WR. Semin Orthod 2007; EACMFS Guidelines 2023",
+          "trial": "Proffit WR et al. (Semin Orthod 2007): estabilidad a largo plazo tras Le Fort I — recidiva de impacción 5–10%; media 0,5–1,5 mm a los 12 meses; dentro de este rango es remodelación fisiológica esperada; no se requiere intervención a menos que sea clínicamente significativa.",
+          "pearl": "Recidiva de impacción Le Fort I: 5–10%, media 0,5–1,5 mm. Dentro de este rango = remodelación ósea normal. Recidiva significativa (>2 mm) = investigar: ¿fractura de la placa? ¿Cumplimiento del paciente? ¿Crecimiento continuado? La ortodoncia postquirúrgica ajusta para las discrepancias residuales menores. Documentar y monitorizar a los 3, 6 y 12 meses."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

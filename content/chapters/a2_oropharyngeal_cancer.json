@@ -1,0 +1,629 @@
+{
+  "id": "A2",
+  "title": "Oropharyngeal Cancer: HPV, TORS, and Chemoradiotherapy",
+  "subtitle": "Head & Neck Oncology — HPV-positive vs HPV-negative, transoral robotic surgery, definitive CRT",
+  "block": "A",
+  "block_name": "Head & Neck Oncology",
+  "level": "R2-4",
+  "reading_time_min": 42,
+  "guidelines_version": "NCCN Head and Neck Cancers v1.2024 · AJCC TNM 8th Edition 2017 · EACMFS 2023",
+  "textbook_refs": [
+    "Shah JP et al. Head and Neck Surgery and Oncology, 5th ed. (2020)",
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 4th ed. (2022)",
+    "NCCN Clinical Practice Guidelines: Head and Neck Cancers v1.2024"
+  ],
+  "learning_objectives": [
+    "Distinguish the epidemiological and prognostic differences between HPV-positive and HPV-negative oropharyngeal cancer",
+    "Apply the AJCC 8th edition separate staging system for HPV-positive oropharyngeal cancer (p16-positive)",
+    "Describe the indications, technique, and oncological outcomes of transoral robotic surgery (TORS) for oropharyngeal cancer",
+    "Outline the evidence base for de-escalation strategies in HPV-positive oropharyngeal cancer",
+    "Explain the role of concurrent chemoradiation as the primary treatment modality for locally advanced oropharyngeal cancer",
+    "Identify the clinical features that distinguish oropharyngeal from oral cavity tumours for staging purposes"
+  ],
+  "sections": [
+    {
+      "id": "A2-S1",
+      "title": "HPV and the Oropharyngeal Cancer Epidemic",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Oropharyngeal squamous cell carcinoma (OPSCC)** has undergone a remarkable epidemiological transformation over the past three decades, with the prevalence of **human papillomavirus (HPV)** — specifically HPV-16 — as the causative agent rising to 70-90% of cases in Western countries. This HPV-driven epidemic has been particularly pronounced in Northern Europe, the United States, and Australia, and has fundamentally changed the demographic, biological, and prognostic landscape of the disease.\n\nThe **oropharynx** includes four subsites: the **base of tongue** (posterior one-third), the **tonsillar complex** (palatine tonsil, anterior and posterior tonsillar pillars), the **soft palate**, and the **posterior pharyngeal wall**. The tonsillar crypts and base of tongue are the most common sites for HPV-related OPSCC because these reticulated lymphoid surfaces expose HPV to the deeper mucosal layers more readily than smooth oral cavity mucosa.\n\nHPV-positive OPSCC predominantly affects younger patients (median age 55-60 years), men, non-smokers or light smokers, and is associated with multiple sexual partners and oral sexual behaviour. The biology differs fundamentally from tobacco/alcohol-related (HPV-negative) OPSCC: HPV-positive tumours are typically **non-keratinising SCC**, show overexpression of **p16** (a cyclin-dependent kinase inhibitor that is upregulated when HPV E7 inactivates pRb), have lower rates of chromosomal instability, higher rates of lymphocytic infiltration, and dramatically improved prognosis. The 5-year overall survival for HPV-positive stage I-II OPSCC under AJCC 8th edition exceeds 85-90%, compared with approximately 35-40% for HPV-negative OPSCC of equivalent size.\n\n**p16 immunohistochemistry** is the surrogate biomarker for HPV status used in clinical practice and in the AJCC 8th edition staging. p16 positivity (defined as strong, diffuse nuclear and cytoplasmic staining in ≥70% of tumour cells) has >90% concordance with high-risk HPV DNA detection by in situ hybridisation (ISH). p16 IHC is preferred over PCR or ISH for routine clinical staging because of its reproducibility, availability, and predictive value."
+        },
+        {
+          "type": "table",
+          "title": "HPV-Positive vs HPV-Negative Oropharyngeal Cancer — Key Differences",
+          "headers": ["Feature", "HPV-Positive (p16+)", "HPV-Negative (p16-)"],
+          "rows": [
+            ["Median age", "55-60 years", "60-70 years"],
+            ["Sex", "Male predominance (M:F 5-7:1)", "Male predominance (M:F 3:1)"],
+            ["Risk factors", "Multiple sexual partners, oral sex", "Tobacco + alcohol (synergistic)"],
+            ["Primary subsite", "Tonsil > base of tongue", "Base of tongue, posterior wall"],
+            ["Histology", "Non-keratinising SCC", "Keratinising SCC"],
+            ["p16 IHC", "Strong diffuse positive (≥70% cells)", "Negative or focal"],
+            ["5-year OS (stage III-IV)", "85-90%", "35-45%"],
+            ["Response to CRT", "Excellent (pCR 60-70%)", "Moderate (pCR 25-35%)"],
+            ["AJCC 8th staging system", "Separate HPV-p OPSCC system", "Standard H&N staging"],
+            ["Distant metastasis pattern", "More common, but late and oligo", "Earlier, multiple sites"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — p16 IHC Cut-off for HPV Staging",
+          "content": "p16 positivity for AJCC 8th edition OPSCC staging requires STRONG and DIFFUSE nuclear and cytoplasmic staining in ≥70% of tumour cells. Focal or weak staining does NOT qualify. p16-positive OPSCC (HPV-associated) uses a completely different staging table than p16-negative OPSCC. This distinction is critical: an HPV-p16-positive OPSCC with bilateral neck nodes may still be Stage I or II under the AJCC 8th edition HPV system."
+        }
+      ]
+    },
+    {
+      "id": "A2-S2",
+      "title": "AJCC 8th Edition — Separate Staging for HPV-Associated OPSCC",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **AJCC 8th edition (2017)** introduced a completely separate staging system for p16-positive (HPV-associated) OPSCC, acknowledging the dramatically different prognosis of this entity. Under this system, T classification is retained from the previous edition but the N classification is profoundly simplified and the overall stage grouping is markedly different.\n\nFor **p16-positive OPSCC**, the N classification is: **cN0** = no regional nodes; **cN1** = one or more ipsilateral nodes (regardless of size, up to any number); **cN2** = contralateral or bilateral nodes. Crucially, extranodal extension is NOT incorporated into the clinical N staging for HPV-p OPSCC (unlike oral cavity cancer), though it remains relevant for pathological staging and treatment decisions. This simplified N system reflects the excellent prognosis of HPV-p OPSCC even with extensive nodal disease.\n\nThe resulting **overall stage groupings** for p16-positive OPSCC are: Stage I = T1-T2 N0-N1 M0; Stage II = T1-T2 N2 M0, or T3 N0-N1 M0; Stage III = T3 N2 M0, or T4 any N M0; Stage IV = any T any N M1 (distant metastasis only). Under this system, a patient with bilateral cervical adenopathy from a small T1 tonsil primary would be Stage II, not Stage IVc as they would have been under the previous system.\n\nFor **p16-negative OPSCC**, the standard head and neck SCC staging applies, with the same T and N criteria as oral cavity cancer (including ENE in N3b classification)."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Applying Wrong Staging System",
+          "content": "When staging oropharyngeal cancer, ALWAYS check p16 status first. p16-positive OPSCC and p16-negative OPSCC use COMPLETELY DIFFERENT staging tables in AJCC 8th edition. A p16-positive patient with T2N2b would be Stage II (favourable), while the same p16-negative patient would be Stage IVA (poor prognosis). Applying the wrong table leads to dramatically incorrect prognosis and potentially inappropriate treatment de-escalation or escalation decisions."
+        }
+      ]
+    },
+    {
+      "id": "A2-S3",
+      "title": "Transoral Robotic Surgery (TORS) for Oropharyngeal Cancer",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Transoral robotic surgery (TORS)** was developed at the University of Pennsylvania by Weinstein and O'Malley and received FDA clearance for oropharyngeal surgery in 2009. TORS uses the da Vinci Surgical System to provide three-dimensional magnified visualisation, articulated instrument arms, and tremor filtration, enabling resection of oropharyngeal tumours through the open mouth without lip-splitting incisions or mandibulotomy.\n\nThe primary oncological principle of TORS is the same as any surgical resection: **R0 resection with ≥3 mm margins** (the generally accepted close margin threshold in the oropharynx given anatomical constraints). TORS is best suited for: T1-T2 tumours of the tonsil and base of tongue; limited T3 tumours of the tonsil with adequate access; and select HPV-positive patients where primary surgery may be preferred over definitive CRT (particularly for de-escalation trial participation or in patients where radiation would be highly morbid). TORS is generally contraindicated for: T4 tumours, tumours extending to the hypopharynx or larynx, patients with limited mouth opening, and tumours requiring skull base or carotid proximity resection.\n\nThe **TORS procedure** for base of tongue: the patient is positioned supine with the neck extended. A Crowe-Davis mouth gag with appropriate suspension system is placed. The da Vinci robot is docked, with a 0-degree or 30-degree camera and two instrument arms (typically a 5 mm Maryland forceps and a 5 mm monopolar cautery). Resection is performed en bloc, working from the mucosal surface inward to achieve adequate deep margin. The major surgical risk is **hemorrhage from the lingual artery** and its branches. The lingual artery arises from the external carotid artery and courses medial to the hypoglossal nerve and medial to the hyoglossus muscle; its terminal branches supply the tongue base and may require specific identification and clip ligation during TORS.\n\nThe **PATHOS trial** and **ORATOR2 trial** represent key ongoing and completed trials comparing TORS-based surgery versus definitive chemoradiation in HPV-positive OPSCC, with functional endpoints (swallowing, voice, quality of life) as co-primary outcomes alongside oncological outcomes. Early results from ORATOR (Nichols et al., Lancet Oncol 2019) showed comparable oncological outcomes but different functional profiles: CRT resulted in worse swallowing at 1 year, while TORS+RT had similar overall QoL but different side effect profiles."
+        },
+        {
+          "type": "table",
+          "title": "TORS Indications and Contraindications for Oropharyngeal Cancer",
+          "headers": ["Criterion", "Favourable for TORS", "Contraindication to TORS"],
+          "rows": [
+            ["T stage", "T1-T2, selected T3 tonsil", "T4a, T4b"],
+            ["Location", "Tonsil, base of tongue (lateral)", "Midline base of tongue, posterior wall extension"],
+            ["Mouth opening", "≥35 mm interincisal", "<25 mm (trismus) — absolute CI"],
+            ["Neck", "Any N stage if primary resectable", "Unresectable nodal disease encasing carotid"],
+            ["HPV status", "p16-positive favoured (de-escalation)", "p16-negative (higher relapse risk)"],
+            ["Hypopharyngeal extension", "Not involved", "Any hypopharyngeal involvement"],
+            ["Patient factors", "No morbid obesity, good dentition", "Macroglossia, retrognathia limiting exposure"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Carotid Artery Proximity in TORS",
+          "content": "The internal carotid artery is typically 2-3 cm from the tonsillar fossa. Pre-operative CT or MRI assessment of carotid proximity is essential. A 'bow-tie' appearance of the carotid on cross-section imaging suggests a medially displaced carotid — this is a relative contraindication to TORS for tonsillar tumours. Intraoperative carotid injury, though rare, is catastrophic; experienced TORS surgeons should have an established protocol for emergency haemorrhage control including conversion to external approach if needed."
+        }
+      ]
+    },
+    {
+      "id": "A2-S4",
+      "title": "Definitive Chemoradiation — Standard Treatment for Locally Advanced OPSCC",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Concurrent chemoradiation (CRT)** is the standard definitive treatment for locally advanced (Stage III-IV) oropharyngeal cancer and for early-stage OPSCC in patients who are not candidates for or decline surgery. The landmark **RTOG 9111** and subsequent trials established concurrent cisplatin-based CRT as superior to sequential chemotherapy + radiation or radiation alone for laryngeal and oropharyngeal preservation, and definitive CRT became the standard over the 1990s and 2000s for OPSCC at most Western centres.\n\nThe standard definitive CRT regimen for OPSCC is: **IMRT 70 Gy in 35 fractions** (2 Gy/fraction) to gross disease, with simultaneous integrated boost covering at-risk nodal levels, and **concurrent cisplatin 100 mg/m² on days 1, 22, and 43** (or weekly cisplatin 40 mg/m² as an alternative). Response rates in HPV-positive OPSCC are exceptional: pathological complete response (pCR) rates of 60-70% in the primary site and 40-60% in regional nodes after CRT. Post-CRT PET-CT at 3 months has a negative predictive value >95% for residual disease and guides decision-making for planned neck dissection.\n\nThe **PET-NECK trial** (Mehanna et al., NEJM 2016) was a landmark RCT demonstrating that PET-CT-guided surveillance after definitive CRT in N2-3 oropharyngeal cancer was non-inferior in overall survival to planned neck dissection (2-year OS: 84.9% vs 81.5%) and significantly reduced the number of neck dissections performed (54% required salvage ND vs 100% with planned ND), with improved quality of life and similar cost-effectiveness. This established PET-CT-guided neck management as standard after definitive CRT for OPSCC.\n\nThe **toxicity profile** of definitive CRT for OPSCC is substantial: acute mucositis (Grade 3 in >50%), xerostomia, dysphagia, weight loss requiring gastrostomy (25-40% of patients), and neuropathy from cisplatin. Long-term effects include chronic xerostomia, dysphagia (late stricture in 10-20%), osteonecrosis of mandible (<5% with IMRT), hypothyroidism (40-50%), and carotid stenosis. These toxicities are the primary driver of de-escalation trials in HPV-positive OPSCC."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — PET-NECK Trial",
+          "content": "PET-NECK (Mehanna et al., NEJM 2016): 564 patients with N2-3 oropharyngeal cancer after definitive CRT. PET-CT surveillance at 12 weeks vs planned neck dissection: 2-year OS 84.9% vs 81.5% (non-inferior). Neck dissection in PET-guided arm: 54 patients (19%) vs 221 patients (81%) in planned ND arm. Cost saving: £1,400 per patient. This is the Level I evidence against routine planned neck dissection after definitive CRT for OPSCC."
+        }
+      ]
+    },
+    {
+      "id": "A2-S5",
+      "title": "De-escalation Strategies in HPV-Positive Oropharyngeal Cancer",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The excellent prognosis of HPV-positive OPSCC has generated substantial interest in treatment de-escalation to reduce long-term toxicity while maintaining oncological outcomes. Multiple strategies have been investigated, but to date **no de-escalation approach has achieved level I evidence of non-inferiority without compromising survival**.\n\nThe **RTOG 1016** trial (Gillison et al., Lancet 2019) randomised 987 patients with HPV-positive OPSCC (T1-T4, N0-N2c) to standard cisplatin-based CRT versus cetuximab-based CRT (cetuximab replacing cisplatin). The trial was stopped early when the cetuximab arm showed significantly inferior 5-year overall survival (77.9% vs 84.6%) and significantly inferior progression-free survival. RTOG 1016 conclusively demonstrated that cetuximab is NOT equivalent to cisplatin for HPV-positive OPSCC and should not be used as de-escalation.\n\nThe **De-ESCALaTE HPV trial** (Mehanna et al., Lancet 2019) simultaneously reported nearly identical results: cetuximab + RT vs cisplatin + RT in 334 patients with HPV-positive OPSCC. Significantly worse 2-year overall survival in the cetuximab arm (89.4% vs 97.5%). Both trials together constitute definitive Level I evidence against cetuximab-based de-escalation in HPV-positive OPSCC.\n\nThe **ECOG 3311 trial** (Ferris et al.) investigated TORS + adjuvant therapy de-escalation: patients with pathological intermediate-risk features received reduced-dose RT (50 Gy), while high-risk patients received standard CRT. This trial supports the concept of surgery-based de-escalation with risk-stratified adjuvant therapy and has informed ongoing phase III trials. The **PATHOS trial** (UK multi-centre) and **ADEPT trial** are exploring similar surgical de-escalation pathways.\n\nCurrently, outside of clinical trials, **standard cisplatin-based CRT remains the guideline-recommended definitive treatment** for locally advanced HPV-positive OPSCC. De-escalation is actively explored but should not be offered outside of well-designed clinical trials."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Cetuximab as De-escalation for HPV+ OPSCC",
+          "content": "Both RTOG 1016 and De-ESCALaTE HPV trials demonstrated that substituting cetuximab for cisplatin in CRT for HPV-positive OPSCC results in significantly worse survival. Cetuximab + RT is NOT an acceptable de-escalation strategy and should not be offered to HPV-positive OPSCC patients outside a clinical trial. The only evidence-based indication for cetuximab + RT in HNSCC is in cisplatin-ineligible patients (Bonner trial, NEJM 2006), not as a de-escalation strategy in cisplatin-eligible patients."
+        }
+      ]
+    },
+    {
+      "id": "A2-S6",
+      "title": "Surgical Anatomy of the Oropharynx and TORS Access",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The oropharynx is bounded anteriorly by the posterior edge of the hard palate and the circumvallate papillae, superiorly by the nasopharynx at the level of the palate, inferiorly by the valleculae and pharyngoepiglottic folds, and posteriorly by the posterior pharyngeal wall. The key surgical anatomical relationships for TORS are: the **lingual artery** (courses medial to the hyoglossus, terminal branches supply tongue base — at risk during TORS base of tongue resection), the **glossopharyngeal nerve** (CN IX — sensory to posterior tongue and tonsil, courses between the stylopharyngeus and middle pharyngeal constrictor — at risk during tonsil TORS), and the **hypoglossal nerve** (CN XII — courses deep to the submandibular gland and lateral to the hyoglossus, supplies intrinsic tongue muscles — at risk in deep base of tongue resection).\n\nThe **pharyngeal constrictor muscles** form the outer wall of the oropharynx. The superior constrictor originates from the pterygomandibular raphe (also the origin of the buccinator) and the medial pterygoid plate. It inserts into the pharyngeal raphe posteriorly and the pharyngeal tubercle of the clivus. During TORS tonsillectomy, the dissection plane is in the paratonsillar space (between the tonsillar capsule and the superior constrictor), staying medial to the constrictor to avoid injury to the carotid artery system.\n\nThe **parapharyngeal space** is relevant as the lateral boundary of deep tonsillar dissection. It contains the internal carotid artery (deep/posterior compartment, separated from the oropharynx by the superior constrictor and prestyloid fat), the glossopharyngeal nerve, and styloid process structures (styloglossus, stylopharyngeus, stylohyoid). Medial displacement of the carotid into the retropharyngeal space ('eagle syndrome' or anatomical variant) can bring the ICA to within millimeters of the tonsillar fossa and must be excluded on pre-operative imaging."
+        }
+      ]
+    },
+    {
+      "id": "A2-S7",
+      "title": "Follow-Up and Management of Unknown Primary with Cervical Metastasis",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Cervical metastasis from unknown primary (CMUP)** presents most commonly as a cystic cervical level II mass in a young male patient — this is the classic presentation of HPV-positive OPSCC with a small tonsillar primary obscured within the crypts. The incidental pathological feature of **non-keratinising SCC** in a cystic level II neck mass should immediately trigger a directed workup for an oropharyngeal primary.\n\nThe evaluation of CMUP includes: thorough clinical examination of the nasopharynx, oropharynx, base of tongue, and piriform sinuses; CT and PET-CT for localisation; and **direct laryngoscopy with directed biopsies** under general anaesthesia. If initial evaluation is negative, **palatine and lingual tonsillectomy** (bilateral) should be performed to detect small HPV-related primaries buried in tonsillar crypts — this approach detects a primary in 40-50% of previously unknown cases. Identification of the primary site allows for targeted radiation field design, potentially reducing the radiation volume and associated toxicity.\n\nIf no primary is identified after comprehensive workup and bilateral tonsillectomy, the patient is classified as having a true **carcinoma of unknown primary (CUP)**. Treatment is typically with ipsilateral or bilateral neck irradiation, depending on laterality of nodal disease, often combined with mucosal irradiation of suspected at-risk sites (base of tongue, nasopharynx). For p16-positive CUP of the neck, the prognosis mirrors that of HPV-positive OPSCC and treatment should follow the same principles.",
+          "type": "text"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Cystic Neck Mass in Young Adults",
+          "content": "A cystic neck mass at level II in a male patient aged 30-60 years was historically presumed to be a branchial cleft cyst. Current evidence shows that >70% of such cysts in adults are cystic metastases from HPV-positive OPSCC. FNAC showing non-keratinising SCC with p16 positivity confirms the diagnosis. Do NOT perform open excisional biopsy of a suspected cystic metastasis as the first intervention — this may compromise subsequent neck dissection by causing surgical field contamination and is associated with worse nodal disease control."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of oropharyngeal cancer with 20 board-style questions covering HPV biology, staging, TORS, and chemoradiation.",
+    "questions": [
+      {
+        "id": "A2-Q1",
+        "stem": "A 49-year-old non-smoking man presents with a 3 cm cystic right level IIa neck mass. Fine needle aspiration reveals non-keratinising SCC. p16 immunohistochemistry is strongly positive (diffuse, >70% of cells). No primary is visible on clinical examination. PET-CT shows the cystic right level IIa node and a small FDG-avid focus at the right tonsillar fossa (1.2 cm). What is the correct staging according to AJCC 8th edition?",
+        "options": {
+          "A": "T1N2bM0 — Stage IVA (using standard H&N staging)",
+          "B": "T1N1M0 — Stage I (using HPV-associated p16-positive OPSCC staging)",
+          "C": "T2N1M0 — Stage II (using HPV-associated staging)",
+          "D": "T1N2aM0 — Stage II (using HPV-associated staging)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This p16-positive OPSCC must be staged using the AJCC 8th edition HPV-associated OPSCC system. The primary is 1.2 cm at the tonsil — T1 (≤2 cm). Under the HPV-associated N classification, cN1 = one or more ipsilateral nodes (regardless of number or size, as long as not contralateral). A single right level IIa node = cN1. Therefore: T1N1M0 = Stage I in the HPV-associated staging system. This is dramatically different from the old system where the same finding would have been Stage IVA.",
+          "wrong": {
+            "A": "Standard H&N staging (T1N2bM0 = Stage IVA) applies to p16-NEGATIVE OPSCC. This patient is p16-positive, mandating use of the HPV-associated staging table.",
+            "C": "The primary is 1.2 cm — this is T1 (≤2 cm), not T2 (>2 cm ≤4 cm). T2N1 would be Stage I as well, but the T classification is incorrect.",
+            "D": "N2a in the HPV-associated staging system refers to a single contralateral node, not ipsilateral. A right cystic level IIa node for a right tonsillar primary = N1 (ipsilateral), not N2."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — Chapter 10: HPV-Mediated (p16+) Oropharyngeal Cancer",
+          "trial": "O'Sullivan B et al. (Lancet Oncol 2016): Validation of the AJCC 8th edition staging for HPV-associated OPSCC — demonstrates markedly improved survival discrimination compared to 7th edition.",
+          "pearl": "p16-positive OPSCC uses a completely different staging table. N1 = any ipsilateral nodes; N2 = contralateral/bilateral. Even bilateral adenopathy from an HPV+ primary may only be Stage II. Applying standard staging to HPV+ OPSCC is a critical error.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q2",
+        "stem": "The RTOG 1016 and De-ESCALaTE HPV trials both compared cetuximab-based CRT versus cisplatin-based CRT in HPV-positive oropharyngeal cancer. Which of the following best summarises the key results and their clinical implications?",
+        "options": {
+          "A": "Both trials showed non-inferior overall survival with cetuximab — cetuximab is now an acceptable de-escalation option",
+          "B": "Both trials showed significantly inferior survival with cetuximab — cisplatin-based CRT remains the standard",
+          "C": "RTOG 1016 showed cetuximab inferior; De-ESCALaTE showed equivalence — results are conflicting",
+          "D": "Both trials were terminated early for futility — cetuximab should only be used in cisplatin-ineligible patients as per original Bonner trial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Both RTOG 1016 (Gillison et al., Lancet 2019) and De-ESCALaTE HPV (Mehanna et al., Lancet 2019) demonstrated significantly inferior survival with cetuximab-based CRT versus cisplatin-based CRT in HPV-positive OPSCC. RTOG 1016: 5-year OS 77.9% (cetuximab) vs 84.6% (cisplatin), HR 1.45, p=0.016. De-ESCALaTE: 2-year OS 89.4% (cetuximab) vs 97.5% (cisplatin), p=0.001. These concordant results from two independent RCTs definitively establish cisplatin as the standard concurrent agent and cetuximab as inferior for HPV-positive OPSCC CRT.",
+          "wrong": {
+            "A": "Both trials showed cetuximab was INFERIOR, not non-inferior. Cetuximab is not an acceptable de-escalation option in cisplatin-eligible patients.",
+            "C": "Both trials showed the same result (cetuximab inferior). There is no conflict between the two trials — they are remarkably concordant.",
+            "D": "The trials were not terminated for futility — RTOG 1016 was actually terminated early because of WORSE outcomes in the cetuximab arm. The Bonner trial (cetuximab + RT vs RT alone) studied a different population and showed benefit of cetuximab, but this was compared to RT alone, not to cisplatin + RT."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — HPV-associated OPSCC treatment",
+          "trial": "RTOG 1016 (Gillison et al., Lancet 2019) and De-ESCALaTE HPV (Mehanna et al., Lancet 2019): Cisplatin superior to cetuximab for HPV+ OPSCC CRT. Concurrent cisplatin remains standard.",
+          "pearl": "For HPV-positive OPSCC: cisplatin + RT is superior to cetuximab + RT (Levels I evidence from two RCTs). Cetuximab is reserved for cisplatin-INELIGIBLE patients only. Do NOT use cetuximab as de-escalation in fit patients.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A2-Q3",
+        "stem": "The PET-NECK trial (Mehanna et al., NEJM 2016) randomised patients with N2-N3 oropharyngeal cancer after definitive chemoradiation. Which of the following best describes its primary conclusion and its impact on current practice?",
+        "options": {
+          "A": "Planned neck dissection was superior in OS — routine planned ND after CRT is recommended",
+          "B": "PET-CT-guided surveillance was non-inferior in OS, with significantly fewer neck dissections performed — PET-CT surveillance is now standard",
+          "C": "PET-CT and planned ND had equivalent OS and equivalent number of dissections performed",
+          "D": "PET-CT surveillance was associated with more late nodal recurrences — planned ND is safer"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "PET-NECK (Mehanna et al., NEJM 2016) randomised 564 patients. Primary outcome: 2-year OS — PET-CT arm 84.9% vs planned ND arm 81.5% (non-inferior, p<0.001 for non-inferiority). In the PET-CT arm, only 54/282 patients (19%) required neck dissection (positive PET or incomplete response), vs 221/282 (78%) in the planned ND arm who underwent dissection. Cost saving: £1,400 per patient. QoL: better in PET-CT arm at 12 months. Conclusion: PET-CT-guided surveillance after CRT avoids unnecessary neck dissection in the majority of patients without compromising survival.",
+          "wrong": {
+            "A": "Planned ND was NOT superior — it was non-inferior to PET-CT surveillance, and with more surgical morbidity and cost.",
+            "C": "The number of dissections was dramatically different: PET-CT arm 19% required ND vs 78% in planned ND arm. They are NOT equivalent in surgical burden.",
+            "D": "PET-CT surveillance did not result in more late nodal recurrences — locoregional control was equivalent between arms."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Post-CRT Neck Management; PET-NECK level I evidence",
+          "trial": "PET-NECK (Mehanna et al., NEJM 2016): 564 patients, N2-3 OPSCC post-CRT. PET-CT-guided vs planned ND. Non-inferior OS (84.9% vs 81.5%). 54 vs 221 neck dissections performed. Standard of care: PET-CT at 12 weeks post-CRT.",
+          "pearl": "PET-NECK result: post-CRT PET-CT at 12 weeks has a negative predictive value >95% for residual nodal disease. A negative PET-CT avoids neck dissection. This is Level I evidence and is now the standard approach for neck management after definitive CRT for OPSCC.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A2-Q4",
+        "stem": "A 56-year-old man with T3N2 (bilateral nodes) p16-positive OPSCC base of tongue is being planned for definitive chemoradiation. What is the correct overall stage under AJCC 8th edition, and what is the standard radiation dose to gross disease?",
+        "options": {
+          "A": "Stage IVA; 60 Gy to gross disease in 30 fractions",
+          "B": "Stage III; 70 Gy to gross disease in 35 fractions",
+          "C": "Stage II; 60 Gy to gross disease with concurrent cetuximab",
+          "D": "Stage III; 66 Gy to gross disease with concurrent platinum"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Under the HPV-associated (p16+) OPSCC staging: T3 + N2 (bilateral nodes) = Stage III. In the AJCC 8th edition HPV system, N2 = contralateral or bilateral nodes. T3N2M0 = Stage III. Standard definitive RT dose for OPSCC is 70 Gy in 35 fractions (2 Gy/fraction) to gross disease (GTV), using IMRT with simultaneous integrated boost (SIB) delivering lower doses to elective nodal volumes (54-63 Gy). Concurrent cisplatin 100 mg/m² days 1, 22, 43 or weekly cisplatin 40 mg/m².",
+          "wrong": {
+            "A": "Stage IVA would apply under the old system or for p16-negative OPSCC. Under HPV-associated staging, T3N2 = Stage III. The RT dose of 60 Gy is below standard for definitive gross disease treatment.",
+            "C": "N2 (bilateral) = Stage II only if combined with T1-T2. T3N2 = Stage III (not II). Cetuximab is not standard concurrent therapy after RTOG 1016 and De-ESCALaTE.",
+            "D": "Staging (Stage III) is correct but 66 Gy is not the standard definitive dose. 66 Gy may be used as an intermediate dose in some protocols but 70 Gy/35 fr is the canonical standard for gross oropharyngeal disease."
+          },
+          "guideline": "AJCC 8th Edition HPV-associated OPSCC staging; NCCN Head and Neck Cancers v1.2024 — RT Dose Principles",
+          "trial": "RTOG 9111 and subsequent trials established 70 Gy/35 fr as the standard dose fractionation for definitive head and neck CRT.",
+          "pearl": "Standard definitive RT dose for oropharyngeal gross disease: 70 Gy in 35 fractions (2 Gy/fr). Elective nodal volumes: 50-54 Gy. This dose-volume framework is used in IMRT-SIB protocols and is the reference for all major oropharyngeal CRT trials.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q5",
+        "stem": "During TORS tonsillectomy for a T2 squamous cell carcinoma, significant bleeding is encountered from the right tonsillar bed. The bleeding source appears to be a branch of the external carotid artery system deep in the pharyngeal constrictor. What is the immediate surgical management?",
+        "options": {
+          "A": "Pack the tonsillar fossa with oxidised cellulose and proceed robotically",
+          "B": "Convert to open transcervical approach for external carotid artery ligation",
+          "C": "Direct pressure, suction, bipolar cautery, and clip application robotically; convert to open if uncontrolled",
+          "D": "Embolisation by interventional radiology as the first step"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The initial management of intraoperative TORS bleeding is direct pressure with a sponge, suction to maintain visualisation, bipolar cautery or clip application to the vessel using robotic instruments. Most tonsillar bed bleeding can be managed robotically with these techniques. If the bleeding is from a named vessel (lingual artery or ascending pharyngeal artery branch) and cannot be controlled robotically within 60-90 seconds, conversion to open transcervical approach for proximal control is mandatory. A pre-operative plan for this scenario, including the patient and anaesthetic team consent, is essential.",
+          "wrong": {
+            "A": "Packing alone without haemostasis is inadequate for arterial bleeding. Oxidised cellulose packing is appropriate for venous oozing but not for arterial haemorrhage from ECA branches.",
+            "B": "Immediate open conversion without first attempting robotic haemostasis is premature. Most bleeding can be controlled robotically. Conversion should be triggered by failure to control bleeding after initial robotic attempts.",
+            "D": "Embolisation by IR is a salvage procedure for delayed post-TORS haemorrhage, not a first-line intervention for intraoperative bleeding. The response time for IR is incompatible with the urgency of active intraoperative arterial bleeding."
+          },
+          "guideline": "AAOMS TORS Clinical Parameters 2021; de Almeida JR et al. Laryngoscope 2012 — TORS complications and management",
+          "trial": "Weinstein GS et al. (Arch Otolaryngol HNS 2007): Original TORS series — haemorrhage management protocol and conversion criteria.",
+          "pearl": "TORS haemorrhage: first attempt robotic control (pressure + bipolar + clips). If uncontrolled within 60-90 seconds: convert to open transcervical approach for proximal external carotid control. Always brief the anaesthetic team pre-operatively about this possibility.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q6",
+        "stem": "p16 immunohistochemistry for HPV-associated oropharyngeal cancer staging requires which specific staining pattern to qualify as 'positive' per AJCC 8th edition criteria?",
+        "options": {
+          "A": "Any nuclear p16 staining regardless of intensity or distribution",
+          "B": "Strong diffuse nuclear AND cytoplasmic staining in ≥70% of tumour cells",
+          "C": "Strong cytoplasmic staining in >50% of cells without requirement for nuclear staining",
+          "D": "Any p16 staining with confirmation by HPV DNA PCR required for staging"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The AJCC 8th edition defines p16-positive OPSCC as strong and diffuse NUCLEAR AND CYTOPLASMIC staining in ≥70% of tumour cells. Both nuclear AND cytoplasmic components must be present; nuclear staining alone is insufficient. The threshold of ≥70% is important — focal or weak staining does not qualify. This pattern has >90% concordance with high-risk HPV detection by in situ hybridisation. p16 IHC alone (without confirmatory HPV testing) is the accepted standard for clinical staging when using the 8th edition HPV-associated staging system.",
+          "wrong": {
+            "A": "Any nuclear staining regardless of distribution is insufficient — strong, diffuse nuclear AND cytoplasmic staining in ≥70% of cells is required.",
+            "C": "Cytoplasmic staining alone is insufficient — nuclear staining must also be present. Strong cytoplasmic without nuclear does not meet AJCC 8th edition criteria.",
+            "D": "Confirmatory HPV DNA PCR or ISH is NOT required for AJCC 8th edition staging purposes. p16 IHC alone with the specified pattern is the accepted surrogate biomarker."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — HPV-OPSCC staging criteria; College of American Pathologists (CAP) p16 IHC Protocol 2023",
+          "trial": "Lewis JS et al. (Arch Pathol Lab Med 2010): Optimisation of p16 IHC cut-offs for HPV detection in OPSCC — strong diffuse ≥70% criteria validated.",
+          "pearl": "p16 positive = STRONG + DIFFUSE + NUCLEAR AND CYTOPLASMIC + ≥70% cells. Partial positivity (e.g. strong in 40% of cells, or cytoplasmic only) does NOT qualify. Pathologist communication is essential — request 'p16 IHC for HPV-associated OPSCC staging per AJCC 8th edition.'",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q7",
+        "stem": "A 52-year-old woman presents with a T1 N1 p16-positive squamous cell carcinoma of the left tonsil (AJCC 8th edition Stage I). She is fit, with adequate mouth opening, and the tumour is lateralised to the left tonsil without base of tongue extension. Which treatment approach is most appropriate?",
+        "options": {
+          "A": "Definitive cisplatin-based chemoradiation (70 Gy) — standard for all OPSCC",
+          "B": "TORS left tonsillectomy + ipsilateral neck dissection ± adjuvant therapy based on pathology",
+          "C": "Radiation alone (70 Gy) — chemotherapy not indicated for Stage I",
+          "D": "TORS tonsillectomy with bilateral neck dissection levels I-IV followed by chemoradiation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For T1N1 p16-positive tonsillar SCC (Stage I HPV-OPSCC), TORS with ipsilateral selective neck dissection is a valid upfront surgical approach that may allow de-escalation of adjuvant therapy based on pathological findings. TORS for early tonsillar SCC (T1-T2, accessible anatomy) achieves excellent oncological outcomes, and subsequent adjuvant therapy can be guided by pathological risk stratification. ECOG 3311 demonstrated that patients with low-risk pathological features after TORS + ND can achieve excellent outcomes with reduced-dose adjuvant RT (50 Gy) or even observation in very-low-risk cases.",
+          "wrong": {
+            "A": "Definitive CRT is a valid alternative but is not the only option for early Stage I HPV-OPSCC. TORS-based surgery with risk-adapted adjuvant therapy is an established alternative with potential functional advantages.",
+            "C": "Radiation alone (without chemotherapy) for T1N1 oropharyngeal cancer provides adequate local control for small lesions but bilateral neck coverage is still required. However, 'no chemotherapy for Stage I' is oversimplified — decisions are guided by patient factors and nodal burden.",
+            "D": "Bilateral neck dissection is not necessary for a lateralised T1 tonsillar SCC with ipsilateral N1 disease. TORS + ipsilateral ND is standard. Routine subsequent chemoradiation after TORS is not standard — pathology guides adjuvant decisions."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — HPV-OPSCC Treatment Options; ECOG 3311 (Ferris et al.)",
+          "trial": "ECOG 3311 (Ferris et al., J Clin Oncol 2021): TORS + ND with risk-adapted adjuvant therapy for HPV-OPSCC — excellent disease control with de-escalated adjuvant RT in low-intermediate risk pathological groups.",
+          "pearl": "TORS is a valid primary treatment for T1-T2 HPV-OPSCC with adequate surgical access. Its advantage lies in risk-adapted adjuvant de-escalation based on pathology. All TORS procedures must be followed by neck dissection (selective or modified radical depending on clinical N stage).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q8",
+        "stem": "Which oropharyngeal subsite is NOT part of the oropharynx and is therefore NOT subject to HPV-associated (p16+) OPSCC staging?",
+        "options": {
+          "A": "Base of tongue (posterior one-third)",
+          "B": "Palatine tonsil",
+          "C": "Oral tongue (anterior two-thirds)",
+          "D": "Soft palate"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The oral tongue (anterior two-thirds, up to the circumvallate papillae) is an ORAL CAVITY subsite, not oropharynx. It is staged using the standard oral cavity TNM system (AJCC 8th edition) with DOI incorporated into T classification, and p16 testing for HPV-associated staging does NOT apply to oral tongue tumours. The oropharynx comprises: base of tongue (posterior one-third), palatine tonsils (including tonsillar pillars), soft palate, and posterior pharyngeal wall.",
+          "wrong": {
+            "A": "Base of tongue (posterior one-third, behind circumvallate papillae) is an oropharyngeal subsite — HPV-associated staging applies.",
+            "B": "Palatine tonsil is the most common site for HPV-associated OPSCC and is definitively an oropharyngeal subsite.",
+            "D": "Soft palate is an oropharyngeal subsite. HPV-associated tumours of the soft palate use the HPV-OPSCC staging system."
+          },
+          "guideline": "AJCC 8th Edition — Anatomical definitions of oral cavity vs oropharynx; NCCN Head and Neck Cancers v1.2024",
+          "trial": "Anatomical staging principles from AJCC 8th Edition Cancer Staging Manual (2017), Chapter 7 (Oral Cavity) and Chapter 10 (HPV-Oropharynx).",
+          "pearl": "The circumvallate papillae mark the division between oral tongue (oral cavity) and base of tongue (oropharynx). Oral cavity cancers are NOT tested with p16 for staging purposes. Oropharyngeal cancers (tonsil, BOT, soft palate, posterior pharyngeal wall) require p16 IHC to determine which staging system applies.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A2-Q9",
+        "stem": "A 65-year-old heavy smoker presents with T3N2 (bilateral N2) p16-negative oropharyngeal SCC of the base of tongue. Under AJCC 8th edition, what is the correct N classification, and does extranodal extension in one of the bilateral nodes affect the staging?",
+        "options": {
+          "A": "N2c; ENE does not affect stage in p16-negative OPSCC",
+          "B": "N2c; ENE upgrades to N3b, which changes the overall stage",
+          "C": "N2 per HPV-OPSCC criteria — p16-negative OPSCC uses the same simplified N system",
+          "D": "N3b (regardless of p16 status, bilateral nodes always = N3b)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For p16-NEGATIVE OPSCC, the standard H&N SCC N classification applies (same as oral cavity): N2c = bilateral or contralateral nodes ≤6 cm without ENE. If any node has ENE, it becomes N3b regardless of size or number. ENE in a bilateral node = N3b. For p16-negative OPSCC T3N3bM0 = Stage IVB. This is dramatically different from p16-positive OPSCC where ENE is not incorporated in clinical N staging and bilateral nodes = N2 (not N3b).",
+          "wrong": {
+            "A": "ENE absolutely affects staging in p16-NEGATIVE OPSCC — it is one of the key 8th edition changes. N2c without ENE vs N3b with ENE is an important distinction.",
+            "C": "p16-NEGATIVE OPSCC does NOT use the simplified HPV-associated N system. That system is exclusively for p16-positive HPV-associated OPSCC. p16-negative uses standard H&N N classification.",
+            "D": "Bilateral nodes without ENE = N2c (≤6 cm) or N3a (>6 cm) in the standard system. N3b requires ENE, not bilateral nodes per se."
+          },
+          "guideline": "AJCC 8th Edition — Standard H&N SCC N classification for p16-negative OPSCC; N3b = clinical or radiological ENE",
+          "trial": "AJCC 8th edition validation: Patel SG et al. (Head Neck 2019): ENE as N3b in H&N SCC provides improved prognostic discrimination.",
+          "pearl": "KEY DISTINCTION: p16-positive OPSCC — bilateral nodes = N2, no ENE in clinical N staging. p16-negative OPSCC — standard H&N system: bilateral = N2c; ENE = N3b. The staging system used completely depends on p16 status.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q10",
+        "stem": "A patient with HPV-positive T2N1M0 OPSCC (Stage I, AJCC 8th) completes definitive chemoradiation (70 Gy cisplatin-based). PET-CT at 12 weeks shows complete response at the primary site but a small residual PET-avid right level IIa node (SUVmax 3.2, 1.2 cm). What is the most appropriate management?",
+        "options": {
+          "A": "Immediate right selective neck dissection based on positive post-treatment PET",
+          "B": "FNAC of the residual node to confirm viable tumour before neck dissection",
+          "C": "Repeat PET-CT at 20 weeks — 12-week PET results are unreliable",
+          "D": "Systemic therapy with pembrolizumab for residual disease"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Post-treatment PET-CT at 12 weeks has a false positive rate of 15-25% due to post-radiation inflammatory uptake. Before proceeding to neck dissection (which carries significant morbidity in a previously irradiated field), tissue confirmation with FNAC is appropriate. If FNAC confirms viable tumour cells (residual disease), neck dissection is planned. If FNAC is non-diagnostic or negative, repeat imaging at 20-24 weeks is warranted. This approach avoids unnecessary surgery in false-positive cases while not delaying treatment for true residual disease.",
+          "wrong": {
+            "A": "Immediate neck dissection without tissue confirmation risks over-treatment. With SUVmax 3.2 (moderately elevated, not strongly suspicious), false positive is plausible.",
+            "C": "Repeat imaging at 20 weeks alone (without FNAC) causes an 8-week delay in diagnosing true residual disease. FNAC is faster and more definitive.",
+            "D": "Pembrolizumab is for recurrent/metastatic disease not amenable to local treatment. A potentially resectable isolated nodal residual is a candidate for local surgical salvage, not systemic therapy."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Post-treatment Surveillance; PET-NECK trial principles",
+          "trial": "PET-NECK (Mehanna et al., NEJM 2016): Post-treatment PET-CT for OPSCC — negative PET NPV >95%; positive PET requires further evaluation before proceeding to neck dissection.",
+          "pearl": "Post-treatment PET-CT is highly sensitive but moderately specific at 12 weeks due to radiation inflammation. A positive post-CRT PET should prompt FNAC before neck dissection, not immediate surgery. The negative predictive value of post-CRT PET is >95% — a negative PET reliably excludes residual disease.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q11",
+        "stem": "A 44-year-old non-smoking male patient presents with bilateral level II cystic neck masses. FNAC reveals non-keratinising SCC, p16 strongly positive. Direct laryngoscopy with biopsies of nasopharynx, oropharynx, larynx, and piriform sinuses is negative. Which additional surgical procedure is most likely to identify the primary tumour?",
+        "options": {
+          "A": "PET-CT-guided biopsy of the highest FDG avid neck node",
+          "B": "Bilateral palatine and lingual tonsillectomy",
+          "C": "Ipsilateral parotidectomy to exclude parotid primary",
+          "D": "Open neck dissection with primary from unknown — treat as CUP"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Bilateral palatine and lingual tonsillectomy is the recommended next step when initial evaluation including laryngoscopy with directed biopsies fails to identify the primary in a patient with p16-positive cystic cervical adenopathy. HPV-associated OPSCC frequently arises from small foci buried deep within tonsillar crypts, invisible to clinical examination and endoscopy. Bilateral tonsillectomy (removing the tonsillar crypts bilaterally) and lingual tonsillectomy (TORS-assisted base of tongue mucosectomy) have been shown to identify the primary tumour in 40-50% of previously 'unknown' primary cases. Identifying the primary allows targeted radiation field reduction.",
+          "wrong": {
+            "A": "FNAC of the neck node is already positive for SCC — repeating this does not identify the primary. The goal is to find the mucosal primary.",
+            "C": "Parotid tumours can cause level II adenopathy, but non-keratinising p16-positive SCC in the neck essentially always represents HPV-associated OPSCC — parotidectomy will not identify a primary in this context.",
+            "D": "Treating as CUP without attempting bilateral tonsillectomy is premature and results in larger radiation fields and greater toxicity. Current guidelines mandate comprehensive mucosal search including bilateral tonsillectomy before declaring true CUP."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Cancer of Unknown Primary; EACMFS 2023",
+          "trial": "Mehanna H et al. (Head Neck 2010): Systematic review of unknown primary HNSCC — bilateral tonsillectomy and TORS BOT mucosectomy increase primary detection rate to 40-50%.",
+          "pearl": "p16-positive cervical SCC with negative panendoscopy → bilateral tonsillectomy + base of tongue mucosectomy. Identifies primary in ~45% of cases. Finding the primary reduces radiation volume (from bilateral mucosal + neck to targeted primary + bilateral neck), significantly reducing toxicity.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q12",
+        "stem": "What is the anatomical landmark that distinguishes the oral tongue from the base of tongue, and why is this distinction surgically and oncologically important?",
+        "options": {
+          "A": "The palatoglossal arch (anterior tonsillar pillar) — oral tongue is anterior",
+          "B": "The circumvallate papillae — oral tongue is anterior, base of tongue is posterior",
+          "C": "The foramen cecum — oral tongue is anterior to foramen cecum",
+          "D": "The lingual tonsils — base of tongue begins where lingual tonsils end"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The circumvallate (vallate) papillae form a V-shaped row of approximately 10-14 large papillae that mark the junction between the oral tongue (anterior two-thirds) and the base of tongue (posterior one-third). The oral tongue is an oral cavity subsite; the base of tongue is an oropharyngeal subsite. This distinction is critical for: (1) staging — oral tongue uses oral cavity TNM with DOI; base of tongue uses HPV-associated OPSCC staging if p16-positive; (2) treatment — oral tongue is primarily surgical; base of tongue is primarily treated with CRT; (3) p16 testing — not performed for staging of oral tongue tumours.",
+          "wrong": {
+            "A": "The palatoglossal arch is the boundary between the oral cavity and the oropharynx laterally (anterior tonsillar pillar), but this is a lateral boundary. The tongue boundary is the circumvallate papillae.",
+            "C": "The foramen cecum is the embryological remnant of the thyroglossal duct origin at the junction of anterior 2/3 and posterior 1/3 of the tongue — it approximately marks the same level as the circumvallate papillae, but the papillae themselves are the standard anatomical landmark.",
+            "D": "The lingual tonsils are lymphoid tissue at the base of tongue and are NOT the superior boundary of the BOT — the circumvallate papillae are the anterior boundary."
+          },
+          "guideline": "AJCC 8th Edition — Oral Cavity and Oropharynx anatomical definitions",
+          "trial": "Standard anatomical teaching: Shah JP, Head and Neck Surgery and Oncology 5th ed (2020) — anatomical boundaries of oral cavity and oropharynx subsites.",
+          "pearl": "Circumvallate papillae = oral tongue/base of tongue boundary. Anterior = oral cavity (oral tongue, DOI staging). Posterior = oropharynx (BOT, HPV staging if p16+). Tumours straddling this boundary are staged by predominant site of origin.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A2-Q13",
+        "stem": "In a TORS total tonsillectomy for a T2 squamous cell carcinoma, which anatomical structure defines the deep surgical margin and its breach would indicate potential T4 tumour extension?",
+        "options": {
+          "A": "Superior pharyngeal constrictor — T4 if tumour breaches into parapharyngeal fat",
+          "B": "Palatoglossus muscle — T4 if tongue base extension >2 cm",
+          "C": "Internal carotid artery — T4b if tumour encases carotid",
+          "D": "Medial pterygoid muscle — T4a if tumour invades masticator space"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Encasement of the internal carotid artery is one of the specific criteria for T4b classification in oropharyngeal cancer (very advanced disease, typically unresectable). The ICA lies in the post-styloid compartment of the parapharyngeal space, posterior and lateral to the tonsillar fossa, separated by the superior pharyngeal constrictor and parapharyngeal fat. Gross invasion with ICA encasement represents T4b and is a contraindication to primary surgical resection.",
+          "wrong": {
+            "A": "Breach of the superior pharyngeal constrictor into parapharyngeal fat is T4a (moderate extension into deep structures). T4b requires masticator space, pterygoid plates, skull base, or ICA encasement.",
+            "B": "Tongue base extension is a T3 criterion (>4 cm with DOI implications) but penetration of palatoglossus into the tongue base is not the T4-defining criterion in this context.",
+            "D": "Medial pterygoid involvement is T4b (masticator space), not T4a in the strict AJCC classification for oropharyngeal cancer."
+          },
+          "guideline": "AJCC 8th Edition — Oropharynx T4b criteria: masticator space, pterygoid plates, skull base, ICA encasement",
+          "trial": "AJCC 8th Edition Cancer Staging Manual (2017), Chapter 10: Oropharynx and Hypopharynx",
+          "pearl": "T4b OPSCC features: masticator space invasion, pterygoid plate invasion, skull base invasion, or ICA encasement. T4b = generally unresectable by conventional surgery. Always assess ICA relationship on pre-operative CT/MRI before TORS.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q14",
+        "stem": "A 58-year-old man presents with a 4 cm right tonsil SCC, extending to the soft palate. CT shows bilateral level II nodes ≤2 cm. Biopsy shows non-keratinising SCC; p16 IHC is strongly positive in 75% of cells. What is the AJCC 8th edition stage?",
+        "options": {
+          "A": "T2N2M0 — Stage II (HPV-associated system)",
+          "B": "T3N2M0 — Stage III (HPV-associated system)",
+          "C": "T2N2cM0 — Stage IVA (standard H&N system)",
+          "D": "T3N1M0 — Stage I (HPV-associated system)"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The tumour is 4 cm: T2 in the HPV-associated system (T1 ≤2 cm, T2 >2-4 cm, T3 >4 cm). p16 strongly positive ≥70% = HPV-associated staging applies. Bilateral level II nodes ≤2 cm = N2 (bilateral) in the HPV system. T2N2M0 = Stage II. Note: even bilateral nodes with T2 primary = Stage II in HPV-associated system. This would have been Stage IVA under the old 7th edition.",
+          "wrong": {
+            "A": "This is the correct answer. The tumour is exactly 4 cm = T2 (>2 cm and ≤4 cm). If it were >4 cm, it would be T3.",
+            "B": "T3 requires tumour >4 cm. At exactly 4 cm, the upper boundary of T2 is met — T2 is ≤4 cm. T3N2 = Stage III, which would be incorrect here.",
+            "C": "Standard H&N system does not apply to p16-positive OPSCC. The HPV-associated staging system must be used.",
+            "D": "N1 in HPV system = ipsilateral nodes; N2 = contralateral/bilateral. Bilateral nodes = N2, not N1."
+          },
+          "guideline": "AJCC 8th Edition — HPV-associated OPSCC staging table: T2N2M0 = Stage II",
+          "trial": "O'Sullivan B et al. (Lancet Oncol 2016): Validation of AJCC 8th edition HPV-OPSCC staging — Stage I and II have 5-year OS >85%.",
+          "pearl": "HPV-OPSCC T staging: T1 ≤2 cm; T2 >2-4 cm; T3 >4 cm; T4a-b same criteria as non-HPV. N1 = any ipsilateral; N2 = contralateral/bilateral. T2N2 = Stage II (not IVA as under old system). This is a frequently tested staging scenario.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q15",
+        "stem": "A patient with p16-positive T1N1 (Stage I) tonsillar SCC undergoes TORS tonsillectomy and ipsilateral SND levels I-IV. Final pathology shows: clear margins (closest 4 mm), two level II nodes positive without ENE, no PNI, no LVI. According to ECOG 3311 risk stratification, what adjuvant therapy is recommended?",
+        "options": {
+          "A": "Observation — Stage I HPV-positive OPSCC does not require adjuvant therapy",
+          "B": "Standard PORT 60 Gy — margins are close (4 mm) and nodes are positive",
+          "C": "Reduced-dose PORT 50 Gy — intermediate-risk pathological features without high-risk features",
+          "D": "Chemoradiation (cisplatin + 60 Gy) — two positive nodes mandate concurrent chemotherapy"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "ECOG 3311 stratified patients after TORS + ND into: low risk (T1-T2, N0-N1, negative margins, no ENE — observation or 50 Gy RT); intermediate risk (close margins 1-3 mm, N1 with ENE, or pN2a-2b without ENE — 50 Gy PORT in the de-escalation arm); high risk (positive margins or pN2 with ENE — standard 60 Gy CRT). This patient has pN2a (two ipsilateral nodes) without ENE, closest margin 4 mm — these are intermediate-risk features. ECOG 3311 tested 50 Gy as de-escalated PORT for intermediate-risk patients, showing excellent disease control. Concurrent chemotherapy is not indicated without ENE or positive margins.",
+          "wrong": {
+            "A": "Observation alone after TORS with pN2a disease is not standard outside a clinical trial with very-low-risk features. Most centres recommend some adjuvant radiation for pN2 disease.",
+            "B": "60 Gy is standard-dose PORT for OPSCC but in HPV-positive intermediate-risk patients (without ENE or positive margins), ECOG 3311 investigated 50 Gy de-escalation with good results. 60 Gy would be over-treatment in this setting.",
+            "D": "Concurrent cisplatin is not indicated: no positive margins, no ENE. Two positive nodes without ENE = intermediate risk in the ECOG 3311 framework, treated with reduced-dose PORT, not chemoradiation."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — TORS adjuvant therapy; ECOG 3311 risk stratification",
+          "trial": "ECOG 3311 (Ferris et al., J Clin Oncol 2021): TORS + ND with risk-adapted adjuvant therapy for HPV-OPSCC. Intermediate-risk group treated with 50 Gy PORT — 2-year PFS 95.9%. High-risk group: 60 Gy + cisplatin.",
+          "pearl": "ECOG 3311 risk groups post-TORS: Low risk = observe or 50 Gy; Intermediate risk = 50 Gy PORT (de-escalation); High risk (R1 or ENE) = 60 Gy + cisplatin (standard). Remember: 50 Gy vs 60 Gy makes a meaningful difference in xerostomia and swallowing toxicity.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q16",
+        "stem": "In the Bonner trial (NEJM 2006), cetuximab was added to radiation for locally advanced HNSCC. This trial is sometimes confused with RTOG 1016. Which statement correctly distinguishes these two trials?",
+        "options": {
+          "A": "Bonner tested cetuximab + RT vs RT alone; RTOG 1016 tested cetuximab + RT vs cisplatin + RT — Bonner showed benefit, RTOG 1016 showed inferiority of cetuximab vs cisplatin",
+          "B": "Both trials tested cetuximab vs cisplatin and both showed cisplatin superior",
+          "C": "Bonner tested cetuximab + cisplatin vs cisplatin alone; RTOG 1016 tested cetuximab monotherapy vs cisplatin monotherapy",
+          "D": "Bonner trial applies to HPV-positive OPSCC; RTOG 1016 applies to HPV-negative OPSCC"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Bonner trial (Bonner et al., NEJM 2006): cetuximab + RT vs RT alone in locally advanced HNSCC (unselected for HPV status). Cetuximab + RT significantly improved locoregional control (24.4 vs 14.9 months, p=0.005) and OS. This established cetuximab + RT as an option for cisplatin-ineligible patients. RTOG 1016 (Gillison et al., Lancet 2019): cetuximab + RT vs cisplatin + RT specifically in HPV-positive OPSCC. Cisplatin was significantly superior. Therefore: cetuximab is a valid alternative to RT alone (Bonner) but is inferior to cisplatin + RT (RTOG 1016) in HPV-positive OPSCC.",
+          "wrong": {
+            "B": "Bonner did NOT compare cetuximab vs cisplatin. It compared cetuximab + RT vs RT alone. Only RTOG 1016 compared cetuximab vs cisplatin.",
+            "C": "Bonner compared cetuximab + RT vs RT alone (no cisplatin in either arm). RTOG 1016 compared cetuximab + RT vs cisplatin + RT (both arms had RT).",
+            "D": "Bonner trial enrolled unselected HNSCC patients before the HPV era — it was not restricted by HPV status. RTOG 1016 specifically enrolled HPV-positive patients."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — systemic therapy principles",
+          "trial": "Bonner JA et al. (NEJM 2006): Cetuximab + RT vs RT alone — improved OS and LRC, established cetuximab for cisplatin-ineligible patients. RTOG 1016 (Gillison et al., Lancet 2019): Cetuximab inferior to cisplatin for HPV+ OPSCC CRT.",
+          "pearl": "Bonner = cetuximab vs RT alone = benefit (so cetuximab + RT is better than RT alone). RTOG 1016 = cetuximab + RT vs cisplatin + RT = cisplatin wins. Cetuximab is reserved for cisplatin-INELIGIBLE patients (Bonner's indication), not as de-escalation in cisplatin-eligible patients.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q17",
+        "stem": "A 70-year-old woman with severe renal impairment (GFR 28 mL/min) is diagnosed with T3N1 p16-negative OPSCC of the posterior pharyngeal wall. She is deemed cisplatin-ineligible due to her renal function. What is the most appropriate primary treatment recommendation?",
+        "options": {
+          "A": "Surgery (pharyngectomy) + adjuvant RT — no chemotherapy given renal impairment",
+          "B": "Cetuximab + RT (70 Gy) — Bonner trial established this for cisplatin-ineligible patients",
+          "C": "Carboplatin + RT — carboplatin is renal-protective and equivalent to cisplatin",
+          "D": "RT alone (70 Gy) — chemotherapy of any kind is contraindicated with GFR <30"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For cisplatin-ineligible patients with locally advanced HNSCC, cetuximab + RT is the evidence-based alternative based on the Bonner trial (NEJM 2006). Cetuximab is an EGFR-targeting monoclonal antibody with no nephrotoxicity and is appropriate for patients with renal impairment. Standard dosing: cetuximab 400 mg/m² loading dose one week before RT, then 250 mg/m² weekly for 7 weeks concurrent with RT. This is the NCCN-recommended alternative for cisplatin-ineligible patients.",
+          "wrong": {
+            "A": "Surgery for posterior pharyngeal wall tumours carries significant morbidity and functional impairment. The posterior pharyngeal wall is a site where definitive CRT is preferred over surgery for T3 disease when feasible.",
+            "C": "Carboplatin + RT is used in some centres for cisplatin-ineligible patients, particularly for HPV-positive patients in the adjuvant setting, but it lacks the Level I evidence for definitive treatment that cetuximab + RT has from the Bonner trial. Carboplatin is not fully renal-sparing (dose adjustment required for GFR <60), and equivalence to cisplatin in this setting is not proven.",
+            "D": "RT alone is inferior to CRT for locally advanced HNSCC. Cetuximab + RT is the evidence-based alternative for cisplatin-ineligible patients and should be offered if there are no cetuximab-specific contraindications (K-Ras mutation is not an issue in HNSCC as KRAS mutations are rare)."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Cisplatin-ineligibility criteria and alternatives",
+          "trial": "Bonner JA et al. (NEJM 2006): Cetuximab + RT vs RT alone in locally advanced HNSCC — median OS 49 months (cetuximab + RT) vs 29.3 months (RT alone). This is the Level I evidence for cetuximab + RT in cisplatin-ineligible HNSCC.",
+          "pearl": "Cisplatin ineligibility criteria: GFR <50 mL/min, ECOG PS >2, pre-existing neuropathy grade ≥2, hearing loss ≥25 dB. For these patients: cetuximab + RT (Bonner evidence). For HPV-positive patients specifically: be aware that RTOG 1016 showed cetuximab inferior to cisplatin — but for genuinely cisplatin-INELIGIBLE patients, cetuximab + RT remains appropriate.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q18",
+        "stem": "During neck dissection following TORS for a right T2 tonsillar SCC, the surgeon needs to identify and preserve the accessory nerve (CN XI) as it passes through the posterior triangle. Which anatomical relationship most reliably identifies CN XI in the posterior triangle?",
+        "options": {
+          "A": "CN XI runs along the posterior edge of the sternocleidomastoid and anterior to the EJV",
+          "B": "CN XI exits the posterior border of the SCM at approximately the junction of upper and middle thirds and crosses the posterior triangle to enter the trapezius",
+          "C": "CN XI is found deep to the IJV at the level of the hyoid bone",
+          "D": "CN XI exits the skull through the jugular foramen and immediately enters the anterior triangle"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The spinal accessory nerve (CN XI) exits the posterior border of the sternocleidomastoid muscle at approximately the junction of the upper and middle thirds (Erb's point region), then crosses the posterior triangle of the neck in a relatively superficial plane, running from posterosuperior to anteroinferior, to enter the deep surface of the trapezius muscle. In the posterior triangle, CN XI is superficial to (or sometimes within) the deep investing layer of cervical fascia. Level V dissection requires meticulous CN XI identification and preservation to prevent shoulder dysfunction.",
+          "wrong": {
+            "A": "CN XI does not run along the posterior edge of the SCM in the posterior triangle — it exits the SCM and crosses the triangle. The external jugular vein (EJV) is a superficial structure in the subcutaneous tissue; CN XI runs deeper.",
+            "C": "The IJV relationship describes CN XI in the carotid sheath area (upper jugular), not the posterior triangle. CN XI crosses the IJV (usually posterior to it) at level IIb as it exits the jugular foramen.",
+            "D": "CN XI exits the jugular foramen and initially crosses the internal jugular vein in the upper neck before entering the SCM — it does not immediately enter the anterior triangle."
+          },
+          "guideline": "Robbins KT et al. Neck Dissection Classification (Arch Otolaryngol HNS 2002) — CN XI anatomical course",
+          "trial": "Shah JP. Head and Neck Surgery and Oncology 5th ed (2020) — CN XI anatomy in neck dissection.",
+          "pearl": "CN XI exits the SCM at approximately 2/3 of the way down its posterior border (junction upper/middle thirds = Erb's point). In the posterior triangle it runs superficially from SCM to trapezius. Level V neck dissection requires identifying CN XI early and protecting it with a vessel loop throughout the dissection.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q19",
+        "stem": "A 63-year-old man with T4a N2b p16-positive OPSCC (AJCC 8th Stage III) starts definitive CRT. He develops Grade 4 mucositis and a nasogastric tube is placed. At week 4, his creatinine rises from 0.9 to 2.1 mg/dL. The oncologist is considering cisplatin dose modification. What is the most appropriate management?",
+        "options": {
+          "A": "Continue cisplatin at full dose — renal changes are expected and temporary",
+          "B": "Hold cisplatin permanently and continue RT alone",
+          "C": "Reduce cisplatin dose by 25% and resume at week 7",
+          "D": "Hold cisplatin for current cycle; reassess renal function; consider switching to cetuximab or carboplatin if renal function does not recover"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Acute cisplatin nephrotoxicity with creatinine rising from 0.9 to 2.1 mg/dL (>2× ULN rise) mandates holding cisplatin for the current cycle. The RT should continue uninterrupted. Renal function should be reassessed 1-2 weeks later. If creatinine recovers to baseline or near-baseline (creatinine clearance >50 mL/min), cisplatin can potentially be resumed. If renal function does not recover, switching to an alternative (cetuximab or carboplatin) may be considered, though both have less evidence. Continuing cisplatin at full dose with an active creatinine rise risks acute kidney injury.",
+          "wrong": {
+            "A": "Creatinine doubling to 2.1 mg/dL is a significant nephrotoxic event and is NOT acceptable to continue through without intervention. Continuing cisplatin risks AKI, dialysis dependence, and long-term renal damage.",
+            "B": "Permanently holding cisplatin after a single nephrotoxic episode, without attempting renal recovery, is premature and may unnecessarily compromise the chemotherapy component of CRT.",
+            "C": "Dose reduction and resumption at week 7 is a reasonable strategy if renal function recovers, but holding cisplatin first (to assess recovery) is the most appropriate initial step. Resuming at 75% dose at week 7 only if kidneys recover is a valid plan."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Cisplatin toxicity management; standard oncology toxicity guidelines",
+          "trial": "RTOG 9111 and standard practice guidelines for cisplatin-based CRT: cisplatin held when CrCl drops below 50 mL/min or creatinine rises >2× ULN.",
+          "pearl": "Cisplatin nephrotoxicity management: hold cisplatin if creatinine doubles or CrCl <50 mL/min. Never interrupt radiation for chemotherapy toxicity (radiation breaks worsen local control). RT continues regardless of cisplatin status. Assess renal recovery before resuming cisplatin.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q20",
+        "stem": "A 61-year-old man with a history of T2N1 p16-positive OPSCC, treated 3 years ago with definitive CRT (achieving complete response), now presents with progressive dysphagia and neck pain. CT shows new ipsilateral level II adenopathy (2.5 cm) and a new 1.5 cm lesion at the right tonsillar fossa. He is otherwise fit (ECOG 1). What is the most appropriate initial management?",
+        "options": {
+          "A": "Systemic therapy with pembrolizumab + chemotherapy (KEYNOTE-048 protocol) for recurrent disease",
+          "B": "Biopsy to confirm recurrence/second primary, then evaluate for salvage surgery or reirradiation",
+          "C": "Repeat definitive CRT (70 Gy) to the recurrent site",
+          "D": "Best supportive care — patients who recur after CRT have dismal prognosis and salvage is futile"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Before initiating any treatment for presumed recurrence, histological confirmation is mandatory — the new lesion could represent a second primary, which would have different management implications. After biopsy confirmation, the patient should be evaluated by a multidisciplinary team for: (1) salvage surgery (TORS + neck dissection for the primary and node) if technically feasible and if critical structures are spared; (2) reirradiation ± systemic therapy for unresectable recurrence. In HPV-positive OPSCC, even late recurrences may be resectable, and salvage surgery can be curative in selected patients.",
+          "wrong": {
+            "A": "KEYNOTE-048-based systemic therapy is for confirmed recurrent/metastatic HNSCC not amenable to locoregional treatment. This patient has potentially resectable locoregional recurrence — locoregional salvage should be the first consideration.",
+            "C": "Repeat full-course reirradiation (70 Gy) to the same site after prior 70 Gy CRT would result in catastrophic toxicity (soft tissue necrosis, fistula, carotid rupture). Reirradiation to limited volumes (stereotactic or IMRT to 60 Gy with careful dose constraints) may be possible in selected patients after careful dosimetric review.",
+            "D": "Best supportive care is premature — HPV-positive OPSCC has reasonably good salvage rates. A fit ECOG 1 patient with potentially resectable isolated locoregional recurrence should be offered salvage therapy with curative intent."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Locoregional Recurrence Management",
+          "trial": "KEYNOTE-048 (Shah et al., Lancet 2018): First-line systemic therapy for R/M HNSCC not amenable to local treatment. Locoregional recurrence should be considered for salvage before systemic therapy.",
+          "pearl": "Locoregional recurrence after CRT: (1) Biopsy first — confirm recurrence/exclude second primary. (2) Evaluate for salvage surgery. (3) Consider reirradiation if surgery not possible. (4) Systemic therapy (pembrolizumab ± chemotherapy) for truly unresectable or metastatic disease. Never start systemic therapy without histological confirmation.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

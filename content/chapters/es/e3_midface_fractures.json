@@ -1,0 +1,622 @@
+{
+  "id": "E3",
+  "title": "Fracturas del Macizo Facial",
+  "subtitle": "Bloque E — Clasificación Le Fort, Fracturas del CCZ, Estallido Orbitario, Fracturas NOE",
+  "block": "E",
+  "block_name": "Traumatismo Facial",
+  "level": "R2-4",
+  "reading_time_min": 42,
+  "guidelines_version": "EACMFS Facial Trauma Guidelines 2021 · BAOMS Midface Fracture Guidelines 2020 · AO CMF Classification 2021",
+  "textbook_refs": [
+    "Le Fort R. Étude expérimentale sur les fractures de la mâchoire supérieure. Revue de Chirurgie (1901)",
+    "Zingg M et al. Classification and treatment of zygomatic fractures. J Oral Maxillofac Surg (1992)",
+    "Markowitz BL et al. Management of the medial canthal tendon in nasoethmoid orbital fractures. Plast Reconstr Surg (1991)",
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3ª ed. (2012)"
+  ],
+  "learning_objectives": [
+    "Clasificar las fracturas del macizo facial utilizando la clasificación Le Fort y reconocer los patrones Le Fort compuestos",
+    "Describir la anatomía y clasificación de las fracturas del complejo cigomático utilizando los sistemas de Zingg y Manson",
+    "Identificar y manejar las fracturas de estallido orbitario, incluyendo las indicaciones de reparación, el momento quirúrgico y los abordajes",
+    "Reconocer las fracturas naso-orbito-etmoidales (NOE), clasificarlas mediante el sistema de Markowitz y comprender el manejo de las lesiones del tendón cantal medial",
+    "Aplicar los principios de reconstrucción 'de fuera adentro' y 'de abajo arriba' en las fracturas complejas del macizo facial",
+    "Reconocer el enoftalmos postraumático, el telecanto y la deformidad tardía del macizo facial"
+  ],
+  "sections": [
+    {
+      "id": "E3-S1",
+      "title": "Clasificación Le Fort de las Fracturas del Macizo Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El estudio experimental cadavérico pionero de René Le Fort en 1901 definió tres patrones predecibles de fractura del macizo facial basados en el análisis biomecánico de las direcciones de aplicación de la fuerza. Estos patrones — **Le Fort I, II y III** — representan los niveles horizontales de disociación maxilar/facial del macizo facial respecto a la base del cráneo y siguen siendo la base de la clasificación de fracturas del macizo facial hasta hoy.\n\n**Le Fort I** (fractura horizontal/baja del maxilar): El trazo de fractura pasa horizontalmente por el maxilar justo por encima de los ápices de los dientes superiores — a través del tabique nasal, las paredes laterales de los senos maxilares y las apófisis pterigoides bilateralmente. Todo el arco dental (alveolo maxilar + paladar + dentición) queda separado del esqueleto del macizo facial superior. Las apófisis pterigoides son el anclaje posterior — todas las fracturas Le Fort afectan bilateralmente a las apófisis pterigoides. Manifestaciones clínicas: dentición maxilar móvil (todo el arco dental superior se mueve independientemente del macizo facial), mordida abierta anterior, y el paciente puede agarrar los dientes superiores y notar el movimiento del paladar/alveolo sin que se mueva la piel facial suprayacente.\n\n**Le Fort II** (fractura piramidal): Los trazos de fractura se extienden desde las apófisis pterigoides, ascienden por las paredes laterales de los senos maxilares, cruzan el reborde infraorbitario y se unen sobre el puente nasal. El fragmento 'piramidal' resultante incluye el alveolo maxilar, el paladar, los senos maxilares y la pirámide nasal. El reborde orbitario inferior queda interrumpido. Manifestaciones clínicas: movimiento del tercio medio facial (incluida la nariz) a la manipulación, hematoma periorbitario bilateral ('ojos de panda' — el hematoma que se extiende por debajo del margen orbitario lo diferencia de la fractura de base de cráneo, donde el hematoma se limita a los márgenes orbitarios), y parestesia del nervio infraorbitario.\n\n**Le Fort III** (disyunción craneofacial): Separación completa del esqueleto facial de la base craneal. Los trazos de fractura se extienden desde las apófisis pterigoides, a través de las paredes orbitarias laterales (por la sutura cigomaticomalar y cigomaticofrontal), a través de la sutura nasofrontal y a través de los suelos orbitarios y las paredes mediales. Todo el macizo facial (incluyendo los cigomas, las órbitas y el esqueleto nasal) se mueve como una unidad independientemente de la base del cráneo. Manifestaciones clínicas: deformidad en 'cara de plato' (desplazamiento posterior e inferior de todo el macizo facial), cara alargada con mordida abierta anterior, edema facial masivo, rinorrea de LCR (fractura de la lámina cribosa) y hemorragia.\n\nEn la práctica clínica, las **fracturas Le Fort compuestas** son frecuentes — un Le Fort II en un lado con Le Fort III en el otro, o patrones Le Fort combinados con fracturas mandibulares (fracturas panfaciales). Las fracturas Le Fort puras tal como las describió Le Fort son poco frecuentes; la mayoría de las fracturas clínicas son modificaciones asimétricas de los patrones básicos."
+        },
+        {
+          "type": "table",
+          "title": "Resumen de la Clasificación Le Fort",
+          "headers": ["Tipo", "Nivel de Fractura", "Estructuras Implicadas", "Característica Clínica"],
+          "rows": [
+            ["Le Fort I", "Maxilar bajo (horizontal)", "Alveolo maxilar, tabique nasal, apófisis pterigoides", "Arco dental móvil sin movimiento de la piel facial; mordida abierta anterior"],
+            ["Le Fort II", "Piramidal (reborde infraorbitario)", "Maxilar, pirámide nasal, reborde infraorbitario, apófisis pterigoides", "Movimiento del tercio medio facial; hematoma periorbitario; parestesia infraorbitaria"],
+            ["Le Fort III", "Disyunción craneofacial", "Todo el macizo facial desde la base del cráneo; sutura cigomaticofrontal, arco cigomático, sutura nasofrontal", "Deformidad en cara de plato; rinorrea de LCR; cara alargada; edema masivo"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Apófisis Pterigoides — Implicación Universal en Todos los Patrones Le Fort",
+          "content": "Los TRES patrones de fractura Le Fort (I, II y III) afectan a las apófisis pterigoides bilateralmente. Las apófisis pterigoides forman el contrafuerte posterior del macizo facial y se fracturan inevitablemente en cualquier patrón Le Fort debido a la inserción posterior del macizo facial a través de estas estructuras. Si la TC muestra fracturas de las apófisis pterigoides, debe considerarse un patrón Le Fort. Las fracturas aisladas de las apófisis pterigoides sin patrón Le Fort son poco frecuentes."
+        }
+      ]
+    },
+    {
+      "id": "E3-S2",
+      "title": "Fracturas del Complejo Cigomático",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La fractura del complejo cigomático (CCZ) — también denominada fractura cigomático-malar o trimalar — implica la disrupción del cigoma en sus articulaciones con el frontal (sutura cigomaticofrontal), el temporal (arco cigomático) y el maxilar (contrafuerte cigomaticomaxilar + reborde infraorbitario + suelo orbitario). Una fractura 'pura' del CCZ separa el cigoma en los cuatro puntos de articulación, provocando el desplazamiento de todo el complejo cigomático.\n\nLa **clasificación de Zingg** (1992) categoriza las fracturas del CCZ por gravedad y proporciona un marco de decisión quirúrgica útil:\n- **Tipo A** (tripie): Fractura aislada del arco cigomático (A1), del contrafuerte cigomaticomaxilar (A2) o del suelo orbitario/sutura CM (A3) — fracturas incompletas del CCZ\n- **Tipo B** (tetrapodal/completa): Fractura completa del CCZ con las cuatro articulaciones interrumpidas — la clásica fractura trimalar\n- **Tipo C**: Fractura conminuta del CCZ\n\nLa **clasificación de Manson** para la afectación orbitaria (leve, moderada, grave) es especialmente útil para decidir si se requiere reparación del suelo orbitario junto con la fijación del CCZ.\n\nEl desplazamiento del CCZ afecta simultáneamente a múltiples estructuras funcionales y estéticas: (1) **volumen orbitario** — el desplazamiento de la pared lateral de la órbita cambia el volumen orbitario, causando enoftalmos o exoftalmos; (2) **arco cigomático** — el arco deprimido choca con la apófisis coronoides, restringiendo la apertura mandibular (trismo); (3) **nervio infraorbitario** — el nervio discurre por la gotera infraorbitaria, causando parestesia de la mejilla ipsilateral, labio superior y lateral de la nariz; (4) **suelo orbitario** — la disrupción o conminución del suelo provoca herniación de grasa orbitaria y enoftalmos; y (5) **prominencia malar** — el CCZ deprimido causa aplanamiento de la prominencia malar.\n\nHallazgos de la exploración clínica: hematoma periorbitario y edema, hemorragia subconjuntival (sugestiva de fractura de pared orbitaria), escalón en el reborde infraorbitario y en la sutura cigomaticofrontal, aplanamiento de la prominencia malar, trismo (por choque con la coronoides), diplopía e hipoestesia del nervio infraorbitario. El signo del hemoseno (nivel hidroaéreo en el seno maxilar) en la imagen apoya el diagnóstico."
+        },
+        {
+          "type": "table",
+          "title": "Abordajes Quirúrgicos para la RAFI de Fracturas del CCZ",
+          "headers": ["Estructura", "Abordaje", "Puntos de Fijación"],
+          "rows": [
+            ["Sutura cigomaticofrontal (CF)", "Blefaroplastia superior o incisión en la ceja lateral", "1-2 tornillos o miniplaca; habitualmente el primer punto fijado"],
+            ["Reborde infraorbitario", "Párpado inferior (transconjuntival/subciliar) o incisión vestibular", "Miniplaca; también proporciona acceso al suelo"],
+            ["Contrafuerte cigomaticomaxilar (CM)", "Vestíbular intraoral del surco bucal superior", "Placa en L o en T; punto de fijación más resistente"],
+            ["Arco cigomático", "Coronal (Gillies) o incisión preauricular; o elevación temporal de Gillies vía incisión de punción", "Reducción sin fijación (Gillies); o plaqueo directo por abordaje coronal"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Abordaje Temporal de Gillies — Reducción Aislada del Arco",
+          "content": "El abordaje temporal de Gillies (Gillies 1927) se utiliza para la reducción de un arco cigomático deprimido aislado. Se realiza una incisión de punción en la línea de implantación del cabello temporal; se pasa un elevador perióstico por debajo de la fascia temporal y por debajo del arco cigomático. El elevador se usa para hacer palanca superior y lateralmente para reducir la depresión. No se requiere ninguna incisión directamente sobre el arco. Es importante destacar que este abordaje NO proporciona fijación — solo se usa cuando el arco permanece estable en la posición reducida (cuando los fragmentos fracturados se 'encajan' en su lugar). Si no puede lograrse la estabilidad, se requiere plaqueo directo mediante un abordaje coronal."
+        }
+      ]
+    },
+    {
+      "id": "E3-S3",
+      "title": "Fracturas de Estallido Orbitario",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas de estallido orbitario se producen cuando una fuerza aplicada directamente sobre el globo (mediante un puño, pelota u otro objeto contundente) provoca un aumento repentino de la presión intraorbitaria, fracturando la pared más débil — con mayor frecuencia el suelo orbitario (que transmite la onda de presión hacia el delgado hueso del techo del seno maxilar) y la pared medial (hacia las celdillas etmoidales). El globo generalmente permanece intacto porque se deforma pero recupera su forma. Se proponen dos mecanismos: el mecanismo 'hidráulico' (el globo transmite la presión directamente al suelo) y el mecanismo de 'pandeo' (la fuerza sobre el reborde orbitario inferior hace pandear el delgado suelo).\n\n**Indicaciones de reparación quirúrgica** de las fracturas de estallido orbitario:\n1. **Atrapamiento muscular/graso** con movimiento ocular restringido (test de ducción forzada positivo) y diplopía persistente — especialmente la fractura en trampa pediátrica con 'ojo blanco' (urgencia quirúrgica)\n2. **Defecto grande** (>50% del suelo orbitario, típicamente >2 cm² en la TC) con o sin enoftalmos\n3. **Enoftalmos >2 mm** (desplazamiento posterior del globo por cambio de volumen)\n4. **Hipoftalmos** (desplazamiento inferior del globo)\n5. **Diplopía en visión primaria o en posiciones funcionalmente importantes** (recto, lectura)\n\n**Momento quirúrgico**: Fractura en trampa pediátrica con atrapamiento = urgencia (dentro de las 24-48 horas). Fracturas de estallido en adultos con indicaciones conservadoras = reparación precoz dentro de las 2 semanas antes de que la fibrosis y la cicatrización limiten la reducción. El manejo conservador es apropiado para fracturas pequeñas y asintomáticas.\n\n**Abordaje quirúrgico**: El **abordaje transconjuntival** (incisión en la superficie interna del párpado inferior) es el acceso preferido al suelo orbitario, evitando una cicatriz externa y proporcionando una excelente exposición. El **abordaje subciliar** (incisión 2 mm por debajo de las pestañas inferiores) proporciona un acceso similar pero deja una cicatriz visible. El **abordaje transcaruncular o transconjuntival-retrocaruncular** accede a la pared orbitaria medial. La reconstrucción del suelo orbitario utiliza malla de titanio, polietileno poroso (Medpor) o láminas reabsorbibles para cubrir el defecto y sustentar el contenido orbitario herniado."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Enoftalmos frente a Exoftalmos — Cambio del Volumen Orbitario",
+          "content": "El enoftalmos postraumático (desplazamiento posterior del globo) resulta de un AUMENTO del volumen orbitario — el suelo/las paredes colapsan hacia afuera, ampliando la cavidad ósea orbitaria de manera que el globo se hunde hacia atrás. El exoftalmos resulta de una DISMINUCIÓN del volumen orbitario (p. ej., hematoma retrobulbar, enfisema orbitario, tumor que empuja el globo hacia adelante). En las fracturas del CCZ, el desplazamiento de la pared lateral de la órbita cambia el volumen orbitario en cualquier dirección según el patrón de desplazamiento. La medición del volumen orbitario por TC es fundamental al planificar la reparación — el objetivo es restaurar el volumen orbitario normal de 30 mL."
+        }
+      ]
+    },
+    {
+      "id": "E3-S4",
+      "title": "Fracturas Naso-Orbito-Etmoidales (NOE)",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas naso-orbito-etmoidales (NOE) afectan al complejo del macizo facial central — los huesos nasales, las paredes orbitarias mediales, los senos etmoidales y el tabique nasal. Son consecuencia de un impacto directo sobre el puente nasal central, típicamente en traumatismos de alta energía (AT, caídas desde altura). El tendón cantal medial (TCM) — que une el complejo cantal medial de ambos párpados a las crestas lacrimales anterior y posterior del hueso nasal y apófisis frontal del maxilar — es fundamental tanto para la clasificación como para el manejo.\n\nLa **clasificación de Markowitz** (1991) clasifica las fracturas NOE según la relación del TCM con la fractura:\n- **Tipo I**: Fragmento central grande único que porta la inserción del TCM — la inserción del TCM está sobre un único fragmento óseo intacto. Tratamiento: la reducción y fijación del fragmento restaura la posición del TCM.\n- **Tipo II**: Fractura central conminuta pero la inserción del TCM está sobre un fragmento mayor identificable — TCM unido a un fragmento conminuto. Tratamiento: reducción con cantopexia transnasal si el fragmento no puede fijarse de forma estable.\n- **Tipo III**: Fractura conminuta con el TCM avulsionado del hueso o unido a fragmentos diminutos — el TCM está esencialmente libre. Tratamiento: alambre de cantopexia transnasal pasado a través de orificios taladrados en la cresta lagrimal posterior del hueso nasal, reconstituyendo la inserción del TCM. La reparación más compleja.\n\n**El telecanto traumático** — ensanchamiento de la distancia intercantal — es la deformidad característica de las fracturas NOE. La distancia intercantal normal es de 30–35 mm (aproximadamente igual a la anchura de una fisura palpebral). El telecanto traumático se produce porque la inserción del TCM está interrumpida y los cantos mediales se desplazan lateral y anteriormente. Es la deformidad postraumática más frecuente de las fracturas NOE y es extremadamente difícil de corregir secundariamente. Una reparación primaria precisa y temprana es esencial para prevenir el telecanto permanente.\n\nLa exploración clínica de las fracturas NOE incluye: palpación nasofrontal bimanual (detectar la conminución de los huesos nasales y los etmoides), test del arco (la tracción lateral del párpado inferior provoca que el canto medial se mueva si el TCM está interrumpido), rinorrea de LCR (afectación de la lámina cribosa) y lesión del sistema lagrimal (epífora por daño de los canalículos lagrimales)."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Markowitz de las Fracturas NOE y Manejo",
+          "headers": ["Tipo", "Estado del TCM", "Patrón de Fractura", "Manejo"],
+          "rows": [
+            ["Tipo I", "TCM en fragmento único intacto", "Fragmento central grande único", "RAFI del fragmento central; restaurar la posición del TCM fijando el fragmento"],
+            ["Tipo II", "TCM en fragmento mayor conminuto", "Conminuta pero TCM en fragmento identificable", "RAFI de fragmentos + cantopexia transnasal si el fragmento no es estable"],
+            ["Tipo III", "TCM avulsionado o en fragmentos diminutos", "Gravemente conminuta; sin inserción del TCM identificable", "Alambre de cantopexia transnasal a través de la cresta lagrimal posterior + injerto óseo"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Telecanto — Debe Corregirse en la Cirugía Primaria",
+          "content": "El telecanto traumático por disrupción del TCM es una de las deformidades más difíciles de corregir secundariamente. Una vez que la fibrosis ha establecido los cantos desplazados, la corrección secundaria requiere procedimientos complejos (cantopexia transnasal, reconstrucción cantal medial). La reparación PRIMARIA de las fracturas NOE con reinserción precisa del TCM es la única forma fiable de prevenir el telecanto. El telecanto está significativamente infradetectado en la valoración inicial porque el edema periorbitario enmascara la deformidad. Medir la distancia intercantal en TODOS los pacientes con sospecha de fracturas NOE."
+        }
+      ]
+    },
+    {
+      "id": "E3-S5",
+      "title": "Principios de Reconstrucción en las Fracturas del Macizo Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El manejo quirúrgico de las fracturas complejas del macizo facial sigue una secuencia y principios de reconstrucción establecidos que maximizan la precisión y la estabilidad. Dos principios complementarios guían la secuencia operatoria:\n\n**Principio de fuera adentro**: La reconstrucción comienza en los puntos de referencia óseos periféricos estables (sutura cigomaticofrontal, cóndilo/rama mandibular, base del cráneo) y trabaja hacia adentro, hacia la región central conminuta. Al establecer primero el marco facial externo (rebordes orbitarios, arcos cigomáticos, nivel Le Fort III), la anatomía interna puede reconstruirse dentro de un marco de referencia dimensional definido. Esto evita la reducción imprecisa de la zona central conminuta.\n\n**Principio de abajo arriba** (para fracturas combinadas del macizo facial y mandibulares — fracturas panfaciales): La mandíbula (a menudo la referencia más estable) se reduce y fija primero para establecer la altura facial vertical y el plano oclusal. Luego, el maxilar se adapta a la mandíbula (estableciendo la oclusión), y el macizo facial se reconstruye sobre esta plataforma dental estable. Este abordaje de abajo arriba utiliza la oclusión dental como la 'verdad' de la altura y la proyección facial.\n\nPara las **fracturas Le Fort**, el abordaje quirúrgico es: (1) colgajo coronal (para acceder al seno frontal, el complejo NOE, las suturas cigomaticofrontales, los rebordes orbitarios y los arcos cigomáticos); (2) incisión en el párpado inferior (suelos orbitarios y rebordes infraorbitarios); (3) incisión vestibular intraoral (fijación a nivel Le Fort I — contrafuertes cigomaticomaxilares); y (4) FIM para establecer la oclusión. La fijación avanza en cada contrafuerte — el sistema de contrafuertes faciales (verticales: nasomaxilar, CM, pterigomaxilar; horizontales: frontal, infraorbitario, arco cigomático) orienta la colocación de las placas.\n\nLa **planificación quirúrgica virtual (PQV)** y los **implantes a medida (IAM)** se utilizan cada vez más en la reconstrucción compleja del macizo facial, permitiendo la planificación 3D preoperatoria, las guías de corte intraoperatorias y las placas de titanio a medida que reducen el tiempo quirúrgico y mejoran la precisión."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Sistema de Contrafuertes Faciales — Comprensión de la Arquitectura",
+          "content": "El macizo facial está estructurado en torno a un sistema de contrafuertes óseos verticales y horizontales. CONTRAFUERTES VERTICALES (portantes de carga): (1) contrafuerte nasomaxilar, (2) contrafuerte cigomaticomaxilar, (3) contrafuerte pterigomaxilar. CONTRAFUERTES HORIZONTALES (que conectan los verticales): (1) barra frontal (rebordes supraorbitarios), (2) rebordes infraorbitarios, (3) arcos cigomáticos. La fijación con placa debe colocarse sobre los contrafuertes para proporcionar estabilidad estructural. El hueso conminuto entre contrafuertes no necesita fijación rígida — los contrafuertes restauran las dimensiones faciales generales."
+        }
+      ]
+    },
+    {
+      "id": "E3-S6",
+      "title": "Complicaciones Tardías de las Fracturas del Macizo Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones tardías de las fracturas del macizo facial se producen por una reparación primaria inadecuada o por la complejidad intrínseca de la lesión. Las complicaciones tardías más significativas desde el punto de vista clínico son:\n\n**Enoftalmos**: Desplazamiento posterior del globo por aumento del volumen orbitario (estallido del suelo/paredes no reparado o restauración inadecuada del volumen orbitario en la reparación primaria). El enoftalmos significativo (>2 mm) provoca deformidad cosmética y diplopía. La reparación secundaria es técnicamente exigente porque la fibrosis fija los tejidos orbitarios en la posición desplazada. La reparación secundaria del suelo orbitario con malla de titanio se realiza a los 6–12 meses de la lesión.\n\n**Telecanto**: Ensanchamiento postraumático de la distancia intercantal por fracturas NOE no reparadas o reparadas inadecuadamente. Una distancia intercantal >40 mm con pliegues cutáneos cantales mediales es desfigurante. La corrección secundaria requiere cantopexia transnasal.\n\n**Diplopía**: Visión doble persistente por lesión del músculo extraocular, atrapamiento no liberado del recto inferior, o daño directo del músculo/nervio. La diplopía por atrapamiento mecánico puede mejorar con la reparación tardía del suelo orbitario; la diplopía por lesión nerviosa o muscular directa puede ser permanente.\n\n**Retropulsión/retrognathia del macizo facial**: Las fracturas Le Fort reducidas de forma inadecuada consolidan con el macizo facial desplazado posterior e inferiormente, produciendo una deformidad en cara de plato y una oclusión Clase III. Se requiere una osteotomía Le Fort I secundaria (sobre los huesos consolidados) para la corrección.\n\n**Parestesia persistente del nervio infraorbitario**: Entumecimiento postraumático de la mejilla, labio superior y lateral de la nariz por lesión del nervio infraorbitario en el agujero infraorbitario. La mayoría (70–80%) se recuperan en 6–12 meses; la anestesia persistente a los 12 meses sugiere una lesión de Sunderland Grado III–IV."
+        }
+      ]
+    },
+    {
+      "id": "E3-S7",
+      "title": "Fracturas Aisladas del Arco Cigomático",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas aisladas del arco cigomático se producen por traumatismo contundente lateral directo sobre la región temporal. El arco está formado por la apófisis temporal del cigoma y la apófisis cigomática del temporal. Las fracturas producen típicamente una depresión conminuta en forma de 'W' en la TC (dos trazos de fractura laterales con un segmento central deprimido). El problema clínico principal es el choque del arco deprimido sobre el músculo temporal subyacente y la apófisis coronoides de la mandíbula, causando trismo doloroso y restricción de la apertura mandibular.\n\nEl **abordaje temporal de Gillies** es la técnica clásica de reducción cerrada: una incisión de punción en la línea de implantación temporal posterior permite pasar un elevador plano por debajo de la fascia temporal y luego por debajo del arco deprimido. La palanca hacia arriba y afuera reduce la depresión del arco. No se coloca fijación — la elasticidad del arco y los tejidos blandos circundantes mantiene habitualmente la reducción. Este abordaje no deja cicatriz visible.\n\nEl fracaso de la reducción cerrada (fracturas del arco que no pueden mantenerse en posición sin fijación) requiere el **abordaje coronal** para el acceso directo y la fijación con placa del arco. Algunos cirujanos utilizan el endoscopio para acceder al arco a través de una incisión en la línea de implantación temporal sin necesidad de un colgajo coronal completo.\n\n**Fracturas aisladas del arco sin trismo**: Si el arco está deprimido pero no hay trismo y el paciente está asintomático, el manejo conservador (dieta blanda, analgésicos, observación) puede ser apropiado, ya que el arco deprimido causa principalmente preocupaciones estéticas que pueden no justificar el riesgo quirúrgico."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre fracturas del macizo facial con 20 preguntas tipo MIR.",
+    "questions": [
+      {
+        "id": "E3-Q1",
+        "stem": "Un varón de 35 años está implicado en un AT a alta velocidad. La exploración muestra que cuando se agarra la dentición maxilar y se mueve, todo el tercio medio facial (incluida la nariz) se mueve con ella, pero la frente y la región orbitaria permanecen estables. Hay parestesia infraorbitaria bilateral. ¿Qué patrón Le Fort describe esto?",
+        "options": {
+          "A": "Le Fort I",
+          "B": "Le Fort II",
+          "C": "Le Fort III",
+          "D": "Le Fort I + III compuesto"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El movimiento del tercio medio facial (incluida la nariz) con la dentición al agarrar los dientes, combinado con la estabilidad de la región orbitaria superior y frontal, describe Le Fort II (fractura piramidal). El fragmento piramidal incluye el maxilar, la pirámide nasal y los rebordes infraorbitarios — de ahí que toda la nariz se mueva con los dientes. Los rebordes orbitarios y el esqueleto facial superior permanecen fijos al cráneo (a diferencia de Le Fort III, donde todo el macizo facial incluidas las órbitas está movilizado). La parestesia infraorbitaria bilateral confirma la afectación del reborde infraorbitario, coherente con Le Fort II.",
+          "wrong": {
+            "A": "Le Fort I: solo se mueve el arco dental/alveolo — la nariz NO se mueve con él. La piel midfacial y la pirámide nasal permanecen fijas.",
+            "C": "Le Fort III: todo el macizo facial INCLUYENDO los rebordes orbitarios y los cigomas se mueve — la órbita superior no es estable en Le Fort III.",
+            "D": "Un patrón Le Fort I + III compuesto mostraría movimiento del arco dental MÁS las órbitas — la nariz también se movería pero la región orbitaria también sería inestable."
+          },
+          "guideline": "Le Fort R. Revue de Chirurgie (1901) — Le Fort II (piramidal): el tercio medio facial incluida la pirámide nasal se mueve con la dentición; región orbitaria superior estable",
+          "trial": "Le Fort R. Estudio experimental sobre fracturas maxilares (1901): Le Fort II definido por fractura del reborde infraorbitario y afectación del puente nasal; validación clínica confirmada en todos los textos de traumatología facial posteriores",
+          "pearl": "Le Fort I = solo se mueve el ARCO DENTAL (por debajo de la nariz). Le Fort II = se mueve el TERCIO MEDIO (nariz + dientes superiores), órbita superior estable. Le Fort III = todo el MACIZO FACIAL (órbitas + nariz + dientes) se mueve desde la base del cráneo. Parestesia infraorbitaria = Le Fort II (reborde infraorbitario fracturado)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q2",
+        "stem": "¿Qué estructura ósea se fractura en los TRES patrones de fractura Le Fort (I, II y III)?",
+        "options": {
+          "A": "Huesos nasales",
+          "B": "Reborde infraorbitario",
+          "C": "Apófisis pterigoides",
+          "D": "Arco cigomático"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Las apófisis pterigoides (apófisis del esfenoides) se fracturan bilateralmente en los tres patrones Le Fort — I, II y III. Esto se debe a que las apófisis pterigoides forman la inserción posterior del macizo facial en la base del cráneo, y cualquier disociación facial horizontal requiere fracturar este anclaje posterior. Identificar fracturas de las apófisis pterigoides en la TC debe levantar de inmediato la sospecha de una fractura con patrón Le Fort.",
+          "wrong": {
+            "A": "Los huesos nasales están implicados en Le Fort II y III pero NO en Le Fort I (el trazo de fractura Le Fort I pasa por debajo de los huesos nasales).",
+            "B": "Los rebordes infraorbitarios están implicados en Le Fort II y III pero NO en Le Fort I.",
+            "D": "Los arcos cigomáticos están implicados en Le Fort III pero NO en Le Fort I ni II."
+          },
+          "guideline": "Le Fort R. Revue de Chirurgie (1901) — apófisis pterigoides: afectación bilateral universal en los tres patrones Le Fort",
+          "trial": "Manson PN et al. Sagittal fractures of the maxilla and palate. Plast Reconstr Surg (1990): revisión de TC de fracturas Le Fort confirmó fracturas de apófisis pterigoides en el 100% de todos los patrones Le Fort I, II y III",
+          "pearl": "TODOS los patrones Le Fort = APÓFISIS PTERIGOIDES fracturadas bilateralmente. Esta es la constante universal. Si la TC muestra fracturas de apófisis pterigoides → patrón Le Fort hasta que se demuestre lo contrario. Las apófisis pterigoides son el ANCLAJE POSTERIOR del macizo facial."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q3",
+        "stem": "Una mujer de 26 años recibe un puñetazo en la cara. La TC muestra una fractura del CCZ derecho con el cigoma desplazado inferolateralmente y un defecto significativo del suelo orbitario (estimado en el 65% del área del suelo). Tiene restricción de la supraducción en el lado derecho, coherente con la afectación del recto inferior. El test de ducción forzada es positivo. ¿Cuál es el plan quirúrgico apropiado?",
+        "options": {
+          "A": "Solo RAFI del CCZ; el suelo orbitario se recuperará con la reducción del CCZ",
+          "B": "RAFI del CCZ con reconstrucción simultánea del suelo orbitario",
+          "C": "Manejo conservador con observación durante 2 semanas",
+          "D": "Solo reparación del suelo orbitario; el CCZ se reducirá cuando se repare el suelo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Esta paciente tiene dos indicaciones concurrentes para la cirugía: (1) una fractura del CCZ desplazada que requiere RAFI para restauración estructural y estética; y (2) un gran defecto del suelo orbitario (65%) con test de ducción forzada positivo y restricción de supraducción clínica, indicando indicaciones tanto por tamaño como funcionales para la reparación del suelo orbitario. Ambas deben abordarse simultáneamente — RAFI del CCZ primero (para restaurar la pared posterior de la órbita y el soporte del reborde infraorbitario), luego reconstrucción del suelo orbitario con malla de titanio para restaurar el volumen orbitario y liberar el recto inferior atrapado.",
+          "wrong": {
+            "A": "La reducción del CCZ sola no restaura de forma fiable un suelo significativamente deficiente cuando el defecto del suelo es grande (65%) y cuando hay atrapamiento muscular. El suelo requiere reconstrucción directa.",
+            "C": "El manejo conservador es apropiado para defectos pequeños del suelo sin atrapamiento. Un defecto del 65% con test de ducción forzada positivo es una indicación quirúrgica clara.",
+            "D": "La reparación aislada del suelo orbitario, sin reducción del CCZ, dejaría la mala alineación estructural del CCZ, alterando el volumen orbitario y causando potencialmente enoftalmos secundario o reatrapamiento."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — CCZ desplazado con gran defecto del suelo y atrapamiento muscular: RAFI del CCZ + reconstrucción del suelo orbitario simultáneas",
+          "trial": "Zingg M et al. Classification and treatment of zygomatic fractures. J Oral Maxillofac Surg (1992): reducción del CCZ + reparación concurrente del suelo superior a los abordajes por etapas en casos con desplazamiento combinado y grandes defectos del suelo",
+          "pearl": "Gran fractura del CCZ + gran defecto del suelo + atrapamiento muscular = RAFI del CCZ + RECONSTRUCCIÓN DEL SUELO ORBITARIO SIMULTÁNEAS. Abordar ambos problemas en una operación. Orden: reducción del CCZ primero (restaura la referencia estructural), luego reconstrucción del suelo (malla de titanio o Medpor)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q4",
+        "stem": "Un varón de 45 años sufre una fractura aislada del arco cigomático deprimida por una lesión deportiva. La TC muestra una depresión en forma de W en el arco derecho sin afectación orbitaria ni del CCZ. Tiene trismo significativo (apertura de 12 mm). ¿Cuál es el manejo quirúrgico recomendado?",
+        "options": {
+          "A": "Abordaje abierto mediante incisión coronal con fijación directa con placa",
+          "B": "Abordaje temporal de Gillies con reducción cerrada mediante incisión de punción en la línea de implantación temporal",
+          "C": "Manejo conservador con dieta blanda hasta que el trismo se resuelva espontáneamente",
+          "D": "Abordaje transoral con un elevador insertado sobre la coronoides"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una fractura aislada del arco cigomático con trismo significativo (por choque con la coronoides) es una indicación clara de reducción quirúrgica. El abordaje temporal de Gillies — incisión de punción en la línea de implantación temporal, elevador pasado bajo la fascia temporal y bajo el arco, y palanca hacia arriba — es la técnica estándar. No deja cicatriz visible y reduce de forma fiable la depresión en W. No se coloca fijación — el arco elástico mantiene habitualmente la reducción una vez elevado. Si el arco no puede mantenerse en reducción, se requiere escalar al abordaje coronal con plaqueo directo.",
+          "wrong": {
+            "A": "El abordaje coronal se utiliza cuando se necesita fijación directa (fracturas del arco inestables o bilaterales) — no es la primera línea para una fractura del arco aislada y estable. El abordaje de Gillies logra la reducción sin una incisión coronal completa.",
+            "C": "El manejo conservador es apropiado para la depresión del arco asintomática sin limitación funcional. El trismo significativo (apertura de 12 mm) requiere reducción.",
+            "D": "Un elevador transoral sobre la coronoides no proporciona acceso a la superficie inferior del arco cigomático — haría palanca contra la coronoides, no contra el arco."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — fractura aislada del arco cigomático con trismo: abordaje temporal de Gillies de primera línea; abordaje coronal para fracturas inestables/complejas",
+          "trial": "Gillies HD et al. Fractures of the malar-zygomatic compound. Br J Oral Surg (1927): abordaje temporal original de Gillies descrito para la reducción del arco; confirmado como estándar de referencia para fracturas aisladas del arco",
+          "pearl": "GILLIES = reducción aislada del arco cigomático mediante INCISIÓN DE PUNCIÓN EN LA LÍNEA DE IMPLANTACIÓN TEMPORAL. Elevador bajo la fascia temporal, hacer palanca hacia arriba en el arco. No se necesita fijación (el arco permanece reducido). Sin cicatriz. Abordaje coronal = para fracturas del arco complejas/bilaterales/inestables que requieren fijación."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q5",
+        "stem": "Según la clasificación de Markowitz de las fracturas NOE, ¿qué tipo(s) requieren cantopexia transnasal para la reparación del tendón cantal medial?",
+        "options": {
+          "A": "Solo Tipo I",
+          "B": "Solo Tipo II",
+          "C": "Tipos II y III",
+          "D": "Los tres tipos siempre requieren cantopexia transnasal"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Las fracturas NOE de Markowitz Tipo I tienen el TCM en un fragmento central grande único que puede reducirse y fijarse directamente — la cantopexia no se requiere de forma rutinaria. Las fracturas Tipo II tienen el TCM en un fragmento conminuto que puede no ser estable cuando se fija, requiriendo la cantopexia transnasal como medida complementaria. Las fracturas Tipo III tienen el TCM avulsionado o en fragmentos diminutos — la cantopexia transnasal a través de la cresta lagrimal posterior es el medio principal de reinserción del TCM y siempre se requiere. Por tanto, los Tipos II y III típicamente requieren cantopexia transnasal.",
+          "wrong": {
+            "A": "El Tipo I NO requiere cantopexia — el fragmento único grande se fija directamente, y el TCM se reinserta fijando el fragmento óseo.",
+            "B": "El Tipo II puede requerir cantopexia, pero el Tipo III siempre la requiere — ambos deben incluirse en la respuesta.",
+            "D": "El Tipo I no requiere cantopexia; incluir los tres tipos como siempre requiriéndola es incorrecto."
+          },
+          "guideline": "Markowitz BL et al. Management of the medial canthal tendon in nasoethmoid orbital fractures. Plast Reconstr Surg (1991) — Tipo I: fijación directa; Tipos II-III: cantopexia transnasal necesaria",
+          "trial": "Markowitz BL et al. Plast Reconstr Surg (1991): artículo de clasificación original que valida la cantopexia transnasal para los Tipos II-III; fijación directa del Tipo I adecuada en el 89% de los casos",
+          "pearl": "Markowitz NOE: Tipo I = RAFI del fragmento único. Tipos II y III = alambre de CANTOPEXIA TRANSNASAL. La cantopexia pasa a través de un orificio taladrado en la cresta lagrimal posterior, traccionando el TCM hacia atrás y medialmente hasta su posición anatómica correcta."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q6",
+        "stem": "La distancia intercantal normal en adultos es de aproximadamente:",
+        "options": {
+          "A": "15-20 mm",
+          "B": "20-25 mm",
+          "C": "30-35 mm",
+          "D": "40-45 mm"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La distancia intercantal normal en adultos (medida entre los cantos mediales de ambos ojos) es de 30–35 mm. Un recurso nemotécnico útil: la distancia intercantal debe ser igual a la anchura de una fisura palpebral (también aproximadamente 30 mm) — la 'Regla de los Quintos' de las proporciones faciales divide la cara horizontalmente en cinco unidades iguales, cada una equivalente a la anchura de la fisura palpebral. El telecanto traumático se diagnostica cuando la distancia intercantal supera los 35 mm tras un traumatismo NOE o del macizo facial.",
+          "wrong": {
+            "A": "15-20 mm representaría un estrechamiento grave de la distancia intercantal (rango del síndrome de blefarofimosis).",
+            "B": "20-25 mm está por debajo del rango normal adulto.",
+            "D": "40-45 mm representa telecanto — por encima de lo normal."
+          },
+          "guideline": "Markowitz BL et al. Plast Reconstr Surg (1991) — distancia intercantal: 30-35 mm normal en adultos; >35 mm = telecanto",
+          "trial": "Farkas LG et al. Anthropometric guide to the normal adult face. Plast Reconstr Surg (1981): distancia intercantal media 32,7 mm ± 2,1 mm en adultos normales",
+          "pearl": "DISTANCIA INTERCANTAL NORMAL = 30-35 mm. Telecanto traumático = >35 mm. Prueba clínica: test del arco — tracción lateral del párpado inferior; si el canto medial se mueve, el TCM está interrumpido. Medir la distancia intercantal en TODOS los pacientes con fractura NOE."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q7",
+        "stem": "¿Qué hallazgo clínico diferencia específicamente los 'ojos de panda' (hematoma periorbitario) de las fracturas Le Fort del hematoma visto en la fractura de base del cráneo?",
+        "options": {
+          "A": "Los ojos de panda en las fracturas Le Fort son bilaterales; la fractura de base del cráneo causa hematoma unilateral",
+          "B": "En las fracturas Le Fort, el hematoma se extiende POR DEBAJO del margen orbitario; en la fractura de base del cráneo, el hematoma se limita DENTRO del reborde orbitario ('ojos de mapache')",
+          "C": "En las fracturas Le Fort, el hematoma aparece inmediatamente; en la fractura de base del cráneo está diferido 24-48 horas",
+          "D": "El hematoma Le Fort afecta a la frente; el hematoma de la fractura de base del cráneo está aislado al párpado inferior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La distinción clave: en las fracturas Le Fort (especialmente Le Fort II y III), el hematoma periorbitario se extiende POR DEBAJO del margen orbitario hacia las mejillas, porque la hemorragia sigue el trayecto desde los senos maxilares fracturados y los rebordes orbitarios hacia los tejidos blandos adyacentes por debajo y alrededor de la órbita. En las fracturas de base del cráneo, el clásico signo de los 'ojos de mapache' representa sangrado de la fosa craneal anterior que sigue un trayecto hacia adelante a través de la grasa orbitaria — típicamente está LIMITADO DENTRO de los rebordes orbitarios y no se extiende significativamente por debajo de los márgenes orbitarios. Ambos son bilaterales en sus presentaciones clásicas.",
+          "wrong": {
+            "A": "Tanto las fracturas Le Fort como las fracturas de base del cráneo pueden ser bilaterales — esto no las diferencia.",
+            "C": "Ambas pueden aparecer inmediatamente o con cierto retraso; el momento no es la característica diferenciadora.",
+            "D": "El hematoma frontal no es específico de las fracturas Le Fort."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — 'ojos de mapache' limitados dentro de los rebordes orbitarios = fractura de base del cráneo; hematoma por debajo de los márgenes orbitarios = fractura Le Fort o de pared orbitaria",
+          "trial": "Manson PN et al. Studies on enophthalmos: II. The measurement of orbital injuries and their treatment by quantitative computed tomography. Plast Reconstr Surg (1986): patrones de hematoma periorbitario diferenciados en estudio clínico",
+          "pearl": "OJOS DE MAPACHE: hematoma DENTRO de los rebordes orbitarios → fractura de base del cráneo (sangre de la fosa craneal anterior). OJOS DE PANDA: hematoma POR DEBAJO y alrededor de los rebordes orbitarios → fractura Le Fort II/III (sangre del seno maxilar y paredes orbitarias). La distinción es crucial para el diagnóstico."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q8",
+        "stem": "En la reparación de la fractura Le Fort I, la RAFI debe realizarse en qué localizaciones anatómicas (contrafuertes)?",
+        "options": {
+          "A": "Solo apófisis pterigoides",
+          "B": "Contrafuertes nasomaxilar y cigomaticomaxilar bilateralmente",
+          "C": "Rebordes infraorbitarios y sutura nasofrontal",
+          "D": "Suturas cigomaticofrontales y arcos cigomáticos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fijación de la fractura Le Fort I tiene como objetivo los contrafuertes verticales a nivel Le Fort I: el **contrafuerte nasomaxilar (piriforme)** (en la pared nasal lateral/apertura piriforme) y el **contrafuerte cigomaticomaxilar (CM)** (en la unión de la apófisis cigomática del maxilar y la sutura cigomaticomaxilar), bilateralmente. Estos son los puntos de fijación más resistentes y accesibles a nivel Le Fort I, con acceso mediante la incisión vestibular bucal superior. Las placas en L en el contrafuerte CM y las placas rectas en el contrafuerte piriforme proporcionan estabilización adecuada.",
+          "wrong": {
+            "A": "Las apófisis pterigoides no pueden fijarse directamente — se fracturan en todos los patrones Le Fort, pero el plaqueo de la región pterigoidea no se realiza como parte de la reparación rutinaria de Le Fort I.",
+            "C": "Los rebordes infraorbitarios y la sutura nasofrontal son puntos de fijación de Le Fort II y III — por encima del nivel de Le Fort I.",
+            "D": "Las suturas cigomaticofrontales y los arcos cigomáticos son puntos de fijación a nivel Le Fort III."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — RAFI de Le Fort I: contrafuertes nasomaxilar (piriforme) y cigomaticomaxilar (CM); abordaje vestibular bucal intraoral",
+          "trial": "Manson PN et al. Midface fractures: advantages of immediate extended open reduction and bone grafting. Plast Reconstr Surg (1985): la fijación del contrafuerte en los contrafuertes piriforme y CM proporciona estabilidad adecuada de Le Fort I; notificado en 250 casos",
+          "pearl": "Fijación Le Fort I = contrafuerte PIRIFORME (nasomaxilar) + contrafuerte CM (cigomaticomaxilar), bilateralmente. Por abordaje del surco bucal intraoral. Placas en L en el contrafuerte CM, placas rectas en el piriforme. Le Fort II añade: rebordes infraorbitarios. Le Fort III añade: suturas cigomaticofrontales + arcos cigomáticos."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q9",
+        "stem": "Un chico de 14 años sufre un golpe directo en la mejilla derecha durante el rugby. Se presenta sin hematoma periorbitario, con restricción de la supraducción, náuseas y vómitos. La TC muestra una fractura del suelo orbitario derecho con tejido herniado. ¿Cómo se denomina esta presentación y cuál es el manejo urgente?",
+        "options": {
+          "A": "Estallido de ojo azul; manejo conservador con crioterapia",
+          "B": "Estallido de ojo blanco; reparación urgente del suelo orbitario en 24-48 horas",
+          "C": "Ojo negro con hematoma de partes blandas; organizar revisión oftalmológica en 1 semana",
+          "D": "Síndrome de atrapamiento; administrar corticosteroides en dosis altas para reducir la inflamación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este es el clásico estallido orbitario con 'ojo blanco' en un niño. Las características son: sin hematoma periorbitario ('ojo blanco' — el hueso pediátrico elástico vuelve a su posición sin disrupción de partes blandas), restricción de supraducción (recto inferior atrapado en el defecto en trampa), náuseas y vómitos (reflejo oculocardiaco por estimulación vagal a través del músculo atrapado). Esta es una urgencia quirúrgica pediátrica que requiere reparación del suelo orbitario en 24-48 horas para liberar el recto inferior atrapado antes de que la necrosis isquémica produzca diplopía permanente. El retraso más allá de las 48 horas empeora dramáticamente los resultados.",
+          "wrong": {
+            "A": "'Estallido de ojo azul' no es un término clínico. El manejo conservador es inadecuado en un niño con atrapamiento muscular — resultará en diplopía permanente.",
+            "C": "Esto no es un simple hematoma de partes blandas — la TC confirma fractura del suelo orbitario con herniación. Retrasar 1 semana producirá necrosis muscular isquémica.",
+            "D": "Los corticosteroides no liberan un músculo mecánicamente atrapado. Este retraso es inadecuado."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — estallido pediátrico con ojo blanco y atrapamiento: urgencia quirúrgica, reparación en 24-48 horas",
+          "trial": "Egbert JE et al. Direct correlation of white eye blowout fracture with urgent repair and late diplopia. Arch Ophthalmol (2000): diplopía permanente en el 100% cuando la reparación se retrasa >48 horas; diplopía en el 5% cuando se repara dentro de 48 horas",
+          "pearl": "Estallido con OJO BLANCO = NIÑO + sin hematoma + restricción de supraducción + náuseas/vómitos = URGENCIA QUIRÚRGICA. Reparar en 24-48 horas. Estallido en adulto = puede esperar 2 semanas. Trampa pediátrica = NO puede esperar. El reflejo oculocardiaco (vagal → náuseas/vómitos) es patognomónico del atrapamiento muscular."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q10",
+        "stem": "¿Qué pared orbitaria se fractura con MAYOR frecuencia en las lesiones de estallido orbitario?",
+        "options": {
+          "A": "Pared orbitaria lateral",
+          "B": "Pared orbitaria superior (techo)",
+          "C": "Pared orbitaria medial",
+          "D": "Pared orbitaria inferior (suelo)"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "La pared orbitaria inferior (suelo) es la pared fracturada con mayor frecuencia en las lesiones de estallido orbitario, porque es la pared más delgada de la órbita (aproximadamente 0,5–1 mm de espesor — el delgado hueso sobre el seno maxilar) y forma el 'suelo' sobre el que se dirige la presión intraorbitaria aumentada de forma inferior. La pared medial (lámina papirácea — entre la órbita y los senos etmoidales) es la segunda pared fracturada con mayor frecuencia en las lesiones de estallido.",
+          "wrong": {
+            "A": "La pared lateral es la pared orbitaria más gruesa — se fractura en las fracturas del CCZ pero raramente en los estallidos puros.",
+            "B": "El techo orbitario (pared superior) se fractura en las fracturas del seno frontal y lesiones de la fosa craneal anterior, pero raramente está implicado en los estallidos clásicos.",
+            "C": "La pared medial es el segundo lugar de estallido más frecuente, pero el suelo es más común."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — suelo orbitario: lugar de estallido más frecuente (50-75%); pared medial: segundo más frecuente (25-35%)",
+          "trial": "Burnstine MA. Ophthalmology (2002): suelo orbitario implicado en el 75% de los estallidos; pared medial aislada en el 15%; suelo + pared medial combinados en el 10%",
+          "pearl": "Estallido orbitario: SUELO el más frecuente (75%). Pared medial en segundo lugar. El suelo tiene 0,5-1 mm de espesor sobre el seno maxilar. La pared medial (lámina papirácea) es igualmente delgada. Pared lateral = la más gruesa = lugar de estallido menos frecuente."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q11",
+        "stem": "El 'test del arco' se utiliza en la valoración de qué lesión específica en las fracturas NOE?",
+        "options": {
+          "A": "Disrupción del nervio infraorbitario",
+          "B": "Disrupción del tendón cantal medial",
+          "C": "Desviación del tabique nasal",
+          "D": "Lesión del conducto lagrimal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El test del arco valora la integridad del tendón cantal medial (TCM). El explorador agarra el párpado inferior y aplica tracción lateral — un TCM normal hará que el canto medial resista el movimiento lateral (el TCM actúa como una 'cuerda de arco' manteniendo el canto medial en su posición). Un test del arco POSITIVO (el canto medial se mueve lateralmente con la tracción lateral del párpado) indica disrupción del TCM por la fractura NOE subyacente. Este test es esencial en la valoración de todas las fracturas NOE y lesiones del macizo facial que afectan a la región cantal medial.",
+          "wrong": {
+            "A": "La integridad del nervio infraorbitario se valora mediante pruebas de sensibilidad táctil en la mejilla, labio superior y lateral de la nariz — no el test del arco.",
+            "C": "La desviación del tabique nasal se valora mediante especuloscopia nasal y TC — no el test del arco.",
+            "D": "La lesión del conducto lagrimal se valora mediante la irrigación del sistema lagrimal (canulando el canalículo e irrigando con suero salino) — no el test del arco."
+          },
+          "guideline": "Markowitz BL et al. Plast Reconstr Surg (1991) — test del arco: valoración clínica de la disrupción del TCM en fracturas NOE; test positivo indica necesidad de cantopexia transnasal",
+          "trial": "Markowitz BL et al. Plast Reconstr Surg (1991): el test del arco tuvo una sensibilidad del 85% para la disrupción del TCM confirmada en la cirugía; prueba esencial a pie de cama en todo traumatismo NOE/macizo facial",
+          "pearl": "TEST DEL ARCO = tracción lateral del párpado inferior. POSITIVO = el canto medial se mueve lateralmente = TCM interrumpido = fractura NOE con lesión cantal. NEGATIVO = el canto medial resiste = TCM intacto. Realizar en todo paciente con traumatismo del macizo facial."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q12",
+        "stem": "¿Qué abordaje quirúrgico proporciona acceso simultáneo al seno frontal, el complejo NOE, los arcos cigomáticos y los rebordes orbitarios para la reparación de fracturas complejas del macizo facial?",
+        "options": {
+          "A": "Incisiones bilaterales de blefaroplastia inferior",
+          "B": "Incisiones bilaterales del vestíbulo bucal superior",
+          "C": "Abordaje coronal (bicoronal)",
+          "D": "Abordaje temporal endoscópico"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El abordaje coronal (bicoronal) — incisión del cuero cabelludo de trago a trago a través del vértice — proporciona acceso amplio y simultáneo a: el seno frontal y la base del cráneo, el complejo NOE y los huesos nasales, los rebordes supraorbitarios, los arcos cigomáticos y los rebordes orbitarios mediante disección subperióstica. Es el abordaje de referencia para las fracturas complejas del macizo facial (Le Fort II, III, panfaciales), las fracturas NOE y las fracturas del seno frontal que requieren una amplia exposición. El abordaje deja la cicatriz completamente dentro del cuero cabelludo piloso.",
+          "wrong": {
+            "A": "Las incisiones de blefaroplastia inferior proporcionan acceso a los rebordes infraorbitarios y suelos orbitarios — un complemento importante para la reparación del macizo facial, pero no proporcionan acceso a la cara superior.",
+            "B": "Las incisiones vestibulares bucales superiores proporcionan acceso a nivel Le Fort I (contrafuertes piriforme y CM) — la parte inferior de la cara, no la parte superior del macizo facial ni las regiones frontales.",
+            "D": "El abordaje temporal endoscópico proporciona un acceso limitado al arco — no es adecuado como abordaje principal para la reparación de fracturas complejas del macizo facial."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — abordaje coronal: estándar de referencia para la exposición compleja del macizo facial; proporciona acceso simultáneo al seno frontal, NOE, suturas CF, arcos cigomáticos y rebordes orbitarios",
+          "trial": "Manson PN et al. Plast Reconstr Surg (1985): abordaje coronal descrito para la reparación de Le Fort II/III; permite acceso simultáneo frontal, orbitario y cigomático mediante una sola incisión del cuero cabelludo",
+          "pearl": "ABORDAJE CORONAL = acceso a todo el macizo facial superior + región frontal a través de una sola incisión del cuero cabelludo. Acceso: seno frontal + complejo NOE + rebordes orbitarios + suturas CF + arcos cigomáticos. Combinado con blefaroplastia inferior (suelos orbitarios) y vestibular bucal (contrafuertes Le Fort I) = exposición completa del macizo facial para fracturas panfaciales."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q13",
+        "stem": "El enoftalmos postraumático está causado por qué mecanismo?",
+        "options": {
+          "A": "Disminución del volumen orbitario por desplazamiento hacia afuera de las paredes orbitarias fracturadas",
+          "B": "Aumento del volumen orbitario por desplazamiento hacia afuera de las paredes orbitarias fracturadas, lo que permite que el globo se hunda hacia atrás",
+          "C": "Hematoma retrobulbar que comprime el nervio óptico",
+          "D": "Aumento del contenido graso de la órbita por edema traumático"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El enoftalmos postraumático (desplazamiento posterior del globo) resulta de un AUMENTO del volumen óseo orbitario — las paredes orbitarias fracturadas (suelo, pared medial) se desplazan hacia afuera, expandiendo la cavidad ósea orbitaria. Con más espacio, el globo se hunde hacia atrás en la cavidad ampliada. El volumen orbitario normal es de aproximadamente 30 mL; un aumento de incluso 1-2 mL puede producir enoftalmos clínicamente aparente. Este aumento de volumen también puede resultar de la atrofia de la grasa orbitaria (enoftalmos tardío) tras el traumatismo.",
+          "wrong": {
+            "A": "La DISMINUCIÓN del volumen orbitario causa EXOFTALMOS (globo empujado hacia adelante), no enoftalmos.",
+            "C": "El hematoma retrobulbar aumenta la presión orbitaria y causa exoftalmos (proptosis) y compresión del nervio óptico — lo contrario del enoftalmos.",
+            "D": "El aumento de grasa por edema aumentaría temporalmente el volumen orbitario, pero describe exoftalmos, no enoftalmos."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — mecanismo del enoftalmos: AUMENTO del volumen orbitario por desplazamiento de las paredes; la reparación quirúrgica tiene como objetivo restaurar el volumen orbitario normal de 30 mL",
+          "trial": "Manson PN et al. Studies on enophthalmos: II. Quantitative CT measurement. Plast Reconstr Surg (1986): la medición del volumen orbitario por TC muestra que el aumento del volumen orbitario se correlaciona directamente con el grado de enoftalmos",
+          "pearl": "ENOFTALMOS = el globo se hunde HACIA ATRÁS = AUMENTO del volumen orbitario (paredes explotadas hacia afuera). EXOFTALMOS = el globo se empuja HACIA ADELANTE = DISMINUCIÓN del volumen orbitario (hematoma, tumor). Tratamiento del enoftalmos: restaurar el volumen orbitario normal con reparación del suelo con malla/implante."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q14",
+        "stem": "El principio 'de fuera adentro' de la reconstrucción de fracturas del macizo facial hace referencia a:",
+        "options": {
+          "A": "Comenzar la fijación en el área más central/conminuta y trabajar hacia afuera",
+          "B": "Comenzar la fijación en puntos de referencia periféricos estables (sutura cigomaticofrontal, cóndilo) y trabajar hacia adentro hacia la región central conminuta",
+          "C": "Utilizar abordajes extraorales antes que los intraorales",
+          "D": "Colocar las placas en la cortical externa en lugar de la superficie medial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El principio de reconstrucción 'de fuera adentro' para las fracturas complejas del macizo facial establece primero el marco facial externo — comenzando en los puntos de referencia óseos periféricos más estables que tienen una referencia anatómica clara y fiable (típicamente la sutura cigomaticofrontal, el arco cigomático y la posición condilar mandibular), y luego trabajando hacia adentro hacia la zona central conminuta. Al establecer primero las dimensiones del marco periférico, el cirujano dispone de límites fiables dentro de los cuales reconstruir las estructuras centrales más conminutas. Comenzar por la zona central conminuta primero implica el riesgo de establecer una dimensión incorrecta que se propaga hacia afuera.",
+          "wrong": {
+            "A": "Comenzar en el centro conminuto y trabajar hacia afuera es lo OPUESTO del principio de fuera adentro y conduce a la propagación de errores.",
+            "C": "El orden del abordaje extraoral frente al intraoral es una consideración técnica separada — no la definición de la reconstrucción de fuera adentro.",
+            "D": "El posicionamiento de la placa en la cortical interna frente a la externa es una consideración de la técnica de fijación — no el principio de secuencia de reconstrucción."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — principio de fuera adentro: comenzar en puntos de referencia periféricos estables; trabajar hacia la conminución central",
+          "trial": "Manson PN et al. Midface fractures. Plast Reconstr Surg (1985): la secuencia de fijación de fuera adentro demostró mayor precisión en la reparación de fracturas panfaciales comparado con los abordajes que comenzan por el centro",
+          "pearl": "DE FUERA ADENTRO = COMENZAR en puntos de referencia periféricos estables (sutura CF, arco cigomático, posición condilar) → trabajar HACIA ADENTRO a la conminución central. DE ABAJO ARRIBA = comenzar con la MANDÍBULA (establecer la altura vertical y la oclusión) → fijar el macizo facial a la mandíbula. Ambos principios se usan juntos para las fracturas panfaciales."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q15",
+        "stem": "Un varón de 52 años sufre una fractura Le Fort III en un AT. La TC muestra que todo el macizo facial está desplazado hacia atrás. ¿Qué problema de vía aérea es inmediatamente más amenazante para la vida en este paciente?",
+        "options": {
+          "A": "Fragmentos de hueso nasal que obstruyen la vía aérea nasal",
+          "B": "El macizo facial desplazado hacia atrás que ocluye la orofaringe",
+          "C": "Choque del arco cigomático sobre el músculo temporal",
+          "D": "Edema periorbitario que causa ptosis que obstruye la visión"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En la disyunción craneofacial Le Fort III, todo el macizo facial (incluido el paladar duro, que forma el techo de la cavidad oral y el suelo de la cavidad nasal) se desplaza posterior e inferiormente (deformidad en 'cara de plato'). Este desplazamiento posterior puede ocluir la orofaringe — el paladar blando se empuja hacia atrás contra la pared faríngea posterior, y el paladar duro desplazado y la dentición maxilar comprimen la vía aérea oro/nasofaríngea. Este es un compromiso de la vía aérea directamente amenazante para la vida. La tracción anterior manual sobre el maxilar (agarrando los dientes superiores y tirando hacia adelante) puede aliviar temporalmente la obstrucción y confirma el diagnóstico de Le Fort III.",
+          "wrong": {
+            "A": "Los fragmentos de hueso nasal pueden contribuir al compromiso de la vía aérea nasal, pero raramente causan obstrucción de la vía aérea inmediatamente amenazante para la vida — la vía aérea oral permanece abierta.",
+            "C": "El choque del arco cigomático causa trismo — restricción dolorosa de la apertura mandibular — no una urgencia de vía aérea.",
+            "D": "El edema periorbitario causa cierre del párpado y compromiso visual, pero no obstrucción de la vía aérea."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — Le Fort III: el desplazamiento posterior del macizo facial puede ocluir la orofaringe; manejo prioritario de la vía aérea; tracción anterior sobre el maxilar como medida temporal",
+          "trial": "Hogg NJV et al. Facial fractures and airway compromise. J Trauma (2004): Las fracturas Le Fort III se asociaron con la mayor tasa de compromiso de la vía aérea entre los patrones de fractura facial; la tracción anterior fue eficaz como maniobra temporal",
+          "pearl": "Le Fort III = DESPLAZAMIENTO POSTERIOR DEL MACIZO FACIAL = puede OCLUIR LA OROFARINGE. Riesgo inmediato: el colapso posterior de los tejidos blandos cierra la vía aérea. Emergencia: tracción anterior sobre el maxilar + manejo urgente de la vía aérea (ISR o vía aérea quirúrgica). INTUBACIÓN NASOTRAQUEAL CONTRAINDICADA."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q16",
+        "stem": "¿Cuál es la significación clínica de la hemorragia subconjuntival que se extiende hasta el fórnix conjuntival posterior (sin límite posterior visible) en el contexto del traumatismo facial?",
+        "options": {
+          "A": "Indica hemorragia de un vaso conjuntival superficial y no tiene significación clínica",
+          "B": "Indica hemorragia que se origina posterior a la órbita (desde la órbita o intracranialmente) y sugiere fractura orbitaria o de la base del cráneo",
+          "C": "Confirma la fractura del suelo orbitario en la exploración clínica",
+          "D": "Es un signo de oclusión de la arteria retiniana que requiere revisión oftalmológica urgente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La hemorragia subconjuntival SIN límite posterior (sangre que se extiende al fórnix conjuntival posterior sin borde visible) indica que la hemorragia se origina DETRÁS del ojo — desde la órbita (hematoma orbitario que diseca hacia adelante) o desde fuentes intracraneales (hemorragia de la fosa craneal anterior, fractura de la base del cráneo). Este es un signo clásico de lesión orbitaria profunda o fractura de la base del cráneo. Por el contrario, la hemorragia subconjuntival con un límite posterior claro (borde posterior visible) indica una lesión vascular superficial/local.",
+          "wrong": {
+            "A": "La hemorragia con límite posterior visible sugiere una causa superficial. La hemorragia que se extiende al fórnix posterior SIN límite posterior visible NO carece de significación clínica — indica origen profundo/orbitario.",
+            "C": "La fractura del suelo orbitario se confirma mediante TC; la hemorragia subconjuntival por sí sola no puede confirmar una localización específica de fractura de pared.",
+            "D": "La oclusión de la arteria retiniana causa pérdida visual indolora repentina con retina pálida y mancha rojo cereza en la fundoscopia — no hemorragia subconjuntival."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — hemorragia subconjuntival sin límite posterior = origen orbitario o intracraneal; signo de fractura de base del cráneo; TC indicada",
+          "trial": "Gwyn PP et al. Facial and orbital fractures and subconjunctival signs. J Trauma (1971): hemorragia subconjuntival sin límite posterior: el 85% tenía fractura de pared orbitaria o fractura de base del cráneo en la imagen",
+          "pearl": "HEMORRAGIA SUBCONJUNTIVAL SIN LÍMITE POSTERIOR = sangre DETRÁS del ojo = fractura orbitaria o de base del cráneo. 'Sin borde posterior visible' = sangre que sigue el trayecto desde una lesión orbitaria. TC OBLIGATORIA."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E3-Q17",
+        "stem": "La parestesia del nervio infraorbitario tras un traumatismo facial indica con mayor frecuencia la fractura de qué estructura?",
+        "options": {
+          "A": "El techo orbitario",
+          "B": "El reborde infraorbitario y el suelo (el canal infraorbitario)",
+          "C": "Los huesos nasales",
+          "D": "El arco cigomático"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio infraorbitario (rama del nervio maxilar, V2) discurre por la gotera y el canal infraorbitario en el techo del seno maxilar/suelo orbitario, saliendo por el agujero infraorbitario justo debajo del reborde orbitario. Las fracturas que afectan al suelo orbitario y al reborde infraorbitario (como en las fracturas del CCZ y Le Fort II/III) disrumpen el canal infraorbitario y comprimen o estiran el nervio. El resultado clínico es parestesia o hipoestesia de la mejilla, labio superior, lateral de la nariz y párpado inferior. La parestesia del nervio infraorbitario es por tanto el marcador clínico de las fracturas del reborde infraorbitario y del suelo.",
+          "wrong": {
+            "A": "Las fracturas del techo orbitario (seno frontal/base del cráneo) no afectan directamente a la vía del nervio infraorbitario.",
+            "C": "Las fracturas de los huesos nasales pueden afectar a las ramas del nervio nasal, pero no causan parestesia infraorbitaria en la distribución de mejilla/labio.",
+            "D": "Las fracturas del arco cigomático no afectan directamente al nervio infraorbitario."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — parestesia del nervio infraorbitario: marcador de fractura del suelo orbitario y del reborde infraorbitario; presente en >80% de las fracturas del CCZ",
+          "trial": "Zingg M et al. J Oral Maxillofac Surg (1992): parestesia del nervio infraorbitario en el 86% de las fracturas completas del CCZ en la presentación; resuelta en el 75% a los 6 meses",
+          "pearl": "PARESTESIA DEL NERVIO INFRAORBITARIO = entumecimiento de MEJILLA + LABIO SUPERIOR + LATERAL DE LA NARIZ = fractura del REBORDE INFRAORBITARIO/SUELO. Presente en >80% de las fracturas del CCZ. La mayoría se resuelven en 6-12 meses. Persistente a los 12 meses = probable Sunderland Grado III-IV."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E3-Q18",
+        "stem": "El telecanto postraumático (ensanchamiento de la distancia intercantal) se previene mejor mediante:",
+        "options": {
+          "A": "Aplicar una férula nasal firme durante 6 semanas tras la lesión",
+          "B": "Reparación primaria precisa de las fracturas NOE con reinserción directa del TCM en el momento de la RAFI inicial",
+          "C": "Cantopexia transnasal secundaria 3 meses después de la lesión cuando haya remitido la inflamación",
+          "D": "Manejo conservador con observación durante 12 meses"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El telecanto traumático es una de las deformidades más difíciles de corregir secundariamente porque una vez que la fibrosis establece los cantos mediales desplazados en su posición anormal, los tejidos blandos circundantes se adaptan y la corrección secundaria se vuelve cada vez más difícil y menos exitosa. La reparación primaria — reducción precisa de las fracturas NOE con reinserción directa del TCM (mediante RAFI de los fragmentos óseos o cantopexia transnasal) en la operación inicial — es la única prevención fiable. La reparación primaria precoz, incluso con un edema significativo (que puede ser en realidad una ventaja ya que permite la movilidad tisular antes de la cicatrización), ofrece la mejor posibilidad de una distancia intercantal normal.",
+          "wrong": {
+            "A": "Una férula nasal proporciona soporte externo para la desviación/fractura nasal, pero no previene el desplazamiento del TCM en las fracturas NOE.",
+            "C": "La reparación secundaria a los 3 meses, aunque mejor que ninguna reparación, tiene tasas de éxito significativamente más bajas que la reparación primaria. La fibrosis ya está establecida a los 3 meses.",
+            "D": "Observación expectante durante 12 meses permite establecer un telecanto permanente — en este punto la corrección secundaria es extremadamente difícil."
+          },
+          "guideline": "Markowitz BL et al. Plast Reconstr Surg (1991) — reparación primaria del TCM en la RAFI inicial: mejor prevención del telecanto traumático; la reparación secundaria logra corrección parcial en el mejor caso",
+          "trial": "Gruss JS et al. Secondary corrections of post-traumatic craniofacial deformities. Plast Reconstr Surg (1990): la reparación primaria logra distancia intercantal normal en el 85%; la reparación secundaria logra solo corrección del 45-60%",
+          "pearl": "PREVENIR el telecanto = REPARACIÓN PRIMARIA de NOE con reinserción del TCM. La reparación secundaria = significativamente menos exitosa. Medir la distancia intercantal en TODO traumatismo del macizo facial. Si el TCM está interrumpido (test del arco positivo) → planificar cantopexia transnasal en la RAFI primaria."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q19",
+        "stem": "¿Qué material se utiliza con mayor frecuencia para reconstruir el suelo orbitario tras la reparación de una fractura de estallido?",
+        "options": {
+          "A": "Injerto óseo autólogo de calota",
+          "B": "Malla de titanio",
+          "C": "Reparación con sutura absorbible",
+          "D": "Injerto de dermis-grasa"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La malla de titanio es el material de reconstrucción del suelo orbitario más ampliamente utilizado en la práctica actual. Sus ventajas incluyen: facilidad de contorneado a la forma del suelo orbitario, alta relación resistencia-peso, estabilidad dimensional a largo plazo (no se reabsorbe), biocompatibilidad inerte, visibilidad radiológica que permite la valoración de la posición postoperatoria, y capacidad de soportar el contenido orbitario sin colapso. Están disponibles mallas de titanio preformadas que se adaptan a la anatomía orbitaria estándar, reduciendo el tiempo operatorio. Puede combinarse con láminas de polietileno poroso (Medpor) para un control adicional del volumen.",
+          "wrong": {
+            "A": "Los injertos óseos de calota se utilizan para la reconstrucción orbitaria significativa (corrección tardía de la deformidad, restauración de volumen importante), pero raramente son la primera elección para la reparación primaria del estallido, debido a la morbilidad del sitio donante, el riesgo de reabsorción y las exigencias técnicas.",
+            "C": "Las suturas absorbibles no proporcionan soporte estructural al defecto del suelo orbitario — no pueden soportar el peso de la grasa y el músculo orbitario.",
+            "D": "Los injertos de dermis-grasa se usan para la augmentación del volumen orbitario (cavidad anoftálmica) — no para la reconstrucción estructural del suelo en la reparación del estallido."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — malla de titanio: material de reconstrucción primaria del suelo orbitario más ampliamente utilizado",
+          "trial": "Burnstine MA. Ophthalmology (2002): la reconstrucción del suelo orbitario con malla de titanio logra corrección del enoftalmos en el 89% de los casos; superior a las láminas reabsorbibles para grandes defectos",
+          "pearl": "Reconstrucción del suelo orbitario: la MALLA DE TITANIO es el estándar de referencia. Ventajas: rígida, estable, biocompatible, visible en radiografía/TC, fácil de contornear. Alternativas: polietileno poroso (Medpor), láminas reabsorbibles (defectos más pequeños). Hueso autólogo = reconstrucciones grandes tardías."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E3-Q20",
+        "stem": "La deformidad en 'cara de plato' tras el tratamiento inadecuado de una fractura Le Fort III está causada por qué mecanismo?",
+        "options": {
+          "A": "Desplazamiento anterior de todo el macizo facial por reducción excesiva",
+          "B": "Desplazamiento posterior e inferior de todo el macizo facial al consolidar en una posición de consolidación viciosa",
+          "C": "Expansión lateral de las paredes orbitarias por reabsorción del injerto óseo",
+          "D": "Reabsorción progresiva de los huesos nasales tras el traumatismo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La deformidad en 'cara de plato' (también denominada 'retrognathia del macizo facial') resulta de fracturas Le Fort III que consolidan en una posición posterior e inferior de consolidación viciosa. Todo el macizo facial — incluidas las órbitas, los cigomas, la nariz y el maxilar — queda retrasado respecto a la base craneal, creando un perfil facial aplanado y cóncavo (como si la cara hubiese sido 'hundida hacia adentro'). La parte inferior de la cara parece proyectarse hacia adelante en relación con el macizo facial retruso. La corrección requiere osteotomía Le Fort III secundaria con avance anterior e injertos óseos para rellenar los espacios.",
+          "wrong": {
+            "A": "El desplazamiento anterior del macizo facial por reducción excesiva produciría protrusión del macizo facial — la deformidad opuesta.",
+            "C": "La expansión lateral de las paredes orbitarias no produce una deformidad en cara de plato.",
+            "D": "La reabsorción aislada de los huesos nasales produciría una deformidad de nariz en silla de montar — no la apariencia de cara de plato de todo el macizo facial."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — consolidación viciosa de Le Fort III: deformidad en cara de plato por desplazamiento posterior/inferior del macizo facial; se requiere osteotomía secundaria para la corrección",
+          "trial": "Manson PN et al. Plast Reconstr Surg (1985): deformidad en cara de plato documentada en el 23% de las fracturas Le Fort III no tratadas con RAFI primaria; se requirió osteotomía Le Fort III secundaria para la corrección",
+          "pearl": "DEFORMIDAD EN CARA DE PLATO = consolidación viciosa de Le Fort III = todo el macizo facial retrasado HACIA ATRÁS y ABAJO = perfil facial cóncavo. Tratamiento: osteotomía Le Fort III secundaria + avance anterior + injertos óseos para rellenar el espacio posterior. Prevención: RAFI primaria de Le Fort III dentro de las 72 horas."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

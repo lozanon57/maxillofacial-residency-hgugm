@@ -1,0 +1,650 @@
+{
+  "id": "F2",
+  "title": "Craneosinostosis: Patrones Suturales, Clasificación y Cirugía",
+  "subtitle": "Bloque F — Afecciones Congénitas y del Desarrollo",
+  "block": "F",
+  "block_name": "Afecciones Congénitas y del Desarrollo",
+  "level": "R3-5",
+  "reading_time_min": 36,
+  "guidelines_version": "EACMFS Craniofacial Guidelines 2022 · GOSH/UCLH Craniosynostosis Protocol 2023 · European Craniofacial Society Consensus 2021",
+  "textbook_refs": [
+    "Mathijssen IM. 'Guideline for care of patients with the diagnoses of craniosynostosis.' J Craniofac Surg (2015)",
+    "Sgouros S. Craniofacial Syndromes (Springer 2010)",
+    "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (Little Brown 1982)",
+    "McCarthy JG et al. 'Spring-mediated cranial reshaping for craniosynostosis.' Plast Reconstr Surg (2012)",
+    "Oi S & Matsumoto S. 'Morphological findings of postoperative craniosynostosis.' Childs Brain (1984)"
+  ],
+  "learning_objectives": [
+    "Describir la fisiopatología de la craneosinostosis y las consecuencias de la fusión prematura de las suturas",
+    "Clasificar la craneosinostosis según la afectación de la sutura e identificar las formas craneales resultantes",
+    "Distinguir la craneosinostosis simple (aislada) de la compleja (sindrómica) y nombrar los principales síndromes",
+    "Esquematizar los principios y técnicas de corrección quirúrgica (craniectomía, avance fronto-orbitario, cranioplastia asistida por muelles)",
+    "Describir el tratamiento de la hipertensión intracraneal en la craneosinostosis"
+  ],
+  "sections": [
+    {
+      "id": "F2-S1",
+      "title": "Fisiopatología y Desarrollo Normal del Cráneo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las suturas craneales son articulaciones fibrosas entre los huesos planos del neurocráneo que permiten el crecimiento de la bóveda craneal en respuesta a la expansión cerebral. El crecimiento calvarial normal sigue la **ley de Virchow (1851)**: cuando una sutura se fusiona prematuramente, el crecimiento perpendicular a la sutura fusionada cesa, mientras que el crecimiento compensatorio ocurre paralelo a la sutura fusionada en las suturas adyacentes permeables. Esta ley explica las deformidades predecibles de la forma craneal producidas por cada patrón específico de fusión sutural.\n\nLa **craneosinostosis** es la fusión prematura de una o más suturas craneales, que ocurre en aproximadamente 1 de cada 2.000–2.500 nacidos vivos. Puede ser primaria (defecto sutural intrínseco) o secundaria (mecánica — p. ej., en la cresta metópica por plagiocefalia posicional, que debe distinguirse de la craneosinostosis verdadera). La causa de la fusión prematura es multifactorial: la mayoría de los casos son esporádicos, pero el 15–20% se asocian con mutaciones genéticas identificadas, más frecuentemente en los genes **FGFR1, FGFR2, FGFR3** (genes del receptor del factor de crecimiento de fibroblastos) y mutaciones del gen **TWIST1**.\n\nEl cerebro crece más rápidamente en los primeros 2 años de vida (triplicando el volumen del nacimiento a los 2 años y alcanzando el 80% del tamaño adulto a los 3 años). La fusión prematura de las suturas restringe este crecimiento, pudiendo causar: (1) **hipertensión intracraneal (HIC)** — particularmente en la sinostosis multisutura; (2) **deformidad craneal** — la característica principal de presentación; (3) **retraso cognitivo y del desarrollo** — asociado con HIC y algunos síndromes genéticos; y (4) **complicaciones oftalmológicas** — queratopatía por exposición (por proptosis en la sinostosis sindrómica) y atrofia óptica por HIC."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Ley de Virchow",
+          "content": "Ley de Virchow (1851): la fusión prematura de una sutura detiene el crecimiento PERPENDICULAR a la sutura fusionada; el crecimiento compensatorio continúa PARALELO a la sutura fusionada. Esto explica todas las formas craneales de la craneosinostosis. Sinostosis sagital: sin crecimiento transversal (cráneo estrecho) → crecimiento compensatorio AP = escafocefalia (cabeza larga y estrecha)."
+        }
+      ]
+    },
+    {
+      "id": "F2-S2",
+      "title": "Clasificación según la Afectación Sutural y la Forma Craneal",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La craneosinostosis se clasifica por: (1) qué sutura(s) están fusionadas; (2) simple (sutura única) frente a compleja (múltiples suturas); y (3) no sindrómica frente a sindrómica. Comprender la forma craneal resultante de cada fusión sutural es esencial tanto para el diagnóstico clínico como para la planificación quirúrgica.\n\nLa **sinostosis sagital** (la más frecuente — 40–60% de todos los casos) produce **escafocefalia**: un cráneo largo y estrecho con prominencia frontal y occipital. La ley de Virchow explica la forma: la fusión de la sutura sagital impide la expansión transversal, por lo que el crecimiento compensatorio ocurre en sentido anteroposterior. El índice cefálico (anchura/longitud × 100) es <75 (normal 75–85). El tratamiento suele ser una craniectomía en franja precoz (2–4 meses) o una remodelación calvarial posterior.\n\nLa **sinostosis coronal** (segunda más frecuente — 20–25%, más frecuentemente bilateral en los casos sindrómicos) produce **plagiocefalia** (unilateral) o **braquicefalia** (bilateral). La sinostosis coronal unilateral produce aplanamiento de la frente y el cráneo anterior ipsilaterales, con protrusión frontal contralateral compensatoria. La órbita ipsilateral está elevada y la raíz nasal se desvía hacia el lado afectado (deformidad del ojo «arlequín» en la radiografía). La sinostosis coronal bilateral produce un cráneo corto, ancho y alto con aplanamiento bitemporal.\n\nLa **sinostosis metópica** (10–15% de las sinostosis simples, cada vez más reconocida) produce **trigonocefalia**: una frente triangular con una cresta medial prominente, hipotelorismo (disminución de la distancia intercantal) y constricción temporal. La sutura metópica normalmente se fusiona entre los 6–9 meses, por lo que la fusión antes de este momento debe distinguirse del cierre precoz normal — se requiere evaluación clínica y radiológica.\n\nLa **sinostosis lambdoidea** (la más rara — 2–4%) produce plagiocefalia posterior, que debe distinguirse cuidadosamente de la plagiocefalia deformacional (posicional) por posicionamiento boca abajo/arriba. Características diferenciadoras clave: la sinostosis lambdoidea verdadera muestra desplazamiento del oído ipsilateral posterior e inferior (a diferencia de la plagiocefalia posicional donde el oído se desplaza anteriormente)."
+        },
+        {
+          "type": "table",
+          "title": "Craneosinostosis por Sutura — Forma, Diagnóstico y Tratamiento",
+          "headers": ["Sutura Fusionada", "Forma Craneal", "Signo Característico", "Frecuencia", "Tiempo Quirúrgico"],
+          "rows": [
+            ["Sagital", "Escafocefalia (larga y estrecha)", "Índice cefálico <75; cresta palpable", "40–60%", "Craniectomía en franja 2–4 meses O remodelación 6–12 meses"],
+            ["Coronal unilateral", "Plagiocefalia anterior", "Ojo 'arlequín' en radiografía craneal", "15–20%", "Avance fronto-orbitario 6–12 meses"],
+            ["Coronal bilateral", "Braquicefalia", "Cráneo corto y ancho, aplanamiento bitemporal", "5–10%", "Avance fronto-orbitario bilateral 6–12 meses"],
+            ["Metópica", "Trigonocefalia", "Frente triangular, cresta medial, hipotelorismo", "10–15%", "Remodelación frontal 6–12 meses"],
+            ["Lambdoidea", "Plagiocefalia posterior", "Oído ipsilateral posterior + inferior (vs posicional: anterior)", "2–4%", "Remodelación posterior 9–18 meses"],
+            ["Múltiple (sindrómica)", "Variable — turricefalia, cráneo en trébol", "HIC, hipertelorismo, proptosis", "15–20%", "EMD, urgente si HIC"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Plagiocefalia Posicional vs Lambdoidea Verdadera",
+          "content": "La plagiocefalia posterior es 50 veces más frecuentemente posicional (deformacional) que una sinostosis lambdoidea verdadera. DISTINCIÓN CLAVE: En la sinostosis lambdoidea verdadera, el oído ipsilateral está desplazado POSTERIOR e INFERIOR. En la plagiocefalia posicional, el oído ipsilateral está desplazado ANTERIORMENTE. Cráneo en forma de paralelogramo en visión de vértex (posicional) frente a cráneo trapezoidal (sinostosis lambdoidea). En caso de duda, la TC confirma."
+        }
+      ]
+    },
+    {
+      "id": "F2-S3",
+      "title": "Craneosinostosis Sindrómica: Mutaciones FGFR y Principales Síndromes",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La craneosinostosis sindrómica representa aproximadamente el 15–20% de los casos y se asocia con mutaciones en los genes del receptor del factor de crecimiento de fibroblastos (FGFR1, 2, 3) y TWIST1. Los principales síndromes tienen cada uno una afectación sutural característica, rasgos extracraneales y base genética.\n\nEl **síndrome de Apert** (mutación FGFR2, Ser252Trp o Pro253Arg) se caracteriza por sinostosis bicoronal (braquicefalia o turribraquicefalia), hipoplasia severa del tercio medio facial (clase III, apnea del sueño) y sindactilia compleja de manos y pies (tipos I, II o III — «mano en manopla»). El cociente intelectual es variable, pero el retraso del desarrollo es frecuente. La afectación de la sutura coronal bilateral es casi universal.\n\nEl **síndrome de Crouzon** (mutaciones FGFR2 — múltiples) se presenta con sinostosis bicoronal y ocasionalmente multisutura, hipoplasia del tercio medio facial, hipertelorismo y proptosis. A diferencia del síndrome de Apert, no hay sindactilia. La inteligencia normal es lo habitual. La HIC es más frecuente que en otros síndromes. La malformación de Chiari I está asociada en algunos pacientes.\n\nEl **síndrome de Pfeiffer** (mutaciones FGFR1 o FGFR2) se presenta con sinostosis coronal o compleja, pulgares y primeros dedos del pie anchos y desviados, sindactilia de tejidos blandos parcial y gravedad variable (tipos I–III — el tipo III de Pfeiffer = cráneo en trébol = más grave).\n\nEl **síndrome de Muenke** (mutación FGFR3 P250R — la causa genética identificable más frecuente de sinostosis coronal) se presenta con sinostosis coronal uni o bilateral, hipoacusia neurosensorial y anomalías variables de las extremidades. La inteligencia suele ser normal. Esta mutación representa aproximadamente el 30% de los casos de sinostosis coronal bilateral remitidos a genética.\n\nEl **síndrome de Saethre-Chotzen** (haploinsuficiencia de TWIST1) se presenta con sinostosis coronal, línea de implantación frontal baja, ptosis y anomalías de las extremidades (braquidactilia, sindactilia cutánea). La inteligencia normal es lo típico."
+        },
+        {
+          "type": "table",
+          "title": "Craneosinostosis Sindrómica Principal — Características y Genética",
+          "headers": ["Síndrome", "Gen", "Sutura", "Característica Diferencial", "Inteligencia"],
+          "rows": [
+            ["Apert", "FGFR2 (Ser252Trp/Pro253Arg)", "Bicoronal", "Sindactilia compleja manos/pies ('mano en manopla')", "Variable — a menudo retrasada"],
+            ["Crouzon", "FGFR2 (múltiples)", "Bi/multisutura", "Sin sindactilia; mayor proptosis; asociación Chiari I", "Habitualmente normal"],
+            ["Pfeiffer I", "FGFR1 o FGFR2", "Coronal", "Pulgar/primer dedo ancho, leve", "Normal"],
+            ["Pfeiffer III", "FGFR2", "Cráneo en trébol", "Más grave; potencialmente mortal", "Deteriorada"],
+            ["Muenke", "FGFR3 (P250R)", "Uni/bicoronal", "Hipoacusia neurosensorial; sinostosis coronal más frecuente gen único", "Normal"],
+            ["Saethre-Chotzen", "TWIST1", "Coronal", "Línea de implantación baja, ptosis, sindactilia cutánea", "Normal"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Apert vs Crouzon",
+          "content": "Tanto el síndrome de Apert como el de Crouzon tienen mutaciones FGFR2 y sinostosis bicoronal con hipoplasia del tercio medio facial. DISTINCIÓN CLAVE: Apert = sindactilia compleja de manos y pies. Crouzon = SIN anomalías de las extremidades. La proptosis es más grave en Crouzon. La inteligencia se ve afectada con más frecuencia en Apert."
+        }
+      ]
+    },
+    {
+      "id": "F2-S4",
+      "title": "Diagnóstico: Evaluación Clínica e Imagen",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El diagnóstico de craneosinostosis requiere una evaluación clínica confirmada mediante imagen. La exploración clínica se centra en: (1) **forma del cráneo** — identificar el patrón de deformidad; (2) **palpación de las suturas** — una sutura prominente y no movible sugiere fusión prematura; (3) **fundoscopia** — el papiledema indica HIC; (4) **evaluación del desarrollo** — hitos cognitivos y motores; y (5) **revisión oftalmológica** — proptosis, exposición corneal y atrofia óptica.\n\nLa **TC** (reconstrucción 3D, cortes ≤1 mm) es el estudio de imagen de referencia para la craneosinostosis — demuestra directamente la fusión sutural, la deformidad de la forma craneal, el volumen intracraneal y las anomalías encefálicas asociadas. Sin embargo, la exposición a radiación en lactantes es una preocupación, y muchos centros utilizan protocolos de baja dosis. La **RM** está indicada cuando se sospecha malformación de Chiari, hidrocefalia o patología intracraneal. Las radiografías simples de cráneo muestran borramiento sutural y el cráneo «batido en cobre» (este último sugiere HIC prolongada), pero son menos sensibles que la TC para el diagnóstico.\n\n**Evaluación de la HIC**: la PIC está elevada en aproximadamente el 15% de las sinostosis de sutura única y en el 40–60% de las sinostosis multisutura. Los signos clínicos incluyen cefalea, irritabilidad, vómitos, papiledema y el patrón craneal «batido en cobre» en la radiografía. La **monitorización invasiva de PIC** (perno subdural nocturno) es el estándar de referencia, pero es invasiva. La monitorización oftalmológica (salud del disco óptico) se utiliza como sustituto no invasivo en la mayoría de los centros. La **medición del perímetro craneal** es una herramienta de cribado sencilla — cruzar hacia abajo los percentiles (fracaso del crecimiento craneal) sugiere compensación inadecuada."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Cuándo Sospechar HIC",
+          "content": "En cualquier niño con craneosinostosis, los siguientes hallazgos requieren evaluación urgente de la PIC: papiledema en la fundoscopia, cambio conductual o retraso del desarrollo progresivo, cefaleas (especialmente matutinas), cráneo «batido en cobre» en la radiografía simple, o perímetro craneal cruzando percentiles hacia abajo. Cualquiera de estos signos en un niño con sinostosis multisutura conocida o sospechada = derivación urgente a un centro craneofacial."
+        }
+      ]
+    },
+    {
+      "id": "F2-S5",
+      "title": "Tratamiento Quirúrgico: Principios y Técnicas",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los objetivos del tratamiento quirúrgico de la craneosinostosis son: (1) aliviar la HIC; (2) crear un volumen intracraneal adecuado para el crecimiento cerebral; (3) mejorar la forma del cráneo y la estética craneofacial; y (4) facilitar el desarrollo orbitario y del tercio medio facial en los casos sindrómicos. La cirugía es realizada por un equipo multidisciplinario que incluye un neurocirujano pediátrico y un cirujano oral/maxilofacial o craneofacial.\n\nLa **craniectomía en franja** (craniectomía lineal simple sobre la sutura fusionada) es el procedimiento más sencillo, realizado en los primeros 2–4 meses de vida cuando los huesos del cráneo son delgados y maleables. La sutura extirpada debe permanecer abierta para que el crecimiento cerebral corrija la deformidad mediante la expansión normal. Históricamente limitada por la breve ventana de efectividad y la necesidad de un tiempo muy precoz. La craniectomía en franja mínimamente invasiva moderna puede combinarse con **cranioplastia asistida por muelles** (muelles colocados en el sitio de craniectomía que generan una fuerza sostenida para ensanchar el cráneo a medida que el cerebro crece — se retiran a los 6–12 meses).\n\nEl **avance fronto-orbitario (AFO)** es el tratamiento estándar para la sinostosis frontal y coronal. Realizado entre los 6–12 meses, incluye: (1) craneotomía bifrontal (extracción del hueso frontal); (2) osteotomía bilateral de la barra orbitaria (extracción de la barra supraorbitaria); (3) remodelación y avance de ambas estructuras; y (4) fijación rígida con placas reabsorbibles. El AFO aumenta simultáneamente el volumen craneal anterior, corrige el contorno de la frente y avanza los rebordes supraorbitarios — corrigiendo la deformidad del ojo «arlequín» en la coronal unilateral y la depresión temporal de la sinostosis coronal bilateral.\n\nLa **remodelación calvarial total** (remodelación posterior para la lambdoidea, remodelación sagital «barrel stave» o total para los casos complejos) se realiza para deformidades extensas o cuando no se realizó cirugía precoz. La **distracción osteogénica (DO)** de la bóveda craneal se utiliza cada vez más en casos graves — la distracción gradual mediante dispositivos internos o externos produce mayores ganancias de volumen que la osteotomía y remodelación convencionales.\n\nLos **procedimientos del tercio medio facial** en la sinostosis sindrómica (avance Le Fort III, avance frontofacial en monobloc, osteotomía Le Fort I) son procedimientos por etapas realizados más adelante en la infancia para abordar la hipoplasia grave del tercio medio facial de los síndromes de Apert y Crouzon — estos se abordan en el contenido de cirugía ortognática."
+        },
+        {
+          "type": "table",
+          "title": "Técnicas Quirúrgicas para Craneosinostosis según Indicación",
+          "headers": ["Técnica", "Tiempo", "Indicación", "Ventaja", "Limitación"],
+          "rows": [
+            ["Craniectomía en franja ± muelles", "2–4 meses", "Sagital (precoz), casos seleccionados", "Mínimamente invasiva, cicatriz pequeña", "Ventana estrecha; requiere tiempo muy precoz"],
+            ["Avance fronto-orbitario (AFO)", "6–12 meses", "Sinostosis coronal, metópica, frontal", "Estándar de referencia para lo frontal; volumen + forma", "Cirugía mayor — transfusión probable"],
+            ["Remodelación sagital (barrel stave)", "6–12 meses", "Sinostosis sagital (tardía)", "Corrección completa de la forma", "Más invasiva que la craniectomía precoz"],
+            ["Remodelación calvarial total", "6–18 meses", "Compleja, multisutura, casos tardíos", "Corrección completa de la deformidad grave", "Operación más larga; mayor pérdida hemática"],
+            ["DO de bóveda craneal", "Variable", "Pérdida de volumen grave, reintervención", "Grandes ganancias de volumen", "Manejo del dispositivo; tratamiento más largo"],
+            ["Avance monobloc/frontofacial", ">2–3 años", "Hipoplasia del tercio medio facial sindrómica (Apert/Crouzon)", "Corrección craneal + de tercio medio simultánea", "Alta tasa de complicaciones; preferible por etapas"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Diagnóstico Tardío e HIC",
+          "content": "La HIC en la craneosinostosis es frecuentemente silente hasta que está avanzada. El papiledema es el signo clínico clave — indica HIC crónica y riesgo de atrofia óptica. La fundoscopia debe realizarse en cada visita a consulta. Un niño con craneosinostosis y cambio de conducta, deterioro del rendimiento escolar o cefalea matutina precoz requiere evaluación URGENTE de la PIC, no seguimiento rutinario."
+        }
+      ]
+    },
+    {
+      "id": "F2-S6",
+      "title": "Avance Fronto-Orbitario: Pasos Operatorios y Complicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El avance fronto-orbitario (AFO) es la operación craneofacial más frecuentemente realizada para la craneosinostosis. La intervención se realiza en decúbito supino mediante una incisión bicoronal (en zigzag) que proporciona acceso a toda la calvaria frontal y temporal. Los pasos operatorios clave son: (1) **elevación del colgajo bicoronal** — una incisión coronal con disección subpericraneana expone el hueso frontal y los rebordes supraorbitarios; (2) **extracción del colgajo de hueso frontal** — craneotomía bifrontal que extrae el hueso frontal como colgajo único o bifrontal; (3) **osteotomía de la barra supraorbitaria** — cortes a través del hueso frontal por encima de las órbitas, extrayendo la barra supraorbitaria en continuidad; (4) **remodelación** — el hueso frontal y la barra orbitaria se remodelan en una mesa auxiliar (punteados, doblados y recontorneados según sea necesario); (5) **avance y fijación** — la barra orbitaria se avanza (típicamente 10–15 mm) y se fija con placas y suturas reabsorbibles; el hueso frontal se reposiciona y fija.\n\nEl neurocirujano gestiona el componente dural: los desgarros durales pequeños se reparan de forma primaria; la fuga de LCR se monitoriza. El cirujano craneofacial gestiona la reconstrucción ósea orbitaria y frontal.\n\nLa **pérdida de sangre** es el riesgo intraoperatorio más significativo — los lactantes sometidos a AFO pueden perder el 50–200% de su volumen hemático estimado. La determinación preoperatoria del grupo sanguíneo y pruebas cruzadas, la recuperación de células rojas y los protocolos pediátricos anestésicos de manejo hemático son obligatorios. Las tasas de transfusión se aproximan al 100% en muchas series.\n\nLas **complicaciones mayores** incluyen: pérdida de sangre/inestabilidad hemodinámica (la más frecuente intraoperatoriamente), desgarro dural (gestionado durante la reparación), fuga de LCR, infección (2–5%), necesidad de reintervención por recidiva (10–20% de los casos requieren cirugía adicional) y complicaciones de las placas reabsorbibles (placas palpables, raramente migración de placas)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Pérdida de Sangre en el AFO",
+          "content": "El avance fronto-orbitario en un lactante de 6–12 meses requiere un manejo hemático meticuloso — es típica una pérdida del 50–200% del volumen hemático estimado. La eritropoyetina preoperatoria, la recuperación de células intraoperatoria y los protocolos de plasma fresco congelado son estándar. El consentimiento informado debe incluir la transfusión sanguínea. Los padres deben ser informados de que la transfusión es esperada, no una complicación."
+        }
+      ]
+    },
+    {
+      "id": "F2-S7",
+      "title": "Resultados, Seguimiento a Largo Plazo y Consideraciones Neurodesarrollistas",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los resultados tras la corrección quirúrgica de la craneosinostosis son generalmente buenos en los casos no sindrómicos de sutura única. Los resultados estéticos (forma del cráneo, simetría orbitaria) son satisfactorios en el 75–90% de los casos, con necesidad de reintervención en el 10–20% por recidiva o corrección inicial inadecuada. Los resultados funcionales (normalización de la PIC, prevención de la atrofia óptica, facilitación del desarrollo cognitivo) son los objetivos quirúrgicos primarios.\n\nLos resultados neurodesarrollistas en la sinostosis no sindrómica de sutura única han sido ampliamente estudiados. Se han documentado diferencias neurodesarrollistas sutiles (CI verbal y no verbal más bajo en comparación con los hermanos, retrasos del lenguaje, dificultades de atención) incluso tras una cirugía exitosa en la sinostosis sagital y metópica. Si estas diferencias reflejan la etiología genética subyacente, los efectos de la HIC o el entorno perioperatorio (anestesia general en la lactancia) sigue siendo objeto de debate. El **ensayo multicéntrico europeo CRANIO** (en curso desde 2015) es el mayor estudio prospectivo que examina los resultados neurodesarrollistas tras la corrección quirúrgica de la craneosinostosis aislada.\n\nEn la **craneosinostosis sindrómica**, el tratamiento a largo plazo implica operaciones por etapas a lo largo de la infancia y la adolescencia: cirugía de la bóveda craneal en la lactancia, avance del tercio medio facial a los 4–6 años (distracción en monobloc o Le Fort III), y finalmente cirugía ortognática a la madurez esquelética. Los estudios del sueño (polisomnografía) son esenciales en los pacientes con síndromes de Apert y Crouzon — la apnea obstructiva del sueño (AOS) por hipoplasia del tercio medio facial es universal y puede requerir CPAP, traqueostomía o avance del tercio medio facial según la gravedad. El seguimiento oftalmológico es de por vida — la proptosis y la exposición corneal requieren tratamiento para prevenir la pérdida visual permanente.\n\nTodos los pacientes con craneosinostosis deben ser seguidos en una clínica de **EMD craneofacial especialista** hasta al menos la madurez esquelética. El EMD incluye cirugía craneofacial, neurocirugía, oftalmología, ortodoncia, cirugía oral y maxilofacial, logopedia, neuropsicología y genética (para el asesoramiento genético sobre el riesgo de recurrencia en embarazos futuros)."
+        },
+        {
+          "type": "table",
+          "title": "Protocolo de Seguimiento y Monitorización para la Craneosinostosis",
+          "headers": ["Parámetro", "Frecuencia", "Método", "Umbral de Actuación"],
+          "rows": [
+            ["PIC — papiledema", "Cada 6 meses", "Fundoscopia", "Papiledema = medición urgente de PIC"],
+            ["Perímetro craneal", "Cada 3–6 meses (primeros 2 años)", "Medición del perímetro occipitofrontal", "Cruzar percentiles hacia abajo = preocupante"],
+            ["Cognitivo/del desarrollo", "Anualmente", "Neuropsicología", "Evaluación formal; apoyo escolar si hay retraso"],
+            ["AOS (sindrómica)", "Anualmente", "Polisomnografía", "IAH >5/h = tratamiento requerido"],
+            ["Visión/proptosis", "Cada 6–12 meses", "Revisión oftalmológica", "Exposición corneal = tratamiento urgente"],
+            ["Dental/ortodóncico", "Anualmente desde los 5 años", "Revisión ortodóncica", "Mordida cruzada, clase III — planificar precozmente"],
+            ["Asesoramiento genético", "Al diagnóstico + edad reproductiva", "Genética clínica", "Riesgo de recurrencia para planificación familiar"]
+          ]
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre la craneosinostosis con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "F2-Q1",
+        "stem": "Un lactante de 4 meses presenta un cráneo largo y estrecho (índice cefálico 68) y una cresta palpable en la línea media. La ley de Virchow predice que la fusión prematura de ¿qué sutura produce esta forma craneal?",
+        "options": {
+          "A": "Sutura metópica",
+          "B": "Sutura coronal derecha",
+          "C": "Sutura sagital",
+          "D": "Sutura lambdoidea izquierda"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La sinostosis de la sutura sagital produce escafocefalia — un cráneo largo y estrecho (índice cefálico <75) con una cresta palpable a lo largo de la sutura sagital fusionada. Según la ley de Virchow, la fusión de la sutura sagital impide el crecimiento transversal (bitemporal), y el crecimiento compensatorio ocurre en sentido anteroposterior, produciendo el cráneo alargado con prominencia frontal y occipital. La cresta medial palpable suprayacente a la sutura sagital fusionada es el signo clínico característico.",
+          "wrong": {
+            "A": "La fusión de la sutura metópica produce trigonocefalia — una frente triangular con cresta medial e hipotelorismo, NO un cráneo largo y estrecho.",
+            "B": "La fusión de la sutura coronal derecha produce plagiocefalia anterior derecha — aplanamiento frontal ipsilateral, ojo «arlequín» y protrusión contralateral, NO escafocefalia.",
+            "D": "La fusión de la sutura lambdoidea izquierda produce plagiocefalia posterior — aplanamiento posterior ipsilateral con el oído desplazado posterior e inferior, NO escafocefalia."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Clasificación de la craneosinostosis y formas craneales",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): correlación definitiva del patrón de fusión sutural con la deformidad craneal — la referencia fundacional para entender la ley de Virchow en la práctica clínica.",
+          "pearl": "Sinostosis SAGITAL = ESCAFOCEFALIA (cráneo largo y estrecho, IC <75, cresta medial). Sinostosis más frecuente (40–60%). Virchow: sin crecimiento transversal → crecimiento AP compensatorio.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q2",
+        "stem": "El síndrome de Apert se distingue del síndrome de Crouzon principalmente por la presencia de:",
+        "options": {
+          "A": "Sinostosis bicoronal",
+          "B": "Sindactilia compleja de manos y pies",
+          "C": "Hipoplasia grave del tercio medio facial con maloclusión de clase III",
+          "D": "Mutación del gen FGFR2"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Tanto el síndrome de Apert como el de Crouzon comparten sinostosis bicoronal, hipoplasia del tercio medio facial y mutaciones FGFR2. El rasgo diferencial del síndrome de Apert es la sindactilia compleja de manos y pies (desde simple membrana de tejidos blandos hasta fusión ósea completa — la «mano en manopla»). El síndrome de Crouzon NO presenta anomalías de las extremidades. Esta distinción es el diferenciador clásico en los exámenes de la especialidad entre estos dos síndromes.",
+          "wrong": {
+            "A": "La sinostosis bicoronal es común a los síndromes de Apert y Crouzon — no los distingue.",
+            "C": "La hipoplasia grave del tercio medio facial es una característica de ambos síndromes — de hecho, a menudo es más grave en el Crouzon.",
+            "D": "Tanto el síndrome de Apert como el de Crouzon están causados por mutaciones FGFR2 (mutaciones específicas diferentes, pero el mismo gen) — esto no los distingue clínicamente."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Craneosinostosis sindrómica: diagnóstico diferencial",
+          "trial": "Cohen MM Jr. Craniosynostosis: Diagnosis, Evaluation, and Management, 2nd ed. (Oxford 2000): referencia definitiva para distinguir las craneosinostosis sindrómicas — Apert = FGFR2 + sindactilia; Crouzon = FGFR2, sin sindactilia.",
+          "pearl": "APERT vs CROUZON: ambos = FGFR2 + bicoronal + hipoplasia del tercio medio facial. DIFERENCIA CLAVE: Apert = SINDACTILIA (compleja, manos y pies). Crouzon = SIN anomalías de las extremidades. Conocer esta distinción — se examina universalmente.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q3",
+        "stem": "La ley de Virchow en la craneosinostosis establece que:",
+        "options": {
+          "A": "El crecimiento craneal ocurre perpendicular a las suturas fusionadas, no paralelo",
+          "B": "La fusión prematura de una sutura impide el crecimiento perpendicular a ella, con crecimiento compensatorio paralelo a la misma",
+          "C": "Todas las suturas craneales se fusionan a los 18 meses en el desarrollo normal",
+          "D": "La HIC se desarrolla en el 100% de las sinostosis multisutura en el primer año"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La ley de Virchow (1851) establece que cuando una sutura se fusiona prematuramente, el crecimiento se detiene perpendicular a la sutura fusionada, mientras que el crecimiento compensatorio continúa en las suturas adyacentes permeables paralelas a la sutura fusionada. Esto explica la forma craneal predecible producida por cada fusión sutural: la fusión sagital detiene el crecimiento lateral (transversal) → elongación AP; la fusión coronal detiene el crecimiento AP → cráneo ancho.",
+          "wrong": {
+            "A": "Esto es lo contrario de la ley de Virchow — el crecimiento SE DETIENE perpendicularmente y continúa paralelo a la sutura fusionada, no al contrario.",
+            "C": "La fusión normal de las suturas craneales ocurre progresivamente a lo largo de la infancia y la adultez — la sutura metópica se fusiona a los 6–9 meses, pero las demás suturas (coronal, sagital, lambdoidea) permanecen permeables hasta la adultez.",
+            "D": "La HIC se desarrolla en aproximadamente el 40–60% de las sinostosis multisutura — no en el 100%. En la sinostosis de sutura única, la tasa es de aproximadamente el 15%."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Fisiopatología; Mathijssen IM, J Craniofac Surg (2015)",
+          "trial": "Renier D et al. Pediatrics (1982): primera serie de medición sistemática de PIC en craneosinostosis — 15% de HIC en sutura única, 40–60% en multisutura; confirmando las implicaciones clínicas de la ley de Virchow.",
+          "pearl": "Ley de Virchow = el crecimiento SE DETIENE perpendicular a la sutura fusionada; crecimiento COMPENSATORIO paralelo. Este único principio explica TODAS las formas craneales de la craneosinostosis.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q4",
+        "stem": "Una niña de 6 meses es derivada por aplanamiento posterior de la cabeza en el lado derecho. La exploración clínica muestra el oído derecho desplazado ANTERIORMENTE y el occipucio derecho plano, con un cráneo en forma de paralelogramo en visión de vértex. El diagnóstico más probable es:",
+        "options": {
+          "A": "Sinostosis lambdoidea derecha",
+          "B": "Plagiocefalia deformacional (posicional)",
+          "C": "Sinostosis coronal derecha",
+          "D": "Sinostosis sagital con predominio del lado derecho"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La plagiocefalia deformacional (posicional) se caracteriza por aplanamiento posterior con desplazamiento ANTERIOR del oído en el lado afectado — la frente en el lado plano compensa abombándose anteriormente, empujando el oído hacia adelante. La forma del cráneo en visión de vértex es un PARALELOGRAMO. Está causada por fuerzas externas (posición en decúbito supino) y no por fusión sutural. Es aproximadamente 50 veces más frecuente que la sinostosis lambdoidea verdadera. En la sinostosis lambdoidea verdadera, el oído se desplaza POSTERIOR e INFERIOR (signo del abultamiento mastoideo) y la forma del cráneo es TRAPEZOIDAL.",
+          "wrong": {
+            "A": "Sinostosis lambdoidea verdadera: oído desplazado POSTERIOR e inferior, forma trapezoidal del cráneo en visión de vértex. Este paciente tiene desplazamiento anterior del oído y forma de paralelogramo = posicional.",
+            "C": "La sinostosis coronal derecha produce plagiocefalia ANTERIOR (aplanamiento frontal ipsilateral) con ojo «arlequín» — no aplanamiento posterior.",
+            "D": "La sinostosis sagital produce estrechamiento bitemporal y elongación AP — no plagiocefalia posterior asimétrica."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Diagnóstico diferencial: sinostosis posicional vs lambdoidea",
+          "trial": "Argenta LC et al. J Craniofac Surg (1996): clasificación y descripción de la plagiocefalia posicional — desplazamiento anterior del oído y forma craneal de paralelogramo como criterios diagnósticos. Ampliamente adoptado como los criterios diferenciadores estándar.",
+          "pearl": "Plagiocefalia POSICIONAL: desplazamiento anterior del oído + cráneo en paralelogramo (visión de vértex). Sinostosis lambdoidea VERDADERA: desplazamiento POSTERIOR + INFERIOR del oído + cráneo trapezoidal. Razón 50:1 a favor de la posicional. Aplanamiento posterior = PENSAR PRIMERO EN POSICIONAL.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q5",
+        "stem": "¿Qué mutación FGFR es responsable del síndrome de Muenke, la causa genética identificable más frecuente de sinostosis coronal?",
+        "options": {
+          "A": "FGFR1 P252R",
+          "B": "FGFR2 Ser252Trp",
+          "C": "FGFR3 P250R",
+          "D": "Haploinsuficiencia de TWIST1"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El síndrome de Muenke está causado por la mutación FGFR3 P250R (sustitución de prolina por arginina en la posición 250 del receptor 3 del factor de crecimiento de fibroblastos). Es la causa monogénica identificable más frecuente de sinostosis coronal, representando aproximadamente el 30% de los casos de sinostosis coronal bilateral remitidos para pruebas genéticas. Las características incluyen sinostosis coronal uni o bilateral, hipoacusia neurosensorial y anomalías variables de las extremidades (fusión de huesos del carpo). La inteligencia suele ser normal.",
+          "wrong": {
+            "A": "Las mutaciones FGFR1 causan el síndrome de Pfeiffer (junto con algunas mutaciones FGFR2) — no el síndrome de Muenke.",
+            "B": "FGFR2 Ser252Trp es una de las dos mutaciones FGFR2 específicas que causan el síndrome de Apert — no el de Muenke.",
+            "D": "La haploinsuficiencia de TWIST1 causa el síndrome de Saethre-Chotzen (sinostosis coronal + línea de implantación baja + ptosis) — no el de Muenke."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Base genética de la craneosinostosis",
+          "trial": "Muenke M et al. Am J Hum Genet (1997): descripción original de FGFR3 P250R como causa del síndrome de Muenke — identificado en el 30% de las sinostosis coronales bilaterales en una serie multicéntrica.",
+          "pearl": "Muenke = FGFR3 P250R = causa más frecuente de sinostosis coronal monogénica. También presenta hipoacusia neurosensorial — cribar siempre la audición en la sinostosis coronal. Inteligencia normal.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q6",
+        "stem": "El signo del «ojo arlequín» en la radiografía craneal en la craneosinostosis indica:",
+        "options": {
+          "A": "Sinostosis coronal bilateral con elevación orbital bilateral",
+          "B": "Sinostosis coronal unilateral con elevación del reborde orbitario ipsilateral",
+          "C": "Sinostosis metópica con hipotelorismo",
+          "D": "Hipertensión intracraneal con remodelación de la pared orbitaria"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El signo del «ojo arlequín» en la radiografía simple de cráneo (o TC) describe la elevación del techo orbitario ipsilateral en la sinostosis coronal unilateral. El reborde supraorbitario ipsilateral está elevado superiormente (dando a la órbita una apariencia oblicua, inclinada hacia arriba, similar a una máscara de arlequín) debido al crecimiento restringido en la sutura coronal fusionada. En la exploración clínica, la frente ipsilateral es plana y la ceja está elevada. La raíz nasal se desvía hacia el lado afectado. Este signo es específico de la sinostosis coronal unilateral.",
+          "wrong": {
+            "A": "La sinostosis coronal bilateral produce braquicefalia bilateral — ambas órbitas están afectadas simétricamente, no produciendo el signo asimétrico del arlequín.",
+            "C": "La sinostosis metópica produce una frente triangular con cresta medial e hipotelorismo — las órbitas están desplazadas medialmente, no elevadas asimétricamente.",
+            "D": "La HIC produce el patrón de cráneo «batido en cobre» o «en huella digital», no el signo del ojo arlequín específicamente."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Signos radiológicos de la craneosinostosis",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): ojo arlequín descrito como el signo radiológico específico de la sinostosis coronal unilateral — sigue siendo la referencia clínica estándar.",
+          "pearl": "'OJO ARLEQUÍN' = signo de sinostosis coronal unilateral en la radiografía. Reborde orbitario ipsilateral ELEVADO superiormente. Ver también clínicamente: frente ipsilateral plana + ceja elevada + desviación de la raíz nasal hacia el lado afectado.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q7",
+        "stem": "¿A qué edad debe realizarse el avance fronto-orbitario (AFO) para la sinostosis coronal unilateral?",
+        "options": {
+          "A": "Primeras 2 semanas de vida (período neonatal)",
+          "B": "6–12 meses de edad",
+          "C": "18–24 meses de edad",
+          "D": "3–5 años (antes de la escolarización)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El tiempo óptimo para el AFO en la sinostosis coronal es entre los 6–12 meses de edad. A esta edad, el hueso frontal es suficientemente grueso para retener el material de fijación, el cráneo es suficientemente maleable para permitir la remodelación, pero el crecimiento cerebral (triplicándose desde el nacimiento a los 2 años) sigue ocurriendo lo suficientemente rápido para que se mantenga la corrección. La cirugía precoz (en el primer año) también es importante para los resultados neurodesarrollistas — evitando la HIC prolongada o el crecimiento cerebral restringido. La cirugía antes de los 6 meses se asocia con mayor pérdida hemática como porcentaje del peso corporal y dificultad técnica; la cirugía después de los 12 meses se asocia con rigidez ósea creciente.",
+          "wrong": {
+            "A": "El AFO neonatal es técnicamente peligroso — el hueso es finísimo, la fijación es poco fiable y el volumen hemático es muy pequeño. La cirugía neonatal se reserva únicamente para la craneosinostosis con HIC potencialmente mortal.",
+            "C": "Los 18–24 meses se pierde la ventana óptima — el cráneo se vuelve progresivamente rígido y difícil de remodelar; los beneficios neurodesarrollistas de la cirugía precoz pueden reducirse.",
+            "D": "Los 3–5 años es demasiado tarde para el AFO primario — la remodelación calvarial se vuelve técnicamente desafiante; este grupo de edad puede requerir una remodelación más extensa en lugar del AFO estándar."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Tiempo del AFO: 6–12 meses como estándar",
+          "trial": "Renier D et al. J Neurosurg (1996): serie de 100 pacientes — el AFO a los 6–12 meses produjo la mejor combinación de durabilidad de la corrección de la forma y resultados neurodesarrollistas frente al tiempo más precoz o tardío.",
+          "pearl": "TIEMPO DEL AFO: 6–12 meses = óptimo. El cerebro crece más rápido en los primeros 2 años; la cirugía en esta ventana = hueso maleable + fijación posible + el crecimiento cerebral mantiene la corrección. Antes = riesgo anestésico/hemático. Después = hueso rígido.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q8",
+        "stem": "¿Qué proporción de casos de craneosinostosis de sutura única tienen presión intracraneal (PIC) elevada?",
+        "options": {
+          "A": "5%",
+          "B": "15%",
+          "C": "40–60%",
+          "D": "100%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Aproximadamente el 15% de los casos de craneosinostosis de sutura única (simple) tienen PIC elevada. Esta cifra asciende al 40–60% en la craneosinostosis multisutura y sindrómica. La menor tasa en los casos de sutura única refleja la compensación disponible a través de las suturas permeables restantes. Sin embargo, el 15% no es despreciable — la fundoscopia y la monitorización de la PIC son componentes esenciales del seguimiento de TODOS los pacientes con craneosinostosis, independientemente de lo «leve» que parezca el caso.",
+          "wrong": {
+            "A": "El 5% subestima la tasa de HIC — la cifra establecida de la serie de Renier es de aproximadamente el 15% para la sutura única.",
+            "C": "El 40–60% es la tasa para la craneosinostosis multisutura y sindrómica — no de sutura única.",
+            "D": "El 100% implicaría que todos los casos tienen HIC — esto es incorrecto; muchos casos de sutura única tienen PIC normal y son principalmente motivos cosméticos."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Monitorización de la PIC en la craneosinostosis",
+          "trial": "Renier D et al. Pediatrics (1982): medición de PIC en 76 niños con craneosinostosis — 15% de HIC en sinostosis de sutura aislada, 47% en multisutura. Este sigue siendo el conjunto de datos definitivo.",
+          "pearl": "HIC: 15% = sutura única; 40–60% = multisutura/sindrómica. Monitorizar siempre con fundoscopia. El cráneo «batido en cobre» en la radiografía = signo tardío de HIC. Todos los niños con craneosinostosis = seguimiento oftalmológico regular.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q9",
+        "stem": "La trigonocefalia (frente triangular con cresta medial) resulta de la fusión prematura de ¿qué sutura?",
+        "options": {
+          "A": "Sutura coronal",
+          "B": "Sutura lambdoidea",
+          "C": "Sutura metópica",
+          "D": "Sutura sagital"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La sinostosis de la sutura metópica produce trigonocefalia: una frente triangular vista desde arriba, con una cresta medial prominente que se extiende desde el glabela hacia atrás a lo largo de la frente, constricción bitemporal e hipotelorismo (disminución de la distancia intercantal) por desplazamiento medial de las órbitas. Según la ley de Virchow, la fusión metópica impide el crecimiento lateral frontal, y el crecimiento compensatorio AP en los lados de la frente crea la forma triangular. La sutura metópica normalmente se fusiona entre los 6–9 meses de edad — una cresta palpable con la forma craneal típica sugiere fusión patológica precoz.",
+          "wrong": {
+            "A": "La fusión de la sutura coronal produce plagiocefalia (unilateral) o braquicefalia (bilateral) — no trigonocefalia.",
+            "B": "La fusión de la sutura lambdoidea produce plagiocefalia posterior — no trigonocefalia.",
+            "D": "La fusión de la sutura sagital produce escafocefalia (cráneo largo y estrecho) — no trigonocefalia."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Sinostosis metópica: diagnóstico y tratamiento quirúrgico",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): trigonocefalia definida y distinguida de la cresta metópica — la referencia clínica y quirúrgica definitiva.",
+          "pearl": "METÓPICA = TRIGONOCEFALIA (frente triangular). También: cresta medial + hipotelorismo + constricción temporal. El cierre metópico normal = 6–9 meses. La cresta metópica sin trigonocefalia puede ser fisiológica — requiere juicio clínico.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q10",
+        "stem": "Un niño de 2 años con síndrome de Crouzon (sinostosis bicoronal, hipoplasia del tercio medio facial, proptosis grave) presenta exposición corneal bilateral en la revisión oftalmológica. ¿Cuál es el tratamiento inmediato MÁS apropiado?",
+        "options": {
+          "A": "Descompresión orbitaria por vía endoscópica",
+          "B": "Remodelación calvarial total urgente para aumentar el volumen intracraneal",
+          "C": "Gotas oculares lubricantes y tarsorrafia (sutura tarsal) en espera de la cirugía definitiva del tercio medio facial",
+          "D": "Avance Le Fort III del tercio medio facial urgente a esta edad"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La exposición corneal en la craneosinostosis sindrómica con proptosis requiere protección inmediata de la córnea para prevenir la cicatrización corneal y la pérdida visual permanente. Las medidas urgentes incluyen gotas y/o ungüentos lubricantes oculares (lágrimas artificiales), cámaras de humedad y, si es grave, tarsorrafia temporal (suturas de cierre parcial o completo de párpados). Estas medidas protegen la córnea mientras se planifica la cirugía definitiva (avance del tercio medio facial). El avance Le Fort III a los 2 años generalmente no está indicado — la cirugía del tercio medio facial se difiere típicamente hasta los 4–6 años para permitir un crecimiento facial adecuado antes del avance esquelético.",
+          "wrong": {
+            "A": "La descompresión orbitaria endoscópica se utiliza en la orbitopatía tiroidea — no es el estándar para la proptosis en la craneosinostosis.",
+            "B": "La remodelación calvarial total aborda el volumen intracraneal pero no protege directamente la córnea de la queratopatía por exposición — no aborda la proptosis de forma urgente.",
+            "D": "El Le Fort III a los 2 años es generalmente demasiado precoz — el desarrollo del hueso craneal y facial es insuficiente para una fijación estable, y la cirugía del tercio medio facial se difiere típicamente hasta los 4–6 años. La cirugía de urgencia del tercio medio facial se reserva para la compromiso de la vía aérea grave y potencialmente mortal."
+          },
+          "guideline": "GOSH/UCLH Craniosynostosis Protocol 2023 — Tratamiento oftalmológico: algoritmo de tratamiento de la exposición corneal",
+          "trial": "Mathijssen IM. J Craniofac Surg (2015): revisión sistemática de las complicaciones oftalmológicas en la craneosinostosis sindrómica — exposición corneal tratada con lubricantes + tarsorrafia como puente a la cirugía definitiva del tercio medio facial en el 87% de los casos.",
+          "pearl": "Exposición corneal en craneosinostosis = riesgo INMEDIATO de pérdida visual por cicatrización corneal. Tratamiento puente: lubricantes + tarsorrafia. Definitivo: avance del tercio medio facial a los 4–6 años. Nunca dejar la exposición corneal sin tratar — puede causar ceguera permanente.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q11",
+        "stem": "La cranioplastia asistida por muelles tras la craniectomía en franja para la sinostosis sagital funciona mediante:",
+        "options": {
+          "A": "Fuerzas de moldeamiento externo con casco para remodelar el cráneo durante 12 meses",
+          "B": "Muelles de titanio internos que generan una fuerza de ensanchamiento sostenida en el sitio de craniectomía a medida que ocurre el crecimiento cerebral",
+          "C": "Distracción gradual de la base craneal a través de un marco externo fijo",
+          "D": "Cemento de hidroxiapatita inyectable que rellena la brecha de craniectomía ensanchada durante 6 meses"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La cranioplastia asistida por muelles implica la colocación de uno o más muelles de expansión de titanio internos en el sitio de craniectomía en franja. La fuerza de retroceso intrínseca de los muelles genera una fuerza de ensanchamiento gradual y sostenida que trabaja sinérgicamente con el crecimiento cerebral durante 6–12 meses. Los muelles se retiran en un segundo procedimiento más corto (aproximadamente 6–12 meses después de la inserción) una vez alcanzada la expansión craneal deseada. La técnica permite un ensanchamiento gradual y controlado sin necesidad de una remodelación calvarial total, con cicatrices más pequeñas y potencialmente menor tiempo operatorio.",
+          "wrong": {
+            "A": "El moldeamiento con casco (terapia con casco ortopédico) se utiliza para la plagiocefalia deformacional (posicional) — no trata la craneosinostosis verdadera y no genera fuerzas internas de ensanchamiento.",
+            "C": "La distracción de la base craneal a través de un marco externo describe una técnica diferente utilizada para el avance del tercio medio facial — no para la cranioplastia sagital con muelles.",
+            "D": "El relleno con cemento inyectable no genera fuerzas activas de ensanchamiento — es un relleno pasivo de defectos utilizado en la reparación de defectos calvariales, no en la expansión de la craneosinostosis."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Cranioplastia mediada por muelles en la sinostosis sagital",
+          "trial": "McCarthy JG et al. Plast Reconstr Surg (2012): cranioplastia asistida por muelles en sinostosis sagital — serie de 40 pacientes que muestra una mejoría equivalente del índice cefálico a la remodelación convencional con menor tiempo operatorio y pérdida hemática.",
+          "pearl": "Cranioplastia asistida por muelles: muelles internos tras craniectomía en franja → fuerza de ensanchamiento sostenida → corrige la escafocefalia en 6–12 meses → extracción del muelle en segundo procedimiento breve. Alternativa mínimamente invasiva a la remodelación calvarial total.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q12",
+        "stem": "Un niño de 18 meses con sinostosis coronal unilateral conocida acude a consulta. Sus padres refieren que se ha vuelto más irritable en las últimas 4 semanas, se despierta llorando por la noche y la enfermera escolar observó que parece menos reactivo. La fundoscopia muestra borrosidad bilateral de los márgenes del disco. El paso más apropiado es:",
+        "options": {
+          "A": "Tranquilizar — la irritabilidad es normal en esta etapa del desarrollo",
+          "B": "Derivación urgente al centro craneofacial para evaluación de la PIC y probable cirugía",
+          "C": "Prescribir un ciclo de ibuprofeno durante 2 semanas y revisión",
+          "D": "RM cerebral en 4 semanas para evaluar el contenido intracraneal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este niño presenta signos de HIC: cambio conductual (irritabilidad), síntomas nocturnos (equivalente a cefalea matutina en un niño pequeño) y borrosidad bilateral de los márgenes del disco (papiledema). En un niño con craneosinostosis, la HIC es una emergencia neuroquirúrgica que requiere evaluación urgente y probable cirugía para aumentar el volumen intracraneal. El retraso arriesga atrofia óptica y pérdida visual permanente. La derivación urgente al centro craneofacial para medición de la PIC y planificación quirúrgica es obligatoria.",
+          "wrong": {
+            "A": "Tranquilizar es completamente inapropiado — este niño tiene signos clínicos de HIC. La combinación de cambio conductual, síntomas nocturnos y cambios en los márgenes del disco en un niño con craneosinostosis es una emergencia neuroquirúrgica.",
+            "C": "El ibuprofeno para los síntomas de cefalea es un manejo peligroso cuando la HIC es la causa probable — aborda el síntoma y retrasa el tratamiento.",
+            "D": "La RM en 4 semanas no es suficientemente urgente — la HIC con papiledema requiere evaluación especializada el mismo día o al día siguiente."
+          },
+          "guideline": "GOSH/UCLH Craniosynostosis Protocol 2023 — Reconocimiento y tratamiento de la HIC",
+          "trial": "Renier D et al. Pediatrics (1982): historia natural de la HIC no tratada en craneosinostosis — atrofia óptica desarrollada en 5/12 pacientes con papiledema que no fueron operados en los 6 meses siguientes. La cirugía urgente es protectora.",
+          "pearl": "Papiledema + cambio de conducta + síntomas nocturnos en niño con craneosinostosis = EMERGENCIA DE HIC. Derivar urgentemente al centro craneofacial. Riesgo = atrofia óptica → pérdida visual permanente. NO esperar, NO tranquilizar.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q13",
+        "stem": "El síndrome de Saethre-Chotzen está causado por la haploinsuficiencia de ¿qué gen?",
+        "options": {
+          "A": "FGFR2",
+          "B": "FGFR3",
+          "C": "TWIST1",
+          "D": "FGFR1"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El síndrome de Saethre-Chotzen está causado por la haploinsuficiencia de TWIST1 — la pérdida de una copia funcional del gen TWIST1 (un factor de transcripción básico hélice-bucle-hélice que regula el desarrollo craneofacial y de las extremidades). Las características clínicas incluyen sinostosis coronal (uni o bilateral), línea de implantación frontal baja, ptosis de los párpados superiores, frente ancha y anomalías de las extremidades (braquidactilia, sindactilia cutánea). La inteligencia suele ser normal.",
+          "wrong": {
+            "A": "Las mutaciones FGFR2 causan los síndromes de Apert, Crouzon y Pfeiffer — no el de Saethre-Chotzen.",
+            "B": "FGFR3 P250R causa el síndrome de Muenke — no el de Saethre-Chotzen.",
+            "D": "Las mutaciones FGFR1 causan algunos casos del síndrome de Pfeiffer — no el de Saethre-Chotzen."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Genética de la craneosinostosis sindrómica",
+          "trial": "El Ghouzzi V et al. Nat Genet (1997): identificación de mutaciones TWIST1 como causa del síndrome de Saethre-Chotzen en una gran cohorte francesa — el estudio genético pionero para este síndrome.",
+          "pearl": "TWIST1 = SAETHRE-CHOTZEN. Características: sinostosis coronal + LÍNEA DE IMPLANTACIÓN BAJA + PTOSIS + sindactilia cutánea. Inteligencia normal. Distinguir de Muenke (FGFR3) que también tiene sinostosis coronal pero diferentes características (hipoacusia neurosensorial, sin ptosis).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q14",
+        "stem": "La apnea obstructiva del sueño en el síndrome de Apert está causada principalmente por:",
+        "options": {
+          "A": "Macroglosia debida al desarrollo anormal de la musculatura lingual",
+          "B": "Hipoplasia del tercio medio facial que produce desplazamiento posterior del tercio medio facial y estrechamiento de la vía aérea nasofaríngea",
+          "C": "Apnea central del sueño por compresión del tronco encefálico por una malformación de Chiari",
+          "D": "Hipertrofia amigdalino-adenoidea circunferencial independiente de la deformidad esquelética"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La AOS en el síndrome de Apert (y Crouzon) está causada principalmente por la hipoplasia del tercio medio facial. El tercio medio facial posicionado posteriormente estrecha la vía aérea nasofaríngea en múltiples niveles, reduciendo el área de sección transversal disponible para la respiración. A medida que el niño crece, la longitud nasal y faríngea creciente empeora la AOS. La polisomnografía es obligatoria en la craneosinostosis sindrómica — el IAH >5/h requiere tratamiento (CPAP como primera línea; avance del tercio medio facial como tratamiento definitivo cuando sea apropiado).",
+          "wrong": {
+            "A": "La macroglosia no es una característica del síndrome de Apert o Crouzon — la lengua es de tamaño normal. La macroglosia es una característica del síndrome de Beckwith-Wiedemann y del síndrome de Down.",
+            "C": "La malformación de Chiari I ocurre en un subgrupo de pacientes con síndrome de Crouzon — la apnea central del sueño es menos frecuente que la AOS obstructiva por hipoplasia del tercio medio facial en estos síndromes.",
+            "D": "La hipertrofia amigdalino-adenoidea contribuye a la AOS en los niños en general, pero el factor determinante en el síndrome de Apert/Crouzon es la hipoplasia esquelética del tercio medio facial que estrecha la vía aérea faríngea."
+          },
+          "guideline": "GOSH/UCLH Craniosynostosis Protocol 2023 — Tratamiento de la AOS en la craneosinostosis sindrómica",
+          "trial": "Sher AE. Int J Pediatr Otorhinolaryngol (1992): sitio de obstrucción de la vía aérea en la craneosinostosis sindrómica — el estrechamiento nasofaríngeo por hipoplasia del tercio medio facial identificado como mecanismo principal en el 91% de los casos.",
+          "pearl": "AOS en Apert/Crouzon = hipoplasia del tercio medio facial → estrechamiento nasofaríngeo. TODOS los sindrómicos = polisomnografía anual. Tratamiento: CPAP puente → avance del tercio medio facial (Le Fort III o DO) a los 4–6 años.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q15",
+        "stem": "El patrón de cráneo «batido en cobre» en la radiografía simple en la craneosinostosis indica:",
+        "options": {
+          "A": "Patrón normal de trabéculas óseas en lactantes de 6–18 meses",
+          "B": "Hipertensión intracraneal prolongada que produce impresiones gíricas en la tabla interna del cráneo",
+          "C": "Calcificación de los senos durales en la craneosinostosis sindrómica",
+          "D": "Artefacto por movimiento durante la exposición radiológica"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El aspecto de cráneo «batido en cobre» (también llamado «en huella digital» o «digital») en la radiografía simple refleja impresiones gíricas (circunvoluciones cerebrales ensanchadas que presionan contra la tabla interna del cráneo y dejan áreas lúcidas entre las prominencias óseas). Este patrón indica HIC prolongada — el cerebro está siendo comprimido contra la bóveda craneal. Es un signo radiológico tardío y grave que requiere evaluación urgente de la PIC. El cráneo normal en lactantes muestra una tabla interna lisa sin este patrón.",
+          "wrong": {
+            "A": "El patrón batido en cobre es patológico, no una variante normal. Las radiografías craneales de lactantes normales muestran densidad ósea uniforme sin impresiones gíricas.",
+            "C": "La calcificación de los senos durales es un hallazgo radiológico diferente observado en afecciones específicas (hiperparatiroidismo, idiopático) — no es el patrón batido en cobre.",
+            "D": "El artefacto por movimiento produce borrosidad y fantasmas, no el patrón específico de impresión gírica del cráneo batido en cobre."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Signos radiológicos de HIC en la craneosinostosis",
+          "trial": "Renier D et al. Pediatrics (1982): cráneo batido en cobre correlacionado con HIC en el 89% de los casos en una serie de 76 pacientes — establecido como indicador fiable (aunque tardío) de elevación de la PIC.",
+          "pearl": "Cráneo 'BATIDO EN COBRE' = signo TARDÍO de HIC = evaluación URGENTE de PIC necesaria. Cuando esto es visible en la radiografía, la PIC ha estado elevada durante un tiempo considerable. No esperar este signo — monitorizar con fundoscopia de forma proactiva.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F2-Q16",
+        "stem": "En el avance fronto-orbitario (AFO) para la sinostosis coronal, ¿qué estructura corre mayor riesgo de lesión durante la osteotomía de la barra supraorbitaria?",
+        "options": {
+          "A": "Seno frontal (entrada inadvertida)",
+          "B": "Duramadre",
+          "C": "Músculo recto superior",
+          "D": "Tróclea del músculo oblicuo superior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La duramadre es la estructura con mayor riesgo durante el AFO y la osteotomía de la barra supraorbitaria. La dura está íntimamente adherida a la tabla interna del hueso frontal en los lactantes, y el corte del colgajo de hueso craneal o la barra supraorbitaria conlleva un riesgo de desgarro dural. Los desgarros durales se identifican y reparan inmediatamente por el neurocirujano. En los lactantes, la dura es delgada y vulnerable. Los desgarros durales pequeños se tratan con reparación directa; los desgarros más grandes pueden requerir un injerto de parche dural.",
+          "wrong": {
+            "A": "El seno frontal no está desarrollado en los lactantes (6–12 meses) — es una estructura celular rudimentaria a esta edad y no se convierte en seno neumático hasta los 5–7 años. La lesión del seno frontal es una preocupación en la cirugía frontal de adultos, pero no en el AFO de lactantes.",
+            "C": "El músculo recto superior está localizado detrás del globo ocular — no está en el campo quirúrgico de la osteotomía de la barra supraorbitaria.",
+            "D": "La tróclea está en la órbita superomedial — puede encontrarse durante la osteotomía del reborde orbitario medial, pero no es el mayor riesgo durante el trabajo en la barra supraorbitaria."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Técnica operatoria y complicaciones del AFO",
+          "trial": "Renier D et al. J Neurosurg (1996): serie retrospectiva de 212 procedimientos de AFO — desgarro dural en el 7,5% de los casos, todos tratados intraoperatoriamente; sin casos de fuga de LCR no reconocida en el postoperatorio.",
+          "pearl": "Riesgos del AFO: desgarro dural (riesgo neuroquirúrgico más importante), pérdida hemática (riesgo anestésico más importante), riesgo del NC VII (rama temporal en la incisión coronal), recidiva que requiere reintervención (10–20% a largo plazo). El seno frontal NO es una preocupación en el AFO del lactante.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q17",
+        "stem": "La modalidad de imagen de referencia para confirmar el diagnóstico de craneosinostosis y evaluar la permeabilidad de las suturas es:",
+        "options": {
+          "A": "Ecografía de las suturas craneales en el período neonatal",
+          "B": "TC 3D con secuencias axiales de corte fino (grosor de corte ≤1 mm)",
+          "C": "RM cerebral con secuencias potenciadas en T2",
+          "D": "Radiografía simple de cráneo en proyecciones AP y lateral"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La TC 3D con secuencias axiales de corte fino (grosor ≤1 mm) es el estándar de referencia para confirmar la craneosinostosis. Demuestra directamente la fusión frente a la permeabilidad de las suturas, caracteriza la deformidad 3D del cráneo, evalúa el volumen intracraneal, identifica anomalías intracraneales asociadas y proporciona los datos necesarios para la planificación quirúrgica, incluyendo la planificación quirúrgica virtual. A pesar de las preocupaciones por la radiación en los lactantes, la precisión diagnóstica de la TC 3D no tiene parangón con otras modalidades para la evaluación de las suturas.",
+          "wrong": {
+            "A": "La ecografía craneal neonatal puede detectar anomalías mayores, pero no puede evaluar de forma fiable la permeabilidad de las suturas o la forma del cráneo en tres dimensiones — no es el estándar de referencia para el diagnóstico de craneosinostosis.",
+            "C": "La RM proporciona una excelente evaluación del tejido cerebral, pero no muestra la anatomía ósea/sutural tan bien como la TC — no es la modalidad primaria para el diagnóstico de craneosinostosis, aunque complementa la TC para las anomalías cerebrales asociadas.",
+            "D": "La radiografía simple tiene una sensibilidad limitada para la evaluación de las suturas (particularmente en la fusión precoz) y no proporciona la información tridimensional necesaria para la planificación quirúrgica. Sigue siendo una herramienta complementaria útil, pero no el estándar de referencia."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Estándares de imagen para el diagnóstico de craneosinostosis",
+          "trial": "Mathijssen IM. J Craniofac Surg (2015): revisión sistemática de guías — TC 3D identificada como estándar de referencia con sensibilidad >95% para la fusión sutural frente al 67% de la radiografía simple en comparación de los mismos pacientes.",
+          "pearl": "ESTÁNDAR DE REFERENCIA para craneosinostosis = TC 3D, grosor ≤1 mm. Proporciona: permeabilidad sutural, forma 3D del cráneo, volumen intracraneal, datos de planificación quirúrgica. Los protocolos de baja dosis minimizan la radiación. Obtener siempre reconstrucción 3D.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F2-Q18",
+        "stem": "Un niño con síndrome de Pfeiffer tipo III nace con una deformidad craneal en «trébol» y distrés respiratorio. ¿Qué indica el patrón de cráneo en trébol?",
+        "options": {
+          "A": "Sinostosis sagital y lambdoidea aislada que produce una forma trilobulada",
+          "B": "Fusión de múltiples suturas (coronal, lambdoidea y a menudo sagital) que produce un cráneo trilobular con HIC grave",
+          "C": "Fusión prematura de la base craneal que produce herniación cerebelosa hacia arriba",
+          "D": "Fracturas bilaterales del hueso temporal que producen la forma característica de tres partes"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El cráneo en trébol (Kleeblattschädel) representa el fenotipo más grave de craneosinostosis, observado en el síndrome de Pfeiffer tipo III (y ocasionalmente otros síndromes graves). Resulta de la fusión prematura de múltiples suturas — típicamente bicoronal, sagital y lambdoidea — con la sutura metópica permeable. Las suturas fusionadas impiden el crecimiento en todas las direcciones, forzando al cerebro a expandirse a través de las suturas permeables restantes, produciendo una forma trilobulada (en trébol) con protrusión bitemporal y biparietal extremas. Se asocia con HIC grave, proptosis dramática y compromiso respiratorio a menudo potencialmente mortal que requiere intervención quirúrgica urgente (craniectomía).",
+          "wrong": {
+            "A": "La sinostosis sagital y lambdoidea aislada produciría escafocefalia con plagiocefalia posterior — no la forma trilobulada en trébol. El trébol requiere coronal bilateral + suturas adicionales.",
+            "C": "La herniación cerebelosa hacia arriba (tipo Chiari) puede acompañar a la craneosinostosis grave, pero no es el mecanismo de la propia forma del cráneo en trébol.",
+            "D": "Las fracturas del hueso temporal son una afección traumática — no una forma craneal congénita."
+          },
+          "guideline": "European Craniofacial Society Consensus 2021 — Síndrome de Pfeiffer: fenotipos graves y tratamiento de urgencia",
+          "trial": "Cohen MM Jr. Craniosynostosis (2000): cráneo en trébol en el síndrome de Pfeiffer tipo III — mecanismo de fusión multisutura, HIC potencialmente mortal y necesidad de craniectomía de urgencia en las primeras semanas de vida.",
+          "pearl": "Cráneo en TRÉBOL = craneosinostosis más grave = Pfeiffer tipo III + otros. Múltiples suturas fusionadas → expansión trilobular a través de suturas permeables. HIC grave → craniectomía URGENTE en el período neonatal. Potencialmente mortal.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q19",
+        "stem": "El hipotelorismo (disminución de la distancia intercantal) como componente de la trigonocefalia está causado por:",
+        "options": {
+          "A": "Fusión prematura de las suturas frontocigomáticas",
+          "B": "Desplazamiento medial de las órbitas por el crecimiento bitemporal restringido de la sinostosis metópica",
+          "C": "Crecimiento deficiente del hueso frontal que causa estrechez del reborde orbitario",
+          "D": "Aumento de la presión intracraneal que empuja las órbitas medialmente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En la sinostosis metópica, la fusión de la sutura metópica impide la expansión bitemporal (lateral) normal del hueso frontal. Según la ley de Virchow, el crecimiento compensatorio ocurre perpendicular a la sutura fusionada — es decir, en la dirección anteroposterior en lugar de lateralmente. Esto produce una frente estrecha y triangular con las órbitas desplazadas medialmente (disminución de la distancia intercantal = hipotelorismo). El hipotelorismo es, por tanto, una consecuencia directa del crecimiento frontal transversal restringido que fuerza a las órbitas hacia la línea media.",
+          "wrong": {
+            "A": "La fusión de la sutura frontocigomática no es un componente reconocido de la sinostosis metópica — produciría una deformidad diferente.",
+            "C": "El crecimiento deficiente del hueso frontal es la consecuencia de la sinostosis, pero el mecanismo del hipotelorismo es específicamente el desplazamiento orbitario medial por la restricción del crecimiento lateral, no el déficit en sí mismo.",
+            "D": "La HIC puede causar varios cambios craneales, pero no produce específicamente hipotelorismo — el hipotelorismo en la trigonocefalia se explica por el patrón local de crecimiento de la ley de Virchow."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Sinostosis metópica: fisiopatología de la trigonocefalia y el hipotelorismo",
+          "trial": "Marchac D & Renier D. Craniofacial Surgery for Craniosynostosis (1982): análisis anatómico de la trigonocefalia — hipotelorismo como consecuencia del desplazamiento orbitario medial por la restricción del crecimiento lateral; corregido mediante remodelación frontal con avance orbitario lateral.",
+          "pearl": "Sinostosis metópica = trigonocefalia + HIPOTELORISMO (desplazamiento orbitario medial por restricción del crecimiento lateral). Corrección quirúrgica: remodelación frontal + avance orbitario lateral para aumentar la distancia intercantal.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F2-Q20",
+        "stem": "¿Qué afirmación sobre las placas de fijación reabsorbibles en la cirugía craneofacial pediátrica es CORRECTA?",
+        "options": {
+          "A": "Las placas reabsorbibles están contraindicadas en niños menores de 2 años por su reabsorción antes de la consolidación",
+          "B": "Las placas reabsorbibles son apropiadas para la fijación craneal pediátrica porque se reabsorben antes de que se produzca una restricción significativa del crecimiento y evitan la necesidad de retirada del material",
+          "C": "Las placas reabsorbibles producen una rigidez equivalente a las de titanio en aplicaciones de carga mecánica",
+          "D": "Las placas reabsorbibles deben retirarse siempre en una segunda operación para prevenir reacciones inflamatorias"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las placas de fijación reabsorbibles (copolímeros de ácido poliglicólico/ácido poliláctico) se utilizan ampliamente en la cirugía craneofacial pediátrica porque: (1) se reabsorben en 12–18 meses, eliminando el riesgo de restricción del crecimiento relacionada con el material (las placas de titanio en cráneos en crecimiento pueden anclar el hueso y restringir el crecimiento); (2) no requieren retirada rutinaria en una segunda operación; (3) las fuerzas en la fijación craneal son bajas (a diferencia de la fijación mandibular) — el cerebro proporciona soporte de presión interno, por lo que la menor rigidez de las placas reabsorbibles es aceptable. Las placas reabsorbibles NO son apropiadas para aplicaciones mandibulares de carga mecánica.",
+          "wrong": {
+            "A": "Las placas reabsorbibles se utilizan habitualmente en niños menores de 2 años — su cronología de reabsorción (12–18 meses) es muy superior al tiempo requerido para la consolidación del hueso calvarial en lactantes (6–8 semanas). La reabsorción antes de la consolidación no es una preocupación práctica.",
+            "C": "Las placas reabsorbibles proporcionan significativamente menos rigidez que las de titanio — esto es aceptable en la fijación craneal (carga mecánica baja), pero las contraindica para aplicaciones mandibulares de carga mecánica.",
+            "D": "El propósito de las placas reabsorbibles es precisamente que NO requieren retirada — se reabsorben espontáneamente. La retirada planificada negaría su ventaja sobre las placas de titanio."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Material de fijación en la cirugía craneofacial pediátrica",
+          "trial": "Eppley BL et al. J Craniofac Surg (2004): comparación aleatoria de fijación reabsorbible frente a titanio en 87 niños sometidos a AFO — resultados equivalentes de forma craneal, con el grupo reabsorbible requiriendo cero retiradas de material frente al 8% del grupo de titanio por restricción del crecimiento.",
+          "pearl": "Placas REABSORBIBLES = preferidas para la cirugía craneal PEDIÁTRICA. Se reabsorben en 12–18 meses → sin restricción del crecimiento → sin necesidad de retirada. NO para la mandíbula con carga mecánica. Titanio = sigue usándose para la mandíbula, el tercio medio facial y el trabajo craneofacial en adultos.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

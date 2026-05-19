@@ -1,0 +1,634 @@
+{
+  "id": "D3",
+  "title": "Fracturas Condilares y Subcondíleas",
+  "subtitle": "Bloque D — Clasificación, Tratamiento Conservador vs. Quirúrgico, Resultados",
+  "block": "D",
+  "block_name": "Articulación Temporomandibular y Traumatología Facial",
+  "level": "R2-4",
+  "reading_time_min": 36,
+  "guidelines_version": "EACMFS Condylar Fracture Guidelines 2021 · IASSCMF Consensus 2018 · BAOMS Condylar Fracture Position Statement 2020",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3.ª ed. (2012)",
+    "Lindqvist C et al. Condylar fractures: a review of the literature. Int J Oral Maxillofac Surg (2012)",
+    "Neff A et al. Open versus closed treatment of condylar fractures — systematic review. J Oral Maxillofac Surg (2014)",
+    "Assael LA. Open versus closed reduction of adult mandibular condyle fractures. J Oral Maxillofac Surg (2003)"
+  ],
+  "learning_objectives": [
+    "Clasificar las fracturas condilares utilizando los sistemas de clasificación de Spiessl, Lindqvist e IASSCMF",
+    "Identificar las indicaciones de tratamiento quirúrgico (RAFI) frente al conservador (funcional) de las fracturas condilares",
+    "Describir los abordajes quirúrgicos a la región condilar, incluidas las técnicas retromandibular, preauricular y endoscópica",
+    "Reconocer las complicaciones específicas de las fracturas condilares, incluidas la alteración del crecimiento, la anquilosis y la lesión nerviosa",
+    "Comprender el tratamiento de las fracturas condilares en niños y las controversias sobre el impacto en el crecimiento",
+    "Interpretar los hallazgos radiológicos en OPG y TC para la clasificación de la fractura condilar y la planificación quirúrgica"
+  ],
+  "sections": [
+    {
+      "id": "D3-S1",
+      "title": "Anatomía y Clasificación de las Fracturas Condilares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas condilares representan el 25–35% de todas las fracturas mandibulares, siendo el segundo sitio de fractura mandibular más frecuente tras la parasínfisis. El cóndilo se fractura preferentemente porque es el punto más débil de la mandíbula desde una perspectiva biomecánica — el hueso cortical es más delgado a nivel del cuello subcondíleo. El traumatismo directo sobre el mentón (por caídas, accidentes de tráfico o violencia interpersonal) transmite la fuerza a lo largo de la mandíbula bilateralmente hacia las regiones condilares, siendo frecuentes las fracturas condilares bilaterales tras los impactos en la línea media del mentón.\n\nExisten varios sistemas de clasificación. La **clasificación de Spiessl** (1970) es ampliamente utilizada en Europa y clasifica las fracturas por nivel anatómico y desplazamiento:\n- Tipo I: fractura de la cabeza condilar sin desplazamiento\n- Tipo II: fractura de la cabeza condilar con desplazamiento pero cóndilo en la fosa\n- Tipo III: fractura subcondílea sin desplazamiento\n- Tipo IV: fractura subcondílea con desplazamiento\n- Tipo V: fractura subcondílea con luxación (cóndilo totalmente fuera de la fosa glenoidea)\n- Tipo VI: fractura de la cabeza condilar (intracapsular)\n\nLa **clasificación IASSCMF (Asociación Internacional para el Estudio y Síntesis de las Fracturas Condilares Mandibulares)** (2018) distingue las fracturas según tres niveles anatómicos: (A) intracapsular/cabeza condilar, (B) cuello condilar (por encima de la escotadura sigmoidea) y (C) subcondíleo/subcondíleo alto (por debajo de la escotadura sigmoidea). El desplazamiento se cuantifica como no desplazado, desviado (<10°), desplazado (10–45°) o luxado (cóndilo fuera de la fosa)."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Fracturas Condilares — Tipos de Spiessl",
+          "headers": ["Tipo Spiessl", "Localización", "Estado de Desplazamiento", "Característica Principal"],
+          "rows": [
+            ["Tipo I", "Cabeza condilar", "Sin desplazamiento", "Cóndilo en la fosa; oclusión normal posible"],
+            ["Tipo II", "Cabeza condilar", "Desplazado, cóndilo en la fosa", "Cóndilo desplazado medialmente dentro de la fosa"],
+            ["Tipo III", "Cuello condilar / subcondíleo", "Sin desplazamiento", "Trazo de fractura únicamente; estable"],
+            ["Tipo IV", "Cuello condilar / subcondíleo", "Desplazado, cóndilo en la fosa", "Angulado pero no luxado"],
+            ["Tipo V", "Subcondíleo", "Luxado", "Cóndilo completamente fuera de la fosa glenoidea"],
+            ["Tipo VI", "Intracapsular", "Cabeza condilar conminuta", "Fractura en aplastamiento; generalmente tratamiento conservador o con prótesis"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Presentación Clínica — Reconocimiento de la Fractura Condilar",
+          "content": "La presentación clásica de una fractura condilar bilateral tras impacto en el mentón: mordida abierta anterior (contacto posterior prematuro al perderse bilateralmente la altura condilar), limitación de la apertura y dolor en la región preauricular. La fractura condilar unilateral produce: desviación de la mandíbula hacia el lado afectado al abrir (los músculos pterigoideo/de apertura ipsilaterales están alterados) y, frecuentemente, contacto prematuro contralateral. El hemartros (sangre en la articulación) produce tumefacción y dolor en la región preauricular. Siempre explorar la oclusión cuidadosamente tras cualquier traumatismo — la maloclusión es el indicador clínico más sensible de fractura condilar."
+        }
+      ]
+    },
+    {
+      "id": "D3-S2",
+      "title": "Diagnóstico por Imagen en las Fracturas Condilares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La selección del método de imagen para las fracturas condilares sospechadas sigue un enfoque jerárquico. La **OPG (ortopantomografía)** es la exploración de primera línea recomendada, proporcionando una visión general de todas las fracturas mandibulares con una resolución razonable de las fracturas condilares y su desplazamiento. Sin embargo, la OPG tiene limitaciones: ofrece una proyección 2D con distorsión geométrica inherente, y las fracturas intracapsulares (de la cabeza condilar) se detectan con frecuencia por superposición del peñasco temporal y el proceso mastoideo.\n\nLa **CBCT (tomografía computarizada de haz cónico)** o la **TC multicorte (TCMC)** con reconstrucciones coronales y 3D son obligatorias cuando: (1) la OPG muestra fractura condilar sospechosa con cualquier desplazamiento, (2) existe evidencia clínica de fractura (maloclusión, apertura restringida, tumefacción preauricular) sin diagnóstico claro en la OPG, (3) se está considerando tratamiento quirúrgico (para guiar la selección del abordaje y la planificación del implante), o (4) se sospecha que la fractura es intracapsular (Tipo VI/Nivel A IASSCMF). La TC muestra claramente la configuración 3D de la fractura, el grado de desplazamiento, la superposición medial del fragmento condilar y la relación con la fosa articular.\n\nLa TC transversal (axial) revela el desplazamiento medial de la cabeza condilar — el patrón de desplazamiento más frecuente, causado por la tracción del músculo pterigoideo lateral que se inserta en la fóvea pterigoidea del cuello condilar. La TC coronal muestra la extensión bucolingual del desplazamiento y el grado de angulación de la cabeza condilar. La reconstrucción volumétrica 3D facilita la planificación quirúrgica en casos complejos. La RMN puede añadirse si se necesita evaluación del disco de la ATM o del hemartros."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Músculo Pterigoideo Lateral — Dirección del Desplazamiento",
+          "content": "En las fracturas condilares, el fragmento condilar se desplaza sistemáticamente de forma MEDIAL y ANTERIOR porque el músculo pterigoideo lateral (que se inserta en la fóvea pterigoidea en la cara anterior del cuello condilar) tracciona el fragmento proximal medialmente cuando la fractura interrumpe la restricción ósea normal. El cuerpo mandibular principal es empujado hacia arriba y posteriormente por los músculos elevadores (masetero, pterigoideo medial, temporal), creando el contacto posterior prematuro y la mordida abierta anterior. Este patrón de desplazamiento consistente orienta tanto la clasificación como la planificación del abordaje quirúrgico."
+        }
+      ]
+    },
+    {
+      "id": "D3-S3",
+      "title": "Tratamiento Conservador (Funcional) de las Fracturas Condilares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El tratamiento conservador (funcional/cerrado) de las fracturas condilares incluye la movilización funcional precoz, la fisioterapia y la dieta blanda, en lugar de la fijación quirúrgica. El fundamento es que el cóndilo tiene una capacidad significativa de remodelación adaptativa — especialmente en niños y adultos jóvenes — y puede formar una pseudoartrosis funcional que restaura una función mandibular adecuada sin osteosíntesis formal. El principio del tratamiento conservador se remonta a principios del siglo XX y ha sido respaldado por estudios de seguimiento a largo plazo que muestran resultados funcionales aceptables en casos seleccionados.\n\nEl protocolo de tratamiento conservador incluye: dieta blanda inicial durante 6 semanas, fisioterapia mandibular (ejercicios activos de apertura, excursiones laterales, ejercicios de protrusión) iniciada tan pronto como el dolor lo permita (generalmente en la primera o segunda semana), analgesia (AINEs, paracetamol) y seguimiento clínico estrecho cada 1–2 semanas inicialmente. El uso de la fijación intermaxilar (FIM) como componente del tratamiento conservador es actualmente controvertido: la FIM a corto plazo (7–10 días) puede ser útil en casos con maloclusión significativa al inicio, pero la FIM prolongada (>3 semanas) se asocia a un mayor riesgo de anquilosis, atrofia muscular y fibrosis articular de la ATM. El consenso IASSCMF (2018) no recomienda la FIM prolongada como componente del tratamiento conservador rutinario.\n\nLas indicaciones para el tratamiento conservador incluyen: fracturas condilares no desplazadas o mínimamente desplazadas, fracturas intracapsulares (de la cabeza condilar) en adultos, fracturas condilares bilaterales en las que un lado cumple criterios quirúrgicos y el otro puede manejarse de forma conservadora, y todas las fracturas condilares en niños (con excepciones muy limitadas). Las contraindicaciones para el tratamiento conservador (y por tanto indicaciones de cirugía) se abordan en la sección siguiente."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "FIM Prolongada — Riesgo de Anquilosis",
+          "content": "La fijación intermaxilar (FIM) durante más de 2-3 semanas tras una fractura condilar aumenta significativamente el riesgo de anquilosis de la ATM y contractura fibrosa articular. El hemartros inmovilizado se organiza en tejido fibroso dentro de la articulación, que puede calcificarse posteriormente. La movilización precoz mandibular (fisioterapia desde la semana 1-2) es la estrategia más eficaz para prevenir la anquilosis tanto en las fracturas condilares manejadas conservadoramente como quirúrgicamente. La FIM debe utilizarse solo brevemente (5-10 días como máximo) si es necesaria para la estabilización oclusal inicial."
+        }
+      ]
+    },
+    {
+      "id": "D3-S4",
+      "title": "Tratamiento Quirúrgico: Indicaciones y Abordajes",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La reducción abierta y fijación interna (RAFI) de las fracturas condilares proporciona la restauración anatómica de la altura condilar, la altura de la rama y la posición condilar, evitando la maloclusión y el déficit funcional que puede resultar de la consolidación viciosa. Las Guías de Fracturas Condilares EACMFS (2021) y el Consenso IASSCMF (2018) identifican indicaciones específicas en las que la RAFI es preferible al tratamiento conservador.\n\nLas indicaciones absolutas de RAFI incluyen: luxación condilar hacia la fosa craneal media, imposibilidad de rehabilitación oclusal (pacientes edéntulos sin soporte dental adecuado para el tratamiento conservador) y luxación condilar hacia el conducto auditivo externo. Las indicaciones fuertes (en las que la RAFI proporciona resultados claramente superiores al tratamiento conservador) incluyen: luxación del cóndilo (Spiessl Tipo V — cóndilo completamente fuera de la fosa), fracturas condilares bilaterales con acortamiento vertical significativo de la rama (que causa mordida abierta anterior no tratable funcionalmente), fracturas condilares en pacientes edéntulos y fracturas de cuello condilar con desplazamiento >45° o acortamiento grave. Las indicaciones relativas incluyen: fracturas abiertas, fracturas en politraumatizados que requieren movilización precoz, fracturas condilares en pacientes con patología previa de la ATM y fracturas condilares con fracturas parasinfisarias/sinfisarias conminutas asociadas.\n\n**Los abordajes quirúrgicos** a la región condilar incluyen:\n- **Abordaje retromandibular (transparotídeo o retroparotídeo)**: el abordaje abierto más utilizado en la práctica moderna. Incisión posterior a la rama mandibular a nivel del gonion, con acceso directo a la región subcondílea. Riesgo: división inferior del nervio facial (ramas marginal mandibular y bucal).\n- **Abordaje preauricular**: proporciona acceso a la cabeza condilar y las fracturas del cuello condilar alto mediante la incisión preauricular estándar de la ATM. Riesgo: rama temporal del nervio facial.\n- **Abordaje submandibular**: utilizado para fracturas subcondíleas bajas — proporciona acceso a la rama inferior y la región angular. Riesgo: nervio marginal mandibular.\n- **Abordaje asistido por endoscopia**: mínimamente invasivo; endoscopio introducido por el abordaje retromandibular con instrumentos por un portal transoral. Evita cicatrices externas; reduce el riesgo para el nervio facial; con curva de aprendizaje significativa. La evidencia apoya resultados comparables a la RAFI abierta para fracturas subcondíleas (metaanálisis de Neff 2014)."
+        },
+        {
+          "type": "table",
+          "title": "Abordajes Quirúrgicos en Fracturas Condilares: Características y Riesgo Nervioso",
+          "headers": ["Abordaje", "Nivel de Acceso", "Riesgo Nervioso Principal", "Mejor Indicación"],
+          "rows": [
+            ["Preauricular", "Cuello condilar alto, cabeza condilar", "Rama temporal NC VII", "Fracturas intracapsulares, RAFI del cuello condilar alto"],
+            ["Retromandibular (transparotídeo)", "Cuello condilar y subcondíleo", "Ramas bucal/marginal mandibular NC VII", "La mayoría de fracturas subcondíleas y del cuello condilar"],
+            ["Retroparotídeo", "Cuello condilar, rama alta", "Tronco inferior NC VII", "Cirujanos que prefieren el plano retroparotídeo"],
+            ["Submandibular (Hinds)", "Subcondíleo bajo, rama", "Rama marginal mandibular NC VII", "Fracturas subcondíleas bajas combinadas con ángulo/cuerpo"],
+            ["Asistido por endoscopia", "Cuello condilar, subcondíleo", "Menor riesgo NC VII que el abierto", "Fracturas subcondíleas desplazadas no complicadas (cirujanos experimentados)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "EACMFS 2021 — Resumen de Indicaciones Clave para RAFI",
+          "content": "Las guías EACMFS 2021 identifican la RAFI como preferida para: (1) cóndilo luxado fuera de la fosa (Spiessl V), (2) fracturas condilares bilaterales con mordida abierta anterior, (3) fracturas condilares en pacientes edéntulos, (4) desplazamiento >45° o acortamiento >2 mm en fracturas subcondíleas. El tratamiento conservador se prefiere para: (1) todas las fracturas condilares en niños, (2) fracturas intracapsulares (cabeza condilar), (3) fracturas no desplazadas o mínimamente desplazadas. Esta posición EACMFS/IASSCMF es ampliamente evaluada en los exámenes de especialización."
+        }
+      ]
+    },
+    {
+      "id": "D3-S5",
+      "title": "Evidencia: Tratamiento Abierto vs. Cerrado — Ensayos Aleatorizados",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El debate entre el tratamiento abierto (RAFI) y el cerrado (funcional) de las fracturas subcondíleas ha sido informado por varios ensayos controlados aleatorizados (ECA) realizados en las décadas de 2000-2010. El **ECA de Eckelt et al. (2006)** (publicado en J Craniomaxillofac Surg) aleatorizó 79 pacientes con fracturas subcondíleas unilaterales a RAFI frente a tratamiento cerrado. A los 6 meses de seguimiento, la RAFI demostró una apertura máxima, excursión lateral, protrusión y menos problemas de maloclusión significativamente mejores en comparación con el tratamiento cerrado. Sin embargo, la RAFI se asoció a una tasa de paresia facial temporal del 17%.\n\nLa **revisión sistemática y metaanálisis de Neff et al. (2014)** (J Oral Maxillofac Surg) de 6 ECA y 15 estudios de cohortes concluyó que la RAFI de fracturas subcondíleas produce una apertura máxima, movimiento lateral, protrusión y estabilidad oclusal significativamente mejores en comparación con el tratamiento conservador. Los resultados de dolor fueron similares entre los grupos. La tasa de lesión del nervio facial con RAFI fue del 10–35% para la paresia temporal y del 0–3% para la lesión permanente. La RAFI asistida por endoscopia mostró resultados funcionales comparables a la RAFI abierta con menores tasas de lesión del nervio facial.\n\nEl estudio a largo plazo de **Lindqvist et al. (1992)** (Br J Oral Maxillofac Surg) siguió 50 fracturas condilares durante 25 años tras el tratamiento conservador, encontrando remodelación condilar radiográfica en todos los casos y resultados funcionales aceptables en el 87%, pero un 13% tenía maloclusión persistente y apertura restringida. Esto estableció que, aunque el tratamiento conservador produce resultados aceptables en muchos pacientes, una minoría significativa tiene disfunción persistente — apoyando el cambio contemporáneo hacia la RAFI selectiva para las fracturas desplazadas."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Fracturas Condilares Bilaterales",
+          "content": "Las fracturas condilares bilaterales con desplazamiento significativo y mordida abierta anterior representan la lesión condilar funcionalmente más grave y la indicación relativa más fuerte para la RAFI al menos unilateral. La pérdida bilateral de altura de la rama y del soporte condilar causa mordida abierta anterior grave y disfunción masticatoria. El tratamiento conservador de las fracturas condilares luxadas bilateralmente presenta el mayor riesgo de maloclusión permanente, apertura restringida y resorción condilar bilateral. Las guías EACMFS contemporáneas apoyan la RAFI del lado más gravemente desplazado en las fracturas condilares luxadas bilaterales."
+        }
+      ]
+    },
+    {
+      "id": "D3-S6",
+      "title": "Fracturas Condilares en Niños",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas condilares en niños representan una entidad distinta de las fracturas condilares en adultos debido a las implicaciones en el crecimiento de la lesión condilar durante el período crítico del desarrollo mandibular. El cartílago condilar es un centro de crecimiento primario — la lesión de la cabeza condilar durante la infancia puede alterar el crecimiento mandibular normal, llevando a asimetría mandibular progresiva, retrognatia y deformidad facial.\n\nEn niños, **el tratamiento conservador es el estándar de atención** para la gran mayoría de las fracturas condilares, independientemente del desplazamiento. El fundamento es: (1) el cartílago condilar tiene una extraordinaria capacidad de remodelación y regeneración en niños — los fragmentos desplazados pueden remodelarse hasta una forma condilar funcional; (2) el acceso quirúrgico y la fijación interna del pequeño cóndilo pediátrico es técnicamente muy difícil; (3) la RAFI en niños conlleva riesgos significativos de alteración del crecimiento por traumatismo quirúrgico del cartílago condilar y el cabestrillo pterigomasesetérico. La movilización funcional precoz y la fisioterapia mandibular son fundamentales — la anquilosis de la ATM por hemartros inmovilizado es la complicación más temida en las fracturas condilares pediátricas.\n\nEl impacto sobre el crecimiento mandibular tras la fractura condilar en niños es complejo. La revisión sistemática de Miloro (2005) mostró que la capacidad de remodelación condilar es inversamente proporcional a la edad — en niños menores de 5 años, puede producirse una regeneración condilar casi completa incluso tras un desplazamiento grave o fractura subcondílea. En adolescentes (10–16 años), la remodelación es menos completa y la alteración del crecimiento (acortamiento ipsilateral de la rama, asimetría facial, mordida cruzada contralateral) es más probable si la fractura implica aplastamiento de la cabeza condilar o fracturas subcondíleas bilaterales con acortamiento significativo de la rama. Se requiere seguimiento a largo plazo con fotografías faciales seriadas, modelos dentales y CBCT/OPG hasta la madurez esquelética."
+        },
+        {
+          "type": "table",
+          "title": "Fracturas Condilares en Niños: Capacidad de Remodelación según la Edad y Tratamiento",
+          "headers": ["Grupo de Edad", "Capacidad de Remodelación", "Tratamiento", "Riesgo de Crecimiento"],
+          "rows": [
+            ["0-5 años", "Excelente — regeneración casi completa posible", "Movilización funcional conservadora", "Bajo si rehabilitación funcional precoz"],
+            ["6-9 años", "Buena — remodelación parcial", "Conservador; FIM máx. 5-7 días si es necesario", "Moderado — vigilar asimetría"],
+            ["10-14 años", "Moderada", "Conservador preferido; RAFI muy raramente si luxación bilateral", "Mayor — especialmente fracturas bilaterales"],
+            ["15-17 años", "Reducida (se aproxima al adulto)", "Se aplican indicaciones de adulto", "Se aproxima al perfil de riesgo adulto"],
+            ["Todos los niños", "Mayor que en adultos", "Evitar FIM >1 semana; fisioterapia precoz obligatoria", "La anquilosis es la complicación más temida"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D3-S7",
+      "title": "Complicaciones de las Fracturas Condilares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones de las fracturas condilares pueden derivar de la propia fractura (complicaciones tardías del tratamiento conservador) o del tratamiento quirúrgico (complicaciones de la RAFI). Comprender ambas es esencial para el consentimiento informado, la vigilancia y el tratamiento.\n\n**Las complicaciones tardías del tratamiento conservador** incluyen: maloclusión persistente (mordida abierta anterior, desviación lateral), apertura máxima restringida (<35 mm), resorción condilar (especialmente en pacientes predispuestos a la RCI) y anquilosis de la ATM (fibrosa u ósea). La anquilosis es la complicación tardía más significativa, que se produce predominantemente cuando el hemartros se deja sin tratar con inmovilización prolongada — especialmente en niños donde el hemartros se organiza rápidamente. La prevención requiere movilización funcional precoz.\n\n**Las complicaciones de la RAFI** incluyen: lesión del nervio facial (ramas temporal/bucal/marginal mandibular según el abordaje — paresia transitoria 10–35%, permanente <3%), infección (incluida fístula parotídea por abordajes transparotídeos), fallo del hardware (placas/tornillos — especialmente las placas pequeñas en el cuello condilar sometidas a torsión significativa) y sialocele (lesión del conducto parotídeo). El aflojamiento o fallo del hardware que requiere extirpación de la placa ocurre aproximadamente en el 5–10% de los casos y puede requerir refijación.\n\n**La resorción condilar** tras el tratamiento de la fractura (tanto conservador como RAFI) es una complicación tardía reconocida en pacientes con factores predisponentes (factores de riesgo de RCI: mujeres jóvenes, FMA alto). Se recomienda seguimiento con CBCT seriado a los 6 y 12 meses tras la lesión en pacientes de alto riesgo.\n\n**La alteración del crecimiento** en niños: el daño condilar unilateral lleva a un acortamiento ipsilateral de la rama y desviación mandibular hacia el lado afectado a medida que el lado no afectado continúa creciendo con normalidad. Esta asimetría progresiva puede requerir en última instancia distracción osteogénica de la rama acortada (técnica de McCarthy) y/o cirugía ortognática en la madurez esquelética."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Fallo del Hardware en el Cuello Condilar — Biomecánica",
+          "content": "El cuello condilar está sometido a fuerzas de torsión y flexión muy elevadas durante la función mandibular normal. Las miniplacas de 2,0 mm pequeñas (que son adecuadas para fracturas de parasínfisis y cuerpo) fracasan frecuentemente en el cuello condilar debido a la resistencia insuficiente a estas fuerzas. La RAFI contemporánea de fracturas subcondíleas utiliza miniplacas de bloqueo de 2,0 mm o 2,4 mm en una configuración específica (generalmente dos placas o una placa con ≥4 tornillos por segmento) o placas 3D/rejilla para mayor estabilidad rotatoria. La fijación con una sola miniplaca en el cuello condilar tiene una tasa de fallo inaceptablemente alta."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tus conocimientos sobre fracturas condilares y subcondíleas con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "D3-Q1",
+        "stem": "Un hombre de 25 años cae directamente sobre su mentón en un accidente de tráfico. Presenta mordida abierta anterior, dolor y tumefacción bilateral en la región preauricular, y desviación de la mandíbula hacia la derecha al abrir. La apertura máxima es de 28 mm. La OPG muestra fracturas subcondíleas bilaterales, con el cóndilo derecho desplazado medialmente y el cóndilo izquierdo con desplazamiento mínimo. ¿Cuál es el tratamiento más adecuado?",
+        "options": {
+          "A": "Tratamiento conservador con dieta blanda y fisioterapia para ambos lados",
+          "B": "RAFI del cóndilo derecho (desplazado) y tratamiento conservador del izquierdo",
+          "C": "FIM bilateral prolongada durante 6 semanas",
+          "D": "Prótesis total bilateral de ATM"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las fracturas condilares bilaterales con mordida abierta anterior y desplazamiento unilateral significativo representan una indicación fuerte para el tratamiento quirúrgico del lado más desplazado. Las guías EACMFS 2021 apoyan la RAFI del cóndilo derecho desplazado para restaurar la altura de la rama y la estabilidad oclusal, combinada con el tratamiento conservador del cóndilo izquierdo mínimamente desplazado. Este enfoque híbrido aborda el déficit funcional más significativo (mordida abierta anterior por acortamiento de la rama derecha) evitando los riesgos operatorios bilaterales. La RAFI bilateral podría considerarse si ambos lados estuvieran significativamente desplazados.",
+          "wrong": {
+            "A": "El tratamiento conservador de fracturas condilares bilaterales con mordida abierta anterior tiene altas tasas de maloclusión persistente y apertura restringida. El cóndilo derecho significativamente desplazado requiere específicamente tratamiento quirúrgico según EACMFS 2021.",
+            "C": "La FIM bilateral prolongada (6 semanas) se asocia a alto riesgo de anquilosis, atrofia muscular y está específicamente desaconsejada por las guías IASSCMF/EACMFS contemporáneas. Se prefiere la movilización precoz.",
+            "D": "La prótesis articular total no tiene indicación en un paciente de 25 años con fracturas condilares agudas — está reservada para la enfermedad articular en estadio terminal."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — fracturas condilares bilaterales con mordida abierta anterior: RAFI del lado desplazado indicada; tratamiento conservador del lado mínimamente desplazado",
+          "trial": "Neff A et al. Open versus closed treatment of condylar fractures — systematic review. J Oral Maxillofac Surg (2014): RAFI superior al tratamiento conservador para fracturas condilares bilaterales con acortamiento vertical de la rama",
+          "pearl": "Fracturas condilares bilaterales con MOA = indicación fuerte de RAFI (al menos el lado más desplazado). La mordida abierta anterior resulta de la pérdida bilateral de la altura vertical condilar/de la rama. La RAFI restaura la altura y la oclusión. Tratamiento conservador de fracturas condilares luxadas bilaterales → alto riesgo de MOA y maloclusión permanentes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q2",
+        "stem": "En la clasificación de Spiessl de fracturas condilares, ¿qué tipo se caracteriza por la cabeza condilar completamente desplazada FUERA de la fosa glenoidea?",
+        "options": {
+          "A": "Spiessl Tipo II",
+          "B": "Spiessl Tipo III",
+          "C": "Spiessl Tipo IV",
+          "D": "Spiessl Tipo V"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El Tipo V de Spiessl es la fractura subcondílea con luxación — significa que la cabeza condilar está completamente desplazada FUERA de la fosa glenoidea y se sitúa en la fosa infratemporal, el espacio pterigomandibular u otra región anatómica adyacente. Esto es diferente de los Tipos II y IV donde el cóndilo está desplazado pero permanece dentro de la fosa glenoidea. La luxación de Tipo V es una indicación absoluta de RAFI, ya que el cóndilo no puede remodelarse hasta una posición aceptable desde una posición completamente extrafossal.",
+          "wrong": {
+            "A": "El Tipo II es la fractura de la CABEZA condilar con desplazamiento, pero el cóndilo PERMANECE en la fosa glenoidea. No está luxado.",
+            "B": "El Tipo III es la fractura subcondílea SIN desplazamiento — sin luxación.",
+            "C": "El Tipo IV es la fractura subcondílea con DESPLAZAMIENTO pero el cóndilo PERMANECE en la fosa. No está luxado."
+          },
+          "guideline": "Spiessl B. Internal fixation of the mandible. (1989) — Tipo V subcondíleo con luxación es indicación absoluta de RAFI",
+          "trial": "Eckelt U et al. ECA: tratamiento abierto frente a cerrado de fracturas subcondíleas. J Craniomaxillofac Surg (2006): las fracturas condilares luxadas (Tipo V) mostraron los peores resultados funcionales con tratamiento conservador; RAFI recomendada",
+          "pearl": "Spiessl V = LUXACIÓN (cóndilo completamente FUERA de la fosa). Tipos II y IV = desplazado pero aún DENTRO de la fosa. Tipo V = indicación quirúrgica absoluta. La palabra clave es 'luxación' frente a 'desplazamiento'."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q3",
+        "stem": "¿Por qué una fractura condilar produce desplazamiento medial del fragmento condilar?",
+        "options": {
+          "A": "El músculo masetero tracciona el fragmento condilar medialmente",
+          "B": "El músculo pterigoideo lateral se inserta en la fóvea pterigoidea del cuello condilar y traccioneel fragmento anterior y medialmente",
+          "C": "El músculo pterigoideo medial tracciona el cóndilo inferior y medialmente",
+          "D": "La arteria temporal superficial ancla el cóndilo medialmente tras la fractura"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El músculo pterigoideo lateral se inserta en la fóvea pterigoidea — una depresión en la cara anterior del cuello condilar. Cuando se produce una fractura condilar, esta inserción muscular en el fragmento proximal (condilar) ya no está contenida por la mandíbula intacta, y el pterigoideo lateral tracciona el fragmento condilar anterior y medialmente (hacia la fosa infratemporal). Esta dirección de desplazamiento consistente explica por qué el desplazamiento condilar medial se observa en la TC en prácticamente todas las fracturas condilares desplazadas.",
+          "wrong": {
+            "A": "El masetero se inserta en la cara lateral de la rama y la región del gonion — actúa sobre el fragmento distal (mandibular), no sobre el fragmento de la cabeza condilar.",
+            "C": "El pterigoideo medial se inserta en la cara medial del ángulo/gonion — actúa sobre el cuerpo mandibular principal, no sobre el fragmento condilar.",
+            "D": "La arteria temporal superficial es una estructura externa sin ningún papel en la mecánica del desplazamiento del fragmento condilar."
+          },
+          "guideline": "IASSCMF Consensus Classification (2018) — la inserción del pterigoideo lateral explica el desplazamiento medial consistente del fragmento condilar en todas las fracturas condilares desplazadas",
+          "trial": "Rasse M. Condylar fractures — principles of fixation. J Craniomaxillofac Surg (2001): tracción medial del pterigoideo lateral confirmada en estudio biomecánico cadavérico como fuerza de desplazamiento primaria",
+          "pearl": "Desplazamiento de la fractura condilar = MEDIAL Y ANTERIOR porque el PTERIGOIDEO LATERAL tracciona el fragmento condilar (mediante la inserción en la fóvea pterigoidea) medialmente. Esto explica por qué la superposición condilar medial es el hallazgo dominante en la TC en las fracturas condilares desplazadas. El cuerpo mandibular principal es empujado posterior/superiormente por los músculos elevadores → mordida abierta anterior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q4",
+        "stem": "Un niño de 7 años sufre una fractura subcondílea derecha tras una caída de bicicleta. La OPG muestra el cóndilo derecho fracturado a nivel subcondíleo con aproximadamente 20 grados de angulación. Se encuentra en dentición mixta. La fractura no está desplazada fuera de la fosa glenoidea. ¿Cuál es el tratamiento recomendado?",
+        "options": {
+          "A": "RAFI mediante abordaje retromandibular y fijación con miniplaca de 2,0 mm",
+          "B": "Tratamiento conservador con dieta blanda, analgesia y fisioterapia mandibular precoz",
+          "C": "FIM prolongada durante 6 semanas para estabilizar la fractura",
+          "D": "Artrocentesis de la ATM derecha e inyección de corticoide"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El tratamiento conservador con movilización funcional precoz es el estándar de oro para las fracturas condilares en niños — especialmente a los 7 años de edad, donde la capacidad de remodelación es excelente. Los niños menores de 10 años tienen una capacidad regeneradora condilar casi completa, y la RAFI quirúrgica conlleva riesgos significativos de alteración del crecimiento condilar por traumatismo quirúrgico del cartílago de crecimiento. La dieta blanda durante 6 semanas, los analgésicos y la fisioterapia mandibular precoz (iniciada en pocos días) para prevenir la anquilosis y mantener el rango de movimiento son el tratamiento adecuado.",
+          "wrong": {
+            "A": "La RAFI está contraindicada en un niño de 7 años con una fractura subcondílea no luxada. El acceso quirúrgico y la fijación con miniplacas de un pequeño cóndilo pediátrico conlleva riesgos inaceptables de alteración del crecimiento.",
+            "C": "La FIM prolongada de 6 semanas en un niño conlleva alto riesgo de anquilosis de ATM por hemartros organizado. Esto está específicamente desaconsejado en el tratamiento de la fractura condilar pediátrica.",
+            "D": "La artrocentesis trata afecciones inflamatorias y el disco bloqueado — no es una estrategia de tratamiento de fracturas."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — todas las fracturas condilares en niños: tratamiento conservador como estándar de atención; RAFI solo para luxaciones bilaterales excepcionales",
+          "trial": "Miloro M. Mandibular condyle fractures: guidelines for treatment. J Oral Maxillofac Surg (2004): capacidad de remodelación excelente en niños <10 años; tratamiento conservador recomendado para todas las fracturas condilares no luxadas en niños",
+          "pearl": "Fracturas condilares pediátricas (especialmente menores de 10 años) = siempre TRATAMIENTO CONSERVADOR. Extraordinaria capacidad de remodelación. La fisioterapia mandibular precoz es OBLIGATORIA para prevenir la anquilosis. NUNCA FIM prolongada en niños con fracturas condilares."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q5",
+        "stem": "¿Qué abordaje a la región condilar proporciona el MENOR riesgo para el nervio facial durante la RAFI de una fractura subcondílea?",
+        "options": {
+          "A": "Abordaje preauricular",
+          "B": "Abordaje submandibular",
+          "C": "Abordaje asistido por endoscopia",
+          "D": "Abordaje retromandibular transparotídeo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El abordaje asistido por endoscopia utiliza una pequeña incisión retromandibular para la introducción del endoscopio combinada con un portal transoral para la instrumentación, evitando la disección amplia a través de la glándula parótida y reduciendo el grado de exposición del nervio facial. Las revisiones sistemáticas y metaanálisis (Neff 2014) confirman que la RAFI endoscópica de fracturas subcondíleas tiene menores tasas de complicaciones del nervio facial en comparación con los abordajes transparotídeos abiertos, logrando resultados funcionales comparables. Sin embargo, requiere una experiencia quirúrgica significativa y tiene una curva de aprendizaje pronunciada.",
+          "wrong": {
+            "A": "El abordaje preauricular tiene riesgo para la rama temporal del NC VII que cruza el arco cigomático en el campo operatorio. Tasa de lesión de la rama temporal del 5-15% transitoria en cirugía abierta de ATM.",
+            "B": "El abordaje submandibular tiene riesgo para la rama marginal mandibular del NC VII — el principal riesgo de este abordaje. Se utiliza para fracturas subcondíleas bajas.",
+            "D": "El abordaje retromandibular transparotídeo diseca directamente a través de la glándula parótida, requiriendo identificación y retracción cuidadosa del nervio facial para evitar la lesión de las ramas bucal y marginal mandibular. Mayor riesgo de NC VII que el endoscópico."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — RAFI endoscópica: menor tasa de complicaciones del nervio facial; resultados funcionales comparables a la RAFI abierta",
+          "trial": "Neff A et al. RAFI endoscópica vs. abierta de fracturas condilares — revisión sistemática. J Oral Maxillofac Surg (2014): tasa de lesión de NC VII con abordaje endoscópico del 3,5% frente al 11,8% transparotídeo abierto; resultados funcionales equivalentes",
+          "pearl": "RAFI condilar endoscópica = MENOR riesgo de nervio facial + mismos resultados funcionales que la RAFI abierta. Compensación: curva de aprendizaje pronunciada, mayor tiempo operatorio inicial, instrumentación limitada. Retromandibular transparotídeo = mayor riesgo de nervio facial pero mejor exposición. Conocer los riesgos nerviosos de cada abordaje."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q6",
+        "stem": "El ensayo controlado aleatorizado de Eckelt et al. (2006) que compara la RAFI frente al tratamiento cerrado de fracturas subcondíleas encontró que la RAFI se asociaba a:",
+        "options": {
+          "A": "Sin diferencia significativa en ningún resultado funcional en comparación con el tratamiento cerrado",
+          "B": "Apertura máxima, movimiento lateral y menos maloclusiones significativamente mejores, pero mayor tasa de paresia facial temporal",
+          "C": "Peores resultados oclusales pero menores tasas de infección en comparación con el tratamiento cerrado",
+          "D": "Mejor remodelación condilar a largo plazo en el seguimiento radiológico pero sin mejora funcional"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El ECA de Eckelt et al. (2006) (J Craniomaxillofac Surg) — uno de los ECA de referencia en el tratamiento de fracturas condilares — encontró que la RAFI proporcionó una apertura máxima (39,1 mm frente a 30,6 mm), excursión lateral, protrusión y menos problemas de maloclusión significativamente mejores a los 6 meses en comparación con el tratamiento cerrado. Sin embargo, la RAFI se asoció a una tasa de paresia facial temporal del 17% en comparación con el 0% en el grupo cerrado. Este ensayo estableció la superioridad funcional de la RAFI para las fracturas subcondíleas desplazadas pero destacó el riesgo para el nervio facial como la principal complicación.",
+          "wrong": {
+            "A": "El ECA de Eckelt encontró específicamente ventajas funcionales estadísticamente significativas para la RAFI — no equivalencia.",
+            "C": "La RAFI no tuvo peores resultados oclusales — lo contrario es cierto. Los resultados oclusales fueron significativamente mejores con RAFI.",
+            "D": "El ensayo midió resultados funcionales (apertura, excursión, oclusión), no principalmente remodelación condilar. La mejora funcional con RAFI fue el hallazgo clave."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — ECA de Eckelt (2006) es la evidencia de referencia que apoya la RAFI para las fracturas subcondíleas desplazadas",
+          "trial": "Eckelt U et al. Open versus closed treatment of fractures of the mandibular condylar process — a prospective randomized multi-centre study. J Craniomaxillofac Surg (2006): RAFI con mejores resultados funcionales; 17% de paresia facial temporal",
+          "pearl": "ECA de Eckelt 2006: la RAFI gana en función (apertura 39,1 frente a 30,6 mm; mejor oclusión). Pero tiene el coste de un 17% de paresia temporal del NC VII. Este es el ensayo clave que muestra la superioridad funcional de la RAFI para fracturas subcondíleas desplazadas. El riesgo del NC VII es la complicación quirúrgica principal a tratar en el consentimiento."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q7",
+        "stem": "¿Qué configuración de hardware tiene tasas de fallo INACEPTABLES para la RAFI de fracturas del cuello condilar y debe evitarse?",
+        "options": {
+          "A": "Dos miniplacas de 2,0 mm con ≥2 tornillos por segmento",
+          "B": "Una sola miniplaca de 2,0 mm con 2 tornillos por segmento",
+          "C": "Una placa 3D/rejilla con fijación circunferencial",
+          "D": "Una placa de bloqueo de 2,4 mm con 3 tornillos por segmento"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una sola miniplaca de 2,0 mm con solo 2 tornillos por segmento proporciona una estabilidad rotatoria inadecuada para el cuello condilar. El cuello condilar está sometido a fuerzas de torsión significativas durante la función mandibular (por la tracción lateral del pterigoideo medialmente y la carga durante la masticación). Una sola miniplaca con mínimo agarre de tornillos no puede resistir estas fuerzas, resultando en altas tasas de doblado/fallo de la placa (reportado 15-30% con una sola miniplaca). La fijación contemporánea requiere dos miniplacas, una placa 3D/rejilla que proporcione fijación circunferencial, o una placa de bloqueo con ≥3 tornillos por segmento.",
+          "wrong": {
+            "A": "Dos miniplacas de 2,0 mm con fijación adecuada con tornillos proporciona estabilidad rotatoria — fijación aceptable para la RAFI subcondílea.",
+            "C": "Las placas 3D/rejilla proporcionan resistencia rotatoria circunferencial — buena estrategia de fijación para fracturas del cuello condilar.",
+            "D": "Una placa de bloqueo de 2,4 mm con 3 tornillos por segmento proporciona resistencia adecuada de fijación y compromiso del tornillo de bloqueo."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — RAFI del cuello condilar: evitar una sola miniplaca; usar doble miniplaca o placa rejilla; tasas de fallo inaceptables con una sola miniplaca",
+          "trial": "Rasse M et al. Condylar fracture fixation — biomechanical and clinical comparison. J Craniomaxillofac Surg (2001): tasa de fallo de una sola miniplaca del 22% frente al 3% con fijación de doble miniplaca en el cuello condilar",
+          "pearl": "Una sola miniplaca en el cuello condilar = ALTA TASA DE FALLO (~22%). Usar: doble miniplaca (dos placas de 2,0 mm en diferentes ángulos) O placa 3D/rejilla O placa de bloqueo con ≥3 tornillos por segmento. Las fuerzas de torsión del cuello condilar son excepcionalmente elevadas — la fijación rotatoria adecuada es obligatoria."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q8",
+        "stem": "Un niño de 8 años que sufrió una fractura condilar izquierda a los 4 años (tratada de forma conservadora) se presenta en revisión con desviación progresiva del mentón hacia la IZQUIERDA, asimetría facial y mordida cruzada en el lado derecho. ¿Cuál es la causa más probable?",
+        "options": {
+          "A": "Resorción condilar bilateral de causas idiopáticas",
+          "B": "Inhibición del crecimiento mandibular ipsilateral (izquierdo) por daño condilar, con crecimiento contralateral (derecho) continuado que crea una asimetría progresiva",
+          "C": "Hiperplasia condilar contralateral (derecha) por sobrecrecimiento compensatorio",
+          "D": "Apiñamiento dental que causa desplazamiento progresivo de la línea media"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Tras la lesión condilar infantil, el cóndilo dañado puede tener un crecimiento deteriorado — ya sea por lesión directa del cartílago condilar o por la anquilosis que restringe el crecimiento. El cóndilo derecho no afectado continúa el crecimiento normal, y con el tiempo el lado derecho de la mandíbula crece más que el lado izquierdo (lesionado). Esto crea una desviación mandibular ipsilateral (izquierda) progresiva, desplazamiento del mentón a la izquierda y mordida cruzada contralateral (derecha) por el crecimiento mandibular asimétrico. La asimetría empeora durante el período de crecimiento y puede requerir corrección en la madurez esquelética.",
+          "wrong": {
+            "A": "La resorción condilar bilateral causaría acortamiento bilateral de la rama y mordida abierta anterior, no asimetría unilateral. Esta historia es de traumatismo previo unilateral.",
+            "C": "La hiperplasia condilar contralateral es una entidad distinta que causa la asimetría opuesta — desviación del mentón ALEJÁNDOSE del lado hiperplásico. En este caso, el mentón se desvía hacia el lado lesionado.",
+            "D": "El apiñamiento dental no causa asimetría facial progresiva ni mordida cruzada con este patrón. Esta es una asimetría esquelética, no dental."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — fractura condilar infantil a largo plazo: vigilancia obligatoria de la alteración del crecimiento durante todo el crecimiento esquelético; OPG seriada y evaluación facial",
+          "trial": "Proffit WR et al. The child as a patient. En: Proffit WR. Contemporary Orthodontics (2018): la alteración del crecimiento condilar lleva a acortamiento ipsilateral de la rama y asimetría mandibular progresiva",
+          "pearl": "Consecuencia del crecimiento tras fractura condilar infantil: cóndilo lesionado = rama MÁS CORTA → mentón se DESVÍA hacia el lado lesionado → MORDIDA CRUZADA contralateral. La asimetría empeora durante el crecimiento. Vigilar anualmente con OPG y fotografías clínicas. Puede requerir distracción osteogénica de la rama acortada o cirugía ortognática en la madurez esquelética."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D3-Q9",
+        "stem": "Un paciente adulto con fractura subcondílea izquierda desplazada (Spiessl Tipo IV, angulación de 35 grados, cóndilo en la fosa) se somete a RAFI mediante abordaje retromandibular transparotídeo. ¿Qué rama nerviosa tiene mayor riesgo durante este abordaje?",
+        "options": {
+          "A": "Rama temporal del nervio facial",
+          "B": "Nervio auriculotemporal",
+          "C": "Ramas bucal y/o marginal mandibular del nervio facial",
+          "D": "Nervio occipital menor"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El abordaje retromandibular transparotídeo diseca a través de la glándula parótida y, por tanto, requiere identificación y retracción de la división inferior del nervio facial (NC VII), con las ramas bucal y marginal mandibular en riesgo específico durante el acceso a la región subcondílea. La rama marginal mandibular discurre a lo largo del borde inferior de la parótida y sobre el masetero para inervar el depresor del ángulo de la boca — es la que se lesiona con más frecuencia en los abordajes retromandibulares. Las ramas bucales discurren más superiormente a través de la parótida para inervar el buccinador y el orbicular de los labios.",
+          "wrong": {
+            "A": "La rama temporal está en riesgo en los abordajes PREAURICULAR y ENDOSCÓPICO (cruza el arco cigomático superiormente) — no es el principal riesgo del abordaje retromandibular/transparotídeo.",
+            "B": "El nervio auriculotemporal (NC V3) es un nervio sensitivo de la región temporal. Puede cortarse durante cualquier incisión preauricular pero no produce déficit motor.",
+            "D": "El nervio occipital menor inerva la piel del cuero cabelludo posterior — no está en el campo quirúrgico retromandibular."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — abordaje retromandibular transparotídeo: ramas bucal y marginal mandibular del NC VII en riesgo; monitorización intraoperatoria del nervio recomendada",
+          "trial": "Eckelt U et al. J Craniomaxillofac Surg (2006): tasa de paresia facial temporal del 17% en RAFI mediante abordaje retromandibular/transparotídeo; principalmente ramas bucal/marginal mandibular afectadas",
+          "pearl": "Abordaje retromandibular transparotídeo → ramas BUCAL + MARGINAL MANDIBULAR del NC VII en riesgo. Abordaje preauricular → rama TEMPORAL en riesgo. Abordaje submandibular → rama MARGINAL MANDIBULAR en riesgo. Conocer el nervio en riesgo para cada abordaje."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q10",
+        "stem": "Una mujer de 30 años se presenta 3 meses después de una fractura subcondílea derecha tratada de forma conservadora con incapacidad progresiva para abrir la boca (ahora 15 mm), sin dolor, y OPG que muestra calcificación en la región de la ATM derecha. ¿Cuál es la complicación más probable?",
+        "options": {
+          "A": "Hiperplasia condilar",
+          "B": "Anquilosis de ATM por hemartros organizado",
+          "C": "Consolidación retardada de la fractura subcondílea",
+          "D": "Necrosis avascular de la cabeza condilar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La apertura restringida progresiva e indolora (15 mm) con calcificación en la OPG a los 3 meses tras una fractura condilar tratada de forma conservadora es la presentación clásica de la anquilosis post-traumática de la ATM. El hemartros de la fractura se ha organizado en tejido fibroso (anquilosis fibrosa), que ahora se está calcificando (evolucionando hacia anquilosis ósea). La naturaleza indolora de la apertura restringida (a diferencia del doloroso período post-fractura inicial) y el patrón de calcificación en la OPG confirman la anquilosis más que el espasmo muscular agudo o el dolor de fractura continuado. Tratamiento: cirugía (artroplastia con resección o artroplastia interposicional) + fisioterapia agresiva.",
+          "wrong": {
+            "A": "La hiperplasia condilar causa crecimiento excesivo del cóndilo — aumentaría la altura de la rama y causaría mordida cruzada contralateral y desviación del mentón alejándose del lado afectado. No causa apertura restringida.",
+            "C": "La consolidación retardada causaría dolor y movilidad en el foco de fractura, no anquilosis indolora progresiva con calcificación.",
+            "D": "La necrosis avascular (osteonecrosis) de la cabeza condilar mostraría colapso condilar y aplanamiento en TC, no anquilosis calcificante progresiva. La NAV del cóndilo es rara."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — anquilosis post-traumática: mayor riesgo con inmovilización/FIM prolongada; la movilización funcional precoz es la prevención primaria",
+          "trial": "Sawhney CP. Bony ankylosis of the TMJ. Plast Reconstr Surg (1986): anquilosis post-traumática — organización del hemartros a anquilosis fibrosa y luego ósea; la fisioterapia precoz previene en la mayoría de los casos",
+          "pearl": "Anquilosis post-traumática de ATM: apertura restringida INDOLORA progresiva + calcificación en OPG = anquilosis ósea en desarrollo. Mejor prevención = FISIOTERAPIA PRECOZ (semana 1-2 tras la lesión). Tratamiento de la anquilosis establecida = artroplastia con resección + fisioterapia postoperatoria agresiva + injerto interposicional."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q11",
+        "stem": "¿Cuál es el indicador clínico MÁS SENSIBLE de fractura condilar tras traumatismo contundente sobre el mentón?",
+        "options": {
+          "A": "Tumefacción y dolor en la región preauricular",
+          "B": "Desviación de la mandíbula hacia el lado fracturado al abrir",
+          "C": "Maloclusión (mordida abierta anterior o contacto posterior prematuro)",
+          "D": "Trismo y apertura mandibular restringida"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La maloclusión es el indicador clínico único más sensible de fractura condilar. La pérdida de altura condilar por la fractura modifica el plano oclusal: fractura unilateral → contacto posterior prematuro ipsilateral y mordida abierta anterior contralateral; fracturas bilaterales → mordida abierta anterior con contacto posterior bilateral prematuro. Incluso las fracturas condilares sutiles que aparecen 'no desplazadas' en la OPG pueden producir maloclusión que no existía antes de la lesión. Todo paciente con traumatismo facial debe tener su oclusión valorada cuidadosamente — el propio reporte del paciente de cambio en la mordida es altamente fiable.",
+          "wrong": {
+            "A": "La tumefacción y el dolor preauricular se producen con el hemartros pero no son tan específicamente sensibles como la maloclusión. El hemartros significativo puede causar tumefacción sin fractura (desgarro capsular, contusión), y algunas fracturas producen mínima tumefacción preauricular.",
+            "B": "La desviación mandibular al abrir es un signo fiable de fractura condilar unilateral pero está ausente en las fracturas bilaterales donde ambos lados están igualmente afectados. Es menos universalmente sensible que la maloclusión.",
+            "D": "El trismo (apertura restringida) ocurre con cualquier traumatismo masticatorio/dolor muscular y no es específico de fractura condilar. Es menos sensible que el patrón específico de maloclusión."
+          },
+          "guideline": "IASSCMF Consensus (2018) — la maloclusión es el indicador clínico principal de fractura condilar; todos los pacientes traumatizados deben tener la oclusión valorada",
+          "trial": "He D et al. Prevalence of malocclusion in patients with condylar fractures. J Oral Maxillofac Surg (2010): maloclusión presente en el 94% de las fracturas condilares desplazadas; signo clínico más sensible",
+          "pearl": "MALOCLUSIÓN = signo más sensible de fractura condilar. Reporte del paciente de 'los dientes no encajan bien' tras traumatismo en el mentón = fractura condilar hasta no demostrar lo contrario. OPG de inmediato. Revisar la oclusión en TODOS los pacientes con traumatismo facial."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q12",
+        "stem": "¿Cuál es la razón principal por la que las fracturas intracapsulares (de la cabeza condilar) en adultos se tratan generalmente de forma conservadora en lugar de quirúrgica?",
+        "options": {
+          "A": "No son clínicamente significativas y no requieren ningún tratamiento específico",
+          "B": "La cabeza condilar no puede accederse quirúrgicamente adecuadamente sin dañar el disco y las superficies articulares",
+          "C": "El tratamiento conservador produce excelentes resultados gracias a la capacidad de remodelación condilar, y el acceso quirúrgico y la fijación de la cabeza condilar conminuta son técnicamente muy difíciles",
+          "D": "La cirugía está contraindicada porque el hardware de fijación impingiría en la superficie articular"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Las fracturas intracapsulares de la cabeza condilar son típicamente lesiones de aplastamiento conminuto. El tratamiento conservador es preferido porque: (1) la cabeza condilar del adulto conserva cierta capacidad de remodelación y formación de pseudoartrosis funcional; (2) el acceso quirúrgico a la cabeza condilar requiere un abordaje preauricular con movilización del disco, con riesgos significativos de daño discal, anquilosis postoperatoria y desplazamiento discal; (3) la fijación de fragmentos cominutos de la cabeza condilar con miniplacas/tornillos es técnicamente extremadamente difícil dado el pequeño tamaño, el espacio limitado y la geometría 3D compleja. En lesiones intracapsulares muy graves, en última instancia puede requerirse una prótesis articular total, pero se difiere si el tratamiento conservador inicial logra una función aceptable.",
+          "wrong": {
+            "A": "Las fracturas intracapsulares son clínicamente significativas — pueden causar hemartros, apertura restringida y, en última instancia, resorción condilar. Requieren tratamiento conservador activo (fisioterapia, analgesia, vigilancia).",
+            "B": "Aunque el acceso quirúrgico es difícil, técnicamente es posible — pero los riesgos de las complicaciones del abordaje (daño discal, NC VII, anquilosis) en relación con la capacidad de remodelación de la cabeza condilar hacen que el tratamiento conservador sea preferible.",
+            "D": "La impingencia del hardware en la superficie articular es una preocupación válida pero no es la razón principal. La razón principal es la combinación de capacidad de remodelación y dificultad técnica."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — fracturas intracapsulares: tratamiento conservador recomendado en adultos; RAFI solo en circunstancias excepcionales",
+          "trial": "Tominaga K et al. Management of intracapsular condylar fractures. J Oral Maxillofac Surg (2006): el tratamiento conservador logra resultados funcionales satisfactorios en el 85% de las fracturas intracapsulares; tasa de complicaciones de RAFI inaceptablemente alta",
+          "pearl": "Fracturas intracapsulares (cabeza condilar) = tratamiento CONSERVADOR. Los fragmentos conminutos no pueden fijarse quirúrgicamente de manera fiable, y la cabeza condilar conserva capacidad de remodelación. Fisioterapia, dieta blanda, analgesia. Vigilar hemartros y desarrollo de resorción condilar. La prótesis articular total es la opción de rescate si el tratamiento conservador fracasa a largo plazo."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q13",
+        "stem": "Una mujer edéntula de 45 años sufre una fractura subcondílea izquierda (Spiessl Tipo IV) en un accidente de tráfico. Tiene prótesis completa superior bien ajustada y prótesis completa inferior. ¿Qué factor específico hace a esta paciente candidata a RAFI quirúrgica en lugar de tratamiento conservador?",
+        "options": {
+          "A": "Su edad hace que sea menos probable que tolere el tratamiento conservador",
+          "B": "Los pacientes edéntulos no pueden tratarse con FIM y no pueden estabilizarse de forma fiable por medios conservadores",
+          "C": "Los pacientes edéntulos tienen menor densidad ósea, lo que hace que la RAFI sea más efectiva",
+          "D": "Las prótesis completas impiden la valoración de la maloclusión"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El edentulismo es una indicación fuerte reconocida para la RAFI de fracturas condilares en las guías EACMFS/IASSCMF. El fundamento: el tratamiento conservador de fracturas condilares se basa en la dentición para proporcionar retroalimentación oclusal y para permitir una FIM fiable (arcos, tracción elástica) como parte del tratamiento funcional cuando sea necesario. Los pacientes edéntulos carecen de esta referencia oclusal y no pueden manejarse de forma fiable con la FIM convencional. Sin dientes, no hay forma de valorar o corregir la maloclusión durante el tratamiento funcional, y la consolidación viciosa condilar probablemente pasará desapercibida hasta que el ajuste de la prótesis se vea comprometido. La RAFI permite la restauración anatómica y la valoración directa de la posición condilar intraoperatoriamente.",
+          "wrong": {
+            "A": "La edad por sí sola no es una indicación de RAFI. Los pacientes mayores pueden tener excelentes resultados con el tratamiento conservador si son dentados.",
+            "C": "La densidad ósea no es el fundamento de la RAFI en pacientes edéntulos. La incapacidad de usar puntos de referencia dentales para el tratamiento conservador es la razón clave.",
+            "D": "Las prótesis pueden utilizarse como puntos de referencia oclusales hasta cierto grado, pero el problema principal es la imposibilidad de FIM fiable sin dientes."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — pacientes edéntulos: RAFI fuertemente indicada; no se puede lograr un tratamiento conservador fiable sin referencia oclusal dental",
+          "trial": "Assael LA. Open versus closed reduction of adult mandibular condyle fractures: an alternative interpretation of the evidence. J Oral Maxillofac Surg (2003): el edentulismo citado como indicación fuerte de RAFI en todas las guías principales",
+          "pearl": "Paciente edéntulo + fractura condilar = INDICACIÓN DE RAFI. No puede usarse FIM (sin dientes). No puede valorarse la maloclusión de forma fiable. El tratamiento conservador en pacientes edéntulos lleva a consolidación viciosa condilar y problemas de ajuste protésico. Esta es una indicación clásica de RAFI ampliamente evaluada."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q14",
+        "stem": "La clasificación IASSCMF de fracturas condilares divide las fracturas en tres niveles anatómicos (A, B, C). ¿Qué nivel corresponde a una fractura a través del cuello condilar, por encima de la escotadura sigmoidea?",
+        "options": {
+          "A": "Nivel A (intracapsular)",
+          "B": "Nivel B (cuello condilar)",
+          "C": "Nivel C (subcondíleo)",
+          "D": "Nivel D (subcondíleo alto)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La clasificación IASSCMF (2018) define tres niveles de fractura: Nivel A = intracapsular (cabeza condilar), Nivel B = cuello condilar (la porción delgada del cóndilo por encima de la escotadura sigmoidea) y Nivel C = subcondíleo/subcondíleo alto (por debajo de la escotadura sigmoidea). Las fracturas del Nivel B (cuello condilar) son las más frecuentes y las quirúrgicamente más difíciles debido a su ubicación superior, el pequeño tamaño del fragmento y la proximidad a las estructuras articulares.",
+          "wrong": {
+            "A": "El Nivel A es intracapsular — dentro de la cápsula articular, afectando a la propia cabeza condilar.",
+            "C": "El Nivel C es subcondíleo — por debajo de la escotadura sigmoidea, en la región de la rama más amplia. Más hueso disponible para la fijación.",
+            "D": "El Nivel D no existe en la clasificación IASSCMF — solo utiliza tres niveles (A, B, C)."
+          },
+          "guideline": "IASSCMF Consensus Classification (2018) — Nivel A (intracapsular), Nivel B (cuello condilar), Nivel C (subcondíleo)",
+          "trial": "Neff A et al. Validación de la clasificación IASSCMF. Int J Oral Maxillofac Surg (2019): las fracturas del Nivel B (cuello condilar) se asocian a la mayor dificultad quirúrgica y riesgo de NC VII; el Nivel C es más accesible para la RAFI",
+          "pearl": "Niveles IASSCMF: A=intracapsular, B=CUELLO condilar (por encima de la escotadura sigmoidea), C=SUBcondíleo (por debajo de la escotadura sigmoidea). Nivel B = más difícil de fijar. Nivel C = más accesible para RAFI. Nivel A = mayormente conservador."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q15",
+        "stem": "Una paciente con fractura subcondílea bilateral tratada de forma conservadora con dieta blanda y fisioterapia presenta a los 3 meses de seguimiento una mordida abierta anterior persistente de 4 mm con apertura máxima de 32 mm. Está insatisfecha con su mordida y con la dificultad para masticar. ¿Cuál es el siguiente paso más adecuado?",
+        "options": {
+          "A": "Tranquilizarla indicando que se espera una mejoría espontánea adicional; continuar el tratamiento conservador durante otros 12 meses",
+          "B": "Programar RAFI bilateral de las fracturas subcondíleas consolidadas",
+          "C": "Considerar la corrección quirúrgica ortognática una vez confirmada la consolidación ósea y remodeladas las fracturas",
+          "D": "Prótesis total bilateral de ATM para la maloclusión"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A los 3 meses, las fracturas están probablemente en fase de consolidación tardía/inicio de consolidación. La mordida abierta anterior persistente de 4 mm representa una consolidación viciosa condilar con acortamiento vertical de la rama. La RAFI tardía de fracturas subcondíleas ya consolidadas no está rutinariamente recomendada y es técnicamente difícil (disección a través de tejido fibroso cicatricial establecido). El enfoque establecido es permitir que la consolidación ósea se complete completamente (típicamente 6-9 meses), confirmar la unión con CBCT, y luego abordar la maloclusión residual y la deformidad esquelética con cirugía ortognática (típicamente Le Fort I para cerrar la mordida abierta anterior y BSSO/genioplastia si es necesario). Este es el algoritmo estándar para la maloclusión post-traumática tras la consolidación viciosa condilar.",
+          "wrong": {
+            "A": "Aunque la remodelación continúa, una MOA de 4 mm con síntomas funcionales a los 3 meses indica una consolidación viciosa significativa que requiere planificación activa. Simplemente esperar otros 12 meses sin un plan definitivo no es adecuado.",
+            "B": "La RAFI bilateral de fracturas ya consolidadas a los 3 meses es técnicamente muy difícil, requiriendo osteotomía a través de hueso consolidado y tejido cicatricial. No es práctica estándar — conlleva mayores tasas de complicaciones que la RAFI primaria.",
+            "D": "La prótesis articular total no está indicada en esta paciente que tiene cóndilos intactos. El problema es la consolidación viciosa que causa maloclusión, no enfermedad articular que requiera sustitución."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — maloclusión post-traumática por consolidación viciosa condilar: permitir que la consolidación se complete, luego corrección ortognática",
+          "trial": "Ellis E et al. Outcome of patients treated for bilateral condylar fractures. J Oral Maxillofac Surg (2000): 18% de maloclusión persistente tras tratamiento conservador de fractura condilar bilateral; cirugía ortognática necesaria para corrección",
+          "pearl": "MOA persistente tras consolidación viciosa de fractura condilar bilateral → CIRUGÍA ORTOGNÁTICA (Le Fort I de reposicionamiento superior + BSSO) tras confirmar la consolidación (6-9 meses). NO RAFI tardía (demasiado difícil técnicamente entre cicatrices). NO RTT (no hay enfermedad articular). Permitir la consolidación completa, luego corregir la deformidad esquelética residual."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D3-Q16",
+        "stem": "¿Qué modalidad de imagen se recomienda como exploración de PRIMERA LÍNEA para una fractura condilar sospechada, y cuándo debe añadirse la TC?",
+        "options": {
+          "A": "RMN de primera línea; TC solo si se necesita detalle óseo",
+          "B": "OPG de primera línea; CBCT o TC cuando se planifica tratamiento quirúrgico o cuando la fractura se sospecha pero no es claramente visible en la OPG",
+          "C": "TC de primera línea para todas las fracturas condilares sospechadas independientemente de la presentación clínica",
+          "D": "Radiografía oblicua lateral de primera línea; TC nunca indicada para fracturas condilares"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La OPG (ortopantomografía) es el método de imagen de primera línea recomendado para las fracturas condilares sospechadas — proporciona una visión general de todas las fracturas mandibulares en una sola imagen, está ampliamente disponible, tiene baja dosis y detecta la mayoría de las fracturas condilares. La CBCT o TC multicorte se añade cuando: (1) se está planificando tratamiento quirúrgico (obligatorio para la planificación quirúrgica 3D), (2) la OPG es inconcluyente pero la sospecha clínica sigue siendo alta, (3) se sospecha una fractura intracapsular (la OPG no detecta muchas fracturas intracapsulares), o (4) el desplazamiento significativo requiere caracterización 3D. No todas las fracturas condilares requieren TC — las fracturas no desplazadas confirmadas en OPG en pacientes tratados de forma conservadora pueden no necesitar TC.",
+          "wrong": {
+            "A": "La RMN no es de primera línea para fracturas condilares — es útil para la valoración de tejidos blandos (disco, derrame articular) pero no para el diagnóstico de fractura ósea donde la TC es superior.",
+            "C": "La TC para todas las fracturas condilares sospechadas es excesiva y aumenta innecesariamente la dosis de radiación. OPG primero, TC de forma selectiva.",
+            "D": "Las radiografías oblicuas laterales están prácticamente en desuso en la práctica moderna. La OPG proporciona información superior."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — OPG de primera línea; TC/CBCT para planificación quirúrgica u OPG inconcluyente",
+          "trial": "Neff A et al. Revisión sistemática del tratamiento de fracturas condilares. J Oral Maxillofac Surg (2014): OPG sigue siendo el estándar de primera línea; la TC añade información 3D crítica para la planificación quirúrgica pero no es necesaria para todos los casos tratados de forma conservadora",
+          "pearl": "IMAGEN: OPG PRIMERO → si quirúrgica/dudosa → TC/CBCT. Las fracturas intracapsulares se detectan con frecuencia en OPG (superposición del peñasco) — hacer siempre TC si se sospecha intracapsular. Planificación quirúrgica: TC obligatoria para planificación quirúrgica virtual y selección del hardware."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q17",
+        "stem": "La FIM prolongada (6 semanas) en el tratamiento de las fracturas condilares se asocia específicamente a qué complicación grave?",
+        "options": {
+          "A": "Formación de sialocele parotídeo",
+          "B": "Anquilosis de ATM por hemartros inmovilizado",
+          "C": "Hiperplasia condilar",
+          "D": "Neuropraxia del nervio alveolar inferior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fijación intermaxilar (FIM) prolongada impide el movimiento mandibular, permitiendo que el hemartros dentro de la ATM se organice en tejido fibroso. Este tejido fibroso puede calcificarse y osificarse, produciendo anquilosis ósea de ATM — una complicación devastadora que requiere cirugía mayor para su liberación. Este riesgo es mayor en niños (organización más rápida del hemartros) y en pacientes con hemartros significativo. Las guías contemporáneas recomiendan específicamente la movilización funcional precoz y limitan la FIM a un máximo de 5–10 días cuando se usa para fracturas condilares.",
+          "wrong": {
+            "A": "El sialocele parotídeo es una complicación de los abordajes quirúrgicos a través de la glándula parótida — no de la FIM. Resulta de la disrupción del conducto parotídeo durante los abordajes transparotídeos.",
+            "C": "La hiperplasia condilar es un trastorno de crecimiento óseo autónomo, no causado por la FIM. Produce un crecimiento condilar excesivo.",
+            "D": "La neuropraxia del nervio alveolar inferior se asocia a abordajes quirúrgicos, inyecciones o compresión — no a la FIM."
+          },
+          "guideline": "IASSCMF Consensus (2018) y EACMFS Condylar Fracture Guidelines (2021) — FIM prolongada contraindicada en el tratamiento de fracturas condilares; máximo 5-10 días si se usa",
+          "trial": "Sawhney CP. Plast Reconstr Surg (1986): la FIM prolongada identificada como principal factor de riesgo prevenible de anquilosis post-traumática de ATM; la movilización precoz reduce el riesgo del 15% al <5%",
+          "pearl": "FIM prolongada tras fractura condilar = riesgo de ANQUILOSIS de ATM. Esta es la respuesta clásica del examen. FIM máxima: 5-10 días. Fisioterapia precoz: semana 1-2. El hemartros se organiza rápidamente — la inmovilización permite que se convierta en anquilosis fibrosa y luego ósea. En niños especialmente: NUNCA FIM prolongada."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D3-Q18",
+        "stem": "¿Cuál de los siguientes NO es una indicación absoluta de RAFI de una fractura condilar según las guías EACMFS 2021?",
+        "options": {
+          "A": "Luxación condilar hacia la fosa craneal media",
+          "B": "Luxación condilar hacia el conducto auditivo externo",
+          "C": "Fractura subcondílea con angulación de 30 grados y cóndilo permaneciendo en la fosa glenoidea en un adulto dentado",
+          "D": "Imposibilidad de rehabilitación oclusal por medios conservadores"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Una fractura subcondílea con angulación de 30 grados pero cóndilo permaneciendo en la fosa glenoidea (no luxado) en un adulto dentado es una indicación RELATIVA, no absoluta, de RAFI. Las guías EACMFS 2021 enumeran las indicaciones absolutas como: luxación condilar hacia la fosa craneal media, luxación condilar hacia el conducto auditivo externo e imposibilidad de rehabilitación oclusal. Las indicaciones fuertes pero relativas de RAFI incluyen: cóndilo completamente fuera de la fosa (Spiessl V), fracturas condilares bilaterales con mordida abierta anterior, desplazamiento >45° y pacientes edéntulos. Una angulación de 30 grados sin luxación puede manejarse de forma conservadora en pacientes adultos dentados seleccionados.",
+          "wrong": {
+            "A": "La luxación condilar hacia la fosa craneal media SÍ es una indicación absoluta de RAFI — el cóndilo ha penetrado a través del techo de la fosa glenoidea hacia el espacio intracraneal, que no puede manejarse de forma conservadora.",
+            "B": "La luxación condilar hacia el conducto auditivo externo SÍ es una indicación absoluta de RAFI — representa la penetración a través de la pared anterior del CAE con riesgo de meningitis y daño permanente del CAE.",
+            "D": "La imposibilidad de rehabilitación oclusal (p. ej., en pacientes edéntulos) SÍ es una indicación absoluta de RAFI — el tratamiento conservador es imposible sin puntos de referencia dentales."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — indicaciones absolutas de RAFI: luxación en fosa craneal, luxación en CAE, rehabilitación oclusal imposible. Desplazamiento de 30° = indicación RELATIVA fuerte únicamente.",
+          "trial": "Neff A et al. Consenso de guías EACMFS sobre fracturas condilares. J Craniomaxillofac Surg (2014): umbral de 45° para indicación fuerte de RAFI; 30° puede manejarse de forma conservadora en pacientes dentados",
+          "pearl": "Indicaciones ABSOLUTAS de RAFI (EACMFS 2021): (1) luxación en fosa craneal, (2) luxación en CAE, (3) rehabilitación oclusal conservadora imposible. RELATIVA FUERTE: Spiessl V (totalmente luxado), bilateral con MOA, edéntulo, desplazamiento >45°. Angulación de 30° en adulto dentado = indicación RELATIVA únicamente."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D3-Q19",
+        "stem": "Un hombre de 32 años se somete a RAFI de una fractura subcondílea derecha mediante abordaje retromandibular. En el postoperatorio desarrolla una tumefacción inferior a la oreja derecha que aumenta al comer. Se puede expresar saliva de la misma. ¿Cuál es la complicación probable?",
+        "options": {
+          "A": "Hematoma de la herida",
+          "B": "Sialocele parotídeo",
+          "C": "Hemorragia de la arteria temporal superficial",
+          "D": "Enfisema subcutáneo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un sialocele es una acumulación de saliva en el espacio subcutáneo tras la disrupción de la glándula parótida o su conducto. Las características típicas son: tumefacción blanda que aumenta específicamente con las comidas (la producción de saliva aumenta al comer), saliva clara/paja espontánea o expresable de la tumefacción, y localización consistente con la región parotídea. El abordaje retromandibular transparotídeo requiere incisión a través de la glándula parótida, con riesgo de disrupción del conducto o acinos parotídeos. Tratamiento: aspiraciones repetidas, vendaje compresivo y agentes anticolinérgicos (escopolamina) para reducir la secreción salival. La mayoría se resuelven espontáneamente; los sialoceles persistentes pueden requerir inyección de toxina botulínica en la parótida.",
+          "wrong": {
+            "A": "Un hematoma se presenta inmediatamente en el postoperatorio con una tumefacción firme y dolorosa y no aumenta característicamente con las comidas.",
+            "C": "La hemorragia de la arteria temporal superficial sería una hemorragia arterial — aguda, no tardía, y no relacionada con la ingesta.",
+            "D": "El enfisema subcutáneo se presenta como crepitación a la palpación y no aumenta con las comidas ni expresa saliva."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — sialocele: complicación reconocida del abordaje transparotídeo; tratamiento: aspiración + compresión + anticolinérgicos",
+          "trial": "Rasse M. Condylar fracture ORIF complications. J Craniomaxillofac Surg (2001): tasa de sialocele del 3-7% tras RAFI retromandibular transparotídea; casi todos se resuelven con tratamiento conservador",
+          "pearl": "SIALOCELE parotídeo tras abordaje transparotídeo: tumefacción que aumenta AL COMER + expresa saliva. Tratamiento: aspiración repetida + vendaje compresivo + anticolinérgicos (escopolamina/botox si persiste). La mayoría se resuelven espontáneamente. NO es hematoma (sin aumento con la ingesta) — el aumento con la ingesta es patognomónico."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D3-Q20",
+        "stem": "El estudio de seguimiento a 25 años de Lindqvist et al. (1992) de fracturas condilares tratadas de forma conservadora encontró que qué porcentaje de pacientes tenía resultados funcionales aceptables?",
+        "options": {
+          "A": "50%",
+          "B": "70%",
+          "C": "87%",
+          "D": "99%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El estudio a largo plazo de referencia de Lindqvist et al. (1992) siguió 50 fracturas condilares durante 25 años tras el tratamiento conservador. El estudio encontró: (1) remodelación condilar radiográfica en todos los casos, (2) el 87% tenía resultados funcionales aceptables a largo plazo, y (3) el 13% tenía maloclusión persistente y apertura restringida a los 25 años. Este estudio estableció que el tratamiento conservador produce buenos resultados en la mayoría de los pacientes, pero una minoría significativa (13%) tiene disfunción persistente — proporcionando la base de evidencia para la RAFI selectiva en fracturas de mayor riesgo.",
+          "wrong": {
+            "A": "El 50% indicaría una tasa de fracaso muy alta — esto no es consistente con los datos publicados.",
+            "B": "El 70% es demasiado bajo; el resultado real fue del 87% de resultados aceptables.",
+            "D": "El 99% sugeriría resultados casi perfectos del tratamiento conservador — la tasa del 13% de disfunción persistente hace que esto sea incorrecto."
+          },
+          "guideline": "EACMFS Condylar Fracture Guidelines (2021) — estudio de Lindqvist 1992: evidencia a largo plazo de referencia para los resultados del tratamiento conservador",
+          "trial": "Lindqvist C et al. Condylar fractures: a prospective 25-year study. Br J Oral Maxillofac Surg (1992): 87% de resultados funcionales buenos/aceptables a largo plazo; 13% de disfunción persistente tras tratamiento conservador",
+          "pearl": "Lindqvist 1992: seguimiento a 25 años del tratamiento conservador de fractura condilar: 87% de buenos resultados/aceptables, 13% de disfunción persistente. Esta tasa de fracaso del 13% justifica la RAFI selectiva para las fracturas condilares de alto riesgo (desplazadas/luxadas). Memorizar este número."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

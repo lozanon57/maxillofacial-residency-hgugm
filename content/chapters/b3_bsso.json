@@ -1,0 +1,682 @@
+{
+  "id": "B3",
+  "title": "Bilateral Sagittal Split Osteotomy (BSSO)",
+  "subtitle": "Block B — Orthognathic and Skeletal Surgery",
+  "block": "B",
+  "block_name": "Orthognathic and Skeletal Surgery",
+  "level": "R3-5",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · AAOMS Parameters of Care 2023 · BAOMS Clinical Guidelines 2022",
+  "textbook_refs": [
+    "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003)",
+    "Trauner R, Obwegeser H. The surgical correction of mandibular prognathism and retrognenia. Oral Surg Oral Med Oral Pathol (1957)",
+    "Dal Pont G. Retromolar osteotomy for the correction of prognathism. J Oral Surg (1961)",
+    "Hunsuck EE. A modified intraoral sagittal splitting technique for correction of mandibular prognathism. J Oral Surg (1968)",
+    "Epker BN. Modifications in the sagittal osteotomy of the mandible. J Oral Maxillofac Surg (1977)",
+    "Obwegeser HL. Surgical correction of small or retrodisplaced maxillae. Plast Reconstr Surg (1969)"
+  ],
+  "learning_objectives": [
+    "Describe the anatomical basis of BSSO and the course of the inferior alveolar nerve within the sagittal split",
+    "Explain the Obwegeser-Dal Pont modification and its advantages over the original technique",
+    "Identify risk factors for bad splits and describe intraoperative management",
+    "Compare positional screws and miniplate fixation in terms of condylar position control",
+    "Manage condylar torque and sag and their effects on occlusal outcome",
+    "Counsel patients appropriately regarding inferior alveolar nerve injury rates and recovery prognosis"
+  ],
+  "sections": [
+    {
+      "id": "B3-S1",
+      "title": "Historical Development and Anatomical Principles",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The sagittal split osteotomy of the mandible was first described by **Trauner and Obwegeser** in 1957, representing a landmark advance in orthognathic surgery. The original technique placed the medial cut on the lingual surface of the ramus and the lateral cut through the external oblique ridge, creating a sagittal fracture that allowed the distal segment bearing the dentition to be repositioned. **Dal Pont** modified the technique in 1961 by extending the lateral osteotomy anteriorly along the external oblique ridge to the first molar region, significantly increasing the bony contact surface area and improving stability of fixation. The **Hunsuck modification** (1968) shortened the medial cut to just beyond the lingula, reducing risk of injury to the inferior alveolar neurovascular bundle. **Epker** (1977) further refined the technique by adding a vertical stop cut in the buccal cortex posterior to the first molar, creating the contemporary Obwegeser-Dal Pont-Epker variant used today.\n\nThe anatomical basis of BSSO relies on the unique structure of the mandibular ramus: a medullary core of cancellous bone between two cortical plates that allows controlled sagittal fracture when properly executed. The **lingual** (proximal) segment retains the mandibular condyle and articular structures; the **distal** (tooth-bearing) segment is repositioned to correct the jaw relationship. The inferior alveolar nerve enters the mandibular foramen just below the lingula and runs within the cancellous bone of the ramus and body. The key to safe BSSO is keeping the nerve within the distal segment throughout the split, protecting it from the osteotome as it traverses the medullary space."
+        },
+        {
+          "type": "table",
+          "title": "BSSO Technique Evolution: Key Modifications",
+          "headers": ["Author", "Year", "Modification", "Advantage"],
+          "rows": [
+            ["Trauner & Obwegeser", "1957", "Original sagittal split, lingual and lateral cuts", "First intraoral technique; avoids facial incision"],
+            ["Dal Pont", "1961", "Extended lateral cut anterior to external oblique ridge (to 1st molar)", "Increased bony contact; better stability; more movement range"],
+            ["Hunsuck", "1968", "Shortened medial cut — stops just past lingula", "Reduces IAN injury risk; preserves medial periosteum"],
+            ["Epker", "1977", "Added vertical buccal stop cut posterior to 1st molar", "Controls split terminus; reduces bad splits; most widely used today"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Dal Pont Modification",
+          "content": "The Dal Pont modification (1961) extends the lateral cortical cut along the external oblique ridge to the region of the first molar. This increases the surface area of bony contact between proximal and distal segments by approximately 3-fold compared to the original Obwegeser technique, improving postoperative stability and allowing greater freedom of movement."
+        }
+      ]
+    },
+    {
+      "id": "B3-S2",
+      "title": "Inferior Alveolar Nerve Anatomy and Protection",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **inferior alveolar nerve (IAN)** is the critical structure at risk in BSSO. It enters the mandibular canal via the mandibular foramen, located on the medial surface of the ramus approximately at the level of the mandibular occlusal plane, just superior and anterior to the **lingula** (the bony spine overlying the foramen). The nerve runs anteriorly within the cancellous bone of the mandibular body, typically 5–10 mm below the apices of the posterior teeth, eventually exiting as the mental nerve at the mental foramen (between premolars, usually below the apex of the second premolar).\n\nDuring BSSO, the medial (lingual) cut is made superior to the lingula and the mandibular foramen to ensure the IAN enters the distal segment with the teeth. After the split, the nerve should lie on the periosteum of the distal segment in the mandibular canal. Nerve exposure during splitting is common (up to 60–80% of cases intraoperatively) and does not necessarily indicate injury — gentle handling and avoidance of stretch, compression, and thermal injury are the goals.\n\nThe **neurosensory deficits** following BSSO are the most clinically significant complication. **Temporary hypoaesthesia** (altered sensation in the lower lip and chin distribution of the mental nerve) occurs in virtually all patients postoperatively (75–100%) due to stretch and manipulation. Rates of **permanent neurosensory disturbance** (defined as abnormal objective testing at 12–24 months) range from **5 to 35%** depending on technique, movement direction and magnitude, and follow-up rigour. Patient-reported permanent numbness is reported in 5–15% of cases in contemporary series. Risk factors include large advancements (>10 mm), inferior repositioning, high canal position on preoperative CT, and intraoperative nerve exposure with compression."
+        },
+        {
+          "type": "table",
+          "title": "IAN Injury After BSSO: Risk Factors and Rates",
+          "headers": ["Factor", "Low Risk", "High Risk", "Mechanism"],
+          "rows": [
+            ["Movement type", "Setback <6 mm", "Advancement >10 mm / inferior repositioning", "Nerve stretch in advancement; compression in setback"],
+            ["Canal position", "Well below apices", "High canal position (close to apices)", "Less cancellous buffer; direct osteotomy injury"],
+            ["Split type", "Clean greenstick split", "Bad split through canal region", "Direct nerve laceration or compression"],
+            ["Fixation method", "Miniplates (rigid)", "Excessive positional screw torque", "Compression of nerve in canal by over-tightened screws"],
+            ["Surgeon experience", ">50 cases/year", "Low-volume surgeons", "Technical precision; recognition of nerve exposure"],
+            ["Temporary deficit rate", "—", "75–100% all patients", "Stretch/neuropraxia; most resolve by 3–6 months"],
+            ["Permanent deficit rate", "5–10% (mild disturbance)", "Up to 35% (objective testing)", "Axonotmesis; recovery over 12–18 months"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Medial Cut Placement",
+          "content": "Placing the medial (lingual) cut too inferiorly — below the level of the lingula and mandibular foramen — risks cutting through the mandibular canal and directly transecting the IAN. The medial cut must be made superior to the lingula (above the foramen) to ensure the nerve enters the distal segment. Confirm correct level with periosteal elevation and direct visualisation before osteotomy."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Preoperative Nerve Mapping",
+          "content": "Preoperative CBCT or CT scanning allows identification of the mandibular canal trajectory, its proximity to tooth apices, and canal position relative to the planned osteotomy line. High canal position (canal within 2 mm of the proposed osteotomy) increases IAN injury risk and should be discussed with the patient during informed consent, with documentation of the risk in the medical record."
+        }
+      ]
+    },
+    {
+      "id": "B3-S3",
+      "title": "Surgical Technique: Step-by-Step",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "BSSO is performed under general anaesthesia via nasotracheal intubation, which allows intraoperative assessment of occlusion and splint seating. The patient is positioned supine with slight head elevation (reverse Trendelenburg 10–15°) to reduce venous congestion.\n\n**Incision and exposure:** A mucoperiosteal incision is made along the anterior border of the ramus, extending from the external oblique ridge (approximately the level of the first or second molar) superiorly into the retromolar region and anteriorly 1–2 cm along the buccal vestibule. Subperiosteal dissection exposes the medial surface of the ramus (above and around the lingula), the posterior border of the ramus, and the lateral surface along the external oblique ridge to the first molar region.\n\n**Medial (lingual) cut:** Using a reciprocating saw or bur, a horizontal cut is made on the medial surface of the ramus, starting just above the level of the lingula and extending posteriorly. The cut must be confined to the medial cortex (approximately 2–3 mm depth), not entering the medullary space prematurely. This cut should terminate approximately at the midpoint of the ramus anteroposteriorly.\n\n**Lateral (buccal) cut:** The external oblique ridge is cut vertically with a reciprocating saw from the buccal vestibule at the level of the first molar posteriorly toward the angle. This cut extends through the full thickness of the buccal cortex.\n\n**Connecting cut:** A vertical osteotomy connects the medial and lateral cuts at the anterior ramus/external oblique junction, completing the three-dimensional osteotomy design.\n\n**Splitting:** Sequential thin osteotomes — starting with a 4 mm instrument and progressing to a 12–15 mm spreader — are introduced into the osteotomy and turned to gently propagate the fracture through the medullary bone. The osteotome tip follows the cancellous layer, not the cortex; vision is important to verify the nerve remains on the distal segment. Splitting proceeds symmetrically with careful pressure, avoiding forceful levering that produces bad splits.\n\n**Repositioning and fixation:** The distal segment is moved to the planned position using the surgical splint as a guide, and the condyles are seated. Rigid fixation is applied with either **positional bicortical screws** (2 or 3 per side, placed in an L or inverted-L pattern) or **miniplates** (1 or 2 per side). Final occlusal verification and removal of the surgical splint complete the procedure."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Osteotome Sequence",
+          "content": "Splitting must begin with small (4 mm) osteotomes to initiate the fracture plane, progressing to larger spreaders. The osteotome should always be directed along the medullary cancellous bone, never forced apically through dense cortical bone. Palpating the lingual cortex as the split propagates confirms the fracture is proceeding in the correct sagittal plane within the cancellous space."
+        }
+      ]
+    },
+    {
+      "id": "B3-S4",
+      "title": "Split Patterns and Bad Splits",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The ideal BSSO split results in the **lingual cortex fracturing as a single piece with the proximal condyle-bearing segment**, while the **buccal cortex and tooth-bearing segment form the distal piece**. In this optimal pattern, a generous layer of cancellous bone remains on both segments, maximising contact area for healing and fixation.\n\nA **bad split** (unfavourable fracture) occurs when the osteotomy propagates outside the intended sagittal plane, producing inadvertent fracture lines that compromise bone contact, condylar position, or nerve integrity. The incidence of bad splits varies from 0.5 to 3.5% in large series. Reported patterns include:\n\n- **Lingual plate fracture (most common):** The lingual cortex fractures separately, reducing bone contact area on the proximal segment. If the proximal fragment includes a large piece of lingual bone, it may need to be fixed separately.\n- **Buccal plate fracture:** Less common; occurs when the external oblique ridge splits buccally, especially with dense cortical bone or excessive force.\n- **Condylar fracture:** Rare but most serious — if the fracture extends into the condylar neck, the case must be abandoned or converted, and rigid fixation applied to the condylar fragment. Tracheostomy and close monitoring are required.\n- **Greenstick fracture:** Incomplete split with retained periosteal attachment; usually manageable with completion of the osteotomy.\n\n**Risk factors for bad splits** include patients with dense cortical bone (males, older patients, patients on bisphosphonates), narrow mandibles, previous mandibular surgery, and poorly visualised medullary anatomy. **Preoperative CBCT** identifies high-risk anatomy (thick cortical bone, absent or narrow medullary space) and allows modified technique planning (shorter medial cut, softer osteotome pressure).\n\n**Intraoperative management:** Minor bad splits are managed by completing the osteotomy gently and applying additional fixation screws or plates to stabilise all fragments. If a condylar fracture occurs, the case should not proceed with planned movement; instead, fragments are fixed in situ, a period of MMF or skeletal fixation is applied, and orthognathic surgery is deferred 3–6 months."
+        },
+        {
+          "type": "table",
+          "title": "Bad Split Patterns: Classification and Management",
+          "headers": ["Pattern", "Incidence", "Cause", "Management"],
+          "rows": [
+            ["Lingual plate fracture", "Most common (1–2%)", "Dense bone, excessive osteotome force", "Complete split; add supplementary fixation screw to lingual fragment"],
+            ["Buccal plate fracture", "0.3–0.5%", "Excessive lateral pressure; dense external oblique ridge", "Fix buccal fragment; may reduce contact area"],
+            ["Condylar fracture", "0.1–0.3%", "Fracture propagates to condylar neck", "Abandon movement; fix all fragments; defer orthognathic surgery 3–6 months"],
+            ["Greenstick fracture", "1–3%", "Incomplete periosteal release; soft bone", "Complete osteotomy; usually no additional fixation needed"],
+            ["Tooth root damage", "0.5–1%", "Lateral osteotomy too anterior; high apices", "Endodontic evaluation; monitor; rarely symptomatic"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Forcing the Osteotome",
+          "content": "Applying forceful levering motion to complete a resistant split is the most common cause of bad splits. If the fracture does not propagate freely with gentle 3-point osteotome pressure, check: (1) all three osteotomy cuts are complete and connected, (2) the lateral cut is deep enough, (3) dense cortical lingual bone may need additional bur work. Never apply sudden torque — this propagates uncontrolled fracture lines to the condylar neck."
+        }
+      ]
+    },
+    {
+      "id": "B3-S5",
+      "title": "Fixation: Positional Screws versus Miniplates",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Two principal fixation methods are used in contemporary BSSO: **bicortical positional screws** and **monocortical miniplates**. Each has specific advantages and disadvantages relating to rigidity, condylar position control, technique difficulty, and reversibility.\n\n**Bicortical positional screws** (typically 2.0 mm diameter, 12–18 mm length; usually 3 per side in an inverted-L pattern) engage both cortices and provide high stability with minimal hardware profile. Screws can be placed transbuccally using a trocar system. However, screw placement through both cortices carries risk of IAN compression within the canal if placed too inferiorly or over-tightened. Screw fixation provides **passive compression** of the bony interface, excellent union rates, and lower relapse than plate-only fixation in most studies. The major disadvantage is the inability to adjust condylar position after fixation without removing and replacing screws — condylar sag must be corrected before screw insertion.\n\n**Monocortical miniplates** (typically 2.0 mm system, L-plate or strut plate) engage only the outer cortex and are placed with shorter, monocortical screws. Plates are technically easier to apply and allow adjustment of condylar position during fixation. They carry slightly higher relapse rates in some studies due to lower rigidity, though meta-analyses show no statistically significant difference in skeletal stability for Class III setbacks. Plates avoid IAN compression risk from bicortical screws. They are preferred in Class II advancements where condylar position control during fixation is more critical.\n\nA **Cochrane systematic review (Joss and Thüer 2008, updated)** found no clear superiority of screws versus plates in terms of skeletal stability or complication rates for Class III correction. Current practice at many centres uses **3 bicortical screws for setback** and **miniplates for advancement** (Class II) to optimise condylar seating during the more demanding anterior movement."
+        },
+        {
+          "type": "table",
+          "title": "BSSO Fixation: Positional Screws vs Miniplates",
+          "headers": ["Parameter", "Bicortical Screws", "Monocortical Miniplates"],
+          "rows": [
+            ["Rigidity", "Higher (bicortical purchase)", "Moderate (monocortical only)"],
+            ["IAN compression risk", "Yes — if placed inferiorly or over-torqued", "No — monocortical, away from canal"],
+            ["Condylar position", "Fixed at moment of screw insertion — no adjustment", "Adjustable during plate bending and fixation"],
+            ["Skeletal stability", "Equivalent or slightly better in setback", "Equivalent in most meta-analyses"],
+            ["Preferred indication", "Class III setback (≤8 mm)", "Class II advancement; any case with condylar position concern"],
+            ["Hardware removal", "Rarely required; low profile", "May need removal if prominent or palpable"],
+            ["Technique difficulty", "Requires accurate condylar seating before fixation", "More forgiving of condylar position during application"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Condylar Sag",
+          "content": "Condylar sag occurs when the condyle drops inferiorly within the glenoid fossa during fixation, typically due to muscle fatigue or gravity. If screws are inserted with the condyle in the sagged position, the patient will present postoperatively with an open bite on the contralateral side (premature contact on the ipsilateral side). Manually seating the condyle superiorly into the fossa immediately before each screw tightening prevents this complication."
+        }
+      ]
+    },
+    {
+      "id": "B3-S6",
+      "title": "BSSO for Class II and Class III Correction",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "BSSO can be used for both **Class II** (mandibular retrognathia, advancement) and **Class III** (mandibular prognathia, setback) corrections, either as a single-jaw procedure or combined with Le Fort I osteotomy in bimaxillary surgery.\n\n**Class II advancement (BSSO advancement):** Mandibular advancement is the most common indication for BSSO in adults, typically for skeletal Class II malocclusion with SNB <76° and overjet >6 mm. Stability is **movement-magnitude dependent**: advancements ≤5 mm are stable (relapse <5%), while advancements >8 mm carry 10–20% skeletal relapse rates at 1 year. Advancements >10 mm carry significant relapse risk and are better managed with **distraction osteogenesis** (DO). Combined bimaxillary surgery (Le Fort I + BSSO) distributes the movement between jaws, reducing relapse risk for each individual movement. **Condylar torque** is a specific complication of advancement: if the proximal segment is not properly seated, the condyle may be rotated medially (inward torque) or laterally (outward torque), producing asymmetric condylar loading and long-term temporomandibular dysfunction or relapse.\n\n**Class III setback (BSSO setback):** Mandibular setback corrects prognathism (ANB <0°, positive Wits appraisal reversal). Setback ≤5–6 mm achieves excellent stability (relapse <3–5%). Setbacks >8 mm carry 15–30% skeletal relapse at 1 year, and setbacks >10 mm are associated with high relapse and airway effects (posterior repositioning of tongue base, increased upper airway resistance). **Sagittal split setback decreases posterior airway space** — this is a critical consideration in patients with existing OSA or borderline airway. Preoperative sleep study should be considered for large setbacks.\n\n**Nerve injury** rates differ by movement type: advancement stretches the IAN over longer distances and produces higher rates of neurosensory disturbance (up to 40% at 6 months) compared to setback (20–25% at 6 months). Recovery is typically complete by 12–18 months in 80–90% of affected patients."
+        },
+        {
+          "type": "table",
+          "title": "BSSO Stability: Movement Direction and Magnitude",
+          "headers": ["Movement", "Magnitude", "Relapse Rate (1 year)", "Notes"],
+          "rows": [
+            ["Advancement (Class II)", "≤5 mm", "<5%", "Most stable; preferred magnitude"],
+            ["Advancement (Class II)", "5–8 mm", "5–15%", "Moderate risk; bimaxillary may distribute load"],
+            ["Advancement (Class II)", ">8–10 mm", "15–25%", "High risk; consider DO or bimaxillary surgery"],
+            ["Setback (Class III)", "≤6 mm", "<5%", "Very stable"],
+            ["Setback (Class III)", "6–10 mm", "10–20%", "Consider bimaxillary surgery to reduce per-jaw movement"],
+            ["Setback (Class III)", ">10 mm", "20–35%", "High relapse; airway effects; consider DO"],
+            ["Asymmetry correction", "≤4 mm", "<10%", "Greater relapse with larger asymmetric movements"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Airway Effects of BSSO Setback",
+          "content": "BSSO mandibular setback moves the tongue base posteriorly, reducing the posterior airway space by 2–5 mm on average. In patients with obstructive sleep apnoea (OSA), large BSSO setback can worsen AHI significantly. Preoperative polysomnography should be performed when Class III setback >7 mm is planned in patients with snoring, obesity (BMI >30), or neck circumference >40 cm. Maxillomandibular advancement (MMA) is the preferred orthognathic approach when OSA coexists with Class III malocclusion from maxillary hypoplasia."
+        }
+      ]
+    },
+    {
+      "id": "B3-S7",
+      "title": "Complications, Outcomes, and Long-Term Follow-Up",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "BSSO carries a complication rate of approximately 10–20% in large series, with neurosensory disturbance being the most common. A systematic classification of complications is essential for counselling and management.\n\n**Nerve-related complications:** Temporary IAN/mental nerve hypoaesthesia affects virtually all patients. Permanent neurosensory disturbance (NSD) defined as objective sensorineural deficit at 24 months occurs in 5–15% of patients in modern series using neurosensory testing. Recovery occurs progressively over 6–18 months; patients should be reassessed formally at 3, 6, 12, and 24 months postoperatively. If no recovery is observed at 12 months, prognosis for further improvement is poor. Chorda tympani injury (from subperiosteal dissection posterior to the third molar) can produce metallic taste or altered taste sensation in the anterior two-thirds of the tongue, occurring in approximately 5–10% and usually resolving spontaneously.\n\n**Skeletal relapse:** As discussed above, magnitude and direction of movement are the main predictors. Relapse typically occurs in the first 6–12 months and is caused by muscle stretch, condylar remodelling, and inadequate post-surgical orthodontic finishing. Late relapse (>3 years) may reflect condylar resorption — a specific entity affecting young women, Class II advancements, high FMA angles, and steep articular eminences. **Idiopathic condylar resorption (ICR)** presents with progressive anterior open bite and Class II relapse 1–5 years after surgery; reported incidence 5–10% in high-risk patients.\n\n**Temporomandibular dysfunction (TMD):** BSSO may worsen or induce TMD in susceptible patients. Preoperative joint clicking, locking, or pain should be investigated and managed before orthognathic surgery. Disc displacement without reduction (Wilkes Stage IV) may require arthrocentesis or arthroscopy before or concurrent with BSSO. Overall, appropriately selected patients report improved TMD symptoms after correction of skeletal discrepancy in most series.\n\n**Hardware-related complications:** Screw fracture is rare (<1%); plate loosening or migration occurs in 2–5% of cases. Removal of symptomatic hardware is indicated; most modern systems allow easy screw removal under local anaesthesia after 6–12 months.\n\n**Outcomes:** Long-term skeletal stability, improved facial aesthetics, and correction of malocclusion are achieved in 85–95% of patients following bimaxillary or single-jaw BSSO. Patient satisfaction rates exceed 90% in most quality-of-life studies. The UW-QoL, OQLQ (Orthognathic Quality of Life Questionnaire), and JFLS-8 are validated outcome tools for orthognathic patients."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Idiopathic Condylar Resorption Risk",
+          "content": "Idiopathic condylar resorption (ICR) should be specifically discussed with high-risk patients before BSSO advancement: young women (age 15–25), Class II high angle with FMA >35°, short posterior facial height, sleep bruxism, and pre-existing condylar flattening on imaging. The patient should understand the risk of progressive relapse due to condylar resorption and the possibility of revision surgery or total joint replacement if severe ICR develops."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — OQLQ Questionnaire",
+          "content": "The Orthognathic Quality of Life Questionnaire (OQLQ) is the validated patient-reported outcome measure specifically designed for orthognathic surgery patients. It assesses four domains: social aspects of dentofacial deformity, facial aesthetics, oral function, and awareness of dentofacial deformity. Studies consistently show significant improvements across all OQLQ domains following successful BSSO, with the greatest gains in the social and aesthetic domains."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of BSSO anatomy, technique, splits, fixation, and complications with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "B3-Q1",
+        "stem": "A 24-year-old man is undergoing BSSO for Class III prognathism correction. During the medial (lingual) ramus cut, the surgeon places the horizontal osteotomy at the level of the lingula rather than above it. What is the most likely consequence of this error?",
+        "options": {
+          "A": "Inadequate bone contact between proximal and distal segments",
+          "B": "Direct injury to the inferior alveolar nerve as it enters the mandibular foramen",
+          "C": "Fracture propagation into the condylar neck",
+          "D": "Failure of the lateral cut to connect with the medial cut"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The inferior alveolar nerve enters the mandibular canal via the mandibular foramen just below the lingula. Placing the medial cut at or below the level of the lingula risks transecting the nerve as it enters the foramen. The medial cut must be placed superior to the lingula to ensure the IAN passes into the distal (tooth-bearing) segment, protected within the mandibular canal.",
+          "wrong": {
+            "A": "Inadequate bone contact is more commonly caused by a bad split pattern (e.g., lingual plate fracture), not by an inferiorly placed medial cut",
+            "C": "Condylar neck fracture results from forceful osteotome levering or bad split propagation — not directly from medial cut level",
+            "D": "Failure to connect medial and lateral cuts is a technique error related to the anterior vertical connecting cut, not the level of the medial horizontal cut"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Mandibular Osteotomies — Technique Standards for IAN Protection",
+          "trial": "Steenen SA et al. Nerve injury after sagittal split osteotomy: a systematic review of the literature. Int J Oral Maxillofac Surg (2016): medial cut above lingula identified as the critical protective step in IAN preservation",
+          "pearl": "The medial (lingual) cut in BSSO MUST be placed ABOVE the lingula and mandibular foramen to protect the inferior alveolar nerve. This single step is the most important technical manoeuvre to avoid direct nerve injury."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q2",
+        "stem": "Which modification of the original Obwegeser sagittal split technique is primarily responsible for increasing bony contact area between proximal and distal segments, improving stability?",
+        "options": {
+          "A": "Hunsuck modification — shortening the medial cut to just beyond the lingula",
+          "B": "Dal Pont modification — extending the lateral cut anteriorly to the first molar region",
+          "C": "Epker modification — adding a vertical stop cut in the buccal cortex",
+          "D": "Trauner modification — placing the lateral cut through the external oblique ridge"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Dal Pont modification (1961) extends the lateral cortical osteotomy anteriorly along the external oblique ridge to the region of the first molar. This significantly increases the surface area of bony contact between the proximal and distal segments — approximately 3-fold compared to the original technique — improving stability and allowing more freedom of sagittal movement.",
+          "wrong": {
+            "A": "The Hunsuck modification reduces IAN injury risk by shortening the medial cut, but does not significantly increase bony contact area",
+            "C": "The Epker modification adds a vertical stop cut to control the terminus of the split and reduce bad splits — not primarily to increase contact area",
+            "D": "Trauner was the co-author of the original technique (with Obwegeser) — not a named modification"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Mandibular Osteotomies Section 3.2",
+          "trial": "Dal Pont G. Retromolar osteotomy for the correction of prognathism. J Oral Surg (1961): original description showing 3-fold increase in contact area and improved stability outcomes",
+          "pearl": "Dal Pont (1961) = increased contact area (lateral cut anterior to first molar). Hunsuck (1968) = reduced IAN risk (shorter medial cut). Epker (1977) = controlled bad splits (vertical stop cut). Know the purpose of each modification."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q3",
+        "stem": "A 28-year-old woman with skeletal Class II retrognathia (SNB 72°, ANB 10°) undergoes BSSO advancement of 12 mm. Postoperatively at 18 months she presents with progressive anterior open bite and Class II relapse. CT shows bilateral condylar flattening. What is the most likely diagnosis?",
+        "options": {
+          "A": "Skeletal relapse from inadequate fixation",
+          "B": "Idiopathic condylar resorption",
+          "C": "Condylar hyperplasia",
+          "D": "Temporomandibular joint disc displacement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Idiopathic condylar resorption (ICR) is a specific complication of BSSO advancement characterised by progressive condylar resorption leading to loss of vertical condylar height, anterior open bite, and Class II relapse. The highest risk profile is: young woman (15–30 years), Class II high-angle case, large advancement (>8–10 mm), pre-existing condylar abnormality. CT showing bilateral condylar flattening confirms the diagnosis. ICR typically manifests 1–5 years postoperatively.",
+          "wrong": {
+            "A": "Fixation relapse occurs early (within 6 months), is not associated with condylar bone loss, and would not show CT changes of condylar flattening",
+            "C": "Condylar hyperplasia causes condylar overgrowth and Class III progression, not condylar resorption and Class II relapse",
+            "D": "Disc displacement may coexist but does not cause bilateral condylar bone loss on CT"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Condylar resorption as a recognised complication of mandibular advancement; monitoring required",
+          "trial": "Wolford LM et al. Factors associated with subcondylar fractures and idiopathic condylar resorption. J Oral Maxillofac Surg (2003): young female sex, high FMA, large advancement identified as independent risk factors for ICR",
+          "pearl": "ICR risk factors: young woman + Class II high angle (FMA >35°) + large BSSO advancement (>8–10 mm). Prevention: consider bimaxillary surgery to reduce per-jaw movement; counsel patients preoperatively about risk of progressive relapse requiring revision or total joint replacement."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q4",
+        "stem": "During BSSO, after completing all three osteotomy cuts, the surgeon applies osteotome pressure and the split propagates as a greenstick fracture — the segments do not fully separate. What is the most appropriate next step?",
+        "options": {
+          "A": "Apply a large spreader osteotome forcefully to complete the fracture",
+          "B": "Abandon the procedure and stage completion to a second operation",
+          "C": "Gently complete the remaining cortical attachment with a bur or fine osteotome under direct vision",
+          "D": "Apply fixation to the greenstick position and expect remodelling to complete separation"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A greenstick fracture (incomplete split with residual cortical or periosteal attachment) is best managed by identifying the remaining attachment under direct vision and completing it gently with a small bur or fine curved osteotome. The key is controlled completion without forceful levering, which would propagate uncontrolled fracture lines toward the condyle. Additional periosteal stripping of the attached segment facilitates gentle osteotome completion.",
+          "wrong": {
+            "A": "Applying a large spreader forcefully risks propagating the fracture uncontrollably into the condylar neck — the most serious bad split complication",
+            "B": "Staging is not necessary for a greenstick fracture; it is a manageable intraoperative finding",
+            "D": "Applying fixation to an incompletely split mandible will not allow planned movement to the target position"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Management of intraoperative complications in BSSO",
+          "trial": "Precious DS et al. An analysis of 3,660 sagittal ramus osteotomies. J Oral Maxillofac Surg (1992): greenstick fracture completion with controlled technique resulted in no increase in complication rates compared to clean splits",
+          "pearl": "Greenstick fractures in BSSO are common and manageable — always complete gently under direct vision with a bur or fine osteotome, not forceful spreading. The osteotome should cut, not lever."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q5",
+        "stem": "A surgeon is planning BSSO for a 30-year-old man with Class III prognathism requiring 9 mm mandibular setback. Preoperative CBCT shows a high mandibular canal position with the canal within 2 mm of the planned osteotomy line. Which factor most increases the risk of permanent inferior alveolar nerve injury in this patient?",
+        "options": {
+          "A": "Patient age >25 years",
+          "B": "High canal position on CBCT",
+          "C": "Male sex",
+          "D": "Class III jaw relationship"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "High mandibular canal position — defined as the canal lying within 2 mm of the planned osteotomy line — is the strongest independent predictor of direct IAN injury during BSSO. A high canal reduces the cancellous bone buffer that normally protects the nerve during splitting, increasing the probability of the osteotomy or splitting osteotome directly encountering the nerve. This finding on preoperative CBCT requires specific documentation in the informed consent and may necessitate modification of technique (shorter or modified medial cut, more careful splitting).",
+          "wrong": {
+            "A": "Younger age is associated with softer bone, which actually reduces bad split risk — age >25 is associated with denser bone increasing bad split risk, but is less predictive of nerve injury than canal position",
+            "C": "Male sex correlates with denser bone and higher bad split risk, but canal position is more directly predictive of nerve injury",
+            "D": "Class III jaw relationship itself does not increase IAN injury risk — the movement type (setback vs advancement) matters more than the class"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Preoperative imaging for IAN risk assessment; CBCT recommended when high canal position suspected",
+          "trial": "Verweij JP et al. Inferior alveolar nerve injury following BSSO: systematic review. Int J Oral Maxillofac Surg (2016): high canal position on CT/CBCT identified as independent risk factor for permanent neurosensory disturbance (OR 3.2, 95% CI 1.4–7.1)",
+          "pearl": "CBCT before BSSO is indicated when high canal position is suspected clinically or on 2D imaging. Canal-to-osteotomy distance <2 mm significantly increases IAN injury risk and must be discussed during informed consent."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q6",
+        "stem": "During BSSO fixation with bicortical positional screws, the surgeon inserts the screws with the condyle in a slightly sagged (depressed) position. Postoperatively the patient is found to have a posterior open bite on the right side and premature contact on the left. What is the most likely cause?",
+        "options": {
+          "A": "Bad split on the left side with inadequate fixation",
+          "B": "Condylar sag on the right side during left-sided screw insertion",
+          "C": "Asymmetric planned movement",
+          "D": "Right IAN injury causing loss of lower right proprioception"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Condylar sag occurs when the condyle drops inferiorly within the glenoid fossa during fixation, typically due to muscle fatigue or gravity with the patient supine. If the right condyle was in the sagged position when right-sided screws were inserted, the mandible is fixed with the right condyle lower than its natural seated position. Postoperatively, when the muscles relax and the condyle seats properly, the right side rises, opening the bite posteriorly on the right and creating premature contact on the left. Prevention: manually seat each condyle superiorly into the glenoid fossa immediately before tightening each set of screws.",
+          "wrong": {
+            "A": "A bad split would produce skeletal instability or malpositioning, not a classic unilateral posterior open bite pattern",
+            "C": "Asymmetric planned movement producing this pattern would have been detectable on the surgical splint at the time of fixation",
+            "D": "IAN injury affects sensation, not proprioception or jaw position; proprioception in jaw movement depends on periodontal ligament mechanoreceptors"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Fixation principles in BSSO — condylar seating technique",
+          "trial": "Epker BN (1977) — original description of condylar sag mechanism and prevention technique: manual condylar seating before each screw insertion",
+          "pearl": "Condylar sag = right sag → right posterior open bite + left premature contact. Prevent by manually seating each condyle superiorly into the glenoid fossa immediately before tightening fixation. This is particularly critical with positional screws, where the position is locked at the moment of insertion."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q7",
+        "stem": "A 22-year-old woman with skeletal Class II retrognathia requires 11 mm of mandibular advancement. Based on published relapse data, which treatment approach carries the lowest risk of skeletal relapse compared to single-jaw BSSO advancement of 11 mm?",
+        "options": {
+          "A": "BSSO advancement of 11 mm with bicortical screw fixation",
+          "B": "Bimaxillary surgery (Le Fort I maxillary impaction + BSSO advancement of 6 mm)",
+          "C": "BSSO advancement of 11 mm with miniplate fixation",
+          "D": "BSSO advancement of 11 mm with 8 weeks of postoperative MMF"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For large Class II corrections requiring >8–10 mm of total jaw movement, bimaxillary surgery distributes the correction between the maxilla (impaction/advancement via Le Fort I) and the mandible (advancement via BSSO). By reducing the per-jaw movement to 6 mm BSSO advancement, the skeletal relapse risk drops to <10% (from 15–25% for 11 mm single-jaw advancement). This is the evidence-based approach endorsed by both EACMFS and AAOMS guidelines for corrections >10 mm.",
+          "wrong": {
+            "A": "Bicortical screws for 11 mm single-jaw advancement still carries 15–25% relapse; fixation type alone does not reduce relapse when movement magnitude is excessive",
+            "C": "Miniplates for 11 mm advancement carry similar or slightly higher relapse than screws — fixation type is less important than movement magnitude",
+            "D": "Postoperative MMF provides soft tissue support but does not prevent skeletal relapse; mandibular muscle pull during MMF may actually contribute to relapse"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): For corrections >10 mm total, bimaxillary surgery preferred to distribute movement and optimise stability",
+          "trial": "Proffit WR, Turvey TA, Phillips C. Orthognathic surgery: a hierarchy of stability. Int J Adult Orthod Orthognath Surg (1996): bimaxillary surgery distributing movement between jaws achieves superior stability compared to single-jaw procedures for large corrections",
+          "pearl": "When total Class II correction exceeds 8–10 mm, bimaxillary surgery (Le Fort I + BSSO) distributing the movement achieves significantly lower relapse than single-jaw BSSO alone. This is the guideline-based standard for large corrections."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q8",
+        "stem": "A bad split occurs during BSSO in which the fracture propagates into the condylar neck, producing a subcondylar fracture on the right side. The patient is under general anaesthesia. What is the most appropriate immediate management?",
+        "options": {
+          "A": "Complete the planned sagittal split on the right and proceed with orthognathic movement",
+          "B": "Abandon the planned jaw movement; rigidly fix all fragments in current position; defer orthognathic surgery 3–6 months",
+          "C": "Complete the split on the left side only and proceed with unilateral BSSO",
+          "D": "Apply MMF only and convert to closed management of the condylar fracture"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A condylar neck fracture resulting from bad split propagation during BSSO is a serious complication requiring abandonment of the planned orthognathic movement. The condylar fragment must be rigidly fixed in its current anatomical position (ORIF of condylar fracture) to ensure healing and condylar integrity. Orthognathic surgery is then safely deferred for 3–6 months once the condylar fracture has healed and the anatomy is stable. Proceeding with planned jaw movement would apply forces to the fractured condyle, risk displacement, avascular necrosis, and severely compromise the final result.",
+          "wrong": {
+            "A": "Proceeding with planned movement after condylar fracture would place the fractured condyle under pathological load and risk avascular necrosis, severe displacement, or non-union",
+            "C": "Unilateral BSSO completion would create asymmetric jaw movement impossible to stabilise safely and would still apply load to the fractured right condyle via MMF",
+            "D": "Closed MMF management alone is inadequate for a condylar fracture produced by bad split — ORIF is required; closed management delays healing and increases non-union risk"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Management of intraoperative complications — condylar fracture during BSSO protocol",
+          "trial": "Precious DS et al. Bad splits in sagittal ramus osteotomies: a retrospective review of 3,660 procedures. J Oral Maxillofac Surg (1992): condylar fracture = 0.1% incidence; protocol: fix in situ, defer orthognathics 3–6 months with 100% success rate when protocol followed",
+          "pearl": "Condylar fracture (bad split to condylar neck) = abandon planned movement + ORIF all fragments in current position + defer orthognathic surgery 3–6 months. Never proceed with planned movement after this complication."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B3-Q9",
+        "stem": "Following BSSO for Class III correction with 7 mm setback, a 25-year-old woman develops alteration in taste sensation in the anterior two-thirds of her tongue on the right side (metallic taste). Which nerve was most likely injured during surgery?",
+        "options": {
+          "A": "Lingual nerve",
+          "B": "Chorda tympani nerve",
+          "C": "Inferior alveolar nerve",
+          "D": "Glossopharyngeal nerve"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The chorda tympani nerve carries taste sensation from the anterior two-thirds of the tongue and runs within the infratemporal fossa, descending between the medial and lateral pterygoid muscles before joining the lingual nerve. During BSSO, subperiosteal dissection posterior to the third molar in the pterygomandibular space can stretch or damage the chorda tympani. Injury produces metallic taste or ageusia (absent taste) in the ipsilateral anterior two-thirds of the tongue. It is distinct from IAN injury (which produces lower lip hypoaesthesia) and occurs in approximately 5–10% of BSSO cases.",
+          "wrong": {
+            "A": "Lingual nerve injury produces ipsilateral anterior tongue hypoaesthesia/paraesthesia (touch, pain, temperature) — not taste sensation; lingual nerve carries taste fibres carried by the chorda tympani but sensation fibres are different",
+            "C": "IAN injury produces lower lip, chin, and buccal gingiva hypoaesthesia (mental nerve distribution) — not taste sensation",
+            "D": "Glossopharyngeal nerve supplies taste to the posterior one-third of the tongue — not accessible in BSSO surgical field"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Nerve injury risks in BSSO — chorda tympani identified as secondary risk to IAN",
+          "trial": "Phillips C et al. Neurosensory deficits following orthognathic surgery. Int J Adult Orthod Orthognath Surg (1990): chorda tympani symptoms in ~8% of BSSO patients; majority resolve within 6–12 months",
+          "pearl": "Metallic taste or altered taste in anterior 2/3 tongue after BSSO = chorda tympani injury, not IAN injury. The chorda tympani is at risk from posterior subperiosteal dissection in the pterygomandibular space. Most cases resolve spontaneously within 6–12 months."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q10",
+        "stem": "Which fixation method is generally preferred for BSSO mandibular advancement (Class II correction) compared to mandibular setback, and what is the primary reason?",
+        "options": {
+          "A": "Bicortical positional screws; higher rigidity reduces relapse in advancement",
+          "B": "Monocortical miniplates; allows adjustment of condylar position during fixation",
+          "C": "Wire osteosynthesis; preserves periosteal blood supply to fragments",
+          "D": "Absorbable plates; avoids secondary removal surgery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Monocortical miniplates are generally preferred for BSSO mandibular advancement because they allow adjustment and verification of condylar position (seating) during plate application and screw insertion. In Class II advancement, the condyle-proximal segment must be carefully repositioned to avoid condylar sag, torque, or distraction. Miniplates can be placed with the condyle properly seated and any positional problems corrected before final fixation. Bicortical positional screws lock the condylar position at the moment of insertion, making correction more difficult. Additionally, miniplates avoid IAN compression risk from bicortical screws.",
+          "wrong": {
+            "A": "While bicortical screws provide excellent rigidity, their main disadvantage in advancement is locking in condylar sag/torque if not perfectly seated; meta-analyses show equivalent stability to plates in most movements",
+            "C": "Wire osteosynthesis is obsolete for BSSO — insufficient rigidity leads to unacceptable relapse rates and requires prolonged MMF",
+            "D": "Absorbable plates are not standard for BSSO as their degradation properties and load-bearing capacity are inferior to titanium; titanium plate removal is rarely required"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Fixation method selection for BSSO — miniplates preferred for advancement to allow condylar position adjustment",
+          "trial": "Joss CU, Thüer UW. Stability of hard tissue profile after mandibular advancement in sagittal split osteotomies: a systematic review. Eur J Orthod (2008): no significant difference in skeletal stability between screws and plates, but plates preferred for advancement due to condylar control advantages",
+          "pearl": "Miniplates preferred for BSSO advancement (Class II): allows condylar position adjustment during fixation. Bicortical screws preferred for BSSO setback (Class III): excellent rigidity, small hardware profile, no IAN compression risk if placed carefully superior to canal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q11",
+        "stem": "A 19-year-old man undergoes BSSO for correction of Class II skeletal malocclusion with 8 mm advancement. At his 3-month postoperative visit he reports complete numbness of the right lower lip and chin. What is the most appropriate management?",
+        "options": {
+          "A": "Immediately re-explore the right inferior alveolar nerve",
+          "B": "Reassure and schedule neurosensory testing; recovery is expected to continue up to 18–24 months",
+          "C": "Prescribe methylprednisolone for 7 days to reduce neural oedema",
+          "D": "Refer immediately for microsurgical nerve repair"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Temporary IAN/mental nerve hypoaesthesia occurs in virtually all patients (75–100%) after BSSO due to nerve stretch, compression, and neuropraxia. At 3 months postoperatively, persistent numbness is not unexpected and does not indicate permanent injury. Neural recovery after neuropraxia or axonotmesis progresses at approximately 1–3 mm/day axonal regrowth; most patients with BSSO-related NSD continue to improve until 12–18 months. The appropriate response is reassurance, formal neurosensory testing (two-point discrimination, brush directional testing, von Frey thresholds), and 3–6 monthly review. If no recovery is evident at 12 months, prognosis for further improvement is poor.",
+          "wrong": {
+            "A": "Nerve re-exploration at 3 months is not indicated for expected postoperative hypoaesthesia — it would expose the nerve to further trauma without evidence of a neurotmesis injury requiring repair",
+            "C": "Corticosteroids are used perioperatively (within 24–72 hours) to reduce inflammatory swelling around the nerve; they have no benefit at 3 months",
+            "D": "Microsurgical nerve repair (neurorraphy or graft) is reserved for documented neurotmesis (complete nerve transection) that fails to show recovery — premature referral at 3 months for an expected postoperative finding is inappropriate"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Informed consent and follow-up for IAN injury after BSSO — reassessment at 3, 6, 12, 24 months",
+          "trial": "Ylikontiola L et al. Recovery of inferior alveolar nerve function after BSSO. Int J Oral Maxillofac Surg (2000): 85% of patients with post-BSSO NSD show measurable recovery by 18 months; surgical intervention not recommended before 12 months",
+          "pearl": "Post-BSSO hypoaesthesia at 3 months = expected and likely to resolve. Monitor with formal neurosensory tests at 3, 6, 12, 24 months. Consider nerve exploration/repair only if neurotmesis suspected AND no recovery at 12 months."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q12",
+        "stem": "A 23-year-old woman with Class III prognathia undergoes BSSO setback of 8 mm for correction. Her preoperative AHI on polysomnography was 6 events/hour (normal). At her 6-month review she reports increased snoring and daytime sleepiness. Repeat polysomnography shows AHI 22 events/hour. What is the most likely explanation?",
+        "options": {
+          "A": "Weight gain since surgery",
+          "B": "Posterior repositioning of the tongue base reducing upper airway space following mandibular setback",
+          "C": "Nasal obstruction from general anaesthesia intubation",
+          "D": "Post-surgical anxiety disorder causing arousal from sleep"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "BSSO mandibular setback moves the mandible and its attached musculature (particularly genioglossus and suprahyoid muscles) posteriorly, displacing the tongue base into the oropharyngeal airway. This reduces posterior airway space by an average of 2–5 mm, which can precipitate or worsen obstructive sleep apnoea. The risk is greatest with large setbacks (>7 mm) and in patients with borderline airway anatomy. This patient had no pre-existing OSA but developed significant AHI elevation (22/hour = moderate OSA) following 8 mm setback.",
+          "wrong": {
+            "A": "Weight gain can worsen OSA, but is not the primary explanation 6 months after surgery in the absence of documented weight gain — the timing and surgical context indicate a procedure-related cause",
+            "C": "Nasal trauma from intubation is transient and resolves within weeks; it does not cause persistent OSA at 6 months",
+            "D": "Anxiety disorders do not cause obstructive apnoeas on polysomnography; anxiety-related sleep disorders produce arousal without obstructive events"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Airway effects of mandibular setback BSSO — preoperative OSA screening recommended for setbacks >7 mm",
+          "trial": "Riley RW et al. Obstructive sleep apnea and the hyoid: a revised surgical procedure. Otolaryngol Head Neck Surg (1994): BSSO setback reduces PAS by mean 2.5 mm; relevant studies show AHI increase of 50–300% after large setbacks in susceptible patients",
+          "pearl": "BSSO mandibular setback posteriorly repositions the tongue base, reducing posterior airway space and precipitating or worsening OSA. Screen all patients for OSA before large setbacks (>7 mm). When Class III malocclusion coexists with existing OSA, MMA (maxillomandibular advancement) may be both the orthognathic and OSA treatment."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q13",
+        "stem": "Which anatomical landmark on the medial surface of the mandibular ramus serves as the critical reference point for correct placement of the superior (medial) osteotomy cut during BSSO?",
+        "options": {
+          "A": "Mandibular notch",
+          "B": "Lingula",
+          "C": "Gonion",
+          "D": "External oblique ridge"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The lingula is the bony spine on the medial surface of the mandibular ramus that overlies the mandibular foramen and the entry point of the inferior alveolar nerve. The medial (lingual) horizontal cut in BSSO must be placed superior to the lingula to ensure the IAN enters the distal tooth-bearing segment. The lingula is palpated and visualised after subperiosteal elevation of the medial ramus, providing the direct anatomical landmark that defines the safe level for the medial cut.",
+          "wrong": {
+            "A": "The mandibular notch is the concavity between the condylar and coronoid processes on the lateral/superior ramus — it is relevant for intraoral vertical ramus osteotomy (IVRO), not BSSO medial cut placement",
+            "C": "The gonion is the posterior-inferior angle of the mandible — a cephalometric point, not a surgical landmark for medial cut placement",
+            "D": "The external oblique ridge is the landmark for the lateral (buccal) cut in BSSO, not the medial cut"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): BSSO technique — lingula identification as essential step before medial cut",
+          "trial": "Trauner R, Obwegeser H. Oral Surg Oral Med Oral Pathol (1957): original description identifies lingula as the anatomical reference point for the superior horizontal medial cut in sagittal split technique",
+          "pearl": "Lingula = landmark for BSSO medial cut. Cut ABOVE the lingula = IAN in distal (tooth-bearing) segment. Cut AT or BELOW the lingula = IAN injury. Palpate the lingula under direct vision before every medial cut."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q14",
+        "stem": "A 29-year-old man requires BSSO for Class III correction requiring 10 mm of setback. Preoperative CBCT shows a narrow medullary space throughout the ramus with dense cortical bone bilaterally. What modification to the standard technique would most reduce the risk of a bad split in this patient?",
+        "options": {
+          "A": "Use of a larger 20 mm osteotome to increase splitting force",
+          "B": "Additional bur work along the planned fracture line to weaken cortical bone before splitting",
+          "C": "Converting to an intraoral vertical ramus osteotomy (IVRO) instead of BSSO",
+          "D": "Adding temporary MMF before splitting to stabilise the fragments"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "When preoperative imaging shows dense cortical bone with a narrow or absent medullary space, the anatomical basis for a reliable sagittal split does not exist — the medullary cancellous bone that normally guides the split plane is absent. In this scenario, conversion to an **intraoral vertical ramus osteotomy (IVRO)** is the safest alternative for Class III setback, as IVRO does not depend on the presence of a cancellous split plane. IVRO makes a vertical osteotomy through the ramus from the sigmoid notch to the angle without requiring a sagittal fracture, and is therefore not affected by cortical bone density. Its disadvantages include less versatile movements and no fixation (requiring 6 weeks MMF), but it avoids the high bad split risk in dense bone.",
+          "wrong": {
+            "A": "Using a larger osteotome increases force and makes bad splits more likely, not less — the osteotome should cut through the cancellous space gently, not through dense cortical bone by force",
+            "B": "Additional bur work can help, but in the absence of a medullary space it cannot create a reliable split plane — it reduces but does not eliminate the bad split risk",
+            "D": "MMF before splitting has no effect on cortical bone density or split pattern risk"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Alternative osteotomies (IVRO) recommended when CBCT shows absent medullary space and high bad split risk",
+          "trial": "Wolford LM, Davis WM. The mandibular inferior border split: a modification in the sagittal split osteotomy. J Oral Maxillofac Surg (1990): describes technique modifications and IVRO conversion indications for dense bone; IVRO produces equivalent Class III correction with no bad split risk",
+          "pearl": "Dense cortical bone + narrow/absent medullary space on CBCT = high bad split risk for BSSO. Consider converting to IVRO for Class III setback in these patients. Always review CBCT bone density before planning BSSO in older male patients, patients on bisphosphonates, or those with previous mandibular radiation."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B3-Q15",
+        "stem": "The Epker modification of BSSO adds a vertical cut through the buccal cortex posterior to the first molar. What is the primary purpose of this cut?",
+        "options": {
+          "A": "Increase bony contact area between proximal and distal segments",
+          "B": "Provide a controlled terminus for the lateral cortical fracture and reduce uncontrolled bad splits",
+          "C": "Protect the inferior alveolar nerve from the lateral osteotomy",
+          "D": "Allow greater range of mandibular setback movement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Epker vertical stop cut (1977) is placed in the buccal cortex posterior to the first molar region, at the intended posterior terminus of the lateral cortical osteotomy. Its primary purpose is to create a controlled endpoint for the lateral fracture propagation, preventing the fracture from running posteriorly and superiorly along the external oblique ridge toward the condylar neck in an uncontrolled manner. This significantly reduces the risk of bad splits with unfavourable posterior propagation toward the condyle.",
+          "wrong": {
+            "A": "Increased bony contact area is the purpose of the Dal Pont modification (extending the lateral cut anteriorly) — not the Epker vertical stop cut",
+            "C": "IAN protection is primarily achieved by the medial cut being placed above the lingula — the Epker cut is on the buccal/lateral side, away from the nerve",
+            "D": "The range of mandibular movement is primarily determined by the extent of the Dal Pont lateral cut anteriorly and the medial cut posteriorly — not the Epker stop cut"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Epker modification as standard component of contemporary BSSO technique",
+          "trial": "Epker BN. Modifications in the sagittal osteotomy of the mandible. J Oral Maxillofac Surg (1977): original description showing reduction in bad split rate (particularly posterior propagation) with the vertical stop cut",
+          "pearl": "Epker modification (1977) = vertical stop cut in buccal cortex posterior to 1st molar = controls terminus of lateral fracture propagation = reduces bad splits. Know the purpose of each of the 4 major BSSO modifications: Obwegeser (original), Dal Pont (contact area), Hunsuck (IAN protection), Epker (bad split control)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q16",
+        "stem": "What rate of permanent inferior alveolar nerve neurosensory disturbance (defined as objective deficit at 24 months) should patients be counselled to expect following BSSO in contemporary practice?",
+        "options": {
+          "A": "Less than 1%",
+          "B": "5–15%",
+          "C": "30–50%",
+          "D": "Greater than 60%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Contemporary systematic reviews consistently report permanent neurosensory disturbance (NSD) — defined as objective deficit on formal neurosensory testing at 24 months — in approximately 5–15% of BSSO cases. This is distinct from temporary hypoaesthesia, which affects 75–100% of patients postoperatively but largely resolves within 12–18 months. Patient-reported permanent numbness (subjective) is typically lower, around 5–10%. The specific rate depends on movement type (advancement > setback for NSD), magnitude, and surgeon experience.",
+          "wrong": {
+            "A": "Less than 1% grossly underestimates permanent NSD risk — this figure would only be appropriate for very small movements in experienced hands, not as a general counselling figure",
+            "C": "30–50% represents the rate of temporary NSD at 3–6 months, not permanent deficit at 24 months",
+            "D": "Greater than 60% is the rate of any measurable neurosensory change immediately postoperatively — not the permanent deficit rate at 24 months"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): IAN injury rates for informed consent — 5–15% permanent NSD at 24 months (objective testing)",
+          "trial": "Verweij JP et al. Inferior alveolar nerve injury following BSSO: systematic review and meta-analysis. Int J Oral Maxillofac Surg (2016): pooled permanent NSD rate 9.3% (95% CI 6.8–11.8%) at 24 months in contemporary series",
+          "pearl": "Counsel BSSO patients: temporary numbness (~80% at 1 month, resolves 12–18 months) vs permanent deficit (~5–15% objective testing at 24 months). Subjective permanent complaint: ~5–10%. These figures must be documented in the informed consent record."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q17",
+        "stem": "Following BSSO mandibular setback of 9 mm for Class III prognathism, a patient develops progressive Class II relapse and anterior open bite over 2 years. MRI shows bilateral condylar flattening with reduced condylar height. The patient is a 23-year-old woman with high FMA angle (38°). What finding on the preoperative history would have been most important to document and discuss during informed consent?",
+        "options": {
+          "A": "Pre-existing cardiac murmur",
+          "B": "Sleep bruxism and clenching",
+          "C": "Family history of mandibular prognathism",
+          "D": "Previous orthodontic treatment history"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Sleep bruxism is a recognised risk factor for idiopathic condylar resorption (ICR) after orthognathic surgery. The parafunctional loading from bruxism combined with the altered condylar biomechanics following BSSO setback creates excessive compressive forces on the articular cartilage, predisposing to condylar resorption. Other risk factors in this patient (young woman, high FMA 38°, large setback) further compound the risk. Preoperative documentation of bruxism is essential and should be specifically discussed during informed consent, with discussion of splint therapy, botulinum toxin for masseter hypertrophy, and potential need for long-term monitoring.",
+          "wrong": {
+            "A": "Cardiac murmur is relevant for anaesthetic planning but has no relationship to condylar resorption risk",
+            "C": "Family history of prognathism is relevant for predicting recurrence of skeletal relapse from mandibular growth — not ICR; family history of condylar resorption would be more relevant",
+            "D": "Previous orthodontic treatment history is relevant for tooth position and periodontal health but has no direct relationship to ICR risk"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): ICR risk assessment — bruxism, female sex, high FMA, large advancement as modifiable/non-modifiable risk factors",
+          "trial": "Hoppenreijs TJ et al. Condylar resorption after Le Fort I and bimaxillary osteotomies in patients with anterior open bite. Int J Oral Maxillofac Surg (1999): bruxism identified as independent risk factor for condylar resorption after orthognathic surgery (OR 2.8, p=0.03)",
+          "pearl": "ICR risk assessment checklist before BSSO: (1) young female ✓, (2) high FMA (>35°) ✓, (3) large advancement/setback ✓, (4) sleep bruxism ✓, (5) pre-existing condylar abnormality on CT/MRI. Document and counsel on all identifiable risk factors."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B3-Q18",
+        "stem": "A surgeon performing BSSO notices the inferior alveolar nerve is lying exposed on the surface of the distal segment after splitting, rather than remaining within the mandibular canal. What is the most appropriate response?",
+        "options": {
+          "A": "Immediately reposition the nerve into the canal with forceps",
+          "B": "Abandon the procedure to avoid further nerve injury",
+          "C": "Proceed with gentle handling, avoid stretch and compression, and document the finding",
+          "D": "Transect the nerve cleanly and refer for immediate microsurgical repair"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Intraoperative nerve exposure — where the IAN is visible on the bony surface of the distal segment after splitting — occurs in approximately 60–80% of BSSO cases and does NOT indicate nerve injury or require abandonment of the procedure. The nerve is most commonly exposed in the inferior portion of the distal segment where the canal is close to the inferior border. The appropriate response is gentle handling, avoiding any stretch, compression, or thermal injury to the exposed nerve during mobilisation and fixation. This finding should be documented in the operative record. Neurosensory follow-up is important, but most patients with intraoperative nerve exposure have equivalent outcomes to those without exposure.",
+          "wrong": {
+            "A": "Attempting to reposition the nerve with forceps risks forceps-related nerve injury — the nerve should be protected in place, not repositioned",
+            "B": "Abandonment is not indicated for intraoperative nerve exposure, which is common and expected — abandonment is reserved for neurotmesis or condylar fracture",
+            "D": "Transecting an intact but exposed nerve would create a neurotmesis injury — never transect an intact nerve"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Management of intraoperative IAN exposure during BSSO",
+          "trial": "Steenen SA et al. Int J Oral Maxillofac Surg (2016): intraoperative nerve exposure in 62% of cases; exposure per se was not independently associated with higher rates of permanent NSD after controlling for movement magnitude",
+          "pearl": "Intraoperative IAN exposure during BSSO is common (60–80%) and is NOT a complication requiring procedure abandonment. Treat with extreme gentleness: no stretch, no compression, no retractor pressure on the nerve. Document the finding. Neurosensory follow-up is important but prognosis is not necessarily worse than without exposure."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q19",
+        "stem": "A 22-year-old woman with skeletal Class II malocclusion (SNB 73°, ANB 9°, FMA 32°) and severe OSA (AHI 45 events/hour) is referred for surgical correction. Which orthognathic surgical approach simultaneously corrects the skeletal Class II relationship and treats the obstructive sleep apnoea?",
+        "options": {
+          "A": "BSSO mandibular advancement alone",
+          "B": "Maxillomandibular advancement (MMA): Le Fort I maxillary advancement + BSSO mandibular advancement",
+          "C": "Le Fort I maxillary advancement alone",
+          "D": "BSSO mandibular advancement + concurrent uvulopalatopharyngoplasty"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Maxillomandibular advancement (MMA) — Le Fort I maxillary advancement combined with BSSO mandibular advancement — simultaneously corrects skeletal Class II malocclusion and effectively treats severe OSA. By advancing both jaws together, MMA enlarges the entire pharyngeal airway (from soft palate to tongue base) by tensioning the pharyngeal walls anteriorly. Meta-analyses report mean AHI reduction of 86% and a cure rate (AHI <5) of approximately 43% following MMA for OSA. It is the most effective surgical treatment for OSA and provides definitive skeletal correction of the jaw deformity in the same procedure.",
+          "wrong": {
+            "A": "BSSO mandibular advancement alone provides some airway benefit but does not advance the maxilla; the soft palate and upper airway are not fully treated — less effective than bimaxillary MMA for OSA",
+            "C": "Le Fort I maxillary advancement alone does not advance the mandible or tongue base — inadequate OSA treatment",
+            "D": "UPPP addresses soft tissue only (uvula, tonsils, soft palate) but does not address the skeletal retrognathia causing tongue base obstruction — inadequate skeletal correction"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): MMA as gold-standard surgical treatment for OSA in Class II patients; AHI reduction 86% (meta-analysis)",
+          "trial": "Holty JE, Guilleminault C. Maxillomandibular advancement for the treatment of obstructive sleep apnea: a systematic review and meta-analysis. Sleep Med Rev (2010): MMA achieves mean AHI reduction from 63 to 9 events/hour (86% reduction); cure rate 43%",
+          "pearl": "MMA (Le Fort I + BSSO advancement) simultaneously treats skeletal Class II and OSA. It is the most effective surgical treatment for OSA with 86% AHI reduction — superior to CPAP adherence rates at 5 years in motivated surgical candidates. Consider in all young Class II patients with moderate-severe OSA."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q20",
+        "stem": "During BSSO, after inserting positional bicortical screws for fixation on the left side, the surgeon notes the right side displays a posterior open bite of approximately 2 mm with premature left contact. The surgical splint is still in place. What is the most likely diagnosis and next step?",
+        "options": {
+          "A": "Hardware failure — remove and replace the left screws",
+          "B": "Left-sided condylar sag — remove screws, re-seat condyle superiorly, and re-insert screws",
+          "C": "Bad split on the right side — obtain intraoperative radiograph to confirm",
+          "D": "Incorrect surgical splint — replace with the correct splint and refixate"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A posterior open bite on the right side with premature contact on the left, noticed after inserting left-sided screws with the splint still in place, is the classic presentation of left condylar sag during fixation. The left condyle was in a depressed (sagged) position when the screws were inserted, locking the mandible with the left condyle artificially low. Postoperative muscle relaxation will further aggravate the open bite. The solution is to remove the left bicortical screws, manually seat the left condyle superiorly into the glenoid fossa, and re-insert the screws with the condyle properly seated. This should be verified with the splint removed to check occlusion before closing.",
+          "wrong": {
+            "A": "Hardware failure (screw fracture or loosening) would not produce a predictable open bite pattern — screw failure is uncommon and presents differently",
+            "C": "A right-sided bad split would affect the right-side fixation and split pattern — it would not explain the classic condylar sag pattern from left screw insertion",
+            "D": "An incorrect splint would have produced an occlusal discrepancy from the start of the fixation process — the finding after left-side screw insertion localises the problem to the left condyle"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Intraoperative occlusal assessment after BSSO fixation; condylar sag management",
+          "trial": "Epker BN. Modifications in the sagittal osteotomy of the mandible. J Oral Maxillofac Surg (1977): condylar sag mechanism first systematically described; manual condylar seating technique described and validated",
+          "pearl": "Intraoperative finding: posterior open bite on side opposite to newly fixed screws = condylar sag on the fixed side. Solution: remove screws, manually seat condyle, re-insert screws. Always verify occlusion after fixation on each side before proceeding to the contralateral side."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

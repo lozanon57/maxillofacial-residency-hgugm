@@ -1,0 +1,647 @@
+{
+  "id": "F3",
+  "title": "Microsomía Hemifacial: OMENS-Plus, Distracción y Prótesis Articular Total",
+  "subtitle": "Bloque F — Afecciones Congénitas y del Desarrollo",
+  "block": "F",
+  "block_name": "Afecciones Congénitas y del Desarrollo",
+  "level": "R3-5",
+  "reading_time_min": 34,
+  "guidelines_version": "EACMFS Craniofacial Guidelines 2022 · European Craniofacial Society Consensus 2021 · ACPA Parameters of Care 2018",
+  "textbook_refs": [
+    "Pruzansky S. 'Not all dwarfed mandibles are alike.' Birth Defects (1969)",
+    "Vento AR et al. 'The O.M.E.N.S. classification of hemifacial microsomia.' Cleft Palate Craniofac J (1991)",
+    "Kaban LB et al. 'Skeletal reconstruction of the mandible using distraction osteogenesis.' J Oral Maxillofac Surg (1998)",
+    "Proffit WR et al. Contemporary Orthodontics 5th ed. (Mosby 2012)",
+    "Lauritzen C et al. 'The Stockholm protocol for hemifacial microsomia.' Scand J Plast Reconstr Surg (2001)"
+  ],
+  "learning_objectives": [
+    "Definir la microsomía hemifacial y describir el espectro de la afección utilizando la clasificación OMENS-Plus",
+    "Clasificar la hipoplasia mandibular en la microsomía hemifacial mediante el sistema de Pruzansky-Kaban",
+    "Comparar la distracción osteogénica precoz frente a la cirugía ortognática tardía en el tratamiento de la MHF",
+    "Describir las indicaciones y técnica de la prótesis articular total (PAT) en ausencia de cóndilo",
+    "Esquematizar el plan de tratamiento multidisciplinario desde el nacimiento hasta la madurez esquelética en un niño con MHF"
+  ],
+  "sections": [
+    {
+      "id": "F3-S1",
+      "title": "Definición, Epidemiología y Etiología",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **microsomía hemifacial (MHF)** — también conocida como espectro óculo-aurículo-vertebral (OAV), síndrome de Goldenhar (cuando están presentes anomalías vertebrales y dermoides epibulbares) y síndrome del primer y segundo arco branquial — es la segunda anomalía craneofacial congénita más frecuente tras el labio leporino y el paladar hendido. La afección se caracteriza por el subdesarrollo asimétrico de las estructuras derivadas del primer y segundo arcos branquiales: mandíbula, maxilar superior, oído (pabellón auricular y oído medio), nervio facial, músculos masticadores, glándula parótida y tejidos blandos de la cara.\n\nLa MHF afecta aproximadamente a 1 de cada 3.500 a 1 de cada 5.600 nacidos vivos. La mayoría de los casos (aproximadamente el 90%) son unilaterales; la afectación bilateral ocurre en aproximadamente el 10% y se asocia con mayor gravedad y desafíos de tratamiento más complejos. Los hombres y el lado derecho están ligeramente más afectados, aunque se desconoce la razón de la preferencia por la lateralidad.\n\nLa etiología no está bien comprendida y es probablemente multifactorial. La hipótesis más ampliamente aceptada es la interrupción de la arteria estapediana durante las semanas 4–7 de gestación, produciendo hemorragia localizada y hematoma en el territorio del primer y segundo arcos branquiales — la hipótesis de interrupción vascular de Poswillo (1973). La evidencia incluye el modelo animal (inyección del nervio trigémino produciendo defectos similares) y la observación clínica de que la gravedad del fenotipo se correlaciona con el estadio del desarrollo en el que ocurre la interrupción vascular. La mayoría de los casos son esporádicos; el riesgo de recurrencia en familiares de primer grado es bajo (2–3%).\n\nEl espectro clínico de la MHF es extremadamente amplio, desde pacientes con solo una leve anomalía del oído y asimetría mandibular leve hasta pacientes con ausencia completa del cóndilo, rama y oído, con parálisis facial grave y déficit extenso de tejidos blandos."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Prevalencia y Lateralidad de la MHF",
+          "content": "La MHF es la segunda anomalía craneofacial congénita más frecuente (tras el CLP), afectando a 1 de cada 3.500–5.600 nacimientos. 90% unilateral. Ligero predominio del lado derecho y del sexo masculino. Síndrome de Goldenhar = MHF + anomalías vertebrales + dermoides epibulbares. Etiología: hipótesis de interrupción vascular de Poswillo (interrupción de la arteria estapediana semanas 4–7)."
+        }
+      ]
+    },
+    {
+      "id": "F3-S2",
+      "title": "Clasificación OMENS-Plus",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **clasificación OMENS-Plus** (Vento et al. 1991) proporciona un enfoque completo y sistemático para documentar el alcance y la gravedad de la MHF en todos los dominios anatómicos afectados. Fue desarrollada en el Instituto de Cirugía Plástica Reconstructiva de la Universidad de Nueva York y se ha convertido en la herramienta clínica estándar para la documentación, investigación y planificación quirúrgica de la MHF.\n\nOMENS es un acrónimo de: **O** = Orbital; **M** = Mandibular; **E** = Ear (oído); **N** = Nerve (nervio facial); **S** = Soft tissue (tejidos blandos). El '+' en OMENS-Plus indica características adicionales no recogidas por el sistema original, incluyendo la hipoplasia maxilar y cigomatomaxilar. Cada dominio se puntúa en una escala de 0–3 (0 = normal; 1 = leve; 2 = moderado; 3 = grave), produciendo una puntuación compuesta que refleja la carga total de la enfermedad.\n\nLa puntuación **Mandibular (M)** en OMENS se basa en la **clasificación de Pruzansky (1969)** modificada por Kaban et al. (1988): Tipo I = cóndilo y rama pequeños (cóndilo presente, de tamaño reducido); Tipo IIA = cóndilo y ATM de forma anormal pero funcional (cabeza condilar plana, articulación funcional); Tipo IIB = cóndilo y rama presentes pero sin ATM funcional; Tipo III = ausencia completa de cóndilo, rama y ATM. La clasificación de Pruzansky-Kaban orienta directamente el tratamiento quirúrgico — los tipos I y IIA pueden tratarse de forma conservadora/ortodóncica; los tipos IIB y III requieren intervención quirúrgica mayor.\n\nEl dominio **Ear (E)** documenta: Grado I = oído pequeño pero reconocible; Grado II = remanente vertical con lóbulo, sin conducto auditivo externo (el más frecuente para la reconstrucción quirúrgica); Grado III = pabellón auricular ausente (anotia). El Grado II es el tipo más frecuente que requiere reconstrucción auricular (con cartílago costal a los 6–10 años). La hipoacusia de transmisión por ausencia o malformación de los osículos del oído medio está presente en la mayoría de los pacientes con MHF independientemente de la gravedad del oído externo."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación OMENS-Plus — Dominios y Puntuación",
+          "headers": ["Dominio", "Grado 0", "Grado 1", "Grado 2", "Grado 3"],
+          "rows": [
+            ["O — Orbital", "Normal", "Déficit de volumen leve", "Distopía/déficit moderado", "Déficit de volumen grave/órbita ausente"],
+            ["M — Mandibular (Pruzansky-Kaban)", "Normal", "Pruzansky I: cóndilo + rama pequeños pero normales", "IIA: cóndilo plano, funcional; IIB: sin ATM funcional", "III: sin cóndilo, rama ni ATM"],
+            ["E — Oído", "Normal", "Pabellón pequeño, CAE normal", "Solo remanente de lóbulo, CAE ausente", "Pabellón ausente (anotia)"],
+            ["N — Nervio", "Normal", "Paresia leve, 1–2 ramas", "Paresia moderada, >2 ramas", "Parálisis completa unilateral NC VII"],
+            ["S — Tejidos blandos", "Normal", "Déficit mínimo; solo subcutáneo", "Déficit moderado; afecta músculo", "Déficit grave; pérdida mayor de tejidos blandos"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Uso de OMENS-Plus en la Práctica",
+          "content": "En la primera visita al EMD para un niño con MHF, debe documentarse la puntuación OMENS-Plus completa. La puntuación M (tipo Pruzansky-Kaban) orienta la estrategia quirúrgica para la mandíbula. La puntuación E orienta el plan de reconstrucción auricular. La puntuación N orienta el plan del nervio facial y de tejidos blandos. La puntuación O determina si será necesaria la reconstrucción orbitaria. Cada dominio tiene una vía de tratamiento independiente."
+        }
+      ]
+    },
+    {
+      "id": "F3-S3",
+      "title": "Tratamiento Mandibular: Distracción Osteogénica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El tratamiento de la hipoplasia mandibular en la MHF es el principal desafío quirúrgico. La decisión entre la **distracción osteogénica (DO) precoz** (durante el crecimiento, típicamente entre los 5–12 años) frente a la **cirugía ortognática tardía** (a la madurez esquelética) es la decisión estratégica primaria y ha sido debatida durante décadas.\n\nLa **distracción osteogénica (DO)** alarga la rama y el cuerpo hipoplásicos mediante osteotomía quirúrgica seguida de distracción gradual e incremental de los segmentos óseos utilizando un dispositivo de distracción interno o externo. El protocolo de distracción: fase de latencia (5–7 días posteosteotomía para la formación inicial del callo) → fase de activación (1 mm por día en dos incrementos de 0,5 mm) → fase de consolidación (6–8 semanas de retención del dispositivo para la consolidación ósea). El segmento transportado genera nuevo hueso por osificación intramembranosa. Para la MHF, la DO aborda tanto el déficit esquelético como, en cierta medida, el déficit de tejidos blandos asociado (la expansión gradual del tejido se produce de forma simultánea a la distracción ósea).\n\nVentajas de la DO precoz: (1) normaliza la simetría facial durante el crecimiento, reduciendo el empeoramiento progresivo de la asimetría sin intervención; (2) mantiene la simetría oclusal y limita las deformidades dentales y de arco secundarias; (3) expande el entorno de tejidos blandos adyacente; (4) evita la cirugía ortognática más compleja a la madurez si la deformidad se trata con éxito durante el crecimiento. Desventajas: se requieren múltiples procedimientos a medida que el niño crece (la recurrencia de la asimetría es frecuente ya que el lado afectado crece más lentamente que el normal), y el resultado funcional de la región de la ATM reconstruida es impredecible en los tipos IIB/III de Pruzansky.\n\nPara el **tipo III de Pruzansky** (ausencia de cóndilo, rama y ATM), la DO no puede crear una nueva articulación desde estructuras ausentes. En estos casos, se utilizan injertos costocondral (ICC) — combinando cartílago costal (como sustituto condilar) con hueso costal (para la rama) — en niños en crecimiento. La cabeza cartilaginosa tiene potencial de crecimiento, pudiendo crecer junto con la cara en desarrollo. Sin embargo, el crecimiento del ICC es impredecible — algunos injertos crecen demasiado rápido (produciendo sobrecrecimiento asimétrico), otros demasiado lentamente. A la madurez esquelética, los receptores de ICC a menudo requieren revisión con **prótesis articular total (PAT)** usando prótesis aloplásticas."
+        },
+        {
+          "type": "table",
+          "title": "Tratamiento según el Tipo Pruzansky-Kaban",
+          "headers": ["Tipo", "Anatomía", "Tratamiento Principal", "Tiempo", "Notas"],
+          "rows": [
+            ["Tipo I", "Cóndilo + rama pequeños, articulación funcional", "Ortodoncia ± cirugía ortognática a la madurez", "Madurez esquelética", "Frecuentemente suficiente el camuflaje ortodóncico"],
+            ["Tipo IIA", "Cóndilo plano, articulación funcional", "DO precoz si grave O cirugía ortognática a la madurez", "Crecimiento (DO) o madurez (ortognática)", "Monitorizar empeoramiento de la asimetría"],
+            ["Tipo IIB", "Cóndilo presente, sin ATM funcional", "DO precoz; PAT aloplástica a la madurez", "DO en crecimiento; PAT a la madurez", "ATM ausente → DO + PAT posterior"],
+            ["Tipo III", "Sin cóndilo, rama ni ATM", "ICC en niño en crecimiento; PAT a la madurez esquelética", "ICC durante crecimiento; PAT >18 años", "Crecimiento del ICC impredecible; PAT más fiable a la madurez"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Tratamiento del Tipo III de Pruzansky",
+          "content": "Tipo III de Pruzansky = AUSENCIA de cóndilo, rama y ATM. Niño en crecimiento: injerto costocondral (ICC) — el cartílago tiene potencial de crecimiento pero es impredecible. Madurez esquelética: prótesis articular total (PAT) aloplástica con implante personalizado específico del paciente. La PAT es más fiable y predecible que el ICC a la madurez."
+        }
+      ]
+    },
+    {
+      "id": "F3-S4",
+      "title": "Prótesis Articular Total (PAT) en la MHF",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **prótesis articular total (PAT)** es la opción quirúrgica definitiva para los tipos IIB y III de Pruzansky-Kaban a la madurez esquelética. En estos pacientes, o bien no existe una ATM funcional, o bien la reconstrucción previa (ICC u otra) no ha proporcionado una función y simetría adecuadas. La PAT proporciona: (1) una articulación funcional con anatomía definida; (2) altura de la rama vertical predecible; (3) soporte oclusal estable; y (4) una solución duradera a largo plazo que no requiere múltiples procedimientos de revisión.\n\nSe utilizan dos sistemas de PAT comercialmente disponibles: el sistema específico del paciente **TMJ Concepts (Biomet)** y el sistema **Stryker TMJ**. Ambos proporcionan un componente fosa metálico (aleación de titanio) y un componente condilar (cabeza condilar de cromo-cobalto con placa de rama de titanio). El enfoque de **implante específico del paciente (IEP)** — donde los implantes de fosa y rama se diseñan a medida a partir de datos de TC para adaptarse a la anatomía única de cada paciente — es el preferido en la MHF debido a la significativa distorsión anatómica presente. Los componentes estándar de catálogo no pueden acomodar la extrema variación anatómica.\n\nEl protocolo de Kaban-Troulis para la PAT en MHF (descrito para pacientes adultos) incluye: (1) planificación quirúrgica virtual (PQV) con datos de TC; (2) diseño de los componentes personalizados de fosa y rama-cóndilo; (3) osteotomía de la rama hipoplásica existente (cuando está presente); (4) colocación del implante de fosa en la región de la fosa glenoidea; (5) fijación del implante de rama-cóndilo; y (6) Le Fort I y/o genioplastia simultáneos según sea necesario para abordar las asimetrías maxilar y mentoniana. La cirugía ortognática concomitante en el momento de la PAT permite una corrección completa en un único tiempo tanto de la anatomía de la ATM como de la deformidad dental/esquelética resultante.\n\nLos resultados publicados de la PAT en MHF (Mercuri 2012; Wolford 2015) muestran buenos resultados funcionales con una supervivencia del implante del 93–97% a 5 años. Las principales limitaciones son la longevidad del implante (supervivencia muy a largo plazo desconocida, especialmente importante en adultos jóvenes), la ausencia de potencial de crecimiento (requiere una cuidadosa sincronización a la madurez esquelética) y el elevado coste."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — PAT Antes de la Madurez Esquelética",
+          "content": "La PAT NO debe realizarse antes de que el crecimiento esquelético esté completo. El implante aloplástico no tiene potencial de crecimiento — si se inserta durante el crecimiento activo, el cóndilo mandibular contralateral sigue creciendo, produciendo asimetría progresiva y mala posición del implante. Confirmar la madurez esquelética (radiografías seriadas, películas de mano-muñeca para la edad ósea) antes de proceder. En mujeres, típicamente 17–18 años; en hombres, 18–20 años."
+        }
+      ]
+    },
+    {
+      "id": "F3-S5",
+      "title": "Reconstrucción Auricular y Rehabilitación Auditiva",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La reconstrucción auricular es uno de los procedimientos técnicamente más exigentes de la cirugía reconstructiva. En la MHF, el pabellón auricular es de forma variable hipoplásico (Grado I), consiste en un remanente de lóbulo (Grado II — el tipo más frecuente que requiere reconstrucción quirúrgica) o está ausente (Grado III — anotia).\n\nEl estándar de referencia para la reconstrucción auricular sigue siendo la **reconstrucción autóloga con cartílago costal** (técnica de Nagata o de Brent), realizada en un protocolo escalonado que comienza a los 6–10 años (cuando el oído contralateral tiene aproximadamente tamaño adulto y hay suficiente cartílago costal disponible de las costillas 6–8). La técnica de Nagata construye el marco auricular completo a partir de cartílago costal tallado y ensamblado en dos o tres tiempos, proporcionando un oído de apariencia natural con excelente durabilidad. La principal limitación es la morbilidad del sitio donante (cicatriz torácica) y la complejidad técnica que requiere experiencia especializada.\n\nLa **reconstrucción auricular aloplástica** con marcos de polietileno poroso (Medpor) permite la cirugía a edades más tempranas (3–5 años) sin morbilidad del sitio donante. Sin embargo, los implantes aloplásticos son vulnerables a la extrusión con el tiempo, especialmente con tensión de la piel suprayacente. El sistema BREATHE (Stryker) utiliza polietileno poroso con implantes de titanio osteointegrados para la retención de prótesis auriculares.\n\nLos **audífonos de anclaje óseo (BAHA)** o los **implantes de oído medio activos** abordan la hipoacusia de transmisión que acompaña a la mayoría de los defectos auriculares de la MHF. La hipoacusia de transmisión resulta de la ausencia o malformación de los osículos del oído medio — el BAHA se comunica con el oído medio transmitiendo la vibración sonora directamente a la cóclea a través de un implante de titanio osteointegrado en el cráneo, proporcionando una rehabilitación auditiva significativa. La rehabilitación auditiva precoz (BAHA o BAHA en banda blanda desde la lactancia) es fundamental para el desarrollo del habla y el lenguaje."
+        },
+        {
+          "type": "table",
+          "title": "Opciones de Reconstrucción Auricular en la MHF",
+          "headers": ["Método", "Edad", "Por Etapas", "Durabilidad", "Limitación"],
+          "rows": [
+            ["Cartílago costal autólogo (Nagata/Brent)", "6–10 años", "2–3 tiempos", "Excelente (de por vida)", "Morbilidad del sitio donante; requiere habilidad especializada"],
+            ["Aloplástico (Medpor)", "3–5 años", "1–2 tiempos", "Buena (riesgo de extrusión 5–15%)", "Extrusión con el tiempo; no fiabilidad de por vida"],
+            ["Prótesis auricular + implantes BAHA", "Cualquier edad (BAHA desde lactancia)", "1 tiempo (implante), prótesis reemplazada cada 2–3 años", "Buena rehabilitación auditiva; prótesis menos duradera", "Reemplazo de prótesis; opción no quirúrgica"],
+            ["Observación + BAHA (banda blanda)", "Desde el nacimiento", "No quirúrgico", "n/a", "Sin corrección estética; solo audición"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — BAHA en la MHF",
+          "content": "TODOS los niños con MHF y anomalía auricular tienen hipoacusia de transmisión hasta que se demuestre lo contrario. La evaluación audiológica al nacer es obligatoria. El BAHA en banda blanda desde la lactancia mantiene la audición durante la ventana crítica de desarrollo del lenguaje. Implante BAHA osteointegrado a los 4–5 años. La rehabilitación auditiva precoz es MÁS importante que la reconstrucción auricular estética precoz."
+        }
+      ]
+    },
+    {
+      "id": "F3-S6",
+      "title": "Déficits de Tejidos Blandos y del Nervio Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El déficit de tejidos blandos en la MHF afecta al tejido adiposo subcutáneo, los músculos masticadores (masetero, pterigoideo medial — que son hipoplásicos en el lado afectado), la glándula parótida (a menudo ausente o reducida) y la piel. El déficit de tejidos blandos siempre está presente junto al déficit óseo y es proporcional a la puntuación S de OMENS.\n\nLa **parálisis del nervio facial** (puntuación N de OMENS) varía desde una paresia sutil de una rama hasta una parálisis completa unilateral del NC VII. En la MHF, la anomalía del nervio facial puede implicar: ausencia de ramas del nervio facial, hipoplasia o curso anormal. La parálisis facial afecta a la alimentación, el cierre del ojo y la expresión — y tiene importantes implicaciones psicosociales a medida que el niño se desarrolla. La evaluación mediante EMG y estudios de conducción nerviosa ayuda a determinar si el nervio está presente (parético) o ausente. Si el nervio está presente pero parético, la fisioterapia y la protección ocular son el pilar del tratamiento. Si las ramas están ausentes, pueden ser necesarios procedimientos de injerto nervioso o transferencia muscular.\n\nLa **aumento de tejidos blandos** es necesaria para los pacientes con déficit OMENS S significativo. Las técnicas incluyen: injerto de grasa libre (procedimientos seriados, con reabsorción de aproximadamente el 30–50% por sesión), **transferencia de tejido libre** (para déficits graves — el sistema subescapular o el colgajo anterolateral del muslo) y **injertos dermograso**. La transferencia de tejido libre produce una restauración de volumen más predecible, pero es una operación mayor. La mayoría de los centros utilizan el injerto de grasa seriado como enfoque primario, reservando los colgajos libres para los casos graves o los que requieren sustitución cutánea simultánea.\n\nLa **parótida** está ausente o hipoplásica en muchos pacientes con MHF — esto raramente causa problemas funcionales, pero debe documentarse como parte de la puntuación OMENS."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Cuidado Ocular en la MHF con Parálisis Facial",
+          "content": "En los pacientes con MHF con parálisis del NC VII que afecta a la rama cigomática (orbicular del ojo), el cierre incompleto del ojo (lagoftalmos) requiere tratamiento inmediato para prevenir la queratopatía por exposición corneal y la pérdida visual. Tratamiento: gotas oculares lubricantes, cinta adhesiva del párpado por la noche, o tarsorrafia temporal en casos graves. La pesa de oro para carga del párpado puede usarse para el lagoftalmos permanente. El cosuministro oftalmológico es obligatorio."
+        }
+      ]
+    },
+    {
+      "id": "F3-S7",
+      "title": "Cirugía Ortognática y Secuencia General de Tratamiento",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El tratamiento general de la MHF desde el nacimiento hasta la adultez sigue un protocolo escalonado coordinado por el EMD craneofacial. A la madurez esquelética (cuando se confirma que el crecimiento está completo), se realiza la corrección esquelética y dental definitiva.\n\nPara los pacientes con hipoplasia mandibular y maxilar significativa (la mayoría de los casos de MHF moderada y grave), la **osteotomía Le Fort I** aborda la inclinación maxilar secundaria (el maxilar se inclina hacia arriba en el lado afectado, siguiendo la reducción mandibular) y cualquier deficiencia maxilar transversal. El Le Fort I se combina con: (1) **osteotomía sagital** de la mandíbula contralateral relativamente normal (para corregir la desviación de la línea media y la simetría de la mordida); o (2) **PAT** en el lado afectado combinada con Le Fort I y posiblemente genioplastia.\n\nLa planificación quirúrgica virtual (PQV) es ahora el estándar para la cirugía ortognática de la MHF — el grado de asimetría tridimensional en la MHF supera con creces lo que la planificación cefalométrica 2D convencional puede abordar. La PQV modela los movimientos esqueléticos en las tres dimensiones (anteroposterior, transversal, vertical) simultáneamente, teniendo en cuenta la compleja interacción entre la PAT/reconstrucción de la rama mandibular, la corrección de la inclinación Le Fort I y el ajuste de la línea media.\n\nEl **protocolo de Estocolmo** (Lauritzen et al. 2001) sigue siendo un marco de tratamiento influyente para la MHF, enfatizando la expansión precoz de los tejidos blandos, la monitorización seriada y el principio de «hacer menos antes que más después» — diferir la cirugía esquelética definitiva a la madurez esquelética y usar intervenciones precoces (DO, ortodoncia) para tratar al niño en crecimiento. La evidencia que compara el enfoque de intervención precoz de Estocolmo con el tratamiento ortodóncico conservador hasta la madurez sigue siendo inconclusa, y la práctica varía significativamente entre los centros europeos."
+        },
+        {
+          "type": "table",
+          "title": "Cronograma de Tratamiento de la MHF desde el Nacimiento hasta la Adultez",
+          "headers": ["Edad", "Evaluación/Intervención", "Especialidad", "Objetivo"],
+          "rows": [
+            ["Nacimiento", "Clasificación OMENS-Plus, cribado audiológico, oftalmología", "EMD", "Documentación de referencia, rehabilitación auditiva precoz"],
+            ["0–6 meses", "BAHA en banda blanda si hay hipoacusia de transmisión", "Audiología/ORL", "Desarrollo del lenguaje"],
+            ["6 meses–3 años", "Monitorización ortodóncica, evaluación de la alimentación, protección corneal si parálisis NC VII", "Ortodoncia, oftalmología", "Prevenir deformidad secundaria"],
+            ["4–5 años", "Implante BAHA osteointegrado; considerar planificación de reconstrucción auricular", "ORL/COMF", "Dispositivo auditivo permanente"],
+            ["5–10 años", "DO mandibular si está indicado (tipos IIA/IIB); ICC si tipo III", "COMF", "Simetría esquelética durante el crecimiento"],
+            ["6–10 años", "Reconstrucción auricular autóloga con cartílago costal (Nagata/Brent)", "COMF/Cirugía Plástica", "Estética auricular"],
+            ["Adolescencia (monitorización del crecimiento)", "Cefalometrías seriadas, OPG, preparación ortodóncica", "Ortodoncia/COMF", "Planificar cirugía ortognática definitiva"],
+            ["Madurez esquelética (17–19 años)", "Le Fort I ± osteotomía sagital ± PAT (guiado por PQV); injerto de grasa para tejidos blandos", "COMF", "Corrección esquelética definitiva"],
+            ["Post-ortognático", "Rinoplastia si es necesaria; injertos de grasa adicionales para tejidos blandos", "COMF/Cirugía Plástica", "Refinamiento estético final"]
+          ]
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre la microsomía hemifacial con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "F3-Q1",
+        "stem": "La microsomía hemifacial es la segunda anomalía craneofacial congénita más frecuente. ¿Cuál es la primera?",
+        "options": {
+          "A": "Craneosinostosis",
+          "B": "Labio leporino y paladar hendido",
+          "C": "Secuencia de Robin",
+          "D": "Síndrome de Treacher Collins"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El labio leporino y el paladar hendido (CLP) es la anomalía craneofacial congénita más frecuente, afectando aproximadamente a 1 de cada 700 nacidos vivos. La microsomía hemifacial es la segunda más frecuente, afectando aproximadamente a 1 de cada 3.500–5.600 nacidos vivos. Conocer este ranking es un dato estándar en los exámenes tanto de cirugía craneofacial como de cirugía oral y maxilofacial pediátrica.",
+          "wrong": {
+            "A": "La craneosinostosis afecta aproximadamente a 1 de cada 2.000–2.500 nacimientos — es más frecuente que la MHF pero menos que el CLP.",
+            "C": "La secuencia de Pierre Robin es una tríada clínica (micrognatia, glosoptosis, obstrucción de la vía aérea — no siempre con paladar hendido) más que una afección separada en la misma categoría de ranking.",
+            "D": "El síndrome de Treacher Collins es una displasia mandibulofacial rara (aproximadamente 1 de cada 50.000) — mucho menos frecuente que la MHF."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Epidemiología de la MHF",
+          "trial": "Grabb WC. Plast Reconstr Surg (1965): estimación de prevalencia más temprana para la MHF; refinada por múltiples estudios epidemiológicos posteriores que establecen 1 de cada 3.500–5.600 como el rango aceptado.",
+          "pearl": "CLP = anomalía craneofacial más frecuente (1 de cada 700). MHF = segunda más frecuente (1 de cada 3.500–5.600). Conocer ambas cifras para el examen.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F3-Q2",
+        "stem": "La clasificación OMENS-Plus de la microsomía hemifacial usa ¿qué dominio para puntuar el grado de hipoplasia mandibular?",
+        "options": {
+          "A": "O — Orbital",
+          "B": "M — Mandibular (usando el sistema de Pruzansky-Kaban)",
+          "C": "E — Ear (oído)",
+          "D": "S — Tejidos blandos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En la clasificación OMENS-Plus, el dominio 'M' puntúa el grado de hipoplasia mandibular usando la clasificación de Pruzansky (1969) modificada por Kaban: Tipo I = cóndilo y rama pequeños pero presentes; Tipo IIA = cóndilo plano con articulación funcional; Tipo IIB = cóndilo presente pero sin ATM funcional; Tipo III = ausencia completa de cóndilo, rama y ATM. La puntuación M orienta directamente la estrategia quirúrgica para la mandíbula.",
+          "wrong": {
+            "A": "El dominio O puntúa el volumen y la posición orbitarios — no la hipoplasia mandibular.",
+            "C": "El dominio E puntúa el grado de anomalía del pabellón auricular (Grado I = oído pequeño; Grado II = remanente de lóbulo; Grado III = anotia).",
+            "D": "El dominio S puntúa la gravedad del déficit de tejidos blandos."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Clasificación OMENS-Plus; Vento AR et al. Cleft Palate Craniofac J (1991)",
+          "trial": "Vento AR et al. Cleft Palate Craniofac J (1991): descripción original de la clasificación OMENS — sistema de puntuación de 5 dominios validado en 55 pacientes con MHF en el Instituto Craneofacial de NYU.",
+          "pearl": "OMENS-Plus: O=Orbital, M=Mandibular (Pruzansky-Kaban), E=Ear (oído), N=Nerve (nervio facial NC VII), S=Soft tissue (tejidos blandos). Cada dominio puntuado 0–3. '+' = características adicionales (maxilar, cigoma).",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F3-Q3",
+        "stem": "Un niño de 7 años con MHF (tipo IIB de Pruzansky — cóndilo presente pero sin ATM funcional) es sometido a distracción osteogénica mandibular. ¿Cuál es la tasa de activación estándar para la DO mandibular?",
+        "options": {
+          "A": "0,1 mm por día",
+          "B": "1 mm por día (en dos incrementos de 0,5 mm)",
+          "C": "3 mm por día",
+          "D": "5 mm por semana"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La tasa de activación estándar para la distracción osteogénica mandibular es de 1 mm por día, generalmente administrado en dos incrementos de 0,5 mm dos veces al día. Esta tasa se basa en el principio original de Ilizarov desarrollado para la distracción de huesos largos y validado para la DO mandibular por Kaban et al. (1998). Las tasas superiores a 1 mm/día superan la velocidad de formación de nuevo hueso (unión fibrosa en lugar de hueso); las tasas inferiores a 0,5 mm/día permiten una consolidación prematura que resiste la distracción. El protocolo estándar: latencia 5–7 días → activación 1 mm/día → consolidación 6–8 semanas.",
+          "wrong": {
+            "A": "0,1 mm/día es demasiado lento — esto permitiría una consolidación prematura y el dispositivo se volvería resistente antes de alcanzar el movimiento deseado.",
+            "C": "3 mm/día es demasiado rápido — la formación ósea no puede seguir el ritmo de la distracción a esta velocidad, produciendo tejido fibroso (unión fibrosa) en lugar de hueso en el regenerado.",
+            "D": "5 mm/semana ≈ 0,7 mm/día — ligeramente por debajo del estándar; la tasa convencional es 1 mm/día o aproximadamente 7 mm/semana."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Protocolo de distracción osteogénica para MHF mandibular",
+          "trial": "Kaban LB et al. J Oral Maxillofac Surg (1998): DO mandibular en MHF — protocolo de activación de 1 mm/día produciendo regenerado óseo exitoso en el 94% de los casos; este artículo estandarizó el protocolo.",
+          "pearl": "Tasa de activación DO = 1 mm/día en dos incrementos de 0,5 mm. Más rápido = unión fibrosa. Más lento = consolidación prematura. Protocolo: latencia 5–7 días → activación → consolidación 6–8 semanas.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q4",
+        "stem": "En la clasificación de Pruzansky-Kaban de la hipoplasia mandibular en la MHF, el tipo III describe:",
+        "options": {
+          "A": "Un cóndilo pequeño con ATM funcional",
+          "B": "Una cabeza condilar plana con articulación anormal pero funcional",
+          "C": "Un cóndilo presente sin ATM funcional",
+          "D": "Ausencia completa de cóndilo, rama y ATM"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El tipo III de Pruzansky-Kaban es la afectación mandibular más grave en la MHF, caracterizado por la ausencia completa del cóndilo, la rama y la ATM. No existe conexión ósea entre el cuerpo mandibular y el hueso temporal en el lado afectado. Este patrón requiere el tratamiento quirúrgico más complejo: injerto costocondral (ICC) durante el crecimiento, seguido de prótesis articular total (PAT) a la madurez esquelética.",
+          "wrong": {
+            "A": "Cóndilo pequeño con ATM funcional = tipo I de Pruzansky (el más leve).",
+            "B": "Cabeza condilar plana con articulación anormal pero funcional = tipo IIA de Pruzansky.",
+            "C": "Cóndilo presente pero sin ATM funcional = tipo IIB de Pruzansky."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Clasificación mandibular de Pruzansky-Kaban en la MHF",
+          "trial": "Pruzansky S. Birth Defects (1969): clasificación original de tres tipos; Kaban LB et al. J Oral Maxillofac Surg (1988): modificación que añade los subtipos IIA y IIB, ahora adoptados universalmente.",
+          "pearl": "Pruzansky-Kaban: I = cóndilo pequeño + articulación funcional; IIA = cóndilo plano + articulación funcional; IIB = cóndilo presente + SIN articulación funcional; III = SIN cóndilo, rama ni articulación. Tipo III = el peor = ICC en el niño + PAT a la madurez.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F3-Q5",
+        "stem": "La etiología más ampliamente aceptada de la microsomía hemifacial es:",
+        "options": {
+          "A": "Mutación autosómica dominante en el gen TCOF1",
+          "B": "Interrupción vascular de la arteria estapediana durante las semanas 4–7 de gestación (hipótesis de Poswillo)",
+          "C": "Fracaso de la migración de las células de la cresta neural hacia los arcos branquiales primero y segundo",
+          "D": "Mutación del gen FGFR2 que produce un desarrollo asimétrico del primer arco"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La hipótesis de interrupción vascular de Poswillo (1973) propone que la interrupción de la arteria estapediana durante las semanas 4–7 de gestación produce hemorragia localizada y hematoma en el territorio del primer y segundo arcos branquiales, resultando en grados variables de destrucción tisular y desarrollo anormal. La gravedad del fenotipo de MHF se correlaciona con el estadio del desarrollo en el que ocurre la interrupción vascular. Esta hipótesis está respaldada por evidencia de modelos animales (manipulación de la arteria trigémina en ratones y ratas produciendo fenotipos similares) y sigue siendo la explicación más aceptada, aunque la mayoría de los casos son esporádicos sin ninguna mutación específica identificada.",
+          "wrong": {
+            "A": "La mutación del gen TCOF1 (que codifica la proteína Treacle) causa el síndrome de Treacher Collins (displasia mandibulofacial) — NO la microsomía hemifacial. Son afecciones distintas.",
+            "C": "El fracaso de la migración de las células de la cresta neural está involucrado en muchas afecciones craneofaciales, pero no es la etiología específica aceptada de la MHF — la teoría vascular de Poswillo es la hipótesis establecida.",
+            "D": "Las mutaciones FGFR2 causan craneosinostosis sindrómica (síndromes de Apert, Crouzon) — no la MHF. La MHF no tiene ninguna mutación monogénica identificada de forma consistente."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Etiología de la MHF: hipótesis de Poswillo",
+          "trial": "Poswillo D. Oral Surg Oral Med Oral Pathol (1973): modelo de interrupción vascular en estudios en animales produciendo hipoplasia del primer y segundo arcos branquiales — este artículo estableció la hipótesis etiológica principal de la MHF.",
+          "pearl": "Etiología de la MHF = hipótesis de interrupción vascular de POSWILLO: interrupción de la arteria estapediana (semanas 4–7) → hematoma → desarrollo anormal del primer y segundo arco. La mayoría de los casos son esporádicos. Riesgo de recurrencia 2–3%. NO TCOF1 (ese es el síndrome de Treacher Collins).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q6",
+        "stem": "Un recién nacido con MHF y deformidad auricular de Grado II (remanente de lóbulo, ausencia del conducto auditivo externo) presenta hipoacusia de transmisión en el cribado audiológico. ¿Cuál es la intervención precoz MÁS IMPORTANTE?",
+        "options": {
+          "A": "Reconstrucción auricular quirúrgica inmediata con un marco de cartílago costal",
+          "B": "Rehabilitación auditiva con un BAHA en banda blanda para apoyar el desarrollo del habla y el lenguaje",
+          "C": "Apertura quirúrgica del conducto auditivo externo (canaloplastia) en el período neonatal",
+          "D": "Observación — la hipoacusia de transmisión en la lactancia no afecta al desarrollo del lenguaje"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La rehabilitación auditiva precoz es la intervención más importante para un recién nacido con MHF e hipoacusia de transmisión. La ventana crítica de desarrollo del lenguaje son los primeros 3 años de vida — la hipoacusia durante este período deteriora permanentemente la adquisición del lenguaje. Un BAHA en banda blanda (un dispositivo BAHA llevado en una diadema suave, sin necesidad de implante a esta edad) puede ajustarse desde la lactancia y proporciona una rehabilitación auditiva eficaz por conducción ósea, sorteando los osículos del oído medio ausentes/malformados. La reconstrucción auricular estética se difiere hasta los 6–10 años (cuando hay suficiente cartílago costal disponible).",
+          "wrong": {
+            "A": "La reconstrucción auricular al nacimiento no se realiza — el cartílago costal es insuficiente para la construcción del marco a esta edad y el oído contralateral aún no tiene tamaño adulto (necesario para el emparejamiento de tamaño). La reconstrucción comienza a los 6–10 años.",
+            "C": "La canaloplastia (creación quirúrgica del conducto auditivo) en neonatos no se realiza — la anatomía del conducto auditivo es demasiado inmadura, y crear un nuevo conducto en un oído medio malformado conlleva riesgos. El BAHA evita la necesidad de crear un conducto.",
+            "D": "La observación sola es peligrosa — la hipoacusia de transmisión unilateral en la ventana crítica del lenguaje impacta significativamente el desarrollo del lenguaje, las habilidades lectoras y el rendimiento escolar. Los audífonos desde la lactancia son obligatorios."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Tratamiento auditivo en la MHF: BAHA precoz como estándar desde la lactancia",
+          "trial": "Manrique M et al. Acta Otolaryngol (2005): resultados del lenguaje en hipoacusia de transmisión unilateral — el grupo no tratado mostró puntuaciones de lenguaje significativamente peores frente al grupo BAHA a los 5 años (p<0,001). La rehabilitación precoz es crítica.",
+          "pearl": "MHF + hipoacusia de transmisión = BAHA EN BANDA BLANDA DESDE EL NACIMIENTO. Ventana de desarrollo del lenguaje = primeros 3 años. Audición primero, oídos después. Reconstrucción estética (cartílago costal) a los 6–10 años. Nunca diferir la rehabilitación auditiva.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q7",
+        "stem": "La puntuación 'M3' en la clasificación OMENS-Plus (tipo III de Pruzansky-Kaban) orienta al EMD hacia ¿qué estrategia quirúrgica principal?",
+        "options": {
+          "A": "Solo camuflaje ortodóncico — no se requiere cirugía",
+          "B": "Distracción osteogénica de la rama existente en la infancia, seguida de PAT a la madurez esquelética",
+          "C": "Injerto costocondral en el niño en crecimiento para proporcionar un sustituto condilar con potencial de crecimiento, seguido de PAT a la madurez esquelética",
+          "D": "PAT inmediata en la lactancia para establecer la anatomía articular antes del crecimiento"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Para el tipo III de Pruzansky (M3 en OMENS), donde no existe cóndilo, rama ni ATM, no hay ninguna estructura ósea que distrar. En el niño en crecimiento, se utiliza un injerto costocondral (ICC) — usando cartílago costal como sustituto del cóndilo y hueso costal como sustituto de la rama — para construir una nueva unidad rama-cóndilo. La cabeza cartilaginosa tiene potencial de crecimiento inherente, aunque este es impredecible. A la madurez esquelética, los receptores de ICC a menudo requieren revisión con PAT aloplástica cuando el crecimiento del ICC es insuficiente o excesivo.",
+          "wrong": {
+            "A": "El tipo III no puede tratarse solo con ortodoncia — el déficit estructural es demasiado grave para el camuflaje, y la ausencia de rama produce un compromiso funcional y estético grave.",
+            "B": "La DO requiere una rama existente que distrar — con ausencia completa (tipo III), no hay nada sobre lo que colocar un dispositivo de distracción. El ICC crea la nueva rama que podría ser distraída posteriormente si fuera necesario.",
+            "D": "La PAT en la lactancia está absolutamente contraindicada — la PAT no tiene potencial de crecimiento, y colocarla en un niño en crecimiento produciría una detención permanente del crecimiento y asimetría grave a medida que el lado normal sigue creciendo."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Algoritmo de tratamiento del tipo III de Pruzansky",
+          "trial": "Kaban LB et al. J Oral Maxillofac Surg (1998): ICC para MHF tipo III en 28 pacientes — 18/28 (64%) lograron una simetría facial adecuada solo con ICC; 10/28 requirieron PAT a la madurez por fracaso del crecimiento del ICC.",
+          "pearl": "MHF tipo III: SIN rama que distrar → ICC en fase de crecimiento (cabeza cartilaginosa tiene potencial de crecimiento) → PAT a la madurez esquelética (más predecible, duradera). El crecimiento del ICC es IMPREDECIBLE — algunos sobrecrecen, otros no crecen suficiente.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q8",
+        "stem": "¿Qué estructura es hipoplásica en la MHF como consecuencia directa del desarrollo anormal del primer y segundo arcos branquiales?",
+        "options": {
+          "A": "Hueso frontal y rebordes supraorbitarios",
+          "B": "Mandíbula, oído (pabellón auricular y oído medio) y nervio facial",
+          "C": "Cartílagos nasales y vómer",
+          "D": "Amígdalas palatinas y adenoides"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El primer arco branquial contribuye a la mandíbula, el maxilar superior (proceso cigomático), los osículos martillo y yunque, y los músculos de la masticación. El segundo arco branquial contribuye al estribo, la apófisis estiloides, el hioides (cuerno menor), los músculos de la expresión facial (inervados por el NC VII = nervio del segundo arco) y el pabellón auricular (oído externo). La MHF implica el desarrollo hipoplásico de todas estas estructuras en grados variables, lo que explica el fenotipo OMENS: hipoplasia mandibular (primer arco), anomalías auriculares y del oído medio (primer y segundo arco) y paresia del nervio facial (territorio del nervio del segundo arco).",
+          "wrong": {
+            "A": "El hueso frontal y los rebordes supraorbitarios son huesos craneales intramusculares, no derivados de los arcos branquiales — no están afectados principalmente en la MHF.",
+            "C": "Los cartílagos nasales y el vómer se derivan de los procesos nasales y del proceso nasal medial — no principalmente de los primero/segundo arcos branquiales.",
+            "D": "Las amígdalas palatinas y las adenoides son estructuras linfoides — no derivados de los arcos branquiales en el sentido relevante para la MHF."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Bases embriológicas de la MHF",
+          "trial": "Poswillo D. Oral Surg Oral Med Oral Pathol (1973): modelo animal confirmando la destrucción tisular del primer y segundo arco tras la interrupción de la arteria estapediana — mandíbula, oído y estructuras del nervio facial sistemáticamente afectadas.",
+          "pearl": "1.er arco → mandíbula, maxilar (malar), martillo, yunque, músculos de la masticación (NC V). 2.o arco → estribo, apófisis estiloides, hioides, músculos de la expresión facial (NC VII), pabellón auricular. MHF = desarrollo anormal del 1.er + 2.o arco.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q9",
+        "stem": "¿A qué edad se realiza de forma óptima la reconstrucción auricular autóloga con cartílago costal (técnica de Nagata)?",
+        "options": {
+          "A": "Primeros 6 meses de vida",
+          "B": "6–10 años de edad",
+          "C": "Adolescencia (12–16 años)",
+          "D": "Solo en la adultez — el cartílago costal es demasiado blando en los niños"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La reconstrucción auricular autóloga con cartílago costal se realiza de forma óptima entre los 6–10 años por dos razones: (1) el cartílago costal del niño ha alcanzado un tamaño suficiente para proporcionar una cantidad adecuada de cartílago para la construcción del marco (las costillas 6–8 proporcionan el material del marco); y (2) el oído contralateral ha alcanzado aproximadamente el tamaño adulto, lo que permite un emparejamiento preciso de tamaño. La cirugía más precoz no es posible porque no hay suficiente cartílago disponible. La cirugía más tardía (adolescencia o adultez) es posible, pero el cartílago costal se calcifica más y se vuelve más rígido con la edad, haciendo más difícil el tallado.",
+          "wrong": {
+            "A": "Los primeros 6 meses: el cartílago costal es demasiado pequeño y blando para la construcción del marco a esta edad. No es factible.",
+            "C": "La adolescencia es demasiado tarde para la ventana óptima — el cartílago costal se calcifica con la edad, reduciendo la posibilidad de tallado y aumentando la morbilidad del sitio donante. Sin embargo, la reconstrucción en adolescentes se realiza cuando la cirugía más precoz no fue posible.",
+            "D": "El cartílago costal en los niños es en realidad MÁS maleable y más fácil de tallar que el cartílago calcificado adulto — la adultez no es el tiempo óptimo."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Tiempo de reconstrucción auricular: 6–10 años para el cartílago autólogo",
+          "trial": "Nagata S. Plast Reconstr Surg (1994): serie de 100 pacientes con la técnica de Nagata — resultados óptimos obtenidos entre los 6–10 años; técnica de tallado del marco descrita en detalle.",
+          "pearl": "Reconstrucción auricular con cartílago costal autólogo: 6–10 años = ÓPTIMO. Razón: volumen de cartílago costal suficiente disponible (costillas 6–8); oído contralateral = tamaño adulto. Antes = no suficiente cartílago. Después = cartílago calcificado más difícil de tallar.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F3-Q10",
+        "stem": "En la clasificación OMENS-Plus, el dominio 'N' puntúa el grado de déficit de ¿qué estructura?",
+        "options": {
+          "A": "Deformidad nasal",
+          "B": "Paresia del nervio facial",
+          "C": "Desarrollo neurocognitivo",
+          "D": "Obstrucción de la vía aérea nasofaríngea"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El dominio 'N' en OMENS-Plus puntúa el grado de paresia del nervio facial (NC VII): N0 = normal; N1 = paresia de una rama; N2 = paresia de dos o más ramas; N3 = parálisis facial unilateral completa. Se cree que la afectación del nervio facial en la MHF resulta del desarrollo anormal del segundo arco branquial — el nervio facial es el nervio del segundo arco branquial. La documentación del estado del nervio facial orienta el tratamiento del lagoftalmos, la rehabilitación de la expresión facial y los posibles procedimientos de injerto nervioso o transferencia muscular.",
+          "wrong": {
+            "A": "La deformidad nasal está incluida en la parte '+' de OMENS-Plus (características adicionales) — no es el dominio 'N'.",
+            "C": "El desarrollo neurocognitivo no es un componente del sistema de puntuación OMENS — se evalúa por separado.",
+            "D": "La obstrucción de la vía aérea nasofaríngea no es un dominio OMENS — es una evaluación clínica separada de la puntuación OMENS."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Dominios OMENS-Plus; Vento AR et al. Cleft Palate Craniofac J (1991)",
+          "trial": "Vento AR et al. Cleft Palate Craniofac J (1991): validación de OMENS — dominio N (nervio facial) encontrado en el 22% de los pacientes con MHF de la serie, con impacto significativo en la planificación quirúrgica.",
+          "pearl": "OMENS N = NERVIO = nervio FACIAL (NC VII). No nasal, no neurológico. Puntuaciones N0–N3 de normal a parálisis unilateral completa. Documentar siempre la puntuación N — orienta la planificación de la rehabilitación del NC VII.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F3-Q11",
+        "stem": "El síndrome de Goldenhar se distingue de la microsomía hemifacial 'clásica' por la presencia adicional de:",
+        "options": {
+          "A": "Afectación bilateral",
+          "B": "Anomalías vertebrales y dermoides epibulbares",
+          "C": "Paladar hendido e insuficiencia velofaríngea",
+          "D": "Mutación del gen TCOF1"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El síndrome de Goldenhar (un extremo más grave del espectro óculo-aurículo-vertebral) se define por las características de MHF MÁS anomalías vertebrales cervicales (hemivértebras, vértebras fusionadas — patrón de Klippel-Feil) Y dermoides epibulbares (coristomas benignos en la superficie conjuntival). Los dermoides epibulbares son patognomónicos cuando se combinan con características de MHF. Las anomalías vertebrales requieren evaluación de la columna cervical antes de la anestesia (riesgo de inestabilidad atlantoaxial).",
+          "wrong": {
+            "A": "La afectación bilateral ocurre en aproximadamente el 10% de todos los casos de MHF pero no es la característica definitoria del síndrome de Goldenhar específicamente.",
+            "C": "El paladar hendido no es una característica definitoria del síndrome de Goldenhar — puede coexistir pero no es necesario para el diagnóstico.",
+            "D": "Las mutaciones TCOF1 causan el síndrome de Treacher Collins — no el síndrome de Goldenhar/MHF. El Goldenhar no tiene ninguna causa monogénica identificada de forma consistente."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Síndrome de Goldenhar: criterios diagnósticos",
+          "trial": "Grabb WC. Plast Reconstr Surg (1965): descripción original que distingue a Goldenhar de la MHF — dermoides epibulbares y anomalías vertebrales como las características adicionales definitivas.",
+          "pearl": "Goldenhar = MHF + anomalías VERTEBRALES + dermoides EPIBULBARES. Espectro OAV. Comprobar siempre la columna cervical (riesgo anestésico) y la oftalmología (dermoides) en el Goldenhar. TCOF1 = Treacher Collins (NO Goldenhar).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q12",
+        "stem": "La inclinación maxilar (el maxilar ipsilateral se inclina hacia arriba en el lado afectado por MHF) está causada por:",
+        "options": {
+          "A": "Hipoplasia maxilar primaria por el desarrollo anormal del primer arco, independiente de la mandíbula",
+          "B": "Erupción dental y esquelética adaptativa secundaria que sigue el déficit de altura de la rama mandibular acortada",
+          "C": "Estenosis de la sutura cigomatomaxilar que produce descenso orbitario ipsilateral",
+          "D": "Hipertrofia muscular unilateral del masetero en el lado no afectado"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La inclinación maxilar en la MHF es una deformidad secundaria. La rama acortada en el lado afectado produce un déficit de altura mandibular en ese lado. Con el tiempo, los dientes en el lado afectado erupcionan verticalmente para ocluir con la mandíbula acortada, mientras que los dientes en el lado no afectado no erupcionan tanto, produciendo un arco dental inclinado. El maxilar, siguiendo el patrón de erupción dental, se adapta a una posición inclinada (elevada ipsilateralmente). La inclinación maxilar es, por tanto, secundaria al déficit mandibular — el tratamiento requiere corregir primero la altura mandibular (DO o cirugía de la rama) y luego el Le Fort I para nivelar la inclinación maxilar.",
+          "wrong": {
+            "A": "Aunque el maxilar tiene una leve hipoplasia primaria en algunos pacientes con MHF, la inclinación es principalmente una respuesta adaptativa secundaria al déficit de altura mandibular, no una anomalía maxilar primaria.",
+            "C": "La estenosis de la sutura cigomatomaxilar no es una característica de la MHF — el descenso orbitario en la MHF es el dominio O de OMENS, relacionado con el déficit de volumen orbitario más que con la estenosis sutural.",
+            "D": "La hipertrofia del masetero en el lado no afectado puede desarrollarse con el tiempo, pero no es la causa de la inclinación maxilar."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Inclinación maxilar en la MHF: mecanismo secundario y corrección quirúrgica",
+          "trial": "Proffit WR et al. Contemporary Orthodontics 5th ed. (2012): adaptación dental a la asimetría mandibular — la inclinación oclusal como respuesta secundaria a la asimetría esquelética subyacente; texto ortodóncico fundacional.",
+          "pearl": "Inclinación maxilar en MHF = SECUNDARIA al déficit de altura mandibular. Los dientes en el lado afectado erupcionan hacia arriba para encontrar la mandíbula corta → el maxilar se inclina. Corregir la mandíbula PRIMERO (DO/PAT), LUEGO Le Fort I para nivelar la inclinación. No corregir el maxilar sin abordar la mandíbula.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F3-Q13",
+        "stem": "La prótesis articular total (PAT) en la MHF está contraindicada antes de ¿qué hito del desarrollo?",
+        "options": {
+          "A": "Completar la dentición primaria",
+          "B": "Completar el crecimiento esquelético",
+          "C": "Completar el tratamiento ortodóncico",
+          "D": "Los 10 años independientemente del estado del crecimiento"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La PAT no debe realizarse antes de que el crecimiento esquelético esté completo. El implante aloplástico no tiene potencial de crecimiento — una vez in situ, proporciona una altura de rama vertical fija. Si el cóndilo mandibular contralateral sigue creciendo (lo que hace hasta la madurez esquelética — aproximadamente 17–18 años en mujeres, 18–20 en hombres), se desarrollará asimetría progresiva a medida que el lado normal crece mientras el lado de la PAT permanece fijo. La PAT insertada antes de la madurez esquelética requerirá cirugía de revisión cuando el crecimiento esté completo.",
+          "wrong": {
+            "A": "La completar la dentición primaria no es el hito relevante para la PAT — la madurez esquelética lo es.",
+            "C": "La completar el tratamiento ortodóncico es un requisito previo para la cirugía ortognática (PAT + Le Fort I) pero no es el criterio definitorio de contraindicación — la madurez esquelética lo es.",
+            "D": "Los 10 años es demasiado pronto para la PAT en la mayoría de los pacientes — el crecimiento continúa durante aproximadamente 8–10 años más."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Tiempo de la PAT en la MHF: después de la madurez esquelética",
+          "trial": "Mercuri LG et al. J Oral Maxillofac Surg (2012): serie de resultados de PAT — los casos insertados antes de la madurez esquelética (inadvertidamente) requirieron reoperación en el 100% frente al 7% en el grupo skeletalmente maduro.",
+          "pearl": "PAT = SOLO DESPUÉS DE LA MADUREZ ESQUELÉTICA. Sin excepciones. Chicas: 17–18 años. Chicos: 18–20 años. Confirmar con cefalometrías seriadas. PAT prematura → asimetría progresiva → revisión obligatoria.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q14",
+        "stem": "En la fase de latencia de la DO para la distracción mandibular en la MHF, ¿qué proceso biológico está ocurriendo y cuánto dura?",
+        "options": {
+          "A": "La osificación del nuevo hueso está ocurriendo rápidamente — dura 3 meses",
+          "B": "El sitio de osteotomía forma un callo/hematoma inicial antes de que comience la activación — dura 5–7 días",
+          "C": "El entorno de tejidos blandos está siendo pre-expandido antes del movimiento óseo — dura 2–4 semanas",
+          "D": "Los extremos óseos están siendo estimulados eléctricamente para comenzar la formación del regenerado — dura 2 días"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fase de latencia sigue a la osteotomía y precede al inicio de la activación del dispositivo. Durante la fase de latencia (5–7 días para la mandíbula), el sitio de osteotomía forma un callo/hematoma inicial y comienza la cascada de curación — invasión vascular, reclutamiento de fibroblastos y formación inicial del callo. Esto proporciona el sustrato biológico que será estirado durante la activación. Comenzar la distracción demasiado pronto (antes de la latencia) altera esta formación inicial del callo y puede resultar en unión fibrosa. Comenzar demasiado tarde permite una consolidación prematura y mayor resistencia a la activación del dispositivo.",
+          "wrong": {
+            "A": "La osificación del nuevo hueso (consolidación) ocurre DESPUÉS de la fase de activación, no durante la latencia. La latencia es el período previo al comienzo de la activación.",
+            "C": "La pre-expansión del entorno de tejidos blandos es un concepto en la expansión tisular (con expansores) — no es el evento principal en la fase de latencia de la DO.",
+            "D": "La estimulación eléctrica no se utiliza en los protocolos estándar de DO mandibular."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Protocolo de DO: fases de latencia, activación y consolidación",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): principios fundacionales de DO establecidos para los huesos largos — latencia 5–7 días, activación 1 mm/día, consolidación hasta la unión ósea. Estos principios se aplican directamente al protocolo de DO mandibular.",
+          "pearl": "Fases de DO: LATENCIA (5–7 días) = se forma el callo → ACTIVACIÓN (1 mm/día) = el regenerado óseo se estira → CONSOLIDACIÓN (6–8 semanas) = el nuevo hueso se endurece. Cada fase es esencial. Apresurar la latencia = unión fibrosa. Apresurar la consolidación = recidiva.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q15",
+        "stem": "Un niño con MHF tiene parálisis facial derecha N3 (parálisis completa del NC VII derecho). La familia refiere que el ojo derecho no se cierra completamente por la noche. ¿Cuál es el riesgo oftalmológico inmediato y el tratamiento de primera línea?",
+        "options": {
+          "A": "Cataratas por reducción de la producción de lágrimas — tratar con gotas lubricantes",
+          "B": "Queratopatía por exposición corneal por lagoftalmos — tratar con gotas lubricantes oculares y cinta adhesiva del párpado por la noche",
+          "C": "Desprendimiento de retina por aumento de la presión intraocular — tratar con acetazolamida",
+          "D": "Ambliopía por ptosis que oscurece el eje visual — tratar con oclusión del ojo normal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La parálisis completa del NC VII produce lagoftalmos (incapacidad para cerrar completamente el ojo), exponiendo la córnea durante el sueño y el parpadeo. Sin un cierre adecuado del ojo, la córnea se deshidrata y está expuesta a trauma físico, conduciendo a erosiones corneales, ulceración, cicatrización y potencialmente pérdida visual permanente. Tratamiento inmediato: gotas lubricantes oculares regulares durante el día, ungüento lubricante por la noche y cinta adhesiva física del párpado para mantener el cierre durante el sueño. En casos graves, puede ser necesaria una tarsorrafia temporal. A largo plazo: implante de pesa de oro en el párpado superior (agrega peso para facilitar el cierre pasivo), injerto nervioso o transferencia muscular dinámica.",
+          "wrong": {
+            "A": "Las cataratas no están causadas por la reducción de la producción de lágrimas — están causadas por opacificación del cristalino por varios factores metabólicos y relacionados con los rayos UV. No es el riesgo agudo en la parálisis facial.",
+            "C": "El desprendimiento de retina y la PIO elevada no están asociados con la parálisis del nervio facial — son afecciones no relacionadas.",
+            "D": "La ambliopía por ptosis requiere que la ptosis obstruya el eje visual — la parálisis del nervio facial causa DEBILIDAD del párpado (lagoftalmos), no ptosis. La ambliopía no es el riesgo agudo aquí."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Tratamiento oftalmológico en MHF con parálisis del nervio facial",
+          "trial": "Bhidayasiri R & Waters MF. Nat Clin Pract Neurol (2008): complicaciones corneales en la parálisis del nervio facial — el 30–40% desarrolla patología corneal sin medidas protectoras; los lubricantes + la cinta reducen el riesgo a <5%.",
+          "pearl": "Parálisis NC VII + lagoftalmos = riesgo de QUERATOPATÍA POR EXPOSICIÓN CORNEAL. Inmediato: lubricantes + cinta nocturna. Si persiste: implante de pesa de oro en párpado superior. Cicatrización corneal irreversible → pérdida visual. SIEMPRE derivar a oftalmología en MHF con parálisis NC VII.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q16",
+        "stem": "La planificación quirúrgica virtual (PQV) es especialmente importante en la cirugía ortognática de la MHF porque:",
+        "options": {
+          "A": "Los pacientes con MHF siempre tienen afectación bilateral que requiere planificación simétrica",
+          "B": "La asimetría esquelética tridimensional supera lo que la planificación cefalométrica 2D convencional puede abordar de forma fiable",
+          "C": "La PQV proporciona información sobre la cicatrización de tejidos blandos que no se puede obtener de la TC",
+          "D": "La PQV elimina la necesidad de preparación ortodóncica prequirúrgica"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La cirugía ortognática de la MHF implica movimientos esqueléticos complejos y tridimensionales que no pueden planificarse de forma fiable con el análisis cefalométrico lateral y PA 2D convencional. La asimetría implica movimientos diferenciales en los tres planos (AP, transversal, vertical) en cada lado simultáneamente, combinado con PAT en un lado y una osteotomía sagital en el otro. La PQV permite al cirujano modelar todos los movimientos simultáneamente en 3D, tener en cuenta la interacción entre la altura de la rama de la PAT y la corrección de la inclinación Le Fort I, y diseñar guías de corte y implantes específicos del paciente.",
+          "wrong": {
+            "A": "La MHF es predominantemente unilateral (90%) — la asimetría es la característica definitoria, no la simetría bilateral. La PQV aborda la asimetría, no la planificación bilateral.",
+            "C": "La PQV proporciona datos de planificación esquelética a partir de la TC — no proporciona información adicional de cicatrización de tejidos blandos más allá de lo disponible en la evaluación clínica.",
+            "D": "La preparación ortodóncica prequirúrgica sigue siendo necesaria independientemente de la PQV — la PQV no elimina la necesidad de descompensación ortodóncica antes de la cirugía."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — PQV en la cirugía ortognática de MHF: estándar de cuidado en centros especializados",
+          "trial": "Olate S et al. Int J Oral Maxillofac Surg (2021): PQV en la corrección de asimetría facial — precisión de resultados tridimensionales significativamente mejorada frente a la planificación 2D convencional en casos asimétricos.",
+          "pearl": "Cirugía ortognática en MHF = PQV es estándar. Asimetría 3D > capacidad de planificación cefalométrica 2D. La PQV permite el modelado simultáneo de la altura de la PAT + inclinación Le Fort I + corrección de línea media. Las guías de corte específicas del paciente garantizan la precisión intraoperatoria.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F3-Q17",
+        "stem": "La fase de consolidación de la distracción osteogénica para la MHF mandibular implica mantener el dispositivo de distracción in situ sin activarlo. ¿Cuál es el propósito y la duración estándar de esta fase?",
+        "options": {
+          "A": "Permitir la adaptación de los tejidos blandos antes de la unión ósea — 2 semanas",
+          "B": "Permitir la mineralización y maduración del regenerado de distracción en hueso laminar maduro — 6–8 semanas",
+          "C": "Permitir que la oclusión opuesta se ajuste antes de la retirada del dispositivo — 4 semanas",
+          "D": "Prevenir la infección del dispositivo mientras los antibióticos actúan — 1 semana"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fase de consolidación sigue a la finalización de la distracción e implica mantener el dispositivo in situ (sin más activación) durante 6–8 semanas. Durante este período, el regenerado de distracción — inicialmente compuesto de tejido fibrovascular y hueso reticular organizado en columnas alineadas con el vector de distracción — sufre una mineralización progresiva y remodelación en hueso laminar cortical maduro. La retirada prematura del dispositivo durante la consolidación (antes de una mineralización adecuada) produce recidiva ya que el regenerado inmaduro no puede resistir las fuerzas de la masticación.",
+          "wrong": {
+            "A": "La adaptación de los tejidos blandos no es el propósito principal de la consolidación — la maduración ósea lo es. 2 semanas son insuficientes para la consolidación ósea.",
+            "C": "El ajuste oclusal no es el propósito de la consolidación — el dispositivo es un retenedor pasivo durante la consolidación, no un dispositivo de ajuste oclusal.",
+            "D": "La cobertura antibiótica no es el propósito de la consolidación — la infección se gestiona por separado y no es la justificación para la retención del dispositivo."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Fase de consolidación de DO: 6–8 semanas estándar",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): principios de la fase de consolidación — transición de hueso reticular a hueso laminar de 6–8 semanas confirmada por radiografías seriadas en DO de huesos largos; aplicada directamente al protocolo mandibular.",
+          "pearl": "Fase de consolidación = 6–8 semanas = hueso reticular → hueso laminar maduro. Retirar el dispositivo demasiado pronto = RECIDIVA. Comprobar la consolidación en radiografía (márgenes corticados, obliteración de la lucencia del regenerado) antes de retirar el dispositivo.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q18",
+        "stem": "Un injerto costocondral (ICC) insertado a los 7 años para la MHF tipo III de Pruzansky presenta, en el seguimiento a 3 años, un sobrecrecimiento excesivo que produce prognatismo ipsilateral y mordida abierta en el lado afectado. ¿Cuál es la explicación más probable?",
+        "options": {
+          "A": "Fallo del dispositivo del aparato de distracción osteogénica",
+          "B": "Sobrecrecimiento impredecible del componente cartilaginoso del ICC, produciendo alargamiento excesivo de la rama",
+          "C": "Reabsorción condilar contralateral que produce elongación relativa del lado reconstruido",
+          "D": "Fuerzas ortodóncicas que causan migración del ICC"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El potencial de crecimiento del componente cartilaginoso del injerto costocondral (cartílago costal utilizado como sustituto del cóndilo) es inherentemente impredecible. En algunos pacientes, el cartílago crece a un ritmo similar al cóndilo opuesto (deseado); en otros, crece más rápido (produciendo sobrecrecimiento con prognatismo y mordida abierta, como en este caso) o más lentamente (produciendo recurrencia del déficit de altura). El comportamiento de crecimiento impredecible del ICC es la principal limitación de esta técnica y la razón por la que se prefiere la PAT (con un componente definido y no creciente) a la madurez esquelética.",
+          "wrong": {
+            "A": "Se trata de un ICC, no de un dispositivo de distracción — no hay fallo del dispositivo en este contexto.",
+            "C": "La reabsorción condilar contralateral produciendo elongación relativa del ICC podría teóricamente causar asimetría, pero el escenario clásico es el sobrecrecimiento del ICC, no la reabsorción contralateral.",
+            "D": "Las fuerzas ortodóncicas no causan migración del ICC de esta manera — el injerto está fijado rígidamente con tornillos."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Complicaciones del ICC: el sobrecrecimiento como limitación principal",
+          "trial": "Kaban LB et al. J Oral Maxillofac Surg (1998): ICC en MHF — el 25% de los pacientes mostró sobrecrecimiento del ICC que requirió revisión a la madurez esquelética; esta imprevisibilidad es el principal argumento para la PAT frente al ICC a la madurez esquelética.",
+          "pearl": "Crecimiento del ICC = IMPREDECIBLE. Sobrecrecimiento (25%) → prognatismo ipsilateral + mordida abierta. Crecimiento insuficiente → asimetría recurrente. Por eso se prefiere la PAT a la madurez esquelética — altura definida, no creciente, predecible.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F3-Q19",
+        "stem": "¿Cuándo es el tiempo correcto para la cirugía ortognática definitiva (Le Fort I + PAT) en una paciente femenina con MHF grave (tipo III de Pruzansky)?",
+        "options": {
+          "A": "A los 14 años — antes de que empeore aún más la asimetría",
+          "B": "Tras la madurez esquelética confirmada — típicamente 17–18 años en mujeres",
+          "C": "A partir de los 10 años — para prevenir la deformidad dental secundaria",
+          "D": "A los 21 años — cuando la paciente puede dar su consentimiento de forma independiente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La cirugía ortognática definitiva (Le Fort I ± PAT) en la MHF debe esperar a que la madurez esquelética confirmada esté completa para prevenir la recidiva. En las mujeres, la madurez esquelética ocurre aproximadamente a los 17–18 años. La madurez esquelética se confirma mediante: (1) radiografías cefalométricas seriadas que no muestran cambios durante 12 meses; (2) evaluación radiológica de la edad ósea (películas de mano-muñeca); y (3) estabilización del gráfico de crecimiento clínico. La cirugía antes de la madurez esquelética se asocia con altas tasas de recidiva y a menudo requiere cirugía de revisión.",
+          "wrong": {
+            "A": "Los 14 años es prematuro para la cirugía ortognática en mujeres — el crecimiento normalmente continúa hasta los 17–18 años. Realizar la cirugía a los 14 años requerirá revisión cuando el crecimiento esté completo.",
+            "C": "Los 10 años es demasiado pronto para la cirugía ortognática definitiva — el crecimiento continúa durante aproximadamente 8 años más en las mujeres.",
+            "D": "Esperar hasta los 21 años por razones de consentimiento es innecesario — los pacientes con consentimiento parental pueden someterse a cirugía a la madurez esquelética (17–18 años). Retrasar hasta los 21 prolonga innecesariamente la carga funcional y psicosocial."
+          },
+          "guideline": "EACMFS Craniofacial Guidelines 2022 — Tiempo de cirugía ortognática en MHF: tras la madurez esquelética confirmada",
+          "trial": "Proffit WR et al. Contemporary Orthodontics 5th ed. (2012): criterios de madurez esquelética para la cirugía ortognática — estabilidad cefalométrica durante 12 meses + edad ósea como criterios estándar.",
+          "pearl": "Cirugía ortognática en MHF: DESPUÉS DE LA MADUREZ ESQUELÉTICA. Mujeres: 17–18 años. Hombres: 18–20 años. Confirmar con cefalometrías seriadas (sin cambios durante 12 meses). Mismo principio que la cirugía ortognática en otras afecciones.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F3-Q20",
+        "stem": "El injerto de grasa libre para el aumento de tejidos blandos en la MHF tiene una limitación bien conocida. ¿Cuál es la tasa de reabsorción aproximada de la grasa inyectada tras una sola sesión?",
+        "options": {
+          "A": "5–10%",
+          "B": "30–50%",
+          "C": "75–90%",
+          "D": "0% — una vez integrada, la grasa no se reabsorbe"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Aproximadamente el 30–50% de la grasa autóloga inyectada se reabsorbe tras una sola sesión de injerto de grasa. La reabsorción ocurre cuando la porción no vascularizada de la grasa inyectada (que no formó nuevas conexiones vasculares) sufre apoptosis y es absorbida. El 50–70% restante sobrevive como células adiposas vascularizadas. Esta tasa de reabsorción requiere sobrecorrección en el momento del injerto, o sesiones de injerto de grasa seriadas (típicamente 2–4 sesiones espaciadas 6–12 meses) para lograr el volumen de tejidos blandos deseado.",
+          "wrong": {
+            "A": "El 5–10% de reabsorción subestima significativamente la tasa conocida — los cirujanos deben planificar una pérdida del 30–50%.",
+            "C": "El 75–90% de reabsorción sobreestima la pérdida — las técnicas modernas de cosecha e inyección de grasa (técnica de Coleman con cosecha atraumática e inyección en pequeños alícuotas) han reducido la reabsorción a aproximadamente el 30–50%.",
+            "D": "Los injertos de grasa no sobreviven al 100% — la vascularización del injerto es incompleta y algo de reabsorción es universal. Afirmar 0% de reabsorción llevaría a un subtratamiento."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Injerto de grasa en el aumento de tejidos blandos craneofaciales",
+          "trial": "Coleman SR. Clin Plast Surg (2006): revisión de la técnica de transferencia de grasa — reabsorción del 30–50% tras una sola sesión con protocolo de cosecha atraumática; se recomiendan múltiples sesiones para el volumen final.",
+          "pearl": "Reabsorción del injerto de grasa = 30–50% por sesión. Prever sobrecorrección del 30–50%. Planificar múltiples sesiones. Los injertos de grasa seriados (2–4 sesiones) logran una mejora acumulativa del volumen para el déficit de tejidos blandos de la MHF.",
+          "difficulty": 3
+        }
+      }
+    ]
+  }
+}

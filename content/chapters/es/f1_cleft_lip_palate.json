@@ -1,0 +1,662 @@
+{
+  "id": "F1",
+  "title": "Labio Leporino y Paladar Hendido: Tiempos, Técnicas y Resultados",
+  "subtitle": "Bloque F — Afecciones Congénitas y del Desarrollo",
+  "block": "F",
+  "block_name": "Afecciones Congénitas y del Desarrollo",
+  "level": "R2-4",
+  "reading_time_min": 42,
+  "guidelines_version": "Eurocleft Consortium Guidelines 2021 · ACPA Parameters of Care 2018 · EACMFS Cleft Guidelines 2022",
+  "textbook_refs": [
+    "Losee JE & Kirschner RE. Comprehensive Cleft Care, 2nd ed. (Thieme 2015)",
+    "Mulliken JB & Kim DC. 'Repair of bilateral complete cleft lip.' Plast Reconstr Surg (2013)",
+    "Shaw WC et al. 'The Eurocleft study: intercenter study of treatment outcome in patients with complete cleft lip and palate.' Cleft Palate Craniofac J (1992)",
+    "Bardach J & Morris HL. Multidisciplinary Management of Cleft Lip and Palate (WB Saunders 1990)",
+    "Veau V. Division Palatine (Masson 1931)"
+  ],
+  "learning_objectives": [
+    "Clasificar el labio leporino y el paladar hendido utilizando sistemas de clasificación anatómica y genética",
+    "Describir la base embriológica de la formación de las hendiduras y los factores de riesgo conocidos",
+    "Esquematizar los tiempos y la justificación de cada etapa quirúrgica en el protocolo multidisciplinario de labio leporino y paladar hendido",
+    "Comparar las técnicas de rotación-avance de Millard y la de colgajo triangular de Tennison-Randall para la reparación del labio leporino unilateral",
+    "Evaluar la evidencia sobre la reparación palatina precoz frente a la tardía en los resultados del habla y del crecimiento maxilar"
+  ],
+  "sections": [
+    {
+      "id": "F1-S1",
+      "title": "Embriología, Etiología y Clasificación",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El labio leporino y el paladar hendido (CLP, por sus siglas en inglés) resultan del fracaso de la fusión de los procesos faciales durante el desarrollo embrionario. El **labio leporino** se forma entre las semanas 4 y 7 de gestación cuando el proceso nasal medial no consigue fusionarse con el proceso maxilar en uno o ambos lados. Este fallo de fusión es distinto del **paladar hendido**, que ocurre más tarde (semanas 7–12) cuando las láminas palatinas no consiguen elevarse (de una posición vertical a horizontal) y/o fusionarse en la línea media. La distinción embriológica explica por qué el labio leporino y el paladar hendido pueden presentarse de forma independiente o conjunta.\n\nLa etiología del CLP es multifactorial, con la participación de factores genéticos y ambientales. Aproximadamente el 70% de los casos de CLP no sindrómico son aislados, mientras que el 30% restante se presenta como parte de un síndrome (los más frecuentes: secuencia de Pierre Robin, síndrome de Van der Woude, o anomalías cromosómicas como la trisomía 13). El riesgo de recurrencia para el CLP no sindrómico aumenta con el número de familiares de primer grado afectados: 4% de riesgo con un hermano afectado, 9% con un progenitor afectado, y 17% con un progenitor y un hermano afectados. Los factores de riesgo ambientales con mayor evidencia incluyen el tabaquismo materno (OR 1,34–2,1), la deficiencia de ácido fólico, la exposición a anticonvulsivantes (valproato, fenitoína) y el uso de glucocorticoides en el primer trimestre.\n\nEl sistema de clasificación más ampliamente utilizado sigue siendo la **clasificación de Veau (1931)**, que divide las hendiduras palatinas en cuatro grupos. El **diagrama en Y rayado de Kernahan** proporciona una representación visual y anatómicamente completa. Para uso clínico, la **notación LAHSHAL** (Labio izquierdo/Alvéolo/Paladar duro/Paladar blando/Paladar duro/Alvéolo/Labio derecho) permite la descripción sistemática del tipo y la lateralidad de la hendidura. La distinción clínicamente más importante es entre las hendiduras del **paladar primario** (labio, alvéolo y paladar duro anterior al agujero incisivo) y el **paladar secundario** (paladar duro posterior al agujero incisivo y paladar blando), ya que requieren enfoques quirúrgicos distintos."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Veau de las Hendiduras Palatinas",
+          "headers": ["Clase de Veau", "Descripción", "Estructuras Afectadas"],
+          "rows": [
+            ["I", "Solo paladar blando", "Velo (solo paladar blando)"],
+            ["II", "Paladar duro y blando sin extensión al alvéolo", "Paladar secundario (posterior al agujero incisivo)"],
+            ["III", "Hendidura unilateral completa: paladar duro + alvéolo + labio (unilateral)", "Paladar primario + secundario, unilateral"],
+            ["IV", "Hendidura bilateral completa: paladar duro + alvéolo + labio (bilateral)", "Paladar primario + secundario, bilateral"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Paladar Primario vs Secundario",
+          "content": "El agujero incisivo es el hito anatómico que divide el paladar primario (anterior — labio, alvéolo y paladar duro anterior al agujero incisivo) del paladar secundario (posterior — paladar duro y blando posterior al agujero incisivo). Labio leporino ± alvéolo = paladar primario. Paladar hendido aislado = paladar secundario. Ambos pueden coexistir en el CLP completo."
+        }
+      ]
+    },
+    {
+      "id": "F1-S2",
+      "title": "Tratamiento Multidisciplinario y Tiempos Quirúrgicos",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El tratamiento del CLP requiere un equipo multidisciplinario (EMD) coordinado durante toda la infancia y la adolescencia. Los miembros incluyen cirujanos orales y maxilofaciales, cirujanos plásticos, ortodoncistas, logopedas, audiólogos (la otitis media con efusión es extremadamente frecuente — afecta a más del 90% de los niños con paladar hendido), pediatras, genetistas, psicólogos y enfermeras especializadas. El EMD inicia la evaluación al nacer y sigue al paciente hasta la madurez esquelética.\n\nLos protocolos de tiempos quirúrgicos varían entre centros y han evolucionado significativamente, en particular en lo que respecta a los tiempos de reparación palatina. Los **principios** que orientan las decisiones de tiempo son: (1) la reparación del labio debe realizarse lo suficientemente pronto para normalizar la anatomía labial y favorecer la simetría nasal; (2) la reparación palatina debe ser lo bastante precoz para permitir el desarrollo normal del habla, pero no tan temprana como para restringir el crecimiento maxilar (la tensión central del tratamiento del CLP); (3) el injerto óseo alveolar (IOA) debe sincronizarse con la erupción del canino maxilar; y (4) la cirugía ortognática se realiza tras la madurez esquelética.\n\nEl **protocolo de Millard-Kernahan** (y sus múltiples variantes) representa el enfoque histórico dominante en el Reino Unido y Europa. La práctica contemporánea del Consorcio Eurocleft (2021) recomienda: (1) reparación labial a los 3–6 meses; (2) reparación palatina a los 6–12 meses (paladar duro y blando juntos en un tiempo, o en dos tiempos); (3) IOA a los 9–11 años (dentición mixta, antes de la erupción del canino); (4) cirugía del habla (tratamiento de la insuficiencia velofaríngea) si es necesaria, generalmente a los 4–6 años tras logopedia; (5) rinoplastia a la madurez esquelética (>17–18 años en mujeres, >18–19 en hombres); y (6) cirugía ortognática si es necesaria (Le Fort I ± cirugía mandibular) a la madurez esquelética."
+        },
+        {
+          "type": "table",
+          "title": "Protocolo de Estadificación Quirúrgica para el CLP Completo",
+          "headers": ["Estadio", "Tiempo", "Procedimiento", "Objetivo"],
+          "rows": [
+            ["1", "3–6 meses", "Reparación labial uni o bilateral ± rinoplastia primaria", "Simetría labial, corrección de la punta nasal, normalización psicológica"],
+            ["2", "6–12 meses", "Reparación palatina (colgajo de vómer + Furlow o von Langenbeck)", "Habla, función de la trompa de Eustaquio, preservación del crecimiento maxilar"],
+            ["3", "9–11 años", "Injerto óseo alveolar (cresta ilíaca)", "Erupción del canino a través del injerto, cierre de fístula, continuidad del arco"],
+            ["4", "4–6 años (si necesario)", "Cirugía velofaríngea (faringoplastia o esfinteroplastia)", "Corrección de la hipernasalidad"],
+            ["5", "Adolescencia (>17–18 F, >18–19 M)", "Rinoplastia definitiva + revisión labial", "Refinamiento estético"],
+            ["6", "Madurez esquelética", "Cirugía ortognática si necesaria (Le Fort I ± osteotomía sagital)", "Corrección de la clase III esquelética (avance Le Fort I)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Tiempo de Reparación Palatina",
+          "content": "La reparación palatina antes de los 6 meses se asocia con restricción del crecimiento maxilar (mayor riesgo de maloclusión de clase III que requiere avance Le Fort I). Sin embargo, la reparación después de los 18 meses se asocia con resultados del habla significativamente peores. La ventana óptima es 6–12 meses. No demorar la reparación palatina más allá de los 12 meses salvo contraindicación médica específica."
+        }
+      ]
+    },
+    {
+      "id": "F1-S3",
+      "title": "Reparación del Labio Leporino: Técnicas Unilaterales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El objetivo de la reparación del labio leporino unilateral es obtener un labio simétrico y de apariencia natural, con una definición adecuada de la columela del filtrum, altura suficiente del labio blanco, arco de Cupido simétrico y una cicatriz estéticamente aceptable. Dos técnicas dominan la práctica contemporánea: la técnica de **rotación-avance de Millard** y la técnica del **colgajo triangular de Tennison-Randall**.\n\nLa **técnica de rotación-avance de Millard (1955, 1964)** utiliza un colgajo de rotación del segmento labial medial (rotando el punto del arco de Cupido hacia su posición correcta) combinado con un colgajo de avance del segmento labial lateral. El colgajo C de la columela lateral se utiliza para reconstruir el suelo nasal. Sus ventajas incluyen una cicatriz que sigue la columela natural del filtrum, adaptabilidad («cortar a medida»), y una excelente restauración del arco de Cupido. Sus desventajas son la curva de aprendizaje pronunciada y el riesgo de altura labial insuficiente si el arco de rotación es inadecuado.\n\nLa **técnica del colgajo triangular de Tennison-Randall (1952)** usa un pequeño colgajo triangular del segmento labial lateral insertado en una incisión horizontal del segmento medial. Esta técnica alcanza de forma fiable una altura labial adecuada y es matemáticamente predecible. Sus desventajas incluyen una cicatriz geométrica que atraviesa la columela del filtrum y no sigue los contornos naturales con la misma elegancia que la técnica de Millard.\n\nLas modificaciones contemporáneas incluyen la **modificación de Mohler** (que extiende la rotación de Millard más arriba hacia la columela para aumentar la altura del labio blanco) y la **técnica de subunidades de Fisher** (un enfoque más anatómico que preserva los límites de las subunidades del filtrum). La rinoplastia primaria —corrección de la deformidad nasal por hendidura (cartílago lateral inferior desplazado, base alar y columela) en el momento de la reparación labial— es ahora práctica estándar en la mayoría de los centros europeos, evitando el estigma de la nariz hendida no tratada y reduciendo el alcance de la rinoplastia definitiva a la madurez esquelética."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Millard vs Tennison",
+          "content": "Rotación-avance de Millard: la cicatriz sigue la columela del filtrum — mejor resultado estético pero curva de aprendizaje más pronunciada. Tennison-Randall: altura labial fiable, matemáticamente predecible — pero la cicatriz geométrica cruza la columela del filtrum. Ambas producen resultados funcionales y estéticos aceptables en manos experimentadas. La rinoplastia primaria en el momento de la reparación labial es ahora estándar en la práctica europea."
+        },
+        {
+          "type": "table",
+          "title": "Comparación de Técnicas de Reparación del Labio Leporino",
+          "headers": ["Característica", "Rotación-Avance de Millard", "Tennison-Randall"],
+          "rows": [
+            ["Año de descripción", "1955 (modificada en 1964)", "1952 (modificada por Randall en 1959)"],
+            ["Patrón de cicatriz", "Sigue la columela del filtrum — contorno natural", "Geométrica, cruza la columela del filtrum"],
+            ["Altura labial", "Dependiente del arco de rotación — riesgo de labio corto", "Fiable, calculada matemáticamente"],
+            ["Curva de aprendizaje", "Pronunciada — «cortar a medida»", "Menos pronunciada — pasos más predecibles"],
+            ["Mejor indicación", "Hendiduras unilaterales estrechas a moderadas", "Hendiduras unilaterales completas con altura deficiente"],
+            ["Arco de Cupido", "Excelente restauración", "Buena restauración"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1-S4",
+      "title": "Labio Leporino Bilateral y Tratamiento del Prolabio",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El labio leporino bilateral (LLB) presenta desafíos adicionales: la premaxila y el prolabio suelen ser protruidos, existe una altura columelar deficiente («columela corta»), y la punta nasal es plana y ancha debido al desplazamiento alar bilateral. La premaxila, unida al tabique nasal y libremente móvil, a menudo protruye de forma marcada y puede requerir ortopedia prequirúrgica en lactantes (OPPL) para reposicionarla antes de la reparación labial.\n\nLa **técnica de Mulliken** (modificada y refinada por Mulliken y Kim, 2013) es el enfoque dominante en la reparación del labio leporino bilateral. Repara ambos lados simultáneamente, utilizando el prolabio para reconstruir la unidad central del filtrum (no para obtener tejido adicional, ya que el prolabio es deficiente en altura del labio blanco y carece de columelas del filtrum). Los elementos labiales laterales proporcionan la mayor parte del labio blanco. La columela se alarga reclutando piel del suelo nasal y del prolabio. Los colgajos forked en reserva (técnica de Cronin) para el alargamiento secundario de la columela han sido ampliamente abandonados en favor de la reconstrucción nasal primaria.\n\nEl **retroceso de la premaxila** (reposicionamiento quirúrgico de la premaxila protrusa antes de la reparación labial) fue popular históricamente, pero ahora está ampliamente abandonado porque compromete el aporte vascular de la premaxila y arriesga su necrosis y detención del crecimiento. La **ortopedia prequirúrgica en lactantes (OPPL)** con placas de moldeamiento nasoalveolar (MNA) pasivas (técnica de Grayson) o dispositivos activos de Latham se utiliza en algunos centros para aproximar los segmentos alveolares y reducir la protrusión de la premaxila antes de la cirugía, disminuyendo la tensión tisular en la reparación. La evidencia de que el MNA mejora los resultados a largo plazo frente a la ausencia de OPPL sigue siendo controvertida (los datos del Eurocleft no muestran ventaja a largo plazo clara)."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Prioridades en la Reparación del Labio Leporino Bilateral",
+          "content": "En el labio leporino bilateral, las tres prioridades en la reparación inicial son: (1) establecer la continuidad labial con la altura correcta del labio blanco a partir de los elementos laterales; (2) reconstruir la unidad del filtrum utilizando la piel prolabial como subunidad del filtrum; (3) iniciar el alargamiento columelar y la corrección de la punta nasal (rinoplastia primaria). Dejar la columela «corta» (diferida para un procedimiento posterior) se asocia con un estigma nasal persistente. La «columela corta» del CLP bilateral debe abordarse en la reparación primaria, no diferirse."
+        }
+      ]
+    },
+    {
+      "id": "F1-S5",
+      "title": "Reparación Palatina: Técnicas y Evidencia",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El objetivo de la reparación palatina es restaurar el mecanismo velofaríngeo, permitiendo el desarrollo normal del habla, al tiempo que se minimiza la cicatrización de la mucosa palatina que restringe el crecimiento maxilar. Se utilizan tres técnicas principales:\n\nLa **técnica de von Langenbeck** usa colgajos mucoperiosticos bipediculados levantados sobre los vasos palatinos mayores de ambos lados, que se movilizan y suturan en la línea media. Es sencilla, fiable y ampliamente utilizada. Su desventaja son las áreas cruentas laterales a los colgajos que cicatrizan por segunda intención, produciendo bandas cicatriciales que restringen el crecimiento maxilar transversal.\n\nLa **técnica de Veau-Wardill-Kilner (avance en V-Y)** avanza los colgajos mucoperiosticos hacia atrás mediante avance en V-Y, aumentando la profundidad palatina (desplazamiento posterior) para mejorar el cierre velofaríngeo. Esto mejora teóricamente el habla, pero crea áreas cruentas más extensas anteriormente, aumentando la restricción del crecimiento maxilar.\n\nLa **técnica de doble Z-plastia opuesta de Furlow (1986)** utiliza dos Z-plastias opuestas —una en la mucosa oral y otra en la mucosa nasal— para alargar el paladar blando reorientando el músculo elevador del velo del paladar de una dirección anteroposterior a una transversal. El elevador es el músculo clave del cierre velofaríngeo; en el paladar hendido corre de forma anormal en sentido anteroposterior (unido al borde posterior del paladar duro) en lugar de transversalmente. La técnica de Furlow corrige esta malalineación muscular mientras alarga el paladar, produciendo resultados del habla superiores en comparación con von Langenbeck en la mayoría de las series publicadas. Es especialmente eficaz en el tratamiento de la insuficiencia velofaríngea.\n\nEl **estudio multicéntrico Eurocleft** (Shaw et al. Cleft Palate Craniofac J 1992; seguimiento a 10 años en 2000) sigue siendo el estudio comparativo más influyente en el tratamiento del CLP. Demostró una marcada variación en los resultados del habla y del arco dental entre los centros europeos de labio leporino, y estableció que los resultados se correlacionaban fuertemente con el número de cirujanos que atendían casos en cada centro (la centralización mejora los resultados) — hallazgo que impulsó la reorganización de los servicios de labio leporino en el Reino Unido bajo el informe del Clinical Standards Advisory Group (CSAG) de 1998."
+        },
+        {
+          "type": "table",
+          "title": "Técnicas de Reparación Palatina — Comparación",
+          "headers": ["Técnica", "Mecanismo", "Longitud del Paladar Blando", "Resultado del Habla", "Impacto en el Crecimiento"],
+          "rows": [
+            ["Von Langenbeck", "Colgajos bipediculados suturados en línea media", "Sin cambio", "Bueno", "Restricción moderada"],
+            ["V-Y (Wardill-Kilner)", "Avance V-Y hacia atrás", "Aumentada", "Mejor que Langenbeck", "Mayor restricción"],
+            ["Doble Z-plastia de Furlow", "Dos Z-plastias opuestas + reorientación del elevador", "Significativamente aumentada", "Mejor evidencia (reparación del elevador)", "Menor restricción (áreas cruentas mínimas)"],
+            ["Dos tiempos (duro + blando por separado)", "Paladar blando precoz, paladar duro a los 18–24 meses", "Dependiente de la técnica", "Variable", "Restricción reducida (paladar duro diferido)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Z-Plastia de Furlow",
+          "content": "La doble Z-plastia opuesta de Furlow es la única técnica de reparación palatina que aborda la anomalía anatómica fundamental: el músculo elevador del velo del paladar mal dirigido en sentido anteroposterior. Reorienta el elevador transversalmente y alarga el paladar blando simultáneamente. Produce los mejores resultados del habla en las series comparativas y es la técnica de elección en la mayoría de los centros europeos de alto volumen."
+        }
+      ]
+    },
+    {
+      "id": "F1-S6",
+      "title": "Injerto Óseo Alveolar",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **injerto óseo alveolar (IOA)** se realiza para restaurar la continuidad ósea del alvéolo maxilar a través de la hendidura, permitiendo: (1) la erupción del canino maxilar a través del hueso injertado; (2) el soporte óseo del incisivo lateral (si está presente); (3) el cierre de la fístula oronasal en el alvéolo; y (4) el soporte de la base alar nasal.\n\nEl **IOA secundario** (9–11 años, en dentición mixta, antes de la erupción del canino) es el estándar universalmente aceptado. El tiempo es crítico: el injerto debe colocarse cuando la raíz del canino maxilar está entre un tercio y la mitad formada (estadio dental C de Moorrees), ya que el canino en erupción solo remodela a través del injerto si erupciona a través de hueso esponjoso vascularizado en los 1–2 años posteriores al injerto. Si el injerto es demasiado precoz (dentición primaria o mixta temprana), el injerto se reabsorbe antes de la erupción del canino; si es demasiado tardío (después de la erupción del canino), la oportunidad de erupción se pierde y el soporte óseo no puede restaurarse retroactivamente.\n\nEl **sitio donante** es la cresta ilíaca (solo hueso esponjoso — la cresta ilíaca anterior proporciona fragmentos esponjosos que se empaquetan densamente en la hendidura alveolar tras el cierre periostal). El hueso esponjoso es preferido al cortical porque los fragmentos esponjosos se revascularizan rápidamente y permiten la erupción dentaria. Las tasas de éxito del IOA secundario son del 85–95% (tasa de erupción del canino a través del injerto) en las series publicadas cuando el tiempo es óptimo.\n\n**Ortodoncia previa**: la expansión ortodóncica prequirúrgica de los segmentos del arco maxilar colapsados se realiza antes del IOA para ensanchar la hendidura alveolar y facilitar el acceso al injerto. Típicamente se realizan 3–6 meses de expansión prequirúrgica bajo supervisión ortodóncica. Tras el injerto, la guía ortodóncica de la erupción del canino a través del injerto comienza 3–6 meses después de la cirugía."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Error de Tiempo en el IOA",
+          "content": "El tiempo del IOA se rige por el desarrollo de la raíz del canino (entre un tercio y la mitad de la raíz formada en la OPG) — NO por la edad cronológica exclusivamente. Un niño de 9 años con la raíz del canino completamente formada debería haber recibido el IOA antes; un niño de 12 años con un tercio de formación radicular todavía puede beneficiarse del IOA. Evaluar siempre con OPG antes de programar, y contrastar con el ortodoncista."
+        }
+      ]
+    },
+    {
+      "id": "F1-S7",
+      "title": "Resultados, Complicaciones e Insuficiencia Velofaríngea",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los **resultados del habla** son la medida funcional principal en el tratamiento del CLP. La insuficiencia velofaríngea (IVF) —hipernasalidad debida a un cierre velofaríngeo inadecuado— es la complicación del habla más importante tras la reparación palatina, y ocurre en el 15–25% de los pacientes incluso tras una reparación excelente. La evaluación de la IVF incluye nasoendoscopia (visualización directa del cierre del puerto velofaríngeo), videofluoroscopia y evaluación estandarizada del habla por logopedas especializadas. El tratamiento de la IVF incluye: logopedia (para errores fonemáticos específicos), prótesis elevadora del paladar (raramente utilizada) y cirugía.\n\nLas opciones quirúrgicas para la IVF incluyen: **colgajo faríngeo posterior** (faringoplastia — colgajo medial de la pared faríngea posterior unido al paladar blando, creando dos puertos laterales contra los que las paredes faríngeas pueden cerrarse — técnica más frecuente globalmente) y **esfinteroplastia faríngea** (colgajos miomucosos de palatofaríngeo de base superior bilateral de los pilares amigdalinos posteriores suturados en la línea media faríngea posterior — crea un esfínter dinámico; preferido por muchos centros europeos). Ambos son eficaces; la elección depende principalmente del centro. La re-reparación de Furlow es apropiada para pacientes con IVF cuando la reparación palatina inicial no utilizó la técnica de Furlow.\n\nLa **restricción del crecimiento maxilar** que conduce a maloclusión esquelética de clase III es la complicación quirúrgica a largo plazo más significativa. Las tasas publicadas de avance Le Fort I a la madurez esquelética oscilan entre el 15% y el 35% en cohortes de CLP completo, y aumentan con el número de procedimientos palatinos y la extensión de la cicatrización palatina. El estudio Eurocleft demostró que los centros con excelentes resultados del habla (reparación de Furlow/dos tiempos) tendían a tener tasas ligeramente más altas de necesidad de cirugía ortognática — ilustrando el compromiso fundamental entre la optimización precoz del habla y el crecimiento maxilar."
+        },
+        {
+          "type": "table",
+          "title": "Opciones Quirúrgicas para la IVF — Comparación",
+          "headers": ["Técnica", "Mecanismo", "Tasa de Éxito", "Principal Riesgo"],
+          "rows": [
+            ["Colgajo faríngeo posterior", "Colgajo medial estrecha el puerto central — dos puertos laterales", "Resolución de IVF 75–85%", "Síndrome de apnea obstructiva del sueño (obstrucción por el colgajo central)"],
+            ["Esfinteroplastia faríngea", "Colgajos bilaterales dinámicos crean esfínter estrecho", "Resolución del 80–90%", "SAOS (riesgo menor que el colgajo faríngeo)"],
+            ["Re-reparación de Furlow", "Reorienta el elevador si no se realizó inicialmente", "Resolución del 60–70% (casos seleccionados)", "Requiere paladar sin cicatrices"],
+            ["Prótesis elevadora del paladar", "Extensión palatina posterior protésica", "Variable", "Baja adherencia; no definitiva"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — El Dilema en el Tratamiento del CLP",
+          "content": "El dilema central del tiempo de reparación palatina: la reparación precoz (6 meses) maximiza los resultados del habla pero restringe el crecimiento maxilar, aumentando las tasas de cirugía ortognática. La reparación tardía (>18 meses) preserva el crecimiento pero produce IVF y habla deficiente. La evidencia actual apoya la reparación a los 6–12 meses con la técnica de Furlow como el mejor compromiso — buen habla con resultados de crecimiento aceptables."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre el tratamiento del labio leporino y el paladar hendido con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "F1-Q1",
+        "stem": "A un recién nacido se le diagnostica labio leporino y paladar hendido unilateral completo. ¿A qué edad debe realizarse la reparación palatina según las guías actuales basadas en evidencia del Consorcio Eurocleft?",
+        "options": {
+          "A": "2–3 meses (antes de la reparación labial)",
+          "B": "6–12 meses (después de la reparación labial)",
+          "C": "18–24 meses (fase de desarrollo del habla en el niño pequeño)",
+          "D": "3–5 años (preescolar, cuando el niño puede colaborar)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La reparación palatina a los 6–12 meses es el tiempo recomendado por el Consorcio Eurocleft (2021) y ACPA (2018). Esta ventana permite el desarrollo normal del habla (el mecanismo velofaríngeo debe ser funcional antes de que el niño comience a producir consonantes a los 12–18 meses) mientras minimiza la duración de la cicatrización palatina que restringe el crecimiento maxilar. La reparación labial a los 3–6 meses precede a la reparación palatina.",
+          "wrong": {
+            "A": "2–3 meses es demasiado pronto para la reparación palatina — los riesgos anestésicos y quirúrgicos a esta edad son mayores, y la reparación palatina precoz se asocia con la mayor restricción del crecimiento maxilar.",
+            "C": "18–24 meses es demasiado tarde — el niño desarrollará errores del habla compensatorios durante la ventana crítica de desarrollo del habla (12–18 meses) si el mecanismo velofaríngeo no es funcional.",
+            "D": "3–5 años sería catastróficamente tarde para la reparación palatina — se establecerían patrones del habla compensatorios permanentes, requiriendo logopedia intensiva incluso después de la reparación quirúrgica."
+          },
+          "guideline": "Eurocleft Consortium Guidelines 2021; ACPA Parameters of Care 2018 — tiempo de reparación palatina: 6–12 meses",
+          "trial": "Shaw WC et al. Cleft Palate Craniofac J (1992): estudio multicéntrico Eurocleft de 259 pacientes — los centros que reparaban el paladar a los 6–12 meses producían resultados del habla significativamente mejores que los centros que reparaban después de los 18 meses (p<0,001).",
+          "pearl": "Tiempo de reparación palatina: 6–12 meses = óptimo. Antes = más restricción del crecimiento. Después = peor habla. El estudio Eurocleft sigue siendo la base de evidencia para esta recomendación.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F1-Q2",
+        "stem": "¿Qué fracaso embriológico produce un paladar hendido aislado SIN labio leporino?",
+        "options": {
+          "A": "Fracaso del proceso nasal medial para fusionarse con el proceso maxilar entre las semanas 4–7",
+          "B": "Fracaso de las láminas palatinas para elevarse y fusionarse entre las semanas 7–12",
+          "C": "Fusión prematura de la sutura coronal entre las semanas 8–10",
+          "D": "Fracaso de la premaxila para unirse a los procesos maxilares en la semana 6"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El paladar hendido aislado (hendidura del paladar secundario) resulta del fracaso de las láminas palatinas para elevarse de una posición vertical a horizontal y/o fusionarse en la línea media durante las semanas 7–12 de gestación. Este proceso es distinto de la formación del labio leporino (semanas 4–7, fracaso del proceso nasal medial) y explica por qué el labio leporino y el paladar hendido pueden ocurrir de forma independiente. La fusión de las láminas palatinas requiere pasos secuenciales: elevación (rotación de vertical a horizontal), crecimiento hacia la línea media, fusión en la línea media y osificación del paladar duro.",
+          "wrong": {
+            "A": "El fracaso del proceso nasal medial para fusionarse con el proceso maxilar (semanas 4–7) produce labio leporino, NO paladar hendido aislado. Este es el mecanismo de las hendiduras del paladar primario.",
+            "C": "La fusión prematura de la sutura coronal produce craneosinostosis — no paladar hendido. Son patologías del desarrollo completamente diferentes.",
+            "D": "El fracaso de la unión premaxila-maxilar en la semana 6 produciría una hendidura del paladar primario (alvéolo/labio) — no paladar hendido secundario aislado."
+          },
+          "guideline": "Eurocleft Consortium Guidelines 2021 — Sección de Embriología; consenso de libros de texto de embriología estándar",
+          "trial": "Bardach J & Morris HL. Multidisciplinary Management of Cleft Lip and Palate (1990): referencia definitiva sobre la embriología del CLP y los dos mecanismos de fracaso distintos para la formación del labio y el paladar.",
+          "pearl": "DOS mecanismos distintos: labio leporino = fracaso de fusión proceso nasal medial + maxilar (semanas 4–7) = paladar PRIMARIO. Paladar hendido aislado = fracaso de elevación/fusión de las láminas palatinas (semanas 7–12) = paladar SECUNDARIO.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F1-Q3",
+        "stem": "La técnica de reparación del labio leporino de rotación-avance de Millard difiere de la técnica de Tennison-Randall principalmente en que la técnica de Millard:",
+        "options": {
+          "A": "Produce una cicatriz geométrica que cruza la columela del filtrum",
+          "B": "Utiliza un colgajo triangular del segmento labial lateral insertado en una incisión horizontal medial",
+          "C": "Ubica la cicatriz a lo largo de la columela natural del filtrum mediante un colgajo de rotación del segmento medial",
+          "D": "Requiere un procedimiento de adhesión labial preliminar antes de la reparación definitiva"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La técnica de rotación-avance de Millard rota el segmento labial medial hacia abajo (colgajo de rotación) de modo que el punto del arco de Cupido alcanza su posición correcta, combinado con el avance del segmento labial lateral. La cicatriz resultante corre a lo largo de la columela natural del filtrum — siguiendo el contorno anatómico del labio. Esto produce una cicatriz de apariencia más natural que la incisión geométrica de Tennison-Randall, pero requiere experiencia para ejecutarse correctamente (filosofía de «cortar a medida»).",
+          "wrong": {
+            "A": "Una cicatriz geométrica que cruza la columela del filtrum describe la técnica de Tennison-Randall, no la de Millard. El colgajo triangular de Tennison produce una cicatriz en Z más visible en visión frontal.",
+            "B": "Un colgajo triangular del segmento lateral insertado en una incisión horizontal medial describe específicamente la técnica de Tennison-Randall.",
+            "D": "La adhesión labial es un procedimiento preliminar utilizado en algunos protocolos para hendiduras muy amplias — no es un componente estándar de las técnicas de Millard ni de Tennison."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Técnicas de reparación del labio leporino unilateral",
+          "trial": "Mulliken JB & Kim DC. Plast Reconstr Surg (2013): revisión sistemática de resultados de Millard vs Tennison en 8 estudios comparativos — sin diferencia estadísticamente significativa en los resultados estéticos finales cuando se realizan por cirujanos experimentados.",
+          "pearl": "Millard = rotación (medial) + avance (lateral) = cicatriz sigue columela del filtrum = aspecto más natural. Tennison = colgajo triangular (lateral) = cicatriz geométrica = altura labial fiable. Ambas funcionan — la elección de técnica depende de la formación del cirujano.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q4",
+        "stem": "Un niño de 10 años con CLP unilateral completo es remitido para evaluación de injerto óseo alveolar. La OPG muestra la raíz del canino maxilar en dos tercios de formación en el lado de la hendidura. ¿Cuál es el tratamiento más apropiado?",
+        "options": {
+          "A": "Proceder con el IOA inmediatamente — la ventana sigue abierta",
+          "B": "Diferir el IOA 6 meses para permitir la formación completa de la raíz del canino antes del injerto",
+          "C": "La ventana óptima del IOA ha pasado — comentar injerto tardío (secundario) o rehabilitación con implante",
+          "D": "Iniciar expansión ortodóncica durante 12 meses antes de reconsiderar el IOA"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El IOA debe realizarse cuando la raíz del canino maxilar está entre un tercio y la mitad formada (estadio C de Moorrees) para permitir que el canino en erupción erupcione a través del injerto mientras aún está esponjoso y vascularizado (en los 1–2 años posteriores al injerto). Con dos tercios de formación radicular, la oportunidad de erupción ha pasado en gran medida — es improbable que el canino erupcione a través del injerto, y el injerto se reabsorberá antes de cumplir su propósito. Este paciente debe ser evaluado para IOA tardío (tras la erupción del canino, para apoyar un implante dental o proporcionar hueso alveolar residual), o discutirse en EMD para cierre ortodóncico de espacios y posible rehabilitación con implante.",
+          "wrong": {
+            "A": "Con dos tercios de formación radicular, la ventana del IOA ha pasado — proceder resultará en reabsorción del injerto antes de que ocurra la erupción del canino.",
+            "B": "Diferir más es contraproducente — con la raíz completamente formada, el canino ya está en erupción o ha completado la erupción, haciendo que el IOA para guía del canino sea inútil.",
+            "D": "La expansión ortodóncica es apropiada ANTES del IOA pero no es la respuesta a una ventana del IOA perdida — no puede restaurar la oportunidad de erupción."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Injerto óseo alveolar: tiempo basado en el desarrollo de la raíz del canino entre un tercio y la mitad de formación",
+          "trial": "Amanat N & Langdon JD. J Oral Maxillofac Surg (1991): serie de 85 pacientes demostrando tasa de éxito de erupción del canino del 92% cuando el IOA se realizó con un tercio a la mitad de formación radicular frente al 34% cuando se realizó con dos tercios o más de formación radicular.",
+          "pearl": "Tiempo del IOA = OPG mostrando entre un tercio y la mitad de formación de la raíz del canino. NO edad cronológica. Dos tercios de formación radicular = ventana perdida = comentar injerto tardío + rehabilitación con implante.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F1-Q5",
+        "stem": "La doble Z-plastia opuesta de Furlow para la reparación palatina logra su ventaja funcional principalmente al:",
+        "options": {
+          "A": "Eliminar completamente las áreas cruentas de mucosa que causan restricción del crecimiento maxilar",
+          "B": "Reorientar el músculo elevador del velo del paladar a su orientación transversal normal y alargar el paladar blando",
+          "C": "Utilizar un colgajo de pedículo posterior del vómer para cerrar la capa nasal",
+          "D": "Proporcionar una mayor superficie mucosa de la pared faríngea posterior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La doble Z-plastia opuesta de Furlow corrige la anomalía anatómica fundamental del paladar hendido: el músculo elevador del velo del paladar corre de forma anormal en dirección anteroposterior (unido al borde posterior del paladar duro) en lugar de su orientación transversal normal. La técnica utiliza dos Z-plastias opuestas (una en la mucosa oral, una en la mucosa nasal) que: (1) transponen el elevador de la orientación anteroposterior a la transversal, reconstruyendo el sling del elevador; y (2) alargan el paladar blando mediante la geometría de la Z-plastia. Esto produce una función velofaríngea superior en comparación con las técnicas que simplemente cierran la mucosa sin abordar la malalineación muscular subyacente.",
+          "wrong": {
+            "A": "La técnica de Furlow tiene áreas cruentas menores que algunas técnicas, pero no las elimina completamente. La restricción del crecimiento está reducida en comparación con von Langenbeck pero no está ausente.",
+            "C": "El colgajo de vómer se usa por separado para el cierre de la capa nasal en algunas técnicas de palatoplastia de dos capas — no es la característica definitoria de la técnica de Furlow.",
+            "D": "La técnica de Furlow no utiliza tejido de la pared faríngea — es una técnica exclusiva del paladar."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Reparación palatina: doble Z-plastia de Furlow como técnica de elección para la reorientación del elevador",
+          "trial": "Furlow LT. Plast Reconstr Surg (1986): descripción original de la técnica — serie retrospectiva mostrando resultados del habla normales del 93% frente al 70% con von Langenbeck en el mismo centro.",
+          "pearl": "Z-plastia de Furlow = reorienta el elevador del velo del paladar transversalmente + alarga el paladar blando. La ÚNICA técnica que corrige el defecto muscular subyacente. Mejores resultados del habla en las series comparativas.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q6",
+        "stem": "¿Cuál es el hallazgo más significativo del estudio multicéntrico Eurocleft (Shaw et al. 1992) respecto al tratamiento del CLP?",
+        "options": {
+          "A": "El injerto óseo debe realizarse a los 5 años en lugar de a los 9–11 años",
+          "B": "Marcada variación en los resultados del habla y del arco dental entre los centros europeos de labio leporino, correlacionada con la centralización de la atención",
+          "C": "La técnica de Millard produce resultados consistentemente superiores a la técnica de Tennison en todos los centros",
+          "D": "El moldeamiento nasoalveolar prequirúrgico elimina la necesidad de rinoplastia primaria"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El hallazgo más influyente del estudio Eurocleft fue la marcada variación en los resultados entre los centros europeos participantes que trataban a poblaciones de pacientes presumiblemente similares. Los centros con mejores resultados tenían menos cirujanos gestionando casos de CLP (centralización). Este hallazgo impulsó directamente la reorganización de los servicios de labio leporino del Reino Unido tras el informe CSAG (1998), concentrando el tratamiento del CLP en centros especializados con suficiente volumen para mantener la experiencia. El estudio también demostró que ninguna técnica quirúrgica única fue uniformemente superior — los resultados dependían más de la experiencia y el volumen del equipo tratante.",
+          "wrong": {
+            "A": "El estudio Eurocleft no es la fuente de las recomendaciones de tiempo del IOA — esto proviene de estudios separados (Amanat y Langdon). Los datos Eurocleft no abordaron específicamente el tiempo del IOA.",
+            "C": "El estudio Eurocleft no concluyó que Millard fuera superior a Tennison — encontró que la variación de resultados estaba relacionada con el centro, no con la técnica.",
+            "D": "La evidencia del MNA/OPPL no formó parte del estudio Eurocleft original, que fue anterior al uso generalizado del MNA."
+          },
+          "guideline": "Eurocleft Consortium Guidelines 2021 — Base de evidencia histórica; informe CSAG 1998 reorganización del servicio en el Reino Unido",
+          "trial": "Shaw WC et al. Cleft Palate Craniofac J (1992): estudio multicéntrico de 259 pacientes de 6 centros europeos — variación intercentros significativa en resultados del habla y dentales. Centralización = mejores resultados. Este artículo transformó la organización de los servicios europeos de CLP.",
+          "pearl": "Eurocleft 1992: el estudio pionero que demostró que la centralización de la atención del CLP mejora los resultados. Condujo al CSAG 1998 y a la concentración de los servicios de labio leporino del Reino Unido en centros especializados. El volumen del centro importa más que la técnica específica.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q7",
+        "stem": "Una niña de 4 años con CLP reparado es evaluada por logopedia y se detecta hipernasalidad con IVF consistente en nasoendoscopia. La reparación palatina utilizó técnica de von Langenbeck a los 9 meses. El tratamiento quirúrgico de primera línea de la IVF debe ser:",
+        "options": {
+          "A": "Repetir la palatoplastia von Langenbeck",
+          "B": "Faringoplastia con colgajo faríngeo posterior o esfinteroplastia faríngea",
+          "C": "Osteotomía Le Fort I para avanzar el maxilar y mejorar la dinámica velofaríngea",
+          "D": "Prótesis elevadora del paladar durante 2 años seguida de reevaluación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En un niño con IVF establecida tras la reparación palatina que no ha respondido a la logopedia, el tratamiento quirúrgico con faringoplastia con colgajo faríngeo posterior o esfinteroplastia faríngea es el tratamiento quirúrgico de primera línea. Ambas técnicas estrechan el puerto velofaríngeo, permitiendo que el movimiento normal de la pared faríngea logre el cierre durante el habla. La elección entre ellas depende del centro. Una re-reparación de Furlow también puede ser apropiada si la reparación inicial utilizó una técnica no-Furlow y la anatomía del paladar es adecuada, pero la faringoplastia es de aplicación más universal.",
+          "wrong": {
+            "A": "Repetir von Langenbeck no abordaría la IVF — no alarga el paladar ni reorienta el elevador. Además añadiría cicatrices a un paladar ya cicatrizado.",
+            "C": "La osteotomía Le Fort I se realiza a la madurez esquelética para la maloclusión de clase III — no aborda primariamente la IVF y no es apropiada a los 4 años.",
+            "D": "Las prótesis elevadoras del paladar tienen baja adherencia en niños y no son una solución definitiva — el tratamiento quirúrgico es apropiado cuando la IVF está confirmada por nasoendoscopia y se ha intentado la logopedia."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Tratamiento de la IVF: faringoplastia como estándar quirúrgico tras IVF confirmada",
+          "trial": "Collins J et al. Cochrane Database Syst Rev (2012): revisión sistemática de técnicas quirúrgicas para la IVF — el colgajo faríngeo y la esfinteroplastia faríngea producen tasas de resolución del 75–90%; sin diferencia estadísticamente significativa entre técnicas.",
+          "pearl": "IVF tras reparación palatina = primero logopedia. Si IVF persistente confirmada por nasoendoscopia = faringoplastia quirúrgica (colgajo faríngeo posterior o esfinteroplastia). Riesgo de ambas = apnea obstructiva del sueño (informar a la familia antes del consentimiento).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q8",
+        "stem": "¿Qué exposición materna en el primer trimestre tiene la mayor evidencia para aumentar el riesgo de labio leporino y paladar hendido?",
+        "options": {
+          "A": "Diabetes mellitus materna (pregestacional)",
+          "B": "Tabaquismo materno",
+          "C": "Consumo materno de cafeína (>300 mg/día)",
+          "D": "Uso materno de isotretinoína"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El tabaquismo materno tiene la evidencia epidemiológica más sólida sobre el riesgo de hendidura entre los factores ambientales modificables, con una odds ratio combinada de 1,34–2,1 en metaanálisis. El riesgo es dependiente de la dosis y más pronunciado en el primer trimestre cuando ocurre la fusión del labio y el paladar. La exposición al tabaco parece afectar tanto a la formación del paladar primario como del secundario a través de efectos sobre la migración de las células de la cresta neural y los mecanismos de elevación de las láminas palatinas.",
+          "wrong": {
+            "A": "La diabetes materna aumenta el riesgo global de anomalías congénitas, pero no está específicamente vinculada al CLP con la misma solidez de evidencia que el tabaquismo.",
+            "C": "La cafeína es un teratógeno a dosis muy altas, pero la evidencia de CLP específicamente es limitada — no está entre los factores de riesgo establecidos de CLP.",
+            "D": "La isotretinoína es un potente teratógeno asociado con anomalías craneofaciales incluyendo micrognatia y defectos del oído, pero su asociación con el CLP típico es menos específica que el tabaquismo."
+          },
+          "guideline": "Eurocleft Consortium Guidelines 2021 — Etiología y factores de riesgo; guía NICE de tabaquismo en el embarazo PH26",
+          "trial": "Little J et al. Am J Epidemiol (2004): metaanálisis combinado de 24 estudios — OR del tabaquismo materno para labio leporino ± paladar hendido: 1,34 (IC 95% 1,25–1,44). Relación dependiente de la dosis confirmada.",
+          "pearl": "Tabaquismo materno = factor de riesgo ambiental modificable más potente para CLP (OR 1,34–2,1). Aconsejar el abandono antes de la concepción. La suplementación con ácido fólico también reduce el riesgo.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q9",
+        "stem": "El riesgo de recurrencia del labio leporino y paladar hendido no sindrómico cuando un progenitor y un hermano están ambos afectados es aproximadamente:",
+        "options": {
+          "A": "1–2%",
+          "B": "4%",
+          "C": "9%",
+          "D": "17%"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El riesgo empírico de recurrencia para CLP no sindrómico sigue un modelo de herencia multifactorial. El riesgo aumenta con el número de familiares de primer grado afectados: aproximadamente 4% con un hermano afectado (y progenitores no afectados), 9% con un progenitor afectado (y sin hermanos afectados), y aproximadamente 17% cuando tanto un progenitor como un hermano están afectados. Estas cifras se basan en grandes estudios de genética de poblaciones y se utilizan en el asesoramiento genético.",
+          "wrong": {
+            "A": "1–2% es próximo a la prevalencia poblacional del CLP (1 de cada 700) — no refleja el mayor riesgo cuando los familiares de primer grado están afectados.",
+            "B": "4% es el riesgo de recurrencia cuando un hermano está afectado con progenitores no afectados — no cuando tanto un progenitor como un hermano están afectados.",
+            "C": "9% es el riesgo de recurrencia cuando un progenitor está afectado sin hermanos afectados — no la categoría de mayor riesgo."
+          },
+          "guideline": "Eurocleft Consortium Guidelines 2021 — Sección de asesoramiento genético; tablas estándar de riesgo de recurrencia para CLP en genética médica",
+          "trial": "Tolarova M & Cervenka J. Am J Med Genet (1998): estudio de riesgo de recurrencia basado en población confirmando el modelo de herencia multifactorial: 4% (hermano), 9% (progenitor), 17% (progenitor + hermano) para CLP no sindrómico.",
+          "pearl": "Riesgos de recurrencia del CLP (no sindrómico): 4% = un hermano afectado; 9% = un progenitor afectado; 17% = un progenitor afectado + un hermano afectado. Estas cifras se examinan habitualmente en preguntas de genética.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q10",
+        "stem": "En la reparación del labio leporino bilateral mediante la técnica de Mulliken, ¿qué tejido se utiliza como subunidad del filtrum?",
+        "options": {
+          "A": "Los elementos labiales laterales (colgajos musculares de orbicular de los labios de ambos lados)",
+          "B": "La piel prolabial",
+          "C": "Una transferencia de tejido libre del pliegue nasolabial",
+          "D": "Expansión de la piel columelar mediante MNA prequirúrgico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En el labio leporino bilateral, el prolabio (el elemento labial central entre las dos líneas de hendidura, unido a la premaxila) se utiliza para reconstruir la subunidad del filtrum — la franja central de piel del labio superior. La piel prolabial tiene la textura y el color adecuados para el filtrum y se posiciona centralmente. Sin embargo, el prolabio proporciona un volumen de tejido limitado para la altura del labio blanco — los elementos labiales laterales deben proporcionar la mayor parte del labio y el músculo orbicular. La técnica de Mulliken utiliza explícitamente el prolabio solo para la reconstrucción del filtrum, no como fuente de altura adicional del labio blanco.",
+          "wrong": {
+            "A": "Los elementos labiales laterales proporcionan la altura del labio blanco y el músculo orbicular — se avanzan hacia la línea media pero NO se utilizan como subunidad del filtrum. El prolabio es la piel del filtrum.",
+            "C": "La transferencia de tejido libre no se utiliza en la reparación primaria del labio leporino bilateral — es una opción reconstructiva para el rescate de reparaciones fallidas.",
+            "D": "El MNA reduce la protrusión premaxilar y mejora la posición de la punta nasal preoperatoriamente, pero la expansión de la piel columelar no sustituye la reconstrucción del filtrum prolabial."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Reparación del labio leporino bilateral: principios de la técnica de Mulliken",
+          "trial": "Mulliken JB & Kim DC. Plast Reconstr Surg (2013): descripción definitiva de la técnica de reparación bilateral de Mulliken — prolabio usado exclusivamente para piel del filtrum; los elementos laterales proporcionan la altura del labio blanco y el músculo.",
+          "pearl": "LLB bilateral: PROLABIO = piel del filtrum. LABIO LATERAL = altura del labio blanco + músculo orbicular. NO usar el prolabio para ganar altura extra — no tiene nada que aportar. Usar los elementos laterales para la altura.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F1-Q11",
+        "stem": "Un lactante de 6 meses con hendidura aislada del paladar blando presenta otitis media con efusión (OME) recurrente en la evaluación prequirúrgica. ¿Cuál es la causa anatómica más probable de este hallazgo?",
+        "options": {
+          "A": "Obstrucción de la trompa de Eustaquio por los segmentos alveolares hendidos",
+          "B": "Disfunción del músculo elevador del velo del paladar que altera la apertura de la trompa de Eustaquio",
+          "C": "Cicatrización del paladar blando por lesión intrauterina que causa retracción de la membrana timpánica",
+          "D": "Inmunodeficiencia asociada a síndromes con paladar hendido"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El músculo elevador del velo del paladar es el principal dilatador de la trompa de Eustaquio. En el paladar hendido, el elevador está anormalmente insertado (orientado en sentido anteroposterior) y no funciona normalmente durante la deglución — el mecanismo que abre la trompa de Eustaquio para igualar la presión del oído medio. Esto produce disfunción crónica de la trompa de Eustaquio, presión negativa en el oído medio y OME («glue ear») en más del 90% de los niños con paladar hendido. Por ello, la miringotomía e inserción de drenajes transtimpánicos (tubos de ventilación) se realiza de forma rutinaria en el momento de la reparación palatina en muchos centros.",
+          "wrong": {
+            "A": "La hendidura aislada del paladar blando no afecta a los segmentos alveolares — la obstrucción de la trompa de Eustaquio por los segmentos alveolares hendidos no es el mecanismo.",
+            "C": "La lesión intrauterina que causa cicatrización del paladar blando no es un mecanismo reconocido de OME — y el paladar hendido es un fracaso del desarrollo, no una cicatriz postlesional.",
+            "D": "Aunque algunos síndromes con hendidura incluyen disfunción inmune (síndrome de DiGeorge), la gran mayoría de los pacientes con CLP aislado tienen inmunidad normal — la OME está causada por disfunción mecánica de la trompa de Eustaquio, no por inmunodeficiencia."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Tratamiento otológico: inserción de drenajes concurrente con reparación palatina; disfunción de la trompa de Eustaquio como complicación universal del CLP",
+          "trial": "Sheahan P et al. Clin Otolaryngol (2004): estudio prospectivo de 147 pacientes con CLP — OME presente en el 93% de los niños con paladar hendido en el momento de la reparación palatina; resuelta en el 67% en los 18 meses posteriores a la reparación.",
+          "pearl": "OME en CLP = disfunción del elevador del velo del paladar → la trompa de Eustaquio no se abre → presión crónica en el oído medio → glue ear. >90% de los niños con paladar hendido afectados. Drenajes transtimpánicos en el momento de la reparación palatina = cuidado estándar en la mayoría de los centros.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q12",
+        "stem": "La hendidura Clase IV de Veau representa:",
+        "options": {
+          "A": "Hendidura del paladar blando únicamente",
+          "B": "Hendidura de paladar duro y blando sin extensión al alvéolo",
+          "C": "Hendidura unilateral completa de labio, alvéolo y paladar",
+          "D": "Hendidura bilateral completa de labio, alvéolo y paladar"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "La clasificación de Veau tiene cuatro clases: I = solo paladar blando; II = paladar duro y blando (paladar secundario, sin extensión al alvéolo); III = hendidura unilateral completa (labio + alvéolo + paladar duro y blando, unilateral); IV = hendidura bilateral completa (labio + alvéolo + paladar duro y blando, bilateral). La Veau IV es el tipo más severo y complejo, requiriendo reparación labial bilateral y abordaje de la premaxila protrusa.",
+          "wrong": {
+            "A": "Solo paladar blando = Veau Clase I — la forma más leve de hendidura palatina aislada.",
+            "B": "Paladar duro y blando sin extensión al alvéolo = Veau Clase II.",
+            "C": "Hendidura unilateral completa = Veau Clase III."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Clasificación del labio leporino y paladar hendido: sistema de Veau",
+          "trial": "Veau V. Division Palatine (Masson 1931): clasificación original, todavía en uso estándar más de 90 años después. A pesar de los sistemas más nuevos, Veau sigue siendo el más examinado en los exámenes de la especialidad.",
+          "pearl": "Clasificación de Veau: I = solo paladar blando; II = paladar duro + blando; III = CLP unilateral completo; IV = CLP bilateral completo. Memorizar estos cuatro en orden — se examinan en prácticamente todos los exámenes de la especialidad maxilofacial.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F1-Q13",
+        "stem": "¿Qué procedimiento quirúrgico debe realizarse SIMULTÁNEAMENTE al injerto óseo alveolar a los 9–11 años en un paciente con fístula oronasal residual a nivel del alvéolo hendido?",
+        "options": {
+          "A": "Osteotomía Le Fort I para movilizar el maxilar",
+          "B": "El cierre de la fístula se incorpora al procedimiento de IOA mediante cierre con colgajo mucoperiostal local",
+          "C": "Debe programarse un procedimiento separado de cierre de fístula 6 meses antes del IOA",
+          "D": "El cierre de la fístula se difiere hasta la madurez esquelética para evitar interferir con el crecimiento"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El cierre de la fístula oronasal a nivel del alvéolo hendido se incorpora al propio procedimiento de IOA. La técnica consiste en levantar colgajos mucoperiosticos locales de los márgenes del alvéolo hendido, utilizarlos para crear un suelo nasal (capa superior), empaquetar fragmentos de hueso esponjoso de cresta ilíaca en el espacio de la hendidura, y cerrar la capa oral sobre el injerto. Este cierre simultáneo es práctica estándar y no requiere un procedimiento por etapas separado.",
+          "wrong": {
+            "A": "La osteotomía Le Fort I se realiza a la madurez esquelética para la maloclusión de clase III — no se realiza simultáneamente con el IOA en dentición mixta.",
+            "C": "Programar el cierre de la fístula 6 meses antes del IOA es innecesario — el IOA en sí cierra la fístula mediante la técnica del colgajo mucoperiostal, y un procedimiento previo puede comprometer el tejido disponible para las capas del colgajo mucoperiostal en el IOA.",
+            "D": "Diferir el cierre de la fístula hasta la madurez esquelética dejaría una comunicación oronasal durante 7–9 años más — causando regurgitación nasal, problemas del habla e higiene innecesariamente."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Injerto óseo alveolar: cierre de fístula integrado en el procedimiento de IOA",
+          "trial": "Bergland O et al. Scand J Plast Reconstr Surg (1986): serie definitiva de IOA — el cierre simultáneo de fístula e injerto óseo logró una tasa de cierre de fístula del 96% al año; estableció el enfoque integrado como estándar.",
+          "pearl": "IOA = simultáneamente cierra la fístula oronasal alveolar + rellena el defecto óseo con injerto esponjoso de cresta ilíaca + apoya la erupción del canino. Tres objetivos alcanzados en una sola operación.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q14",
+        "stem": "Una paciente adolescente con CLP bilateral reparado presenta maloclusión esquelética de clase III (ANB -4°, WITS -8 mm) a los 16 años. Ha completado la descompensación ortodóncica. ¿Cuál es el siguiente paso?",
+        "options": {
+          "A": "Osteotomía Le Fort I inmediatamente — ha completado la preparación ortodóncica",
+          "B": "Esperar a la madurez esquelética (sin crecimiento serial en radiografías de mano-muñeca durante 1 año) antes de proceder a la cirugía ortognática",
+          "C": "Tratar con un aparato funcional para corregir el patrón de crecimiento de clase III",
+          "D": "Proceder con distracción osteogénica mandibular para corregir la clase III"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La cirugía ortognática no debe realizarse hasta que el crecimiento esquelético esté completo. A los 16 años, una paciente femenina puede o no haber completado el crecimiento — la madurez esquelética debe confirmarse mediante radiografías cefalométricas seriadas o películas de mano-muñeca que no muestren crecimiento durante al menos 12 meses. En pacientes con CLP, el crecimiento maxilar a menudo está restringido y el crecimiento puede prolongarse. Realizar el avance Le Fort I antes de completar el crecimiento arriesga recidiva al continuar expresándose el patrón de crecimiento de clase III subyacente. Las guías actuales de EACMFS recomiendan confirmar el cese del crecimiento (típicamente 17–18 años en mujeres) antes de la cirugía ortognática en CLP.",
+          "wrong": {
+            "A": "Completar la descompensación ortodóncica es un requisito previo pero no criterio suficiente para proceder — debe confirmarse la madurez esquelética mediante el cese del crecimiento.",
+            "C": "Los aparatos funcionales actúan durante el crecimiento activo — no pueden corregir la deformidad esquelética de clase III establecida en un adolescente próximo a la madurez esquelética, y no abordan la hipoplasia maxilar relacionada con la cicatrización.",
+            "D": "La distracción osteogénica mandibular retrocedería la mandíbula (no avanzaría el maxilar) — dirección incorrecta para una clase III por deficiencia maxilar. El avance Le Fort I es la cirugía apropiada para la clase III en el CLP."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Cirugía ortognática en CLP: tiempo tras la madurez esquelética confirmada",
+          "trial": "Ross RB. Cleft Palate J (1987): estudio de crecimiento a largo plazo en CLP — el crecimiento maxilar continúa en CLP hasta los 17–18 años en mujeres y los 18–19 en hombres; la cirugía ortognática antes de ese momento produce tasas de recidiva más altas.",
+          "pearl": "Cirugía ortognática en CLP = NUNCA antes de la madurez esquelética. Confirmar el cese del crecimiento: películas cefalométricas seriadas a intervalos de 6 meses que no muestren cambios durante 12 meses. Mujeres típicamente 17–18 años, hombres 18–19.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F1-Q15",
+        "stem": "El procedimiento de «retroceso premaxilar» en el tratamiento del CLP bilateral ha sido ampliamente abandonado porque arriesga:",
+        "options": {
+          "A": "Maloclusión permanente por reposicionamiento prematuro de la dentición",
+          "B": "Necrosis premaxilar por comprometer su aporte vascular",
+          "C": "Cicatrización excesiva de tejidos blandos que obstruye el acceso al injerto óseo alveolar",
+          "D": "Distorsión de la base craneal por las fuerzas excesivas durante el retroceso quirúrgico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La premaxila en el CLP bilateral tiene un aporte vascular frágil dependiente del tabique nasal intacto y su periostio. El retroceso de la premaxila — reposicionamiento quirúrgico de la premaxila protrusa antes o en el momento de la reparación labial — arriesga comprometer este aporte vascular mediante el despegamiento periostal, produciendo isquemia premaxilar, necrosis y detención del crecimiento. La pérdida de la premaxila crea una deformidad secundaria grave que requiere reconstrucción compleja. Este riesgo ha llevado a la mayoría de los centros a abandonar el retroceso quirúrgico en favor de enfoques ortopédicos prequirúrgicos (MNA o Latham) o a aceptar la protrusión premaxilar y manejarla ortodóncicamente tras la reparación labial.",
+          "wrong": {
+            "A": "El retroceso premaxilar no arriesga principalmente maloclusión por reposicionamiento dental — la preocupación principal es el compromiso vascular y la necrosis.",
+            "C": "La cicatrización de tejidos blandos que afecta el acceso al IOA es una preocupación secundaria — no explica por qué se abandonó el retroceso premaxilar.",
+            "D": "La distorsión de la base craneal por las fuerzas del retroceso premaxilar no es una complicación reconocida — la premaxila está estructuralmente separada de la base craneal."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Tratamiento del CLP bilateral: retroceso premaxilar contraindicado por riesgo vascular",
+          "trial": "Posnick JC & Tompson B. J Oral Maxillofac Surg (1995): revisión de 37 pacientes con CLP bilateral sometidos a retroceso premaxilar — 5 casos (13,5%) de necrosis o detención del crecimiento premaxilar, frente al 0% en la cohorte sin retroceso; retroceso abandonado en ese centro.",
+          "pearl": "Retroceso premaxilar = abandonado por riesgo de NECROSIS por compromiso vascular. El aporte vascular de la premaxila es a través del periostio del tabique nasal — alterarlo es peligroso. Usar ortopedia prequirúrgica (MNA) en su lugar.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q16",
+        "stem": "En el sistema de notación LAHSHAL para la documentación del CLP, la letra 'H' representa:",
+        "options": {
+          "A": "Hipoplasia del segmento alveolar",
+          "B": "Paladar duro",
+          "C": "Hámulo (afectación del hámulo pterigoideo)",
+          "D": "Hipernasalidad (descriptor del habla)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La notación LAHSHAL (Labio izquierdo / Alvéolo izquierdo / Paladar duro izquierdo / Paladar blando / Paladar duro derecho / Alvéolo derecho / Labio derecho) usa cada letra para describir la afectación de ese componente anatómico. 'H' representa el Paladar duro (Hard palate) en cada lado. La notación se escribe de izquierda a derecha desde la perspectiva del cirujano frente al paciente, usando mayúsculas para las hendiduras completas, minúsculas para las incompletas, y un punto (.) para lo normal. Esta notación sistemática permite documentar con precisión el tipo, la lateralidad y la completitud de la hendidura.",
+          "wrong": {
+            "A": "La hipoplasia alveolar no es un componente LAHSHAL — 'A' en LAHSHAL significa específicamente Alvéolo (presente o ausente, completo o incompleto), no hipoplasia.",
+            "C": "La afectación del hámulo no está documentada en LAHSHAL — el hámulo pterigoideo es un hito anatómico pero no un componente LAHSHAL.",
+            "D": "LAHSHAL describe la anatomía, no los resultados del habla — la hipernasalidad es un parámetro de evaluación logopédica, no una letra LAHSHAL."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Estándares de documentación del CLP: notación LAHSHAL",
+          "trial": "Kriens O. LAHSHAL notation. En: Bardach J & Morris HL (eds). Multidisciplinary Management of Cleft Lip and Palate (1990): descripción original de LAHSHAL como sistema de clasificación de CLP sistemático e internacionalmente reproducible.",
+          "pearl": "LAHSHAL = L(abio izquierdo) A(lvéolo) H(ard palate/Paladar duro) S(oft palate/Paladar blando) H(ard palate/Paladar duro) A(lvéolo) L(abio derecho). Mayúsculas = completo; minúsculas = incompleto; punto = normal. Permite documentación sistemática del CLP entre centros.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F1-Q17",
+        "stem": "¿Qué afirmación sobre el colgajo faríngeo posterior para la IVF es CORRECTA?",
+        "options": {
+          "A": "Elimina completamente el movimiento velofaríngeo creando un sello central rígido",
+          "B": "Crea dos puertos laterales que pueden ser ocluidos por el movimiento de la pared faríngea posterior, requiriendo movimiento intacto de la pared faríngea lateral",
+          "C": "Se prefiere sobre la esfinteroplastia faríngea en pacientes con amígdalas grandes",
+          "D": "La apnea obstructiva del sueño no es un riesgo porque el colgajo está posicionado posteriormente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El colgajo faríngeo posterior (un colgajo medial de mucosa faríngea posterior y músculo constrictor faríngeo de base superior o inferior unido al paladar blando) crea una estructura obstructiva central en el puerto velofaríngeo con dos aberturas laterales. El mecanismo de cierre velofaríngeo depende del movimiento MEDIAL de las paredes faríngeas LATERALES para cerrar contra el colgajo y ocluir los puertos laterales. Por eso es esencial la nasoendoscopia preoperatoria para evaluar el movimiento de la pared lateral — los pacientes con escaso movimiento de la pared lateral (como en la IVF neurológica) son malos candidatos, ya que los puertos permanecerán abiertos durante el habla.",
+          "wrong": {
+            "A": "El colgajo faríngeo NO crea un sello rígido completo — crea un sistema dinámico con dos puertos laterales. Durante la respiración nasal, los puertos laterales permanecen abiertos. Un sello rígido produciría obstrucción nasal completa.",
+            "C": "Las amígdalas grandes son en realidad una contraindicación relativa al colgajo faríngeo (y a toda la cirugía de IVF) debido a la vía aérea faríngea ya estrecha — el riesgo de SAOS se ve agravado.",
+            "D": "El SAOS es una complicación reconocida e importante de la cirugía del colgajo faríngeo — el colgajo estrecha la vía aérea faríngea. Se recomienda un estudio del sueño preoperatorio en pacientes de riesgo."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Tratamiento quirúrgico de la IVF: indicaciones y mecanismo del colgajo faríngeo posterior",
+          "trial": "Collins J et al. Cochrane Database Syst Rev (2012): éxito del colgajo faríngeo 75–90% pero riesgo de SAOS del 5–10% en las series publicadas; evaluación de la pared lateral esencial para la selección del paciente.",
+          "pearl": "Colgajo faríngeo posterior: obstrucción central + DOS puertos laterales. Requiere BUEN movimiento de la pared lateral para el éxito. Riesgo = SAOS (5–10%). Evaluar siempre el movimiento de la pared lateral por nasoendoscopia antes de planificar el colgajo faríngeo.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F1-Q18",
+        "stem": "Un niño de 5 años con CLP reparado presenta una fístula oronasal residual a nivel alveolar con regurgitación nasal ocasional de líquidos. El tratamiento a esta edad debe ser:",
+        "options": {
+          "A": "Cierre inmediato con colgajos mucoperiosticos locales antes del IOA",
+          "B": "Diferir el cierre hasta el IOA a los 9–11 años — el procedimiento de IOA cerrará la fístula",
+          "C": "Placa palatina/obturador protésico hasta la madurez esquelética y luego cierre definitivo",
+          "D": "Cierre con un colgajo de lengua dado el tejido local limitado"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las fístulas alveolares en el CLP se cierran rutinariamente en el momento del IOA (9–11 años). El propio procedimiento de IOA incorpora el cierre de la fístula oronasal mediante la técnica del colgajo mucoperiostal — intentar el cierre precoz a los 5 años consumiría tejido local y podría comprometer las opciones del colgajo mucoperiostal disponibles en el IOA, y no abordaría el defecto óseo subyacente. El algoritmo de tratamiento para las fístulas alveolares en el período de dentición mixta es observar con una placa palatina protésica si es sintomática, y planificar el cierre formal en el IOA.",
+          "wrong": {
+            "A": "El cierre prematuro de una fístula alveolar antes del IOA arriesga usar tejido que se necesitará en el IOA y puede producir cicatrices que compliquen el procedimiento definitivo.",
+            "C": "Esperar hasta la madurez esquelética (12+ años adicionales) es excesivo — el IOA a los 9–11 años aborda simultáneamente la fístula y el defecto óseo.",
+            "D": "Los colgajos de lengua se utilizan para fístulas palatinas grandes y complejas donde el tejido local es insuficiente — para una fístula alveolar, la técnica de IOA proporciona tejido suficiente."
+          },
+          "guideline": "ACPA Parameters of Care 2018 — Tratamiento de las fístulas residuales: diferir al procedimiento de IOA",
+          "trial": "Bergland O et al. Scand J Plast Reconstr Surg (1986): serie de IOA confirmando cierre de fístula del 96% cuando el cierre de fístula alveolar se integra en el IOA — valida la estrategia de diferimiento.",
+          "pearl": "Fístula alveolar en CLP = DIFERIR el cierre al IOA a los 9–11 años. El IOA cierra la fístula Y rellena el defecto óseo Y apoya la erupción del canino. El cierre precoz desperdicia tejido local necesario para el IOA.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q19",
+        "stem": "La rinoplastia primaria en el momento de la reparación labial en el CLP unilateral se realiza para abordar ¿qué deformidad nasal específica?",
+        "options": {
+          "A": "Nariz en silla de montar por ausencia de huesos nasales",
+          "B": "Desplazamiento del cartílago lateral inferior en el lado de la hendidura con desviación de la base alar y acortamiento columelar",
+          "C": "Poliposis nasal asociada a rinosinusitis crónica por la hendidura",
+          "D": "Deformidad del dorso nasal en joroba por desviación del tabique"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La deformidad nasal por hendidura en el CLP unilateral se caracteriza por: (1) desplazamiento del cartílago lateral inferior (CLI) en el lado de la hendidura — el cartílago está estirado inferolateralmente, produciendo aplanamiento de la punta nasal y colapso alar; (2) desviación de la base alar hacia el lado de la hendidura; (3) acortamiento columelar y desviación contralateral a la hendidura; (4) punta nasal ancha y plana con cúpulas asimétricas. La rinoplastia primaria en la reparación labial reposiciona la base alar, aborda la posición del CLI mediante puntuación o reposicionamiento del cartílago alar, e inicia la corrección columelar. Esto evita el estigma de la nariz hendida no tratada y reduce el alcance de la rinoplastia definitiva a la madurez esquelética.",
+          "wrong": {
+            "A": "La nariz en silla de montar implica el colapso del perfil dorsal — no es la deformidad primaria del CLP unilateral. Los huesos nasales suelen estar presentes y normales en el CLP aislado.",
+            "C": "La poliposis nasal es una afección inflamatoria crónica — no es un componente primario de la deformidad nasal congénita por hendidura.",
+            "D": "El joroba dorsal por desviación del tabique es una deformidad secundaria que puede desarrollarse con el tiempo por alteración del crecimiento septal — no es el objetivo primario de la rinoplastia primaria en el momento de la reparación labial."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Rinoplastia primaria en CLP unilateral: reposicionamiento del CLI como estándar",
+          "trial": "Anderl H et al. Cleft Palate Craniofac J (1990): comparación de rinoplastia primaria frente a diferida en 98 CLP unilateral — el grupo de rinoplastia primaria requirió significativamente menos procedimientos nasales secundarios a la madurez esquelética (media 2,1 frente a 3,8 procedimientos).",
+          "pearl": "Nariz hendida unilateral: CLI desplazado inferolateralmente + desviación de la base alar hacia el lado de la hendidura + desviación columelar contralateral. Rinoplastia primaria en el momento de la reparación labial = estándar en centros europeos. Reduce la carga de rinoplastia secundaria.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F1-Q20",
+        "stem": "¿Qué medida de resultado está MÁS directamente vinculada a la calidad de la reparación del músculo elevador del velo del paladar en la palatoplastia?",
+        "options": {
+          "A": "Crecimiento facial y forma del arco maxilar a los 10 años",
+          "B": "Habla — específicamente competencia velofaríngea y resonancia",
+          "C": "Audición — resolución de la otitis media con efusión",
+          "D": "Alineación del arco dental — presencia de mordida cruzada anterior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El músculo elevador del velo del paladar es el músculo principal del cierre velofaríngeo. Su función normal consiste en elevar el paladar blando hacia la pared faríngea posterior durante el habla, creando el sello velofaríngeo que dirige el flujo de aire a través de la cavidad oral para la mayoría de las consonantes y vocales no nasales. Una reparación adecuada del elevador (especialmente la reorientación transversal lograda por la técnica de Furlow) determina directamente la competencia velofaríngea y la calidad de la resonancia del habla. Por ello, la calidad de la reparación del elevador es el determinante técnico más importante del resultado del habla tras la palatoplastia.",
+          "wrong": {
+            "A": "La restricción del crecimiento facial está relacionada con la extensión de la cicatrización palatina (áreas cruentas) más que específicamente con la calidad de la reparación del elevador — la disección mucoperiostal extensa produce la mayor restricción del crecimiento.",
+            "C": "La resolución de la OME tras la reparación palatina está parcialmente mediada por la mejora de la función de la trompa de Eustaquio por la reparación del elevador, pero la correlación es menos directa y más variable que la correlación con el resultado del habla.",
+            "D": "La mordida cruzada anterior resulta de la restricción del crecimiento maxilar (cicatrización palatina excesiva) más que específicamente de la calidad de la reparación del elevador."
+          },
+          "guideline": "EACMFS Cleft Guidelines 2022 — Resultados de la reparación palatina: calidad de la reparación del elevador como determinante principal del habla",
+          "trial": "Furlow LT. Plast Reconstr Surg (1986): habla normal del 93% con reorientación del elevador (Z-plastia de Furlow) frente al 70% con von Langenbeck — demostración directa de la relación calidad de reparación del elevador → resultado del habla.",
+          "pearl": "Calidad de reparación del elevador → calidad del habla. Furlow = reorientación transversal del elevador = mejor habla. Extensión de la disección mucoperiostal → restricción del crecimiento maxilar. Buen habla y buen crecimiento están parcialmente en conflicto — esta tensión define la controversia de la reparación palatina.",
+          "difficulty": 3
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "id": "G3",
+  "title": "Investigación de Resultados: Resultados Comunicados por el Paciente en CMF",
+  "subtitle": "Bloque G — Investigación y Desarrollo Académico",
+  "block": "G",
+  "block_name": "Investigación y Desarrollo Académico",
+  "level": "R2-5",
+  "reading_time_min": 24,
+  "guidelines_version": "Iniciativa COMET 2012 · Guía FDA PRO 2009 · Red PROMIS 2010 · Conjuntos Estándar ICHOM 2015",
+  "textbook_refs": [
+    "Speculand B et al. 'Patient-reported outcomes in oral and maxillofacial surgery.' Br J Oral Maxillofac Surg (2019)",
+    "Patrick DL & Deyo RA. 'Generic and disease-specific measures in assessing health status and quality of life.' Med Care (1989)",
+    "Dolan P. 'Modeling valuations for EuroQol health states.' Med Care (1997)",
+    "Allen PF. 'Assessment of oral health related quality of life.' Health Qual Life Outcomes (2003)",
+    "COMET Initiative. 'Development of a core outcome set for clinical trials in oral and maxillofacial surgery.' (2019)"
+  ],
+  "learning_objectives": [
+    "Definir los resultados comunicados por el paciente (RCP/PRO) y distinguirlos de los resultados comunicados por el clínico",
+    "Describir los instrumentos clave utilizados para medir la calidad de vida relacionada con la salud oral (OHRQoL) en CMF",
+    "Aplicar el concepto de diferencia clínicamente importante mínima (DCIM/MCID) para interpretar los resultados de RCP",
+    "Explicar los conjuntos de resultados principales (COS) y su importancia en la estandarización de la investigación en CMF",
+    "Evaluar críticamente el uso de escalas analógicas visuales, escalas de Likert e instrumentos de impresión global en CMF"
+  ],
+  "sections": [
+    {
+      "id": "G3-S1",
+      "title": "Introducción a los Resultados Comunicados por el Paciente",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Un **resultado comunicado por el paciente (RCP/PRO)** es cualquier informe sobre el estado de salud de un paciente que proviene directamente del mismo, sin interpretación por parte de un clínico ni de ninguna otra persona (FDA, 2009). Los RCP capturan dominios que solo el paciente puede observar: dolor, función, satisfacción, bienestar e impacto de una enfermedad en las actividades cotidianas. Complementan los resultados comunicados por el clínico (p. ej., desviación mandibular, clasificación oclusal) y los resultados comunicados por el investigador (p. ej., niveles óseos radiográficos) para ofrecer una imagen completa del éxito del tratamiento.\n\nLa importancia de los RCP en CMF está aumentando por varias razones: (1) los organismos reguladores (FDA, EMA) exigen ahora evidencia de RCP para la aprobación de dispositivos y fármacos en enfermedades crónicas; (2) los responsables de la financiación sanitaria utilizan los RCP para evaluar la calidad de los servicios (programa NHS PROMs); (3) los pacientes esperan cada vez más participar en la medición de resultados; y (4) las complicaciones quirúrgicas (p. ej., lesión nerviosa) que parecen menores para los clínicos pueden tener efectos profundos sobre la calidad de vida del paciente.\n\nLa **Guía PRO de la FDA de 2009** estableció estándares para el desarrollo, la validación y el uso de instrumentos RCP en ensayos clínicos: los instrumentos deben ser fiables (reproducibles), válidos (que midan lo que dicen medir) y sensibles al cambio (capaces de detectar cambios clínicos significativos). La FDA distingue entre RCP basados en síntomas (p. ej., EAV de dolor), función (p. ej., escala de función mandibular del OHIP) y calidad de vida relacionada con la salud (CVRSi — el impacto más amplio en la vida cotidiana)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — RCP vs Resultado Comunicado por el Clínico",
+          "content": "Un RCP proviene DIRECTAMENTE del paciente: sin interpretación clínica. Ejemplos: EAV de dolor, puntuación OHIP-14, puntuación de satisfacción FACE-Q. Un resultado COMUNICADO POR EL CLÍNICO requiere evaluación clínica: apertura bucal máxima (medida con calibre), clasificación oclusal (explorada por el CMF). Ambos son necesarios: ninguno sustituye al otro."
+        }
+      ]
+    },
+    {
+      "id": "G3-S2",
+      "title": "Calidad de Vida Relacionada con la Salud Oral: OHIP-49 y OHIP-14",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **Perfil del Impacto de la Salud Oral (OHIP)** es el instrumento más ampliamente validado y utilizado para medir la calidad de vida relacionada con la salud oral (OHRQoL) en odontología y CMF. Fue desarrollado por Slade y Spencer (1994) basándose en el modelo teórico de salud oral de Locker.\n\nEl **OHIP-49** completo consta de 49 preguntas distribuidas en siete dimensiones conceptuales (basadas en el modelo de clasificación de enfermedades de la OMS): (1) Limitación funcional; (2) Dolor físico; (3) Malestar psicológico; (4) Discapacidad física; (5) Discapacidad psicológica; (6) Discapacidad social; y (7) Minusvalía. Cada ítem se puntúa de 0 a 4 (nunca=0, muy frecuentemente=4). Las puntuaciones totales oscilan entre 0 y 196 (puntuación más alta = peor OHRQoL).\n\nEl **OHIP-14** abreviado (Slade 1997) es una versión corta de 14 ítems derivada de la versión de 49 ítems (2 ítems por dimensión), validada para su uso en ensayos clínicos donde debe minimizarse la carga sobre el encuestado. Las puntuaciones del OHIP-14 oscilan entre 0 y 56. El OHIP-14 ha sido ampliamente validado en cirugía ortognática, fracturas faciales, enfermedad de la ATM e investigación sobre implantes dentales. La **Diferencia Clínicamente Importante Mínima (DCIM/MCID)** para el OHIP-14 es de aproximadamente 9 puntos: un cambio inferior a este umbral no debe considerarse clínicamente significativo aunque sea estadísticamente significativo.\n\nOtros instrumentos de OHRQoL incluyen el **OHIP-EDENT** (pacientes edéntulos — validado para resultados protésicos e implantológicos), el **Impacto de la Salud Oral en la Vida Diaria (OIDP)** y los instrumentos específicos de enfermedad como el **FACE-Q** (cirugía facial — resultados estéticos y de calidad de vida, validado para rinoplastia y cirugía ortognática) y la **Escala de Limitación Funcional de la Mandíbula (JFLS)** (cirugía de ATM y ortognática)."
+        },
+        {
+          "type": "table",
+          "title": "Instrumentos RCP Clave en CMF",
+          "headers": ["Instrumento", "Ítems", "Dominios", "Aplicación en CMF", "DCIM"],
+          "rows": [
+            ["OHIP-14", "14", "7 dimensiones OHRQoL", "Ortognática, implantes, fracturas, ATM", "≈9 puntos"],
+            ["OHIP-49", "49", "7 dimensiones OHRQoL", "Investigación; evaluación exhaustiva", "No bien definida"],
+            ["FACE-Q", "Múltiples escalas", "Estética, calidad de vida, efectos adversos", "Rinoplastia, ortognática, craneofacial", "Específica por escala"],
+            ["JFLS-20", "20", "Función mandibular (masticación, movilidad, verbal)", "ATM, ortognática, fracturas", "7 puntos (JFLS)"],
+            ["EQ-5D", "5 + EAV", "CVRSi genérica: movilidad, autocuidado, actividades habituales, dolor, ansiedad", "Evaluaciones de economía de la salud", "0,07 unidades de utilidad"],
+            ["EAV Dolor (0–100 mm)", "1", "Intensidad del dolor", "Todo CMF con dolor", "13–15 mm"],
+            ["GAD-7 / PHQ-9", "7 / 9", "Ansiedad / Depresión", "Resultados psicosociales en CMF", "5 puntos (PHQ-9)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G3-S3",
+      "title": "Diferencia Clínicamente Importante Mínima (DCIM/MCID)",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **Diferencia Clínicamente Importante Mínima (DCIM/MCID)** —también denominada Diferencia Importante Mínima (DIM)— es la diferencia más pequeña en un RCP o resultado clínico que un paciente identificaría como significativa y que justificaría un cambio en el manejo clínico. La DCIM es específica para cada instrumento de resultado y para cada contexto clínico.\n\nLa DCIM puede determinarse mediante dos enfoques: (1) **Métodos de anclaje (anchor-based)**: correlacionan las puntuaciones de cambio del RCP con una pregunta de 'anclaje' externa (p. ej., «¿Cómo describiría el cambio en su función mandibular desde la cirugía?» con opciones de «mucho mejor» a «mucho peor»). El cambio de puntuación RCP asociado con «mínimamente mejor» define la DCIM; (2) **Métodos basados en la distribución (distribution-based)**: definen la DCIM como una fracción de la desviación estándar de la puntuación basal (habitualmente se usa 0,5 DE como aproximación) o como el error estándar de la medida (EEM). Las DCIM basadas en la distribución son matemáticamente más objetivas pero menos vinculadas a la experiencia del paciente.\n\nConocer la DCIM es esencial para dos propósitos: (1) **Cálculo del tamaño muestral**: el ensayo se diseña con potencia suficiente para detectar una diferencia igual a la DCIM; (2) **Interpretación de resultados**: una diferencia estadísticamente significativa inferior a la DCIM no es clínicamente significativa. Las DCIM publicadas en CMF incluyen: OHIP-14 ≈ 9 puntos; EAV de dolor ≈ 13–15 mm (en escala de 100 mm); apertura bucal máxima ≈ 5 mm; utilidad EQ-5D ≈ 0,07 unidades de utilidad."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Ignorar la DCIM",
+          "content": "Una mejora estadísticamente significativa en el OHIP-14 de 3 puntos (p=0,02) en un ensayo de cirugía ortognática puede sonar impresionante, pero NO es clínicamente significativa: la DCIM es de aproximadamente 9 puntos. Compruebe siempre si un resultado RCP publicado supera la DCIM antes de concluir que el tratamiento produjo una mejora significativa para los pacientes."
+        }
+      ]
+    },
+    {
+      "id": "G3-S4",
+      "title": "Instrumentos Genéricos vs Específicos de Enfermedad",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los instrumentos RCP pueden ser **genéricos** (que miden la calidad de vida relacionada con la salud general, aplicables a distintas enfermedades) o **específicos de enfermedad** (que miden aspectos especialmente relevantes para una enfermedad o procedimiento concreto).\n\nLos **instrumentos genéricos** permiten la comparación entre diferentes enfermedades y poblaciones de pacientes. El **EQ-5D** (EuroQol 5 Dimensiones) es el instrumento de CVRSi genérico más utilizado en el Reino Unido y Europa. Mide 5 dimensiones (movilidad, autocuidado, actividades habituales, dolor/malestar, ansiedad/depresión), cada una puntuada en 3 o 5 niveles, generando una puntuación de utilidad (0 = muerte, 1 = salud perfecta, >0 posible para estados peores que la muerte). Las puntuaciones de utilidad del EQ-5D se utilizan en evaluaciones de economía de la salud (cálculos de AVAC/QALY). El NICE emplea los AVAC (Años de Vida Ajustados por Calidad = utilidad × tiempo) en análisis de coste-efectividad, con un umbral de aproximadamente £20.000–30.000 por AVAC ganado.\n\nLos **instrumentos específicos de enfermedad** son más sensibles a los cambios en el dominio específico afectado por la enfermedad, pero no pueden compararse entre diferentes patologías. El OHIP-14 es específico de la salud oral. El FACE-Q es específico para resultados de cirugía facial. El equilibrio: los instrumentos específicos son más sensibles al cambio (mejores para detectar cambios relevantes en esa enfermedad) pero pierden la capacidad de comparar con resultados no orales.\n\nPara una investigación de resultados en CMF exhaustiva, la batería ideal incluye AMBOS: un instrumento genérico (EQ-5D para datos de economía de la salud) Y un instrumento específico de enfermedad (OHIP-14 o FACE-Q para el impacto de la enfermedad concreta). Esto permite comparaciones con otros tratamientos en diferentes áreas terapéuticas y al mismo tiempo captura el dominio más relevante para la intervención quirúrgica."
+        },
+        {
+          "type": "table",
+          "title": "Instrumentos RCP Genéricos vs Específicos de Enfermedad — Comparativa",
+          "headers": ["Característica", "Genérico (EQ-5D)", "Específico de enfermedad (OHIP-14)"],
+          "rows": [
+            ["Comparación entre enfermedades", "Sí — permite comparación entre patologías", "No — específico del dominio oral/maxilofacial"],
+            ["Sensibilidad al cambio oral", "Baja — solo capta función general", "Alta — diseñado para el impacto en la salud oral"],
+            ["Evaluación de economía de la salud", "Sí — produce AVAC para el NICE", "No — no puede convertirse directamente en AVAC"],
+            ["Validación en CMF", "Moderada — no validado específicamente para CMF", "Extensa — validado en ortognática, ATM, implantes"],
+            ["Carga para el encuestado", "Baja — 5 ítems", "Moderada — 14 ítems"],
+            ["Recomendado en ensayos CMF", "Sí (para componente de economía de la salud)", "Sí (como RCP primario)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G3-S5",
+      "title": "Conjuntos de Resultados Principales en CMF",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Un **conjunto de resultados principales (COS)** es el conjunto mínimo de resultados que debe medirse y notificarse en todos los ensayos clínicos de un área clínica específica. Los COS se desarrollan mediante metodología de consenso (encuestas Delphi, técnica de grupo nominal) con la participación de múltiples grupos de interés: pacientes, clínicos, investigadores y reguladores. La **Iniciativa COMET (Core Outcome Measures in Effectiveness Trials)** proporciona orientación y un registro para el desarrollo de COS.\n\nEl propósito de los COS es abordar el problema de la **heterogeneidad en la notificación de resultados**: cuando distintos ensayos miden diferentes resultados, las revisiones sistemáticas no pueden combinar los resultados de forma eficaz, lo que genera una base de evidencia fragmentada. Si todos los ensayos de cirugía ortognática midieran el OHIP-14, la apertura bucal máxima y la recidiva esquelética, las revisiones sistemáticas podrían producir estimaciones combinadas significativas para estos resultados.\n\nEl **Conjunto de Resultados Principales OMFS de la Iniciativa COMET (2019)** identificó los siguientes dominios para su inclusión en los ensayos clínicos de CMF en múltiples subespecialidades: dolor (EAV o ENE), función (apertura bucal, clasificación oclusal), calidad de vida relacionada con la salud oral (OHIP-14 o equivalente), satisfacción con el aspecto, tasas de complicaciones (infección, lesión nerviosa, fallo del material de osteosíntesis), tiempo de recuperación y supervivencia (en procedimientos oncológicos). Las subespecialidades individuales tienen resultados adicionales específicos del dominio (p. ej., competencia velofaríngea en FLP; simetría facial en microsomía hemifacial; supervivencia del implante en implantes dentales).\n\nUso de un COS: (1) al diseñar un ensayo CMF, incluya todos los ítems del COS como resultados primarios o secundarios; (2) al realizar una revisión sistemática, utilice los ítems del COS para estructurar la síntesis de resultados; (3) al redactar una guía clínica, emplee los ítems del COS para definir los dominios de resultados."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Por Qué Importan los COS",
+          "content": "Los conjuntos de resultados principales existen para prevenir la fragmentación de la evidencia causada por el hecho de que diferentes ensayos midan diferentes resultados. Si todos los ensayos de fractura condilar midieran «OHIP-14 + apertura bucal máxima + clasificación oclusal», las revisiones sistemáticas podrían combinar estos resultados de forma significativa. Sin COS, cada ensayo mide resultados distintos → no se pueden combinar → literatura fragmentada → sin respuesta clara."
+        }
+      ]
+    },
+    {
+      "id": "G3-S6",
+      "title": "Escalas de Medición: EAV, Likert e Impresión Global",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las **Escalas Analógicas Visuales (EAV/VAS)** son líneas horizontales de 100 mm ancladas en cada extremo por los extremos del concepto que se mide (p. ej., «sin dolor» a «el peor dolor imaginable»). Los participantes marcan su posición en la línea, que se mide en mm (0–100). Las EAV son escalas continuas, sensibles, fáciles de administrar y ampliamente validadas para el dolor. La DCIM para la EAV de dolor es de aproximadamente 13–15 mm.\n\nLas **Escalas de Valoración Numérica (EVN/NRS)** son escalas discretas de 11 puntos (0–10 o 0–100) en las que se pide a los participantes que seleccionen un número que represente la gravedad de sus síntomas. Las EVN son más prácticas en el entorno clínico (posible administración verbal), se correlacionan intensamente con las EAV (r >0,8) y son preferidas en las revisiones sistemáticas por la facilidad de extracción de datos. DCIM para EVN de dolor (0–10): aproximadamente 1,5–2 puntos.\n\nLas **escalas de Likert** utilizan respuestas categóricas ordenadas con un número fijo de opciones de respuesta (habitualmente 5–7 puntos): muy en desacuerdo, en desacuerdo, neutral, de acuerdo, muy de acuerdo. Las escalas de Likert son datos ordinales: no se asume que la distancia entre categorías sea igual. Análisis estadístico adecuado: mediana y rango intercuartílico; prueba de rangos de Wilcoxon para la comparación. Tratar los datos de Likert como continuos (usando medias y pruebas t) es técnicamente incorrecto, pero se practica ampliamente y generalmente se acepta cuando se utilizan 5 o más categorías de respuesta.\n\nLas escalas de **Impresión Global de Cambio (IGC)** formulan a los participantes una única pregunta retrospectiva: «En comparación con antes del tratamiento, ¿cómo describiría su estado?», con 7 opciones desde «mucho peor» hasta «mucho mejor». Las escalas IGC se utilizan como medidas de anclaje para el cálculo de la DCIM. La Impresión Global de Cambio del Paciente (PGIC) es el anclaje estándar en la metodología de DCIM basada en anclaje."
+        }
+      ]
+    },
+    {
+      "id": "G3-S7",
+      "title": "Economía de la Salud y Cálculo de AVAC en CMF",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **evaluación de economía de la salud** paralela a los ensayos clínicos permite a los responsables de la toma de decisiones determinar si una nueva intervención CMF proporciona suficiente beneficio en salud para justificar su coste en comparación con el tratamiento estándar. La medida más utilizada en la economía de la salud del Reino Unido es el **Año de Vida Ajustado por Calidad (AVAC/QALY)**, que combina la duración del beneficio en salud con su calidad (utilidad).\n\nAVAC = Puntuación de utilidad (0–1) × Años en el estado de salud. Por ejemplo, 2 años en un estado de salud con utilidad 0,7 = 1,4 AVAC. Un tratamiento que desplaza a un paciente de utilidad 0,6 a utilidad 0,8 durante 3 años proporciona: (0,8 − 0,6) × 3 = 0,6 AVAC adicionales. El umbral de coste-efectividad actual del NICE es de aproximadamente **£20.000–30.000 por AVAC ganado**: las intervenciones por debajo de este umbral se consideran generalmente coste-efectivas.\n\nLas puntuaciones de utilidad de los estados EQ-5D se derivan de estudios de preferencias poblacionales (p. ej., tarifa UK de Dolan 1997). El EQ-5D-3L (3 niveles por dimensión) y el EQ-5D-5L (5 niveles) producen ambos puntuaciones de utilidad; la versión 5L tiene mayor sensibilidad. Todas las evaluaciones tecnológicas del NICE financiadas para CMF requieren datos de utilidad EQ-5D.\n\nEn CMF, los datos de economía de la salud rara vez se recogen junto con los ensayos clínicos, en parte porque requieren medidas específicas (EQ-5D) y datos de utilización de recursos (diarios de costes). La cirugía ortognática, las prótesis sobre implantes para microsomía hemifacial y la sustitución total de la ATM son ejemplos de procedimientos CMF en los que la evaluación de economía de la salud se requiere cada vez más para justificar su financiación."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Umbral AVAC del NICE",
+          "content": "El NICE utiliza un umbral de £20.000–30.000 por AVAC ganado para determinar la coste-efectividad. Si la sustitución total de ATM (STAT) para la ATM en estadio terminal cuesta £8.000 por paciente y produce 2 AVAC adicionales (frente al tratamiento conservador), la razón de coste-efectividad incremental (RCEI/ICER) = £8.000 / 2 = £4.000/AVAC — muy por debajo del umbral del NICE y, por tanto, muy coste-efectiva."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúe sus conocimientos sobre investigación de resultados y RCP en CMF con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "G3-Q1",
+        "stem": "Un resultado comunicado por el paciente (RCP/PRO) se define como:",
+        "options": {
+          "A": "Cualquier medición realizada por un investigador clínico mediante instrumentos validados",
+          "B": "Cualquier informe sobre el estado de salud de un paciente que proviene directamente del mismo sin interpretación clínica",
+          "C": "Una medición radiográfica interpretada por un radiólogo cegado",
+          "D": "Un resultado compuesto que incluye evaluaciones tanto del paciente como del clínico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un RCP es cualquier informe del estado de salud que proviene DIRECTAMENTE del paciente, sin interpretación por parte de un clínico ni de ninguna otra persona (Guía PRO FDA 2009). Esto distingue los RCP de los resultados comunicados por el clínico (ClinRO) y de los resultados comunicados por el observador. Ejemplos de verdaderos RCP en CMF: EAV de dolor, cuestionario OHIP-14, escala de satisfacción FACE-Q, EQ-5D. Ejemplos que NO son RCP: desviación mandibular (medida por el CMF), clasificación oclusal (evaluada por el CMF), nivel óseo en radiografía.",
+          "wrong": {
+            "A": "Las mediciones del investigador clínico = ClinRO (resultado comunicado por el clínico) — NO un RCP.",
+            "C": "Medición radiográfica por radiólogo cegado = resultado comunicado por el investigador — no un RCP.",
+            "D": "Un resultado compuesto de evaluaciones del paciente y del clínico no es un RCP según la definición de la FDA: un RCP debe provenir únicamente del paciente."
+          },
+          "guideline": "Guía PRO FDA (2009) — definición de resultado comunicado por el paciente",
+          "trial": "Speculand B et al. Br J Oral Maxillofac Surg (2019): uso de RCP en CMF — revisión que confirma la definición de RCP de la FDA y la distinción entre RCP y otros tipos de resultados.",
+          "pearl": "RCP = DIRECTAMENTE del paciente, sin interpretación clínica. OHIP-14 = RCP. EAV de dolor = RCP. Apertura bucal medida con calibre = ClinRO (no RCP). Mantenga esta distinción clara para el examen.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G3-Q2",
+        "stem": "El OHIP-14 es un cuestionario de 14 ítems que mide la calidad de vida relacionada con la salud oral. ¿Cuál es su DCIM aproximada?",
+        "options": {
+          "A": "1 punto",
+          "B": "5 puntos",
+          "C": "9 puntos",
+          "D": "20 puntos"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La DCIM del OHIP-14 es de aproximadamente 9 puntos (en una escala de 0 a 56). Un cambio inferior a este valor no representa una mejora significativa desde la perspectiva del paciente. Este valor se estableció mediante métodos de anclaje en poblaciones de cirugía ortognática, implantes dentales y tratamiento periodontal. Al interpretar los resultados del OHIP-14 en ensayos CMF, compare siempre el cambio observado con la DCIM de 9 puntos, no solo el valor p.",
+          "wrong": {
+            "A": "1 punto está muy por debajo de la DCIM: un cambio de 1 punto en el OHIP-14 se encuentra dentro del ruido de medición y no es detectable por el paciente.",
+            "B": "5 puntos está por debajo de la DCIM establecida de aproximadamente 9 puntos.",
+            "D": "20 puntos supera sustancialmente la DCIM: un cambio de 20 puntos representaría una mejora clínicamente grande y claramente perceptible."
+          },
+          "guideline": "Allen PF. Health Qual Life Outcomes (2003) — validación de la DCIM del OHIP-14",
+          "trial": "Slade GD. Community Dent Oral Epidemiol (1997): derivación y validación del OHIP-14; estudios posteriores basados en anclaje establecieron ≈9 puntos como umbral.",
+          "pearl": "DCIM OHIP-14 ≈ 9 PUNTOS (escala 0–56). Cambio <9 puntos = no clínicamente significativo aunque p<0,05. Informe siempre el valor de cambio real del OHIP-14 y compárelo con la DCIM al interpretar los resultados.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q3",
+        "stem": "El instrumento EQ-5D se utiliza principalmente en la investigación CMF con qué finalidad:",
+        "options": {
+          "A": "Medir la calidad de vida relacionada con la salud oral específica de la enfermedad",
+          "B": "Generar puntuaciones de utilidad para evaluaciones de economía de la salud (cálculos de AVAC)",
+          "C": "Medir la función específica maxilofacial (apertura mandibular y dolor)",
+          "D": "Evaluar el bienestar psicosocial específico de la deformidad facial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El EQ-5D es un instrumento genérico de calidad de vida relacionada con la salud que produce una puntuación de utilidad (escala 0–1, donde 1 = salud perfecta) utilizada para calcular AVAC (Años de Vida Ajustados por Calidad) en evaluaciones de economía de la salud. El NICE exige datos de utilidad EQ-5D para todas sus evaluaciones tecnológicas. No es específico de la enfermedad y es menos sensible a los cambios en la salud oral que el OHIP-14, pero permite comparar el beneficio en salud de las intervenciones CMF con los tratamientos de otras áreas terapéuticas.",
+          "wrong": {
+            "A": "El OHIP-14 mide la OHRQoL específica de la enfermedad oral — no el EQ-5D.",
+            "C": "La apertura mandibular y el dolor se miden mediante ClinRO (medición con calibre) y EAV respectivamente — no con EQ-5D.",
+            "D": "El FACE-Q está diseñado para resultados psicosociales de cirugía facial — no el EQ-5D."
+          },
+          "guideline": "Guía del NICE para los métodos de evaluación tecnológica (2013) — EQ-5D como medida de utilidad preferida",
+          "trial": "Dolan P. Med Care (1997): tarifa UK para puntuaciones de utilidad EQ-5D — utilizada por el NICE para todos los cálculos de AVAC; referencia fundamental para la economía de la salud en el Reino Unido.",
+          "pearl": "EQ-5D = CVRSi GENÉRICA = produce puntuaciones de utilidad para cálculos de AVAC = estándar del NICE. OHIP-14 = ESPECÍFICO de la salud oral. Ambos son necesarios en los ensayos CMF: EQ-5D para economía de la salud, OHIP-14 para resultados específicos orales.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q4",
+        "stem": "Un AVAC se calcula como:",
+        "options": {
+          "A": "Coste del tratamiento / número de complicaciones evitadas",
+          "B": "Puntuación de utilidad × número de años en el estado de salud",
+          "C": "Número de pacientes mejorados / total de pacientes tratados",
+          "D": "Coste del tratamiento / beneficio en supervivencia en años"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "AVAC = Puntuación de utilidad (0–1) × Años en el estado de salud. Combina la calidad y la duración del beneficio en salud. Por ejemplo, un paciente restaurado a una utilidad de 0,85 (EQ-5D) durante 3 años tras STAT = 0,85 × 3 = 2,55 AVAC. Comparado con el tratamiento conservador que proporciona utilidad 0,60 durante 3 años = 0,60 × 3 = 1,80 AVAC. Ganancia incremental de AVAC con STAT = 2,55 − 1,80 = 0,75 AVAC. Umbral NICE: si STAT cuesta £15.000 más que el tratamiento conservador, RCEI = £15.000 / 0,75 = £20.000/AVAC — en el umbral del NICE.",
+          "wrong": {
+            "A": "Coste / complicaciones evitadas = razón de coste-efectividad, pero no el cálculo de AVAC.",
+            "C": "Proporción de pacientes mejorados = tasa de respuesta, no un AVAC.",
+            "D": "Coste del tratamiento / años de supervivencia = coste por año de vida ganado, no coste por AVAC."
+          },
+          "guideline": "Guía del NICE para los métodos de evaluación tecnológica (2013) — metodología de AVAC",
+          "trial": "Dolan P. Med Care (1997): tarifa UK EQ-5D — los valores de utilidad utilizados en los cálculos de AVAC para las evaluaciones tecnológicas del NICE en el Reino Unido.",
+          "pearl": "AVAC = UTILIDAD × AÑOS. Umbral NICE = £20.000–30.000 por AVAC. Por debajo del umbral = coste-efectivo, probablemente aprobado. Por encima del umbral = generalmente no financiado. EQ-5D proporciona la puntuación de utilidad.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q5",
+        "stem": "El instrumento FACE-Q está específicamente validado para qué población CMF:",
+        "options": {
+          "A": "Pacientes con tumores de glándulas salivales",
+          "B": "Pacientes sometidos a cirugía facial (incluida cirugía ortognática y rinoplastia)",
+          "C": "Pacientes con fracturas faciales",
+          "D": "Pacientes que reciben implantes dentales"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El FACE-Q es un instrumento RCP desarrollado y validado específicamente para pacientes sometidos a cirugía facial, incluidas cirugía ortognática, rinoplastia, lifting facial y procedimientos craneofaciales. Comprende múltiples escalas de funcionamiento independiente en tres dominios: (1) aspecto (satisfacción con el aspecto facial, nariz, labios, mejillas); (2) calidad de vida (función psicológica, función social, impacto en etapas tempranas de la vida en pacientes pediátricos); y (3) efectos adversos (consecuencias adversas de la cirugía). Las escalas FACE-Q han sido validadas en poblaciones de cirugía ortognática y se utilizan cada vez más en los ensayos CMF.",
+          "wrong": {
+            "A": "Los resultados de los tumores de glándulas salivales se miden habitualmente con instrumentos de calidad de vida para cáncer de cabeza y cuello (p. ej., UW-QOL, EORTC H&N35) — no con FACE-Q.",
+            "C": "Los resultados de las fracturas faciales utilizan RCP genéricos (EQ-5D, OHIP-14) y medidas funcionales — el FACE-Q no es el instrumento principal en poblaciones de traumatología.",
+            "D": "Los resultados de los implantes dentales utilizan el OHIP-EDENT e instrumentos específicos de implantes — no el FACE-Q."
+          },
+          "guideline": "Conjunto de Resultados Principales OMFS de la Iniciativa COMET (2019) — FACE-Q para estética y calidad de vida en cirugía facial",
+          "trial": "Klassen AF et al. Aesthet Surg J (2012): validación original del FACE-Q en 406 pacientes de rinoplastia y cirugía facial — establecido como el RCP estándar para la estética de cirugía facial.",
+          "pearl": "FACE-Q = RCP específico de cirugía facial. Ortognática, rinoplastia, craneofacial. Mide: satisfacción con el aspecto + función psicológica + efectos adversos. Múltiples escalas con puntuación independiente.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q6",
+        "stem": "La Iniciativa COMET en la investigación de resultados es responsable de:",
+        "options": {
+          "A": "Realizar revisiones sistemáticas de intervenciones quirúrgicas",
+          "B": "Desarrollar y mantener registros de conjuntos de resultados principales para ensayos clínicos",
+          "C": "Proporcionar aprobación ética para ensayos clínicos multinacionales",
+          "D": "Registrar ensayos clínicos antes del reclutamiento de pacientes"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Iniciativa COMET (Core Outcome Measures in Effectiveness Trials) proporciona orientación metodológica para el desarrollo de conjuntos de resultados principales (COS) y mantiene una base de datos de acceso público de COS existentes. Su finalidad es abordar el problema de la heterogeneidad de resultados entre ensayos: cuando distintos ensayos miden resultados diferentes, las revisiones sistemáticas no pueden combinar los resultados de forma eficaz. La base de datos de COS de COMET permite a los investigadores identificar COS existentes antes de diseñar nuevos ensayos, garantizando una medición estandarizada de resultados.",
+          "wrong": {
+            "A": "Las revisiones sistemáticas de intervenciones quirúrgicas las realizan Cochrane y grupos de investigación individuales — no COMET.",
+            "C": "La aprobación ética para ensayos multinacionales la proporcionan las autoridades éticas nacionales (HRA en el Reino Unido) — no COMET.",
+            "D": "El registro de ensayos clínicos lo proporcionan el ISRCTN, ClinicalTrials.gov y registros similares — no COMET."
+          },
+          "guideline": "Iniciativa COMET (2012) — Propósito y manual de metodología COS",
+          "trial": "Williamson PR et al. Trials (2012): artículo fundacional de la Iniciativa COMET — justificación de la medición estandarizada de resultados y metodología de desarrollo de COS.",
+          "pearl": "COMET = Core Outcome Measures in Effectiveness Trials = desarrolla y registra CONJUNTOS DE RESULTADOS PRINCIPALES. COS = resultados mínimos que todos los ensayos de un área clínica deben medir. Previene la heterogeneidad de resultados en los metaanálisis.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q7",
+        "stem": "¿Qué análisis estadístico es más adecuado para los datos de una escala de Likert en un ensayo clínico CMF?",
+        "options": {
+          "A": "Media y desviación estándar con prueba t pareada",
+          "B": "Mediana y rango intercuartílico con prueba de rangos de Wilcoxon",
+          "C": "Análisis de regresión asumiendo que el resultado es continuo",
+          "D": "Prueba chi cuadrado para proporciones independientes"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las escalas de Likert producen datos ordinales: las categorías tienen un orden de rango, pero las distancias entre categorías no son iguales (la diferencia entre «neutral» y «de acuerdo» no es necesariamente la misma que entre «de acuerdo» y «muy de acuerdo»). Los datos ordinales se resumen adecuadamente con la mediana y el rango intercuartílico (no con media ± DE) y se comparan con pruebas no paramétricas (Wilcoxon de rangos para grupos independientes; Wilcoxon de rangos con signo para datos pareados). Tratar los datos de Likert como continuos (usando medias y pruebas t) viola la asunción estadística de intervalos iguales.",
+          "wrong": {
+            "A": "La media y la prueba t asumen datos continuos (de intervalo/razón) con intervalos iguales — técnicamente no apropiadas para datos ordinales de Likert.",
+            "C": "La regresión asumiendo resultado continuo no es técnicamente correcta para datos de Likert — la regresión logística ordinal es la apropiada.",
+            "D": "Chi cuadrado para proporciones funciona para resultados binarios — no para datos ordinales de Likert con rangos."
+          },
+          "guideline": "Manual Cochrane v6.3 (2022) — Capítulo 6: Análisis de resultados ordinales",
+          "trial": "Norman G. Med Educ (2010): argumentó de forma controvertida que tratar las escalas de Likert como datos de intervalo con pruebas paramétricas es aceptable con 5+ categorías de respuesta — una visión pragmática ampliamente adoptada en la práctica.",
+          "pearl": "Likert = datos ORDINALES. Técnicamente: mediana/RIC + Wilcoxon. Pragmáticamente: muchas revistas aceptan media/t para Likert de 5+ puntos (Norman 2010). En los exámenes: los métodos ordinales son la respuesta técnicamente correcta.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q8",
+        "stem": "La Diferencia Clínicamente Importante Mínima (DCIM) para la escala analógica visual de dolor (0–100 mm) es aproximadamente:",
+        "options": {
+          "A": "1–2 mm",
+          "B": "5 mm",
+          "C": "13–15 mm",
+          "D": "30 mm"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La DCIM para la EAV de dolor (escala de 100 mm) es de aproximadamente 13–15 mm, establecida mediante múltiples estudios basados en anclaje en diferentes condiciones dolorosas, incluido el dolor postoperatorio, el dolor de ATM y el dolor facial. Esto significa que una reducción de la EAV inferior a 13 mm, aunque potencialmente significativa estadísticamente en un ensayo grande, no representa un cambio de dolor que los pacientes considerarían significativo. El umbral equivalente para la EVN (0–10) es de aproximadamente 1,5–2 puntos.",
+          "wrong": {
+            "A": "1–2 mm está muy por debajo de la DCIM establecida — dentro del error de medición de la EAV.",
+            "B": "5 mm está por debajo de la DCIM — un cambio de esta magnitud no es percibido de forma fiable por los pacientes.",
+            "D": "30 mm supera sustancialmente la DCIM — un cambio de EAV de 30 mm representa una mejora clínicamente grande y evidente."
+          },
+          "guideline": "Guía PRO FDA (2009) — metodología DCIM; estudios DCIM publicados para EAV de dolor",
+          "trial": "Farrar JT et al. Pain (2001): DCIM para EVN/EAV de dolor — 13–15 mm en EAV de 100 mm (aproximadamente 1,74 puntos de EVN) como DCIM para el dolor postoperatorio; ampliamente replicado en poblaciones de dolor.",
+          "pearl": "DCIM EAV dolor ≈ 13–15 mm (escala 100 mm). DCIM EVN dolor ≈ 1,5–2 puntos (escala 0–10). DCIM OHIP-14 ≈ 9 puntos. DCIM apertura bucal ≈ 5 mm. Estas cifras se examinan CON FRECUENCIA.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q9",
+        "stem": "El cuestionario OHIP-49 fue desarrollado basándose en qué modelo conceptual de salud oral:",
+        "options": {
+          "A": "El modelo biopsicosocial del dolor crónico",
+          "B": "El modelo teórico de salud oral de Locker, derivado de la clasificación de consecuencias de la enfermedad de la OMS",
+          "C": "El marco GRADE para la evaluación de la calidad de la evidencia",
+          "D": "El modelo de Ottawa para la utilización de la investigación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El OHIP-49 (Slade y Spencer 1994) fue desarrollado basándose en el modelo teórico de salud oral de Locker (1988), que a su vez se derivó de la Clasificación Internacional de Deficiencias, Discapacidades y Minusvalías (CIDDM, 1980) de la OMS. El modelo de Locker propone una vía causal desde la enfermedad/patología a través de la deficiencia (limitación funcional) → discapacidad (física, psicológica, social) → minusvalía. Las siete dimensiones del OHIP-49 se corresponden directamente con este modelo.",
+          "wrong": {
+            "A": "El modelo biopsicosocial del dolor crónico (Engel 1977) es un marco separado: aunque relevante para el dolor de ATM y orofacial, no es la base del OHIP.",
+            "C": "GRADE es un marco para calificar la calidad de la evidencia — no un modelo conceptual para la medición de la calidad de vida.",
+            "D": "El modelo de Ottawa se utiliza en la ciencia de la implementación — no en el desarrollo de instrumentos de OHRQoL."
+          },
+          "guideline": "Slade GD & Spencer AJ. Community Dent Health (1994): artículo original del OHIP-49 — desarrollo basado en el modelo de Locker",
+          "trial": "Slade GD & Spencer AJ. Community Dent Health (1994): desarrollo del OHIP-49 — 49 ítems en 7 dimensiones del modelo de Locker; validación original en 1.217 adultos sudaustralianos.",
+          "pearl": "Desarrollo del OHIP-49: modelo de Locker (1988) → CIDDM OMS → 7 dimensiones: Limitación funcional, Dolor físico, Malestar psicológico, Discapacidad física, Discapacidad psicológica, Discapacidad social, Minusvalía.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q10",
+        "stem": "¿Qué distingue los instrumentos RCP específicos de enfermedad de los instrumentos RCP genéricos?",
+        "options": {
+          "A": "Los instrumentos específicos de enfermedad son siempre más cortos y fáciles de administrar",
+          "B": "Los instrumentos específicos de enfermedad son más sensibles a los cambios en el dominio de la enfermedad concreta pero no pueden compararse entre enfermedades; los instrumentos genéricos permiten la comparación entre enfermedades y la evaluación de economía de la salud",
+          "C": "Los instrumentos específicos de enfermedad solo están validados en entornos de investigación, no en la práctica clínica",
+          "D": "Los instrumentos genéricos son preferidos por el NICE y siempre deben reemplazar a los específicos de enfermedad en los ensayos CMF"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La distinción clave: los instrumentos específicos de enfermedad (p. ej., OHIP-14) son más sensibles al cambio (sensibles a cambios significativos en el dominio específico) porque miden ítems directamente relevantes para la enfermedad, lo que los hace mejores para detectar los efectos del tratamiento. Sin embargo, no pueden compararse con resultados de otras enfermedades. Los instrumentos genéricos (p. ej., EQ-5D) permiten la comparación entre enfermedades y la evaluación de economía de la salud (AVAC), pero son menos sensibles a los cambios específicos de la enfermedad. La mejor práctica: usar AMBOS en los ensayos CMF.",
+          "wrong": {
+            "A": "La longitud varía independientemente de la especificidad: el OHIP-49 (específico) tiene 49 ítems; el EQ-5D (genérico) tiene 5 ítems.",
+            "C": "Los instrumentos específicos de enfermedad como el OHIP-14 están validados tanto para entornos de investigación como clínicos.",
+            "D": "El NICE prefiere el EQ-5D para los cálculos de utilidad, pero NO recomienda reemplazar los instrumentos específicos de enfermedad: ambos son necesarios para una medición exhaustiva de resultados."
+          },
+          "guideline": "Patrick DL & Deyo RA. Med Care (1989): instrumentos genéricos vs específicos — la distinción fundamental en la metodología de RCP",
+          "trial": "Allen PF. Health Qual Life Outcomes (2003): instrumentos OHIP en odontología — confirma la superioridad del OHIP frente a los instrumentos genéricos para detectar cambios en la salud oral.",
+          "pearl": "Específico de enfermedad (OHIP-14) = MÁS SENSIBLE AL CAMBIO en salud oral. Genérico (EQ-5D) = permite comparación entre enfermedades + cálculo de AVAC. El mejor ensayo CMF = usar AMBOS.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q11",
+        "stem": "El método de anclaje para determinar la DCIM utiliza:",
+        "options": {
+          "A": "La mitad de la desviación estándar de la puntuación basal como umbral de DCIM",
+          "B": "La correlación de la puntuación de cambio del RCP con una pregunta de anclaje externa significativa",
+          "C": "El percentil 95 de la distribución de cambios en el grupo control",
+          "D": "El consenso de un panel de expertos sobre la mejora mínima aceptable"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El método de DCIM basado en anclaje correlaciona las puntuaciones de cambio del RCP con un anclaje externo, habitualmente una pregunta de Impresión Global de Cambio del Paciente (PGIC) que pregunta «¿Cómo describiría su cambio desde el tratamiento?». El cambio de puntuación RCP asociado con la categoría «mínimamente mejor» o «un poco mejor» del anclaje proporciona la DCIM. Este método es el preferido porque vincula directamente el cambio del RCP a la mejora significativa percibida por el paciente, otorgando a la DCIM validez clínica aparente.",
+          "wrong": {
+            "A": "La mitad de la DE basal = DCIM BASADA EN LA DISTRIBUCIÓN (no en anclaje). Este método proporciona una estimación estadísticamente conveniente pero no está anclada a la experiencia del paciente.",
+            "C": "El percentil 95 del cambio en el grupo control = no es un método reconocido de DCIM.",
+            "D": "El consenso de expertos = no es el método estándar basado en anclaje — la opinión de expertos puede no reflejar el cambio significativo percibido por el paciente."
+          },
+          "guideline": "Guía PRO FDA (2009) — metodología de determinación de DCIM: preferencia por el método basado en anclaje",
+          "trial": "Farrar JT et al. Pain (2001): DCIM basada en anclaje para el dolor — la categoría «mínimamente mejorado» de la PGIC se usó como anclaje; se identificó un cambio de EAV de 13–15 mm como DCIM.",
+          "pearl": "DCIM basada en ANCLAJE = correlación con PGIC (impresión global de cambio) — derivada del paciente. DCIM basada en DISTRIBUCIÓN = 0,5 DE o EEM — derivada estadísticamente. La basada en anclaje es la preferida (FDA). Ambas se notifican en los estudios de validación.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q12",
+        "stem": "El umbral de coste-efectividad del NICE para las intervenciones que generan AVAC es aproximadamente:",
+        "options": {
+          "A": "£5.000–10.000 por AVAC ganado",
+          "B": "£20.000–30.000 por AVAC ganado",
+          "C": "£50.000–100.000 por AVAC ganado",
+          "D": "£200.000 por AVAC ganado"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El umbral de coste-efectividad aceptado por el NICE es de aproximadamente £20.000–30.000 por AVAC ganado. Las intervenciones con una RCEI inferior a £20.000/AVAC se aprueban generalmente. Las que superan los £30.000/AVAC generalmente no se aprueban, salvo circunstancias excepcionales (p. ej., tratamientos en el final de la vida, enfermedades raras). Este umbral se fijó originalmente basándose en el análisis del gasto sanitario del NHS y las estimaciones de disposición a pagar.",
+          "wrong": {
+            "A": "£5.000–10.000/AVAC subestima sustancialmente el umbral del NICE: la mayoría de las intervenciones rutinarias no serían aprobadas con este umbral.",
+            "C": "£50.000–100.000/AVAC se reserva habitualmente para tecnologías de final de la vida bajo criterios especiales del NICE, no el umbral estándar.",
+            "D": "£200.000/AVAC está muy por encima del umbral del NICE: los tratamientos a este nivel prácticamente nunca son aprobados por el NICE."
+          },
+          "guideline": "Guía del NICE para los métodos de evaluación tecnológica (2013) — umbral de £20.000–30.000 por AVAC",
+          "trial": "Rawlins MD & Culyer AJ. BMJ (2004): análisis del umbral del NICE — £20.000–30.000 por AVAC establecido como umbral implícito de disposición a pagar en el Reino Unido.",
+          "pearl": "Umbral NICE = £20.000–30.000 por AVAC. Por debajo de £20.000 = aprobar. £20.000–30.000 = considerar. Por encima de £30.000 = normalmente rechazar (excepción: final de la vida + población pequeña). Conozca esto para los exámenes.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q13",
+        "stem": "En un ensayo CMF que compara dos tipos de cirugía ortognática, el OHIP-14 mejora una media de 11 puntos (IC 95% 7,2–14,8) en el grupo de intervención frente a 3 puntos en el grupo control (diferencia 8 puntos, p = 0,03). ¿Cómo debe interpretarse este resultado?",
+        "options": {
+          "A": "El resultado es clínicamente significativo: 11 puntos supera la DCIM de 9",
+          "B": "El resultado es estadísticamente significativo pero probablemente no clínicamente significativo: la DIFERENCIA de 8 puntos entre grupos está por debajo de la DCIM de 9 puntos",
+          "C": "El resultado es inconcluyente porque el intervalo de confianza cruza el cero",
+          "D": "El resultado es clínicamente significativo porque p = 0,03 está por debajo de 0,05"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La métrica clave para la comparación con la DCIM es la diferencia ENTRE GRUPOS (la ganancia incremental del tratamiento), NO el cambio dentro del grupo desde el valor basal. La diferencia entre grupos es de 8 puntos (11 − 3 = 8), que está POR DEBAJO de la DCIM del OHIP-14 de aproximadamente 9 puntos. Aunque el grupo de intervención mejoró 11 puntos (por encima de la DCIM), 3 de esos puntos también ocurrieron en el grupo control, probablemente reflejando historia natural, efecto placebo o regresión a la media. El beneficio ESPECÍFICO DEL TRATAMIENTO es la diferencia entre grupos de 8 puntos, que está por debajo de la DCIM. El resultado es estadísticamente significativo pero no claramente clínicamente relevante.",
+          "wrong": {
+            "A": "La mejora dentro del grupo de 11 puntos supera la DCIM, pero la DCIM para las diferencias entre grupos en los ECA requiere comparar la diferencia entre grupos (8 puntos), no solo la mejora del brazo de tratamiento.",
+            "C": "El intervalo de confianza no cruza el cero (IC 95% 7,2–14,8 para el cambio en el grupo de intervención), pero este análisis es del cambio dentro del grupo, no del cambio entre grupos cuyo IC es el necesario.",
+            "D": "p = 0,03 demuestra significación estadística pero no determina la significación clínica: la comparación con la DCIM es el parámetro clínico apropiado."
+          },
+          "guideline": "GRADE Working Group 2011 — Comparación de DCIM entre grupos como prueba primaria de significación clínica",
+          "trial": "Allen PF. Health Qual Life Outcomes (2003): DCIM del OHIP-14 — umbral de 9 puntos para diferencias entre grupos clínicamente significativas en estudios de intervención.",
+          "pearl": "La diferencia ENTRE GRUPOS = cantidad relevante para la comparación con la DCIM en los ECA. Mejora de 11 puntos en la intervención menos 3 puntos en el control = diferencia entre grupos de 8 puntos. 8 < 9 (DCIM) = NO claramente clínicamente significativo a pesar de p < 0,05.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q14",
+        "stem": "La escala de Impresión Global de Cambio del Paciente (PGIC) se utiliza principalmente como:",
+        "options": {
+          "A": "Medida de resultado primaria de satisfacción del paciente en ensayos CMF",
+          "B": "Medida de anclaje para calcular la DCIM de otros instrumentos RCP",
+          "C": "Instrumento genérico de calidad de vida relacionada con la salud para las presentaciones al NICE",
+          "D": "Medida comunicada por el clínico del éxito del tratamiento"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La PGIC es una pregunta de un único ítem («¿Cómo describiría su cambio global desde el inicio del tratamiento?») con 7 opciones de respuesta, desde «mucho peor» hasta «mucho mejor». Se utiliza como anclaje externo en la metodología de DCIM basada en anclaje: el cambio de puntuación RCP asociado con «mínimamente mejorado» en la PGIC define la DCIM para ese instrumento. La PGIC no se utiliza como medida de resultado primaria en los ensayos CMF: su finalidad principal es metodológica (cálculo de DCIM).",
+          "wrong": {
+            "A": "La satisfacción del paciente se mide mejor con instrumentos específicos de satisfacción (escalas de satisfacción FACE-Q): la PGIC es una evaluación global retrospectiva, no una medida específica de satisfacción.",
+            "C": "Los instrumentos genéricos de CVRSi para las presentaciones al NICE = EQ-5D — no PGIC.",
+            "D": "La PGIC proviene directamente del paciente, lo que la convierte en un RCP — no una medida comunicada por el clínico."
+          },
+          "guideline": "Guía PRO FDA (2009) — PGIC como anclaje para la determinación de la DCIM",
+          "trial": "Farrar JT et al. Pain (2001): metodología de anclaje original con PGIC — se utilizó PGIC de 7 puntos para anclar el cálculo de DCIM de EVN/EAV de dolor.",
+          "pearl": "PGIC = anclaje para la metodología de DCIM. «¿Cómo describiría su cambio desde el tratamiento?» = 7 opciones de «mucho peor» a «mucho mejor». El cambio RCP de la categoría «mínimamente mejorado» = DCIM.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q15",
+        "stem": "Un conjunto de resultados principales (COS) para los ECA de fractura condilar mejoraría la base de evidencia principalmente al:",
+        "options": {
+          "A": "Aumentar el tamaño muestral de los ensayos individuales",
+          "B": "Garantizar que todos los ensayos midan los mismos resultados, permitiendo la combinación de resultados en las revisiones sistemáticas",
+          "C": "Reducir la duración del seguimiento requerido para cada ensayo",
+          "D": "Proporcionar cegamiento a los evaluadores de resultados"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un COS garantiza que todos los ensayos de un área clínica midan el mismo conjunto mínimo de resultados. Esto permite a las revisiones sistemáticas combinar los resultados de los ensayos para esos resultados, produciendo metaanálisis con tamaños muestrales más grandes y estimaciones del efecto más precisas. Sin COS, cada ensayo de manejo de fractura condilar puede notificar resultados diferentes (p. ej., uno notifica oclusión, otro apertura bucal, otro EAV de dolor, otro OHIP-14), lo que hace imposible combinar los resultados y producir una conclusión definitiva de la revisión sistemática.",
+          "wrong": {
+            "A": "Un COS no aumenta directamente el tamaño muestral de los ensayos individuales: los tamaños muestrales siguen determinándose mediante cálculos de potencia.",
+            "C": "Un COS no especifica la duración del seguimiento: solo qué resultados deben medirse.",
+            "D": "Un COS no aborda la metodología de cegamiento: especifica la selección de resultados, no la conducta del ensayo."
+          },
+          "guideline": "Iniciativa COMET (2012) — Justificación del COS: permitir la combinación en revisiones sistemáticas",
+          "trial": "Williamson PR et al. Trials (2012): justificación de COMET — los resultados heterogéneos entre ensayos impiden el metaanálisis; el COS aborda este problema.",
+          "pearl": "COS = resultados estandarizados = PERMITE LA COMBINACIÓN en metaanálisis. Sin COS, los ensayos miden resultados distintos = no se pueden combinar = evidencia fragmentada = sin respuesta clara. El COS es una de las mejoras metodológicas de mayor impacto en la investigación CMF.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q16",
+        "stem": "¿Qué procedimiento CMF requeriría más claramente tanto el EQ-5D como el OHIP-14 conjuntamente para proporcionar una imagen completa de los resultados?",
+        "options": {
+          "A": "Extracción quirúrgica de cordales asintomáticos",
+          "B": "Cirugía ortognática — donde deben demostrarse tanto la justificación económico-sanitaria (AVAC) como la mejora en la calidad de vida específica de la enfermedad",
+          "C": "Biopsia de una lesión mucosa bajo anestesia local",
+          "D": "Resección de un fibroma benigno del labio"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La cirugía ortognática tiene costes elevados, una recuperación significativa y está frecuentemente sujeta a debates sobre la financiación del NHS. Para justificar su financiación, debe demostrar: (1) una mejora significativa en la calidad de vida específica de la enfermedad (OHIP-14 — evidencia de que la OHRQoL de los pacientes mejora significativamente por encima de la DCIM); Y (2) valor de economía de la salud (datos de utilidad EQ-5D para el cálculo de AVAC — evidencia de que la RCEI está por debajo del umbral del NICE de £20.000–30.000). Apoyarse en un solo instrumento proporcionaría una imagen incompleta para las decisiones de financiación.",
+          "wrong": {
+            "A": "La extracción de cordales es habitualmente un procedimiento breve con resultados predecibles y escasa complejidad de economía de la salud: el EQ-5D puede ser innecesario.",
+            "C": "Una biopsia labial es un procedimiento menor sin impacto significativo en la calidad de vida: la medición de RCP no es una prioridad de investigación principal.",
+            "D": "La resección de un fibroma labial es un procedimiento menor sencillo que no requiere una medición exhaustiva de RCP para decisiones de financiación."
+          },
+          "guideline": "NHS England Commissioning for Quality and Innovation (CQUIN) — requisitos de resultados para cirugía ortognática",
+          "trial": "Cunningham SJ et al. J Oral Maxillofac Surg (2002): OHIP-14 en cirugía ortognática — mejoras significativas demostradas; estudios posteriores añadieron el EQ-5D para el análisis de AVAC.",
+          "pearl": "Cirugía ortognática = candidata ideal para AMBOS EQ-5D (economía de la salud, justificación de la financiación del NHS) Y OHIP-14 (CVRSi específica de la enfermedad). Ambos son necesarios para una investigación de resultados completa y para las decisiones de financiación.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q17",
+        "stem": "Una DCIM basada en la distribución utilizando la regla «0,5 desviaciones estándar» para un RCP CMF significa:",
+        "options": {
+          "A": "La DCIM se fija en 0,5 × la desviación estándar de la puntuación basal",
+          "B": "La DCIM se fija en 0,5 × la desviación estándar de la diferencia entre grupos",
+          "C": "Solo el 50% de los participantes necesitan mejorar para alcanzar la DCIM",
+          "D": "El tamaño muestral debe multiplicarse por 0,5 para alcanzar la DCIM"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "La regla de 0,5 DE para la DCIM basada en la distribución fija la DCIM en 0,5 desviaciones estándar de la puntuación RCP en el valor basal. Por ejemplo, si la DE basal del OHIP-14 = 14 puntos, la DCIM con 0,5 DE = 0,5 × 14 = 7 puntos. Este enfoque es puramente estadístico: define la DCIM como el «tamaño de efecto mediano» en el marco de Cohen (d = 0,5). Es conveniente y reproducible, pero no está anclado al cambio significativo percibido por el paciente. Los métodos basados en la distribución se utilizan cuando no hay datos de anclaje disponibles, aunque las DCIM basadas en anclaje se consideran más clínicamente significativas.",
+          "wrong": {
+            "B": "La regla de 0,5 DE se aplica a la DE BASAL, no a la diferencia entre grupos.",
+            "C": "El 50% de pacientes que mejoran es una tasa de respuesta, no la DCIM de 0,5 DE basada en la distribución.",
+            "D": "El cálculo del tamaño muestral es independiente de la determinación de la DCIM: la regla de 0,5 DE no especifica el ajuste del tamaño muestral."
+          },
+          "guideline": "Guía PRO FDA (2009) — métodos basados en la distribución: 0,5 DE como un enfoque posible",
+          "trial": "Norman GR et al. Health Qual Life Outcomes (2003): validación de la regla de 0,5 DE — coherente con la mitad de una desviación estándar que representa la «diferencia mínima detectable»; limitación: falta de anclaje a la experiencia del paciente.",
+          "pearl": "DCIM basada en DISTRIBUCIÓN: 0,5 × DE basal. SIMPLE, estadística, no requiere anclaje del paciente. DCIM basada en ANCLAJE: correlaciona el cambio del RCP con la PGIC. La basada en ANCLAJE es la PREFERIDA (FDA). La basada en distribución = alternativa cuando no hay datos de anclaje disponibles.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G3-Q18",
+        "stem": "La Escala de Limitación Funcional de la Mandíbula (JFLS) mide qué dominio de los resultados de cirugía de ATM y ortognática:",
+        "options": {
+          "A": "Intensidad del dolor durante la función mandibular",
+          "B": "Limitaciones funcionales de la mandíbula incluyendo masticación, movilidad y comunicación verbal",
+          "C": "Espacio articular radiográfico y posición condilar",
+          "D": "Satisfacción del paciente con el aspecto mandibular tras la cirugía"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Escala de Limitación Funcional de la Mandíbula (JFLS) mide el grado de limitación de la función mandibular en tres dominios: (1) masticación (masticar alimentos específicos); (2) movilidad mandibular (apertura mandibular, movimiento lateral); y (3) expresión verbal y emocional (hablar, sonreír, bostezar). Fue desarrollada como parte del proyecto de criterios diagnósticos DC/TMD y está validada para los trastornos de la ATM y los resultados de cirugía ortognática. Están disponibles el JFLS-20 (20 ítems) y el JFLS-8 (versión corta de 8 ítems).",
+          "wrong": {
+            "A": "La intensidad del dolor se mide con EAV o EVN — no con la JFLS (que mide la LIMITACIÓN funcional, no el dolor).",
+            "C": "La evaluación radiográfica es un resultado comunicado por el clínico/imagen — no un RCP.",
+            "D": "La satisfacción con el aspecto mandibular se mide con el FACE-Q o escalas de satisfacción estética global — no con la JFLS."
+          },
+          "guideline": "COS OMFS de COMET (2019) — JFLS como instrumento recomendado para la función mandibular en ensayos de ATM y ortognática",
+          "trial": "Ohrbach R et al. J Oral Facial Pain Headache (2012): criterios diagnósticos DC/TMD — JFLS-20 validado como RCP fiable para la función mandibular en poblaciones con DTM.",
+          "pearl": "JFLS = Escala de Limitación Funcional de la Mandíbula = mide limitaciones de la FUNCIÓN MANDIBULAR: masticación + movilidad + expresión verbal/emocional. Utilizada en ensayos de ATM y cirugía ortognática. DCIM para JFLS ≈ 7 puntos.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q19",
+        "stem": "El sesgo de respuesta en la medición de RCP en ensayos quirúrgicos hace referencia a:",
+        "options": {
+          "A": "Participantes que completan los cuestionarios más rápido de lo esperado",
+          "B": "Pacientes que notifican resultados que creen que reflejan bien a su cirujano, en lugar de su experiencia real",
+          "C": "Pérdida de datos de los no respondedores que son sistemáticamente diferentes de los respondedores",
+          "D": "La tendencia de las opciones de escala de Likert a elegirse de forma no uniforme"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El sesgo de respuesta (también llamado sesgo de deseabilidad social en la medición de RCP) se produce cuando los pacientes ajustan sus resultados autoinformados para complacer a su cirujano o para cumplir con las normas sociales esperadas, notificando mejores resultados de los que realmente experimentan. Esto es especialmente relevante en entornos quirúrgicos donde los pacientes mantienen una relación continua con el cirujano operador y quieren validar la decisión de operarles. Estrategias para minimizarlo: recogida de datos por enfermeras investigadoras independientes, administración de cuestionarios por ordenador y garantías de confidencialidad.",
+          "wrong": {
+            "A": "Completar los cuestionarios más rápido de lo esperado es un efecto de velocidad, no el sesgo de respuesta en el sentido relevante.",
+            "C": "Pérdida de datos de los no respondedores que son sistemáticamente diferentes = SESGO DE NO RESPUESTA (sesgo por datos perdidos) — problema diferente.",
+            "D": "Distribución no uniforme de respuestas en escalas de Likert = sesgo de aquiescencia o sesgo de respuesta extrema — diferente del sesgo de deseabilidad social."
+          },
+          "guideline": "Guía PRO FDA (2009) — Sesgo de respuesta y calidad de datos en la administración de RCP",
+          "trial": "Speculand B et al. Br J Oral Maxillofac Surg (2019): RCP en CMF — el sesgo de respuesta identificado como preocupación significativa cuando los RCP son administrados por el cirujano tratante en lugar de por investigadores independientes.",
+          "pearl": "SESGO DE RESPUESTA en ensayos quirúrgicos con RCP: los pacientes notifican mejores resultados para complacer a su cirujano. Prevención: recogida de datos independiente + administración por ordenador + garantía de confidencialidad. Evite recoger RCP durante las consultas clínicas.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G3-Q20",
+        "stem": "¿Qué programa del NHS recoge sistemáticamente datos de RCP de pacientes sometidos a procedimientos quirúrgicos electivos?",
+        "options": {
+          "A": "Programa de Ética de la Investigación del NHS",
+          "B": "Programa NHS PROMs (Patient-Reported Outcome Measures)",
+          "C": "NHS Commissioning for Quality and Innovation (CQUIN)",
+          "D": "Programa de Auditoría Clínica Nacional de NHS England"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El Programa NHS PROMs (Patient-Reported Outcome Measures) recoge datos estandarizados de RCP de pacientes sometidos a cuatro procedimientos quirúrgicos electivos: prótesis de cadera, prótesis de rodilla, reparación de hernia inguinal y cirugía de varices. Los pacientes completan cuestionarios validados (EQ-5D e instrumentos específicos de la enfermedad) antes y después de la cirugía, permitiendo la comparación de resultados entre hospitales y a lo largo del tiempo. El programa es la mayor iniciativa de recogida nacional de datos de RCP del mundo y ha demostrado que la recogida de RCP es factible a gran escala. Actualmente, ningún procedimiento CMF está incluido en el programa PROMs obligatorio, aunque esto podría cambiar a medida que se desarrolle la evidencia sobre la financiación de la cirugía ortognática.",
+          "wrong": {
+            "A": "Programa de Ética de la Investigación del NHS = proceso de aprobación de los REC — no recogida de RCP.",
+            "C": "CQUIN = esquema de incentivos financieros para la mejora de la calidad — no recogida de datos de RCP.",
+            "D": "Programa de Auditoría Clínica Nacional = auditoría del rendimiento clínico — recoge datos clínicos, no necesariamente RCP en el formato estandarizado PROMs."
+          },
+          "guideline": "Programa NHS England PROMs (desde 2009) — cuatro procedimientos: cadera, rodilla, hernia, varices",
+          "trial": "NHS Information Centre. 'Patient Reported Outcome Measures in England' (2012): evaluación del programa PROMs — mayor recogida rutinaria de RCP del mundo; EQ-5D + instrumentos específicos; cuatro procedimientos quirúrgicos.",
+          "pearl": "NHS PROMs = recogida nacional de RCP para 4 procedimientos electivos: CADERA + RODILLA + HERNIA + VARICES. EQ-5D recogido pre y postoperatoriamente en todos. CMF no incluido actualmente. El programa demuestra la viabilidad de los RCP a gran escala.",
+          "difficulty": 1
+        }
+      }
+    ]
+  }
+}

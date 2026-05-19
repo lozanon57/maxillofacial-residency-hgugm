@@ -1,0 +1,680 @@
+{
+  "id": "A1",
+  "title": "Oral Cavity Cancer: Diagnosis, Staging, and Surgical Resection",
+  "subtitle": "Head & Neck Oncology — TNM 8th edition, margin assessment, mandibulotomy approaches",
+  "block": "A",
+  "block_name": "Head & Neck Oncology",
+  "level": "R2-4",
+  "reading_time_min": 45,
+  "guidelines_version": "NCCN Head and Neck Cancers v1.2024 · AJCC TNM 8th Edition 2017 · EACMFS 2023",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 4th ed. (2022)",
+    "Shah JP et al. Head and Neck Surgery and Oncology, 5th ed. (2020)",
+    "NCCN Clinical Practice Guidelines: Head and Neck Cancers v1.2024",
+    "Amin MB et al. AJCC Cancer Staging Manual, 8th ed. (2017)"
+  ],
+  "learning_objectives": [
+    "Apply the AJCC 8th edition TNM classification for oral cavity cancers, including the concept of depth of invasion (DOI)",
+    "Describe the indications and principles of surgical resection with adequate margins for oral cavity SCC",
+    "Identify the clinical scenarios requiring elective versus therapeutic neck dissection in oral cavity cancer",
+    "Explain the rationale and technique for composite resection including marginal and segmental mandibulectomy",
+    "Interpret the evidence for adjuvant therapy (radiation and chemoradiation) based on pathological risk factors",
+    "Recognize the role of perineural invasion, lymphovascular invasion, and extranodal extension as high-risk features"
+  ],
+  "sections": [
+    {
+      "id": "A1-S1",
+      "title": "Epidemiology, Etiology, and Anatomy of the Oral Cavity",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Oral cavity squamous cell carcinoma (OCSCC)** is the most common malignancy managed by oral and maxillofacial surgeons, accounting for approximately 300,000 new cases annually worldwide. In Spain, approximately 3,500 new cases of oral cavity and oropharyngeal cancer are diagnosed each year, with a male-to-female ratio of approximately 3:1, though this ratio is narrowing with increased tobacco and alcohol use in women. Globally, incidence is highest in South Asia (particularly India and Sri Lanka), where betel quid chewing is prevalent. In Western countries, tobacco and alcohol remain the dominant risk factors, with a synergistic multiplicative effect: heavy smokers and heavy drinkers have a 35-fold increased risk compared with non-users of either substance.\n\nThe anatomical boundaries of the oral cavity are critical for both staging and surgical planning. The oral cavity extends from the vermilion border of the lips to the junction of the hard and soft palate superiorly and to the line of the circumvallate papillae inferiorly. It comprises the following distinct subsites: **lip**, **buccal mucosa**, **upper and lower alveolar ridge**, **retromolar trigone** (RMT), **floor of mouth** (FOM), **hard palate**, and **oral tongue** (anterior two-thirds). The RMT is particularly important because tumours here frequently involve the mandible and may be contiguous with the tonsil/soft palate, creating staging ambiguity between oral cavity and oropharynx.\n\nThe floor of mouth and oral tongue are the two most common sites for OCSCC. The oral tongue has rich bilateral lymphatic drainage, particularly in the tip and anterior tongue, which drains directly to level I and II cervical nodes. The floor of mouth drains primarily to levels I and II bilaterally. Midline or near-midline tumours have higher rates of bilateral neck node involvement. The hard palate drains primarily to level II, though retromolar lesions may drain directly to level III or IIb."
+        },
+        {
+          "type": "table",
+          "title": "Oral Cavity Subsites and Key Surgical Anatomy",
+          "headers": ["Subsite", "Boundaries", "Common Presentation", "Level of Nodal Drainage"],
+          "rows": [
+            ["Oral tongue (ant 2/3)", "Tip to circumvallate papillae", "Lateral border ulcer", "I, II, III (bilateral if midline)"],
+            ["Floor of mouth", "Below tongue to inner alveolus", "Ulcerated plaque", "I, II (bilateral)"],
+            ["Buccal mucosa", "Inner cheek mucosa", "Verrucous or ulcerated", "I, II, III"],
+            ["Lower alveolar ridge", "Mandibular gingiva", "Gingival thickening", "I, II"],
+            ["Upper alveolar ridge", "Maxillary gingiva", "Palatal involvement", "II, III"],
+            ["Hard palate", "Behind incisors to soft palate junction", "Submucosal mass or ulcer", "II"],
+            ["Retromolar trigone", "Behind last molar over ascending ramus", "Deep infiltration, trismus", "II, III (high risk IIb)"],
+            ["Lip", "Vermilion to wet-dry junction", "Keratotic ulcer or lip mass", "I (submental if midline)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Retromolar Trigone Classification",
+          "content": "The retromolar trigone (RMT) is an oral cavity subsite, NOT oropharynx. However, tumours at the RMT frequently involve the soft palate and anterior tonsillar pillar, which are oropharyngeal. When tumours straddle the boundary, classify by the predominant site of origin. This distinction matters for HPV testing (oropharynx tumours are p16-tested; oral cavity tumours are not routinely tested for staging purposes under AJCC 8th edition)."
+        }
+      ]
+    },
+    {
+      "id": "A1-S2",
+      "title": "AJCC 8th Edition Staging — The Role of Depth of Invasion",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **AJCC Cancer Staging Manual, 8th Edition (2017)** introduced a paradigm shift in oral cavity cancer staging by incorporating **depth of invasion (DOI)** into the T classification. DOI is distinct from tumour thickness: DOI is measured from the level of the adjacent normal mucosal basement membrane to the deepest point of invasion, excluding any exophytic component. This distinction is critical and frequently tested on board examinations.\n\nThe rationale for including DOI is robust: multiple studies demonstrated that DOI is a stronger predictor of occult nodal metastasis and disease-specific survival than tumour diameter alone. The landmark analysis by Ebrahimi et al. (2011) demonstrated that each 2 mm increment in DOI was associated with a significant increase in nodal metastasis risk. Under the AJCC 8th edition, a tumour measuring only 12 mm in diameter but with DOI >10 mm is classified as T3, while a large exophytic lesion of 30 mm diameter but DOI ≤5 mm remains T2.\n\nFor **T classification** under AJCC 8th edition: T1 = tumour ≤2 cm AND DOI ≤5 mm; T2 = tumour ≤2 cm with DOI >5 mm ≤10 mm, OR tumour >2 cm ≤4 cm with DOI ≤10 mm; T3 = tumour >4 cm OR any tumour with DOI >10 mm; T4a = moderately advanced — involves adjacent structures (through cortical bone of mandible or maxilla, into deep/extrinsic muscles of tongue, maxillary sinus, skin of face); T4b = very advanced — involves masticator space, pterygoid plates, or skull base, or encases internal carotid artery.\n\nThe **N classification** for oral cavity cancer uses a regional lymph node system: N1 = single ipsilateral node ≤3 cm, no extranodal extension (ENE); N2a = single ipsilateral node 3-6 cm, no ENE; N2b = multiple ipsilateral nodes, all ≤6 cm, no ENE; N2c = bilateral or contralateral nodes ≤6 cm, no ENE; N3a = any node >6 cm, no ENE; N3b = any node with clinical or radiological ENE. Pathological ENE (pENE) upstages patients and mandates adjuvant chemoradiation — this is the most important pathological risk factor for treatment intensification."
+        },
+        {
+          "type": "table",
+          "title": "AJCC 8th Edition T Classification for Oral Cavity Cancer",
+          "headers": ["T Stage", "Size Criterion", "DOI Criterion", "Structural Invasion", "Clinical Implication"],
+          "rows": [
+            ["T1", "≤2 cm", "DOI ≤5 mm", "None", "Wide local excision; elective END controversial"],
+            ["T2", "≤4 cm / any 2-4 cm", "DOI >5 mm and ≤10 mm", "None", "Resection + elective neck dissection"],
+            ["T3", ">4 cm OR any size", "DOI >10 mm", "None", "Resection + neck dissection + consider PORT"],
+            ["T4a", "Any", "Any", "Cortical bone, extrinsic tongue muscles, max sinus, skin", "Composite resection; high-risk for chemoRT"],
+            ["T4b", "Any", "Any", "Masticator space, pterygoid plates, skull base, ICA encasement", "Often unresectable; consider systemic therapy"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — DOI vs Tumour Thickness",
+          "content": "Depth of invasion (DOI) and tumour thickness are NOT synonymous. DOI is measured from the level of the adjacent mucosal basement membrane downward — it does NOT include any exophytic (surface) component. Tumour thickness is measured from the surface of the tumour to its deepest point. For an exophytic tumour, DOI < tumour thickness. Pathologists must be briefed on this distinction when measuring specimens, as incorrect measurement will lead to understaging. The AJCC 8th edition uses DOI, not thickness."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Extranodal Extension and Treatment Intensification",
+          "content": "Extranodal extension (ENE), whether clinical (cENE) or pathological (pENE), is a critical finding that drives treatment decisions. Any pathological ENE mandates adjuvant chemoradiation (platinum-based concurrent with RT) rather than radiation alone, based on the RTOG 9501 and EORTC 22931 trials. Histological ENE at the microscopic level (ENEmi, ≤2 mm beyond the capsule) vs macroscopic ENE (ENEma, >2 mm) may carry different prognostic implications but both mandate chemoradiation per current NCCN guidance."
+        }
+      ]
+    },
+    {
+      "id": "A1-S3",
+      "title": "Principles of Surgical Resection — Margins and Composite Resection",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Surgical resection with adequate margins remains the primary treatment modality for resectable oral cavity cancer. The goal is **R0 resection** — negative margins on pathological examination. The standard accepted margin is **≥5 mm** on the permanent section specimen. A margin of <1 mm is classified as involved (positive); 1-4 mm is close; ≥5 mm is clear. The distinction between close and positive margins is critical because positive margins mandate re-excision if technically feasible, while close margins in high-risk patients mandate adjuvant chemoradiation.\n\nThe **frozen section analysis** plays a key role in intraoperative margin assessment but has limitations. False negative rates for frozen sections in oral cavity cancer have been reported between 10-20%, primarily due to shrinkage artifact (specimens contract approximately 25-30% after excision due to muscle retraction and fixation), heterogeneous tumour margins, and sampling error in large specimens. Therefore, final pathological margins on permanent sections are the standard for treatment planning decisions.\n\nWhen tumour abuts or invades the mandible, the surgical decision is between **marginal mandibulectomy** (preservation of mandibular continuity with a rim of bone removed) and **segmental mandibulectomy** (discontinuous resection with free flap reconstruction). Marginal mandibulectomy is appropriate when the periosteum is intact and cortical bone invasion is absent or minimal; it is contraindicated when there is frank cortical erosion, medullary invasion, or prior radiation to the mandible. The inferior alveolar canal position relative to the inferior mandibular border is critical — adequate bone height (≥1 cm inferior border) must be maintained to avoid pathological fracture after marginal resection.\n\n**Composite resection** refers to combined resection of primary tumour with segment of mandible and/or floor of mouth and neck dissection performed as a single specimen. This reduces risk of positive margins at the tumour-bone interface and avoids piecemeal resection. **Mandibulotomy** (parasymphyseal or lateral body osteotomy to split the mandible for access) is used for posterior oral cavity tumours that would otherwise require blind resection; it is a surgical access approach, not a resection.",
+          "type": "text"
+        },
+        {
+          "type": "table",
+          "title": "Mandibular Resection Decision Algorithm",
+          "headers": ["Clinical Scenario", "Periosteum Status", "Bone Status", "Recommended Resection", "Reconstruction"],
+          "rows": [
+            ["Tumour abuts mandible, no invasion", "Intact", "Normal", "Wide excision, peel periosteum", "Primary closure or local flap"],
+            ["Tumour invades periosteum only", "Breached", "Cortex intact", "Marginal mandibulectomy", "Local flap or thin RFFF"],
+            ["Cortical erosion without medullary invasion", "Absent", "Cortex eroded", "Marginal vs segmental (surgeon judgment)", "RFFF or DCIA flap"],
+            ["Medullary invasion confirmed on imaging", "Absent", "Medullary involvement", "Segmental mandibulectomy", "Fibula or DCIA free flap"],
+            ["IAN canal involvement", "Absent", "Nerve involved", "Segmental mandibulectomy", "Fibula free flap"],
+            ["Prior RT, osteoradionecrosis", "Absent", "Variable", "Segmental mandibulectomy", "Free tissue transfer mandatory"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Intraoperative Frozen Section Strategy",
+          "content": "In major oral cavity resections, take frozen sections at the deep mucosal margins, deep muscular margin, and bone margins (decalcified shave of the marrow surface for segmental mandibulectomy). The peripheral mucosal margins are usually visible and can be controlled by inspection; the deep margin in the tongue base or floor of mouth is the most critical and difficult to assess. For tongue carcinomas with deep DOI, include a generous deep muscular margin (≥1 cm if anatomy permits) because tumour cells can spread along muscle bundles beyond the visible lesion boundary."
+        }
+      ]
+    },
+    {
+      "id": "A1-S4",
+      "title": "Cervical Lymph Node Management — Elective and Therapeutic Neck Dissection",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Cervical lymph node metastasis** is the single most important prognostic factor in oral cavity cancer, reducing 5-year survival by approximately 50%. The decision to perform elective neck dissection (END) in a clinically node-negative (cN0) neck is based on the estimated probability of occult nodal metastasis. The widely accepted threshold for elective treatment is an occult nodal metastasis rate of **≥20%**, above which the benefits of elective dissection outweigh the morbidity.\n\nFor oral tongue carcinoma, the occult nodal metastasis rate is strongly correlated with DOI: DOI <4 mm has approximately 7-10% occult nodal rate, while DOI >4 mm has approximately 26-46%. The landmark **SENTI-MELA trial** (D'Cruz et al., NEJM 2015) demonstrated that in T1/T2 cN0 oral tongue cancer, END at time of primary surgery improved disease-free survival (69.5% vs 45.9%) and overall survival (80.0% vs 67.5%) compared with watchful waiting. This established END as the standard of care for all oral tongue cancers regardless of T stage when anatomically feasible.\n\nThe extent of elective neck dissection in oral cavity cancer is standardized: **selective neck dissection (SND) levels I-III** for unilateral tumours; **bilateral SND I-III** for midline or near-midline tumours (anterior floor of mouth, ventral tongue, lip commissure). For floor of mouth tumours with DOI >4 mm, bilateral dissection is recommended due to the high rate of bilateral and contralateral nodal involvement (up to 25% in midline lesions).\n\n**Therapeutic neck dissection** in cN+ disease should include all involved and at-risk nodal levels. For clinical N1/N2 disease from an oral cavity primary, the standard is SND I-IV or modified radical neck dissection (MRND) depending on nodal burden. Radical neck dissection (sacrifice of CN XI, IJV, SCM) is reserved for gross invasion of these structures and should not be performed routinely — preservation of CN XI dramatically reduces shoulder morbidity and has no oncological disadvantage when the nerve is not directly invaded by tumour."
+        },
+        {
+          "type": "table",
+          "title": "Occult Nodal Metastasis Rate by Oral Cavity Subsite",
+          "headers": ["Subsite", "T1", "T2", "T3", "Bilateral Risk", "Standard END"],
+          "rows": [
+            ["Oral tongue", "20-26%", "30-46%", ">50%", "Midline >25%", "SND I-III bilateral if midline"],
+            ["Floor of mouth", "15-20%", "25-35%", ">40%", ">20% if anterior", "SND I-III bilateral"],
+            ["Buccal mucosa", "10-15%", "20-30%", "35-45%", "<10%", "SND I-III ipsilateral"],
+            ["Lower alveolar ridge", "10-15%", "20-25%", "30-40%", "Low", "SND I-III ipsilateral"],
+            ["Hard palate", "5-10%", "15-20%", "25-35%", "Low", "SND I-III ipsilateral"],
+            ["Retromolar trigone", "15-20%", "25-40%", ">45%", "Low-moderate", "SND I-III ± IV"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — SENTI-MELA Trial Key Result",
+          "content": "The SENTI-MELA trial (D'Cruz et al., NEJM 2015) randomised 500 patients with T1/T2 cN0 oral tongue cancer to immediate END versus watchful waiting with END on first sign of nodal recurrence. END significantly improved 3-year overall survival (80% vs 67.5%, HR 0.64, p=0.01) and disease-free survival (69.5% vs 45.9%). This is the definitive Level I evidence supporting elective neck dissection in early oral tongue cancer. All guidelines (NCCN 2024, EACMFS) now recommend END as standard for oral tongue cancer."
+        }
+      ]
+    },
+    {
+      "id": "A1-S5",
+      "title": "Adjuvant Therapy — Indications and Risk Stratification",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The decision to add adjuvant therapy after curative resection of oral cavity cancer is driven by pathological risk factors. Current NCCN 2024 guidelines stratify patients into three risk groups: **low risk** (negative margins, N0 or pN1 without adverse features — observation only); **intermediate risk** (single positive lymph node without ENE, pT3-T4 without ENE, perineural invasion, lymphovascular invasion, or level IV-V nodal involvement — adjuvant radiation [60-66 Gy in 30-33 fractions] recommended); **high risk** (positive surgical margins OR pathological extranodal extension — adjuvant chemoradiation mandatory).\n\nThe landmark trials establishing concurrent chemoradiation as the standard for high-risk patients are **RTOG 9501** (Cooper et al., NEJM 2004) and **EORTC 22931** (Bernier et al., NEJM 2004). Both trials independently demonstrated that adding concurrent cisplatin (100 mg/m² on days 1, 22, 43) to postoperative radiation significantly improved locoregional control and, in the EORTC trial, overall survival. The meta-analysis by Bernier and Cooper confirmed that the survival benefit was driven by the subgroup with positive margins and/or ENE — these two factors are now the universally accepted high-risk features mandating chemoradiation.\n\nThe role of **adjuvant cetuximab** has not been established as equivalent to cisplatin-based chemoradiation. The RTOG 0234 pilot study explored cetuximab-based regimens but definitive superiority over standard cisplatin has not been proven. Cisplatin remains the preferred concurrent agent unless renal dysfunction, neuropathy, or other cisplatin-specific contraindications exist, in which case carboplatin is used as an alternative (though with less evidence).\n\n**Timing of adjuvant radiation** is important: PORT should begin within 6 weeks of surgery. Delays beyond 6-8 weeks are associated with significantly worse locoregional control in retrospective series."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Adjuvant RT vs Chemoradiation Indications",
+          "content": "The two features that absolutely mandate CONCURRENT chemoradiation (not just radiation) are: (1) positive surgical margins (R1) and (2) pathological extranodal extension (pENE). All other adverse features — perineural invasion, lymphovascular invasion, T3-4, level IV-V nodes, multiple positive nodes — mandate adjuvant radiation but NOT necessarily concurrent chemotherapy. Prescribing chemotherapy for PNI or LVI alone without ENE or positive margins is not evidence-based and exposes the patient to unnecessary toxicity."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Wound Healing and Adjuvant Therapy Timing",
+          "content": "Adequate wound healing after ablative oral cavity surgery must be achieved before initiating PORT. Typically a minimum of 3-4 weeks post-operatively is required. Free flap reconstruction adds complexity: if flap monitoring concerns or partial flap loss occurs, PORT may need to be delayed, increasing recurrence risk. Pre-operative discussion between the surgical and radiation oncology team about planned reconstruction, realistic healing timeline, and acceptable treatment delay is mandatory for all patients requiring free flap reconstruction."
+        }
+      ]
+    },
+    {
+      "id": "A1-S6",
+      "title": "Perineural Invasion, Lymphovascular Invasion, and Pathological Reporting",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Perineural invasion (PNI)** is found in approximately 25-30% of OCSCC specimens and is an independent predictor of locoregional failure and poor survival. PNI is defined as the presence of tumour cells within any of the three layers of the nerve sheath (epineurium, perineurium, endoneurium), or tumour cells in close proximity to a nerve and involving at least one-third of the nerve circumference. **Named nerve PNI** (involvement of a named nerve such as the lingual nerve, inferior alveolar nerve, or facial nerve) is particularly significant as it may represent an intracranial spread pathway and can extend along the nerve well beyond the visible tumour margin. Named nerve PNI mandates imaging of the entire nerve course and is an indication for adjuvant radiation to the skull base or petrous bone if the nerve exits the skull base.\n\n**Lymphovascular invasion (LVI)** — invasion of tumour cells into lymphatic or blood vessels — is present in approximately 20-30% of OCSCC. LVI is associated with occult nodal metastasis and distant metastasis risk. Its detection depends significantly on immunohistochemical staining (D2-40 for lymphatics, CD31 for blood vessels) in addition to H&E. LVI alone is an intermediate-risk feature per NCCN guidelines.\n\nThe **synoptic pathology report** for oral cavity cancer must include, per CAP (College of American Pathologists) protocol: primary site and subsite; histological type and grade; tumour size in three dimensions; DOI measured; status of all surgical margins (mucosal, deep, bone if applicable); total number of lymph nodes examined; number of positive lymph nodes; presence and extent of ENE (none, ENEmi ≤2 mm, ENEma >2 mm); PNI (named vs unnamed nerve); LVI; and margin distances. Absence of any of these elements represents an incomplete pathology report and should prompt clarification from the pathologist."
+        },
+        {
+          "type": "table",
+          "title": "Pathological Risk Factors and Recommended Adjuvant Treatment",
+          "headers": ["Risk Factor", "Category", "Adjuvant Recommendation", "Guideline Reference"],
+          "rows": [
+            ["Positive margins (R1)", "High risk", "Chemoradiation (cisplatin + RT 66 Gy)", "NCCN 2024; RTOG 9501"],
+            ["Pathological ENE", "High risk", "Chemoradiation (cisplatin + RT 60-66 Gy)", "NCCN 2024; EORTC 22931"],
+            ["pN2-3 without ENE", "Intermediate risk", "Radiation alone (60-63 Gy)", "NCCN 2024"],
+            ["Single pN1 without ENE", "Intermediate risk", "RT if other adverse features present", "NCCN 2024"],
+            ["PNI (named nerve)", "Intermediate risk", "RT with extension to skull base", "NCCN 2024"],
+            ["PNI (unnamed nerve)", "Intermediate risk", "RT recommended", "NCCN 2024"],
+            ["LVI", "Intermediate risk", "RT recommended with other features", "NCCN 2024"],
+            ["T3-T4 pN0, clear margins, no ENE", "Intermediate risk", "RT consider based on extent", "NCCN 2024"],
+            ["pT1-T2 N0 clear margins no adverse features", "Low risk", "Observation", "NCCN 2024"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A1-S7",
+      "title": "Follow-Up, Surveillance, and Management of Recurrence",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Structured surveillance after treatment of oral cavity cancer is critical because most recurrences occur within the first 2 years. The standard follow-up schedule per NCCN 2024 is: every 1-3 months in year 1; every 2-6 months in year 2; every 4-8 months in years 3-5; annually after year 5. Post-treatment baseline imaging (CT or MRI with contrast of the primary site and neck) should be performed 8-12 weeks after completion of definitive or adjuvant therapy to establish a new baseline for comparison.\n\n**PET-CT surveillance** is recommended 3-6 months after definitive (chemo)radiation for oropharyngeal and selected oral cavity patients to assess treatment response. A negative post-treatment PET-CT has a very high negative predictive value (>95%) for residual nodal disease and may obviate planned neck dissection. However, this applies primarily to oropharyngeal cancer treated definitively with chemoradiation; for oral cavity cancer treated with surgery, post-treatment PET-CT surveillance is typically reserved for monitoring after adjuvant therapy.\n\n**Salvage surgery** for locoregional recurrence should be considered in all fit patients. Salvage resection for isolated locoregional recurrence achieves 5-year survival in 15-30% of carefully selected patients. Prior radiation significantly increases surgical morbidity — wound healing is impaired, and free tissue transfer with non-irradiated tissue is essential. For distant metastases, systemic therapy with platinum-based regimens combined with pembrolizumab (based on KEYNOTE-048, Shah et al., Lancet 2018) is the current standard first-line treatment for recurrent/metastatic head and neck SCC (R/M HNSCC), regardless of PD-L1 status for the pembrolizumab arm in the CPS ≥20 population.",
+          "type": "text"
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — KEYNOTE-048 for Recurrent/Metastatic HNSCC",
+          "content": "KEYNOTE-048 (Shah et al., Lancet 2018) established pembrolizumab as a first-line treatment for recurrent/metastatic HNSCC. In patients with CPS ≥20, pembrolizumab monotherapy was superior to EXTREME (cetuximab + platinum + 5-FU). In patients with CPS ≥1, pembrolizumab + platinum + 5-FU was superior to EXTREME. In all-comers regardless of PD-L1 status, pembrolizumab + chemotherapy was non-inferior to EXTREME. PD-L1 CPS (combined positive score) — not TPS — is the relevant scoring system for HNSCC pembrolizumab eligibility."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of oral cavity cancer management with 20 board-style questions covering staging, surgical technique, and adjuvant therapy.",
+    "questions": [
+      {
+        "id": "A1-Q1",
+        "stem": "A 58-year-old man presents with a 2.8 cm ulcerated lesion on the lateral border of the oral tongue. Biopsy confirms squamous cell carcinoma. On CT, there is no cortical erosion of the mandible, no lymphadenopathy, and the lesion appears to have 6 mm depth of invasion on MRI. What is the correct T stage according to AJCC 8th edition?",
+        "options": {
+          "A": "T1 — tumour ≤2 cm",
+          "B": "T2 — tumour ≤4 cm with DOI >5 mm and ≤10 mm",
+          "C": "T3 — DOI >10 mm regardless of size",
+          "D": "T4a — involvement of extrinsic muscles of tongue"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The AJCC 8th edition classifies this as T2. The tumour is 2.8 cm (≤4 cm criterion met), and DOI is 6 mm (>5 mm but ≤10 mm). Under AJCC 8th edition, T2 = tumour ≤4 cm with DOI >5 mm but ≤10 mm, OR tumour 2-4 cm with DOI ≤10 mm. Both criteria apply here. The key innovation of the 8th edition is that DOI modifies the T classification independently of tumour diameter.",
+          "wrong": {
+            "A": "T1 requires tumour ≤2 cm AND DOI ≤5 mm. This tumour is 2.8 cm and DOI is 6 mm — neither criterion is met for T1.",
+            "C": "T3 requires DOI >10 mm OR tumour size >4 cm. Here DOI is only 6 mm and size is 2.8 cm, so T3 criteria are not met.",
+            "D": "T4a requires invasion of adjacent structures including extrinsic tongue muscles (genioglossus, hyoglossus, styloglossus, palatoglossus). There is no such invasion described here."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — Chapter 7: Oral Cavity",
+          "trial": "Ebrahimi A et al. (Head Neck 2011): DOI is an independent predictor of occult nodal metastasis in oral cavity SCC, supporting its incorporation into AJCC 8th edition staging.",
+          "pearl": "DOI is measured from the level of the adjacent normal mucosal basement membrane downward — NOT from the surface of the tumour. Exophytic components are excluded from DOI measurement.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q2",
+        "stem": "A 65-year-old woman undergoes wide excision of a T2N0 squamous cell carcinoma of the floor of mouth. Final pathology shows a closest margin of 3 mm, perineural invasion involving a named nerve (lingual nerve), and 2 of 18 lymph nodes positive without extranodal extension. According to NCCN 2024 guidelines, what is the most appropriate adjuvant treatment?",
+        "options": {
+          "A": "Observation — margins are not positive and ENE is absent",
+          "B": "Adjuvant radiation (60-63 Gy) — intermediate-risk features without high-risk features",
+          "C": "Adjuvant concurrent chemoradiation (cisplatin + 66 Gy) — positive margins",
+          "D": "Adjuvant concurrent chemoradiation (cisplatin + 60 Gy) — ENE is present"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This patient has intermediate-risk features (close margin 3 mm, named nerve PNI, pN2a without ENE) but no high-risk features. NCCN 2024 defines high-risk features requiring chemoradiation as positive margins (R1) and/or pathological ENE. This patient has neither: closest margin is 3 mm (close, not positive), and the 2 positive nodes have no ENE. Therefore adjuvant radiation alone (60-63 Gy) is appropriate, covering the primary site, bilateral neck, and the course of the lingual nerve to the skull base given named nerve PNI.",
+          "wrong": {
+            "A": "Observation is inappropriate. Multiple intermediate-risk features are present: close margin (3 mm), named nerve PNI, and pN2a disease. All NCCN categories recommend adjuvant treatment for these features.",
+            "C": "Concurrent cisplatin chemoradiation is mandated by POSITIVE margins (R1) or ENE. The margin here is 3 mm (close, not positive — defined as <1 mm). Therefore cisplatin addition is not mandated by guideline, though some centres use it for very close margins.",
+            "D": "There is no extranodal extension described in the pathology. The 2 positive nodes do not have ENE. ENE is the key high-risk feature requiring concurrent chemotherapy."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Post-operative Treatment Principles (HNCO-E)",
+          "trial": "Bernier J et al. EORTC 22931 (NEJM 2004): Concurrent cisplatin + PORT vs PORT alone — survival benefit confined to patients with ENE and/or positive margins.",
+          "pearl": "The two absolute indications for concurrent cisplatin with adjuvant radiation in oral cavity cancer are: (1) positive surgical margins (R1 resection) and (2) pathological extranodal extension (pENE). All other adverse features indicate radiation alone.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q3",
+        "stem": "A 52-year-old non-smoker, non-drinker presents with a 1.5 cm lesion on the lateral oral tongue, biopsy-proven SCC, with clinical examination and CT showing no evidence of cervical lymphadenopathy (cN0). MRI estimates DOI at approximately 5 mm. Which management approach is most strongly supported by Level I evidence?",
+        "options": {
+          "A": "Wide local excision of tongue lesion only, with watchful waiting for the neck",
+          "B": "Wide local excision with sentinel lymph node biopsy to guide neck management",
+          "C": "Wide local excision with elective selective neck dissection levels I-III ipsilateral",
+          "D": "Wide local excision followed by adjuvant radiation to electively treat the neck"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Elective neck dissection (SND levels I-III) at the time of primary surgery is supported by Level I evidence from the SENTI-MELA trial (D'Cruz et al., NEJM 2015). With DOI of approximately 5 mm, this tumour has an approximately 20-25% occult nodal metastasis rate — above the threshold for elective treatment. The SENTI-MELA trial demonstrated significantly improved overall survival (80% vs 67.5%) and disease-free survival with immediate END compared with watchful waiting, establishing END as standard of care for T1/T2 cN0 oral tongue cancer.",
+          "wrong": {
+            "A": "Watchful waiting was inferior to END in the SENTI-MELA trial in terms of overall survival and DFS. It is no longer the standard of care for T1/T2 oral tongue cancer with DOI ≥4 mm.",
+            "B": "Sentinel lymph node biopsy (SLNB) is technically feasible for early oral tongue cancer and may be appropriate in selected centres with expertise, but it remains an alternative approach under investigation. The definitive Level I evidence is for END, not SLNB. SLNB may be considered as part of a clinical trial or in very early tumours.",
+            "D": "Adjuvant radiation to the neck is not indicated in a pN0 patient with clear margins after elective neck dissection, unless other adverse pathological features are found. Upfront elective radiation to the neck as an alternative to surgery is not the standard approach for surgically resectable oral cavity cancer."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Oral Cavity Cancer (OC-3); EACMFS 2023",
+          "trial": "D'Cruz AK et al. SENTI-MELA (NEJM 2015): Elective vs therapeutic neck dissection in T1/T2 cN0 oral tongue cancer — elective END improved 3-year OS (80% vs 67.5%, p=0.01) and 3-year DFS (69.5% vs 45.9%).",
+          "pearl": "SENTI-MELA is the only RCT for elective neck management in early oral tongue cancer. It established END as standard practice for T1/T2 cN0 oral tongue SCC. Remember: 500 patients randomised, 30% less mortality with immediate END.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A1-Q4",
+        "stem": "During resection of a T3 squamous cell carcinoma of the lower alveolar ridge, the surgeon assesses mandibular involvement. CT scan shows cortical erosion but no medullary invasion. The periosteum is not intact over the involved area. Preoperative MRI confirms no inferior alveolar nerve (IAN) involvement and >1.5 cm of inferior mandibular border remains below the lesion. What is the most appropriate bony resection?",
+        "options": {
+          "A": "No bony resection — peel the periosteum and leave the cortex",
+          "B": "Marginal mandibulectomy with preservation of mandibular continuity",
+          "C": "Segmental mandibulectomy with immediate fibula free flap reconstruction",
+          "D": "Segmental mandibulectomy with delayed reconstruction after PORT"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Marginal mandibulectomy (rim resection with preservation of mandibular continuity) is appropriate when: periosteum is violated but cortical erosion is the extent of invasion; no medullary involvement; IAN canal not involved; and adequate inferior mandibular border remains (>1 cm). This case meets all criteria: cortical erosion only, no medullary disease, no IAN involvement, and 1.5 cm inferior border remains. Marginal mandibulectomy avoids the morbidity of segmental resection and free flap reconstruction while achieving oncological clearance.",
+          "wrong": {
+            "A": "Simply peeling the periosteum is inadequate when there is cortical erosion — the cortex is invaded and must be resected to achieve R0 margins at the bone.",
+            "C": "Segmental mandibulectomy is indicated for medullary invasion, IAN canal involvement, or inadequate inferior border remaining. None of these are present here. Performing segmental resection unnecessarily adds morbidity and requires free flap reconstruction.",
+            "D": "Delayed reconstruction after PORT is generally avoided because irradiated tissue has poor healing capacity, increasing complication rates dramatically. If segmental mandibulectomy were required, immediate free tissue transfer at the time of ablation is the standard of care."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Oral Cavity Surgical Principles; EACMFS Reconstruction Guidelines 2023",
+          "trial": "No specific RCT. Level III/IV evidence: Slootweg PJ et al. (IJOMS 2000) established criteria for marginal vs segmental mandibulectomy based on pattern of invasion.",
+          "pearl": "Marginal mandibulectomy is appropriate for cortical erosion without medullary invasion. Key contraindications are: medullary invasion, IAN canal involvement, prior radiation, and inadequate inferior border (<1 cm). Always assess IAN position on preoperative CT.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q5",
+        "stem": "Which of the following features, identified on final pathology after resection of a T2N1 squamous cell carcinoma of the buccal mucosa, would most strongly mandate the addition of concurrent cisplatin to adjuvant radiation therapy?",
+        "options": {
+          "A": "Perineural invasion involving small unnamed nerves",
+          "B": "Lymphovascular invasion in the primary specimen",
+          "C": "Extranodal extension in the single positive cervical lymph node",
+          "D": "Single positive level II lymph node with no other adverse features"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Pathological extranodal extension (pENE) is one of the two absolute high-risk features (along with positive surgical margins R1) that mandate concurrent cisplatin chemoradiation rather than radiation alone, per NCCN 2024 and the RTOG 9501/EORTC 22931 meta-analysis. ENE represents the most powerful independent predictor of locoregional recurrence and significantly worsens prognosis. The survival benefit of adding cisplatin to PORT in the RTOG 9501 and EORTC 22931 trials was driven exclusively by patients with ENE and/or positive margins.",
+          "wrong": {
+            "A": "PNI involving unnamed nerves is an intermediate-risk feature indicating adjuvant radiation. It does not by itself mandate concurrent cisplatin unless ENE or positive margins are also present.",
+            "B": "Lymphovascular invasion is an intermediate-risk feature indicating adjuvant radiation. It does not mandate concurrent chemotherapy as a standalone indication per NCCN 2024 guidelines.",
+            "D": "A single pN1 node without ENE and with clear margins is a relatively low-risk scenario. Most guidelines recommend consideration of radiation but not concurrent cisplatin for this alone."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Post-operative Treatment Principles; Cooper JS et al. RTOG 9501 (NEJM 2004); Bernier J et al. EORTC 22931 (NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004) and EORTC 22931 (Bernier et al., NEJM 2004): Both independently showed concurrent cisplatin + PORT improved locoregional control. Combined analysis confirmed benefit limited to ENE and/or positive margins subgroup.",
+          "pearl": "Two features mandate chemoradiation (not RT alone): positive margins (R1) and extranodal extension (pENE). Other adverse features (PNI, LVI, N2-3 without ENE) mandate RT alone. This is the most commonly tested adjuvant therapy decision point in OMFS board examinations.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A1-Q6",
+        "stem": "A 70-year-old woman with T4a SCC of the right oral tongue with involvement of the genioglossus muscle is being planned for resection. She is cN0 on CT and PET-CT. She has well-controlled type 2 diabetes. After complete resection with free flap reconstruction, final pathology shows negative margins (closest 7 mm) and 0/24 lymph nodes positive. Which statement best describes appropriate adjuvant therapy?",
+        "options": {
+          "A": "Adjuvant chemoradiation is mandated by T4a classification",
+          "B": "Adjuvant radiation alone is recommended based on the T4a stage",
+          "C": "Adjuvant radiation alone should be considered given T4 disease",
+          "D": "Observation is appropriate if margins are negative and nodes are negative"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "T4a pN0 with clear margins (≥5 mm) is an intermediate-risk scenario. NCCN 2024 recommends adjuvant radiation (not chemoradiation) for T4a disease. High-risk features (positive margins, pENE) are absent. The T4a classification alone (advanced local disease with muscle invasion) warrants PORT to reduce locoregional recurrence risk, but no concurrent cisplatin is indicated without the high-risk features. A radiation dose of 60-63 Gy to the primary site and bilateral elective neck is standard.",
+          "wrong": {
+            "A": "T4a alone does NOT mandate chemoradiation. Chemoradiation is mandated by positive margins or pENE, which are absent here. T4a with clear margins and pN0 is an intermediate-risk scenario.",
+            "B": "This is partially correct in the mechanism (adjuvant radiation alone, not chemoradiation) but using incorrect language ('mandated'). Adjuvant RT is strongly recommended, not mandated, though essentially all high-volume centres would recommend it.",
+            "D": "Observation alone after T4a resection is not appropriate even with clear margins and pN0 — the advanced local extent of disease (muscle invasion) justifies adjuvant radiation to reduce locoregional recurrence risk."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — OC-E: Post-operative Radiation for Oral Cavity Cancer",
+          "trial": "Meta-analysis of adjuvant radiation in H&N cancer: Langendijk JA et al. (Radiother Oncol 2004): Adjuvant RT improves locoregional control for T3-T4 disease.",
+          "pearl": "T stage alone does not determine whether cisplatin is added to adjuvant radiation. The decision is driven by pathological risk features: only R1 margins and pENE mandate concurrent chemotherapy.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q7",
+        "stem": "A surgeon performs an elective selective neck dissection (levels I-III) for a T2N0 anterior floor of mouth SCC. The contralateral neck shows no abnormality. What is the correct anatomical boundary for level I dissection, and what structures must be preserved in a level IA and IB dissection?",
+        "options": {
+          "A": "Level I is bounded by the inferior border of the mandible, anterior belly of digastric bilaterally; level IA = submental, IB = submandibular; marginal mandibular nerve and submandibular gland duct must be preserved",
+          "B": "Level I contains only the submental triangle; level IA and IB are not separate; the facial artery must be ligated",
+          "C": "Level IA = between anterior bellies of digastric; Level IB = submandibular triangle; marginal mandibular nerve must be identified and preserved",
+          "D": "Level I is bounded inferiorly by the hyoid bone; all contents including the submandibular gland are removed en bloc"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Level IA (submental) is bounded by the anterior bellies of both digastric muscles and the hyoid bone inferiorly — it contains the submental lymph nodes. Level IB (submandibular) is the submandibular triangle, bounded by the anterior and posterior bellies of the digastric, the mandible superiorly, and the hyoid inferiorly. In a standard level IB dissection, the submandibular gland is removed. The marginal mandibular branch of the facial nerve must be identified and preserved — it courses along the inferior border of the mandible and can be displaced inferiorly by submandibular gland enlargement or lymphadenopathy.",
+          "wrong": {
+            "A": "The submandibular gland duct (Wharton's duct) does not require specific 'preservation' in the same way as the nerve; in level IB dissection, the gland and its duct are typically removed as part of the specimen. The marginal mandibular nerve preservation is correct.",
+            "B": "Level IA and IB are distinct sublevels. Level I is not solely the submental triangle. The facial artery may need ligation during submandibular gland removal but this is a standard step, not a violation.",
+            "D": "Level I is not bounded by the hyoid bone inferiorly — that is the lower boundary of level IA (submental), not the whole of level I. The hyoid is the inferior border of level IA specifically."
+          },
+          "guideline": "Robbins KT et al. Neck Dissection Classification Update (Arch Otolaryngol HNS 2002); AAOMS Neck Dissection Guidelines 2023",
+          "trial": "Shah JP. Head and Neck Surgery and Oncology 5th ed (2020): Anatomical boundaries of cervical nodal levels.",
+          "pearl": "The marginal mandibular nerve is the most commonly injured structure during level IB dissection. It runs deep to the platysma along the inferior mandibular border and may dip below the inferior border of the mandible in its course. Always identify it early and retract it superiorly with a vessel loop.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q8",
+        "stem": "A 45-year-old woman has a 3.5 cm lesion of the oral tongue involving the midline. Biopsy shows well-differentiated SCC. CT and PET-CT show no cervical lymphadenopathy bilaterally. DOI on MRI is estimated at 12 mm. What is the correct staging and most appropriate neck management?",
+        "options": {
+          "A": "T2N0 — elective right SND levels I-III only",
+          "B": "T3N0 — bilateral elective SND levels I-III",
+          "C": "T3N0 — elective right SND levels I-IV",
+          "D": "T4aN0 — bilateral SND levels I-V"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "DOI of 12 mm (>10 mm) classifies this as T3 regardless of tumour size (3.5 cm). Staging is T3N0M0 (Stage III). For midline or near-midline oral tongue tumours, the bilateral lymphatic drainage and high rate of bilateral occult nodal metastasis (up to 25-30% contralateral) mandate bilateral elective selective neck dissection (SND) levels I-III. Midline tongue tumours have a higher rate of contralateral metastasis compared with lateralised tumours.",
+          "wrong": {
+            "A": "T2 is incorrect: DOI >10 mm classifies as T3. Additionally, for a midline tongue lesion, unilateral neck management is inadequate.",
+            "C": "T staging is correct (T3) but extending SND to level IV for a cN0 oral cavity primary is not standard. Level IV nodes are at-risk when level III or level II nodes are clinically positive, or in specific patterns of spread. For elective dissection in cN0 oral cavity cancer, SND I-III is standard.",
+            "D": "T4a requires structural invasion (extrinsic tongue muscles, cortical bone etc.). DOI >10 mm alone does not constitute T4a — it is T3. Level V dissection is not indicated for standard oral tongue cancer."
+          },
+          "guideline": "AJCC 8th Edition — Oral Cavity T3: DOI >10 mm; NCCN Head and Neck Cancers v1.2024 — OC-3",
+          "trial": "Byers RM et al. (Am J Surg 1988): Skip metastases and bilateral neck involvement in midline oral tongue tumours support bilateral elective neck management.",
+          "pearl": "DOI >10 mm = T3. This is a commonly tested staging point. Also remember: midline oral tongue and anterior FOM tumours require bilateral elective neck dissection due to bilateral and contralateral lymphatic drainage patterns.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q9",
+        "stem": "What is the definition of 'depth of invasion' (DOI) as used in the AJCC 8th edition for oral cavity cancer staging, and how does it differ from tumour thickness?",
+        "options": {
+          "A": "DOI = vertical distance from mucosal surface to deepest point of invasion; tumour thickness = same measurement, synonymous terms",
+          "B": "DOI = distance from adjacent normal mucosal basement membrane to deepest point of invasion, excluding exophytic components; tumour thickness includes the exophytic component",
+          "C": "DOI = CT-measured invasion depth; tumour thickness = pathological measurement; DOI is always greater than thickness",
+          "D": "DOI and tumour thickness are identical measurements used interchangeably; the AJCC 8th edition accepts either value"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "DOI is measured from the level of the adjacent normal mucosal basement membrane (projected horizontally) downward to the deepest point of invasion. This excludes any exophytic (surface-elevating) component of the tumour. Tumour thickness is measured from the surface of the tumour (including exophytic component) to the deepest point, and is always ≥ DOI. The distinction matters: a highly exophytic lesion may have large tumour thickness but small DOI, reflecting a relatively shallow invasive depth, while an endophytic lesion may have near-equal DOI and thickness. The AJCC 8th edition mandates DOI, not tumour thickness.",
+          "wrong": {
+            "A": "DOI and tumour thickness are NOT synonymous. Tumour thickness includes the exophytic component; DOI does not.",
+            "C": "DOI is a pathological measurement, not a CT measurement. CT and MRI can estimate DOI but the definitive measurement is on the pathological specimen. DOI is always ≤ tumour thickness (not greater).",
+            "D": "DOI and tumour thickness are not interchangeable. The AJCC 8th edition specifically states that DOI (not tumour thickness) is the relevant measurement for T classification."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017), Chapter 7: Oral Cavity; CAP Oral Cavity Pathology Reporting Protocol 2023",
+          "trial": "Ebrahimi A et al. (Head Neck 2011): DOI outperforms tumour thickness as predictor of nodal metastasis and survival, providing the scientific basis for its inclusion in AJCC 8th edition.",
+          "pearl": "On board examinations: DOI ≤ tumour thickness always. DOI is measured from the adjacent normal basement membrane, not from the tumour surface. An exophytic tumour may have large thickness but small DOI.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A1-Q10",
+        "stem": "A 60-year-old patient undergoes resection of a T3N2b oral tongue SCC. Final pathology shows negative margins (closest 8 mm), 4 of 22 ipsilateral nodes positive, all without extranodal extension, perineural invasion in unnamed nerves, and lymphovascular invasion. What PORT dose and technique best reflects NCCN 2024 recommendations?",
+        "options": {
+          "A": "60 Gy to primary site only; neck requires no radiation if surgically cleared",
+          "B": "66 Gy to high-risk volumes; 60 Gy to intermediate-risk volumes; 54 Gy elective",
+          "C": "Concurrent cisplatin 100 mg/m² days 1, 22, 43 with 66 Gy",
+          "D": "Watchful waiting — margins are negative and ENE is absent"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This patient has intermediate-risk features (N2b without ENE, PNI, LVI) but no high-risk features (no positive margins, no pENE). Therefore adjuvant radiation alone (no concurrent cisplatin) is indicated. Standard PORT technique uses an IMRT-based simultaneous integrated boost (SIB): 66 Gy/30 fr to high-risk CTV (primary tumour bed), 60 Gy/30 fr to intermediate-risk CTV (involved nodal levels), and 54 Gy/30 fr to low-risk elective CTV (uninvolved neck levels). This dose-painting approach is current standard per NCCN and RTOG protocols.",
+          "wrong": {
+            "A": "Radiation to the primary site only is inadequate in N2b disease. All ipsilateral involved neck levels and elective contralateral neck should be included in PORT volumes.",
+            "C": "Concurrent cisplatin is not indicated here. The sole indications for chemoradiation in the adjuvant setting are positive margins (R1) and pENE. Neither is present in this case. Adding cisplatin unnecessarily exposes the patient to nephrotoxicity, ototoxicity, and myelosuppression without evidence-based benefit.",
+            "D": "Watchful waiting is not appropriate for pN2b disease with LVI and PNI. These intermediate-risk features mandate adjuvant radiation to reduce locoregional recurrence risk."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Post-operative RT Dose and Volume Principles; RTOG 0522",
+          "trial": "Bernier J et al. (NEJM 2004) EORTC 22931 + Cooper JS et al. (NEJM 2004) RTOG 9501: Chemoradiation benefit limited to positive margins/ENE subgroup. Radiation alone for other high-risk features.",
+          "pearl": "PORT dose-painting: 66 Gy high-risk, 60 Gy intermediate-risk, 54 Gy elective. No cisplatin unless R1 margins or pENE. This three-level dose framework is standard SIB-IMRT for postoperative HNSCC.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q11",
+        "stem": "A 67-year-old man is found to have recurrent disease in the neck (level IIa) 18 months after initial treatment with surgery and adjuvant radiation (60 Gy) for T2N1 oral tongue SCC. The recurrence is a single 2.5 cm node with no evidence of primary site recurrence or distant metastasis on PET-CT. What is the best initial treatment approach?",
+        "options": {
+          "A": "Re-irradiation of the neck to 60 Gy with concurrent cisplatin",
+          "B": "Systemic therapy with pembrolizumab monotherapy as first-line",
+          "C": "Salvage neck dissection if technically feasible, followed by assessment for re-irradiation",
+          "D": "Best supportive care — previously irradiated patients are not candidates for salvage surgery"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Isolated regional recurrence after prior surgery and radiation should first be evaluated for salvage surgery if technically feasible. A single isolated nodal recurrence without primary site failure is potentially curable with surgical salvage. Salvage neck dissection in previously irradiated patients is technically challenging but achievable with careful planning. Post-salvage re-irradiation (stereotactic or IMRT-based reirradiation) may be considered afterward for selected patients. Salvage surgery for isolated nodal recurrence achieves 5-year survival in approximately 20-35% of selected patients.",
+          "wrong": {
+            "A": "Re-irradiation alone without surgical resection of a resectable nodal recurrence is not the preferred initial approach. Residual disease after prior radiation responds poorly to re-irradiation in the head and neck without surgical debulking.",
+            "B": "Pembrolizumab monotherapy is first-line systemic therapy for recurrent/metastatic HNSCC that is not amenable to surgery or reirradiation. This case has a localised resectable recurrence — local/regional salvage should be attempted first.",
+            "D": "Prior radiation is not an absolute contraindication to salvage neck surgery. Salvage dissection in previously irradiated necks is performed regularly at high-volume centres, with increased risk of wound complications managed through free tissue transfer coverage if needed."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Recurrence Management (OC-F)",
+          "trial": "KEYNOTE-048 (Shah et al., Lancet 2018): Pembrolizumab established for R/M HNSCC not amenable to local treatment. For resectable regional recurrence, local salvage takes precedence.",
+          "pearl": "For isolated resectable locoregional recurrence after prior RT: salvage surgery first, then consider reirradiation. Pembrolizumab-based systemic therapy is for disease not amenable to surgery or reirradiation (disseminated or unresectable recurrence).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q12",
+        "stem": "The pathology report for a resected oral tongue SCC describes involvement of the lingual nerve, with tumour cells tracking along the nerve sheath proximally to the pterygomandibular space. Which management is most appropriate for this finding?",
+        "options": {
+          "A": "No change — perineural invasion is already accounted for in the standard PORT field",
+          "B": "Extend the PORT field to include the entire course of the lingual nerve up to the foramen ovale and Gasserian ganglion",
+          "C": "Re-excision to achieve negative nerve margins before starting PORT",
+          "D": "This finding mandates re-staging as T4b due to skull base involvement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Named nerve perineural invasion — particularly involving the lingual nerve — requires extension of the radiation field to include the entire nerve course up to its origin (foramen ovale and Gasserian ganglion of CN V3). The lingual nerve is a branch of the mandibular nerve (CN V3), which exits the skull through the foramen ovale. Perineural spread can reach the skull base and even intracranially if not treated. Standard PORT fields do not routinely cover this entire anatomical course; specific modification is required.",
+          "wrong": {
+            "A": "Standard PORT fields typically cover the primary tumour bed and cervical nodes but do NOT extend to the foramen ovale or skull base unless specifically modified. Named nerve PNI requires this field extension.",
+            "C": "Re-excision for named nerve PNI is generally not technically feasible once the tumour has tracked to the pterygomandibular space or beyond, and the surgical morbidity of pursuing nerve-level clearance is prohibitive. PORT field extension is the standard management.",
+            "D": "T4b requires masticator space involvement, pterygoid plate involvement, skull base invasion, or ICA encasement. Named nerve PNI tracking in the pterygomandibular space does not automatically constitute T4b unless the skull base itself is invaded."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Radiation Principles for Perineural Spread",
+          "trial": "Bhatt N et al. (Am J Clin Oncol 2009): Named nerve PNI in H&N cancer requires field extension to skull base — improved locoregional control with extended fields.",
+          "pearl": "Named nerve PNI in oral cavity cancer: extend PORT to the skull base entry point. For lingual nerve = foramen ovale (CN V3). For IAN = foramen ovale (CN V3, inferior alveolar branch). Always specify 'named nerve PNI with proximal extension' on the pathology report and communicate directly with the radiation oncologist.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q13",
+        "stem": "A 55-year-old woman is scheduled for resection of a T2N0 SCC of the posterior buccal mucosa. For surgical access, the surgeon is considering a transmandibular approach (mandibulotomy). Which of the following is the most appropriate location and type of mandibulotomy for posterior oral cavity access?",
+        "options": {
+          "A": "Midline mandibulotomy through the symphysis between the central incisors",
+          "B": "Parasymphyseal mandibulotomy lateral to the midline, avoiding the mental foramen",
+          "C": "Lateral body mandibulotomy through the premolar region between the canine and premolar teeth",
+          "D": "Mandibulotomy through the angle of the mandible posterior to the last molar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The parasymphyseal mandibulotomy (also known as the median or paramedian lip-splitting approach with mandibulotomy) is performed just lateral to the midline, between the lateral incisor and canine, to avoid the mental foramen and avoid splitting through the midline symphysis. The midline symphysis has a poor blood supply and heals poorly. The parasymphyseal location avoids the mental neurovascular bundle. A lower lip split is combined with a chin crease incision for cosmetically acceptable access, and the osteotomy is plated after tumour resection.",
+          "wrong": {
+            "A": "True midline (through the symphysis between the central incisors) is a poor choice because the midline has reduced osteogenic potential and the incision through the frenulum and midline lip is cosmetically suboptimal.",
+            "C": "A lateral body mandibulotomy through the premolar region disrupts the dental arch more significantly and weakens the mandible, increasing risk of pathological fracture. It is not standard for posterior oral cavity access.",
+            "D": "A mandibulotomy through the angle, posterior to the last molar, has limited surgical benefit for access to the posterior oral cavity and increases risk of injury to the inferior alveolar nerve."
+          },
+          "guideline": "Shah JP et al. Head and Neck Surgery and Oncology 5th ed (2020) — Mandibulotomy access approaches",
+          "trial": "Spiro RH et al. (Am J Surg 1985): Parasymphyseal mandibulotomy for posterior oral cavity access — surgical technique and outcomes.",
+          "pearl": "Mandibulotomy provides access to posterior oral cavity and oropharyngeal tumours. The parasymphyseal location (between lateral incisor and canine) is preferred. It is a surgical access procedure — NOT a resection — and the mandible is plated back together after tumour removal.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q14",
+        "stem": "A 72-year-old man presents with a 2-year history of progressive difficulty opening his mouth. He has a 4 cm mass in the right retromolar trigone region, biopsy showing SCC. CT scan reveals involvement of the right masticator space and erosion of the pterygoid plates. What is the T stage and overall assessment of resectability?",
+        "options": {
+          "A": "T3 — large tumour; considered borderline resectable",
+          "B": "T4a — masticator space involvement; potentially resectable with extended resection",
+          "C": "T4b — masticator space and pterygoid plate involvement; generally considered unresectable",
+          "D": "T4b — skull base involvement; unresectable; systemic therapy only"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Involvement of the masticator space AND pterygoid plates is T4b per AJCC 8th edition. T4b is defined by involvement of: masticator space, pterygoid plates, OR skull base; OR encasement of the internal carotid artery. T4b disease is classified as 'very advanced' and is generally considered unresectable or not amenable to standard surgical resection with curative intent. While some centres attempt extended surgical resection for T4b disease, most guidelines recommend non-surgical definitive treatment (chemoradiation) as primary therapy for T4b oral cavity cancer.",
+          "wrong": {
+            "A": "T3 requires tumour >4 cm OR DOI >10 mm. Masticator space involvement is a T4 feature, not T3.",
+            "B": "T4a involves adjacent structures including: cortical bone of mandible/maxilla, deep/extrinsic muscles of tongue, maxillary sinus, or skin of face. Masticator space involvement classifies as T4b, not T4a.",
+            "D": "T4b does not require skull base involvement — masticator space or pterygoid plate involvement alone is sufficient for T4b. The trismus in this case supports masticator space involvement, confirmed on CT."
+          },
+          "guideline": "AJCC 8th Edition — Oral Cavity T4b criteria; NCCN Head and Neck Cancers v1.2024 — OC-2",
+          "trial": "NCCN guidelines recommend non-surgical definitive chemoradiation for T4b disease given the generally unresectable nature and the anticipated surgical morbidity without clear survival benefit over definitive CRT.",
+          "pearl": "T4a = moderately advanced (cortical bone, extrinsic tongue muscles, maxillary sinus, facial skin). T4b = very advanced (masticator space, pterygoid plates, skull base, ICA encasement). T4b = generally unresectable. Remember: trismus is the clinical sign of masticator space involvement.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q15",
+        "stem": "In the KEYNOTE-048 trial for recurrent/metastatic head and neck squamous cell carcinoma, which biomarker was used to select patients for pembrolizumab monotherapy versus pembrolizumab plus chemotherapy, and what score threshold was associated with superior outcomes with monotherapy?",
+        "options": {
+          "A": "Tumour proportion score (TPS) ≥50% for PD-L1",
+          "B": "Combined positive score (CPS) ≥20 for PD-L1",
+          "C": "Combined positive score (CPS) ≥1 for PD-L1",
+          "D": "TMB-high (≥10 mutations per megabase) by tissue-based NGS"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In KEYNOTE-048, pembrolizumab monotherapy demonstrated superior overall survival versus EXTREME (cetuximab + platinum + 5-FU) in patients with CPS ≥20. The Combined Positive Score (CPS) counts PD-L1 positive cells (tumour cells + lymphocytes + macrophages) divided by total viable tumour cells multiplied by 100. For HNSCC, CPS ≥20 is the threshold for pembrolizumab monotherapy superiority. CPS ≥1 identified the population where pembrolizumab + chemotherapy was superior to EXTREME. Note: TPS is used for NSCLC, NOT HNSCC — CPS is the correct biomarker for HNSCC.",
+          "wrong": {
+            "A": "TPS (tumour proportion score) is the PD-L1 biomarker used in NSCLC (e.g., KEYNOTE-024 for NSCLC monotherapy at TPS ≥50%). For HNSCC, CPS is used, not TPS.",
+            "C": "CPS ≥1 is the threshold for pembrolizumab + chemotherapy superiority over EXTREME (in KEYNOTE-048). CPS ≥20 is the threshold for monotherapy superiority. These are distinct clinical groups with different treatment recommendations.",
+            "D": "TMB-high is used as a biomarker for pembrolizumab in TMB-high solid tumours (KEYNOTE-158) but is NOT the standard biomarker in KEYNOTE-048 for HNSCC. PD-L1 CPS is the guideline-recommended biomarker."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Recurrent/Metastatic HNSCC Systemic Therapy; FDA Pembrolizumab HNSCC Approval 2019",
+          "trial": "KEYNOTE-048 (Shah et al., Lancet 2018): Pembrolizumab ± platinum/5-FU vs EXTREME in R/M HNSCC. CPS ≥20: pembrolizumab monotherapy superior (OS HR 0.61). CPS ≥1: pembrolizumab + chemo superior (OS HR 0.65). All-comers: combination non-inferior.",
+          "pearl": "HNSCC PD-L1 biomarker = CPS (not TPS). CPS ≥20 → pembrolizumab monotherapy preferred. CPS ≥1 → pembrolizumab + chemotherapy. All-comers regardless of CPS → pembrolizumab + chemotherapy is non-inferior to EXTREME and is also acceptable.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q16",
+        "stem": "A 48-year-old patient undergoes left total glossectomy and bilateral neck dissection for a T4a pN2b SCC of the oral tongue. The final pathology confirms one node with extranodal extension (2.5 mm beyond the capsule). What is the total dose of adjuvant cisplatin and radiation most consistent with RTOG 9501 protocol, which established the evidence base for chemoradiation in this setting?",
+        "options": {
+          "A": "Cisplatin 40 mg/m² weekly × 6 weeks with 60 Gy in 30 fractions",
+          "B": "Cisplatin 100 mg/m² on days 1, 22, and 43 with 60-66 Gy in 30-33 fractions",
+          "C": "Carboplatin AUC 1.5 weekly with 60 Gy — cisplatin is too toxic in post-glossectomy patients",
+          "D": "Cetuximab 400 mg/m² loading then 250 mg/m² weekly with 66 Gy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The RTOG 9501 trial used high-dose cisplatin 100 mg/m² on days 1, 22, and 43 (3 cycles) concurrent with 60-66 Gy radiation. This regimen is the reference standard for postoperative chemoradiation in high-risk HNSCC. The trial demonstrated significantly improved locoregional control (82% vs 72% at 2 years) with chemoradiation versus radiation alone in patients with positive margins and/or ENE. Despite toxicity, this remains the preferred regimen per NCCN 2024 for fit patients (ECOG 0-1, adequate renal function).",
+          "wrong": {
+            "A": "Weekly cisplatin 40 mg/m² is commonly used in the definitive (non-adjuvant) chemoradiation setting for locally advanced HNSCC. While used off-label in some centres for PORT, the Level I evidence from RTOG 9501 is specifically for high-dose 3-weekly cisplatin. Weekly cisplatin is not the protocol established in RTOG 9501.",
+            "C": "Carboplatin is used as an alternative for cisplatin-ineligible patients, but there is no Level I evidence demonstrating equivalence to cisplatin in the adjuvant HNSCC setting. Cisplatin should be used first unless there are specific contraindications (creatinine clearance <50 mL/min, pre-existing neuropathy, significant hearing loss).",
+            "D": "Cetuximab-based chemoradiation was explored in RTOG 0234 but did not demonstrate superiority over cisplatin. Cetuximab is not the guideline-recommended concurrent agent for postoperative chemoradiation in HNSCC."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Systemic Therapy Principles; Cooper JS et al. RTOG 9501 (NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004): Cisplatin 100 mg/m² days 1/22/43 + PORT (60-66 Gy) vs PORT alone. Improved locoregional control (82% vs 72% at 2 years, p=0.01) and disease-free survival. Benefit confined to ENE and/or positive margins subgroup.",
+          "pearl": "High-dose cisplatin (100 mg/m² × 3 cycles on days 1, 22, 43) is the regimen from RTOG 9501 and EORTC 22931. Total cisplatin dose = 300 mg/m². Weekly low-dose cisplatin (40 mg/m²) is an alternative in less fit patients but lacks Level I evidence in the adjuvant setting.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q17",
+        "stem": "A 63-year-old patient is seen in follow-up 3 months after completion of adjuvant chemoradiation for pT3N2c oral tongue SCC (bilateral nodal involvement, all without ENE, negative margins). PET-CT shows bilateral uptake in the neck (bilateral level II). What is the most appropriate next step?",
+        "options": {
+          "A": "Immediate bilateral neck dissection",
+          "B": "Biopsy of the most hypermetabolic node to confirm residual/recurrent disease before further treatment",
+          "C": "Repeat PET-CT in 6 weeks — early post-treatment inflammation causes false positives",
+          "D": "Systemic therapy with pembrolizumab for residual disease"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Bilateral PET-CT uptake at 3 months after chemoradiation requires tissue confirmation before undertaking bilateral neck dissection. False positive rates on early post-treatment PET-CT (at 3 months) can be 15-25% due to post-radiation inflammatory changes. Current practice is to perform fine-needle aspiration cytology (FNAC) or core needle biopsy of the most suspicious node before planning surgical salvage. If positive, bilateral neck dissection is appropriate; if negative, repeat imaging at 6 months is warranted. Performing bilateral neck dissection without histological confirmation risks unnecessary morbidity.",
+          "wrong": {
+            "A": "Performing immediate bilateral neck dissection without tissue confirmation risks unnecessary surgery in a patient who may have inflammatory post-treatment changes on PET-CT.",
+            "C": "Delaying repeat imaging for 6 weeks is appropriate if there is clinical suspicion of inflammatory change, but with bilateral level II uptake after bilateral nodal disease, a faster pathway (tissue biopsy) is more appropriate to avoid delayed diagnosis of true residual disease.",
+            "D": "Systemic pembrolizumab is for confirmed recurrent/metastatic disease not amenable to local treatment. Starting systemic therapy without histological proof of disease is premature and inappropriate."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Surveillance after CRT; Post-treatment Imaging Guidelines",
+          "trial": "PET-CT for post-treatment response assessment: Mehanna H et al. PET-NECK trial (NEJM 2016): PET-CT-guided neck management reduces unnecessary neck dissection in oropharyngeal cancer after CRT — the principle applies to post-treatment surveillance in general HNSCC.",
+          "pearl": "Post-treatment PET-CT at 3 months has a false positive rate of 15-25% due to radiation inflammation. Always confirm with biopsy before proceeding to salvage surgery. The negative predictive value of a post-treatment PET-CT is very high (>95%), meaning a negative scan reliably rules out disease.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q18",
+        "stem": "A surgeon assesses a patient with T1 SCC (1.8 cm, DOI 4 mm) of the right lateral oral tongue. The patient is a 38-year-old non-smoker, non-drinker with no obvious risk factors. In addition to HPV testing, which molecular marker test is most appropriate as part of the standard workup to assess for syndromic or hereditary risk?",
+        "options": {
+          "A": "EGFR amplification by FISH",
+          "B": "p16 immunohistochemistry for HPV-related oropharyngeal cancer",
+          "C": "No routine molecular testing is indicated for T1 oral tongue SCC",
+          "D": "Referral for genetic counselling and germline BRCA2/Fanconi anaemia gene testing"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Oral tongue SCC in a young patient (<45 years) with no conventional risk factors (tobacco, alcohol) should raise suspicion for a germline DNA repair disorder. Fanconi anaemia (particularly FANCA, FANCC, FANCD2 genes) and BRCA2 mutations are strongly associated with early-onset head and neck SCC, particularly oral cavity. Fanconi anaemia patients develop HNSCC at median age ~30 years, decades earlier than the general population. Referral for genetic counselling and germline testing is appropriate in young patients without risk factors.",
+          "wrong": {
+            "A": "EGFR amplification is a research biomarker. It is not part of standard clinical workup for oral cavity SCC and does not change guideline-directed treatment in the curative setting.",
+            "B": "p16 IHC for HPV testing is performed for oropharyngeal carcinoma (tonsil, base of tongue, posterior pharyngeal wall), not for oral cavity tumours. Oral cavity SCC is generally HPV-negative and p16 testing has no staging or treatment implications for oral cavity tumours under AJCC 8th edition.",
+            "C": "In a young, non-smoking, non-drinking patient with oral tongue SCC, no molecular testing is inappropriate. The clinical scenario should trigger evaluation for hereditary cancer predisposition syndromes."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Special Populations; NCCN Genetic/Familial High-Risk Assessment Guidelines",
+          "trial": "Kutler DI et al. (Ann Otol Rhinol Laryngol 2003): Fanconi anaemia patients have dramatically elevated risk of HNSCC, particularly oral tongue SCC in the second and third decades of life.",
+          "pearl": "Young (<45 years) oral tongue SCC without risk factors = suspect Fanconi anaemia or BRCA2 mutation. Refer for genetic counselling. Fanconi anaemia patients have elevated sensitivity to DNA-damaging agents (cisplatin, radiation) — treatment must be dose-reduced to avoid catastrophic toxicity.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q19",
+        "stem": "A 61-year-old man undergoes resection of a floor of mouth SCC with bilateral SND levels I-III. The pathology report identifies a 1.4 cm metastatic node in the right level IB with a focal area of ENE measuring 1.3 mm beyond the capsule. How should this be classified and what treatment is indicated?",
+        "options": {
+          "A": "Microscopic ENE (ENEmi) — no change in treatment, radiation alone is sufficient",
+          "B": "Macroscopic ENE (ENEma) — adjuvant chemoradiation mandated",
+          "C": "Any pathological ENE (pENE, regardless of extent) — adjuvant chemoradiation mandated",
+          "D": "Incidental ECE — observe with close follow-up; significance is debated"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Per NCCN 2024, any pathological extranodal extension (pENE), regardless of whether it is microscopic (ENEmi ≤2 mm) or macroscopic (ENEma >2 mm), mandates adjuvant concurrent chemoradiation. While prognostic differences between ENEmi and ENEma have been explored (ENEma has worse prognosis), both are classified as pENE and both trigger the requirement for chemoradiation over radiation alone. This is a frequently tested distinction: the threshold for treatment intensification is ANY ENE, not just macroscopic ENE.",
+          "wrong": {
+            "A": "ENEmi (≤2 mm) still constitutes pENE and mandates chemoradiation per NCCN 2024. The distinction between ENEmi and ENEma is prognostic but does not change the treatment recommendation from chemoradiation to radiation alone.",
+            "B": "This is partially correct (chemoradiation mandated) but the classification is wrong. ENE of 1.3 mm beyond the capsule classifies as ENEmi (≤2 mm), not ENEma (>2 mm). However, the treatment recommendation (chemoradiation) is still correct.",
+            "D": "ENE is not an incidental finding to be observed. It is one of the two strongest indications for adjuvant chemoradiation in HNSCC and requires active treatment intensification."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — ENE classification and treatment; AJCC 8th Edition — N3b criteria",
+          "trial": "Mermod M et al. (Head Neck 2016): ENEmi vs ENEma in HNSCC — both are significant prognostic factors. NCCN guidelines treat both as equally mandating chemoradiation.",
+          "pearl": "Any pENE = chemoradiation (not RT alone). ENEmi ≤2 mm = same treatment recommendation as ENEma >2 mm per NCCN 2024. The prognostic difference between ENEmi and ENEma is real but the treatment decision is the same.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q20",
+        "stem": "A 69-year-old woman has a biopsy-proven SCC of the hard palate. She is staged as T2N0M0 after complete workup. She has poor dentition and significant alveolar bone loss. Surgically, which reconstruction approach is most appropriate after infrastructure maxillectomy and does she require elective neck treatment?",
+        "options": {
+          "A": "Primary closure with obturator prosthesis; no elective neck treatment needed for T2N0 hard palate SCC",
+          "B": "Radial forearm free flap; bilateral elective SND levels I-III recommended",
+          "C": "Obturator prosthesis with dental rehabilitation; consider elective ipsilateral SND levels I-III",
+          "D": "Fibula free flap with dental implants; bilateral elective SND mandatory"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "For infrastructure maxillectomy (Brown Class I/II), an obturator prosthesis is the standard reconstruction in appropriate patients — it allows excellent functional outcomes, enables tumour surveillance, and avoids free flap morbidity. Dental rehabilitation on the remaining teeth or implants placed in the residual maxilla is feasible. For T2N0 hard palate SCC, ipsilateral elective neck dissection (SND levels I-III) should be considered given the approximately 15-20% occult nodal metastasis rate. Bilateral dissection is not routinely recommended for lateralised hard palate tumours (which drain primarily ipsilaterally to level II).",
+          "wrong": {
+            "A": "No elective neck treatment is inappropriate for T2N0 hard palate SCC. The occult nodal metastasis rate (~15-20%) exceeds the standard 20% threshold only marginally, and guidelines vary, but most recommend elective ipsilateral treatment. NCCN recommends elective neck treatment for T2 hard palate.",
+            "B": "A radial forearm free flap is appropriate for larger defects (Brown Class III/IV) or orbital floor involvement. For infrastructure maxillectomy with intact palatal mucosa and adequate remaining palate for prosthetic retention, an obturator is preferred and less morbid. Bilateral SND is excessive for a lateralised hard palate tumour.",
+            "D": "A fibula free flap for hard palate reconstruction is used for subtotal or total maxillectomy, not infrastructure maxillectomy. Bilateral neck dissection is not indicated for lateralised T2N0 hard palate tumours."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Oral Cavity Cancer Surgical Management; EACMFS Maxillary Reconstruction Guidelines 2023",
+          "trial": "Brown JS et al. (IJOMS 2010): Brown classification for maxillary defects — Class I/II appropriate for obturator reconstruction; Class III/IV requires free flap.",
+          "pearl": "Hard palate reconstruction: obturator prosthesis is the standard for Brown Class I/II (infrastructure maxillectomy without orbital floor). Free flap is reserved for larger defects. Obturator allows surveillance, dental restoration, and excellent function in suitable patients.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

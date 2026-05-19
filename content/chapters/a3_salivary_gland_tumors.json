@@ -1,0 +1,626 @@
+{
+  "id": "A3",
+  "title": "Salivary Gland Tumors: Parotidectomy and Submandibular Excision",
+  "subtitle": "Head & Neck Oncology — WHO classification 2022, facial nerve preservation, malignant histotypes",
+  "block": "A",
+  "block_name": "Head & Neck Oncology",
+  "level": "R2-3",
+  "reading_time_min": 40,
+  "guidelines_version": "NCCN Head and Neck Cancers v1.2024 · WHO Classification of Head and Neck Tumours 2022 · EACMFS 2023",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 4th ed. (2022)",
+    "Barnes L et al. WHO Classification of Head and Neck Tumours, 5th ed. (2022)",
+    "Shah JP et al. Head and Neck Surgery and Oncology, 5th ed. (2020)"
+  ],
+  "learning_objectives": [
+    "Classify salivary gland tumours using the WHO 2022 classification and identify the most common benign and malignant histotypes",
+    "Describe the technique of superficial and total parotidectomy with facial nerve identification and preservation",
+    "Identify the indications for and complications of submandibular gland excision",
+    "Apply the criteria distinguishing Frey syndrome, first bite syndrome, and facial nerve palsy after parotidectomy",
+    "Recognise the clinical and imaging features distinguishing benign from malignant parotid tumours",
+    "Outline the indications for neck dissection and adjuvant therapy in malignant salivary gland tumours"
+  ],
+  "sections": [
+    {
+      "id": "A3-S1",
+      "title": "Classification and Epidemiology of Salivary Gland Tumours",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Salivary gland tumours are rare, accounting for approximately 0.5-1% of all human tumours and 3-5% of all head and neck neoplasms. The major salivary glands — parotid, submandibular, and sublingual — account for approximately 80-90% of salivary tumours, with the **parotid gland** contributing 70-75% of all salivary neoplasms. Minor salivary glands (distributed throughout the oral mucosa, palate, lips, buccal mucosa, and upper aerodigestive tract) account for 10-20% of salivary tumours.\n\nThe **WHO Classification of Head and Neck Tumours, 5th Edition (2022)** provides the current definitive classification of salivary gland tumours. The most common **benign** tumour is **pleomorphic adenoma (PA)** (also called benign mixed tumour), comprising approximately 60-65% of all parotid tumours and 40-50% of all salivary gland tumours. Pleomorphic adenoma is characterised pathologically by a mixture of epithelial and myoepithelial cells within a chondromyxoid stromal matrix, and by its grossly encapsulated but microscopically irregular pseudopod extensions that create the significant risk of recurrence with enucleation alone.\n\nThe **malignant fraction** of salivary gland tumours varies dramatically by gland: parotid gland has approximately 20-25% malignancy rate; submandibular gland has 35-50% malignancy rate; sublingual gland has 70-90% malignancy rate (making any sublingual mass highly suspect for malignancy). Minor salivary gland tumours are malignant in 50-60% of cases. These figures establish the clinical principle that the smaller and more posterior the salivary gland, the higher the probability of malignancy for any given mass.\n\nThe most common malignant salivary gland tumours are **mucoepidermoid carcinoma** (most common overall malignant salivary tumour), **adenoid cystic carcinoma** (most common in submandibular and minor glands), **acinic cell carcinoma**, **salivary duct carcinoma**, **adenocarcinoma NOS**, and **carcinoma ex pleomorphic adenoma** (malignant transformation of a pre-existing PA, typically after 10-20 years). **High-grade mucoepidermoid carcinoma** and **salivary duct carcinoma** behave aggressively; **low-grade mucoepidermoid carcinoma** and **acinic cell carcinoma** have relatively favourable prognoses."
+        },
+        {
+          "type": "table",
+          "title": "Common Salivary Gland Tumours — Histotype, Grade, and Key Features",
+          "headers": ["Histotype", "Benign/Malignant", "Grade", "Key Feature", "Prognosis 10yr OS"],
+          "rows": [
+            ["Pleomorphic adenoma", "Benign", "—", "Pseudopods; 1-5% malignant transformation over 20+ years", "Excellent (near 100% if fully excised)"],
+            ["Warthin tumour", "Benign", "—", "Bilateral in 10-15%; smokers; oncocytic cysts with lymphoid stroma", "Excellent"],
+            ["Mucoepidermoid Ca (low)", "Malignant", "Low", "Mucous + epidermoid cells; cystic; palate common", "~90%"],
+            ["Mucoepidermoid Ca (high)", "Malignant", "High", "Solid; rapid growth; nodal metastasis 50%", "~50%"],
+            ["Adenoid cystic Ca", "Malignant", "Low-Int-High", "Perineural invasion; cribriform/tubular/solid patterns; late DM", "~60% (late recurrence)"],
+            ["Acinic cell Ca", "Malignant", "Low", "Acinar differentiation; bilateral 3%; young adults", "~80%"],
+            ["Salivary duct Ca", "Malignant", "High", "AR-positive; HER2 amplified; BRST-like histology", "~25-35%"],
+            ["Carcinoma ex PA", "Malignant", "Variable", "Pre-existing PA; facial pain/palsy warning signs", "~50% (capsular invasion)–25% (widely invasive)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Gland-Specific Malignancy Rate",
+          "content": "Malignancy rate by gland: Parotid 20-25%, Submandibular 35-50%, Sublingual 70-90%, Minor salivary glands 50-60%. Clinical principle: the deeper and smaller the gland, the higher the malignancy probability. Any sublingual gland mass is malignant until proven otherwise. Any firm, non-tender parotid mass with facial weakness is malignant until proven otherwise."
+        }
+      ]
+    },
+    {
+      "id": "A3-S2",
+      "title": "Clinical Assessment and Imaging of Parotid Masses",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The clinical evaluation of a parotid mass begins with a thorough history and physical examination. **Features suggesting malignancy** include: rapid growth, pain or tenderness (though most parotid masses are painless regardless of histology), skin involvement or fixation, facial nerve palsy or paresis (pathognomonic for malignancy in the parotid), cervical lymphadenopathy, hard or fixed consistency on palpation, and a history of prior radiation to the head and neck. **Pleomorphic adenoma** typically presents as a slowly growing, painless, smooth, and mobile parotid lump, most commonly in the parotid tail or posterior superficial lobe.\n\nImaging of the parotid gland: **Ultrasound** with or without **FNAC** is the first-line investigation. Ultrasound reliably differentiates intra- from extra-parotid masses, identifies multicentric disease (Warthin tumours), and guides FNAC. **MRI with gadolinium** is the gold standard for parotid imaging — it provides superior soft tissue characterisation, evaluates deep lobe extension, facial nerve proximity, parapharyngeal space involvement, and mandibular involvement. **CT with contrast** is appropriate when there is clinical concern for bony involvement or when MRI is contraindicated.\n\nCharacteristic MRI features: **pleomorphic adenoma** — well-defined, heterogeneous T2 hyperintense mass, often with chondromyxoid areas; **Warthin tumour** — bilateral, multicentric, T1 hyperintense component (high protein content), T2 intermediate; **malignant tumours** — poorly defined margins, T2 hypointense (high cellularity), restricted diffusion (DWI), and peritumoral infiltration.\n\n**FNAC** of parotid masses has a sensitivity of approximately 85-92% and specificity of 95-99% in experienced centres. FNAC can distinguish benign from malignant, and in many cases provides sufficient information to plan surgery. Core needle biopsy (CNB) under ultrasound guidance is increasingly used for definitive histological diagnosis, particularly when FNAC is non-diagnostic. Open biopsy of a parotid mass is generally avoided as it risks facial nerve injury and tumour seeding."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Facial Nerve Palsy in Parotid Mass",
+          "content": "Any facial nerve palsy or weakness associated with a parotid mass is malignant until proven otherwise. Facial paresis in the context of a parotid mass warrants urgent MRI and biopsy. Common malignant histotypes causing facial nerve invasion include: salivary duct carcinoma, high-grade mucoepidermoid carcinoma, carcinoma ex pleomorphic adenoma, and undifferentiated carcinoma. Benign masses essentially never cause facial nerve palsy unless they are enormous and exert direct pressure."
+        }
+      ]
+    },
+    {
+      "id": "A3-S3",
+      "title": "Superficial and Total Parotidectomy — Technique and Facial Nerve Preservation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **standard surgical approach** for a parotid mass is a **formal parotidectomy** (superficial or total), NOT enucleation. Enucleation has a recurrence rate of 20-45% for pleomorphic adenoma and is inappropriate for any parotid tumour due to the pseudopod extensions of PA and the risk of facial nerve injury by blind blunt dissection.\n\n**Superficial parotidectomy** removes the superficial lobe of the parotid gland (the portion lateral to the facial nerve plane) with a cuff of normal glandular tissue around the tumour. The incision is a modified Blair or facelift incision: a preauricular incision extending behind the ear and into the hairline, then coursing along the anterior border of the sternocleidomastoid. The skin flap is elevated in the subplatysmal/subcutaneous plane.\n\nThe **facial nerve** (CN VII) is identified as the single most important anatomical structure in parotidectomy. The **main trunk** of CN VII exits the stylomastoid foramen and is identified by four reliable landmarks: (1) the **tragal pointer** (a cartilaginous projection from the tragus — the main trunk lies approximately 1 cm deep and medial to the tragal pointer, heading anteriorly); (2) the **tympanomastoid suture line** (CN VII emerges at the inferior aspect of this suture); (3) the **posterior belly of the digastric muscle** (CN VII crosses the posterior belly from medial to lateral, just superior to its tendinous arch); and (4) the **retrograde approach** (dissect from peripheral branch back to trunk if landmarks obscured by tumour or scar).\n\nAfter identifying the main trunk, dissection proceeds along the nerve branches (temporofacial and cervicofacial divisions) using sharp and blunt dissection. The superficial lobe is removed en bloc with the contained tumour. **Total parotidectomy** (removal of both superficial and deep lobes) is required for: deep lobe tumours, large tumours extending into the deep lobe, malignant tumours of any size, and recurrent pleomorphic adenoma with deep lobe involvement. Deep lobe tumours in the parapharyngeal space may require additional transoral or transcervical access.\n\n**Intraoperative nerve monitoring** with continuous electromyographic (EMG) stimulation is highly recommended, particularly for revision parotidectomy, large tumours, or malignant tumours where the nerve may be distorted. Nerve sacrifice is appropriate when the nerve is directly invaded by malignancy; immediate nerve grafting with the greater auricular nerve or sural nerve graft should be performed to maximise functional recovery."
+        },
+        {
+          "type": "table",
+          "title": "Parotidectomy Extent Based on Clinical Scenario",
+          "headers": ["Clinical Scenario", "Recommended Procedure", "Facial Nerve Management"],
+          "rows": [
+            ["Small superficial lobe PA (≤3 cm)", "Superficial parotidectomy", "Identify main trunk + preserve all branches"],
+            ["Large superficial lobe PA (>3 cm) or deep extension", "Total parotidectomy", "Preserve facial nerve"],
+            ["Deep lobe tumour, benign", "Total parotidectomy ± transoral/transcervical", "Preserve facial nerve"],
+            ["Low-grade parotid malignancy, no nerve involvement", "Total parotidectomy", "Preserve facial nerve"],
+            ["High-grade malignancy, nerve involved", "Total parotidectomy", "Sacrifice involved segment, immediate nerve graft"],
+            ["Carcinoma ex PA", "Total parotidectomy + neck dissection", "Preserve if no direct invasion; sacrifice if invaded"],
+            ["Recurrent PA after prior parotidectomy", "Revision total parotidectomy", "Retrograde nerve dissection; nerve monitoring essential"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Facial Nerve Monitoring",
+          "content": "Intraoperative continuous facial nerve monitoring with EMG significantly reduces the risk of postoperative facial nerve palsy in primary parotidectomy (from approximately 4% to 1-2% temporary palsy). In revision parotidectomy, where scar tissue obliterates anatomical landmarks, nerve monitoring is essential. The monitoring device provides continuous real-time feedback with auditory alerts when the nerve is in proximity to instruments. However, monitoring does NOT replace anatomical knowledge — it supplements it."
+        }
+      ]
+    },
+    {
+      "id": "A3-S4",
+      "title": "Complications of Parotidectomy",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Facial nerve weakness** is the most feared complication of parotidectomy. **Temporary facial paresis** (neurapraxia) occurs in 10-40% of patients after superficial parotidectomy and 20-50% after total parotidectomy; the vast majority (>90%) resolve within 6-12 months. **Permanent facial nerve palsy** occurs in <2% after primary superficial parotidectomy and 1-4% after total parotidectomy in experienced hands. If nerve sacrifice is necessary for oncological clearance, immediate reconstruction with a cable graft (greater auricular nerve or sural nerve) should be performed, and delayed reinnervation procedures (nerve transfer, free gracilis muscle transfer) may be considered if recovery is incomplete.\n\n**Frey syndrome** (auriculotemporal nerve syndrome or gustatory sweating) is the most common delayed complication of parotidectomy, occurring in 30-60% of patients if assessed by objective starch-iodine testing, though symptomatic flushing and sweating is reported in approximately 15-25% of patients. It results from aberrant reinnervation of the parotid bed skin by parasympathetic secretomotor fibres of the auriculotemporal nerve (originally supplying the parotid gland) that re-innervate sweat glands rather than salivary tissue. Clinical presentation: erythema and sweating over the preauricular cheek area triggered by chewing or gustatory stimulation. Prevention: SMAS flap interposition between the parotid bed and overlying skin significantly reduces the incidence. Treatment: botulinum toxin A injection into the affected area (highly effective; repeatable).\n\n**First bite syndrome** is a distinct complication characterised by severe pain in the parotid region occurring with the first bite of each meal, then diminishing with subsequent bites. It is caused by sympathetic denervation of myoepithelial cells surrounding acini in the parotid remnant or the deep lobe after parotidectomy involving the parapharyngeal space. The first bite causes massive acinar contraction (unopposed parasympathetic stimulation) resulting in severe spasm. Typically improves spontaneously over months. Treatment: botulinum toxin A injections can reduce symptom severity.\n\n**Great auricular nerve hypoaesthesia** is nearly universal after parotidectomy, as this nerve (C2-C3) provides sensation to the earlobe and lower auricle and is divided in the standard parotidectomy approach. Patients should be counselled pre-operatively about permanent numbness of the earlobe. Preservation of the posterior branch of the great auricular nerve during skin flap elevation partially reduces the sensory deficit."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Frey Syndrome vs First Bite Syndrome",
+          "content": "Frey syndrome: gustatory sweating and flushing triggered by chewing — due to aberrant parasympathetic reinnervation of sweat glands. Occurs weeks to months after parotidectomy. Treatment: botulinum toxin A. First bite syndrome: severe pain on FIRST bite of each meal, diminishing with subsequent bites — due to sympathetic denervation of parotid myoepithelial cells. Occurs after parapharyngeal space dissection. Treatment: botulinum toxin A, spontaneous improvement. These are distinct entities: different mechanism, different symptoms, different timing."
+        }
+      ]
+    },
+    {
+      "id": "A3-S5",
+      "title": "Submandibular Gland Excision — Indications and Technique",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Submandibular gland excision** is performed for two primary indications: **chronic sialadenitis** (usually obstructive due to Wharton's duct sialolithiasis) and **submandibular tumour** (benign or malignant). With the 35-50% malignancy rate of submandibular gland tumours, any isolated submandibular mass without evidence of sialadenitis warrants preoperative biopsy or excision with malignancy in mind.\n\nThe standard incision is a horizontal crease incision approximately 3-4 cm below the mandibular border in a skin crease, extending from the midline to the angle of the mandible. The key anatomical relationships that must be identified and protected during submandibular gland excision are:\n\n1. **Marginal mandibular branch of CN VII** — runs immediately deep to the platysma along the inferior mandibular border, often dipping below the inferior border of the mandible. The facial vein crosses beneath this nerve and can be used as a landmark; the nerve runs superficial to the facial vein. Technique: divide and reflect the facial vein superiorly with the nerve, protecting it from the deeper dissection.\n\n2. **Lingual nerve** — provides general sensation (CN V3) and preganglionic parasympathetic fibres (chorda tympani via CN VII) to the submandibular ganglion. The lingual nerve passes around Wharton's duct in a loop ('lingual nerve loop'), going lateral to the duct posteriorly, then medial anteriorly ('lingual nerve goes lateral, then medial, then lateral again'). Care must be taken during duct division to protect the lingual nerve, which runs in close proximity.\n\n3. **Hypoglossal nerve (CN XII)** — runs along the lateral surface of the hyoglossus muscle, medial to the mylohyoid, in the floor of the submandibular triangle. It lies inferior to the lingual nerve. Retraction of the mylohyoid exposes CN XII and it must be identified and protected throughout the dissection.\n\n4. **Facial artery** — enters the submandibular triangle from below (passing between the posterior belly of the digastric and the stylohyoid), groves into the posterior aspect of the submandibular gland, then re-emerges to course superiorly around the lower mandibular border into the face. Ligation of the facial artery is part of the standard submandibular gland excision."
+        }
+      ]
+    },
+    {
+      "id": "A3-S6",
+      "title": "Adenoid Cystic Carcinoma — Biology, Spread, and Treatment",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Adenoid cystic carcinoma (ACC)** is the most common malignant tumour of the submandibular and minor salivary glands, and the second most common malignant parotid tumour. ACC has distinctive biological behaviour that sets it apart from other salivary carcinomas: it demonstrates an intense propensity for **perineural invasion** (present in 60-80% of cases), tracking along named nerves for long distances — this is its most important pathological feature and explains its characteristic pattern of failure (local recurrence along nerve pathways) and the need for extensive surgical margins and field extension of radiation.\n\nACC is histologically classified into three patterns with prognostic significance: **cribriform** (cylindromatous — least aggressive, sievelike pattern), **tubular** (best prognosis), and **solid** (most aggressive, poorest prognosis, associated with high-grade transformation). The **grading** system of Szanto et al. (1984) remains widely used: Grade 1 = cribriform/tubular without solid component; Grade 2 = solid component <30%; Grade 3 = solid component >30%.\n\nThe clinical course of ACC is characterised by slow but relentless progression, frequent late local recurrence (often >5-10 years after initial treatment), and a high rate of **distant metastasis** (40-60% over lifetime), most commonly to the lungs (70-90% of metastatic sites). Remarkably, pulmonary metastases from ACC may grow slowly for years without causing symptoms and are compatible with prolonged survival. **Cervical lymph node metastasis** is uncommon compared with other head and neck SCCs (approximately 15-25% clinically), but is a strong adverse prognostic factor when present.\n\nTreatment of resectable ACC: **surgery with wide margins + postoperative radiation**. Due to the propensity for perineural invasion and subclinical spread, ACC requires PORT regardless of margin status in most cases. NCCN 2024 recommends PORT for essentially all ACC >T1 and for any ACC with perineural invasion. Neutron beam radiation (where available) has been shown to improve local control over photon-based therapy. **Systemic therapy** for metastatic ACC is challenging: responses to standard chemotherapy are modest. Lenvatinib (multikinase inhibitor) has shown activity in the NCCN context. The **MYB-NFIB** fusion oncogene is present in approximately 60% of ACC cases and is an active therapeutic target under investigation."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Adenoid Cystic Carcinoma Clinical Behaviour",
+          "content": "ACC has three hallmark features: (1) Perineural invasion in 60-80% — necessitates extended radiation fields to named nerve pathways and skull base; (2) Late distant metastasis to lungs in 40-60% — pulmonary metastases may be indolent for years; (3) Late local recurrence — 5-year OS looks acceptable but 15-year OS drops dramatically due to late recurrences. Never use 5-year survival statistics alone to counsel ACC patients — long-term follow-up beyond 10-15 years is essential."
+        }
+      ]
+    },
+    {
+      "id": "A3-S7",
+      "title": "Malignant Salivary Tumours — Neck Dissection and Adjuvant Therapy",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The management of the neck in malignant salivary gland tumours is guided by the risk of nodal metastasis, which varies significantly by histotype and grade. **High-grade malignancies** (high-grade mucoepidermoid, salivary duct carcinoma, undifferentiated carcinoma, carcinoma ex PA) have nodal metastasis rates of 30-60% and warrant elective neck dissection. **Low-grade malignancies** (low-grade mucoepidermoid, acinic cell carcinoma, ACC without solid pattern) have nodal metastasis rates of 5-15%; elective neck dissection is controversial but generally recommended for T2+ disease by most guidelines.\n\nFor the cN+ neck in salivary malignancies, **modified radical or selective neck dissection** (levels II-IV for parotid primaries; levels I-IV for submandibular primaries) is performed. ENE in salivary gland metastases, as in HNSCC, is an adverse prognostic factor indicating adjuvant chemoradiation.\n\n**Adjuvant radiation** is recommended for: all T3-T4 malignant salivary tumours; all high-grade histotypes regardless of T stage; positive or close margins; perineural invasion (especially named nerve); lymphovascular invasion; and cervical nodal metastasis. PORT dose is typically 60-66 Gy to the primary tumour bed. For ACC, the PORT field must include the involved nerve pathway to the skull base.\n\n**Salivary duct carcinoma** deserves special mention: it is an aggressive high-grade carcinoma with an androgen receptor (AR) positive rate of 70-90% and HER2 amplification in approximately 25-35% of cases. The HER2-positive subgroup may benefit from **trastuzumab-based therapy** (analogous to HER2+ breast cancer). AR-positive cases may respond to **androgen deprivation therapy** (combined androgen blockade). These molecular markers should be routinely assessed in salivary duct carcinoma diagnosis.",
+          "type": "text"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Salivary Duct Carcinoma Molecular Profiling",
+          "content": "All salivary duct carcinomas should undergo immunohistochemical testing for AR, HER2, PD-L1, and molecular profiling (NGS panel) at diagnosis. HER2 amplification (ISH) and AR positivity drive systemic therapy decisions in the recurrent/metastatic setting. Trastuzumab + pertuzumab + docetaxel or androgen deprivation therapy can achieve meaningful responses in HER2+ or AR+ salivary duct carcinoma respectively. This is analogous to breast cancer targeted therapy and is supported by multiple retrospective series and ongoing clinical trials."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of salivary gland tumours with 20 board-style questions covering diagnosis, surgical technique, and malignant histotypes.",
+    "questions": [
+      {
+        "id": "A3-Q1",
+        "stem": "A 45-year-old woman presents with a 2.5 cm painless, slow-growing, mobile left parotid mass present for 3 years. MRI shows a well-defined heterogeneous T2 hyperintense mass in the superficial lobe of the parotid. FNAC is non-diagnostic. What is the most appropriate surgical management?",
+        "options": {
+          "A": "Enucleation of the mass with preservation of the parotid gland",
+          "B": "Superficial parotidectomy with identification and preservation of the facial nerve",
+          "C": "Incisional biopsy under local anaesthesia to confirm diagnosis before definitive surgery",
+          "D": "Observation with 6-monthly ultrasound — likely benign Warthin tumour"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Superficial parotidectomy is the appropriate treatment for a superficial lobe parotid mass with radiological features consistent with pleomorphic adenoma (heterogeneous T2 hyperintense, well-defined). Enucleation alone is associated with 20-45% recurrence rates for pleomorphic adenoma due to pseudopod extensions that are not captured with simple enucleation. Superficial parotidectomy removes the tumour with a cuff of normal glandular tissue and provides definitive diagnosis, adequate margins, and minimal risk of recurrence.",
+          "wrong": {
+            "A": "Enucleation is the historically condemned procedure for pleomorphic adenoma due to the high recurrence rate caused by pseudopod extensions of the tumour. The recurrence rate after enucleation is 20-45% vs <5% after formal parotidectomy.",
+            "C": "Incisional biopsy of a parotid mass risks facial nerve injury and tumour seeding. FNAC or CNB under ultrasound guidance is the appropriate pre-operative sampling technique if needed. Open incisional biopsy is avoided.",
+            "D": "Warthin tumours are typically bilateral, multicentric, and T1 hyperintense on MRI. This mass is T2 hyperintense and heterogeneous — consistent with pleomorphic adenoma. Observation of a parotid mass consistent with PA is inappropriate as the lifetime risk of malignant transformation is approximately 1-5% and increases with time."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Salivary Gland Tumour Management; EACMFS 2023",
+          "trial": "McGurk M et al. (Br J Surg 2003): Superficial parotidectomy vs extracapsular dissection for PA — systematic review supporting formal parotidectomy as standard for pleomorphic adenoma.",
+          "pearl": "Never enucleate a parotid mass. Pleomorphic adenoma has pseudopod extensions that extend beyond the grossly visible capsule — enucleation leaves these behind and causes recurrence in 20-45% of cases. Recurrent PA is much harder to treat and carries higher rates of facial nerve injury on revision surgery.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q2",
+        "stem": "A 60-year-old man undergoes total parotidectomy for a T2 adenoid cystic carcinoma of the deep lobe. The facial nerve is preserved with no macroscopic involvement. Pathology confirms ACC (cribriform pattern, Grade 1-2), negative margins (closest 4 mm), and perineural invasion involving the facial nerve branches distally. No cervical lymphadenopathy. What adjuvant treatment is indicated?",
+        "options": {
+          "A": "Observation — negative margins and cribriform (low-grade) ACC have excellent prognosis",
+          "B": "Adjuvant radiation to primary site with extension to the stylomastoid foramen and petrous bone",
+          "C": "Concurrent chemoradiation (cisplatin + 66 Gy) — PNI mandates chemoradiation",
+          "D": "Systemic lenvatinib — local therapy is insufficient for ACC given its metastatic potential"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Adjuvant radiation is indicated for ACC with PNI and facial nerve involvement, with field extension to the skull base. The facial nerve enters the stylomastoid foramen and the petrous portion carries the geniculate ganglion. Perineural spread along the facial nerve can track to the skull base and the geniculate ganglion, which communicates with the greater petrosal nerve and eventually the Gasserian ganglion. The PORT field must encompass this entire pathway. For PNI in ACC, NCCN 2024 mandates PORT with field extension to the level of the skull base for the involved nerve.",
+          "wrong": {
+            "A": "Observation is never appropriate for malignant salivary gland tumours with perineural invasion. Even cribriform Grade 1 ACC with PNI requires PORT — ACC has a high rate of late local recurrence driven by PNI, and adjuvant RT significantly reduces this risk.",
+            "C": "Concurrent chemotherapy is not standard for ACC in the adjuvant setting. ACC does not respond well to standard cisplatin-based chemotherapy. PORT alone with extended field is the standard adjuvant treatment.",
+            "D": "Lenvatinib and other systemic agents are reserved for metastatic or unresectable ACC — not the adjuvant setting after complete surgical resection."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Salivary Gland Malignancies: Adjuvant Radiation",
+          "trial": "Chen AM et al. (Int J Radiat Oncol 2006): PNI in salivary ACC — PORT with field extension to skull base reduces local recurrence significantly compared with limited field RT.",
+          "pearl": "ACC with facial nerve PNI: extend PORT to the stylomastoid foramen and petrous bone. For lingual or inferior alveolar nerve PNI in submandibular or minor salivary ACC: extend field to foramen ovale (V3). Always communicate named nerve PNI findings to the radiation oncologist immediately.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q3",
+        "stem": "A 55-year-old man develops sweating and flushing over his right preauricular cheek and upper neck whenever he eats, 8 months after right superficial parotidectomy for pleomorphic adenoma. He describes feeling his cheek 'glistening' at meals. What is the diagnosis and most effective treatment?",
+        "options": {
+          "A": "First bite syndrome — botulinum toxin A injection",
+          "B": "Frey syndrome (auriculotemporal syndrome) — botulinum toxin A injection",
+          "C": "Salivary fistula — conservative management with pressure dressing",
+          "D": "Recurrent pleomorphic adenoma — MRI and revision surgery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Frey syndrome (gustatory sweating, auriculotemporal nerve syndrome) presents as flushing and sweating over the parotid bed area triggered by eating or chewing. It results from aberrant regeneration of postganglionic parasympathetic secretomotor fibres (originally supplying parotid acini, now re-innervating sweat glands in the skin flap) from the auriculotemporal nerve. Treatment: intradermal botulinum toxin A injection to the affected area is highly effective (90%+ response), with benefit lasting 12-18 months; repeat injections as needed.",
+          "wrong": {
+            "A": "First bite syndrome presents with severe PAIN on the first bite of each meal, diminishing with subsequent bites — not sweating. The mechanism is sympathetic denervation of myoepithelial cells, not autonomic misdirection to sweat glands.",
+            "C": "Salivary fistula presents as fluid leakage from the wound or sinus in the early post-operative period, not months later with food-triggered sweating.",
+            "D": "Recurrent pleomorphic adenoma would present as a palpable mass, not as autonomic symptoms. The timeline and description are classic for Frey syndrome."
+          },
+          "guideline": "EACMFS Parotid Surgery Guidelines 2023; Beerens AJF et al. (Br J Oral Maxillofac Surg 2016): Frey syndrome — diagnosis and treatment",
+          "trial": "Laskawi R et al. (J Oral Maxillofac Surg 1998): Botulinum toxin A for Frey syndrome — efficacy of intradermal injection confirmed in prospective series.",
+          "pearl": "Frey syndrome diagnosis: Minor starch-iodine test (iodine swabbed on skin, starch powder applied — turns blue-black with sweating during chewing). Treatment: intradermal BTX-A injection. Prevention: SMAS flap or dermal fat graft interposition during parotidectomy reduces incidence from 30-60% to <10%.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q4",
+        "stem": "During submandibular gland excision, the surgeon identifies a nerve running lateral to Wharton's duct and wrapping around it anteriorly. Which nerve is this and what is the correct management?",
+        "options": {
+          "A": "Hypoglossal nerve — sacrifice is acceptable for complete gland removal",
+          "B": "Lingual nerve — must be preserved; it loops around Wharton's duct",
+          "C": "Chorda tympani — already divided; no action needed",
+          "D": "Glossopharyngeal nerve — retract superiorly to protect it"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The lingual nerve (branch of CN V3, carrying chorda tympani fibres from CN VII) loops around Wharton's duct in a characteristic pattern: it runs lateral to the duct posteriorly, then hooks medial and inferior around the duct anteriorly, before continuing anteriorly to the tongue. This relationship must be understood to avoid inadvertent lingual nerve injury during Wharton's duct ligation and gland removal. The lingual nerve must be identified and protected throughout submandibular gland excision. Injury causes ipsilateral tongue numbness and taste loss.",
+          "wrong": {
+            "A": "The hypoglossal nerve (CN XII) runs along the lateral surface of the hyoglossus muscle, inferior to the lingual nerve. It does NOT loop around Wharton's duct. CN XII injury causes ipsilateral tongue paralysis — a serious complication.",
+            "C": "The chorda tympani fibres are already incorporated within the lingual nerve trunk at this point in the neck — they are not a separate structure. Identifying the lingual nerve is identifying the chorda tympani in this location.",
+            "D": "The glossopharyngeal nerve (CN IX) is not a relevant structure in the submandibular triangle. It courses in the parapharyngeal space far from the submandibular gland."
+          },
+          "guideline": "Shah JP. Head and Neck Surgery and Oncology 5th ed (2020) — Submandibular gland anatomy",
+          "trial": "Standard surgical anatomy: lingual nerve wraps around Wharton's duct — the classic description by Henry Gray in Gray's Anatomy.",
+          "pearl": "Lingual nerve anatomy during submandibular gland excision: 'The lingual nerve goes lateral, medial, lateral' in relation to Wharton's duct (posterior lateral → anterior inferior wrap → tongue medial). Always identify the lingual nerve before ligating Wharton's duct to avoid inadvertent nerve transection.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q5",
+        "stem": "A 70-year-old woman presents with a rapidly enlarging right parotid mass (now 4 cm over 6 weeks) with ipsilateral facial nerve paresis (House-Brackmann grade III). CT shows a poorly defined mass in the parotid with involvement of the skin. Biopsy shows salivary duct carcinoma. HER2 FISH shows amplification. What systemic therapy should be considered for metastatic disease?",
+        "options": {
+          "A": "Cisplatin + 5-FU chemotherapy — standard for head and neck carcinoma",
+          "B": "Trastuzumab-based therapy (analogous to HER2+ breast cancer)",
+          "C": "Pembrolizumab monotherapy — HER2+ SDC is immunotherapy-responsive",
+          "D": "Androgen deprivation therapy alone — ADT is sufficient for HER2+ SDC"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Salivary duct carcinoma (SDC) with HER2 amplification (25-35% of SDC) may respond to HER2-targeted therapy, analogous to HER2+ breast cancer. Multiple retrospective series and prospective studies have demonstrated responses to trastuzumab (anti-HER2 monoclonal antibody) alone or in combination with pertuzumab and/or chemotherapy (e.g., trastuzumab + pertuzumab + docetaxel). This is now a recommended approach in NCCN 2024 for HER2+ salivary malignancies. All SDC should undergo HER2 ISH and AR IHC at diagnosis.",
+          "wrong": {
+            "A": "Cisplatin + 5-FU is the historical standard for head and neck squamous cell carcinoma. SDC is an adenocarcinoma with specific molecular targets (HER2, AR) that should be exploited with targeted therapy rather than generic H&N SCC regimens.",
+            "C": "Pembrolizumab monotherapy has limited activity in unselected SDC. PD-L1 CPS may predict response, but HER2 amplification specifically indicates targeted HER2 therapy as the preferred approach.",
+            "D": "ADT (androgen deprivation therapy) is the therapy for AR-positive SDC (70-90% of SDC are AR+). For HER2-amplified SDC, HER2-targeted therapy is the preferred systemic approach. These are not mutually exclusive — combined AR blockade + HER2-targeted therapy is under investigation."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Salivary Gland Malignancies: Molecular Targeting",
+          "trial": "Fushimi C et al. (ASCO 2020): Trastuzumab + docetaxel in HER2+ salivary duct carcinoma — ORR 70%. Supported HER2 testing as standard practice in SDC.",
+          "pearl": "Salivary duct carcinoma molecular profile: AR+ (70-90%) → androgen deprivation therapy. HER2 amplified (25-35%) → trastuzumab-based therapy. Test ALL SDC for AR by IHC and HER2 by ISH at diagnosis. These molecular targets are the most actionable in salivary gland malignancies.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q6",
+        "stem": "What is the malignancy rate of sublingual gland tumours, and which malignant histotype is most commonly found at this site?",
+        "options": {
+          "A": "20-25%; mucoepidermoid carcinoma",
+          "B": "35-50%; adenoid cystic carcinoma",
+          "C": "70-90%; adenoid cystic carcinoma",
+          "D": "70-90%; mucoepidermoid carcinoma"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The sublingual gland has the highest malignancy rate of any major salivary gland — approximately 70-90% of sublingual gland tumours are malignant. Adenoid cystic carcinoma is the most common malignant tumour at this site, reflecting the general pattern that ACC predominates in minor and deep major salivary glands. Any sublingual mass must be treated with a high index of suspicion for malignancy, and sublingual gland excision with adequate margins is the standard approach.",
+          "wrong": {
+            "A": "20-25% malignancy rate is the parotid gland figure. Sublingual gland has a far higher malignancy rate.",
+            "B": "35-50% malignancy rate is the submandibular gland figure. The histotype (ACC) is correct for sublingual, though.",
+            "D": "70-90% malignancy rate is correct for sublingual gland, but mucoepidermoid carcinoma is more common in the parotid and minor oral salivary glands. ACC predominates at the sublingual and submandibular sites."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Salivary Gland Tumour epidemiology",
+          "trial": "Spiro RH et al. (Am J Surg 1986): Salivary gland tumour patterns — malignancy rates by gland subsite established in large Memorial Sloan Kettering series.",
+          "pearl": "Malignancy rates: Parotid 20-25%, Submandibular 35-50%, Sublingual 70-90%, Minor salivary 50-60%. Any sublingual mass is malignant until proven otherwise. ACC is the dominant malignancy of submandibular and sublingual glands.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q7",
+        "stem": "The main trunk of the facial nerve (CN VII) at the stylomastoid foramen is reliably identified during parotidectomy using which of the following anatomical landmarks?",
+        "options": {
+          "A": "Posterior belly of digastric muscle, tympanomastoid suture, and tragal pointer",
+          "B": "Anterior belly of digastric, tympanomastoid suture, and EAC",
+          "C": "Posterior belly of digastric, retromandibular vein, and SCM",
+          "D": "Mastoid tip, external auditory canal, and SCM"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The facial nerve main trunk (CN VII) at the stylomastoid foramen is identified using three reliable anatomical landmarks: (1) The TRAGAL POINTER — a cartilaginous projection from the tragus pointing anteriorly; CN VII lies approximately 1 cm deep and medial to the tragal pointer. (2) The TYMPANOMASTOID SUTURE — the suture line between the tympanic bone anteriorly and the mastoid bone posteriorly; CN VII emerges from its inferior aspect. (3) The POSTERIOR BELLY OF DIGASTRIC — CN VII passes superficial to the posterior belly of the digastric muscle at the level of the stylomastoid foramen; it can be traced posteriorly along the digastric toward the mastoid where it exits.",
+          "wrong": {
+            "B": "The anterior belly of digastric is in the submental triangle, far from the stylomastoid foramen. EAC is a general landmark but not as specific as the tympanomastoid suture and tragal pointer.",
+            "C": "The retromandibular vein is not a landmark for CN VII identification in parotidectomy. The SCM is a general anatomical reference but not used specifically for CN VII localisation.",
+            "D": "Mastoid tip alone is not sufficient — the tympanomastoid suture is a more precise landmark."
+          },
+          "guideline": "Miloro M et al. Peterson's Principles of OMFS 4th ed (2022) — Parotidectomy technique; Landmarks for facial nerve identification",
+          "trial": "Terris DJ et al. (Otolaryngol HNS 1996): Comparison of facial nerve identification techniques in parotidectomy — tragal pointer, digastric, tympanomastoid suture all validated.",
+          "pearl": "Three landmarks for CN VII in parotidectomy: (1) Tragal pointer — CN VII is 1 cm deep and medial; (2) Tympanomastoid suture — nerve exits at inferior aspect; (3) Posterior belly of digastric — nerve passes superficial at this point. Use all three for confirmation, especially in difficult cases.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q8",
+        "stem": "Carcinoma ex pleomorphic adenoma (CaExPA) arises from malignant transformation of a pre-existing pleomorphic adenoma. Which feature most strongly predicts a favourable prognosis in CaExPA?",
+        "options": {
+          "A": "Age at diagnosis <50 years",
+          "B": "Intracapsular or minimally invasive malignant component (≤1.5 mm beyond capsule)",
+          "C": "Cribriform growth pattern of the malignant component",
+          "D": "Duration of PA >10 years before malignant transformation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The most important prognostic factor in CaExPA is the extent of invasion of the malignant component beyond the capsule of the pre-existing PA. CaExPA is classified as: intracapsular (confined within capsule of PA — best prognosis, near 100% disease-specific survival), minimally invasive (≤1.5 mm beyond capsule — 90%+ 5-year survival), and widely invasive (>1.5 mm invasion — 25-50% 5-year survival with high risk of nodal and distant metastasis). This invasion depth dictates the aggressiveness of treatment (minimal adjuvant therapy for intracapsular/minimally invasive; comprehensive PORT ± neck dissection for widely invasive).",
+          "wrong": {
+            "A": "Age at diagnosis is a general prognostic factor but is not the defining feature for CaExPA prognosis specifically.",
+            "C": "The growth pattern of the malignant component (cribriform, tubular, solid) is relevant for ACC as a subtype within the malignant component, but the invasion extent is the primary CaExPA-specific prognostic factor.",
+            "D": "Duration of PA is not a direct prognostic factor. The lifetime risk of malignant transformation in PA is approximately 1-5% overall, increasing with time, but the prognosis after transformation is determined by invasion depth, not how long the PA existed."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Carcinoma ex pleomorphic adenoma",
+          "trial": "Lewis JE et al. (Cancer 2001): CaExPA — invasion extent as dominant prognostic factor; intracapsular/minimally invasive subgroups have excellent outcomes.",
+          "pearl": "CaExPA prognosis: Intracapsular = near 100% DSS. Minimally invasive (≤1.5 mm) = ~90% DSS. Widely invasive (>1.5 mm) = ~25-50% DSS. The invasion depth must be reported by the pathologist — treatment decisions hinge on this measurement.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q9",
+        "stem": "Warthin tumour has several distinctive clinical and pathological features. Which combination of features is MOST characteristic of Warthin tumour?",
+        "options": {
+          "A": "Young women; solid; T2 hyperintense MRI; aggressive clinical course",
+          "B": "Male smokers; bilateral/multicentric; oncocytic epithelium with lymphoid stroma; Tc-99m pertechnetate scan positive",
+          "C": "Elderly women; unifocal; high recurrence after excision",
+          "D": "Male non-smokers; cystic; high malignant transformation rate (10-20%)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Warthin tumour (papillary cystadenoma lymphomatosum) has characteristic features: (1) Predominantly affects older males with a history of smoking (smoking increases risk 8-fold); (2) Bilateral in 10-15% of cases and multicentric; (3) Histologically: oncocytic columnar epithelium arranged in papillary projections with underlying dense lymphoid stroma (germinal centre formation); (4) Tc-99m pertechnetate scintigraphy shows increased uptake (hot scan) due to the mitochondria-rich oncocytic cells — this is near-pathognomonic for Warthin tumour among parotid masses; (5) On MRI: T1 hyperintense component due to high protein content in the cystic areas.",
+          "wrong": {
+            "A": "Warthin tumour is not common in young women and does not have an aggressive clinical course — it is a benign tumour with essentially no malignant transformation potential.",
+            "C": "Warthin tumour affects predominantly elderly males (not females) and has very low recurrence rates after excision. It is not associated with high recurrence.",
+            "D": "The malignant transformation rate of Warthin tumour is exceptionally low (<0.5%), not 10-20%. It tends to occur in males with a history of smoking."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Warthin Tumour",
+          "trial": "Yu GY et al. (IJOMS 2002): Warthin tumour analysis — bilateral incidence, smoking association, and clinical features.",
+          "pearl": "Warthin tumour mnemonics: Bilateral, Benign, Old men with tobacco history, HOT on Tc-99m scan (oncocytic cells). The 'hot' pertechnetate scan differentiates Warthin from PA (cold scan) and malignancy. Bilateral parotid cystic masses in a male smoker = Warthin tumour until proven otherwise.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q10",
+        "stem": "A 48-year-old woman undergoes total parotidectomy for T2 high-grade mucoepidermoid carcinoma. The facial nerve is preserved. Pathology: R0 resection (closest margin 6 mm), 1 of 22 lymph nodes positive (level IIa, no ENE), no PNI. What is the most appropriate adjuvant treatment?",
+        "options": {
+          "A": "Observation — negative margins, single node, no ENE",
+          "B": "Adjuvant radiation to the primary site and ipsilateral neck (60-63 Gy)",
+          "C": "Concurrent chemoradiation (cisplatin + 66 Gy) — nodal disease mandates chemotherapy",
+          "D": "Adjuvant radiation (60 Gy) + androgen deprivation therapy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "High-grade mucoepidermoid carcinoma with pN1 (single positive node, no ENE) is an intermediate-risk scenario. NCCN 2024 recommends adjuvant radiation for high-grade salivary malignancies regardless of T stage, and for pN1 disease. Adjuvant RT alone (60-63 Gy to primary bed and ipsilateral neck) is appropriate. Concurrent cisplatin is mandated only for positive margins or ENE — neither is present here. Androgen deprivation is specific to AR-positive salivary duct carcinoma, not mucoepidermoid carcinoma.",
+          "wrong": {
+            "A": "Observation is inappropriate for high-grade mucoepidermoid carcinoma with nodal involvement. High-grade histology is itself an indication for adjuvant radiation in salivary gland malignancies.",
+            "C": "Concurrent cisplatin is not mandated without positive margins or ENE. For salivary gland malignancies, chemoradiation evidence is weaker than for HNSCC; radiation alone is standard for intermediate-risk cases.",
+            "D": "ADT is for AR-positive salivary duct carcinoma, not mucoepidermoid carcinoma. Mucoepidermoid carcinoma does not typically express AR."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Salivary Gland Cancer Adjuvant Treatment Principles",
+          "trial": "Chen AM et al. (Cancer 2007): Adjuvant radiation in salivary gland malignancies — high-grade histology and nodal involvement are independent indications for PORT.",
+          "pearl": "Salivary gland malignancy PORT indications: T3-T4 any grade; high-grade histology any T stage; positive/close margins; PNI; LVI; nodal metastasis. Chemoradiation (cisplatin + RT) only for positive margins or pENE — same two indications as HNSCC.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q11",
+        "stem": "Adenoid cystic carcinoma is known for a distinctive pattern of distant metastasis. Which distant site is most commonly affected, and what is the typical clinical behaviour of these metastases?",
+        "options": {
+          "A": "Bone; aggressive and rapidly fatal",
+          "B": "Brain; aggressive with poor prognosis",
+          "C": "Lung; often indolent with prolonged survival despite metastatic disease",
+          "D": "Liver; responds well to systemic chemotherapy"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The lung is by far the most common site of distant metastasis in adenoid cystic carcinoma (70-90% of metastatic cases). Pulmonary metastases from ACC are characteristically indolent: they may be multiple small nodules present for 5-10 years before causing symptoms. This indolent behaviour means that patients with pulmonary metastases from ACC may have prolonged survival (5-10 years) without aggressive systemic therapy. Close surveillance (annual CT chest) is appropriate; intervention (metastasectomy or systemic therapy) is reserved for symptomatic or rapidly progressive disease.",
+          "wrong": {
+            "A": "Bone metastases occur in ACC but are less common than pulmonary metastases. Bone metastases are more aggressive than pulmonary metastases in ACC.",
+            "B": "Brain metastases from ACC are rare. Brain is not the dominant site of distant spread.",
+            "D": "Liver metastases from ACC are uncommon. ACC generally responds poorly to standard systemic chemotherapy."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Adenoid Cystic Carcinoma Biology and Metastatic Patterns",
+          "trial": "Spiro RH. (Am J Surg 1997): ACC natural history — pulmonary metastases as the dominant distant failure pattern with characteristically indolent course.",
+          "pearl": "ACC metastatic pattern: Lung >bone >liver. Pulmonary metastases are often small, multiple, and slow-growing over years. Patients may survive 5-10 years with known pulmonary metastases. Annual CT chest surveillance is mandatory in ACC follow-up. This indolent behaviour is unique to ACC among head and neck carcinomas.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q12",
+        "stem": "What is the House-Brackmann grading system used for, and which grade indicates complete paralysis?",
+        "options": {
+          "A": "Grading severity of temporomandibular joint dysfunction; Grade VI = severe dysfunction",
+          "B": "Grading facial nerve function post-parotidectomy; Grade VI = complete paralysis",
+          "C": "Grading parotid tumour malignancy; Grade VI = undifferentiated carcinoma",
+          "D": "Grading post-parotidectomy Frey syndrome severity; Grade VI = severe hyperhidrosis"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The House-Brackmann (H-B) scale is the standard grading system for facial nerve function: Grade I = normal; Grade II = slight dysfunction (minimal weakness noticeable on close inspection, complete closure with minimal effort); Grade III = moderate dysfunction (obvious weakness, incomplete closure with maximal effort possible); Grade IV = moderately severe (obvious weakness, unable to close eye with maximal effort); Grade V = severe (barely perceptible motion, incomplete closure); Grade VI = total paralysis. This scale is used to document baseline and post-operative facial nerve function after parotidectomy and other facial nerve surgery.",
+          "wrong": {
+            "A": "House-Brackmann is specifically for facial nerve function, not TMJ dysfunction.",
+            "C": "House-Brackmann does not grade tumour malignancy — that is the role of WHO/grade systems.",
+            "D": "Frey syndrome has separate severity scoring systems but not House-Brackmann."
+          },
+          "guideline": "House JW, Brackmann DE (Otolaryngol HNS 1985): Original House-Brackmann facial nerve grading scale publication",
+          "trial": "Standard clinical tool adopted by the American Academy of Otolaryngology–Head and Neck Surgery (AAO-HNS) as the reference scale for facial nerve documentation.",
+          "pearl": "House-Brackmann: Grade I = normal; Grade VI = complete paralysis. Grade II-III = mild-moderate (usually recovers fully). Grade IV-V = significant (may recover with time or need intervention). Grade VI = immediate nerve graft consideration if nerve was sacrificed. Always document H-B grade pre- and post-operatively.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q13",
+        "stem": "A 38-year-old woman is referred with a 2 cm submandibular mass and 3 months of pain. FNAC shows pleomorphic adenoma. Submandibular gland excision is planned. Which complication is most feared and specific to submandibular gland surgery compared to parotid surgery?",
+        "options": {
+          "A": "Greater auricular nerve anaesthesia",
+          "B": "Frey syndrome",
+          "C": "Marginal mandibular branch of CN VII palsy",
+          "D": "Wound haematoma"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Marginal mandibular nerve (MMN) palsy is the most feared nerve injury specific to submandibular gland excision. The MMN runs along the inferior border of the mandible deep to the platysma, and may dip 1-2 cm below the inferior border in its anterior course. If injured, patients develop ipsilateral lower lip drooping (depressor anguli oris and depressor labii inferioris weakness), causing an asymmetric smile that is cosmetically significant. The facial vein is used as a landmark — the MMN runs superficial to the facial vein and can be retracted superiorly with the vein.",
+          "wrong": {
+            "A": "Greater auricular nerve anaesthesia is a complication of parotidectomy (the nerve is divided during skin flap elevation). It is NOT relevant to submandibular gland surgery.",
+            "B": "Frey syndrome is a complication of parotidectomy (auriculotemporal nerve). It does not occur after submandibular gland excision.",
+            "D": "Wound haematoma is a general surgical risk, not specific to submandibular surgery vs parotid surgery."
+          },
+          "guideline": "Miloro M et al. Peterson's Principles of OMFS 4th ed (2022) — Submandibular Gland Excision: Complications",
+          "trial": "Standard surgical teaching: MMN injury rate in submandibular gland excision is 5-10% (transient) in published series, with permanent injury <1% with meticulous technique.",
+          "pearl": "Submandibular gland excision key nerves: (1) Marginal mandibular CN VII — most feared; (2) Lingual nerve — sensory + taste loss if injured; (3) Hypoglossal CN XII — tongue paralysis if injured. The facial vein is ligated during dissection but the MMN running superficial to it must be preserved.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q14",
+        "stem": "A 55-year-old man has a left parotid mass that has been present for 12 years, previously stable. Over the last 3 months it has grown rapidly, now 5 cm, and he has developed left facial pain and a left marginal mandibular nerve weakness. What is the most likely diagnosis?",
+        "options": {
+          "A": "Pleomorphic adenoma with rapid benign growth — common after many years",
+          "B": "Warthin tumour with bilateral involvement",
+          "C": "Carcinoma ex pleomorphic adenoma — malignant transformation of a long-standing PA",
+          "D": "High-grade mucoepidermoid carcinoma — new primary unrelated to previous mass"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The classic presentation of carcinoma ex pleomorphic adenoma (CaExPA) is a long-standing parotid mass (>10 years) that suddenly undergoes rapid growth combined with facial pain and facial nerve weakness. Malignant transformation of PA into CaExPA occurs in approximately 1-5% of cases over a lifetime, with risk increasing with tumour duration (>10 years significantly increases risk). Facial nerve involvement (paresis) is a hallmark of malignancy in the parotid. Pain in a previously painless parotid mass is another malignant warning sign.",
+          "wrong": {
+            "A": "Rapid growth in a long-standing PA is a malignant warning sign, not a feature of benign growth. Benign PA grows slowly.",
+            "B": "Warthin tumour does not cause facial nerve palsy or pain, and would not grow to 5 cm rapidly after years of stability.",
+            "D": "While a new primary high-grade mucoepidermoid carcinoma is possible, the clinical history of a 12-year-old parotid mass with sudden growth acceleration and facial nerve involvement is the textbook presentation of CaExPA."
+          },
+          "guideline": "Barnes L et al. WHO 5th ed (2022) — CaExPA; NCCN Head and Neck Cancers v1.2024",
+          "trial": "Gnepp DR (Cancer 1993): CaExPA — the clinical warning signs of rapid growth + facial pain + facial nerve involvement in long-standing PA form the classic triad.",
+          "pearl": "CaExPA warning signs: SUDDEN growth acceleration in a long-standing PA; facial PAIN (new); facial NERVE palsy. Any of these in a previously stable parotid mass = malignant transformation until proven otherwise. Time to biopsy.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q15",
+        "stem": "The histological hallmark of mucoepidermoid carcinoma is the presence of which three cell types?",
+        "options": {
+          "A": "Oncocytic cells, lymphocytes, and myoepithelial cells",
+          "B": "Mucous cells, epidermoid (squamoid) cells, and intermediate cells",
+          "C": "Acinar cells, ductal cells, and clear cells",
+          "D": "Basaloid cells, cribriform cells, and tubular cells"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Mucoepidermoid carcinoma (MEC) is defined by the presence of three cell populations: (1) Mucous cells (mucin-secreting goblet-type cells, PAS-positive); (2) Epidermoid (squamoid) cells (resembling squamous epithelium, with intercellular bridges but without keratinisation in low-grade MEC); (3) Intermediate cells (between mucous and epidermoid; progenitor-like). Low-grade MEC has abundant mucous cells with a cystic architecture; high-grade MEC is predominantly solid with epidermoid and intermediate cells and minimal mucous cells — can mimic squamous cell carcinoma histologically.",
+          "wrong": {
+            "A": "Oncocytic cells + lymphocytes = Warthin tumour. Myoepithelial cells are prominent in pleomorphic adenoma and myoepithelioma.",
+            "C": "Acinar cells + ductal cells + clear cells = acinic cell carcinoma.",
+            "D": "Basaloid + cribriform + tubular = adenoid cystic carcinoma histological patterns."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Mucoepidermoid Carcinoma",
+          "trial": "Standard pathology teaching: MEC diagnostic criteria — mucous, epidermoid, and intermediate cells as defined in the WHO classification.",
+          "pearl": "MEC diagnostic triad: Mucous cells + Epidermoid cells + Intermediate cells. Low-grade = mainly mucous + cystic. High-grade = mainly epidermoid + solid. Grade determines prognosis dramatically: 10-year OS 90%+ (low) vs 50% (high). Grade is determined by predominant cell type, cystic vs solid ratio, and mitotic activity.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q16",
+        "stem": "What is the most important surgical principle distinguishing a correct extracapsular dissection (ECD) from an incorrect enucleation when managing a suspected pleomorphic adenoma?",
+        "options": {
+          "A": "ECD uses diathermy rather than sharp dissection",
+          "B": "ECD includes removal of the entire superficial parotid lobe along with the tumour",
+          "C": "ECD dissects along the surface of the tumour capsule, maintaining a small cuff of normal tissue around the mass without formal parotidectomy",
+          "D": "ECD involves intraoperative frozen section of the capsule to confirm benign histology"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Extracapsular dissection (ECD) is a technique that dissects just outside the tumour capsule, maintaining visual integrity of the capsule surface and including a minimal but consistent rim of normal parotid tissue around the tumour. Unlike enucleation (which grasps the tumour and tears it from the parotid without a tissue cuff, frequently violating the capsule), ECD preserves capsular integrity and provides a minimal margin. Some series report ECD results comparable to superficial parotidectomy for small (<3 cm) PA, with lower rates of Frey syndrome and sensory loss, but it requires experienced surgeons and careful patient selection.",
+          "wrong": {
+            "A": "The use of diathermy vs sharp dissection is a technical detail, not the distinguishing principle of ECD vs enucleation.",
+            "B": "ECD does NOT include removal of the entire superficial parotid lobe — that describes a superficial parotidectomy. ECD is a more limited procedure.",
+            "D": "Frozen section of the capsule is not a defining feature of ECD. Clinical and imaging assessment guides the decision to perform ECD vs parotidectomy."
+          },
+          "guideline": "McGurk M et al. (Br J Surg 2003): ECD vs superficial parotidectomy for PA — technique comparison",
+          "trial": "McGurk M et al. (Br J Surg 2003): Prospective comparison of ECD vs superficial parotidectomy — comparable recurrence rates in experienced hands for small PA, with less Frey syndrome in ECD group.",
+          "pearl": "ECD principle: dissect along the tumour surface, maintaining a thin cuff of normal tissue. It preserves capsular integrity (unlike enucleation which violates the capsule). ECD is appropriate only in experienced hands for small (<3 cm), superficially located PA in centres where it is routine practice.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A3-Q17",
+        "stem": "A 52-year-old man presents with a 1.5 cm submandibular mass. Ultrasound-guided FNAC shows features consistent with adenoid cystic carcinoma. CT and MRI show no neck nodes and no distant disease. What surgical procedure is indicated?",
+        "options": {
+          "A": "Incisional biopsy under local anaesthesia for definitive diagnosis",
+          "B": "Submandibular gland excision alone — neck dissection not needed for ACC",
+          "C": "Submandibular gland excision + ipsilateral selective neck dissection levels I-IV",
+          "D": "Systemic therapy first — ACC is typically systemic at diagnosis"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Submandibular gland excision with ipsilateral elective selective neck dissection (levels I-IV) is appropriate for malignant submandibular gland tumours, including ACC. Although ACC has a lower rate of cervical nodal metastasis than squamous cell carcinoma (~15-25%), elective neck dissection is recommended for T2+ malignant submandibular tumours by NCCN and EACMFS. The neck dissection provides staging information (pN0 vs pN+) that guides adjuvant therapy decisions and provides regional control. Levels I-IV are dissected for submandibular primary tumours.",
+          "wrong": {
+            "A": "FNAC is already positive for ACC — incisional biopsy is not needed and risks implantation. Definitive surgical excision is the appropriate next step.",
+            "B": "Submandibular gland excision alone without neck dissection is inadequate for malignant submandibular tumours. Elective neck dissection is recommended due to the nodal metastasis risk (15-25% for ACC) and the staging/prognostic information it provides.",
+            "D": "ACC is not typically systemic at diagnosis. Over 60% of cases present with localised disease. Primary surgical treatment followed by PORT is the standard approach for resectable ACC."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Salivary Gland Malignancies: Surgical Principles",
+          "trial": "Parsons JT et al. (IJOMS 1996): Submandibular ACC — neck dissection staging and adjuvant radiation recommendation.",
+          "pearl": "Malignant submandibular gland tumours: submandibular gland excision + SND levels I-IV ipsilateral. PORT to primary site and neck in most cases. If PNI involving the lingual nerve: extend field to foramen ovale. If lingual nerve invasion, consider sacrifice of the involved nerve segment for R0 margins.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q18",
+        "stem": "Which salivary gland histotype is characterised by MYOEPITHELIAL cells in both the epithelial and stromal components, the histological hallmark of which is a 'chondromyxoid stroma' on H&E?",
+        "options": {
+          "A": "Mucoepidermoid carcinoma",
+          "B": "Pleomorphic adenoma",
+          "C": "Acinic cell carcinoma",
+          "D": "Adenoid cystic carcinoma"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Pleomorphic adenoma (PA) is characterised pathologically by a dual population of epithelial and myoepithelial cells embedded in a chondromyxoid stromal matrix. The myoepithelial cells can differentiate into squamous, mucinous, or cartilaginous elements — hence 'pleomorphic' (many forms). The chondromyxoid (cartilaginous/myxoid) stroma with embedded epithelial cell nests is pathognomonic for PA. Pseudopod extensions of the tumour through the capsule into adjacent parotid tissue are the histological basis for the recurrence risk with enucleation.",
+          "wrong": {
+            "A": "Mucoepidermoid carcinoma has mucous, epidermoid, and intermediate cells — NOT myoepithelial cells or chondromyxoid stroma.",
+            "C": "Acinic cell carcinoma shows acinar differentiation (cytoplasmic zymogen-like granules), not myoepithelial cells.",
+            "D": "Adenoid cystic carcinoma has epithelial cells and myoepithelial cells in cribriform/tubular/solid patterns around perineural and basement membrane material — NOT chondromyxoid stroma."
+          },
+          "guideline": "Barnes L et al. WHO 5th ed (2022) — Pleomorphic Adenoma histopathology",
+          "trial": "Standard histopathological teaching: PA = ductal epithelial + myoepithelial cells + chondromyxoid stroma. This combination is unique to PA among salivary gland tumours.",
+          "pearl": "Pleomorphic adenoma histological triad: Ductal epithelial cells + Myoepithelial cells + Chondromyxoid stroma. The pseudopod extensions beyond the capsule (not visible grossly) are why enucleation leaves tumour behind. Formal parotidectomy captures these extensions.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q19",
+        "stem": "A patient undergoing parotidectomy develops significant haemorrhage from the retromandibular vein during deep lobe dissection. The bleeding is controlled. Postoperatively, the patient develops a first bite syndrome. Which nerve injury is responsible for first bite syndrome?",
+        "options": {
+          "A": "Greater auricular nerve — sensory denervation of earlobe",
+          "B": "Auriculotemporal nerve parasympathetic fibres — misdirected reinnervation",
+          "C": "Sympathetic nerves to the parotid — denervation supersensitivity of myoepithelial cells",
+          "D": "Facial nerve main trunk — motor denervation of parotid bed"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "First bite syndrome is caused by SYMPATHETIC denervation of the parotid gland/parapharyngeal space. The sympathetic supply to the parotid comes from the superior cervical ganglion via perivascular fibres on the external carotid artery. When these sympathetic fibres are interrupted during deep lobe parotidectomy or parapharyngeal space dissection, the myoepithelial cells surrounding the residual acini lose their sympathetic tone and become supersensitive. On the first bite of each meal, the unopposed parasympathetic stimulus causes maximal acinar and myoepithelial cell contraction, perceived as severe pain. Subsequent bites cause less pain as the gland exhausts its secretory capacity.",
+          "wrong": {
+            "A": "Greater auricular nerve injury causes earlobe hypoaesthesia, not first bite syndrome. These are completely different complications.",
+            "B": "Auriculotemporal nerve parasympathetic misdirection causes FREY SYNDROME (gustatory sweating), not first bite syndrome.",
+            "D": "Facial nerve injury causes motor dysfunction. It does not cause first bite syndrome."
+          },
+          "guideline": "Netterville JL et al. (Arch Otolaryngol HNS 1998): First bite syndrome — mechanism of sympathetic denervation supersensitivity",
+          "trial": "Ali MJ et al. (Head Neck 2011): First bite syndrome after parapharyngeal space dissection — characterisation of mechanism and treatment with BTX-A.",
+          "pearl": "First bite syndrome mechanism: sympathetic denervation of parotid myoepithelial cells → denervation supersensitivity → first gustatory stimulus causes maximal myoepithelial contraction → severe pain. Treatment: BTX-A injection, spontaneous improvement over months. Distinguish from Frey syndrome (parasympathetic misdirection → sweating, not pain).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A3-Q20",
+        "stem": "A 40-year-old woman presents with a 1 cm left parotid mass confirmed to be pleomorphic adenoma on MRI. She asks about the risk of recurrence after superficial parotidectomy compared with simple enucleation. Which statement most accurately represents the evidence?",
+        "options": {
+          "A": "Enucleation and parotidectomy have equal recurrence rates (~2-3%) — patient preference should decide",
+          "B": "Superficial parotidectomy has approximately 2-4% recurrence; enucleation has 20-45% recurrence due to pseudopod extensions",
+          "C": "Superficial parotidectomy has approximately 15% recurrence; enucleation has 40-50% recurrence",
+          "D": "Both procedures have similar recurrence rates because MRI can identify all pseudopod extensions"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Superficial parotidectomy provides recurrence rates of approximately 2-4% for pleomorphic adenoma over 10-year follow-up. Enucleation/simple excision carries recurrence rates of 20-45% because the pseudopod extensions of PA extend beyond the visible tumour capsule and cannot be reliably captured without a tissue cuff. MRI resolution is insufficient to identify all pseudopod extensions (which may be <1 mm). This evidence is why formal parotidectomy is the universal standard for PA management.",
+          "wrong": {
+            "A": "Equal recurrence rates is factually incorrect. The evidence clearly demonstrates dramatically higher recurrence rates with enucleation.",
+            "C": "Superficial parotidectomy recurrence of 15% is overstated — experienced hands achieve ~2-4%. Enucleation 40-50% is at the higher end of reported ranges but plausible.",
+            "D": "MRI cannot identify all pseudopod extensions — this is precisely why enucleation fails. Pseudopods can be <1 mm and beyond current imaging resolution."
+          },
+          "guideline": "Speight PM, Barrett AW (Ann R Coll Surg Engl 2002): Salivary gland tumours review — recurrence rates by procedure; EACMFS 2023",
+          "trial": "Witt RL et al. (Laryngoscope 2012): Recurrent pleomorphic adenoma — primary prevention through formal parotidectomy with documented recurrence rate comparison (enucleation 20-45% vs parotidectomy 2-4%).",
+          "pearl": "PA recurrence: Enucleation 20-45%, Superficial parotidectomy 2-4%. The pseudopod extensions are the biological basis for this difference. Recurrent PA is a surgical nightmare — re-operation has a much higher facial nerve injury rate (10-20% permanent palsy vs 1-2% for primary parotidectomy). Prevent recurrence by doing the correct operation first time.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

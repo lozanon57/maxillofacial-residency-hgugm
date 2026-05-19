@@ -1,0 +1,664 @@
+{
+  "id": "A5",
+  "title": "Mandibular Reconstruction",
+  "subtitle": "Block A — Head & Neck Oncology: Free Flaps, Virtual Planning, and Rehabilitation",
+  "block": "A",
+  "block_name": "Head & Neck Oncology",
+  "level": "R3-5",
+  "reading_time_min": 45,
+  "guidelines_version": "EACMFS Reconstruction Guidelines 2023 · AAOMS 2023 · NCCN Head and Neck Cancers 2024",
+  "textbook_refs": [
+    "Urken ML et al. Atlas of Regional and Free Flaps for Head and Neck Reconstruction, 2nd ed. (Lippincott 2012)",
+    "Hidalgo DA. Fibula Free Flap: A New Method of Mandible Reconstruction (Plast Reconstr Surg 1989)",
+    "Brown JS et al. Classification of Mandibulectomy Defects (Head Neck 2016)",
+    "Roser SM et al. The Accuracy of Virtual Surgical Planning in Free Fibula Mandibular Reconstruction (J Oral Maxillofac Surg 2010)",
+    "Shen Y et al. Virtual Surgical Planning and CAD/CAM Splints in Fibula Free Flap Reconstruction (Oral Oncol 2020)"
+  ],
+  "learning_objectives": [
+    "Apply the Brown classification of mandibulectomy defects to guide reconstructive decision-making",
+    "Describe the anatomy of the fibula free flap (FFF) including vascular pedicle, osteotomy planning, and soft tissue components",
+    "Explain the role of virtual surgical planning (VSP) and CAD/CAM cutting guides in achieving accurate mandibular reconstruction",
+    "Compare free flap options for mandibular reconstruction (fibula, DCIA, scapula, radial forearm) and select the appropriate flap based on defect type",
+    "Recognise and manage early and late complications of microvascular mandibular reconstruction including flap failure, hardware exposure, and osteoradionecrosis"
+  ],
+  "sections": [
+    {
+      "id": "A5-S1",
+      "title": "Classification of Mandibulectomy Defects",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Systematic classification of mandibulectomy defects is essential for planning reconstruction and for comparing outcomes across centres. The **Brown and Shaw classification** (2010, updated 2016) is the most widely used system in oral and maxillofacial surgery. It describes defects along two dimensions: the vertical extent of bone loss (classes I–IV) and the presence and extent of soft tissue deficiency (classes a–e). **Class I** defects spare the continuity of the mandible and include marginal (alveolar) resections. **Class II** defects involve hemi-mandibulectomy without resection of the chin point (condyle to contralateral canine region); **Class III** defects include the chin point (across the midline). **Class IV** defects involve condylectomy (with or without disarticulation). The soft tissue component is classified as: 'a' = no soft tissue defect; 'b' = oral mucosa only; 'c' = facial skin only; 'd' = both oral mucosa and facial skin; 'e' = through-and-through defect (skin + mucosa). The most functionally and aesthetically challenging defects are those involving the chin region (class III), as they result in 'Andy Gump' deformity — loss of mandibular symphysis with inferior lip ptosis, oral incompetence, and drooling."
+        },
+        {
+          "type": "table",
+          "title": "Brown Classification of Mandibulectomy Defects",
+          "headers": ["Class", "Bone Defect", "Key Landmark", "Reconstructive Priority"],
+          "rows": [
+            ["I", "Marginal/alveolar — continuity maintained", "No symphysis or condyle loss", "Dental implants; no bone flap needed"],
+            ["II", "Hemi-mandibulectomy — condyle intact; chin preserved", "Up to contralateral canine", "Fibula FFF (2–3 osteotomies); preserve condyle"],
+            ["III", "Includes symphysis/chin point", "Crosses midline", "Fibula FFF (3–4 osteotomies); critical for facial contour"],
+            ["IV", "Condylectomy/disarticulation", "Includes condyle", "FFF + condylar reconstruction; total joint prosthesis"],
+            ["a", "No soft tissue", "Bone only", "Osseous flap only"],
+            ["b", "Oral mucosa defect", "Mucosal lining needed", "Skin paddle from FFF or RFFF for lining"],
+            ["c", "Facial skin defect", "External cover needed", "FFF + second skin paddle for external cover"],
+            ["d", "Oral + facial skin", "Both surfaces needed", "FFF + double skin paddle; chimeric flap"],
+            ["e", "Through-and-through", "Full-thickness cheek", "FFF + folded/chimeric flap; complex reconstruction"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Andy Gump Deformity",
+          "content": "Class III mandibulectomy (including symphysis) without reconstruction causes 'Andy Gump' deformity: retraction of lower face, ptosis of the lower lip, oral incompetence, drooling, and severe speech and swallowing impairment. Reconstruction with a multi-segment fibula free flap using 3–4 osteotomies and CAD/CAM-guided planning is the gold standard to prevent this outcome."
+        }
+      ]
+    },
+    {
+      "id": "A5-S2",
+      "title": "Fibula Free Flap — Anatomy and Flap Design",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **fibula free flap (FFF)** was first described for mandibular reconstruction by David Hidalgo in 1989 (Plast Reconstr Surg) and has become the gold standard donor site for most mandibular defects. The fibula is a non-weight-bearing bone with a length of 22–27 cm, providing sufficient bone stock for even the most extensive hemimandibulectomy or symphyseal defects requiring 4 osteotomies. Its primary blood supply is the **peroneal (fibular) artery**, which enters the bone via periosteal perforators approximately at the middle third, and provides a long pedicle (6–8 cm) of adequate calibre (peroneal artery 2–2.5 mm, venae comitantes 2–4 mm). The skin paddle overlying the lateral lower leg is supplied by septocutaneous or musculocutaneous perforators from the peroneal artery, and can be harvested as a composite (osteocutaneous) flap when mucosal or skin lining is needed. The typical skin paddle measures 7 × 15 cm. Crucially, a **minimum 6 cm segment** must be left at the distal fibula to protect the ankle mortice. The **proximal fibular neck** must also be preserved to protect the common peroneal nerve (which wraps around the fibular neck). Preoperative planning must include assessment of lower limb vascular anatomy — the **triple-vessel runoff** (anterior tibial, posterior tibial, and peroneal arteries) must be confirmed. If the peroneal artery is the dominant vessel to the foot (absent posterior tibial, i.e., peronea magna), FFF harvest from that leg is contraindicated."
+        },
+        {
+          "type": "table",
+          "title": "Fibula Free Flap — Key Anatomical Parameters",
+          "headers": ["Parameter", "Detail", "Clinical Relevance"],
+          "rows": [
+            ["Pedicle artery", "Peroneal (fibular) artery", "Pedicle length 6–8 cm; diameter 2–2.5 mm"],
+            ["Venous drainage", "Venae comitantes (2) → peroneal vein", "Diameter 2–4 mm; good for anastomosis"],
+            ["Bone length available", "22–27 cm (usable ~14–18 cm)", "Preserves 6 cm distally + proximal neck"],
+            ["Skin paddle blood supply", "Septocutaneous / musculocutaneous perforators", "Preop perforator mapping with Doppler"],
+            ["Muscle component", "Flexor hallucis longus (optional)", "Provides bulk for dead space; increases pedicle length"],
+            ["Contraindications", "Peronea magna; severe PVD; prior fibula trauma", "Must confirm triple-vessel runoff preoperatively"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Peronea Magna",
+          "content": "Peronea magna (dominant peroneal artery with absent or hypoplastic posterior tibial artery to the foot) is present in approximately 5% of patients. Harvesting the FFF in this setting results in foot ischaemia. Always perform CTA or MRA of the lower extremity arteries before fibula harvest to exclude this anatomical variant. Doppler examination alone is insufficient."
+        }
+      ]
+    },
+    {
+      "id": "A5-S3",
+      "title": "Virtual Surgical Planning and CAD/CAM Cutting Guides",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Virtual surgical planning (VSP) has transformed the accuracy and reproducibility of fibula free flap mandibular reconstruction. VSP involves: (1) high-resolution CT scanning of the mandible/defect and the fibula, (2) digital segmentation of both bone models, (3) 3D simulation of the mandibulectomy and osteotomy plan in surgical planning software (Materialise ProPlan CMF, DeltaMed, or similar), (4) design of patient-specific cutting guides (jigs) and positioning plates using CAD/CAM technology, and (5) manufacture of titanium cutting guides and custom reconstruction plates. The cutting guides are applied intraoperatively to ensure precise osteotomies at the planned positions with the planned angles, while the custom titanium plate pre-bends to the digital reconstruction model. Roser et al. (J Oral Maxillofac Surg 2010) demonstrated that VSP with CAD/CAM splints significantly improved accuracy of fibula segment positioning compared to conventional model surgery. Shen et al. (Oral Oncol 2020) showed that VSP reduced operating time by a mean of 85 minutes in complex fibula reconstructions. The principal benefits of VSP over conventional model surgery are: (a) simultaneous (rather than sequential) resection and fibula harvest, since the cutting guides allow parallel preparation by two teams; (b) greater accuracy of osteotomy angles for curved jaw segments; (c) more precise occlusal relationship when primary dental rehabilitation is planned; (d) custom plate fabrication eliminates intraoperative plate bending, reducing risk of contamination and fatigue failure. Primary implant placement at time of reconstruction is increasingly performed in tumour-free patients, with guide sleeves incorporated into the cutting guide design."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — When to Use VSP",
+          "content": "VSP is most valuable for: (1) Class III defects (symphyseal — 3–4 osteotomies required); (2) cases with planned primary implant placement; (3) condylar reconstruction requiring precise condylar positioning; (4) bilateral mandibulectomy. For simple Class II defects (2 osteotomies, no chin involvement), conventional techniques with model surgery may be equally accurate and more cost-effective. The additional cost of VSP ($3,000–8,000 per case) is offset by reduced operative time and improved accuracy in complex cases."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — VSP Accuracy Data",
+          "content": "VSP + CAD/CAM reduces mean positional error of fibula segments to < 2 mm compared to 4–8 mm with conventional model surgery. Mean OR time reduction of 85 minutes in complex cases (Shen et al., Oral Oncol 2020). Allows simultaneous two-team approach: ablative team + reconstructive team work in parallel, not sequentially."
+        }
+      ]
+    },
+    {
+      "id": "A5-S4",
+      "title": "Alternative Free Flaps for Mandibular Reconstruction",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "While the fibula free flap (FFF) is the gold standard for most mandibular reconstructions, alternative donor sites are valuable in specific clinical scenarios. The **deep circumflex iliac artery (DCIA) flap** (iliac crest free flap) provides the largest cross-sectional cortical bone stock of any free flap, closely matching the height of a native molar-bearing mandible without needing vertical distraction. The pedicle arises from the external iliac artery 1–2 cm above the inguinal ligament. The disadvantage is limited pedicle length (3–5 cm), restricted ability to create multiple osteotomies due to dense cortical bone, and significant donor site morbidity (hernia 5–15%, gait disturbance). It is particularly suited for Class II defects requiring large cross-sectional height for immediate implant placement without vertical distraction. The **scapula free flap** (lateral border of scapula, subscapular system) provides excellent soft tissue volume from the serratus branch and thoracodorsal branch, making it ideal for complex 3D defects with significant soft tissue and bone loss (class II–IIId/e). The subscapular system allows multiple composite components (scapular tip, lateral border, parascapular fasciocutaneous flap, latissimus dorsi muscle) on a single vascular pedicle — a 'chimeric' flap. Its main limitation is that the patient must be repositioned from lateral decubitus during harvest, precluding a two-team simultaneous approach. The **radial forearm free flap (RFFF)** is the workhorse for **soft tissue only** reconstruction or for small anterior arch bone defects. The radius provides approximately 10 cm of bone but limited cross-sectional height and high risk of donor site radius fracture (10–25%). For large mandibular defects, RFFF is insufficient and not recommended."
+        },
+        {
+          "type": "table",
+          "title": "Free Flap Options for Mandibular Reconstruction — Comparison",
+          "headers": ["Flap", "Bone Available", "Soft Tissue", "Pedicle Length", "Best For", "Key Limitation"],
+          "rows": [
+            ["Fibula (FFF)", "14–18 cm, multiple osteotomies", "Septocutaneous paddle up to 7×15 cm", "6–8 cm", "All Classes; gold standard", "Low height (12–14 mm); may need distraction for implants"],
+            ["DCIA (iliac crest)", "Large cross-section; 6–10 cm", "Limited internal oblique only", "3–5 cm", "Class II; large cross-section for implants", "Limited osteotomies; pedicle length; donor hernia"],
+            ["Scapula", "Lateral border 10–14 cm", "Excellent: chimeric with LD and serratus", "6–10 cm", "Complex 3D defects IId/e; poor vessels elsewhere", "No simultaneous 2-team; patient repositioning"],
+            ["RFFF (osteocutaneous)", "Radius up to 10 cm", "Excellent thin pliable skin", "15–20 cm", "Anterior small defects; soft tissue lining", "Fracture risk 10–25%; limited bone height"],
+            ["Vascularised fibula + DO", "Fibula + vertical distraction", "Skin paddle available", "6–8 cm", "Class II/III with implant rehabilitation", "Two-stage procedure; compliance required"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Flap Selection Algorithm",
+          "content": "Fibula FFF first choice for >90% of mandibular reconstructions. Choose DCIA when large cross-sectional bone height is needed for immediate implant placement in posterior mandible. Choose scapula for complex 3D defects with massive soft tissue loss (through-and-through, class IId/e) especially when fibula vessels are unsuitable. RFFF bone = rarely used for mandibular reconstruction due to fracture risk."
+        }
+      ]
+    },
+    {
+      "id": "A5-S5",
+      "title": "Microvascular Anastomosis and Flap Monitoring",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The success of free flap mandibular reconstruction depends critically on microvascular anastomosis technique and postoperative monitoring. Standard recipient vessels in the neck are the facial artery (end-to-end with peroneal artery) or the superior thyroid artery (end-to-end), and the internal or external jugular vein (end-to-side or end-to-end with the venae comitantes or a drainage vein). When standard recipient vessels are unavailable (prior neck dissection, radiation, previous flap), alternatives include: transverse cervical artery, lingual artery, or contralateral vessels with vein extension graft. The venous anastomosis is the more critical of the two — venous thrombosis accounts for the majority of flap failures (60% venous vs 20% arterial). Routine anticoagulation protocols vary by centre but typically include aspirin (75 mg daily) and low-molecular-weight heparin for 5–7 days. Clinical monitoring of the skin paddle is the standard method: colour, capillary refill, turgor, and temperature every 1–2 hours for the first 48 hours, then every 4 hours to 5 days. A pale, cool, non-bleeding paddle suggests arterial failure; a dusky, congested, rapidly bleeding paddle suggests venous thrombosis. The **implantable Doppler probe** (Cook-Swartz device) provides continuous auditory signal from the anastomosis or skin paddle perforator, improving detection time for thrombosis from several hours to minutes. Early return to theatre (within 2–4 hours of detected failure) achieves salvage rates of 40–60%. Beyond 8 hours, salvage rates fall to <10%."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Venous Thrombosis vs Arterial Occlusion",
+          "content": "Venous thrombosis (flap congestion): dusky/purple colour, rapid brisk bleeding on pinprick, increased turgor. Arterial occlusion: pale/white colour, no capillary refill, no bleeding on pinprick. Misidentifying venous thrombosis as arterial occlusion will delay surgical exploration. When in doubt, return to theatre immediately — the difference between a salvaged and a failed flap is time."
+        }
+      ]
+    },
+    {
+      "id": "A5-S6",
+      "title": "Complications and Secondary Procedures",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Complications of fibula free flap mandibular reconstruction are classified by timing and anatomical site. **Flap failure** occurs in 2–5% of cases at experienced centres. Early failure (<72 hours, usually thrombotic) requires immediate surgical re-exploration; late failure (>72 hours) has a lower salvage rate and may require secondary reconstruction with a different flap. **Plate exposure** is the most common late complication (10–20% at 5 years), presenting as pain and mucosa breakdown over titanium plates. Contributing factors include: tight mucosal closure under tension, poor nutritional state, radiation injury, and poorly fitting plates. Management ranges from conservative (debridement, prophylactic antibiotics, oral hygiene) to surgical (mucosal advancement, palatal island flap coverage, or plate removal if fibula is fully integrated). **Osteoradionecrosis (ORN)** of the reconstructed fibula segment is rare but can occur when adjuvant radiotherapy is applied after reconstruction — the fibula has cortical bone with limited intrinsic blood supply and is susceptible to radiation injury. **Dental rehabilitation** is the ultimate functional goal of mandibular reconstruction. Endosseous implants can be placed into the fibula (primary at time of reconstruction, or secondary 6–12 months later after adjuvant therapy completion). The fibula height is typically 12–14 mm — sufficient for standard 4.0 mm diameter implants. When the fibula height is inadequate for prosthetic emergence profile, vertical distraction osteogenesis (DO) can augment height by 8–12 mm before implant placement. Osseointegration rates in fibula flaps are 85–95% at 5 years, comparable to native jaw bone."
+        },
+        {
+          "type": "table",
+          "title": "Complications of Fibula Free Flap Mandibular Reconstruction",
+          "headers": ["Complication", "Incidence", "Timing", "Management"],
+          "rows": [
+            ["Flap failure (thrombosis)", "2–5%", "<72h (early); >72h (late)", "Immediate re-exploration; salvage 40–60% if <4h"],
+            ["Plate exposure", "10–20% at 5y", "Months–years", "Conservative to mucosal flap; plate removal if fused bone"],
+            ["Wound infection/dehiscence", "5–10%", "Days–weeks", "IV antibiotics; debridement; reclosure vs secondary healing"],
+            ["Donor site wound", "5–15%", "Weeks", "SSG to fibula donor; tibialis/peroneal tendon protected"],
+            ["Ankle instability", "1–3%", "Months", "Preserve 6 cm distal fibula and interosseous ligament"],
+            ["Hardware failure (plate fracture)", "3–8%", "Months–years", "Plate revision; ensure bone union before hardware removal"],
+            ["Implant loss in fibula", "5–15%", "Months–years post-implant", "Re-implantation; vertical DO if insufficient height"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Timing of Dental Implants",
+          "content": "Primary implant placement at time of FFF reconstruction reduces total treatment time and operative procedures. However, primary implants are contraindicated in: (1) high tumour recurrence risk (implants complicate surveillance); (2) planned post-operative radiotherapy (implant infection risk in irradiated bone); (3) uncertain surgical margins at time of closure. Secondary implant placement 12–18 months after reconstruction and completion of adjuvant therapy is the safer approach for most oncological patients. Hyperbaric oxygen (HBO) therapy before and after implant placement is recommended for patients with implants in previously irradiated fibula (>50 Gy)."
+        }
+      ]
+    },
+    {
+      "id": "A5-S7",
+      "title": "Condylar Reconstruction and Total Joint Replacement",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Class IV mandibulectomy defects involving condylectomy require reconstruction of the condylar unit. Options include: neocondyle from fibula (sculpting the proximal fibula end), conventional condylar prosthesis (Biomet Lorenz, Zimmer Biomet), or total temporomandibular joint (TMJ) replacement with stock or custom total joint prostheses. The **neoformation condyle** from the fibula is the preferred approach in younger patients and those without radiation: the proximal end of the fibula is contoured to approximate condylar shape and positioned in the glenoid fossa, resting against the articular disc. Long-term results are variable — resorption and remodelling occur, but functional outcomes are generally acceptable. **Custom total joint replacement (TJR)** is indicated for condylar reconstruction in post-irradiated patients, elderly patients with limited healing capacity, or when the fibula is too thin to support a neoformation condyle. Patient-specific TJR (Biomet Lorenz or Stryker custom systems) are manufactured from CT data and provide accurate condylar head and fossa components. For fibula flap Class IV reconstructions combined with custom TJR, VSP is essential to ensure accurate spatial positioning of the prosthetic condyle within the glenoid fossa, preserving correct occlusion and facial height. Bilateral condylectomy reconstruction is particularly challenging and requires precise pre-surgical planning to avoid anterior open bite, which results from posterior vertical height insufficiency."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Condylar Reconstruction Options",
+          "content": "Class IV mandibulectomy (condylectomy): Three options — (1) Fibula neoformation condyle: sculpted fibula end positioned in glenoid fossa; preferred in young non-irradiated patients; (2) Stock condylar prosthesis; (3) Custom total joint prosthesis: best for post-irradiated or complex cases. VSP is essential for all Class IV reconstructions to achieve correct vertical facial height and occlusion."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of mandibular reconstruction — classification, flap anatomy, VSP, and complications — with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "A5-Q1",
+        "stem": "A 58-year-old man undergoes segmental mandibulectomy for T4a SCC of the right mandibular gingiva. The resection extends from the right second molar to the right canine, preserving the chin point. There is no facial skin involvement, but the entire floor of mouth mucosa on the right side requires resection. Using the Brown classification, what class is this defect?",
+        "options": {
+          "A": "Class Ia",
+          "B": "Class IIb",
+          "C": "Class IIIa",
+          "D": "Class IVd"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Brown Class II describes hemi-mandibulectomy extending up to but not including the chin (symphysis/contralateral canine). Here the resection is right second molar to right canine — the chin point is preserved. The mucosal component (floor of mouth mucosa resected, no facial skin) = 'b' (oral mucosa defect only). Therefore: Class IIb.",
+          "wrong": {
+            "A": "Class I is a marginal (non-continuity) mandibulectomy. This is a segmental resection creating a discontinuity defect — not Class I.",
+            "C": "Class III would require the resection to include the symphysis/chin point (crossing the midline to involve the contralateral side). Here the chin is preserved.",
+            "D": "Class IV involves condylectomy (condyle resection). This resection stops at the right canine — the condyle is intact."
+          },
+          "guideline": "Brown JS and Shaw RJ. Reconstruction of the mandible following tumour surgery (Int J Oral Maxillofac Surg 2010); updated Brown Classification (Head Neck 2016)",
+          "trial": "Brown JS et al. (Head Neck 2016): updated classification demonstrating correlation between defect class and reconstructive complexity, functional outcomes, and flap selection patterns.",
+          "pearl": "Brown classification: Class I = marginal (continuity maintained); II = hemi (chin preserved); III = includes chin/symphysis; IV = condylectomy. Soft tissue: a = none; b = mucosa; c = skin; d = both; e = through-and-through. Combine: e.g., Class IIb = hemi-mandibulectomy with mucosal defect."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q2",
+        "stem": "The fibula free flap pedicle is based on the peroneal artery. What is the approximate pedicle length achievable with standard fibula harvest?",
+        "options": {
+          "A": "2–3 cm",
+          "B": "6–8 cm",
+          "C": "12–15 cm",
+          "D": "18–22 cm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The peroneal artery pedicle provides a length of approximately 6–8 cm with the fibula free flap. This is generally sufficient for anastomosis to facial, superior thyroid, or lingual vessels in the neck without requiring a vein graft. The diameter of the peroneal artery is 2–2.5 mm, well suited for end-to-end or end-to-side anastomosis.",
+          "wrong": {
+            "A": "A 2–3 cm pedicle would be far too short for comfortable anastomosis in the neck and would not reach from the fibula to neck recipient vessels.",
+            "C": "12–15 cm pedicle is characteristic of the radial forearm free flap (radial artery), which has an exceptionally long pedicle — a distinguishing feature of the RFFF.",
+            "D": "18–22 cm pedicle length is not available from any standard free flap pedicle. This length would require extension grafting and is not a standard pedicle measurement."
+          },
+          "guideline": "Urken ML et al. Atlas of Regional and Free Flaps for Head and Neck Reconstruction, 2nd ed. (Lippincott 2012)",
+          "trial": "Hidalgo DA (Plast Reconstr Surg 1989): original fibula free flap description confirming peroneal artery pedicle length of 6–8 cm and diameter 2–2.5 mm.",
+          "pearl": "Fibula FFF: pedicle = peroneal artery, length 6–8 cm, diameter 2–2.5 mm. Bone length available 14–18 cm (preserving 6 cm distal + proximal neck). Best-matched to facial artery or superior thyroid artery in neck."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q3",
+        "stem": "A 64-year-old woman requires fibula free flap harvest for mandibular reconstruction. Preoperative CT angiography of the lower limb reveals that the left peroneal artery is dominant and provides the sole arterial supply to the foot (absent posterior tibial artery). What is the correct management?",
+        "options": {
+          "A": "Proceed with left fibula harvest with careful preservation of the peroneal artery distally",
+          "B": "Harvest only the proximal two-thirds of the left fibula to avoid the dominant supply to the foot",
+          "C": "Left fibula harvest is contraindicated; use the right fibula or an alternative flap",
+          "D": "Perform preoperative embolisation of the posterior tibial collaterals to improve perfusion before harvest"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Peronea magna (dominant peroneal artery, absent posterior tibial artery) is present in approximately 5% of patients. In this anatomical variant, the peroneal artery is the sole blood supply to the foot. Harvesting the fibula with its peroneal artery pedicle would devascularise the foot, risking critical ischaemia and amputation. The contralateral fibula should be assessed — if the right leg has normal triple-vessel runoff, right fibula harvest is appropriate. If bilateral peronea magna, an alternative reconstruction (DCIA, scapula) must be used.",
+          "wrong": {
+            "A": "There is no safe way to harvest the fibula with its peroneal artery pedicle when peronea magna is present. Preserving the peroneal artery distally is not an option because the pedicle must be transected for free flap transfer.",
+            "B": "Harvesting a shortened fibula does not resolve the problem — the peroneal artery pedicle must still be transected for microvascular anastomosis, which would devascularise the foot regardless of how much fibula is taken.",
+            "D": "Embolisation of collaterals would not create adequate alternative arterial supply to the foot and could cause ischaemic complications — this is not an appropriate preoperative manoeuvre."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Urken ML et al. Free Flap Atlas 2012",
+          "trial": "Hölzle F et al. (J Craniomaxillofac Surg 2007): preoperative CTA/MRA in fibula free flap planning identifies peronea magna in 3–7% of candidates; failure to screen resulted in foot ischaemia in historical case reports.",
+          "pearl": "Peronea magna = absolute contraindication to fibula harvest on that leg. Always perform CTA or MRA — NOT Doppler alone — to exclude this variant preoperatively. Incidence 3–7%. If present bilaterally, use DCIA or scapula flap."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q4",
+        "stem": "Which of the following best describes the clinical appearance of early venous thrombosis of a free flap skin paddle?",
+        "options": {
+          "A": "Pale, cold, no capillary refill, minimal bleeding on pinprick",
+          "B": "Dusky/purple, congested, brisk dark bleeding on pinprick, increased turgor",
+          "C": "Erythematous, warm, pus from wound, increased WBC",
+          "D": "White, swollen, firm, with blistering of the skin"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Venous thrombosis causes outflow obstruction: blood accumulates in the flap, producing a dusky or purple discolouration, congestion and increased turgor, and brisk dark (deoxygenated) bleeding on pinprick. This presentation is in direct contrast to arterial failure. Immediate return to theatre for venous thrombectomy and anastomotic revision is required.",
+          "wrong": {
+            "A": "Pale, cold, no capillary refill, no bleeding on pinprick describes ARTERIAL failure (insufficient inflow). The flap becomes blanched and cool as oxygen-carrying blood is absent.",
+            "C": "Erythema, warmth, pus, and raised WBC describe wound infection — not microvascular thrombosis. Infection typically presents later (3–5 days post-op), not acutely.",
+            "D": "White, swollen, firm skin with blistering suggests severe venous congestion or oedema that has progressed to skin necrosis — a later stage of venous compromise, not early venous thrombosis. Blistering is a sign of critical ischaemia."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Free Flap Monitoring Protocols 2023",
+          "trial": "Smit JM et al. (J Plast Reconstr Aesthet Surg 2010): implantable Doppler monitoring reduces time to detection of venous thrombosis by mean 4.5 hours compared to clinical monitoring alone; salvage rate 57% vs 36%.",
+          "pearl": "Venous thrombosis = dusky, congested, brisk dark bleeding on pinprick. Arterial occlusion = pale, cold, no bleeding. Get back to theatre within 2–4 hours of recognition for meaningful salvage rates. Time is the critical variable."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q5",
+        "stem": "Virtual surgical planning (VSP) with CAD/CAM cutting guides is used for a complex class III mandibular reconstruction requiring 4 osteotomies in the fibula. Compared to conventional model surgery, what is the primary demonstrated advantage of VSP in this setting?",
+        "options": {
+          "A": "Significantly reduced risk of flap thrombosis",
+          "B": "Improved accuracy of fibula segment positioning (error <2 mm vs 4–8 mm) and enabling simultaneous two-team surgery",
+          "C": "Elimination of the need for post-operative radiotherapy in all cases",
+          "D": "Guaranteed osseointegration of dental implants placed at time of reconstruction"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "VSP with CAD/CAM reduces positional error of fibula segments to <2 mm versus 4–8 mm with conventional model surgery (Roser et al., J Oral Maxillofac Surg 2010). Additionally, pre-fabricated cutting guides allow simultaneous (parallel) resection and fibula harvest by two operative teams, reducing total operating time by a mean of 85 minutes in complex cases (Shen et al., Oral Oncol 2020). These are the two principal demonstrated advantages of VSP.",
+          "wrong": {
+            "A": "VSP does not reduce flap thrombosis risk — this is determined by anastomosis technique, recipient vessel quality, and pedicle geometry, not by the surgical planning method.",
+            "C": "VSP has no effect on adjuvant therapy indications — post-operative radiotherapy is determined by pathological staging (margins, ENE, nodal disease), independent of reconstruction technique.",
+            "D": "VSP can improve implant positioning accuracy when primary implants are placed, but osseointegration rates depend on bone quality, implant design, and post-operative loading protocol — not on the planning system."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Roser SM et al. (J Oral Maxillofac Surg 2010); Shen Y et al. (Oral Oncol 2020)",
+          "trial": "Roser SM et al. (J Oral Maxillofac Surg 2010): VSP vs conventional model surgery in fibula FFF reconstruction; mean error <2 mm (VSP) vs 4–8 mm (conventional); 95% of VSP cases within 2 mm of planned position.",
+          "pearl": "VSP key benefits: (1) accuracy <2 mm; (2) simultaneous two-team surgery saving ~85 min; (3) pre-bent custom plates eliminate intraoperative bending. Most valuable for Class III (symphyseal) defects requiring ≥3 osteotomies."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q6",
+        "stem": "A 45-year-old patient requires mandibular reconstruction after resection of a Class II defect (right ramus to right body, anterior to the mental foramen). The ablative surgeon confirms the condyle is intact and will be preserved. The patient wishes primary dental implant placement at time of reconstruction and has not had radiotherapy. Which flap is the most appropriate first choice?",
+        "options": {
+          "A": "Radial forearm free flap (osteocutaneous) — longest pedicle facilitates easy anastomosis",
+          "B": "Scapula free flap — chimeric components provide excellent soft tissue bulk",
+          "C": "Fibula free flap — gold standard for most mandibular defects",
+          "D": "Deep circumflex iliac artery (DCIA) flap — superior bone height for immediate implants in posterior mandible"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The fibula free flap is the gold standard for the majority of mandibular reconstruction defects, including this Class II defect. It provides sufficient bone length (14–18 cm), allows multiple osteotomies for contouring, has a reliable vascular pedicle, and can be harvested simultaneously with the ablation. Primary implants can be placed into the fibula at time of reconstruction. FFF should be the first-choice consideration before alternatives in >90% of cases.",
+          "wrong": {
+            "A": "Osteocutaneous radial forearm free flap is limited by poor bone height (thin cortical radius) and a 10–25% risk of donor site radius fracture. It is not recommended for mandibular body reconstruction requiring implant support.",
+            "B": "Scapula free flap is reserved for complex 3D defects with massive soft tissue loss (Class IId/e) or when fibula is unsuitable. It cannot be harvested simultaneously (requires patient repositioning), precluding a two-team approach.",
+            "D": "DCIA flap is a reasonable alternative for this defect (particularly for large posterior mandible height), but its limited pedicle length, restricted osteotomy flexibility, and higher donor site morbidity (hernia) make it second choice after fibula FFF in a non-irradiated patient."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS 2023; NCCN Head and Neck Cancers 2024",
+          "trial": "Hidalgo DA and Rekow A (Plast Reconstr Surg 1995): systematic review of fibula free flap for mandibular reconstruction confirming it as gold standard with >95% success rate at experienced centres.",
+          "pearl": "Fibula FFF = first choice for >90% of mandibular reconstructions. Consider DCIA for large posterior bone height requirements. Scapula for complex 3D/massive soft tissue loss. RFFF bone = avoid for mandibular reconstruction (fracture risk, limited height)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q7",
+        "stem": "Which segment of the fibula must be preserved at the ankle to protect the ankle mortice and prevent distal tibiofibular instability during fibula free flap harvest?",
+        "options": {
+          "A": "Distal 2 cm",
+          "B": "Distal 6 cm",
+          "C": "Distal 10 cm",
+          "D": "The entire distal half of the fibula"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A minimum of 6 cm of distal fibula must be preserved to protect the ankle mortice (distal tibiofibular syndesmosis and lateral malleolus). The lateral malleolus is essential for ankle stability — its resection would result in lateral ankle instability and impaired ambulation. The inferior tibiofibular ligament and syndesmosis maintain the mortice; if the fibula is cut too distally, this ligamentous complex and its bony attachment are disrupted.",
+          "wrong": {
+            "A": "Preserving only 2 cm would leave the ankle mortice without adequate bony support and risk injury to the lateral malleolus and distal tibiofibular ligaments.",
+            "C": "Preserving 10 cm at the distal end is overly conservative and would significantly reduce the length of bone available for reconstruction — particularly problematic for large class III defects needing 3–4 osteotomies.",
+            "D": "Preserving the entire distal half would similarly reduce available bone length unacceptably and is far beyond what is needed for ankle protection."
+          },
+          "guideline": "Urken ML et al. Atlas of Regional and Free Flaps for Head and Neck Reconstruction, 2nd ed. (Lippincott 2012); EACMFS Reconstruction Guidelines 2023",
+          "trial": "Hidalgo DA (Plast Reconstr Surg 1989): original fibula flap description mandating preservation of distal 6 cm and proximal fibular neck (CN peroneal nerve protection) as anatomical safety rules.",
+          "pearl": "Two non-negotiable fibula FFF rules: (1) Preserve distal 6 cm (ankle mortice); (2) Preserve proximal fibular neck (common peroneal nerve). Between these limits, up to 14–18 cm of bone is available. Mark these limits before osteotomies."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q8",
+        "stem": "A patient undergoes fibula free flap mandibular reconstruction followed by post-operative radiotherapy (60 Gy) to the neck and mandible. Three years later, they present with exposed titanium plate, pain at the right mandibular body, and a small area of exposed fibula bone with surrounding mucositis. CT shows no flap resorption but titanium plate loosening without bone fracture. What is the most appropriate management?",
+        "options": {
+          "A": "Observation with oral hygiene instructions — bone exposure will re-epithelialise spontaneously",
+          "B": "Conservative management: debridement, antibiotics, and mucosal advancement flap if possible",
+          "C": "Immediate plate removal — the plate is causing the bone exposure",
+          "D": "Systemic bisphosphonate therapy to enhance bone density in the fibula"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Plate exposure after irradiated mandibular reconstruction is a common late complication (10–20% at 5 years). Initial management is conservative: wound debridement, systemic antibiotics, chlorhexidine irrigation, and optimisation of nutritional status. If the exposed area is small and the bone appears vital, mucosal advancement or a local rotational flap to cover the plate is the preferred definitive treatment. Plate removal is considered only if the fibula is fully integrated and the plate is no longer providing structural support, or if there is implant infection that does not respond to conservative measures.",
+          "wrong": {
+            "A": "Spontaneous re-epithelialisation is unlikely in an irradiated field — radiation has compromised mucosal healing capacity. Observation without intervention risks progression to wound breakdown, osteonecrosis, and plate fracture.",
+            "C": "Premature plate removal when the fibula is not yet fully consolidated (bone union not confirmed) risks jaw fracture. Plate removal is the definitive option only after confirmed fibula integration and if conservative/flap measures fail.",
+            "D": "Bisphosphonates are used in the context of cancer treatment-related osteoporosis, but OSTEONECROSIS of irradiated bone is actually a known complication of bisphosphonate therapy (MRONJ). Bisphosphonates should be avoided in patients with irradiated jaw bone or plate exposure, not added."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Position Paper on Medication-Related Osteonecrosis of the Jaw 2022",
+          "trial": "Kanatas AN et al. (Br J Oral Maxillofac Surg 2012): systematic review of plate exposure after mandibular free flap reconstruction — conservative management with local flap coverage successful in 60–75%; plate removal needed in 25–30%.",
+          "pearl": "Plate exposure algorithm: Conservative first (debridement, antibiotics, mucosal flap). Remove plate only if: (1) bone is fully integrated; (2) conservative measures have failed; (3) plate infection is persistent. Bisphosphonates are contraindicated in irradiated mandible — risk of MRONJ."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q9",
+        "stem": "What is the 'Andy Gump' deformity, and which class of mandibulectomy defect causes it when left unreconstructed?",
+        "options": {
+          "A": "Trismus and limited mouth opening — caused by Class I defects sparing the condyle",
+          "B": "Posterior facial height reduction and open bite — caused by bilateral condylectomy (Class IV)",
+          "C": "Retraction of the lower face, lower lip ptosis, and oral incompetence — caused by Class III defects including the symphysis",
+          "D": "Fistula between oral cavity and skin — caused by Class IIe through-and-through defects"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Andy Gump deformity results from loss of the mandibular symphysis (chin) and anterior mandibular arch without reconstruction — a Class III defect. The result is: loss of anterior mandibular projection, retraction of the lower face, ptosis of the lower lip (lack of bony support), oral incompetence (inability to close mouth), drooling, and severe impairment of speech and swallowing. The name derives from the cartoon character Andy Gump, who had no chin. Reconstruction with a multi-segment fibula free flap is essential.",
+          "wrong": {
+            "A": "Trismus and limited mouth opening after mandibulectomy are related to scar contracture and radiation fibrosis, not specific to Class I defects. Class I (marginal resection) rarely causes significant trismus.",
+            "B": "Posterior facial height reduction and anterior open bite are characteristic of bilateral condylectomy (Class IV) without condylar reconstruction — not 'Andy Gump' deformity, which specifically involves symphyseal loss.",
+            "D": "Orocutaneous fistula (communication between oral cavity and skin) can occur with any through-and-through defect (class e), but this is not the 'Andy Gump' deformity."
+          },
+          "guideline": "Brown JS et al. (Head Neck 2016); EACMFS Reconstruction Guidelines 2023",
+          "trial": "Boyd JB et al. (Head Neck 1995): functional outcomes after mandibular reconstruction — Class III unreconstructed defects showed worst functional scores (speech, swallowing, cosmesis); FFF reconstruction restored near-normal function.",
+          "pearl": "'Andy Gump' = Class III mandibulectomy (symphysis loss) without reconstruction. Key features: oral incompetence, lower lip ptosis, drooling, severe speech/swallowing impairment. Requires 3–4 osteotomy fibula FFF with CAD/CAM for accurate restoration of facial contour."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q10",
+        "stem": "A fibula free flap skin paddle is monitored clinically. Six hours post-operatively, nursing staff note the paddle is pale and cool, with no capillary refill and no bleeding on pinprick. What is the most likely cause and next step?",
+        "options": {
+          "A": "Venous thrombosis — return to theatre for venous thrombectomy",
+          "B": "Normal postoperative oedema — observe for 12 hours",
+          "C": "Arterial thrombosis — immediate return to theatre for arterial revision",
+          "D": "Skin paddle necrosis — apply wet dressings and await demarcation"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Pale, cold skin paddle with absent capillary refill and no bleeding on pinprick indicates arterial failure (insufficient arterial inflow). The flap is ischaemic. Immediate return to theatre for arterial anastomosis exploration, thrombectomy, and revision is required. At 6 hours from onset, salvage is still possible — the critical window is approximately 4–8 hours. Beyond 8–10 hours of warm ischaemia, irreversible flap necrosis occurs.",
+          "wrong": {
+            "A": "Venous thrombosis produces the OPPOSITE clinical picture: a dusky/purple congested paddle with brisk dark bleeding on pinprick — not pale and bloodless.",
+            "B": "Postoperative oedema would cause swelling and slight erythema, not pallor and absence of capillary refill. Observing a pale, non-bleeding paddle for 12 hours would allow irreversible necrosis.",
+            "D": "Applying wet dressings and waiting for demarcation is appropriate for areas of established necrosis that have already undergone irreversible changes — not for acute arterial failure at 6 hours where salvage is still achievable with immediate surgery."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Free Flap Monitoring Protocols 2023",
+          "trial": "Rozen WM et al. (Microsurgery 2010): systematic review — arterial thrombosis salvage rate 40–60% when explored within 4 hours; <10% after 8 hours. Time to recognition is the key modifiable variable.",
+          "pearl": "Pale + cold + no capillary refill + no bleeding = ARTERIAL failure. Dusky + congested + brisk dark bleeding = VENOUS thrombosis. Both require immediate return to theatre. Salvage window = 4–6 hours. Never observe a pale flap — go back to theatre."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q11",
+        "stem": "Which deep circumflex iliac artery (DCIA) flap characteristic makes it preferentially selected over the fibula for posterior mandibular reconstruction when immediate osseointegrated implant placement is planned?",
+        "options": {
+          "A": "Longer pedicle length enabling easier reach to neck vessels",
+          "B": "Larger cross-sectional bone height approximating native molar-bearing mandible without vertical distraction",
+          "C": "Greater ability to create multiple osteotomies for complex arch contouring",
+          "D": "Lower donor site morbidity and faster patient recovery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The DCIA (iliac crest) flap provides the largest cross-sectional cortical bone height of any free flap donor site, closely matching the 25–35 mm height of a native molar-bearing posterior mandible without requiring subsequent vertical distraction osteogenesis. The fibula provides only 12–14 mm of bone height — insufficient for standard implant-prosthetic emergence profile in the posterior mandible without augmentation. When immediate high-quality implant placement is the priority in posterior Class II defects, DCIA may be preferred.",
+          "wrong": {
+            "A": "DCIA has a SHORT pedicle (3–5 cm), which is actually its main disadvantage compared to fibula (6–8 cm pedicle). Fibula has the better pedicle length.",
+            "C": "DCIA has dense cortical iliac bone that is more difficult to osteotomize than fibula. Multiple osteotomies are better performed in the fibula, which is a long bone with medullary canal.",
+            "D": "DCIA donor site morbidity is significantly higher than fibula — hernia rate 5–15%, gait disturbance, hip pain. Fibula donor site has lower morbidity and faster recovery."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Shpitzer T et al. (Head Neck 1997): DCIA vs fibula for mandibular reconstruction — DCIA superior for bone height in posterior mandible; fibula superior for multiple osteotomies and pedicle length.",
+          "pearl": "DCIA advantage: bone height 25–35 mm matching native mandible = ideal for immediate implants without vertical DO. DCIA disadvantage: short pedicle (3–5 cm), limited osteotomy flexibility, higher donor site morbidity (hernia). Choose DCIA when bone height is the priority."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q12",
+        "stem": "Primary implant placement at the time of fibula free flap mandibular reconstruction is contraindicated in which of the following clinical scenarios?",
+        "options": {
+          "A": "Patient age over 65 years",
+          "B": "Planned post-operative chemoradiotherapy to mandible ≥50 Gy",
+          "C": "Absence of dental crown restoration at time of reconstruction",
+          "D": "Bilateral neck dissection performed at the same operation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Planned post-operative radiotherapy to doses ≥50 Gy to the mandible/fibula is a contraindication to primary implant placement. Radiation significantly impairs osseointegration, increases peri-implant infection risk, and raises the risk of medication-related or radiation-induced osteonecrosis (MRONJ/ORNJ) around implants in irradiated bone. Secondary implant placement 12–18 months after completion of adjuvant therapy (with hyperbaric oxygen if indicated) is the safer approach for patients requiring post-operative radiation.",
+          "wrong": {
+            "A": "Age alone is not a contraindication to primary implant placement. Elderly patients can successfully undergo primary implantation if other factors (bone quality, medical status, tumour prognosis) are favourable.",
+            "C": "Implants do not require crown restorations at time of placement — the healing phase (osseointegration period of 3–6 months) typically precedes final prosthetic restoration. This is a normal part of the treatment sequence.",
+            "D": "Bilateral neck dissection at the same operation does not contraindicate implant placement in the fibula — the implants are in the jaw reconstruction, and neck dissection complications (vessel compromise, nerve injury) are not related to implant osseointegration."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Principles of Radiation; AAOMS Position Paper on MRONJ 2022; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Schoen PJ et al. (J Dent Res 2004): randomised trial of primary vs secondary implant placement in fibula reconstruction — secondary placement after radiotherapy had lower implant failure rates; primary implants pre-radiation had acceptable outcomes only if >5 months allowed before radiation.",
+          "pearl": "Primary implants: OK if no adjuvant radiation planned. Contraindicated if PORT ≥50 Gy planned (failure + ORNJ risk). If primary implants are placed but radiation then required: ideal to delay radiation ≥5 months to allow osseointegration. Secondary implants = 12–18 months post-radiation ± HBO."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q13",
+        "stem": "During fibula free flap harvest, which nerve is at risk if the proximal fibular neck and periosteum are not carefully preserved during the superior osteotomy?",
+        "options": {
+          "A": "Tibial nerve",
+          "B": "Sural nerve",
+          "C": "Common peroneal nerve",
+          "D": "Saphenous nerve"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The common peroneal nerve (lateral popliteal nerve) wraps around the fibular neck (proximal fibula) just distal to the fibular head. It then divides into the superficial and deep peroneal nerves. Injury at this level causes foot drop (loss of dorsiflexion), inability to evert the foot, and sensory loss over the dorsum of the foot and lateral lower leg. The superior osteotomy of the fibula must be made at least 6 cm distal to the fibular head to avoid this nerve.",
+          "wrong": {
+            "A": "The tibial nerve runs posterior to the popliteal fossa and medially in the leg — it is not at risk during lateral fibular harvest.",
+            "B": "The sural nerve (sensory only) runs along the lateral border of the Achilles tendon and is at risk during harvest of the distal fibula and during skin paddle elevation, not during the proximal osteotomy.",
+            "D": "The saphenous nerve is a terminal branch of the femoral nerve running medially along the leg — not adjacent to the proximal fibular neck."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; Hidalgo DA (Plast Reconstr Surg 1989)",
+          "trial": "Hidalgo DA (Plast Reconstr Surg 1989): original fibula FFF technique specifying 6 cm preservation at proximal fibula (fibular neck) to protect common peroneal nerve, and 6 cm distally for ankle mortice.",
+          "pearl": "Two proximal fibula rules: (1) Superior osteotomy ≥6 cm below fibular head to protect the common peroneal nerve; (2) Preserve proximal fibular neck periosteum. Common peroneal nerve injury = foot drop. This is the most devastating donor site neurological complication."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q14",
+        "stem": "The scapula free flap (subscapular system) is preferred over the fibula for which type of mandibular reconstruction defect?",
+        "options": {
+          "A": "Class IIa — hemi-mandibulectomy without soft tissue defect",
+          "B": "Class IIIa — symphyseal defect without soft tissue loss",
+          "C": "Class IId/e — hemi-mandibulectomy with through-and-through cheek defect and inadequate lower limb vessels",
+          "D": "Class Ib — marginal alveolar defect with mucosal loss"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The scapula free flap (lateral border of scapula on subscapular system) is specifically preferred for complex 3D defects requiring large volumes of soft tissue in addition to bone — such as Class IId/e (through-and-through cheek defect with both oral mucosa and external skin loss). Its chimeric nature (multiple tissue components from one pedicle: lateral scapular bone, parascapular fasciocutaneous flap, serratus fascia, latissimus dorsi muscle) allows reconstruction of complex composite defects that would require two separate flaps with fibula. It is also chosen when lower limb vessels are unsuitable for fibula harvest.",
+          "wrong": {
+            "A": "Class IIa (hemi-mandibulectomy, no soft tissue) is the simplest bony reconstruction — a fibula FFF with osseous component only is the standard. Scapula is unnecessary and adds harvesting complexity.",
+            "B": "Class IIIa (symphyseal defect, no soft tissue) is best managed with fibula FFF using 3–4 osteotomies and CAD/CAM planning — scapula provides insufficient bone length for arch reconstruction.",
+            "D": "Class Ib is a marginal (non-continuity) resection with only mucosal loss — this can be reconstructed with a local or regional mucosal flap; a complex free flap is not needed."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Coleman JJ and Sultan MR (Plast Reconstr Surg 1991): chimeric scapular flap for complex mandibular defects with massive soft tissue loss — single pedicle provides multiple tissue components, avoiding need for two separate free flaps.",
+          "pearl": "Scapula FFF = complex 3D defects (Class IId/e through-and-through); chimeric flap on subscapular pedicle allows multiple tissue types from one anastomosis. Main limitation: no simultaneous two-team approach — patient must be repositioned from lateral decubitus."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q15",
+        "stem": "A 52-year-old woman undergoes fibula free flap reconstruction of a Class III mandibular defect. Flap harvest and insetting take 8 hours. Four weeks post-operatively, she develops a persistent orocutaneous fistula with salivary leakage through the neck skin. This complication most likely results from:",
+        "options": {
+          "A": "Venous thrombosis of the peroneal vein",
+          "B": "Failure of mucosal wound closure or tension on the intraoral repair, compounded by salivary contamination",
+          "C": "Over-anticoagulation causing wound haematoma breakdown",
+          "D": "Titanium plate infection causing sinus tract formation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Orocutaneous fistula after mandibular reconstruction results from breakdown of the intraoral mucosal repair — typically due to closure under tension, poor blood supply (especially in previously irradiated tissue), salivary contamination undermining wound healing, or inadequate tissue for mucosal coverage. The high bacterial load of saliva perpetuates wound breakdown once a small leak develops. Class III defects are particularly vulnerable as the mucosal repair must span a large anterior floor of mouth reconstruction, often with limited local tissue.",
+          "wrong": {
+            "A": "Venous thrombosis of the peroneal vein (donor site) would cause leg symptoms — oedema, pain — not an orocutaneous fistula at the neck. Flap anastomosis thrombosis would cause flap failure, not a delayed fistula.",
+            "C": "Over-anticoagulation causing haematoma breakdown is a possible but much less common cause. It would typically present earlier (1–2 weeks) and would not specifically create an orocutaneous communication.",
+            "D": "Titanium plate infection causing a sinus tract is a late complication, typically presenting months to years after surgery with an indurated track overlying the plate. A fistula at 4 weeks is more consistent with mucosal breakdown and salivary leak."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS 2023",
+          "trial": "Genden EM et al. (Arch Otolaryngol Head Neck Surg 2003): orocutaneous fistula after free flap head and neck reconstruction — incidence 5–10%; associated with prior radiation, intraoral closure under tension, and malnutrition.",
+          "pearl": "Orocutaneous fistula risk factors: prior radiation, mucosal closure under tension, malnutrition, diabetes. Prevention: tension-free mucosal closure with sufficient flap skin paddle; NGT feeding ×10–14 days; antibiotic prophylaxis. Management: wound care ± surgical closure with additional tissue (palatal island or second flap)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q16",
+        "stem": "A patient with a Class IVb mandibulectomy defect (condylectomy with mucosal defect, condyle disarticulation) requires reconstruction. Which statement correctly describes an acceptable approach to the condylar unit?",
+        "options": {
+          "A": "The condyle should be reconstructed with a titanium total joint replacement only — fibula neoformation condyles are always inferior",
+          "B": "The condylar end of the fibula is left free — no condylar reconstruction is needed as the glenoid fossa naturally remodels",
+          "C": "A neoformation condyle (sculpted fibula end) or a custom total joint prosthesis are both acceptable options depending on patient factors",
+          "D": "Condylar reconstruction is always deferred to a secondary procedure, never performed simultaneously with mandibular reconstruction"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Both a neoformation condyle (sculpting the proximal fibula end to approximate condylar morphology) and a custom total temporomandibular joint (TMJ) prosthesis are acceptable options for Class IV reconstruction. The choice depends on patient factors: neoformation condyle is preferred in younger non-irradiated patients; custom TJR is better in post-irradiated patients, elderly patients, or when the fibula is too thin. VSP is essential for both approaches to achieve correct vertical height and occlusion.",
+          "wrong": {
+            "A": "Fibula neoformation condyles are not 'always inferior' — they provide acceptable function in younger non-irradiated patients and have the advantage of being autologous, with no implant-related infection risk.",
+            "B": "Leaving the fibula end free without condylar reconstruction results in lateral deviation of the jaw (ipsilateral deviation without condylar fulcrum), impaired occlusion, and pain. The glenoid fossa does not remodel to accommodate an unconstrained fibula end.",
+            "D": "Condylar reconstruction is routinely performed simultaneously with mandibular free flap reconstruction. Staged reconstruction of the condyle is reserved for exceptional circumstances (inadequate planning data, severe infection)."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS TMJ Prostheses Parameters of Care 2023",
+          "trial": "Geltzeiler M et al. (J Oral Maxillofac Surg 2019): fibula neoformation condyle vs total joint prosthesis for Class IV reconstruction — comparable functional outcomes; TJR better for post-irradiated patients; VSP essential for both.",
+          "pearl": "Class IV = condylectomy: Reconstruct the condyle simultaneously. Options: (1) Neoformation condyle (sculpted fibula) — younger, non-irradiated; (2) Custom TJR — irradiated, elderly, thin fibula. VSP essential for accurate condylar positioning. Never leave fibula end free in glenoid."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q17",
+        "stem": "In the context of implant-supported dental rehabilitation after fibula free flap mandibular reconstruction, what is the main limitation of the fibula bone that may require secondary surgical intervention before implant placement?",
+        "options": {
+          "A": "Insufficient bone density — fibula is cortical and does not support osseointegration",
+          "B": "Insufficient bone height (12–14 mm) for standard implant prosthetic emergence profile, requiring vertical distraction osteogenesis",
+          "C": "Infection rate in fibula bone is too high for implant placement",
+          "D": "Fibula bone remodels too rapidly after transplantation to support long-term osseointegration"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The fibula provides only 12–14 mm of bone height after transposition, whereas the native molar-bearing mandible is typically 25–30 mm in height. This limited height can create a discrepancy in the emergence profile of implant-supported restorations. Vertical distraction osteogenesis (DO) can augment fibula height by 8–12 mm over a 3–4 month period before implant placement, bridging the gap to the height of the opposing arch. This is most relevant for posterior mandibular reconstruction where molar height matching is critical for prosthetic rehabilitation.",
+          "wrong": {
+            "A": "Fibula cortical bone does support osseointegration — reported rates of 85–95% at 5 years are comparable to native mandible. Cortical bone is actually advantageous for primary implant stability.",
+            "C": "Fibula implant infection rates are comparable to native jaw bone implants and are not a primary limitation. Infection risk is increased by radiation, not by the fibula itself.",
+            "D": "Fibula bone remains viable as a vascularised free flap and does not remodel excessively — long-term follow-up studies confirm maintained implant osseointegration over 10+ years."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Dental Implants in Reconstructed Mandible 2023",
+          "trial": "Goh BT et al. (Br J Oral Maxillofac Surg 2008): vertical distraction osteogenesis of fibula free flap after mandibular reconstruction achieves 8–12 mm height gain; subsequent implant survival 90% at 5 years.",
+          "pearl": "Fibula height = 12–14 mm. Native molar mandible = 25–30 mm. Vertical distraction osteogenesis (DO) adds 8–12 mm before implant placement. Two-stage approach: fibula FFF → (adjuvant therapy if needed) → vertical DO → implants. Alternatively: DCIA flap provides native height without DO."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q18",
+        "stem": "Postoperative anticoagulation after free microvascular flap anastomosis typically includes which agents based on standard EACMFS/AAOMS protocols?",
+        "options": {
+          "A": "Full systemic anticoagulation with therapeutic unfractionated heparin infusion for 5 days",
+          "B": "Aspirin 75 mg daily plus low-molecular-weight heparin (prophylactic dose) for 5–7 days",
+          "C": "Warfarin to target INR 2.5–3.5 for 3 months",
+          "D": "No anticoagulation — mechanical venous thrombosis prophylaxis only"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Standard free flap anticoagulation protocol includes aspirin 75 mg daily (antiplatelet) and low-molecular-weight heparin (LMWH) at prophylactic dose for venous thromboembolism prophylaxis for 5–7 days. This combination reduces microvascular thrombosis risk without excessive bleeding at the anastomosis or flap pedicle. Full therapeutic anticoagulation (heparin infusion or warfarin) is reserved for specific high-risk situations (hypercoagulable state, prior thrombosis, complicated anastomosis requiring revision).",
+          "wrong": {
+            "A": "Full therapeutic heparin infusion is not standard — it increases risk of haematoma at the flap pedicle and wound site, which can itself compress the anastomosis or cause wound breakdown.",
+            "C": "Warfarin to INR 2.5–3.5 is not used routinely post-free flap — onset of action is slow (3–5 days), monitoring is complex in the perioperative period, and bleeding risk at wound and pedicle is significant.",
+            "D": "Mechanical VTE prophylaxis alone without pharmacological agents is insufficient in major head and neck reconstruction — these patients have cancer (hypercoagulable), prolonged surgery, and immobility. LMWH prophylaxis is standard of care."
+          },
+          "guideline": "EACMFS Free Flap Anticoagulation Protocols 2023; AAOMS 2023",
+          "trial": "Ashjian P et al. (Plast Reconstr Surg 2007): meta-analysis of anticoagulation in free flap surgery — aspirin + prophylactic LMWH associated with lowest thrombosis rates (2–4%) and acceptable bleeding risk; full heparin infusion not superior and increased haematoma.",
+          "pearl": "Free flap anticoagulation: Aspirin 75 mg/day + prophylactic LMWH for 5–7 days. Full therapeutic heparin only for specific high-risk indications. Aspirin's platelet inhibition reduces white thrombus at arterial anastomosis; LMWH reduces venous thrombosis risk."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q19",
+        "stem": "A 66-year-old man undergoes fibula free flap mandibular reconstruction. During closure, the surgeon observes the skin paddle is receiving adequate perfusion (septocutaneous perforators confirmed by Doppler). Forty minutes post-operatively, in recovery, the skin paddle is noted to be dusky and non-pulsatile on implantable Doppler. The surgeon returns to theatre and finds venous congestion at the anastomosis. After venous thrombectomy and re-anastomosis, the skin paddle reperfuses. How long after flap reperfusion should the patient remain in intensive care monitoring?",
+        "options": {
+          "A": "6 hours — the flap has been salvaged; standard ward observation is sufficient",
+          "B": "24 hours — re-thrombosis risk is highest in the first 24 hours after salvage",
+          "C": "48–72 hours minimum — post-salvage flaps have prolonged elevated re-thrombosis risk",
+          "D": "No specific monitoring beyond routine post-operative nursing"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "After successful flap salvage from venous thrombosis and re-anastomosis, the flap remains at significantly elevated risk of re-thrombosis for 48–72 hours. Endothelial injury from the original thrombotic event, oedema in the vessel walls, and ischaemia-reperfusion injury all increase the risk of recurrent thrombosis. Intensive monitoring (every 30–60 minutes clinical checks, continuous implantable Doppler) for a minimum of 48–72 hours post-salvage is the standard of care. Many units would extend monitoring to 5–7 days in salvaged flaps.",
+          "wrong": {
+            "A": "Six hours is entirely insufficient after a salvage procedure — re-thrombosis most commonly occurs within the first 24–72 hours and requires early detection.",
+            "B": "24 hours is better but still insufficient — the 48–72 hour window is the recognised elevated-risk period for re-thrombosis after salvage. Many protocols extend monitoring for 5 days.",
+            "D": "Routine ward nursing without enhanced free flap monitoring frequency after a salvage procedure is inadequate and dangerous. These patients require 1–2 hourly clinical checks minimum."
+          },
+          "guideline": "EACMFS Free Flap Monitoring Protocols 2023; AAOMS Microvascular Surgery Standards 2023",
+          "trial": "Smit JM et al. (J Plast Reconstr Aesthet Surg 2010): post-salvage flap monitoring — re-thrombosis occurred in 30% of salvaged flaps within 72 hours; intensive monitoring (q30min) with implantable Doppler achieved 85% second-salvage rate.",
+          "pearl": "Salvaged free flap = high re-thrombosis risk. Monitor every 30–60 minutes for 48–72 hours minimum. Implantable Doppler is essential in salvaged flaps — detects re-thrombosis 4.5 hours earlier than clinical monitoring alone. Consider anti-thrombotic enhancement (dextran, heparin) post-salvage."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q20",
+        "stem": "A 55-year-old woman undergoes fibula free flap mandibular reconstruction for a Class IIb defect. Pathological staging reveals T4aN2b with extranodal extension. Post-operative chemoradiotherapy (60 Gy) to the neck and mandible is recommended. At 18 months post-radiation, the patient is in complete remission and wishes dental implants. Which pre-implant protocol is recommended?",
+        "options": {
+          "A": "Immediate implant placement without further intervention — fibula bone is resistant to radiation damage",
+          "B": "Bisphosphonate therapy for 3 months to enhance bone density before implant placement",
+          "C": "Hyperbaric oxygen therapy (HBO) pre- and post-implant placement, with implant insertion ≥12 months after radiation completion",
+          "D": "Vertical distraction osteogenesis must precede implants in all irradiated fibula reconstructions"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "For dental implants in previously irradiated mandibular fibula (≥50 Gy), the recommended protocol includes: (1) waiting ≥12–18 months after radiation completion; (2) hyperbaric oxygen (HBO) therapy — typically 20 sessions pre-implant and 10 sessions post-implant — to enhance vascularity and reduce osteoradionecrosis risk; (3) careful patient selection; (4) rigorous oral hygiene post-implant. The Marx HBO protocol (20/10 pre/post) is widely used, although evidence from systematic reviews is mixed — HBO is still recommended by AAOMS and EACMFS for implants in high-dose (>50 Gy) irradiated jaw.",
+          "wrong": {
+            "A": "Fibula bone is NOT resistant to radiation damage — irradiated fibula has reduced vascularity, impaired healing, and increased risk of osteoradionecrosis (ORNJ) around implants. Immediate implant placement without HBO in 60 Gy-irradiated bone is associated with significantly higher failure and ORNJ rates.",
+            "B": "Bisphosphonates are specifically CONTRAINDICATED in patients with irradiated jaw bone because they significantly increase the risk of medication-related osteonecrosis of the jaw (MRONJ). This is one of the most important contraindications in jaw reconstruction.",
+            "D": "Vertical distraction osteogenesis is needed only when fibula height is insufficient for implant-prosthetic emergence — it is not universally required in all irradiated fibula reconstructions. Height assessment is done individually."
+          },
+          "guideline": "AAOMS Position Paper on MRONJ 2022; AAOMS Dental Implants in Irradiated Mandible 2023; Marx RE (J Oral Maxillofac Surg 1983)",
+          "trial": "Marx RE (J Oral Maxillofac Surg 1983): HBO protocol for irradiated mandible — 20 sessions pre- and 10 sessions post-implant reduces ORNJ from 35% to 5% in high-dose irradiated bone.",
+          "pearl": "Implants in irradiated fibula (≥50 Gy): wait ≥12–18 months post-XRT + HBO (20 pre / 10 post, Marx protocol). NEVER use bisphosphonates in irradiated jaw — MRONJ risk. Bisphosphonates + radiation = highest risk combination for osteonecrosis."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

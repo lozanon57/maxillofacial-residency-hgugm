@@ -1,0 +1,641 @@
+{
+  "id": "C3",
+  "title": "Preprosthetic Surgery: Ridge Augmentation and Bone Grafting",
+  "subtitle": "Block C — Dentoalveolar Surgery and Implantology",
+  "block": "C",
+  "block_name": "Dentoalveolar Surgery and Implantology",
+  "level": "R2-3",
+  "reading_time_min": 35,
+  "guidelines_version": "EACMFS Implantology Guidelines 2023 · ITI Consensus Statements 2023 · AAOMS Parameters of Care 2023",
+  "textbook_refs": [
+    "Misch CE. Contemporary Implant Dentistry, 3rd Ed (2008)",
+    "Marx RE, Stern D. Oral and Maxillofacial Pathology: A Rationale for Diagnosis and Treatment (2003)",
+    "Chiapasco M, Zaniboni M, Rimondini L. Autogenous onlay bone grafts vs. distraction osteogenesis for the correction of vertically deficient edentulous ridges. Clin Oral Implants Res (2007)",
+    "Boyne PJ, James RA. Grafting of the maxillary sinus floor with autogenous marrow and bone. J Oral Surg (1980)"
+  ],
+  "learning_objectives": [
+    "Classify alveolar ridge defects (Cawood and Howell) and select appropriate augmentation strategies",
+    "Compare autogenous bone grafts, allografts, xenografts, and alloplasts for ridge augmentation indications and outcomes",
+    "Describe the principles of guided bone regeneration (GBR) and the role of barrier membranes",
+    "Plan and describe the lateral window sinus lift technique including anatomy and complications",
+    "Apply the principles of socket preservation after tooth extraction to reduce ridge resorption",
+    "Identify key complications of bone augmentation and apply evidence-based management"
+  ],
+  "sections": [
+    {
+      "id": "C3-S1",
+      "title": "Alveolar Ridge Resorption and Classification",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Following tooth extraction, the alveolar process undergoes progressive resorption that continues lifelong in the absence of implants. **Alveolar ridge resorption** is driven by the loss of the functional mechanical load that teeth provide to the alveolar bone (Wolff's law: bone mass is maintained by functional loading). Resorption proceeds faster in the first 3–6 months post-extraction (remodelling phase) and continues at a slower rate indefinitely.\n\n**Pattern of resorption:**\n- **Maxilla:** Resorbs in a predominantly centripetal direction (inward and upward), producing narrowing and superior recession of the arch. The arch becomes relatively smaller over time.\n- **Mandible:** Initially resorbs centrifugally (outward and downward), then predominantly in the vertical dimension. Long-term mandibular resorption produces a relatively larger arch (the opposite of the maxilla), with loss of the buccal and lingual cortical plates and eventual knife-edge ridge.\n\n**Cawood and Howell classification (1988)** of edentulous ridge atrophy:\n- **Class I:** Dentate — normal ridge\n- **Class II:** Immediately post-extraction — socket present, healing\n- **Class III:** Well-rounded ridge with adequate height and width\n- **Class IV:** Knife-edge ridge — adequate height but insufficient width\n- **Class V:** Flat ridge — insufficient height and width\n- **Class VI:** Depressed ridge — below the original basal bone level (most severe)\n\nAugmentation requirements increase with Cawood class: Classes III-IV benefit from horizontal augmentation (GBR, block graft); Class V requires vertical augmentation (vertical GBR, distraction, block graft); Class VI (rare) requires major reconstruction."
+        },
+        {
+          "type": "table",
+          "title": "Cawood-Howell Ridge Classification and Augmentation Strategy",
+          "headers": ["Class", "Description", "Augmentation Need", "Preferred Strategy"],
+          "rows": [
+            ["I", "Dentate — tooth present", "None", "Socket preservation at extraction"],
+            ["II", "Immediate post-extraction", "Preserve socket", "Socket preservation (graft + membrane)"],
+            ["III", "Rounded ridge, adequate width and height", "Minimal or none", "Implant ± GBR simultaneous"],
+            ["IV", "Knife-edge — adequate height, insufficient width", "Horizontal augmentation", "GBR, block graft, or split-ridge technique"],
+            ["V", "Flat ridge — insufficient height and width", "Vertical + horizontal", "Vertical GBR, distraction osteogenesis, block graft"],
+            ["VI", "Depressed below basal bone", "Major reconstruction", "Large block graft, free flap (rare)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Maxilla vs Mandible Resorption Pattern",
+          "content": "Maxillary resorption is centripetal (arch gets smaller) while mandibular resorption is initially centrifugal then vertical (arch appears relatively wider). This is why long-term denture patients develop a reversed jaw relationship over time — the maxillary arch shrinks inward while the mandibular arch remains relatively wider, creating what appears to be a Class III relationship in severely atrophic patients."
+        }
+      ]
+    },
+    {
+      "id": "C3-S2",
+      "title": "Bone Graft Biology: Graft Types and Properties",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bone grafts are classified by their biological properties — **osteogenesis, osteoinduction, and osteoconduction** — and by their source material.\n\n**Osteogenesis:** Viable osteoblasts or osteoprogenitor cells within the graft that directly form new bone. Only autogenous grafts (from the patient) contain viable cells capable of osteogenesis.\n\n**Osteoinduction:** The ability of the graft material to stimulate host mesenchymal stem cells to differentiate into osteoblasts via signalling molecules (BMPs: bone morphogenetic proteins, especially BMP-2 and BMP-7). Present in autogenous bone and in demineralised freeze-dried bone allograft (DFDBA), which exposes the collagen matrix and BMPs. Synthetic materials generally lack osteoinductive capacity.\n\n**Osteoconduction:** A physical scaffold property — the graft provides a three-dimensional matrix that guides vascular ingrowth and new bone formation along its structure. Hydroxyapatite (HA), beta-tricalcium phosphate (β-TCP), xenograft (bovine/porcine HA), and allograft all have osteoconductive properties.\n\n**Graft source types:**\n\n1. **Autogenous bone (autograft):** Gold standard — has all three properties (osteogenesis + osteoinduction + osteoconduction). Sources in oral surgery: chin (symphysis), mandibular ramus/body, maxillary tuberosity (small quantities); iliac crest (large quantities for major augmentation). Disadvantages: donor site morbidity, limited availability, resorption over time (cortical grafts resorb 20–30% at 12 months; cancellous grafts resorb faster but integrate quicker).\n\n2. **Allograft:** Human cadaveric bone, processed to remove immunogenic proteins. Types: fresh-frozen bone allograft (FFBA); freeze-dried bone allograft (FDBA) — osteoconductive; demineralised freeze-dried bone allograft (DFDBA) — osteoconductive + osteoinductive (BMPs partially preserved). No donor site morbidity; limited disease transmission risk (screened donors).\n\n3. **Xenograft:** Animal bone-derived HA (bovine = Bio-Oss, porcine). Osteoconductive only; very low resorption rate (slow substitution by host bone over months to years). Bio-Oss is the most widely researched bone substitute material globally. Used for sinus grafts, socket preservation, GBR particulate fill.\n\n4. **Alloplast:** Synthetic bone substitutes — hydroxyapatite, β-TCP, calcium sulphate, bioactive glass. Osteoconductive only; no osteogenesis or osteoinduction. Resorbable (β-TCP) or non-resorbable (synthetic HA). Used for filling small defects, socket preservation, and GBR."
+        },
+        {
+          "type": "table",
+          "title": "Bone Graft Properties by Type",
+          "headers": ["Graft Type", "Osteogenesis", "Osteoinduction", "Osteoconduction", "Donor Site", "Key Advantage"],
+          "rows": [
+            ["Autogenous (autograft)", "Yes", "Yes", "Yes", "Patient (chin, ramus, iliac)", "Gold standard; all 3 properties"],
+            ["Allograft FDBA", "No", "No", "Yes", "Human cadaver", "No donor site; predictable scaffold"],
+            ["Allograft DFDBA", "No", "Yes (partial)", "Yes", "Human cadaver", "Osteoinductive + no donor site"],
+            ["Xenograft (Bio-Oss)", "No", "No", "Yes", "Bovine/porcine", "Slow resorption; widely researched"],
+            ["Alloplast (β-TCP)", "No", "No", "Yes", "Synthetic", "Resorbable; no disease risk"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Iliac Crest Graft for Large Augmentation",
+          "content": "For large-volume ridge augmentation (Cawood V-VI, Class III jaw reconstruction), the iliac crest remains the standard donor site for autogenous bone. It provides large volumes of cortical-cancellous bone. Harvest is performed under general anaesthesia from the anterior iliac crest (anterior superior iliac spine). Donor site morbidity includes: haematoma (8–15%), seroma, paraesthesia of the lateral femoral cutaneous nerve (10–20%), gait disturbance (5%), and scar. The cortical-cancellous mixture from the iliac crest is preferred over purely cortical ramus grafts for vertical augmentation due to higher osteoinductive potential of the cancellous component."
+        }
+      ]
+    },
+    {
+      "id": "C3-S3",
+      "title": "Guided Bone Regeneration (GBR): Technique and Materials",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Guided bone regeneration applies the principle of selective cell repopulation — a barrier membrane physically excludes rapidly proliferating fibroblasts and epithelium from the defect while maintaining protected space for osteoblasts to regenerate bone.\n\n**Membrane types:**\n\n*Non-resorbable membranes:* Expanded polytetrafluoroethylene (ePTFE, Gore-Tex) and titanium-reinforced ePTFE. Advantages: superior space maintenance, can be shaped. Disadvantages: require a second procedure for removal (3–6 months post-grafting); if exposed, contaminate and must be removed early.\n\n*Resorbable membranes:* Collagen membranes (bovine collagen type I/III; e.g., Bio-Gide), polyglactin (Vicryl). Advantages: no removal procedure; better tolerated if minor exposure. Disadvantages: resorb before full bone regeneration in some situations (especially vertical GBR where long resorption time needed); less space maintenance than titanium-reinforced.\n\n**GBR technique — horizontal augmentation:**\n1. Full-thickness mucoperiosteal flap elevated beyond the defect margins\n2. Cortical bone decortication (perforation with a bur) to allow vascular and cellular access from the native bone\n3. Particulate bone graft (xenograft, autograft mix, or allograft) placed to recreate the desired volume\n4. Barrier membrane placed over the graft, extending 3–4 mm onto native bone at all margins\n5. Periosteal releasing incision to achieve tension-free closure\n6. Wound closure with resorbable sutures\n\n**GBR technique — vertical augmentation:**\nVertical bone gain is technically more challenging than horizontal. Requires: titanium-reinforced non-resorbable membrane (to maintain vertical space against gravity and soft tissue pressure) OR titanium mesh (provides rigid support), particulate graft (or block), and tension-free primary closure. Vertical gain of 4–7 mm is achievable with experienced technique; more than 7 mm vertical gain is more reliably achieved with distraction osteogenesis.\n\n**Space maintenance** is the critical technical requirement for GBR, especially vertical augmentation. The membrane must prevent collapse of the soft tissue into the graft space during healing. Titanium-reinforced membranes and titanium meshes are the most reliable for space maintenance."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Wound Dehiscence Over GBR Membrane",
+          "content": "Wound dehiscence (opening of the surgical incision) exposing the barrier membrane is the most common GBR complication and significantly reduces the regenerative outcome. Causes: flap closed under tension, thin tissue, suture technique failure, patient trauma. Prevention: thorough periosteal releasing incision to achieve absolute tension-free closure; verify no tension before closing. If a non-resorbable membrane is exposed early (<4 weeks), it must usually be removed — the GBR outcome is lost. If a resorbable membrane is exposed, it may be treated conservatively with chlorhexidine and allowed to resorb, with partial bone gain salvaged."
+        }
+      ]
+    },
+    {
+      "id": "C3-S4",
+      "title": "Lateral Window Sinus Lift: Technique and Complications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The lateral window sinus lift (LWS; Caldwell-Luc variant; Boyne and James 1980; Tatum modification) provides access to the maxillary sinus floor for elevation of the Schneiderian membrane and graft placement in severely atrophic posterior maxillae (<4 mm residual crestal height).\n\n**Relevant anatomy:**\n- **Schneiderian membrane:** Thin (0.5–1.5 mm), highly vascular pseudostratified ciliated columnar epithelium lining the sinus. Must be elevated intact — perforation increases infection and graft failure risk\n- **Posterior superior alveolar artery (PSAA):** Branches of the maxillary artery run within the lateral sinus wall, anastomosing with the infraorbital artery. Transection during window creation causes bleeding; identified 15–18 mm above the alveolar crest on average\n- **Schneiderian membrane septa (Underwood's septa):** Bony partitions within the sinus floor; present in ~30% of patients; identified on CBCT preoperatively; divide the sinus into compartments requiring separate membrane elevation\n\n**Technique (Tatum modification):**\n1. Lateral vestibular incision with periosteal flap elevation to expose the lateral sinus wall\n2. Mark the window outline: 5 mm above the sinus floor, 4–5 mm posterior to the zygomatic buttress\n3. Use a round bur at low speed to outline the window through the lateral cortex only; remaining membrane-thin bone is removed with a curette\n4. Elevate the Schneiderian membrane from the floor, medial wall, and roof of the sinus with curved Luk elevators, working from posterior to anterior\n5. If membrane perforates: seal with collagen membrane + continue; if large tear (>5 mm): consider abandoning and reschedule (some surgeons place a resorbable membrane and proceed)\n6. Pack the floor with bone graft (xenograft alone, or xenograft + autogenous bone mix)\n7. Cover the window with collagen membrane\n8. Close in layers\n\n**Healing:** Implants placed after LWS healing typically achieve osseointegration equivalent to non-augmented sites. Standard healing: 6–9 months before implant placement for particulate graft, 4–6 months for autograft-containing graft mixes.\n\n**Complications:**\n- Membrane perforation: 10–20% incidence; small perforations managed with collagen membrane repair\n- Sinusitis: 2–5% postoperative; managed with antibiotics and nasal decongestants; rarely requires surgical revision\n- Graft infection/failure: 2–5%; requires removal of infected graft material\n- Bleeding from PSAA: usually controlled with pressure; rarely requires ligation"
+        },
+        {
+          "type": "table",
+          "title": "Lateral Window Sinus Lift: Complications and Management",
+          "headers": ["Complication", "Incidence", "Cause", "Management"],
+          "rows": [
+            ["Schneiderian membrane perforation", "10–20%", "Thin membrane; septa; technique", "Small (<5 mm): collagen patch + continue. Large: consider abandoning"],
+            ["Postoperative sinusitis", "2–5%", "Graft contamination; osteomeatal complex obstruction", "Antibiotics; nasal decongestants; functional endoscopic sinus surgery if no resolution"],
+            ["Graft infection", "2–5%", "Contamination; membrane perforation", "Debridement; antibiotics; staged re-graft after healing"],
+            ["Posterior superior alveolar artery bleeding", "5–10%", "Window created through PSAA course", "Bipolar cautery; pressure; rarely ligation"],
+            ["Implant failure post-sinus lift", "5–10%", "Poor quality regenerate; infection; poor primary stability", "Explant; re-graft; re-implant"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Crestal vs Lateral Window Sinus Lift Thresholds",
+          "content": "Crestal (Summers) technique: residual crestal height 4–8 mm. Lateral window (Boyne/Tatum): residual crestal height <4 mm. The crestal technique uses an osteotome to carefully fracture the sinus floor upward, elevating the membrane hydraulically, and packs graft through the osteotomy. The lateral window provides direct visualisation for very atrophic ridges. Schneiderian membrane integrity is critical in both — perforation increases infection risk."
+        }
+      ]
+    },
+    {
+      "id": "C3-S5",
+      "title": "Socket Preservation: Principles and Evidence",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Socket preservation (alveolar ridge preservation, ARP)** is a procedure performed at the time of tooth extraction to reduce or minimise the physiological alveolar ridge resorption that follows extraction. Without intervention, the alveolar ridge loses approximately 50% of its width in the first 3 months, with 30–40% of horizontal width loss and 10–20% of vertical height loss in the first year.\n\n**Technique:** After atraumatic tooth extraction and curettage of the socket:\n1. Place bone graft material (xenograft alone is the best-evidenced material for socket preservation; autograft; FDBA) into the socket to fill it\n2. Cover with a barrier membrane (resorbable collagen membrane) secured to the socket margins\n3. Primary closure (ideal) or partial closure leaving the membrane exposed over the socket (the membrane provides a scaffold for epithelialisation)\n\n**Evidence summary (ITI Consensus 2023):**\n- Socket preservation significantly reduces horizontal bone loss (mean difference ~2 mm reduction vs unassisted healing)\n- Less consistent evidence for vertical preservation\n- Delayed implant placement (3–4 months post-socket preservation) produces better bone volume than in unaugmented sockets at the same time point\n- Socket preservation does not eliminate resorption — it reduces it\n- Best evidence exists for xenograft (Bio-Oss) + collagen membrane (Bio-Gide)\n\n**Indications for socket preservation:**\n- Implant site planning in an aesthetically important area\n- Thin buccal plate (≤1 mm) on CBCT or detected at extraction\n- Immediate implant placement not possible (infection, insufficient bone volume)\n- When implant placement will be delayed >3 months\n\n**Immediate implant placement:** Placing the implant at the time of extraction, achieving primary stability in the apical bone beyond the socket apex, and simultaneously grafting any gap between the implant and the socket walls (jumping distance) with xenograft. Suitable when: non-infected site, intact buccal plate, sufficient apical bone for stability, no acute infection."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Thin Buccal Plate Management",
+          "content": "The buccal plate of the maxillary anterior teeth is typically <1 mm thick. At extraction, this thin plate is especially vulnerable to resorption — loss of the bundle bone (tooth-supporting bone) leads to buccal contour collapse. In patients requiring future implant restoration, socket preservation with xenograft + collagen membrane + primary closure is the standard of care at anterior maxillary extractions, regardless of planned implant timing."
+        }
+      ]
+    },
+    {
+      "id": "C3-S6",
+      "title": "Block Bone Grafting: Intraoral and Extraoral Donor Sites",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Block bone grafts (cortical-cancellous monoblocks) are used for larger ridge augmentations (>4–5 mm horizontal or vertical) that exceed what particulate GBR can predictably achieve.\n\n**Intraoral donor sites:**\n\n*Mandibular symphysis (chin):* Provides 5–10 mL of cortical-cancellous bone — enough for 3–5 implant sites. Harvest via a labiovestibular incision with a bur and reciprocating saw. Complications: mental nerve hypoaesthesia (10–30%, most temporary), anterior tooth vitality change (5%), wound dehiscence. Avoiding the tooth root apices is critical.\n\n*Mandibular ramus/body:* Provides predominantly cortical bone (less cancellous) — good for horizontal augmentation but less osteoinductive than chin graft. Larger volume than chin. Fewer anterior dental complications. Harvest via a lateral mandibular approach in the retromolar region.\n\n**Extraoral donor sites:**\n\n*Iliac crest:* Gold standard for large-volume augmentation — provides up to 30–40 mL of cortical-cancellous bone. Anterior iliac crest most commonly used. Complications as described above (haematoma, LFCN paraesthesia, gait disturbance). Required for Cawood V-VI reconstruction.\n\n*Calvarium (outer table):* High-density cortical bone; lower resorption than membranous bone; requires neurosurgical or specialised craniofacial access; rare in routine implant practice.\n\n**Block graft fixation and healing:**\nBlock grafts are fixed to the recipient site with 1.5 mm titanium fixation screws. The graft is placed in contact with decorticated recipient bone (perforations made with a bur). A resorbable collagen membrane covers the block and any gaps. Soft tissue closure must be tension-free. Healing: 3–5 months before implant placement into the grafted area; fixation screws removed at implant surgery.\n\n**Cortical vs cancellous grafts:**\n- Cortical: slower resorption (25–30% volume loss at 12 months), better space maintenance\n- Cancellous: faster incorporation and vascularisation, higher resorption (40–50% volume loss)\n- Cortical-cancellous mix (iliac crest, chin): optimal — rapid integration with reasonable volume maintenance"
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Chin Graft and Anterior Tooth Vitality",
+          "content": "Chin block graft harvest must avoid the apices of the lower anterior teeth (typically 5 mm inferior margin to tooth apices) to prevent denervation and loss of vitality of the lower incisors and canines. Preoperative radiographic assessment of root lengths is mandatory. If the symphysis is too shallow (insufficient distance between root apices and inferior border), ramus harvest should be used instead to avoid anterior tooth complications."
+        }
+      ]
+    },
+    {
+      "id": "C3-S7",
+      "title": "Ridge Split and Expansion Techniques",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **ridge split (alveolar ridge expansion, alveolar split)** technique is an alternative to onlay block grafting for horizontal ridge deficiency (Cawood IV — knife-edge ridge). Rather than grafting material from outside, the technique widens the existing ridge by splitting it and expanding the buccal plate laterally.\n\n**Principle:** A sagittal osteotomy is made through the knife-edge ridge, creating buccal and lingual cortical segments. Sequential expanders (or osteotomes) are used to gradually widen the gap, greenstick-fracturing the buccal plate outward while the lingual plate remains in place. The expanded space is filled with bone graft, and the implant is placed immediately (one-stage) or after 3–4 months (two-stage) depending on bone quality.\n\n**Indications:**\n- Knife-edge ridge (Cawood IV) with at least 3 mm of buccolingual width\n- Insufficient width for a standard-diameter implant without augmentation\n- Patient preference for avoiding block graft donor site\n\n**Prerequisites:**\n- Adequate ridge height (>12 mm)\n- Bone quality that allows controlled greenstick fracture without complete fracture of the buccal plate\n- Often performed in maxilla (more cancellous, allowing controlled expansion) rather than mandible (dense cortical bone fractures rather than expands)\n\n**Outcomes:** Comparable to GBR with block graft for moderate deficiencies (2–4 mm gain); shorter treatment time than phased block grafting; no donor site morbidity.\n\n**Piezoelectric surgery** uses ultrasonic vibration to make precise, blood-vessel-safe osteotomies in the ridge, allowing controlled bone cuts with less thermal damage than rotary instruments. Particularly useful for ridge split osteotomies where precision adjacent to nerve structures is critical.\n\n**Distraction osteogenesis** for alveolar augmentation (as described in Chapter B5) is an alternative for large vertical and horizontal deficiencies where conventional grafting is inadequate or where avoidance of graft resorption is important."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Ridge Split Indication",
+          "content": "Ridge split (expansion) is appropriate for knife-edge (Cawood IV) ridges with 3–5 mm buccolingual width that require augmentation to 5–7 mm for standard implants. Ridges narrower than 3 mm cannot be reliably expanded — they fracture. Ridges with adequate width already (>5–6 mm) do not need expansion. Piezosurgery is the preferred instrumentation for ridge splitting due to precision and reduced thermal damage."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of preprosthetic surgery, bone grafting, and ridge augmentation with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "C3-Q1",
+        "stem": "According to the Cawood and Howell classification, a 'knife-edge' ridge with adequate height but insufficient width is classified as:",
+        "options": {
+          "A": "Class III",
+          "B": "Class IV",
+          "C": "Class V",
+          "D": "Class VI"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Cawood and Howell Class IV describes a knife-edge ridge — adequate vertical height is present but the buccolingual (horizontal) width is insufficient for standard implant placement. The ridge has a narrow, sharp crest, often with adequate total height but only 2–4 mm width. This is distinct from Class V (flat — insufficient height AND width) and Class VI (depressed below basal bone).",
+          "wrong": {
+            "A": "Class III is a well-rounded ridge with both adequate height and width — the best situation for implants without augmentation",
+            "C": "Class V is a flat ridge with both insufficient height and width — more severe than knife-edge",
+            "D": "Class VI is depressed below basal bone level — the most severe category"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Ridge classification and augmentation strategy",
+          "trial": "Cawood JI, Howell RA. A classification of the edentulous jaws. Int J Oral Maxillofac Surg (1988): original 6-class classification system; Class IV knife-edge defined",
+          "pearl": "Cawood-Howell: I=dentate, II=fresh extraction, III=rounded (adequate), IV=knife-edge (width deficient only), V=flat (height + width deficient), VI=depressed. IV=horizontal augmentation only. V=both axes. Know the progression."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q2",
+        "stem": "Which bone graft type possesses all three biological properties required for optimal bone regeneration: osteogenesis, osteoinduction, AND osteoconduction?",
+        "options": {
+          "A": "Xenograft (bovine hydroxyapatite)",
+          "B": "Demineralised freeze-dried bone allograft (DFDBA)",
+          "C": "Autogenous bone graft",
+          "D": "Beta-tricalcium phosphate (β-TCP)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Only autogenous bone (taken from the patient themselves) possesses all three biological properties: osteogenesis (viable osteoblasts and osteoprogenitors that directly form new bone), osteoinduction (BMPs and other growth factors that stimulate host stem cell differentiation into osteoblasts), and osteoconduction (3D scaffold architecture that guides vascular and cellular ingrowth). This is why autogenous bone remains the gold standard for bone grafting despite donor site morbidity.",
+          "wrong": {
+            "A": "Xenograft (Bio-Oss) has ONLY osteoconduction — no osteogenesis (no viable cells), no osteoinduction (BMPs denatured during bovine processing)",
+            "B": "DFDBA has osteoinduction (partial BMPs preserved during demineralisation) + osteoconduction, but NO osteogenesis (no viable cells — cadaveric processed bone)",
+            "D": "β-TCP has ONLY osteoconduction — synthetic, no cells, no BMPs"
+          },
+          "guideline": "ITI Consensus Statements (2023): Bone graft biology — autograft as gold standard",
+          "trial": "Marx RE, Stern D. Oral and Maxillofacial Pathology (2003): systematic description of graft properties; autograft only graft with all three biological properties",
+          "pearl": "Graft property mnemonic — 3 Os: Osteogenesis (cells), Osteoinduction (signals), Osteoconduction (scaffold). Only autograft has all 3. DFDBA = 2 Os (induction + conduction). Xenograft + alloplast = 1 O (conduction only). Gold standard = autograft."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q3",
+        "stem": "During a lateral window sinus lift, the Schneiderian membrane tears creating a 7 mm perforation. The surgeon cannot repair it with a small collagen patch. What is the most appropriate next step?",
+        "options": {
+          "A": "Continue with graft placement — membrane perforations have no effect on outcomes",
+          "B": "Abandon the procedure, close the window with a collagen membrane, and reschedule in 6–8 weeks",
+          "C": "Pack the entire sinus cavity with bone graft to tamponade the perforation",
+          "D": "Proceed with implant placement immediately to stabilise the graft"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A large (>5 mm) Schneiderian membrane perforation that cannot be reliably sealed with a small collagen membrane patch represents a significant complication. Proceeding with graft placement through a large perforation risks: (1) graft material entering and filling the sinus cavity, (2) post-operative sinusitis, (3) graft infection, (4) graft failure. The appropriate response is to close the lateral window with a resorbable collagen membrane, allow the membrane to heal for 6–8 weeks, and perform a second staged sinus lift procedure when the membrane has regenerated.",
+          "wrong": {
+            "A": "Large perforations significantly increase sinusitis and graft failure risk — they cannot be ignored",
+            "C": "Packing graft through a large perforation would fill the sinus cavity with graft material, causing sinusitis, foreign body reaction, and the need for urgent ENT sinus washout",
+            "D": "Immediate implant placement does not address the membrane perforation problem; implant placement into an unaugmented site with inadequate bone height is inappropriate"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Sinus lift complications — management of large membrane perforations",
+          "trial": "Schwartz-Arad D et al. Complications of the lateral approach to the maxillary sinus: a review. J Periodontol (2004): perforation >5 mm = staged approach; immediate repair with small perforations; abandonment + reschedule for large perforations produces best outcomes",
+          "pearl": "Sinus lift membrane perforation: Small (<5 mm) = collagen patch + continue. Large (>5 mm) = abandon + close window + reschedule in 6–8 weeks. Never proceed with graft placement through a large unrepaired perforation."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q4",
+        "stem": "Socket preservation after tooth extraction is most reliably achieved with which combination of materials according to current ITI evidence?",
+        "options": {
+          "A": "Chlorhexidine-soaked gauze + primary closure",
+          "B": "Xenograft (bovine HA) + resorbable collagen membrane",
+          "C": "Autogenous bone graft chips alone with tight primary closure",
+          "D": "β-TCP alloplast + non-resorbable ePTFE membrane"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The best-evidenced combination for socket preservation is xenograft (bovine hydroxyapatite; Bio-Oss) plus a resorbable collagen membrane (Bio-Gide). This combination is supported by the highest quality evidence: systematic reviews and RCTs show significantly reduced horizontal bone loss compared to unassisted healing (mean ~2 mm reduction). Xenograft provides excellent space maintenance due to its slow resorption rate, and the collagen membrane prevents soft tissue invasion and supports epithelialisation. The combination is the ITI Consensus 2023 recommended approach.",
+          "wrong": {
+            "A": "Chlorhexidine gauze with primary closure provides no regenerative scaffold — it simply helps prevent infection; bone resorption proceeds normally",
+            "C": "Autogenous bone chips undergo significant resorption and do not maintain long-term ridge volume as effectively as xenograft for socket preservation; autograft chips alone are not the first-choice for socket preservation",
+            "D": "Non-resorbable ePTFE membranes require a second removal procedure and have no specific advantage over resorbable collagen membranes for socket preservation (where the space maintenance requirements are less demanding than vertical GBR)"
+          },
+          "guideline": "ITI Consensus Statements (2023): Socket preservation — xenograft + collagen membrane as best-evidenced combination",
+          "trial": "Avila-Ortiz G et al. Effect of alveolar ridge preservation interventions following tooth extraction: a systematic review and meta-analysis. J Clin Periodontol (2019): xenograft + membrane group showed 2.07 mm less horizontal loss vs unassisted healing; best-evidenced combination",
+          "pearl": "Socket preservation gold standard = xenograft (Bio-Oss) + collagen membrane (Bio-Gide). Reduces horizontal bone loss by ~2 mm. Does not eliminate resorption — reduces it. Best indication: anterior maxilla, thin buccal plate, delayed implant planned >3 months."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q5",
+        "stem": "The fundamental biological principle of guided bone regeneration (GBR) is best described as:",
+        "options": {
+          "A": "Stimulation of osteoblast differentiation through BMP growth factors in the membrane",
+          "B": "Physical exclusion of soft tissue cells from the defect while maintaining space for bone-forming cells",
+          "C": "Electrical stimulation of bone formation through titanium's piezoelectric properties",
+          "D": "Antibacterial properties of the membrane preventing post-surgical infection"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The fundamental GBR principle is selective cell repopulation through physical exclusion. The barrier membrane prevents rapidly proliferating fibroblasts and epithelial cells from entering the defect space, while maintaining a protected compartment that slower-migrating osteoblasts (from native bone periosteum and endosteum) can populate and regenerate bone within. This was established by Dahlin et al. (1988) — control defects without membranes filled with fibrous tissue; membrane-covered defects regenerated bone.",
+          "wrong": {
+            "A": "Standard collagen membranes do not contain significant amounts of BMPs — their mechanism is barrier function, not osteoinduction",
+            "C": "Titanium piezoelectric effects are not the mechanism of GBR — titanium-reinforced membranes are used for mechanical support, not electrical stimulation",
+            "D": "GBR membranes are not primarily antibacterial — wound dehiscence and membrane exposure to oral bacteria are major complications, not features"
+          },
+          "guideline": "ITI Consensus Statements (2023): GBR biological principles",
+          "trial": "Dahlin C et al. Healing of bone defects by guided tissue regeneration. Plast Reconstr Surg (1988): definitive study; without membrane = fibrous fill; with membrane = bone regeneration; principle of selective cell repopulation established",
+          "pearl": "GBR principle = BARRIER to exclude fibroblasts (fast) + SPACE for osteoblasts (slow). No barrier = fibrous fill. Barrier + space = bone regeneration. Primary tension-free closure essential to protect membrane integrity."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q6",
+        "stem": "A 55-year-old man requires a 3-unit implant-supported bridge in the posterior mandible. CBCT shows 15 mm of bone height above the IAN canal and 4 mm of buccolingual width. Which bone augmentation strategy is most appropriate?",
+        "options": {
+          "A": "Lateral window sinus lift",
+          "B": "Horizontal GBR with xenograft + resorbable membrane",
+          "C": "Vertical distraction osteogenesis",
+          "D": "No augmentation needed — proceed with narrow-diameter implants"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "With 15 mm of bone height above the IAN (more than adequate for 10 mm implants with 2 mm safety margin) but only 4 mm of buccolingual width (insufficient for standard 4 mm diameter implants requiring 6 mm of bone width), horizontal augmentation is required. GBR with particulate xenograft and a resorbable collagen membrane is the appropriate first-choice for moderate horizontal deficiency (needing 2–3 mm of additional width). This is a mandibular case, so lateral sinus lift is irrelevant.",
+          "wrong": {
+            "A": "Lateral window sinus lift is a maxillary posterior procedure for vertical height deficiency — completely irrelevant for a mandibular horizontal width deficiency",
+            "C": "Vertical distraction osteogenesis addresses height deficiency — there is no height problem here; the problem is horizontal width only",
+            "D": "Narrow-diameter implants (3–3.5 mm) in a 4 mm bone width are technically possible but carry higher fracture risk and lower long-term stability — horizontal GBR to achieve adequate width is the better standard-of-care approach"
+          },
+          "guideline": "ITI Consensus Statements (2023): Augmentation strategy selection — horizontal GBR for width deficiency with adequate height",
+          "trial": "Chiapasco M et al. Autogenous onlay bone grafts vs. distraction osteogenesis for vertically deficient ridges. Clin Oral Implants Res (2007): comparison of strategies; GBR appropriate for horizontal deficiency; distraction for vertical; strategy must match defect dimensions",
+          "pearl": "Match augmentation strategy to defect type: Width deficiency (Cawood IV) = horizontal GBR. Height deficiency (Cawood V) = vertical GBR or distraction. Sinus = vertical maxillary deficiency only. Always identify which dimension is deficient before selecting technique."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q7",
+        "stem": "What minimum residual crestal bone height above the maxillary sinus floor allows a crestal (Summers transcrestal) sinus lift technique to be used?",
+        "options": {
+          "A": "1–2 mm",
+          "B": "4–5 mm",
+          "C": "8–10 mm",
+          "D": "Any height — the crestal technique can be used regardless of residual bone"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The crestal (Summers osteotome) sinus lift technique requires a minimum of 4–5 mm of residual bone height above the sinus floor. This minimum bone height is necessary to provide: (1) initial mechanical stability for the implant osteotomy, (2) an adequate bone 'piston' that is hydraulically/mechanically displaced to elevate the Schneiderian membrane, and (3) protection against membrane perforation during the crestal approach. Below 4 mm, the technique carries unacceptably high membrane perforation risk and insufficient primary stability for simultaneous implant placement; a lateral window sinus lift is required.",
+          "wrong": {
+            "A": "1–2 mm is insufficient for any sinus lift technique without a lateral window approach — at this bone height, both membrane elevation and implant stability are not achievable via the crestal approach",
+            "C": "8–10 mm is sufficient bone for implant placement without any sinus augmentation in most cases — no lift is required",
+            "D": "The crestal technique has a specific minimum height requirement — it cannot be used regardless of residual bone height"
+          },
+          "guideline": "ITI Consensus Statements (2023): Sinus lift technique selection — crestal technique minimum 4–5 mm",
+          "trial": "Summers RB. The osteotome technique: part 3 — less invasive methods of elevating the sinus floor. Compendium (1994): minimum 4 mm residual height required for crestal technique",
+          "pearl": "Sinus augmentation decision: ≥8 mm = no augmentation. 4–8 mm = crestal (Summers). <4 mm = lateral window (Boyne/Tatum). The 4 mm threshold is the crestal technique minimum — a standard board exam question."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q8",
+        "stem": "Which donor site for intraoral bone block graft harvest provides the largest volume of cortical-cancellous bone for ridge augmentation?",
+        "options": {
+          "A": "Maxillary tuberosity",
+          "B": "Mandibular symphysis (chin)",
+          "C": "Mandibular ramus",
+          "D": "Mandibular body (lateral cortex)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The mandibular symphysis (chin) provides the largest volume of cortical-cancellous bone among intraoral donor sites — typically 5–10 mL, sufficient for 3–5 implant sites. The chin graft consists of a cortical-cancellous block with a good mix of osteoinductive and osteoconductive properties. The ramus provides larger amounts of predominantly cortical bone but with less cancellous component. The tuberosity provides mostly cancellous bone with very small volume.",
+          "wrong": {
+            "A": "Maxillary tuberosity provides a small volume of mostly cancellous, often low-quality bone — insufficient for block grafts; used primarily for small particulate grafts",
+            "C": "Mandibular ramus provides good volume but mostly cortical bone; slightly less volume than the chin in most patients; less osteoinductive due to less cancellous component",
+            "D": "Mandibular body lateral cortex harvest overlaps with the ramus approach — predominantly cortical"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Intraoral donor sites — symphysis as primary source for large-volume intraoral block grafts",
+          "trial": "Misch CM. Comparison of intraoral donor sites for onlay grafting prior to implant placement. Int J Oral Maxillofac Implants (1997): symphysis provides 5–10 mL (largest intraoral volume); ramus provides 3–5 mL predominantly cortical",
+          "pearl": "Intraoral donor site volumes: Tuberosity = small, cancellous. Ramus = moderate, cortical. Symphysis = largest, cortical-cancellous. For large augmentation (>5 mL), use symphysis or iliac crest. Know symphysis as the largest intraoral source."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q9",
+        "stem": "What complication of lateral window sinus lift is related to the posterior superior alveolar artery (PSAA), and how can it be prevented?",
+        "options": {
+          "A": "Postoperative sinusitis — prevented by antibiotic prophylaxis targeting the artery distribution",
+          "B": "Intraoperative bleeding from transection of the PSAA during window creation — prevented by CBCT-guided window design avoiding the artery",
+          "C": "Oroantral fistula — prevented by preserving the PSAA for tissue vascularisation",
+          "D": "Implant failure — prevented by placing the implant through the PSAA territory"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The posterior superior alveolar artery (PSAA) runs within the lateral sinus wall in an intraosseous course approximately 15–18 mm above the alveolar crest. When the lateral window is created by bur through this area, the PSAA may be transected, causing brisk intraoperative bleeding. Prevention: preoperative CBCT identification of the PSAA course (typically visible as a canal in the lateral sinus wall); design the window inferior to the PSAA course when possible (inferior window margin should be >5 mm from the sinus floor, and the superior margin should avoid the PSAA canal). If transected: bipolar cautery or pressure haemostasis is usually effective.",
+          "wrong": {
+            "A": "Postoperative sinusitis is not related to the PSAA — it results from membrane perforation or graft contamination",
+            "C": "Oroantral fistula results from communication between the oral cavity and maxillary sinus — not related to PSAA",
+            "D": "PSAA location does not determine implant placement success"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Sinus lift vascular anatomy — PSAA identification and protection",
+          "trial": "Solar P et al. The posterior superior alveolar artery: an anatomic study. J Oral Maxillofac Surg (1999): PSAA 15–18 mm above crest in 71% of specimens; CBCT identifies course in 100%; design window to avoid",
+          "pearl": "PSAA runs 15–18 mm above alveolar crest in lateral sinus wall. CBCT preoperatively identifies the canal. Design the sinus window to stay INFERIOR to PSAA (keep upper window margin <15 mm above crest when possible). Transection = bleeding; controlled with bipolar cautery."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q10",
+        "stem": "Which of the following is the primary advantage of xenograft (bovine hydroxyapatite) over autogenous bone graft for sinus floor augmentation?",
+        "options": {
+          "A": "Osteoinductive properties that exceed autogenous bone",
+          "B": "Slow, predictable resorption providing long-term volume stability",
+          "C": "Ability to provide osteogenic cells for new bone formation",
+          "D": "Lower infection risk due to antibacterial hydroxyapatite chemistry"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The primary advantage of xenograft (Bio-Oss) over autogenous bone for sinus grafting is its slow, predictable resorption rate. Autogenous bone undergoes significant resorption (30–50% volume loss over 12–24 months) as the graft is remodelled; this can result in reduced sinus floor height available for implants if placement is delayed. Xenograft maintains its volume for months to years while being slowly replaced by host bone, providing a stable scaffold. Long-term sinus graft studies show comparable or superior bone volume maintenance with xenograft vs autogenous bone at 12–24 months.",
+          "wrong": {
+            "A": "Xenograft has NO osteoinductive properties — it is osteoconductive only; autogenous bone has superior osteoinductive properties (BMPs, viable cells)",
+            "C": "Only autogenous bone provides osteogenic cells — xenograft is completely acellular",
+            "D": "Xenograft does not have antibacterial properties; infection risk is not related to hydroxyapatite chemistry"
+          },
+          "guideline": "ITI Consensus Statements (2023): Sinus graft materials — xenograft preferred for volume stability",
+          "trial": "Toffler M. Osteotome-mediated sinus floor elevation: a clinical report. Int J Oral Maxillofac Implants (2004): xenograft maintains graft volume better than autograft at 12 months; used widely as primary or mixed graft for sinus augmentation",
+          "pearl": "Xenograft for sinus: slow resorption = volume stability. Autograft for sinus: fast incorporation but rapid resorption (30–50% loss). Most centres use xenograft alone or xenograft + autograft mix for sinus augmentation. Xenograft advantage = volume; autograft advantage = biology."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q11",
+        "stem": "Wound dehiscence over a GBR membrane is most commonly caused by:",
+        "options": {
+          "A": "Patient's immune response attacking the collagen membrane",
+          "B": "Inadequate flap design with primary wound closure under tension",
+          "C": "Over-packing of bone graft material raising the membrane",
+          "D": "Early removal of sutures within the first week"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Wound dehiscence over GBR membranes is most commonly caused by closure of the mucoperiosteal flap under tension. When the flap is not adequately mobilised (periosteal releasing incision not performed or inadequate), the tissue is pulled tightly over the augmented ridge and subsequently opens as post-surgical swelling occurs. Prevention requires a thorough periosteal releasing incision on the buccal flap (horizontal incision through the periosteum at the base of the flap to allow passive advancement) to achieve absolute tension-free closure.",
+          "wrong": {
+            "A": "Immune response to collagen membranes is rare — collagen is well-tolerated and antigenic reactions are uncommon",
+            "C": "Properly adapted graft with correct membrane coverage should not cause over-packing dehiscence — the graft is placed to fill the defect, not protrude; over-packing is a technique error but closure tension remains the primary cause",
+            "D": "Early suture removal reduces wound support but is a contributing, not primary, cause; adequate initial wound closure prevents dehiscence more reliably than suture duration"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): GBR wound management — periosteal release and tension-free closure as primary prevention",
+          "trial": "Buser D et al. GBR in implant dentistry — the Berne experience. J Oral Maxillofac Surg (1993): wound dehiscence rate reduced from 25% to 8% when periosteal releasing incision routinely performed",
+          "pearl": "GBR most important technical step = periosteal releasing incision = tension-free closure. Without periosteal release = closure under tension = dehiscence = membrane exposure = infection = GBR failure. This is the exam key for GBR complications."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q12",
+        "stem": "A resorbable collagen membrane is exposed after GBR ridge augmentation at 3 weeks. The patient maintains good oral hygiene and the exposed membrane shows no signs of purulent infection. What is the most appropriate management?",
+        "options": {
+          "A": "Immediately remove the membrane and close the wound — any exposure contaminates the graft",
+          "B": "Conservative management with chlorhexidine and oral hygiene; monitor for resolution or sign of infection",
+          "C": "Prescribe systemic antibiotics and remove the membrane at 6 weeks regardless",
+          "D": "Proceed with implant placement immediately to stabilise the regenerate before further exposure"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Minor exposure of a resorbable collagen membrane (unlike non-resorbable ePTFE) can often be managed conservatively when there is no purulent infection and oral hygiene is good. Resorbable membranes are better tolerated with minor exposure than ePTFE — they can resorb from the exposed surface while continuing to provide some barrier function underneath. The management is: daily chlorhexidine 0.12% mouthrinse, meticulous oral hygiene, monitoring at weekly intervals. If purulence, pain, or significant expansion of the exposure occurs, surgical debridement and membrane removal are indicated. Partial bone regeneration is often salvaged in these cases.",
+          "wrong": {
+            "A": "Immediate membrane removal at 3 weeks (before any bone regeneration has occurred) would sacrifice all regenerative outcome — conservative management should be attempted first for resorbable membranes",
+            "C": "Routine membrane removal at 6 weeks regardless of clinical course is not evidence-based; the decision should be based on clinical findings",
+            "D": "Immediate implant placement at 3 weeks into a partially healed, exposed GBR site carries very high failure risk — the bone has not regenerated"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): GBR exposure management — conservative for resorbable membranes without infection",
+          "trial": "Simion M et al. Dehiscences and fenestrations around implants after GBR: a clinical study. Int J Periodont Rest Dent (1994): resorbable collagen membrane exposures managed conservatively salvaged 70% of bone regeneration; ePTFE exposures required immediate removal",
+          "pearl": "Resorbable membrane exposed = conservative management (CHX + hygiene) if no infection. Non-resorbable (ePTFE) membrane exposed = must remove (bacteria colonise ePTFE pores irreversibly). Key distinction for management decisions."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C3-Q13",
+        "stem": "Socket preservation is particularly indicated following extraction of an upper central incisor because:",
+        "options": {
+          "A": "Upper central incisor roots are deeper than posterior teeth, creating larger sockets",
+          "B": "The buccal plate of anterior maxillary teeth is typically <1 mm thick and resorbs rapidly after extraction",
+          "C": "Upper anterior extractions require general anaesthesia, making concurrent socket preservation obligatory",
+          "D": "Anterior implant placement requires only 2 mm of bone, making preservation less critical"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The buccal plate of the maxillary anterior teeth (particularly central and lateral incisors) is extremely thin — typically <1 mm — and consists almost entirely of 'bundle bone' (bone directly supporting the tooth). Bundle bone resorbs rapidly after tooth extraction (within 4–8 weeks), causing significant buccal contour collapse. This rapid buccal plate resorption results in a concavity or concave buccal profile that is very difficult to correct secondarily and compromises both implant placement and aesthetic outcomes. Socket preservation with xenograft + collagen membrane is the standard of care at anterior maxillary extractions when future implant restoration is planned.",
+          "wrong": {
+            "A": "Root depth does not directly correlate with socket preservation necessity — anterior root depth is not the primary reason for preservation",
+            "C": "Socket preservation is performed under local anaesthesia as a routine office procedure — general anaesthesia is not required or standard",
+            "D": "Anterior implant placement requires at minimum 5–6 mm of bone width — inadequate preservation of thin buccal bone makes this impossible without secondary augmentation"
+          },
+          "guideline": "ITI Consensus Statements (2023): Socket preservation indications — thin buccal plate (<1 mm) as primary indication",
+          "trial": "Nevins M et al. Histologic evidence of a connective tissue attachment to laser microgrooved abutments: a canine study. Int J Periodontics Restorative Dent (2010); Covani U et al. Immediate implants supporting single crown restoration: a 4-year prospective study. J Periodontol (2004): thin buccal plate = rapid resorption = preservation required",
+          "pearl": "Anterior maxillary socket preservation is STANDARD because buccal plate <1 mm = rapid bundle bone resorption = buccal contour collapse = poor implant aesthetics. Always preserve thin buccal plate sockets at extraction when future implant planned."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q14",
+        "stem": "Which feature of titanium-reinforced ePTFE membranes makes them preferred over standard collagen membranes for vertical bone regeneration?",
+        "options": {
+          "A": "They provide osteoinductive growth factors to stimulate bone formation",
+          "B": "Their rigid titanium structure maintains vertical space against gravity and soft tissue pressure during healing",
+          "C": "They resorb more slowly than collagen, allowing longer barrier function",
+          "D": "They are impermeable to bacteria, preventing infection during healing"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For vertical bone regeneration, the barrier membrane must maintain a protected three-dimensional space against gravity and the pressure of the overlying soft tissue — which would otherwise collapse the regenerate space. Standard collagen membranes, while adequate for horizontal GBR, lack the rigidity to maintain vertical space over healing periods of 6–9 months. Titanium-reinforced ePTFE membranes have a titanium frame embedded in the ePTFE that can be shaped to the desired three-dimensional form and maintains this form throughout healing, allowing vertical bone regeneration of 4–7 mm.",
+          "wrong": {
+            "A": "Neither ePTFE nor titanium-reinforced membranes have osteoinductive properties — their mechanism is entirely barrier/space maintenance",
+            "C": "ePTFE (non-resorbable) does not resorb at all — it requires surgical removal after healing; it is not the resorption profile but the rigidity that makes it preferred for vertical regeneration",
+            "D": "ePTFE pores actually colonise easily when exposed to oral bacteria — membrane exposure is more serious than with collagen because bacteria embed in the ePTFE microstructure"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Vertical GBR — titanium-reinforced membranes for space maintenance",
+          "trial": "Urban IA et al. Vertical ridge augmentation with tenting screws, GBR, and titanium-reinforced membrane. Clin Implant Dent Relat Res (2014): 7 mm vertical gain possible with Ti-reinforced membrane; standard collagen membranes achieve only 2–3 mm vertical gain",
+          "pearl": "Vertical GBR requires Ti-reinforced membrane for space maintenance. Collagen = good for horizontal GBR (1–4 mm gain) but collapses vertically. Ti-reinforced ePTFE = maintains 3D shape = achieves 4–7 mm vertical gain. Requires removal at 6–9 months."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q15",
+        "stem": "A ridge split (alveolar expansion) technique for a narrow ridge requires a minimum residual ridge width of:",
+        "options": {
+          "A": "1 mm",
+          "B": "3 mm",
+          "C": "7 mm",
+          "D": "10 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Ridge split (alveolar expansion) requires a minimum of approximately 3 mm of buccolingual bone width to proceed safely. Below 3 mm, the ridge is too narrow to create a controlled sagittal osteotomy without completely fracturing the thin buccal plate. With 3 mm, a careful split can expand the ridge to 5–6 mm (sufficient for a standard implant) through controlled greenstick fracture of the buccal plate. Below 3 mm, onlay block grafting or GBR is the appropriate treatment instead.",
+          "wrong": {
+            "A": "1 mm is insufficient for any ridge split technique — the buccal plate would fracture completely, creating a loose fragment rather than a controlled expansion",
+            "C": "7 mm of ridge width is sufficient for standard implants without any augmentation procedure — no ridge split would be needed",
+            "D": "10 mm is more than adequate bone — no ridge split needed; implants can be placed directly"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Ridge split — minimum 3 mm width requirement",
+          "trial": "Scipioni A et al. The edentulous ridge expansion technique: a five-year study. Int J Periodontics Restorative Dent (1994): minimum 3 mm width for reliable ridge expansion; <3 mm = complete fracture risk; >5 mm = no expansion needed",
+          "pearl": "Ridge split minimum = 3 mm width. <3 mm = too thin for controlled split = onlay graft instead. 3–5 mm = ideal for ridge expansion. >5–6 mm = no augmentation needed for standard implants. Typically performed in maxilla (softer bone) more reliably than mandible (dense cortex fractures instead of expanding)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q16",
+        "stem": "When harvesting a chin (symphysis) block graft, which structure must be carefully identified and protected to prevent a common donor site complication?",
+        "options": {
+          "A": "Mental foramen and mental nerve",
+          "B": "Lower lip frenulum",
+          "C": "Mylohyoid muscle attachment",
+          "D": "Anterior belly of digastric muscle"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "The mental foramen and mental nerve are the primary structures at risk during symphysis bone graft harvest. The mental nerve exits the mental foramen between the lower premolars and supplies sensation to the lower lip and chin. The harvest site must be carefully planned to avoid the foramen (lateral boundary of the graft) and the anterior loop of the mental nerve (which extends 2–3 mm anterior to the foramen). Additionally, the root apices of the lower anterior teeth must be respected (superior boundary). Subperiosteal dissection must clearly identify the foramen bilaterally before any bur work is begun.",
+          "wrong": {
+            "A": "This is the correct answer",
+            "B": "The lower lip frenulum is a soft tissue structure at the vestibule — it is retracted during access incision and is not at risk during the bone harvest itself",
+            "C": "Mylohyoid muscle attaches to the inferior-lingual mandible — it is not in the buccal symphysis harvest field",
+            "D": "Anterior digastric attaches to the digastric fossa on the inferior medial symphysis — not in the standard buccal cortical harvest path"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Symphysis donor site — mental nerve identification as mandatory step",
+          "trial": "Misch CM. Int J Oral Maxillofac Implants (1997): mental nerve hypoaesthesia in 10–30% of symphysis donor sites; most temporary; permanent in <5%; bilateral foramen identification mandatory before harvest",
+          "pearl": "Chin graft harvest risk = mental nerve at foramen (lateral boundary) AND tooth root apices (superior boundary). Identify both bilaterally on OPG before surgery. Keep harvest lateral boundary ≥5 mm medial to foramen. Keep superior boundary ≥5 mm below root apices."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q17",
+        "stem": "Which pattern of maxillary alveolar resorption following full clearance is correctly described?",
+        "options": {
+          "A": "Centrifugal — arch gets relatively larger over time",
+          "B": "Centripetal — arch gets relatively smaller over time as the arch resorbs inward and superiorly",
+          "C": "Predominantly inferior — arch drops vertically without significant horizontal change",
+          "D": "Uniform — equal resorption in all directions"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Maxillary alveolar resorption follows a centripetal pattern — the bone resorbs inward (buccal to palatal) and superiorly, resulting in a progressively smaller maxillary arch over time. This is in contrast to the mandible, which initially resorbs centrifugally (outward) and then predominantly vertically. The centripetal maxillary pattern means that long-term edentulous maxillary patients develop a progressively recessed maxillary arch that may appear Class III relative to the mandibular arch — even in patients who were originally Class I.",
+          "wrong": {
+            "A": "Centrifugal pattern (arch gets larger) describes the MANDIBULAR pattern, not the maxillary",
+            "C": "Purely inferior resorption is not the primary pattern — horizontal (buccal) resorption is often the first significant change in the maxilla",
+            "D": "Resorption is not uniform — it is directionally patterned (centripetal in maxilla, centrifugal then vertical in mandible)"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Ridge resorption patterns — directional differences maxilla vs mandible",
+          "trial": "Cawood JI, Howell RA. Int J Oral Maxillofac Surg (1988): quantification of resorption patterns; maxillary centripetal pattern documented; mandibular centrifugal then vertical",
+          "pearl": "Maxilla = centripetal (shrinks inward/upward). Mandible = centrifugal (expands outward first) then vertical. Long-term result: reversed jaw relationship (apparent Class III) in fully edentulous patients. Clinically relevant for denture design and implant planning."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q18",
+        "stem": "Boyne and James (1980) first described which surgical technique that remains the basis of modern posterior maxillary implant site augmentation?",
+        "options": {
+          "A": "Guided bone regeneration with ePTFE membranes",
+          "B": "Lateral window sinus floor elevation with autogenous bone graft",
+          "C": "Distraction osteogenesis of the alveolar ridge",
+          "D": "Crestal sinus lift with osteotome technique"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Boyne and James (1980) published the original description of lateral window sinus floor grafting using autogenous bone marrow, establishing the foundational technique for posterior maxillary sinus augmentation. Tatum subsequently modified and popularised the technique specifically for implant site preparation. The lateral window sinus lift (with autogenous or xenograft materials) remains the standard technique for posterior maxillary implant site augmentation when residual bone height is <4 mm.",
+          "wrong": {
+            "A": "GBR with ePTFE membranes was described by Dahlin et al. (1988) — not by Boyne and James",
+            "C": "Distraction osteogenesis for alveolar augmentation emerged in the 1990s following McCarthy's 1992 craniofacial application — not described by Boyne and James",
+            "D": "The crestal sinus lift (osteotome technique) was described by Summers (1994) — 14 years after Boyne and James"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Sinus lift history — Boyne and James 1980 as foundational publication",
+          "trial": "Boyne PJ, James RA. Grafting of the maxillary sinus floor with autogenous marrow and bone. J Oral Surg (1980): original lateral window sinus lift technique; autogenous marrow; established the fundamental approach used today",
+          "pearl": "Boyne and James 1980 = lateral window sinus lift original description. Tatum modified for implants. Summers 1994 = crestal technique. Dahlin 1988 = GBR. McCarthy 1992 = craniofacial DO. Know these landmark publications and their contributions."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C3-Q19",
+        "stem": "Immediate implant placement at the time of tooth extraction is contraindicated in which of the following clinical scenarios?",
+        "options": {
+          "A": "Upper central incisor extraction in a non-smoker with intact buccal plate on CBCT",
+          "B": "Upper first premolar extraction with a residual periapical abscess",
+          "C": "Lower second molar extraction in a patient with well-controlled diabetes (HbA1c 6.8%)",
+          "D": "Upper lateral incisor extraction after tooth fracture without infection"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Active infection (periapical abscess) at the extraction site is a contraindication to immediate implant placement. Placing an implant into an infected socket introduces the implant into a bacterially contaminated environment, dramatically increasing early implant failure risk from peri-implant infection. The appropriate sequence for an infected site is: extraction with thorough debridement, antibiotic treatment, socket preservation or healing without graft depending on infection severity, and then implant placement after complete healing (minimum 3 months).",
+          "wrong": {
+            "A": "Upper central incisor with intact buccal plate + non-smoker is an ideal candidate for immediate implant placement — the standard indication",
+            "C": "Well-controlled diabetes (HbA1c 6.8%) is not a contraindication to immediate implant placement — the HbA1c <7% is within acceptable range for normal healing",
+            "D": "Tooth fracture without infection is a good indication for immediate implant placement when bony anatomy is intact"
+          },
+          "guideline": "ITI Consensus Statements (2023): Immediate implant placement contraindications — active infection at extraction site",
+          "trial": "Esposito M et al. Timing of implant placement after tooth extraction: immediate, immediate-delayed or delayed implants? Cochrane Database Syst Rev (2010): infected sites require delayed placement; immediate placement in infection associated with 3× higher failure rate",
+          "pearl": "Immediate implant contraindications: (1) Acute infection at site, (2) Insufficient bone for primary stability apically, (3) Inability to achieve tension-free closure, (4) Systemic contraindication. Active periapical abscess = delay minimum 3 months after extraction and infection resolution."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C3-Q20",
+        "stem": "Which major complication of iliac crest bone graft harvest occurs in approximately 10–20% of patients and is caused by traction injury to the lateral femoral cutaneous nerve?",
+        "options": {
+          "A": "Femoral nerve motor deficit causing quadriceps weakness",
+          "B": "Meralgia paraesthetica — hypoaesthesia or paraesthesia of the lateral thigh",
+          "C": "Sciatic nerve injury causing foot drop",
+          "D": "Obturator nerve injury causing hip adductor weakness"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Meralgia paraesthetica (hypoaesthesia, paraesthesia, or burning pain of the lateral and anterolateral thigh) is caused by injury to the lateral femoral cutaneous nerve (LFCN) during anterior iliac crest harvest. The LFCN crosses the anterior iliac crest 1–2 cm medial to the ASIS and is vulnerable to traction, stretching, or direct surgical injury during harvest. Incidence is approximately 10–20% with most cases being temporary (resolving within 3–6 months) and approximately 2–5% permanent. Prevention: stay posterior to the ASIS for the harvest window; identify and protect the LFCN when visible.",
+          "wrong": {
+            "A": "Femoral nerve injury causing quadriceps weakness is rare from anterior iliac crest harvest — the femoral nerve runs more medially and deeply; injury occurs primarily in very extensive harvests or with deep retractor pressure",
+            "C": "Sciatic nerve injury from anterior iliac crest harvest is extremely rare — the sciatic nerve exits the greater sciatic notch posteriorly and is not in the harvest field",
+            "D": "Obturator nerve injury is also rare from anterior iliac crest — it runs near the obturator foramen, not the anterior iliac crest"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Iliac crest donor site complications — LFCN injury and meralgia paraesthetica",
+          "trial": "Silber JS et al. Donor site morbidity after anterior iliac crest bone harvest for single-level anterior cervical discectomy. Spine (2003): LFCN injury in 15% of anterior iliac harvest cases; majority temporary; prevention by posterior positioning of harvest window relative to ASIS",
+          "pearl": "Iliac crest harvest complications: Haematoma (8–15%), Meralgia paraesthetica LFCN (10–20%), gait disturbance (5%), scar. Most common neurological complication = LFCN injury = lateral thigh paraesthesia (meralgia paraesthetica). Prevention = avoid harvest within 2 cm of ASIS."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

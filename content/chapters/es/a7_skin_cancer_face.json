@@ -1,0 +1,670 @@
+{
+  "id": "A7",
+  "title": "Cáncer de Piel Facial",
+  "subtitle": "Bloque A — Oncología de Cabeza y Cuello: CBC, CEC, Melanoma y Carcinoma de Células de Merkel",
+  "block": "A",
+  "block_name": "Oncología de Cabeza y Cuello",
+  "level": "R1-3",
+  "reading_time_min": 35,
+  "guidelines_version": "BAD/BSSD Skin Cancer Guidelines 2021 · NCCN Cutaneous SCC 2024 · NCCN Basal Cell Carcinoma 2024 · NCCN Melanoma 2024 · EACMFS 2023",
+  "textbook_refs": [
+    "NCCN Clinical Practice Guidelines in Oncology — Basal Cell Carcinoma v2.2024",
+    "NCCN Clinical Practice Guidelines in Oncology — Squamous Cell Carcinoma v2.2024",
+    "NCCN Clinical Practice Guidelines in Oncology — Melanoma v3.2024",
+    "Swetter SM et al. Guidelines of Care for the Management of Primary Cutaneous Melanoma (J Am Acad Dermatol 2019)",
+    "Motley R et al. Multiprofessional Guidelines for the Management of the Patient with Primary Cutaneous SCC (Br J Dermatol 2009)"
+  ],
+  "learning_objectives": [
+    "Clasificar el carcinoma basocelular (CBC) por subtipo y nivel de riesgo, y seleccionar el tratamiento adecuado (escisión, cirugía de Mohs, radioterapia, inhibidor de la vía hedgehog)",
+    "Aplicar la estratificación de riesgo NCCN para el CEC cutáneo en la toma de decisiones sobre márgenes quirúrgicos y biopsia selectiva del ganglio centinela",
+    "Estadificar el melanoma facial según la 8.ª edición AJCC y describir el papel de la biopsia selectiva del ganglio centinela (BSGC) y el tratamiento adyuvante",
+    "Describir las opciones reconstructivas para los defectos por cáncer de piel facial (cierre directo, colgajos, injertos cutáneos) en relación con los principios de las subunidades estéticas",
+    "Identificar las características clínicas e histopatológicas que indican la cirugía micrográfica de Mohs frente a la escisión estándar para los cánceres de piel facial"
+  ],
+  "sections": [
+    {
+      "id": "A7-S1",
+      "title": "Carcinoma Basocelular — Clasificación, Estratificación de Riesgo y Tratamiento",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El carcinoma basocelular (CBC) es la neoplasia maligna más frecuente en la población caucásica y representa aproximadamente el 75–80% de todos los cánceres de piel no melanoma. En cabeza y cuello, el CBC afecta con mayor frecuencia la región periocular, la punta y el ala nasal, el área preauricular y el cuero cabelludo. Los principales subtipos histológicos difieren marcadamente en su comportamiento biológico y en sus requisitos de tratamiento. El **CBC nodular** es el más común (60–70%): se presenta como una pápula perlada con borde enrollado y telangiectasias; está bien delimitado y es apto para escisión quirúrgica estándar. El **CBC superficial** aparece como una placa eritematosa y descamativa, frecuentemente de gran tamaño, y se trata con curetaje y electrodesecación, terapia fotodinámica o imiquimod tópico para lesiones muy superficiales. El **CBC morfeico (esclerosante)** es el subtipo de mayor riesgo: se presenta como una placa indurada mal definida que imita una cicatriz, tiene extensiones subclínicas en forma de dedos de guante y conlleva un alto riesgo de escisión incompleta con márgenes estándar. Los subtipos **infiltrante, micronodular y basoescamoso** también presentan comportamiento agresivo y extensión subclínica. La NCCN 2024 estratifica los CBC en **bajo riesgo** (primario, bordes bien definidos, subtipo nodular/superficial, fuera de la zona H, sin IPN, inmunocompetente) y **alto riesgo** (recurrente, localización de alto riesgo, subtipo agresivo, tamaño grande, IPN, inmunosuprimido). La **zona H** de la cara (párpados, cejas, área periocular, nariz, labios, orejas, sienes, mentón, mandíbula) conlleva el mayor riesgo de escisión incompleta y recurrencia debido a la complejidad anatómica y la importancia funcional."
+        },
+        {
+          "type": "table",
+          "title": "Tratamiento del CBC — Selección según Categoría de Riesgo",
+          "headers": ["Categoría de Riesgo", "Características", "Tratamiento Preferido", "Margen"],
+          "rows": [
+            ["Bajo riesgo", "Primario, bien definido, nodular/superficial, fuera de zona H, sin IPN, inmunocompetente", "Escisión estándar", "4 mm"],
+            ["Alto riesgo", "Zona H, recurrente, subtipo agresivo, grande (>2 cm tronco; >1 cm zona H), IPN, inmunosuprimido", "Cirugía micrográfica de Mohs", "Control de margen por sección intraoperatoria"],
+            ["Alto riesgo (cirugía no factible)", "Anciano, comorbilidades, irresecable", "Radioterapia (RT externa o IMRT)", "N/A — margen del campo RT"],
+            ["Avanzado/metastásico", "Localmente avanzado irresecable; metástasis a distancia", "Inhibidor de la vía hedgehog (vismodegib/sonidegib)", "N/A — sistémico"],
+            ["CBC superficial", "Superficial fino, fuera de zona H", "TFD, imiquimod 5%, curetaje + ED", "N/A — tratamiento de campo"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Inhibidores de la Vía Hedgehog para CBC Avanzado",
+          "content": "El vismodegib (GDC-0449) inhibe Smoothened (SMO) en la vía sonic hedgehog — la vía constitutivamente activada en el CBC por la mutación de pérdida de función de PTCH1. Ensayo ERIVANCE (Sekulic, NEJM 2012): tasa de respuesta del 30% en CBC metastásico y del 43% en CBC localmente avanzado. Se utiliza para CBC irresecable o metastásico cuando cirugía y radioterapia no son apropiadas. Efectos adversos significativos: calambres musculares (67%), alopecia (64%), disgeusia (55%) — el impacto sobre la calidad de vida es significativo."
+        }
+      ]
+    },
+    {
+      "id": "A7-S2",
+      "title": "Carcinoma Epidermoide Cutáneo — Factores de Riesgo y Estratificación NCCN",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El carcinoma epidermoide cutáneo (CEC cutáneo) es el segundo cáncer de piel más frecuente (15–20% de los cánceres de piel no melanoma) y conlleva un riesgo significativo de metástasis regional (2–5% global; hasta el 30% en tumores de alto riesgo). Los factores de riesgo para desenlaces adversos incluyen: **tamaño tumoral >2 cm**, **profundidad >2 mm** o nivel de Clark IV–V (>6 mm), **localización en oreja o labio bermellón**, **histología poco diferenciada**, **invasión perineural (IPN)**, **invasión linfovascular**, **tumor recurrente** e **inmunosupresión**. La NCCN 2024 clasifica el CEC cutáneo como **bajo riesgo** o **alto riesgo** según estas características. Los tumores de alto riesgo requieren márgenes más amplios (>4 mm en escisión estándar o cirugía de Mohs) y valoración de biopsia selectiva del ganglio centinela (BSGC). El **sistema de estadificación del Brigham and Women's Hospital (BWH)** (Karia, JAMA Dermatol 2013) es el sistema más validado para la estratificación de riesgo del CEC cutáneo: BWH T1 (sin características de alto riesgo) presenta <1% de riesgo de recurrencia; BWH T2a (1 característica de alto riesgo), 4%; BWH T2b (2–3 características), 12%; BWH T3 (cualquiera de: invasión perineural de nervio nominado, invasión ósea, diámetro tumoral ≥4 cm) presenta un riesgo de metástasis ganglionar del 20–30%. La BSGC se utiliza cada vez más para lesiones BWH T2b–T3, aunque su papel preciso en el manejo del CEC cutáneo está siendo definido por ensayos prospectivos (ensayo SENTINEL SCC en curso)."
+        },
+        {
+          "type": "table",
+          "title": "Características de Alto Riesgo NCCN para el CEC Cutáneo",
+          "headers": ["Característica", "Umbral", "Implicación Clínica"],
+          "rows": [
+            ["Tamaño tumoral", ">2 cm", "Alto riesgo; escisión amplia o Mohs"],
+            ["Profundidad", ">2 mm; Clark IV–V", "Alto riesgo; considerar ganglio centinela"],
+            ["Localización", "Oreja, labio, zona H", "Alto riesgo independientemente del tamaño"],
+            ["Diferenciación", "Poco diferenciado", "Mayor potencial metastásico"],
+            ["Invasión perineural", "Nervio nominado o extensa", "Radioterapia adyuvante; imagen"],
+            ["Invasión linfovascular", "Presente", "Mayor potencial metastásico"],
+            ["Recurrencia", "Tumor recurrente", "Mohs preferido; márgenes más amplios"],
+            ["Inmunosupresión", "Receptor de trasplante de órgano, neoplasia hematológica, VIH", "Comportamiento más agresivo; vigilancia estrecha"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Receptores de Trasplante de Órgano y CEC Cutáneo",
+          "content": "Los receptores de trasplante de órgano (RTO) en inmunosupresión crónica presentan un riesgo de CEC cutáneo 100 veces mayor que la población general. El CEC cutáneo en RTO es más agresivo, aparece antes y tiene mayor tasa de primarios múltiples y metástasis. Todos los RTO con CEC cutáneo deben considerarse de alto riesgo independientemente del tamaño tumoral. Valorar el cambio de inhibidores de calcineurina (ciclosporina) a inhibidores mTOR (sirolimus) en consulta con el equipo de trasplante — los inhibidores mTOR tienen propiedades antitumorales y pueden reducir la incidencia de CEC cutáneo."
+        }
+      ]
+    },
+    {
+      "id": "A7-S3",
+      "title": "Cirugía Micrográfica de Mohs — Indicaciones y Técnica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La cirugía micrográfica de Mohs (CMM) consigue las menores tasas de recurrencia para los cánceres de piel en localizaciones anatómicas críticas al examinar el 100% del margen quirúrgico de forma intraoperatoria mediante secciones horizontales (en face) congeladas. La escisión estándar examina habitualmente solo el 0,1–1% del margen de la muestra mediante secciones verticales en rebanada. Técnica de Mohs: (1) Se realiza un desbridamiento del tumor visible; (2) Se extirpa una fina capa horizontal de tejido (estadio de Mohs) en ángulo de 45°; (3) El tejido se cartografía, divide en segmentos, codifica con colores y procesa como secciones congeladas horizontales; (4) El cirujano lee las preparaciones y cartografía cualquier tumor residual; (5) Se realiza una reescisión dirigida de las áreas positivas en nuevos estadios; (6) El proceso se repite hasta que todos los márgenes estén libres. **Indicaciones de CMM en cáncer de piel facial** (NCCN 2024): (1) todos los CBC en la zona H de la cara; (2) CBC o CEC recurrente; (3) subtipo agresivo de CBC (morfeico, infiltrante, basoescamoso); (4) CEC cutáneo de alto riesgo (invasión perineural, >2 cm, poco diferenciado); (5) tumores con bordes clínicamente mal definidos; (6) cánceres de piel que surgen en cicatrices o tejido crónicamente inflamado; (7) cánceres de piel en pacientes inmunosuprimidos. La CMM logra **tasas de curación a 5 años del 99% para CBC primario** y del 97% para CBC recurrente — significativamente superiores a la escisión estándar (92% primario, 83% recurrente). La propiedad ahorradora de tejido de la CMM es especialmente valiosa en áreas cosméticas y funcionalmente críticas (párpados, punta nasal, labios)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Tasas de Curación Mohs vs Escisión Estándar",
+          "content": "Tasas de curación a 5 años del CBC: CMM 99% (primario), 97% (recurrente). Escisión estándar 92% (primario), 83% (recurrente). La superioridad de la CMM es mayor para tumores de alto riesgo (morfeico, zona H, recurrente). La NCCN designa la CMM como tratamiento preferido para TODOS los CBC y CEC faciales de alto riesgo."
+        }
+      ]
+    },
+    {
+      "id": "A7-S4",
+      "title": "Melanoma Cutáneo — Estadificación AJCC 8.ª Edición y Manejo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El melanoma cutáneo de cabeza y cuello presenta un peor pronóstico que el melanoma en otras localizaciones corporales, atribuido al rico drenaje linfático y a la proximidad a los ganglios regionales. La **estadificación de la 8.ª edición AJCC** (2017) clasifica el melanoma según el espesor de Breslow (mm), la ulceración y la tasa mitótica. **Estadio T**: T1a <0,8 mm sin ulceración; T1b <0,8 mm con ulceración, o 0,8–1,0 mm; T2a 1,01–2,0 mm sin ulceración; T2b 1,01–2,0 mm con ulceración; T3a 2,01–4,0 mm sin ulceración; T3b 2,01–4,0 mm con ulceración; T4a >4,0 mm sin ulceración; T4b >4,0 mm con ulceración. El **estadio N** tiene en cuenta el número y tipo de ganglios regionales: N1a = 1 ganglio oculto (centinela); N1b = 1 ganglio clínico; N2a = 2–3 ganglios ocultos; N2b = 2–3 ganglios clínicos; N2c = metástasis en tránsito/satélites; N3 = ≥4 ganglios, ganglios confluentes o en tránsito con ganglios positivos. El **estadio M**: M1a = piel/tejido subcutáneo/ganglios no regionales a distancia; M1b = pulmonar; M1c = visceral no-SNC; M1d = SNC. El nivel de LDH (normal/elevado) modifica adicionalmente el estadio M. La **biopsia selectiva del ganglio centinela (BSGC)** está indicada para T1b y todos los melanomas T2–T4 — es la herramienta de estadificación pronóstica más importante y orienta las decisiones de tratamiento adyuvante. El **ensayo MSLT-1** (Morton DL, NEJM 2006) demostró que la BSGC proporciona una estadificación precisa (la positividad del GC es el factor pronóstico independiente más importante) y permite la linfadenectomía de completamiento (LDC) inmediata cuando es positiva, mejorando la supervivencia específica por melanoma en pacientes con ganglios positivos. El **ensayo MSLT-2** (Faries MB, NEJM 2017) demostró que en pacientes con GC positivo, la LDC inmediata no mejora la supervivencia específica por melanoma en comparación con la observación ganglionar con ecografía, aunque la LDC mejora la supervivencia libre de enfermedad y el control regional de la enfermedad."
+        },
+        {
+          "type": "table",
+          "title": "Márgenes Quirúrgicos en Melanoma — Guías según Espesor de Breslow",
+          "headers": ["Espesor de Breslow", "Margen de Escisión Recomendado", "¿BSGC Recomendada?"],
+          "rows": [
+            ["In situ (lentigo maligno)", "5–10 mm (Mohs o escisión por estadios)", "No"],
+            ["T1a (<0,8 mm, sin ulceración)", "1 cm", "Considerar para T1b; no rutinaria en T1a"],
+            ["T1b (0,8–1,0 mm o ulceración)", "1 cm", "Sí"],
+            ["T2a–T2b (1,01–2,0 mm)", "1–2 cm", "Sí"],
+            ["T3a–T3b (2,01–4,0 mm)", "2 cm", "Sí"],
+            ["T4a–T4b (>4,0 mm)", "2 cm", "Sí"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Lentigo Maligno en la Cara",
+          "content": "El lentigo maligno (melanoma in situ) es particularmente frecuente en la cara de pacientes ancianos y se presenta como una mácula irregular marrón/bronceada que ha ido creciendo lentamente durante años. Los márgenes son difíciles de definir tanto clínica como histológicamente. Los márgenes de escisión estándar de 5 mm son frecuentemente insuficientes — se recomienda encarecidamente la cirugía micrográfica de Mohs o la escisión por estadios con control de margen con secciones permanentes diferidas antes de la reconstrucción. La extensa extensión subclínica hace que la escisión estándar con margen de 5 mm sea inadecuada en el 50% de los casos."
+        }
+      ]
+    },
+    {
+      "id": "A7-S5",
+      "title": "Tratamiento Adyuvante del Melanoma Avanzado",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El manejo del melanoma regional y a distancia ha sido transformado por los inhibidores de puntos de control inmunológico y la terapia dirigida anti-BRAF. El **tratamiento adyuvante** está indicado en el estadio III (ganglio positivo) y en el melanoma de alto riesgo seleccionado en estadio IIb–IIc tras la resección quirúrgica. **Inmunoterapia anti-PD-1**: pembrolizumab (ensayo KEYNOTE-054, Eggermont et al. NEJM 2018) y nivolumab (CheckMate 238, Weber et al. Lancet Oncol 2017) son tratamientos adyuvantes aprobados para el estadio III resecado. KEYNOTE-054 demostró que pembrolizumab mejoró la supervivencia libre de recurrencia (SLR) frente a placebo (HR 0,57, p<0,001 al año) en estadio III con BRAF mutado y BRAF nativo. **Inhibición BRAF/MEK**: para el estadio III con mutación BRAF V600E/K, el tratamiento adyuvante con dabrafenib + trametinib (ensayo COMBI-AD, Long GV, NEJM 2017) demostró una SLR superior frente a placebo (HR 0,47, p<0,001); tasa de SLR a 5 años: 52% vs 36%. **Anti-CTLA-4**: ipilimumab 10 mg/kg (EORTC 18071) mostró mejoría en SLR pero con toxicidad significativa; ampliamente sustituido por los agentes anti-PD-1 en la práctica actual. Para el **estadio IV (metastásico)**, las opciones de primera línea son anti-PD-1 ± ipilimumab (CheckMate 067: nivolumab + ipilimumab vs monoterapia; SG a 5 años del 52% con la combinación) o inhibidores BRAF+MEK para enfermedad con mutación BRAF. La **determinación de BRAF V600** es obligatoria antes de planificar cualquier tratamiento sistémico adyuvante o paliativo."
+        },
+        {
+          "type": "table",
+          "title": "Ensayos Clave en Tratamiento Adyuvante del Melanoma",
+          "headers": ["Ensayo", "Tratamiento", "Estadio", "Resultado Principal"],
+          "rows": [
+            ["MSLT-1 (Morton NEJM 2006)", "BSGC vs observación", "T1b–T4", "BSGC = herramienta de estadificación pronóstica más importante"],
+            ["MSLT-2 (Faries NEJM 2017)", "LDC vs vigilancia ecográfica tras BSGC+", "Estadio IIIA–IIIB", "LDC sin beneficio en SG; observación + ecografía aceptable"],
+            ["KEYNOTE-054 (Eggermont NEJM 2018)", "Pembrolizumab vs placebo adyuvante", "Estadio III", "HR 0,57 para SLR; estándar de cuidado adyuvante"],
+            ["CheckMate 238 (Weber Lancet Oncol 2017)", "Nivolumab vs ipilimumab adyuvante", "Estadio IIIC/IV resecado", "Nivolumab: SLR superior, menor toxicidad"],
+            ["COMBI-AD (Long NEJM 2017)", "Dabrafenib + trametinib adyuvante", "Estadio III BRAF V600", "HR 0,47 para SLR; SLR a 5 años 52% vs 36%"],
+            ["CheckMate 067 (Larkin NEJM 2015)", "Nivo + ipi vs monoterapia", "Estadio IV", "SG a 5 años 52% (combinación) vs 44%/26%"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Determinación de BRAF Antes del Tratamiento Adyuvante/Paliativo",
+          "content": "La determinación de la mutación BRAF V600 es OBLIGATORIA antes del tratamiento sistémico en estadio III–IV. El ~50% de los melanomas presentan mutación BRAF V600E/K. Los pacientes con mutación BRAF pueden recibir anti-PD-1 O inhibidores BRAF/MEK como terapia adyuvante. El anti-PD-1 (pembrolizumab o nivolumab) se utiliza independientemente del estado BRAF. Estrategia secuencial en estadio IV: anti-PD-1 primero para respuesta duradera; BRAF/MEK para debulking rápido en enfermedad BRAF-mutante de alto volumen."
+        }
+      ]
+    },
+    {
+      "id": "A7-S6",
+      "title": "Carcinoma de Células de Merkel",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El carcinoma de células de Merkel (CCM) es un carcinoma neuroendocrino cutáneo poco frecuente pero muy agresivo, con predilección por cabeza y cuello (50% de los casos). Presenta una mortalidad mayor que el melanoma en estadio equivalente. Factores de riesgo: exposición solar, poliomavirus de células de Merkel (VPCMk, presente en ~80% de los tumores en poblaciones occidentales), inmunosupresión (RTO, VIH, neoplasia hematológica). Los tumores VPCMk-positivos tienen un pronóstico más favorable que los VPCMk-negativos. Presentación clínica: un nódulo rojo-violáceo, firme, indoloro y de rápido crecimiento en un paciente anciano con piel fotodañada. Con frecuencia se diagnostica erróneamente como una lesión benigna. **Histopatología**: células pequeñas redondas azules con morfología neuroendocrina; inmunohistoquímica positiva para CK20 (patrón de punto paranuclear), sinaptofisina, cromogranina; negativa para TTF-1 (diferenciando del carcinoma microcítico de pulmón metastásico). **Estadificación** (AJCC 8.ª): T1 <2 cm; T2 2–5 cm; T3 >5 cm; T4 invasión de hueso/músculo/cartílago. El estadio N se determina por el estado ganglionar clínico frente a patológico. **Tratamiento**: escisión local amplia (márgenes de 1–2 cm) + BSGC. La BSGC es positiva en el 25–30% de los pacientes con N0 clínico. La radioterapia adyuvante al lecho primario reduce la recurrencia local. Para el CCM metastásico/irresecable, **avelumab** (anti-PD-L1, ensayo JAVELIN Merkel 200, Kaufman NEJM 2016) y **pembrolizumab** (KEYNOTE-017) son agentes sistémicos de primera línea aprobados, con respuestas duraderas en el 30–40% de los pacientes."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Patrón de CK20 en CCM vs Otros Tumores de Células Pequeñas Azules Redondas",
+          "content": "CCM: CK20 positivo con patrón de punto paranuclear característico; sinaptofisina y cromogranina positivas; TTF-1 negativo. Carcinoma microcítico de pulmón (CMP) metastásico a piel: TTF-1 positivo; CK20 negativo. CK20 positivo con patrón citoplasmático (no de punto paranuclear) = otros carcinomas. Solicitar siempre TTF-1 para excluir CMP — el diagnóstico erróneo cambia radicalmente el tratamiento y el pronóstico."
+        }
+      ]
+    },
+    {
+      "id": "A7-S7",
+      "title": "Reconstrucción de Defectos por Cáncer de Piel Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La reconstrucción de los defectos por cáncer de piel facial requiere integrar las prioridades oncológicas (márgenes limpios primero) con los principios de las subunidades estéticas y los factores específicos del paciente. El **principio de la subunidad estética facial** (Burget y Menick) establece que la reconstrucción de una subunidad (nariz, labio, párpado, mejilla, frente, oreja) debe idealmente reemplazar toda la subunidad cuando se afecta más del 50%, ya que esto produce mejores resultados estéticos que el parcheo dentro de una subunidad. **Escalera reconstructiva**: (1) cicatrización por segunda intención — para superficies cóncavas (canto medial, ala nasal, cara posterior del pabellón auricular); (2) cierre primario — cuando es posible sin distorsión; (3) injerto cutáneo (el injerto de espesor total es preferible en la cara — donante: piel preauricular, supraclavicular, retroauricular); (4) colgajos locales — rotación, transposición, avance, romboidal, bilobulado; (5) colgajos regionales — nasolabial, frontal, cervicofacial; (6) colgajo libre — para defectos muy grandes. **Reconstrucción nasal**: para grandes defectos del ala/punta (>1,5 cm), el **colgajo frontal paramediano** (basado en la arteria supratroclear) es el estándar de oro, proporcionando un excelente ajuste de color y textura de piel. Para defectos alares más pequeños, el **colgajo nasolabial** (interpolado o de transposición) es apropiado. **Reconstrucción del párpado**: los defectos del párpado superior <25% cierran primariamente; el 25–50% requiere colgajos de avance; >50% requiere injerto de espesor total o colgajo de permuta (Cutler-Beard). Defectos del párpado inferior: colgajo de rotación-avance de Tenzel para <50%; colgajo tarsoconjuntival + injerto cutáneo para defectos mayores. **Reconstrucción auricular**: injertos cutáneos de espesor total en la concha; injertos de cartílago para soporte estructural; reconstrucción protésica en la pérdida auricular total."
+        },
+        {
+          "type": "table",
+          "title": "Opciones Reconstructivas por Subunidad Facial",
+          "headers": ["Subunidad", "Defecto Pequeño (<1 cm)", "Defecto Mediano (1–3 cm)", "Defecto Grande (>3 cm)"],
+          "rows": [
+            ["Nariz (ala/punta)", "Segunda intención o IET", "Colgajo nasolabial o bilobulado", "Colgajo frontal paramediano"],
+            ["Párpado superior", "Cierre primario <25%", "Colgajo de avance 25–50%", "Colgajo de permuta Cutler-Beard >50%"],
+            ["Párpado inferior", "Cierre primario <25%", "Colgajo de Tenzel 25–50%", "Colgajo tarsoconjuntival + IET >50%"],
+            ["Mejilla", "Cierre primario o IET", "Rotación/avance en V-Y", "Rotación cervicofacial; colgajo libre"],
+            ["Labio (superior)", "Cierre primario <1/3", "Colgajo de Abbe (transferencia del bermellón)", "Rotación-avance de Karapandzic"],
+            ["Oreja/pabellón", "IET en la concha", "IET + injerto de cartílago", "Protésico; reconstrucción de Nagata"],
+            ["Frente", "Cierre primario o IET", "Avance/rotación", "Expansor tisular o colgajo libre"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Colgajo Frontal Paramediano",
+          "content": "Colgajo frontal paramediano: estándar de oro para defectos de reconstrucción nasal >1,5 cm que afectan la subunidad alar/punta. Pedículo = arteria supratroclear (identificada a 1,7–2,2 cm de la línea media). Procedimiento en dos tiempos: tiempo 1 (elevación e inset del colgajo), tiempo 2 a las 3 semanas (sección del pedículo e inset definitivo). Excelente ajuste de color y textura. Alternativa para defectos alares más pequeños: colgajo nasolabial (melolabiyal) interpolado."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre cánceres de piel facial — CBC, CEC cutáneo, melanoma, CCM y reconstrucción — con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "A7-Q1",
+        "stem": "Un hombre de 72 años presenta una placa perlada mal definida de 1,5 cm en el ala nasal derecha presente desde hace 3 años, con induración central similar a una cicatriz. La biopsia muestra CBC morfeico (esclerosante) con margen profundo positivo. Según la NCCN 2024, ¿cuál es el tratamiento más adecuado?",
+        "options": {
+          "A": "Escisión estándar con márgenes de 4 mm y reconstrucción diferida",
+          "B": "Cirugía micrográfica de Mohs hasta obtener márgenes limpios, seguida de reconstrucción",
+          "C": "Curetaje y electrodesecación",
+          "D": "Radioterapia — la cirugía está contraindicada en la zona H"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El CBC morfeico (esclerosante) en el ala nasal (zona H de la cara) es un CBC de alto riesgo según los criterios NCCN 2024 por dos motivos: (1) subtipo agresivo (morfeico) con extensiones subclínicas digitiformes, y (2) localización en zona H (nariz). La cirugía micrográfica de Mohs, que examina el 100% de los márgenes quirúrgicos de forma intraoperatoria, es el tratamiento de elección, consiguiendo tasas de curación a 5 años del 99% para el CBC primario con máximo ahorro de tejido en una zona funcionalmente y cosméticamentecrítica.",
+          "wrong": {
+            "A": "La escisión estándar con márgenes de 4 mm es apropiada para CBC de BAJO riesgo, pero no para el CBC morfeico — la extensión subclínica en el subtipo morfeico supera frecuentemente los 4 mm, y la localización en el ala nasal de la zona H obliga a una cirugía con control de márgenes.",
+            "C": "El curetaje y la electrodesecación solo son apropiados para el CBC SUPERFICIAL en localizaciones de bajo riesgo (tronco, extremidades) — nunca para el CBC morfeico o lesiones en zona H donde el riesgo de extensión subclínica y recurrencia es elevado.",
+            "D": "La cirugía no está contraindicada en la zona H — al contrario, la zona H es una INDICACIÓN DE ALTO RIESGO para la cirugía de Mohs. La radioterapia es una alternativa para pacientes que no pueden someterse a cirugía, no un tratamiento primario preferido frente a la cirugía de Mohs."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024; BAD/BSSD Skin Cancer Guidelines 2021",
+          "trial": "Rowe DE et al. (J Dermatol Surg Oncol 1989): cirugía de Mohs para CBC — tasa de curación a 5 años del 99% primario, 97% recurrente vs 92% primario, 83% recurrente con escisión estándar; mayor análisis comparativo que establece la superioridad de Mohs para CBC de alto riesgo.",
+          "pearl": "CBC morfeico + zona H = cirugía de Mohs obligatoria. El subtipo morfeico presenta extensiones subclínicas frecuentemente >10 mm desde el borde visible. Márgenes estándar de 4 mm insuficientes — tasa de margen positivo del 48% en morfeico con escisión estándar. La cirugía de Mohs reduce la extirpación de tejido garantizando la escisión completa."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q2",
+        "stem": "El ensayo ERIVANCE (Sekulic et al., NEJM 2012) demostró la eficacia del vismodegib para el CBC avanzado. El vismodegib actúa inhibiendo, ¿qué diana molecular?",
+        "options": {
+          "A": "EGFR (receptor del factor de crecimiento epidérmico) — HER1",
+          "B": "VEGFR (receptor del factor de crecimiento del endotelio vascular)",
+          "C": "Smoothened (SMO) en la vía de señalización sonic hedgehog (SHH)",
+          "D": "Cinasa BRAF V600E"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El vismodegib es un inhibidor de Smoothened (SMO). En el CBC, las mutaciones de pérdida de función en PTCH1 (homólogo parchado 1, un gen supresor tumoral) conducen a la activación constitutiva de SMO, que activa los factores de transcripción GLI1 y GLI2, impulsando la proliferación del CBC. El vismodegib bloquea SMO, deteniendo la vía SHH. ERIVANCE mostró tasas de respuesta del 30% para CBC metastásico y del 43% para CBC localmente avanzado. El sonidegib es un inhibidor SMO similar con eficacia comparable.",
+          "wrong": {
+            "A": "La inhibición del EGFR (cetuximab, erlotinib) se utiliza en el carcinoma epidermoide de cabeza y cuello, no en el CBC. La patogénesis del CBC no implica principalmente la señalización EGFR.",
+            "B": "Los inhibidores de VEGFR (bevacizumab, sorafenib) actúan sobre la angiogénesis y no son el mecanismo del vismodegib. La terapia antiangiogénica no es un enfoque primario en el CBC.",
+            "D": "Los inhibidores de BRAF V600E (vemurafenib, dabrafenib) se utilizan en el melanoma con mutación BRAF, no en el CBC. La mutación BRAF no es un motor del CBC — la mutación PTCH1 lo es."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024; ensayo ERIVANCE (Sekulic 2012)",
+          "trial": "Ensayo ERIVANCE BCC (Sekulic A et al., NEJM 2012): vismodegib vs placebo en CBC localmente avanzado o metastásico; ORR 43% localmente avanzado, 30% metastásico; aprobado por FDA en 2012 como primer inhibidor hedgehog.",
+          "pearl": "Diana molecular del CBC: pérdida de PTCH1 → SMO constitutivamente activo → transcripción GLI. Vismodegib = inhibidor de SMO. Resultados del ensayo ERIVANCE: ORR 43% (localmente avanzado), 30% (metastásico). Efectos secundarios: calambres musculares 67%, alopecia 64%, disgeusia 55%."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q3",
+        "stem": "Un hombre de 65 años inmunocompetente presenta un CEC cutáneo de 2,5 cm en el hélix derecho. La histopatología muestra: moderadamente diferenciado, profundidad de 3 mm, invasión perineural de pequeños nervios sin nombre, sin afectación de nervio nominado, sin invasión linfovascular. Utilizando la estadificación BWH, ¿cuál es la clasificación y el manejo adecuado?",
+        "options": {
+          "A": "BWH T1 — escisión estándar con márgenes de 4 mm; sin más estudios",
+          "B": "BWH T2a — escisión amplia; considerar BSGC",
+          "C": "BWH T2b — escisión amplia con Mohs/control de margen; BSGC e imagen de ganglios regionales",
+          "D": "BWH T3 — exenteración orbitaria obligatoria"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "BWH T2b se define como 2–3 características de alto riesgo. Este tumor presenta: (1) tamaño >2 cm (2,5 cm = alto riesgo), (2) localización en zona H (oreja = zona H), (3) invasión perineural. Tres características de alto riesgo = BWH T2b. Manejo para T2b: escisión con control de márgenes (Mohs o escisión por estadios); la BSGC está recomendada dado el 12% de riesgo de metástasis ganglionar en T2b; la imagen mediante TC/ecografía de los ganglios regionales es apropiada.",
+          "wrong": {
+            "A": "BWH T1 = sin características de alto riesgo. Este tumor tiene tres características de alto riesgo (tamaño, zona H, IPN) — T1 es incorrecto.",
+            "B": "BWH T2a = 1 característica de alto riesgo. Este tumor tiene 3 características — T2a infraestadifica significativamente esta lesión.",
+            "D": "BWH T3 se define por cualquiera de: invasión perineural de un nervio NOMINADO (no de pequeños nervios sin nombre), invasión ósea, o tumor ≥4 cm. Este tumor solo tiene IPN de nervios sin nombre (no de un nervio nominado), mide 2,5 cm y no presenta invasión ósea — los criterios de T3 no se cumplen. La exenteración orbitaria no es relevante para el CEC auricular."
+          },
+          "guideline": "NCCN Cutaneous Squamous Cell Carcinoma v2.2024; estadificación BWH (Karia PS, JAMA Dermatol 2013)",
+          "trial": "Karia PS et al. (JAMA Dermatol 2013): validación del sistema de estadificación BWH — tasa de metástasis ganglionar T2b 12% vs <1% para T1; BWH supera a AJCC en el pronóstico del CEC cutáneo.",
+          "pearl": "Estadificación BWH T: T1 = 0 características; T2a = 1 característica; T2b = 2–3 características; T3 = IPN de nervio nominado, invasión ósea, o ≥4 cm. Características de alto riesgo: >2 cm, zona H, profundidad >2 mm, escasa diferenciación, IPN (nominado o extensa), ILV, recurrencia, inmunosupresión. T2b y T3 → considerar BSGC."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q4",
+        "stem": "Una mujer de 58 años presenta un melanoma de 1,2 mm de espesor de Breslow en la mejilla derecha sin ulceración. ¿Cuáles son el margen quirúrgico recomendado y el manejo de la BSGC?",
+        "options": {
+          "A": "Margen de 5 mm; no se requiere BSGC",
+          "B": "Margen de 1 cm; no se requiere BSGC",
+          "C": "Margen de 1 cm; BSGC recomendada",
+          "D": "Margen de 2 cm; BSGC obligatoria"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La 8.ª edición AJCC clasifica un espesor de Breslow de 1,2 mm sin ulceración como melanoma T2a. El margen quirúrgico recomendado para melanoma T2 (1,01–2,0 mm) es de 1–2 cm. Un margen de 1 cm es apropiado para T2a en la cara donde las restricciones anatómicas pueden limitar márgenes más amplios. La BSGC está recomendada para todos los melanomas T1b y T2–T4 — T2a es una indicación clara de BSGC. MSLT-1 (Morton, NEJM 2006) estableció la BSGC como el procedimiento de estadificación más importante para el melanoma de espesor intermedio.",
+          "wrong": {
+            "A": "El margen de 5 mm es apropiado para el melanoma in situ — no para el melanoma invasivo T2a de 1,2 mm. Se requiere un margen mínimo de 1 cm.",
+            "B": "El margen de 1 cm es correcto para T2a en la cara, pero la BSGC SÍ está recomendada para el melanoma T2 — omitir la BSGC infraestadicaría el estadio regional.",
+            "D": "Los márgenes de 2 cm están recomendados para el melanoma T3–T4 (>2 mm de Breslow). T2a (1,01–2,0 mm) requiere 1–2 cm — 2 cm es aceptable pero 1 cm es el estándar para T2 facial cuando los márgenes anatómicos son limitantes. La BSGC es correcta."
+          },
+          "guideline": "NCCN Melanoma v3.2024; Swetter SM et al. (J Am Acad Dermatol 2019); MSLT-1 (Morton NEJM 2006)",
+          "trial": "MSLT-1 (Morton DL et al., NEJM 2006): BSGC en melanoma de espesor intermedio — la positividad del GC es el factor pronóstico independiente más importante; LDC en GC+ mejoró la supervivencia específica por melanoma (72% vs 52% a 5 años en T2–T4).",
+          "pearl": "Guía margen-BSGC en melanoma: In situ: margen 5–10 mm, sin BSGC. T1a (<0,8 mm): 1 cm, BSGC opcional. T1b (0,8–1,0 mm o ulceración): 1 cm, BSGC SÍ. T2 (1,01–2,0 mm): 1–2 cm, BSGC SÍ. T3–T4 (>2 mm): 2 cm, BSGC SÍ."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q5",
+        "stem": "El ensayo MSLT-2 (Faries et al., NEJM 2017) evaluó el manejo de los pacientes con biopsia selectiva del ganglio centinela (BSGC) positiva en melanoma. ¿Cuál fue el hallazgo principal respecto a la linfadenectomía de completamiento (LDC)?",
+        "options": {
+          "A": "La LDC mejoró significativamente la supervivencia específica por melanoma en comparación con la observación ganglionar con ecografía",
+          "B": "La LDC no mejoró la supervivencia específica por melanoma pero mejoró la supervivencia libre de enfermedad y el control regional",
+          "C": "La LDC está contraindicada en todos los pacientes con BSGC positiva debido a la elevada morbilidad",
+          "D": "La observación solo con ecografía conllevó una supervivencia global inferior en comparación con la LDC"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "MSLT-2 (Faries MB, NEJM 2017) aleatorizó a 1.939 pacientes con BSGC positiva a LDC inmediata vs observación ganglionar con ecografía de alta frecuencia. El objetivo principal, la supervivencia específica por melanoma, NO fue significativamente diferente (86% vs 86% a 3 años). La LDC sí mejoró la supervivencia libre de enfermedad (68% vs 63%, p=0,05) y redujo significativamente la tasa de recurrencia ganglionar regional. El ensayo estableció la observación ganglionar con ecografía como alternativa aceptable a la LDC rutinaria en pacientes con BSGC positiva.",
+          "wrong": {
+            "A": "MSLT-2 demostró que NO hubo mejoría significativa en la supervivencia específica por melanoma con LDC — este es el resultado negativo clave. La LDC fue abandonada como procedimiento rutinario basándose en este ensayo.",
+            "C": "La LDC no está contraindicada — sigue siendo apropiada en pacientes seleccionados (enfermedad ganglionar de alto volumen, ganglios palpables, estadio clínico IIIC) y cuando la vigilancia ecográfica no es factible.",
+            "D": "La supervivencia global tampoco fue significativamente diferente entre los grupos — la observación con ecografía no condujo a una supervivencia global inferior."
+          },
+          "guideline": "NCCN Melanoma v3.2024; MSLT-2 (Faries MB, NEJM 2017)",
+          "trial": "MSLT-2 (Faries MB et al., NEJM 2017): LDC vs observación tras BSGC positiva; supervivencia específica por melanoma equivalente (86% vs 86%); LDC mejoró SLE (68% vs 63%); recurrencia regional reducida con LDC. Cambió el estándar de cuidado: observación aceptable como alternativa a la LDC rutinaria.",
+          "pearl": "MSLT-2 = fin de la LDC rutinaria para melanoma con BSGC positiva. La observación ganglionar con ecografía de alta frecuencia cada 4–6 meses es aceptable. La LDC mejora el control regional y la SLE pero no la supervivencia específica por melanoma ni la SG. Considerar LDC en enfermedad de alto volumen en la BSGC o si la vigilancia no es factible."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q6",
+        "stem": "¿Qué terapia adyuvante está recomendada para un paciente con melanoma cutáneo con mutación BRAF V600E en estadio IIIA resecado?",
+        "options": {
+          "A": "Sin tratamiento adyuvante — el estadio IIIA tiene buen pronóstico",
+          "B": "Pembrolizumab adyuvante (anti-PD-1) O dabrafenib + trametinib adyuvante (inhibición BRAF/MEK)",
+          "C": "Ipilimumab adyuvante 10 mg/kg — única opción aprobada para enfermedad con mutación BRAF",
+          "D": "Vemurafenib en monoterapia adyuvante"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para el melanoma en estadio III con mutación BRAF V600E resecado, tanto la terapia anti-PD-1 (pembrolizumab según KEYNOTE-054, o nivolumab según CheckMate 238) como la inhibición BRAF/MEK (dabrafenib + trametinib según COMBI-AD) son opciones adyuvantes aprobadas. La elección entre ellas depende de: el perfil de toxicidad esperado, las preferencias del paciente y las posibles necesidades futuras de tratamiento. El anti-PD-1 produce respuestas duraderas incluso tras su interrupción; los inhibidores BRAF/MEK presentan altas tasas de respuesta iniciales pero la resistencia se desarrolla con el tiempo. Para el estadio III con BRAF nativo, solo está disponible el anti-PD-1.",
+          "wrong": {
+            "A": "El melanoma en estadio IIIA tiene un riesgo de recurrencia significativo (supervivencia a 5 años ~78%) — el tratamiento adyuvante está indicado para reducir el riesgo de recurrencia. La NCCN 2024 recomienda el tratamiento adyuvante para el estadio IIIA y superiores.",
+            "C": "Ipilimumab 10 mg/kg (EORTC 18071) es un régimen adyuvante más antiguo con toxicidad significativa que ha sido ampliamente sustituido por los agentes anti-PD-1. Ya no es la opción preferida para el melanoma en estadio III.",
+            "D": "El vemurafenib es un inhibidor BRAF en monoterapia — se utiliza en melanoma metastásico y fue estudiado en el contexto adyuvante (ensayo BRIM8) pero NO está aprobado para uso adyuvante. El régimen adyuvante BRAF-dirigido aprobado es la COMBINACIÓN de dabrafenib + trametinib, no la monoterapia BRAF."
+          },
+          "guideline": "NCCN Melanoma v3.2024; KEYNOTE-054 (Eggermont NEJM 2018); COMBI-AD (Long NEJM 2017)",
+          "trial": "COMBI-AD (Long GV et al., NEJM 2017): dabrafenib + trametinib adyuvante vs placebo en melanoma en estadio III BRAF V600E/K; HR de SLR 0,47 (p<0,001); SLR a 5 años 52% vs 36%; aprobado por FDA/EMA para estadio III BRAF-mutante adyuvante.",
+          "pearl": "Adyuvante estadio III melanoma: BRAF-mutante → anti-PD-1 O dabrafenib + trametinib. BRAF nativo → anti-PD-1 (pembrolizumab o nivolumab). Determinar BRAF ANTES de iniciar cualquier tratamiento sistémico. Ipilimumab 10 mg/kg ampliamente sustituido por alta toxicidad."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q7",
+        "stem": "Un hombre de 68 años presenta un nódulo rojo-violáceo, indoloro y de rápido crecimiento de 1,8 cm en la mejilla izquierda que apareció hace 3 meses. Está en inmunosupresión crónica tras un trasplante renal hace 5 años. La biopsia muestra células pequeñas redondas azules con tinción CK20 en punto paranuclear, sinaptofisina positiva, TTF-1 negativo. ¿Cuál es el diagnóstico?",
+        "options": {
+          "A": "Carcinoma microcítico de pulmón metastásico en piel",
+          "B": "Carcinoma de células de Merkel (CCM)",
+          "C": "Carcinoma neuroendocrino cutáneo primario sin otra especificación",
+          "D": "Carcinoma epidermoide poco diferenciado"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La combinación de: (1) nódulo rojo-violáceo de rápido crecimiento en piel fotodañada; (2) receptor de trasplante de órgano inmunosuprimido; (3) CK20 positivo con patrón de punto paranuclear; (4) sinaptofisina positiva (marcador neuroendocrino); (5) TTF-1 NEGATIVO (excluye CMP) = carcinoma de células de Merkel. El patrón de punto paranuclear de CK20 es patognomónico del CCM. La negatividad para TTF-1 excluye el CMP metastásico, que es el principal diagnóstico diferencial.",
+          "wrong": {
+            "A": "El CMP metastásico sería: CK20 NEGATIVO y TTF-1 POSITIVO. La negatividad para TTF-1 aquí excluye el CMP — esta es la inmunotinción discriminante crítica.",
+            "C": "'Carcinoma neuroendocrino cutáneo primario SAI' no es una entidad WHO distinta — el carcinoma de células de Merkel es el diagnóstico específico para este inmunofenotipo. El patrón de punto paranuclear de CK20 es patognomónico y confirma el CCM.",
+            "D": "El CEC poco diferenciado mostraría marcadores de diferenciación escamosa (CK5/6, p40, p63) — no CK20 paranuclear ni marcadores neuroendocrinos como la sinaptofisina."
+          },
+          "guideline": "NCCN Merkel Cell Carcinoma v2.2024; WHO Classification of Skin Tumours 2022",
+          "trial": "Kaufman HL et al. JAVELIN Merkel 200 (Lancet Oncol 2016): avelumab (anti-PD-L1) para CCM metastásico; ORR 33%; respuestas duraderas; primera terapia aprobada por FDA para CCM metastásico.",
+          "pearl": "Inmunofenotipo CCM: CK20+ punto paranuclear (patognomónico), sinaptofisina+, cromogranina+, TTF-1 NEGATIVO. Distinguir del CMP metastásico: CMP = TTF-1+, CK20−. CCM = nódulo de rápido crecimiento, rojo-violáceo, RTO o paciente anciano, zona fotoexpuesta. Manejo: escisión amplia + BSGC + RT adyuvante; metastásico = avelumab o pembrolizumab."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q8",
+        "stem": "Una mujer de 55 años presenta un defecto de 2 cm en el ala nasal derecha y el triángulo de tejido blando tras cirugía de Mohs para CEC cutáneo. El defecto afecta al espesor completo de la subunidad alar. ¿Cuál es la opción reconstructiva de referencia?",
+        "options": {
+          "A": "Injerto cutáneo de espesor total de la zona retroauricular",
+          "B": "Cicatrización por segunda intención — la concavidad alar cicatriza bien por segunda intención",
+          "C": "Colgajo frontal paramediano (basado en arteria supratroclear)",
+          "D": "Cierre primario directo con amplia disección"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El colgajo frontal paramediano (pedículo en arteria supratroclear, a 1,7–2,2 cm de la línea media) es el estándar de oro para la reconstrucción de defectos alares/de punta nasal >1,5 cm que requieren sustitución de espesor total. Proporciona un excelente ajuste de color y textura con la piel nasal, con un aporte vascular fiable. Es un procedimiento en dos tiempos: tiempo 1 (elevación e inset del colgajo); tiempo 2 (sección del pedículo e inset definitivo a las 3 semanas). Burget y Menick establecieron el principio de la subunidad estética — un defecto alar de 2 cm que representa >50% de la subunidad alar se reconstruye mejor sustituyendo toda la subunidad con el colgajo frontal.",
+          "wrong": {
+            "A": "El IET de piel retroauricular proporciona un ajuste de color razonable pero grosor y soporte estructural insuficientes para un defecto alar de 2 cm de espesor completo. El IET es apropiado para defectos más pequeños y superficiales o como componente de resuperficialización.",
+            "B": "La cicatrización por segunda intención es apropiada para superficies faciales CÓNCAVAS (canto medial, concavidad de la pared nasal lateral). El ala nasal es una superficie CONVEXA estructuralmente importante — la cicatrización por segunda intención en defectos de espesor total produce retracción, escotadura y colapso alar.",
+            "D": "El cierre primario directo no es factible para un defecto alar de 2 cm de espesor total — no hay suficiente laxitud sin provocar una retracción alar significativa y distorsión de la ventana nasal."
+          },
+          "guideline": "NCCN Cutaneous SCC 2024; Burget GC and Menick FJ. Aesthetic Reconstruction of the Nose (Mosby 1994)",
+          "trial": "Burget GC and Menick FJ (Plast Reconstr Surg 1985): principio de la subunidad estética y colgajo frontal paramediano para reconstrucción nasal — estableció el colgajo frontal en dos tiempos como estándar de oro para defectos alar/punta, con resultados a largo plazo superiores a los injertos cutáneos.",
+          "pearl": "Defecto alar nasal >1,5 cm: colgajo frontal paramediano (arteria supratroclear, 2 tiempos). Para defectos alares más pequeños: colgajo nasolabial (melolabiyal) interpolado. Regla de la subunidad estética: si se afecta >50% de una subunidad, reemplazar toda la subunidad. Segunda intención: solo para concavidad de la pared nasal lateral — nunca para convexidad alar."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q9",
+        "stem": "¿Cuál de las siguientes opciones representa la zona H de la cara, que determina el estado de alto riesgo en el manejo del CBC?",
+        "options": {
+          "A": "Frente, sienes y cuero cabelludo",
+          "B": "Párpados, cejas, área periocular, nariz, labios, orejas y áreas pre/retroauriculares",
+          "C": "Mejillas, mentón y cuello",
+          "D": "Solo la nariz y el canto medial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La zona H (así denominada porque su contorno recuerda aproximadamente a la letra H) incluye los párpados, cejas, área periocular, nariz, labios (bermellón), orejas (incluida piel pre y retroauricular), mentón y mandíbula. Los CBC en esta zona son clasificados como de alto riesgo por la NCCN 2024 independientemente del tamaño, debido a: anatomía compleja, proximidad a estructuras críticas (ojo, nariz, conducto auditivo externo), mayor riesgo de extensión subclínica, y elevado impacto funcional y cosmético ante una escisión incompleta.",
+          "wrong": {
+            "A": "La frente y las sienes no son localizaciones clásicas de la zona H — presentan menor riesgo que la cara central y las regiones periorbitarias. Los CBC del cuero cabelludo se manejan según criterios estándar.",
+            "C": "Las mejillas, el mentón y el cuello son en general áreas de menor riesgo no incluidas en la definición de zona H. El mentón y la mandíbula SÍ están incluidos (frecuentemente bajo la 'H inferior' de la cara).",
+            "D": "La zona H es mucho más amplia que solo la nariz y el canto medial — engloba todas las regiones periorbitaria, nasal, auricular, perioral y mandibular descritas en la opción B."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024 — Estratificación de Riesgo",
+          "trial": "Rowe DE et al. (J Dermatol Surg Oncol 1989): recurrencia del CBC según localización anatómica — mayores tasas de recurrencia para CBC en nariz, párpados, orejas y labios (zona H) — estableció la base anatómica de la clasificación de alto riesgo de la zona H.",
+          "pearl": "Zona H = periocular (párpados, cejas), nariz, labios, orejas (pre/retroauricular), mentón/mandíbula. Cualquier CBC aquí = ALTO RIESGO → preferir cirugía de Mohs. Los CBC de la cara central presentan la mayor extensión subclínica, anatomía más compleja y peores consecuencias funcionales si se tratan de forma insuficiente."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q10",
+        "stem": "Un hombre de 70 años presenta una mácula bronceada-marrón de expansión lenta en la mejilla izquierda que lleva 8 años presente y ha ido creciendo durante 2 años. La biopsia confirma lentigo maligno (melanoma in situ). Se utilizan márgenes de escisión estándar de 5 mm. ¿Con qué frecuencia la escisión estándar de 5 mm resulta en escisión incompleta del lentigo maligno?",
+        "options": {
+          "A": "<5%",
+          "B": "10–15%",
+          "C": "~50%",
+          "D": "~90%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Los márgenes de escisión estándar de 5 mm para el lentigo maligno (LM, melanoma in situ) resultan en escisión incompleta en aproximadamente el 50% de los casos. Esto se debe a la extensa diseminación subclínica del LM más allá del margen visible — frecuentemente como melanocitos aislados o proliferación precoz no detectable clínicamente ni por el secccionado estándar en rebanada. La cirugía micrográfica de Mohs, la escisión por estadios con secciones permanentes diferidas (Mohs lento) o las biopsias de cartografía con escisión amplia por estadios son preferibles para el LM, a fin de garantizar la limpieza completa de márgenes antes de la reconstrucción.",
+          "wrong": {
+            "A": "<5% de escisión incompleta indicaría un margen adecuado — no es el caso del LM con 5 mm estándar. Esta cifra infraestima dramáticamente el problema.",
+            "B": "El 10–15% es demasiado bajo — la tasa publicada de escisión incompleta para LM con márgenes estándar de 5 mm es de aproximadamente el 40–50% en múltiples series.",
+            "D": "~90% sería una sobreestimación — aunque la extensión subclínica es extensa, el 50% es la cifra más comúnmente citada en las series de escisión por estadios."
+          },
+          "guideline": "NCCN Melanoma v3.2024; BAD Melanoma Guidelines 2021; Swetter SM et al. J Am Acad Dermatol 2019",
+          "trial": "Bub JL et al. (J Am Acad Dermatol 2004): escisión de cartografía por estadios del LM — escisión incompleta con márgenes estándar de 5 mm en el 47% de los casos; la escisión por estadios hasta márgenes limpios eliminó la recurrencia a 5 años.",
+          "pearl": "Lentigo maligno (MIS): el margen estándar de 5 mm falla en ~50% de los casos. SIEMPRE usar escisión por estadios con control de márgenes (Mohs lento, Mohs, o biopsias de cartografía). Reconstruir solo DESPUÉS de confirmar márgenes limpios. Márgenes más amplios (≥1 cm) mejoran pero no garantizan la limpieza."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q11",
+        "stem": "Un paciente inmunocomprometido de 45 años (trasplante renal) presenta un CEC cutáneo de 3 cm en el área preauricular izquierda. La TC cervical muestra un ganglio ipsilateral sospechoso en el nivel II de 1,5 cm. La punción-aspiración con aguja fina confirma CEC metastásico. ¿Cuál es el manejo más adecuado?",
+        "options": {
+          "A": "Escisión local amplia del primario únicamente — la enfermedad ganglionar es demasiado pequeña para tratar",
+          "B": "Escisión local amplia del primario + disección cervical radical modificada izquierda niveles I–V + quimiorradioterapia adyuvante",
+          "C": "Radioterapia al primario y cuello únicamente — la cirugía está contraindicada en pacientes inmunosuprimidos",
+          "D": "Cetuximab sistémico sin cirugía"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este paciente presenta un CEC cutáneo con ganglio clínicamente positivo (cN1) — confirmado por PAAF. El manejo requiere tratar tanto el tumor primario como la enfermedad regional: escisión local amplia del primario (con Mohs o márgenes amplios) Y linfadenectomía regional (disección cervical radical modificada niveles I–V para primario preauricular con drenaje a parótida y nivel II primero). La quimiorradioterapia adyuvante basada en cisplatino está indicada dada la presencia de metástasis ganglionar confirmada y la inmunosupresión (factores de alto riesgo para recurrencia). La NCCN 2024 recomienda QRT adyuvante para ganglios positivos con EEC o características de alto riesgo.",
+          "wrong": {
+            "A": "Las metástasis ganglionares confirmadas (cN1) obligan al tratamiento regional — dejar enfermedad ganglionar confirmada sin tratar no es aceptable.",
+            "C": "La inmunosupresión no es contraindicación para la cirugía. Estos pacientes necesitan un tratamiento agresivo — su enfermedad es más agresiva y tiende a diseminarse más rápidamente.",
+            "D": "El cetuximab (anti-EGFR) es una opción para el CEC cutáneo recurrente/metastásico (basado en series pequeñas) pero no es el tratamiento primario estándar — la cirugía y la radioterapia adyuvante son preferibles para la enfermedad operable."
+          },
+          "guideline": "NCCN Cutaneous SCC v2.2024; EACMFS Head and Neck Oncology Guidelines 2023",
+          "trial": "Jennings L and Schmults CD (Dermatol Surg 2010): manejo del CEC cutáneo en receptores de trasplante de órgano — el tratamiento multimodal agresivo (cirugía + RT adyuvante) reduce significativamente la recurrencia en comparación con la cirugía sola; también se recomienda la modificación de la inmunosupresión.",
+          "pearl": "CEC cutáneo en RTO + cN1 confirmado: Escisión amplia primario + DCRM + QRT adyuvante. Considerar cambio de inhibidor de calcineurina (ciclosporina) a inhibidor mTOR (sirolimus) con el equipo de trasplante — los inhibidores mTOR reducen la incidencia de CEC cutáneo en un 40–50% en RTO."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q12",
+        "stem": "Un paciente se somete a cirugía de Mohs para un CEC cutáneo de alto riesgo del párpado inferior izquierdo. El defecto resultante afecta al 40% del párpado inferior de espesor completo (borde libre, tarso y conjuntiva). ¿Qué técnica reconstructiva es más adecuada?",
+        "options": {
+          "A": "Injerto cutáneo de espesor total del párpado superior",
+          "B": "Colgajo de rotación-avance de Tenzel",
+          "C": "Cierre primario directo con cantopexia medial",
+          "D": "Colgajo de permuta Cutler-Beard del párpado superior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El colgajo de rotación-avance de Tenzel es la reconstrucción estándar para los defectos del párpado inferior que afectan al 25–50% del ancho del párpado (espesor completo). El colgajo de Tenzel es un colgajo semicircular de rotación-avance del área del canto lateral que proporciona la reconstrucción del borde libre para defectos de este tamaño. Utiliza cantotomía lateral y cantólisis para proporcionar un avance tisular adecuado. Para defectos <25%: cierre primario. Para defectos >50%: colgajo tarsoconjuntival (lámina posterior, colgajo de Hughes) + injerto cutáneo (lámina anterior) u otra reconstrucción bilaminar.",
+          "wrong": {
+            "A": "El IET del párpado superior se utiliza como reemplazo de la lámina anterior (solo piel) — no reconstruye la lámina posterior (tarso y conjuntiva) ni el borde libre del párpado. Los defectos de espesor completo del párpado inferior requieren la reconstrucción de ambas láminas.",
+            "C": "El cierre primario directo con cantopexia medial crearía tensión en el cierre de un defecto del 40% y resultaría en ectropión o acortamiento del párpado — no es apropiado para un defecto de espesor completo del 40%.",
+            "D": "El colgajo de permuta Cutler-Beard (colgajo de permuta del párpado superior) se utiliza para defectos del PÁRPADO SUPERIOR >50%, no del párpado inferior. Es un colgajo en dos tiempos que toma tejido del párpado superior para reconstruir grandes defectos del párpado superior — no es el estándar para la reconstrucción del párpado inferior."
+          },
+          "guideline": "NCCN Cutaneous SCC 2024; EACMFS Eyelid Reconstruction Guidelines 2023",
+          "trial": "Tenzel RR and Stewart WB (Arch Ophthalmol 1978): colgajo semicircular de rotación-avance para reconstrucción del párpado inferior — reconstrucción fiable para defectos del 25–50% del párpado inferior; morbilidad mínima del sitio donante.",
+          "pearl": "Reconstrucción del párpado inferior según tamaño del defecto: <25% = cierre primario. 25–50% = colgajo de Tenzel. >50% = colgajo tarsoconjuntival de Hughes (lámina posterior) + IET (lámina anterior). Párpado superior: >50% = colgajo de permuta Cutler-Beard. Nunca confundir las técnicas del párpado superior e inferior."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q13",
+        "stem": "¿Cuál es el factor pronóstico más importante en el melanoma cutáneo primario según la estadificación de la 8.ª edición AJCC?",
+        "options": {
+          "A": "Tasa mitótica",
+          "B": "Espesor de Breslow",
+          "C": "Nivel de Clark",
+          "D": "Densidad de linfocitos infiltrantes del tumor (TIL)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El espesor de Breslow (profundidad de invasión en mm desde la capa granular de la epidermis hasta la célula tumoral más profunda) es el factor pronóstico aislado más importante en el melanoma cutáneo primario. Determina directamente el estadio T en la 8.ª edición AJCC y es el principal determinante de las recomendaciones sobre el margen quirúrgico y la BSGC. La ulceración es el segundo factor más importante del estadio T. La tasa mitótica se incluía en la 7.ª edición AJCC para el estadio T1, pero fue retirada del estadio T en la 8.ª edición, aunque mantiene significación pronóstica.",
+          "wrong": {
+            "A": "La tasa mitótica era un factor importante en la 7.ª edición AJCC (utilizado para distinguir T1a de T1b) pero fue eliminado del estadio T en la 8.ª edición AJCC. Mantiene significación pronóstica pero ya no es el factor principal de estadificación.",
+            "C": "El nivel de Clark (profundidad anatómica — I–V) se utilizaba en sistemas de estadificación anteriores pero ha sido sustituido por el espesor de Breslow en la 8.ª edición AJCC porque Breslow es más reproducible y pronósticamente más preciso.",
+            "D": "La densidad de TIL es un biomarcador pronóstico que se investiga en la investigación del melanoma pero no está incorporado en la estadificación AJCC actual ni en las guías de manejo clínico estándar."
+          },
+          "guideline": "Manual de Estadificación del Cáncer AJCC 8.ª Edición (2017) — Melanoma; NCCN Melanoma v3.2024",
+          "trial": "Breslow A (Ann Surg 1970): descripción original de la medición del grosor tumoral en melanoma — el espesor de Breslow demostró ser el factor pronóstico aislado más importante, superando al nivel de Clark. Validado en múltiples cohortes internacionales.",
+          "pearl": "El estadio T del melanoma AJCC 8.ª se determina por: (1) espesor de Breslow (factor principal) y (2) ulceración. El nivel de Clark ya no se utiliza en la estadificación. La tasa mitótica fue retirada del estadio T1 (cambio de 7.ª a 8.ª edición). Conocer los umbrales de Breslow: 0,8 mm (T1a/T1b), 1,0 mm (T1b), 2,0 mm (T2/T3), 4,0 mm (T3/T4)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q14",
+        "stem": "Para el tratamiento sistémico adyuvante del melanoma en estadio IIIA–C resecado con mutación BRAF V600E, ¿cuál es el enfoque recomendado?",
+        "options": {
+          "A": "Ipilimumab 3 mg/kg — primer agente adyuvante aprobado; sigue siendo de primera línea",
+          "B": "Pembrolizumab O nivolumab (anti-PD-1) O dabrafenib + trametinib — todos aprobados; elección individualizada",
+          "C": "Vemurafenib en monoterapia — más eficaz para enfermedad BRAF-mutante",
+          "D": "Observación — el tratamiento sistémico adyuvante no ha demostrado beneficio en el estadio IIIA"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para el melanoma en estadio III con mutación BRAF V600E resecado, existen tres opciones adyuvantes aprobadas: (1) pembrolizumab (KEYNOTE-054, beneficio en SLR HR 0,57); (2) nivolumab (CheckMate 238, superior a ipilimumab); (3) dabrafenib + trametinib (COMBI-AD, beneficio en SLR HR 0,47). La elección entre anti-PD-1 y la combinación BRAF/MEK es individualizada según el perfil de toxicidad, preferencias del paciente y consideraciones sobre la estrategia de tratamiento futuro. El anti-PD-1 produce memoria inmunológica duradera; BRAF/MEK proporciona un control rápido de la enfermedad.",
+          "wrong": {
+            "A": "Ipilimumab 3 mg/kg no fue la dosis adyuvante aprobada inicialmente — se utilizó ipilimumab 10 mg/kg (EORTC 18071), con toxicidad grado 3–4 significativa. Más importante aún, el ipilimumab adyuvante ha sido sustituido por los agentes anti-PD-1 como opciones preferidas de primera línea debido a su mayor eficacia y menor toxicidad.",
+            "C": "El vemurafenib en monoterapia NO está aprobado para uso adyuvante — el ensayo BRIM8 estudió vemurafenib adyuvante sin mejoría en la supervivencia libre de recaída en estadio IIC–IIIA. El régimen adyuvante BRAF-dirigido aprobado es la COMBINACIÓN de dabrafenib + trametinib.",
+            "D": "El estadio IIIA (ganglio centinela positivo, ganglio <2 mm) tiene menor riesgo que IIIB/IIIC, pero la NCCN 2024 recomienda la consideración del tratamiento adyuvante para todos los pacientes en estadio III basándose en el análisis del riesgo de recurrencia."
+          },
+          "guideline": "NCCN Melanoma v3.2024; KEYNOTE-054 (Eggermont NEJM 2018); COMBI-AD (Long NEJM 2017); CheckMate 238 (Weber Lancet Oncol 2017)",
+          "trial": "COMBI-AD (Long GV et al., NEJM 2017): dabrafenib + trametinib adyuvante para melanoma en estadio III BRAF V600E/K; SLR a 5 años 52% vs 36% placebo (HR 0,47); junto con anti-PD-1, establecido como opción adyuvante estándar.",
+          "pearl": "Adyuvante estadio III BRAF-mutante: tres opciones: anti-PD-1 (pembrolizumab/nivolumab) O BRAF+MEK (dabrafenib+trametinib). NO ipilimumab solo; NO monoterapia BRAF. Determinar BRAF V600 antes de iniciar. Duración: 12 meses para ambos enfoques."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q15",
+        "stem": "Un hombre de 62 años presenta un carcinoma de células de Merkel (CCM) del temporal izquierdo, de 2,5 cm, clínicamente N0. Tras escisión amplia (márgenes de 2 cm) y BSGC (negativa), se planifica radioterapia adyuvante. ¿Cuál es la base de evidencia para la radioterapia adyuvante al lecho primario en el CCM?",
+        "options": {
+          "A": "Ensayo controlado aleatorizado que demuestra una reducción de la recurrencia >30% con RT adyuvante",
+          "B": "Series retrospectivas y análisis de bases de datos nacionales que muestran una reducción significativa de la recurrencia local con RT adyuvante (reducción del riesgo del 50–70%)",
+          "C": "La RT adyuvante no está recomendada — no reduce la recurrencia en el CCM",
+          "D": "Un único ECA que demuestra que la RT adyuvante es superior al pembrolizumab adyuvante"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La evidencia de la radioterapia adyuvante en el CCM proviene de grandes series retrospectivas y estudios de bases de datos nacionales (no se ha realizado ningún ECA dada la rareza del CCM). Estos muestran de forma consistente tasas significativamente menores de recurrencia local con RT adyuvante — múltiples series demuestran una reducción del 50–70% en la recurrencia local/regional. La NCCN 2024 recomienda la RT adyuvante al lecho primario para todos los CCM independientemente del estado del margen, y a los ganglios regionales en pacientes con BSGC positiva o que no se someten a BSGC.",
+          "wrong": {
+            "A": "No se ha realizado ningún ECA para la RT adyuvante en el CCM — la enfermedad es demasiado rara. La evidencia proviene de análisis retrospectivos y de bases de datos, que apoyan de forma consistente la RT adyuvante.",
+            "C": "La RT adyuvante SÍ está recomendada por la NCCN 2024 y la EACMFS para todos los CCM — reduce significativamente la recurrencia en los datos observacionales.",
+            "D": "Ningún ensayo ha comparado directamente la RT adyuvante con el pembrolizumab en el contexto adyuvante. El pembrolizumab está aprobado para el CCM METASTÁSICO; el papel adyuvante de la inmunoterapia en el CCM localizado está siendo investigado (ensayo STAMP en curso)."
+          },
+          "guideline": "NCCN Merkel Cell Carcinoma v2.2024; EACMFS 2023",
+          "trial": "Mojica P et al. (J Clin Oncol 2007): análisis de la base de datos SEER de 1.187 pacientes con CCM — la radiación adyuvante redujo la mortalidad específica por enfermedad HR 0,73; Poulsen M et al. (Radiother Oncol 2003): reducción de la recurrencia locorregional del 55% al 25% con RT adyuvante.",
+          "pearl": "RT adyuvante en CCM: siempre recomendada al lecho primario (reduce la recurrencia local ~50–70%). También a los ganglios regionales si BSGC+. Evidencia = retrospectiva; ningún ECA posible por rareza. JAVELIN Merkel 200 (avelumab) y KEYNOTE-017 (pembrolizumab) = inmunoterapia para CCM metastásico, no adyuvante."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q16",
+        "stem": "El injerto cutáneo de espesor total (IET) se prefiere al injerto de espesor parcial (IEP) en la reconstrucción facial tras la escisión de cáncer de piel porque:",
+        "options": {
+          "A": "El IET tiene mayor tasa de prendimiento por su capa dérmica más gruesa y vascularizada",
+          "B": "El IET proporciona mejor ajuste de color, menor contracción secundaria y textura más duradera para la cara",
+          "C": "El IET puede obtenerse de cualquier localización corporal sin morbilidad del sitio donante",
+          "D": "El IET es más fácil de obtener y requiere menos tiempo operatorio"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El IET (dermis completa + epidermis) se prefiere para la reconstrucción facial porque: (1) proporciona un ajuste de color y textura más similar a la piel facial (especialmente de sitios donantes preauricular, retroauricular o supraclavicular); (2) experimenta significativamente menos contracción secundaria que el IEP (que se contrae marcadamente por la dermis parcial), preservando el contorno de la subunidad facial; (3) la durabilidad y la recuperación de la sensibilidad son superiores. El resultado cosmético superior justifica la obtención más compleja y el cierre primario del sitio donante requeridos para el IET.",
+          "wrong": {
+            "A": "El IET tiene en realidad una tasa de prendimiento MENOR que el IEP — la dermis más gruesa requiere una mayor vascularidad del lecho receptor y presenta mayor riesgo de prendimiento parcial. El IEP es más fiable en lechos comprometidos.",
+            "C": "Los sitios donantes del IET están limitados por la necesidad de cierre primario — la zona donante no puede ser demasiado grande. La piel preauricular, retroauricular y supraclavicular son los sitios donantes preferidos con ajuste de color facial.",
+            "D": "La obtención del IET es técnicamente más exigente que la del IEP — el IEP puede obtenerse con un dermatomo de grandes áreas rápidamente. El IET requiere una escisión elíptica cuidadosa y el cierre primario del donante."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Burget GC and Menick FJ. Aesthetic Reconstruction of the Nose 1994",
+          "trial": "Brown J et al. (Br J Plast Surg 2004): IET vs IEP en reconstrucción facial — el IET produjo resultados cosméticos significativamente superiores (ajuste de color, contracción, textura) al año; recomendado para toda reconstrucción facial frente al IEP.",
+          "pearl": "IET vs IEP para la cara: IET = mejor ajuste de color, menos contracción secundaria, más duradero. Mejores sitios donantes para IET facial: preauricular (mejor ajuste para nariz/mejilla), retroauricular, supraclavicular, párpado superior (para reconstrucción palpebral). IEP: mayor tasa de prendimiento, más contracción — no ideal para la cara."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q17",
+        "stem": "Los receptores de trasplante de órgano (RTO) presentan un riesgo dramáticamente elevado de CEC cutáneo. ¿Cuál es el orden de magnitud aproximado de este aumento de riesgo en comparación con la población general?",
+        "options": {
+          "A": "Aumento de 2 veces",
+          "B": "Aumento de 10 veces",
+          "C": "Aumento de 50 veces",
+          "D": "Aumento de 100 veces"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Los RTO con inmunosupresión crónica mediante inhibidores de calcineurina (ciclosporina, tacrolimus) presentan aproximadamente un riesgo de CEC cutáneo 100 veces mayor que la población general. El riesgo es especialmente elevado en receptores de trasplante cardíaco (mayor inmunosupresión acumulada). A los 20 años del trasplante, más del 80% de los pacientes con ciclosporina habrán desarrollado CEC cutáneo. El mecanismo implica la alteración de la vigilancia inmunológica sobre los queratinocitos dañados por UV e infectados por VPH. El CEC cutáneo en RTO es más agresivo (mayor tasa de metástasis, primarios múltiples, crecimiento más rápido).",
+          "wrong": {
+            "A": "Un aumento de 2 veces sería trivial y comparable a grupos de alto riesgo no inmunosuprimidos (piel clara, excesiva exposición solar). El aumento real en RTO es dramáticamente mayor.",
+            "B": "Un aumento de 10 veces captura el riesgo incrementado visto con inmunosupresión menos intensa — los RTO con inhibidores de calcineurina tienen un aumento de riesgo de 65–100 veces.",
+            "C": "50 veces está dentro del rango de algunas estimaciones, pero la cifra más comúnmente citada para RTO con inhibidores de calcineurina es de 65–100 veces."
+          },
+          "guideline": "BAD/BSSD Skin Cancer Guidelines 2021; NCCN Cutaneous SCC v2.2024 — Pacientes Inmunosuprimidos",
+          "trial": "Harwood CA et al. (Br J Cancer 1996): cáncer de piel tras trasplante — incidencia de CEC cutáneo 65–100 veces mayor en RTO; más elevada en trasplantes cardíacos; el cambio de inhibidores de calcineurina a inhibidores mTOR reduce la incidencia de CEC cutáneo en ~40–50%.",
+          "pearl": "RTO + CEC cutáneo: aumento de riesgo 100×. Primarios múltiples frecuentes. Más agresivo que el CEC cutáneo en inmunocompetentes. Manejo: tratamiento agresivo (cirugía + RT adyuvante para alto riesgo), vigilancia dermatológica regular, educación sobre fotoprotección. Considerar cambio a inhibidor mTOR con el equipo de trasplante."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q18",
+        "stem": "Una mujer de 75 años presenta un gran defecto del labio superior que afecta a dos tercios del ancho del labio tras escisión amplia de un CEC del labio. ¿Qué técnica reconstructiva permite restaurar el bermellón funcional mediante un colgajo de espesor completo del labio contralateral?",
+        "options": {
+          "A": "Colgajo de rotación-avance de Karapandzic",
+          "B": "Colgajo cruzado de Abbe",
+          "C": "Colgajo de Estlander",
+          "D": "Colgajo de avance de mejilla de Bernard-Burow"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El colgajo cruzado de Abbe transfiere un segmento de espesor completo del labio contralateral (incluyendo bermellón, mucosa y músculo orbicular de los labios) sobre un pedículo de la arteria labial. Es la técnica óptima para reconstruir defectos de un tercio a dos tercios del labio cuando la restauración del bermellón es crítica, ya que aporta tejido idénticamente compatible del labio opuesto. Es un procedimiento en dos tiempos: tiempo 1 (inset del colgajo mientras el pedículo está intacto), tiempo 2 (sección del pedículo a las 2–3 semanas). El colgajo de Abbe se utiliza particularmente para el labio superior (defectos centrales) donde la restauración del filtrum es esencialmente cosmética.",
+          "wrong": {
+            "A": "El colgajo de Karapandzic es un colgajo de rotación-avance de tejido labial-mejilla bilateral de espesor completo con preservación del aporte neurovascular — se utiliza para grandes defectos del labio central (>dos tercios). No transfiere bermellón del labio contralateral.",
+            "C": "El colgajo de Estlander es una variante del colgajo de Abbe utilizado para los defectos de la COMISURA — rota tejido del labio inferior para reconstruir la comisura del labio superior. Crea una comisura redondeada que puede requerir una comisuroplastia secundaria.",
+            "D": "El colgajo de Bernard-Burow (triángulos de Burow) es un gran avance bilateral de mejilla con escisiones en cuña en los pliegues nasolabiales — se utiliza para la reconstrucción casi total del labio, pero no transfiere bermellón funcional del labio contralateral."
+          },
+          "guideline": "NCCN Cutaneous SCC 2024; EACMFS Lip Reconstruction Guidelines 2023",
+          "trial": "Abbe R (Med Rec 1898): descripción original; serie moderna de Johanson B et al. (Scand J Plast Reconstr Surg 1974) validando el colgajo cruzado para la reconstrucción del bermellón funcional.",
+          "pearl": "Colgajo de Abbe = transferencia cruzada de labio de espesor completo para defectos de 1/3–2/3 del labio. Dos tiempos: pedículo seccionado a las 2–3 semanas. Mejor para defectos centrales del labio superior (reconstrucción del bermellón). Estlander = variante de comisura. Karapandzic = defectos centrales grandes (>2/3). Bernard-Burow = labio casi total."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q19",
+        "stem": "Una mujer de 55 años presenta un CBC superficial en el antebrazo derecho de 3 cm × 2 cm. No hay características de alto riesgo. ¿Qué tratamiento es apropiado según la NCCN 2024?",
+        "options": {
+          "A": "Cirugía micrográfica de Mohs — todos los CBC requieren Mohs",
+          "B": "Curetaje y electrodesecación O imiquimod tópico O terapia fotodinámica",
+          "C": "Escisión local amplia con márgenes de 10 mm",
+          "D": "Vismodegib sistémico — los CBC superficiales son resistentes a las terapias locales"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El CBC superficial en una localización de bajo riesgo (tronco/extremidad, no zona H) se maneja adecuadamente con tratamientos de campo: curetaje y electrodesecación (C+ED), crema de imiquimod al 5% (aplicar 5 días/semana × 6 semanas) o terapia fotodinámica (TFD con ácido aminolevulínico/metilaminolevulinato). Estos enfoques alcanzan tasas de curación >90% para el CBC superficial en localizaciones no faciales y evitan la morbilidad quirúrgica. No son apropiados para la zona H, los CBC nodulares o los subtipos agresivos.",
+          "wrong": {
+            "A": "La cirugía de Mohs no está indicada para todos los CBC — está reservada para CBC de alto riesgo (zona H, recurrente, subtipo agresivo, inmunosuprimido). Utilizar Mohs para un CBC superficial del antebrazo es innecesario e ineficiente en el uso de recursos.",
+            "C": "Los márgenes de 10 mm son excesivos para un CBC superficial del antebrazo — 4 mm es el estándar para la escisión de bajo riesgo. Sin embargo, los tratamientos de campo (C+ED, imiquimod, TFD) son preferibles a la cirugía para el subtipo superficial en localizaciones no críticas.",
+            "D": "El vismodegib (inhibidor hedgehog) está reservado para el CBC AVANZADO (localmente avanzado o metastásico) que no puede tratarse con cirugía o radioterapia — no para CBC superficial susceptible de tratamiento de campo simple."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024 — Tratamiento del CBC de Bajo Riesgo",
+          "trial": "Szeimies RM et al. (Br J Dermatol 2002): TFD vs crioterapia para CBC superficial — eficacia equivalente (91% vs 86% a 3 meses); TFD con resultado cosmético superior; tratamiento de campo validado para el subtipo superficial.",
+          "pearl": "CBC superficial en zona no-H: C+ED, imiquimod tópico o TFD son apropiados. CBC nodular en zona no-H: escisión estándar 4 mm. CUALQUIER CBC en zona H o subtipo agresivo: cirugía de Mohs. Vismodegib: solo CBC avanzado/metastásico. No sobretratar los CBC superficiales."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q20",
+        "stem": "KEYNOTE-054 (Eggermont et al., NEJM 2018) estudió el pembrolizumab como tratamiento adyuvante del melanoma en estadio III resecado. ¿Cuál fue el resultado del objetivo principal?",
+        "options": {
+          "A": "Pembrolizumab mejoró la supervivencia global (SG) frente a placebo (HR 0,70, p=0,01)",
+          "B": "Pembrolizumab mejoró la supervivencia libre de recurrencia (SLR) frente a placebo (HR 0,57, p<0,001)",
+          "C": "Pembrolizumab no mostró beneficio frente a placebo en pacientes con mutación BRAF",
+          "D": "Pembrolizumab mostró resultados inferiores al ipilimumab en estadio IIIA"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "KEYNOTE-054 (Eggermont AM, NEJM 2018) aleatorizó a 1.019 pacientes con melanoma en estadio III resecado a pembrolizumab adyuvante (200 mg c3s × 18 dosis, 1 año) vs placebo. El objetivo principal fue la supervivencia libre de recurrencia (SLR): pembrolizumab mejoró la SLR con HR 0,57 (IC 98,4% 0,43–0,74; p<0,001). La SLR al año fue del 75,4% vs 61,0% (pembrolizumab vs placebo). El beneficio se observó tanto en pacientes con BRAF mutado como BRAF nativo, y en todos los subgrupos del estadio III.",
+          "wrong": {
+            "A": "La supervivencia global no fue el objetivo principal y no fue significativamente diferente en el análisis primario — los datos de SG están inmaduros en la publicación inicial. La SLR es el objetivo principal de los ensayos de melanoma adyuvante.",
+            "C": "KEYNOTE-054 mostró beneficio tanto en pacientes con BRAF mutado como BRAF nativo — no hubo diferencia de eficacia según el estado BRAF para el pembrolizumab.",
+            "D": "KEYNOTE-054 fue un ensayo controlado con placebo — no comparó directamente pembrolizumab con ipilimumab. La comparación de nivolumab vs ipilimumab se realizó en CheckMate 238 (nivolumab superior)."
+          },
+          "guideline": "NCCN Melanoma v3.2024; KEYNOTE-054 (Eggermont AM, NEJM 2018)",
+          "trial": "KEYNOTE-054 (Eggermont AM et al., NEJM 2018): pembrolizumab vs placebo adyuvante en melanoma en estadio III resecado; HR de SLR 0,57 (p<0,001); SLR al año 75,4% vs 61,0%; beneficio en todos los subgrupos; estableció el pembrolizumab como tratamiento adyuvante estándar.",
+          "pearl": "KEYNOTE-054: pembrolizumab adyuvante estadio III melanoma. Objetivo principal: SLR HR 0,57. Beneficio en todos los subgrupos del estadio III y en todos los estados BRAF. Duración: 12 meses (18 dosis). CheckMate 238: nivolumab vs ipilimumab adyuvante — nivolumab superior, menor toxicidad. Ambos agentes anti-PD-1 están aprobados."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

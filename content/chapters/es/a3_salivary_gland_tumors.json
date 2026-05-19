@@ -1,0 +1,626 @@
+{
+  "id": "A3",
+  "title": "Tumores de glándulas salivales: parotidectomía y exéresis submaxilar",
+  "subtitle": "Oncología de cabeza y cuello — Clasificación WHO 2022, preservación del nervio facial, histotipos malignos",
+  "block": "A",
+  "block_name": "Oncología de Cabeza y Cuello",
+  "level": "R2-3",
+  "reading_time_min": 40,
+  "guidelines_version": "NCCN Head and Neck Cancers v1.2024 · WHO Classification of Head and Neck Tumours 2022 · EACMFS 2023",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 4th ed. (2022)",
+    "Barnes L et al. WHO Classification of Head and Neck Tumours, 5th ed. (2022)",
+    "Shah JP et al. Head and Neck Surgery and Oncology, 5th ed. (2020)"
+  ],
+  "learning_objectives": [
+    "Clasificar los tumores de glándulas salivales utilizando la clasificación WHO 2022 e identificar los histotipos benignos y malignos más frecuentes",
+    "Describir la técnica de la parotidectomía superficial y total con identificación y preservación del nervio facial",
+    "Identificar las indicaciones y complicaciones de la exéresis de la glándula submaxilar",
+    "Aplicar los criterios que distinguen el síndrome de Frey, el síndrome del primer bocado y la parálisis del nervio facial tras parotidectomía",
+    "Reconocer las características clínicas e imagenológicas que distinguen los tumores parotídeos benignos de los malignos",
+    "Describir las indicaciones de disección cervical y tratamiento adyuvante en los tumores malignos de glándulas salivales"
+  ],
+  "sections": [
+    {
+      "id": "A3-S1",
+      "title": "Clasificación y epidemiología de los tumores de glándulas salivales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los tumores de glándulas salivales son infrecuentes y representan aproximadamente el 0,5-1% de todos los tumores humanos y el 3-5% de todas las neoplasias de cabeza y cuello. Las glándulas salivales mayores — parótida, submaxilar y sublingual — representan aproximadamente el 80-90% de los tumores salivales, con la **glándula parótida** contribuyendo al 70-75% de todas las neoplasias salivales. Las glándulas salivales menores (distribuidas por toda la mucosa oral, paladar, labios, mucosa bucal y tracto aerodigestivo superior) representan el 10-20% de los tumores salivales.\n\nLa **Clasificación de Tumores de Cabeza y Cuello de la WHO, 5.ª edición (2022)** proporciona la clasificación definitiva actual de los tumores de glándulas salivales. El tumor **benigno** más común es el **adenoma pleomórfico (AP)** (también llamado tumor mixto benigno), que comprende aproximadamente el 60-65% de todos los tumores parotídeos y el 40-50% de todos los tumores de glándulas salivales. El adenoma pleomórfico se caracteriza patológicamente por una mezcla de células epiteliales y mioepiteliales dentro de un estroma condromixoide, y por sus extensiones pseudopódicas irregulares macroscópicamente encapsuladas pero microscópicamente irregulares que crean el riesgo significativo de recurrencia con la enucleación sola.\n\nLa **fracción maligna** de los tumores de glándulas salivales varía dramáticamente según la glándula: la glándula parótida tiene una tasa de malignidad de aproximadamente el 20-25%; la glándula submaxilar tiene una tasa del 35-50%; la glándula sublingual tiene una tasa del 70-90% (lo que hace que cualquier masa sublingual sea altamente sospechosa de malignidad). Los tumores de glándulas salivales menores son malignos en el 50-60% de los casos. Estas cifras establecen el principio clínico de que cuanto más pequeña y más posterior es la glándula salival, mayor es la probabilidad de malignidad para cualquier masa dada.\n\nLos tumores malignos de glándulas salivales más frecuentes son el **carcinoma mucoepidermoide** (el tumor maligno salival más común en general), el **carcinoma adenoide quístico** (el más común en las glándulas submaxilar y menores), el **carcinoma de células acinares**, el **carcinoma de conducto salival**, el **adenocarcinoma SAI** y el **carcinoma ex adenoma pleomórfico** (transformación maligna de un AP preexistente, típicamente tras 10-20 años). El **carcinoma mucoepidermoide de alto grado** y el **carcinoma de conducto salival** tienen un comportamiento agresivo; el **carcinoma mucoepidermoide de bajo grado** y el **carcinoma de células acinares** tienen pronósticos relativamente favorables."
+        },
+        {
+          "type": "table",
+          "title": "Tumores comunes de glándulas salivales — Histotipo, grado y características clave",
+          "headers": ["Histotipo", "Benigno/Maligno", "Grado", "Característica clave", "SG 10 años"],
+          "rows": [
+            ["Adenoma pleomórfico", "Benigno", "—", "Pseudópodos; transformación maligna 1-5% a los >20 años", "Excelente (casi 100% si resección completa)"],
+            ["Tumor de Warthin", "Benigno", "—", "Bilateral en 10-15%; fumadores; quistes oncocíticos con estroma linfoide", "Excelente"],
+            ["Ca mucoepidermoide (bajo grado)", "Maligno", "Bajo", "Células mucosas + epidermoides; quístico; paladar frecuente", "~90%"],
+            ["Ca mucoepidermoide (alto grado)", "Maligno", "Alto", "Sólido; crecimiento rápido; metástasis ganglionar 50%", "~50%"],
+            ["Ca adenoide quístico", "Maligno", "Bajo-Int-Alto", "Invasión perineural; patrones cribiforme/tubular/sólido; MDist tardías", "~60% (recidiva tardía)"],
+            ["Ca de células acinares", "Maligno", "Bajo", "Diferenciación acinar; bilateral 3%; adultos jóvenes", "~80%"],
+            ["Ca de conducto salival", "Maligno", "Alto", "AR-positivo; HER2 amplificado; histología similar al cáncer de mama", "~25-35%"],
+            ["Ca ex adenoma pleomórfico", "Maligno", "Variable", "AP preexistente; dolor facial/parálisis como señales de alarma", "~50% (invasión capsular)–25% (ampliamente invasivo)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Tasa de malignidad específica por glándula",
+          "content": "Tasa de malignidad por glándula: Parótida 20-25%, Submaxilar 35-50%, Sublingual 70-90%, Glándulas salivales menores 50-60%. Principio clínico: cuanto más profunda y pequeña es la glándula, mayor es la probabilidad de malignidad. Cualquier masa de la glándula sublingual es maligna hasta que se demuestre lo contrario. Cualquier masa parotídea firme y no dolorosa con debilidad facial es maligna hasta que se demuestre lo contrario."
+        }
+      ]
+    },
+    {
+      "id": "A3-S2",
+      "title": "Evaluación clínica e imagen de las masas parotídeas",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La evaluación clínica de una masa parotídea comienza con una anamnesis y exploración física exhaustivas. Las **características que sugieren malignidad** incluyen: crecimiento rápido, dolor o sensibilidad (aunque la mayoría de las masas parotídeas son indoloras independientemente de la histología), afectación cutánea o fijación, parálisis o paresia del nervio facial (patognomónica de malignidad en la parótida), adenopatías cervicales, consistencia dura o fija a la palpación, y antecedentes de radioterapia previa en cabeza y cuello. El **adenoma pleomórfico** se presenta típicamente como una masa parotídea de crecimiento lento, indolora, lisa y móvil, más comúnmente en la cola parotídea o el lóbulo superficial posterior.\n\nImagen de la glándula parótida: la **ecografía** con o sin **PAAF** es la investigación de primera línea. La ecografía diferencia de forma fiable las masas intra de las extraparotídeas, identifica la enfermedad multicéntrica (tumores de Warthin) y guía la PAAF. La **RM con gadolinio** es el estándar de referencia para la imagen parotídea — proporciona una caracterización superior del tejido blando, evalúa la extensión al lóbulo profundo, la proximidad del nervio facial, la afectación del espacio parafaríngeo y la afectación mandibular. La **TC con contraste** es apropiada cuando hay preocupación clínica por afectación ósea o cuando la RM está contraindicada.\n\nCaracterísticas de RM características: **adenoma pleomórfico** — masa bien definida, heterogénea, hiperintensa en T2, frecuentemente con áreas condromixoides; **tumor de Warthin** — bilateral, multicéntrico, componente hiperintenso en T1 (alto contenido proteico), T2 intermedio; **tumores malignos** — márgenes mal definidos, T2 hipointenso (alta celularidad), difusión restringida (DWI) e infiltración peritumoral.\n\nLa **PAAF** de las masas parotídeas tiene una sensibilidad de aproximadamente el 85-92% y una especificidad del 95-99% en centros con experiencia. La PAAF puede distinguir entre benigno y maligno y, en muchos casos, proporciona información suficiente para planificar la cirugía. La biopsia con aguja gruesa (BAG) guiada por ecografía se utiliza cada vez más para el diagnóstico histológico definitivo, especialmente cuando la PAAF no es diagnóstica. La biopsia incisional abierta de una masa parotídea se evita generalmente ya que conlleva riesgo de lesión del nervio facial y diseminación tumoral."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error frecuente — Parálisis del nervio facial en masa parotídea",
+          "content": "Cualquier parálisis o debilidad del nervio facial asociada a una masa parotídea es maligna hasta que se demuestre lo contrario. La paresia facial en el contexto de una masa parotídea justifica RM urgente y biopsia. Los histotipos malignos comunes que causan invasión del nervio facial incluyen: carcinoma de conducto salival, carcinoma mucoepidermoide de alto grado, carcinoma ex adenoma pleomórfico y carcinoma indiferenciado. Las masas benignas prácticamente nunca causan parálisis del nervio facial a menos que sean enormes y ejerzan presión directa."
+        }
+      ]
+    },
+    {
+      "id": "A3-S3",
+      "title": "Parotidectomía superficial y total — Técnica y preservación del nervio facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **abordaje quirúrgico estándar** para una masa parotídea es una **parotidectomía formal** (superficial o total), NO la enucleación. La enucleación tiene una tasa de recurrencia del 20-45% para el adenoma pleomórfico y es inapropiada para cualquier tumor parotídeo debido a las extensiones pseudopódicas del AP y el riesgo de lesión del nervio facial por disección roma a ciegas.\n\nLa **parotidectomía superficial** extirpa el lóbulo superficial de la glándula parótida (la porción lateral al plano del nervio facial) con un manguito de tejido glandular normal alrededor del tumor. La incisión es una incisión de Blair modificada o de lifting facial: una incisión preauricular que se extiende detrás de la oreja hacia la línea del cabello, luego discurre a lo largo del borde anterior del esternocleidomastoideo. El colgajo cutáneo se eleva en el plano subplatismal/subcutáneo.\n\nEl **nervio facial** (NC VII) se identifica como la estructura anatómica individual más importante en la parotidectomía. El **tronco principal** del NC VII sale del foramen estilomastoideo y se identifica mediante cuatro puntos de referencia fiables: (1) el **puntero tragal** (una proyección cartilaginosa del trago — el tronco principal se encuentra aproximadamente 1 cm de profundidad y medial al puntero tragal, dirigiéndose anteriormente); (2) la **línea de sutura timpanomastoidea** (el NC VII emerge en el aspecto inferior de esta sutura); (3) el **vientre posterior del músculo digástrico** (el NC VII cruza el vientre posterior de medial a lateral, justo por encima de su arco tendinoso); y (4) el **abordaje retrógrado** (disecar desde la rama periférica hacia el tronco si los puntos de referencia están oscurecidos por el tumor o la cicatriz).\n\nTras identificar el tronco principal, la disección avanza a lo largo de las ramas nerviosas (divisiones temporofacial y cervicofacial) utilizando disección aguda y roma. El lóbulo superficial se extirpa en bloque con el tumor contenido. La **parotidectomía total** (extirpación de los lóbulos superficial y profundo) es necesaria para: tumores del lóbulo profundo, tumores grandes que se extienden al lóbulo profundo, tumores malignos de cualquier tamaño y adenoma pleomórfico recurrente con afectación del lóbulo profundo. Los tumores del lóbulo profundo en el espacio parafaríngeo pueden requerir acceso transoral o transcervical adicional.\n\nLa **monitorización intraoperatoria del nervio** con estimulación electromiográfica (EMG) continua es muy recomendable, especialmente para la parotidectomía de revisión, tumores grandes o tumores malignos donde el nervio puede estar distorsionado. El sacrificio del nervio es apropiado cuando el nervio está directamente invadido por la malignidad; debe realizarse inmediatamente un injerto nervioso con el nervio auricular mayor o el nervio sural para maximizar la recuperación funcional."
+        },
+        {
+          "type": "table",
+          "title": "Extensión de la parotidectomía según el escenario clínico",
+          "headers": ["Escenario clínico", "Procedimiento recomendado", "Manejo del nervio facial"],
+          "rows": [
+            ["AP lóbulo superficial pequeño (≤3 cm)", "Parotidectomía superficial", "Identificar tronco principal + preservar todas las ramas"],
+            ["AP lóbulo superficial grande (>3 cm) o extensión profunda", "Parotidectomía total", "Preservar nervio facial"],
+            ["Tumor lóbulo profundo, benigno", "Parotidectomía total ± transoral/transcervical", "Preservar nervio facial"],
+            ["Malignidad parotídea de bajo grado, sin afectación del nervio", "Parotidectomía total", "Preservar nervio facial"],
+            ["Malignidad de alto grado, nervio afectado", "Parotidectomía total", "Sacrificar segmento afectado, injerto nervioso inmediato"],
+            ["Ca ex AP", "Parotidectomía total + disección cervical", "Preservar si no hay invasión directa; sacrificar si está invadido"],
+            ["AP recurrente tras parotidectomía previa", "Parotidectomía total de revisión", "Disección nerviosa retrógrada; monitorización nerviosa esencial"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto clínico — Monitorización del nervio facial",
+          "content": "La monitorización continua intraoperatoria del nervio facial con EMG reduce significativamente el riesgo de parálisis del nervio facial postoperatoria en la parotidectomía primaria (de aproximadamente un 4% a un 1-2% de parálisis temporal). En la parotidectomía de revisión, donde el tejido cicatricial borra los puntos de referencia anatómicos, la monitorización nerviosa es esencial. El dispositivo de monitorización proporciona retroalimentación continua en tiempo real con alertas audibles cuando el nervio se aproxima a los instrumentos. Sin embargo, la monitorización NO sustituye al conocimiento anatómico — lo complementa."
+        }
+      ]
+    },
+    {
+      "id": "A3-S4",
+      "title": "Complicaciones de la parotidectomía",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **debilidad del nervio facial** es la complicación más temida de la parotidectomía. La **paresia facial temporal** (neuropraxia) ocurre en el 10-40% de los pacientes tras parotidectomía superficial y en el 20-50% tras parotidectomía total; la gran mayoría (>90%) se resuelve en 6-12 meses. La **parálisis permanente del nervio facial** ocurre en <2% tras parotidectomía superficial primaria y en el 1-4% tras parotidectomía total en manos experimentadas. Si el sacrificio del nervio es necesario por aclaramiento oncológico, debe realizarse inmediatamente una reconstrucción con injerto en cable (nervio auricular mayor o nervio sural), y pueden considerarse procedimientos de reinervación diferida (transferencia nerviosa, transferencia de músculo grácil libre) si la recuperación es incompleta.\n\nEl **síndrome de Frey** (síndrome del nervio auriculotemporal o sudoración gustativa) es la complicación diferida más frecuente de la parotidectomía, que ocurre en el 30-60% de los pacientes si se evalúa mediante la prueba objetiva de almidón-yodo, aunque el enrojecimiento y la sudoración sintomáticos se notifican en aproximadamente el 15-25% de los pacientes. Resulta de la reinervación aberrante de la piel del lecho parotídeo por fibras parasimpáticas secretomotoras del nervio auriculotemporal (que originalmente abastecían a la glándula parótida) que reinervan las glándulas sudoríparas en lugar del tejido salival. Presentación clínica: eritema y sudoración sobre el área de la mejilla preauricular desencadenados por masticar o estimulación gustativa. Prevención: la interposición de un colgajo SMAS entre el lecho parotídeo y la piel suprayacente reduce significativamente la incidencia. Tratamiento: inyección de toxina botulínica A intradérmica en el área afectada (muy eficaz; repetible).\n\nEl **síndrome del primer bocado** es una complicación diferente caracterizada por dolor intenso en la región parotídea que se produce con el primer bocado de cada comida y que disminuye con los bocados siguientes. Es causado por la denervación simpática de las células mioepiteliales que rodean los ácinos del remanente parotídeo o el lóbulo profundo tras la parotidectomía con disección del espacio parafaríngeo. El primer bocado causa una contracción masiva acinar (estimulación parasimpática sin oposición) que resulta en un espasmo intenso. Habitualmente mejora espontáneamente con el tiempo. Tratamiento: las inyecciones de toxina botulínica A pueden reducir la severidad de los síntomas.\n\nLa **hipoestesia del nervio auricular mayor** es casi universal tras la parotidectomía, ya que este nervio (C2-C3) proporciona sensibilidad al lóbulo de la oreja y la aurícula inferior y se divide en el abordaje estándar de parotidectomía. Los pacientes deben ser informados preoperatoriamente sobre el entumecimiento permanente del lóbulo de la oreja. La preservación de la rama posterior del nervio auricular mayor durante la elevación del colgajo cutáneo reduce parcialmente el déficit sensorial."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Síndrome de Frey vs síndrome del primer bocado",
+          "content": "Síndrome de Frey: sudoración y enrojecimiento gustativo desencadenado por masticar — debido a la reinervación parasimpática aberrante de las glándulas sudoríparas. Ocurre semanas o meses después de la parotidectomía. Tratamiento: toxina botulínica A. Síndrome del primer bocado: dolor intenso en el PRIMER bocado de cada comida, que disminuye con los bocados siguientes — debido a la denervación simpática de las células mioepiteliales parotídeas. Ocurre tras la disección del espacio parafaríngeo. Tratamiento: toxina botulínica A, mejora espontánea. Son entidades distintas: mecanismo diferente, síntomas diferentes, cronología diferente."
+        }
+      ]
+    },
+    {
+      "id": "A3-S5",
+      "title": "Exéresis de la glándula submaxilar — Indicaciones y técnica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **exéresis de la glándula submaxilar** se realiza por dos indicaciones principales: **sialoadenitis crónica** (generalmente obstructiva por sialolitiasis del conducto de Wharton) y **tumor submaxilar** (benigno o maligno). Con la tasa de malignidad del 35-50% de los tumores de la glándula submaxilar, cualquier masa submaxilar aislada sin evidencia de sialoadenitis justifica biopsia preoperatoria o exéresis teniendo en cuenta la malignidad.\n\nLa incisión estándar es una incisión horizontal en pliegue aproximadamente 3-4 cm por debajo del borde mandibular en un pliegue cutáneo, que se extiende desde la línea media hasta el ángulo mandibular. Las relaciones anatómicas clave que deben identificarse y protegerse durante la exéresis de la glándula submaxilar son:\n\n1. **Rama marginal mandibular del NC VII** — discurre inmediatamente profunda al platisma a lo largo del borde mandibular inferior, a menudo descendiendo por debajo del borde inferior de la mandíbula. La vena facial cruza por debajo de este nervio y puede usarse como punto de referencia; el nervio discurre superficial a la vena facial. Técnica: dividir y reflejar la vena facial superiormente junto con el nervio, protegiéndolo de la disección más profunda.\n\n2. **Nervio lingual** — proporciona sensación general (NC V3) y fibras parasimpáticas preganglionares (cuerda del tímpano a través del NC VII) al ganglio submaxilar. El nervio lingual pasa alrededor del conducto de Wharton en un bucle ('asa del nervio lingual'), yendo lateral al conducto posteriormente, luego medial anteriormente ('el nervio lingual va lateral, luego medial, luego lateral de nuevo'). Debe tenerse cuidado durante la ligadura del conducto para proteger el nervio lingual, que discurre en estrecha proximidad.\n\n3. **Nervio hipogloso (NC XII)** — discurre a lo largo de la superficie lateral del músculo hiogloso, medial al milohioideo, en el suelo del triángulo submaxilar. Se sitúa inferior al nervio lingual. La retracción del milohioideo expone el NC XII, que debe identificarse y protegerse durante toda la disección.\n\n4. **Arteria facial** — entra en el triángulo submaxilar por debajo (pasando entre el vientre posterior del digástrico y el estilohioideo), se acanalura en el aspecto posterior de la glándula submaxilar y luego vuelve a emerger para discurrir superiormente alrededor del borde mandibular inferior hacia la cara. La ligadura de la arteria facial forma parte de la exéresis estándar de la glándula submaxilar."
+        }
+      ]
+    },
+    {
+      "id": "A3-S6",
+      "title": "Carcinoma adenoide quístico — Biología, diseminación y tratamiento",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **carcinoma adenoide quístico (CAQ)** es el tumor maligno más frecuente de las glándulas salivales submaxilar y menores, y el segundo tumor maligno parotídeo más común. El CAQ tiene un comportamiento biológico distintivo que lo diferencia de otros carcinomas salivales: demuestra una intensa propensión a la **invasión perineural** (presente en el 60-80% de los casos), siguiendo los nervios nominados largas distancias — esta es su característica patológica más importante y explica su patrón característico de fracaso (recurrencia local a lo largo de las vías nerviosas) y la necesidad de márgenes quirúrgicos extensos y extensión del campo de radiación.\n\nEl CAQ se clasifica histológicamente en tres patrones con significado pronóstico: **cribiforme** (cilindroma — el menos agresivo, patrón en cedazo), **tubular** (mejor pronóstico) y **sólido** (el más agresivo, peor pronóstico, asociado a transformación de alto grado). El sistema de **gradación** de Szanto et al. (1984) sigue siendo ampliamente utilizado: Grado 1 = cribiforme/tubular sin componente sólido; Grado 2 = componente sólido <30%; Grado 3 = componente sólido >30%.\n\nEl curso clínico del CAQ se caracteriza por una progresión lenta pero implacable, frecuente recurrencia local tardía (frecuentemente >5-10 años tras el tratamiento inicial) y una alta tasa de **metástasis a distancia** (40-60% a lo largo de la vida), más comúnmente a los pulmones (70-90% de los sitios metastásicos). Notablemente, las metástasis pulmonares del CAQ pueden crecer lentamente durante años sin causar síntomas y son compatibles con una supervivencia prolongada. Las **metástasis en los ganglios linfáticos cervicales** son poco frecuentes en comparación con otros CEC de cabeza y cuello (aproximadamente el 15-25% clínicamente), pero son un fuerte factor pronóstico adverso cuando están presentes.\n\nTratamiento del CAQ resecable: **cirugía con márgenes amplios + radioterapia postoperatoria**. Debido a la propensión a la invasión perineural y la diseminación subclínica, el CAQ requiere PORT independientemente del estado de los márgenes en la mayoría de los casos. La NCCN 2024 recomienda PORT para prácticamente todos los CAQ >T1 y para cualquier CAQ con invasión perineural. La radioterapia con haz de neutrones (donde está disponible) ha demostrado mejorar el control local sobre la terapia basada en fotones. La **terapia sistémica** para el CAQ metastásico es un reto: las respuestas a la quimioterapia estándar son modestas. El lenvatinib (inhibidor multicinasa) ha mostrado actividad en el contexto de la NCCN. El oncogén de fusión **MYB-NFIB** está presente en aproximadamente el 60% de los casos de CAQ y es un objetivo terapéutico activo bajo investigación."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Comportamiento clínico del carcinoma adenoide quístico",
+          "content": "El CAQ tiene tres características distintivas: (1) Invasión perineural en el 60-80% — necesita campos de radiación extendidos hacia las vías de los nervios nominados y la base del cráneo; (2) Metástasis a distancia tardías a los pulmones en el 40-60% — las metástasis pulmonares pueden ser indolentes durante años; (3) Recurrencia local tardía — la SG a 5 años parece aceptable, pero la SG a 15 años cae dramáticamente por las recurrencias tardías. Nunca use solo las estadísticas de supervivencia a 5 años para orientar a los pacientes con CAQ — es imprescindible un seguimiento a largo plazo superior a 10-15 años."
+        }
+      ]
+    },
+    {
+      "id": "A3-S7",
+      "title": "Tumores salivales malignos — Disección cervical y tratamiento adyuvante",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El manejo del cuello en los tumores malignos de glándulas salivales está guiado por el riesgo de metástasis ganglionar, que varía significativamente según el histotipo y el grado. Las **malignidades de alto grado** (mucoepidermoide de alto grado, carcinoma de conducto salival, carcinoma indiferenciado, carcinoma ex AP) tienen tasas de metástasis ganglionar del 30-60% y justifican la disección cervical electiva. Las **malignidades de bajo grado** (mucoepidermoide de bajo grado, carcinoma de células acinares, CAQ sin patrón sólido) tienen tasas de metástasis ganglionar del 5-15%; la disección cervical electiva es controvertida pero generalmente recomendada para la enfermedad T2+ por la mayoría de las guías.\n\nPara el cuello cN+ en las malignidades salivales, se realiza **disección cervical radical modificada o selectiva** (niveles II-IV para primarios parotídeos; niveles I-IV para primarios submaxilares). La EEC en las metástasis de glándulas salivales, al igual que en el CEHC, es un factor pronóstico adverso que indica quimiorradioterapia adyuvante.\n\nLa **radioterapia adyuvante** se recomienda para: todos los tumores salivales malignos T3-T4; todos los histotipos de alto grado independientemente del estadio T; márgenes positivos o próximos; invasión perineural (especialmente nervio nominado); invasión linfovascular; y metástasis ganglionares cervicales. La dosis de PORT es típicamente de 60-66 Gy en el lecho del tumor primario. Para el CAQ, el campo PORT debe incluir la vía nerviosa afectada hasta la base del cráneo.\n\nEl **carcinoma de conducto salival** merece una mención especial: es un carcinoma agresivo de alto grado con una tasa de positividad del receptor de andrógenos (AR) del 70-90% y amplificación de HER2 en aproximadamente el 25-35% de los casos. El subgrupo HER2-positivo puede beneficiarse de la **terapia basada en trastuzumab** (análoga al cáncer de mama HER2+). Los casos AR-positivos pueden responder a la **terapia de privación androgénica** (bloqueo androgénico combinado). Estos marcadores moleculares deben evaluarse de forma rutinaria en el diagnóstico del carcinoma de conducto salival.",
+          "type": "text"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto clínico — Perfil molecular del carcinoma de conducto salival",
+          "content": "Todos los carcinomas de conducto salival deben someterse a pruebas inmunohistoquímicas de AR, HER2, PD-L1 y perfil molecular (panel de NGS) en el diagnóstico. La amplificación de HER2 (HIS) y la positividad de AR orientan las decisiones de terapia sistémica en el contexto recurrente/metastásico. Trastuzumab + pertuzumab + docetaxel o la terapia de privación androgénica pueden lograr respuestas significativas en el carcinoma de conducto salival HER2+ o AR+ respectivamente. Esto es análogo a la terapia dirigida del cáncer de mama y está respaldado por múltiples series retrospectivas y ensayos clínicos en curso."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Ponga a prueba sus conocimientos sobre los tumores de glándulas salivales con 20 preguntas de tipo examen que cubren diagnóstico, técnica quirúrgica e histotipos malignos.",
+    "questions": [
+      {
+        "id": "A3-Q1",
+        "stem": "Una mujer de 45 años presenta una masa parotídea izquierda de 2,5 cm, indolora, de crecimiento lento y móvil, presente desde hace 3 años. La RM muestra una masa bien definida, heterogénea, hiperintensa en T2 en el lóbulo superficial de la parótida. La PAAF no es diagnóstica. ¿Cuál es el manejo quirúrgico más apropiado?",
+        "options": {
+          "A": "Enucleación de la masa con preservación de la glándula parótida",
+          "B": "Parotidectomía superficial con identificación y preservación del nervio facial",
+          "C": "Biopsia incisional bajo anestesia local para confirmar el diagnóstico antes de la cirugía definitiva",
+          "D": "Observación con ecografía cada 6 meses — probablemente tumor de Warthin benigno"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La parotidectomía superficial es el tratamiento apropiado para una masa parotídea del lóbulo superficial con características radiológicas compatibles con adenoma pleomórfico (hiperintensa en T2 heterogénea, bien definida). La enucleación sola se asocia con tasas de recurrencia del 20-45% para el adenoma pleomórfico debido a las extensiones pseudopódicas que no se capturan con la enucleación simple. La parotidectomía superficial extirpa el tumor con un manguito de tejido glandular normal y proporciona diagnóstico definitivo, márgenes adecuados y riesgo mínimo de recurrencia.",
+          "wrong": {
+            "A": "La enucleación es el procedimiento históricamente condenado para el adenoma pleomórfico debido a la alta tasa de recurrencia causada por las extensiones pseudopódicas del tumor. La tasa de recurrencia tras la enucleación es del 20-45% vs <5% tras la parotidectomía formal.",
+            "C": "La biopsia incisional de una masa parotídea arriesga la lesión del nervio facial y la diseminación tumoral. La PAAF o BAG guiada por ecografía es la técnica de muestreo preoperatoria apropiada si se necesita. Se evita la biopsia incisional abierta.",
+            "D": "Los tumores de Warthin son típicamente bilaterales, multicéntricos e hiperintensos en T1 en RM. Esta masa es hiperintensa en T2 y heterogénea — compatible con adenoma pleomórfico. La observación de una masa parotídea compatible con AP es inapropiada ya que el riesgo de transformación maligna a lo largo de la vida es de aproximadamente el 1-5% y aumenta con el tiempo."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Manejo de tumores de glándulas salivales; EACMFS 2023",
+          "trial": "McGurk M et al. (Br J Surg 2003): Parotidectomía superficial vs disección extracapsular para AP — revisión sistemática que respalda la parotidectomía formal como estándar para el adenoma pleomórfico.",
+          "pearl": "Nunca enuclee una masa parotídea. El adenoma pleomórfico tiene extensiones pseudopódicas que se extienden más allá de la cápsula visible macroscópicamente — la enucleación las deja atrás y causa recurrencia en el 20-45% de los casos. El AP recurrente es mucho más difícil de tratar y conlleva mayores tasas de lesión del nervio facial en la cirugía de revisión.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q2",
+        "stem": "Un hombre de 60 años se somete a parotidectomía total por un carcinoma adenoide quístico T2 del lóbulo profundo. El nervio facial se preserva sin afectación macroscópica. La patología confirma CAQ (patrón cribiforme, Grado 1-2), márgenes negativos (más próximo 4 mm) e invasión perineural que afecta a ramas distales del nervio facial. Sin adenopatías cervicales. ¿Qué tratamiento adyuvante está indicado?",
+        "options": {
+          "A": "Observación — márgenes negativos y el CAQ cribiforme (bajo grado) tiene un excelente pronóstico",
+          "B": "Radioterapia adyuvante al sitio primario con extensión al foramen estilomastoideo y hueso petroso",
+          "C": "Quimiorradioterapia concomitante (cisplatino + 66 Gy) — la IPN obliga a quimiorradioterapia",
+          "D": "Lenvatinib sistémico — la terapia local es insuficiente para el CAQ dado su potencial metastásico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La radioterapia adyuvante está indicada para el CAQ con IPN y afectación del nervio facial, con extensión del campo hasta la base del cráneo. El nervio facial entra por el foramen estilomastoideo y la porción petrosa contiene el ganglio geniculado. La diseminación perineural a lo largo del nervio facial puede llegar hasta la base del cráneo y el ganglio geniculado, que se comunica con el nervio petroso mayor y finalmente con el ganglio de Gasser. El campo PORT debe abarcar toda esta vía. Para la IPN en el CAQ, la NCCN 2024 obliga a PORT con extensión del campo hasta el nivel de la base del cráneo para el nervio afectado.",
+          "wrong": {
+            "A": "La observación nunca es apropiada para los tumores malignos de glándulas salivales con invasión perineural. Incluso el CAQ cribiforme de Grado 1 con IPN requiere PORT — el CAQ tiene una alta tasa de recurrencia local tardía impulsada por la IPN, y la RT adyuvante reduce significativamente este riesgo.",
+            "C": "La quimioterapia concomitante no es estándar para el CAQ en el contexto adyuvante. El CAQ no responde bien a la quimioterapia estándar basada en cisplatino. La PORT sola con campo extendido es el tratamiento adyuvante estándar.",
+            "D": "El lenvatinib y otros agentes sistémicos se reservan para el CAQ metastásico o irresecable — no para el contexto adyuvante tras resección quirúrgica completa."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Malignidades de glándulas salivales: Radioterapia adyuvante",
+          "trial": "Chen AM et al. (Int J Radiat Oncol 2006): IPN en CAQ salival — PORT con extensión del campo hasta la base del cráneo reduce significativamente la recurrencia local en comparación con la RT de campo limitado.",
+          "pearl": "CAQ con IPN del nervio facial: extender PORT al foramen estilomastoideo y el hueso petroso. Para la IPN del nervio lingual o dentario inferior en CAQ submaxilar o de glándulas menores: extender el campo al foramen oval (V3). Comunique siempre los hallazgos de IPN de nervio nominado al oncólogo radioterapeuta de inmediato.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q3",
+        "stem": "Un hombre de 55 años desarrolla sudoración y enrojecimiento sobre la mejilla preauricular derecha y el cuello superior cada vez que come, 8 meses después de una parotidectomía superficial derecha por adenoma pleomórfico. Describe notar su mejilla 'brillante' en las comidas. ¿Cuál es el diagnóstico y el tratamiento más eficaz?",
+        "options": {
+          "A": "Síndrome del primer bocado — inyección de toxina botulínica A",
+          "B": "Síndrome de Frey (síndrome auriculotemporal) — inyección de toxina botulínica A",
+          "C": "Fístula salival — manejo conservador con vendaje compresivo",
+          "D": "Adenoma pleomórfico recurrente — RM y cirugía de revisión"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El síndrome de Frey (sudoración gustativa, síndrome del nervio auriculotemporal) se presenta como enrojecimiento y sudoración sobre el área del lecho parotídeo desencadenados por comer o masticar. Resulta de la regeneración aberrante de fibras secretomotoras parasimpáticas posganglionares (que originalmente abastecían a los ácinos parotídeos, ahora reinervando las glándulas sudoríparas en el colgajo cutáneo) del nervio auriculotemporal. Tratamiento: la inyección intradérmica de toxina botulínica A en el área afectada es muy eficaz (respuesta >90%), con beneficio que dura 12-18 meses; se repiten las inyecciones según sea necesario.",
+          "wrong": {
+            "A": "El síndrome del primer bocado se presenta con DOLOR intenso en el primer bocado de cada comida, que disminuye con los bocados siguientes — no sudoración. El mecanismo es la denervación simpática de las células mioepiteliales, no la redirección autónoma hacia las glándulas sudoríparas.",
+            "C": "La fístula salival se presenta como fuga de líquido de la herida o sinus en el período postoperatorio precoz, no meses después con sudoración desencadenada por la comida.",
+            "D": "El adenoma pleomórfico recurrente se presentaría como una masa palpable, no como síntomas autonómicos. La cronología y la descripción son clásicas del síndrome de Frey."
+          },
+          "guideline": "EACMFS Parotid Surgery Guidelines 2023; Beerens AJF et al. (Br J Oral Maxillofac Surg 2016): Síndrome de Frey — diagnóstico y tratamiento",
+          "trial": "Laskawi R et al. (J Oral Maxillofac Surg 1998): Toxina botulínica A para el síndrome de Frey — eficacia de la inyección intradérmica confirmada en series prospectivas.",
+          "pearl": "Diagnóstico del síndrome de Frey: prueba de yodo-almidón menor (yodo aplicado en la piel, polvo de almidón aplicado — se vuelve azul-negro con la sudoración durante la masticación). Tratamiento: inyección intradérmica de BTX-A. Prevención: la interposición de colgajo SMAS o injerto dermograso durante la parotidectomía reduce la incidencia del 30-60% a <10%.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q4",
+        "stem": "Durante la exéresis de la glándula submaxilar, el cirujano identifica un nervio que discurre lateral al conducto de Wharton y lo rodea anteriormente. ¿De qué nervio se trata y cuál es el manejo correcto?",
+        "options": {
+          "A": "Nervio hipogloso — el sacrificio es aceptable para la extirpación completa de la glándula",
+          "B": "Nervio lingual — debe preservarse; forma un asa alrededor del conducto de Wharton",
+          "C": "Cuerda del tímpano — ya dividida; no es necesaria ninguna acción",
+          "D": "Nervio glosofaríngeo — retraer superiormente para protegerlo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio lingual (rama del NC V3, que transporta fibras de la cuerda del tímpano del NC VII) forma un asa alrededor del conducto de Wharton de forma característica: discurre lateral al conducto posteriormente, luego se engancha medial e inferior alrededor del conducto anteriormente, antes de continuar anteriormente hacia la lengua. Esta relación debe entenderse para evitar la lesión inadvertida del nervio lingual durante la ligadura del conducto de Wharton y la extirpación de la glándula. El nervio lingual debe identificarse y protegerse durante toda la exéresis de la glándula submaxilar. La lesión causa entumecimiento ipsilateral de la lengua y pérdida del gusto.",
+          "wrong": {
+            "A": "El nervio hipogloso (NC XII) discurre a lo largo de la superficie lateral del músculo hiogloso, inferior al nervio lingual. NO forma un asa alrededor del conducto de Wharton. La lesión del NC XII causa parálisis ipsilateral de la lengua — una complicación grave.",
+            "C": "Las fibras de la cuerda del tímpano ya están incorporadas dentro del tronco del nervio lingual en este punto del cuello — no son una estructura separada. Identificar el nervio lingual es identificar la cuerda del tímpano en esta localización.",
+            "D": "El nervio glosofaríngeo (NC IX) no es una estructura relevante en el triángulo submaxilar. Discurre en el espacio parafaríngeo, lejos de la glándula submaxilar."
+          },
+          "guideline": "Shah JP. Head and Neck Surgery and Oncology 5th ed (2020) — Anatomía de la glándula submaxilar",
+          "trial": "Anatomía quirúrgica estándar: el nervio lingual rodea el conducto de Wharton — la descripción clásica de Henry Gray en la Anatomía de Gray.",
+          "pearl": "Anatomía del nervio lingual durante la exéresis de la glándula submaxilar: 'El nervio lingual va lateral, medial, lateral' en relación con el conducto de Wharton (posterior lateral → rodeo inferior anterior → medial hacia la lengua). Identifique siempre el nervio lingual antes de ligar el conducto de Wharton para evitar la transección inadvertida del nervio.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q5",
+        "stem": "Una mujer de 70 años presenta una masa parotídea derecha de rápido agrandamiento (ahora 4 cm en 6 semanas) con paresia del nervio facial ipsilateral (grado III de House-Brackmann). La TC muestra una masa pobremente definida en la parótida con afectación cutánea. La biopsia muestra carcinoma de conducto salival. La FISH de HER2 muestra amplificación. ¿Qué terapia sistémica debe considerarse para la enfermedad metastásica?",
+        "options": {
+          "A": "Quimioterapia con cisplatino + 5-FU — estándar para el carcinoma de cabeza y cuello",
+          "B": "Terapia basada en trastuzumab (análoga al cáncer de mama HER2+)",
+          "C": "Monoterapia con pembrolizumab — el CCS HER2+ responde a la inmunoterapia",
+          "D": "Terapia de privación androgénica sola — la TPA es suficiente para el CCS HER2+"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El carcinoma de conducto salival (CCS) con amplificación de HER2 (25-35% del CCS) puede responder a la terapia dirigida anti-HER2, análoga al cáncer de mama HER2+. Múltiples series retrospectivas y estudios prospectivos han demostrado respuestas al trastuzumab (anticuerpo monoclonal anti-HER2) solo o en combinación con pertuzumab y/o quimioterapia (ej. trastuzumab + pertuzumab + docetaxel). Este es ahora un abordaje recomendado en la NCCN 2024 para las malignidades salivales HER2+. Todos los CCS deben someterse a HIS de HER2 e IHQ de AR en el diagnóstico.",
+          "wrong": {
+            "A": "Cisplatino + 5-FU es el estándar histórico para el carcinoma epidermoide de cabeza y cuello. El CCS es un adenocarcinoma con dianas moleculares específicas (HER2, AR) que deben explotarse con terapia dirigida en lugar de regímenes genéricos de CEC de C&C.",
+            "C": "La monoterapia con pembrolizumab tiene actividad limitada en el CCS no seleccionado. El CPS de PD-L1 puede predecir la respuesta, pero la amplificación de HER2 indica específicamente la terapia dirigida anti-HER2 como el abordaje preferido.",
+            "D": "La TPA (terapia de privación androgénica) es la terapia para el CCS AR-positivo (70-90% del CCS son AR+). Para el CCS HER2 amplificado, la terapia dirigida anti-HER2 es el abordaje sistémico preferido. Estos no son mutuamente excluyentes — el bloqueo androgénico combinado + terapia dirigida anti-HER2 está bajo investigación."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Malignidades de glándulas salivales: Diana molecular",
+          "trial": "Fushimi C et al. (ASCO 2020): Trastuzumab + docetaxel en carcinoma de conducto salival HER2+ — TRG 70%. Respaldó el estudio de HER2 como práctica estándar en el CCS.",
+          "pearl": "Perfil molecular del carcinoma de conducto salival: AR+ (70-90%) → terapia de privación androgénica. HER2 amplificado (25-35%) → terapia basada en trastuzumab. Estudie TODOS los CCS para AR por IHQ y HER2 por HIS en el diagnóstico. Estas dianas moleculares son las más accionables en las malignidades de glándulas salivales.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q6",
+        "stem": "¿Cuál es la tasa de malignidad de los tumores de la glándula sublingual y qué histotipo maligno se encuentra más frecuentemente en este sitio?",
+        "options": {
+          "A": "20-25%; carcinoma mucoepidermoide",
+          "B": "35-50%; carcinoma adenoide quístico",
+          "C": "70-90%; carcinoma adenoide quístico",
+          "D": "70-90%; carcinoma mucoepidermoide"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La glándula sublingual tiene la tasa de malignidad más alta de cualquier glándula salival mayor — aproximadamente el 70-90% de los tumores de la glándula sublingual son malignos. El carcinoma adenoide quístico es el tumor maligno más frecuente en este sitio, reflejando el patrón general de que el CAQ predomina en las glándulas salivales menores y mayores profundas. Cualquier masa sublingual debe tratarse con un alto índice de sospecha de malignidad, y la exéresis de la glándula sublingual con márgenes adecuados es el abordaje estándar.",
+          "wrong": {
+            "A": "La tasa de malignidad del 20-25% es la cifra de la glándula parótida. La glándula sublingual tiene una tasa de malignidad mucho más alta.",
+            "B": "La tasa de malignidad del 35-50% es la cifra de la glándula submaxilar. El histotipo (CAQ) es correcto para la sublingual, sin embargo.",
+            "D": "La tasa de malignidad del 70-90% es correcta para la glándula sublingual, pero el carcinoma mucoepidermoide es más frecuente en la parótida y las glándulas salivales menores orales. El CAQ predomina en los sitios sublingual y submaxilar."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Epidemiología de los tumores de glándulas salivales",
+          "trial": "Spiro RH et al. (Am J Surg 1986): Patrones de tumores de glándulas salivales — tasas de malignidad por subsitio glandular establecidas en grandes series del Memorial Sloan Kettering.",
+          "pearl": "Tasas de malignidad: Parótida 20-25%, Submaxilar 35-50%, Sublingual 70-90%, Glándulas salivales menores 50-60%. Cualquier masa sublingual es maligna hasta que se demuestre lo contrario. El CAQ es la malignidad dominante de las glándulas submaxilar y sublingual.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q7",
+        "stem": "El tronco principal del nervio facial (NC VII) en el foramen estilomastoideo se identifica de forma fiable durante la parotidectomía utilizando cuáles de los siguientes puntos de referencia anatómicos?",
+        "options": {
+          "A": "Vientre posterior del músculo digástrico, sutura timpanomastoidea y puntero tragal",
+          "B": "Vientre anterior del digástrico, sutura timpanomastoidea y CAE",
+          "C": "Vientre posterior del digástrico, vena retromandibular y ECM",
+          "D": "Punta mastoidea, conducto auditivo externo y ECM"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "El tronco principal del nervio facial (NC VII) en el foramen estilomastoideo se identifica utilizando tres puntos de referencia anatómicos fiables: (1) El PUNTERO TRAGAL — una proyección cartilaginosa del trago que apunta anteriormente; el NC VII se sitúa aproximadamente 1 cm de profundidad y medial al puntero tragal. (2) La SUTURA TIMPANOMASTOIDEA — la línea de sutura entre el hueso timpánico anteriormente y el hueso mastoideo posteriormente; el NC VII emerge de su aspecto inferior. (3) El VIENTRE POSTERIOR DEL DIGÁSTRICO — el NC VII pasa superficial al vientre posterior del músculo digástrico al nivel del foramen estilomastoideo; puede rastrearse posteriormente a lo largo del digástrico hacia el mastoideo donde sale.",
+          "wrong": {
+            "B": "El vientre anterior del digástrico está en el triángulo submentoniano, lejos del foramen estilomastoideo. El CAE es un punto de referencia general pero no tan específico como la sutura timpanomastoidea y el puntero tragal.",
+            "C": "La vena retromandibular no es un punto de referencia para la identificación del NC VII en la parotidectomía. El ECM es una referencia anatómica general pero no se usa específicamente para la localización del NC VII.",
+            "D": "La punta mastoidea sola no es suficiente — la sutura timpanomastoidea es un punto de referencia más preciso."
+          },
+          "guideline": "Miloro M et al. Peterson's Principles of OMFS 4th ed (2022) — Técnica de parotidectomía; Puntos de referencia para la identificación del nervio facial",
+          "trial": "Terris DJ et al. (Otolaryngol HNS 1996): Comparación de técnicas de identificación del nervio facial en parotidectomía — puntero tragal, digástrico, sutura timpanomastoidea todos validados.",
+          "pearl": "Tres puntos de referencia para el NC VII en la parotidectomía: (1) Puntero tragal — NC VII a 1 cm de profundidad y medial; (2) Sutura timpanomastoidea — el nervio sale en el aspecto inferior; (3) Vientre posterior del digástrico — el nervio pasa superficial en este punto. Use los tres para confirmación, especialmente en casos difíciles.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q8",
+        "stem": "El carcinoma ex adenoma pleomórfico (CaExAP) surge de la transformación maligna de un adenoma pleomórfico preexistente. ¿Qué característica predice más fuertemente un pronóstico favorable en el CaExAP?",
+        "options": {
+          "A": "Edad al diagnóstico <50 años",
+          "B": "Componente maligno intracapsular o mínimamente invasivo (≤1,5 mm más allá de la cápsula)",
+          "C": "Patrón de crecimiento cribiforme del componente maligno",
+          "D": "Duración del AP >10 años antes de la transformación maligna"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El factor pronóstico más importante en el CaExAP es la extensión de la invasión del componente maligno más allá de la cápsula del AP preexistente. El CaExAP se clasifica como: intracapsular (confinado dentro de la cápsula del AP — mejor pronóstico, supervivencia específica por enfermedad casi del 100%), mínimamente invasivo (≤1,5 mm más allá de la cápsula — supervivencia a 5 años del 90%+) y ampliamente invasivo (>1,5 mm de invasión — supervivencia a 5 años del 25-50% con alto riesgo de metástasis ganglionares y a distancia). Esta profundidad de invasión dicta la agresividad del tratamiento (terapia adyuvante mínima para el intracapsular/mínimamente invasivo; PORT completa ± disección cervical para el ampliamente invasivo).",
+          "wrong": {
+            "A": "La edad al diagnóstico es un factor pronóstico general pero no es la característica definitoria del pronóstico del CaExAP específicamente.",
+            "C": "El patrón de crecimiento del componente maligno (cribiforme, tubular, sólido) es relevante para el CAQ como subtipo dentro del componente maligno, pero la extensión de la invasión es el factor pronóstico primario específico del CaExAP.",
+            "D": "La duración del AP no es un factor pronóstico directo. El riesgo global de transformación maligna en el AP es de aproximadamente el 1-5% a lo largo de la vida, aumentando con el tiempo, pero el pronóstico tras la transformación está determinado por la profundidad de invasión, no por el tiempo que existió el AP."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Carcinoma ex adenoma pleomórfico",
+          "trial": "Lewis JE et al. (Cancer 2001): CaExAP — la extensión de la invasión como factor pronóstico dominante; los subgrupos intracapsular/mínimamente invasivo tienen excelentes resultados.",
+          "pearl": "Pronóstico del CaExAP: Intracapsular = SED casi 100%. Mínimamente invasivo (≤1,5 mm) = ~90% SED. Ampliamente invasivo (>1,5 mm) = ~25-50% SED. La profundidad de invasión debe ser informada por el patólogo — las decisiones de tratamiento dependen de esta medición.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q9",
+        "stem": "El tumor de Warthin tiene varias características clínicas y patológicas distintivas. ¿Qué combinación de características es MÁS característica del tumor de Warthin?",
+        "options": {
+          "A": "Mujeres jóvenes; sólido; hiperintenso en T2 en RM; curso clínico agresivo",
+          "B": "Hombres fumadores; bilateral/multicéntrico; epitelio oncocítico con estroma linfoide; gammagrafía con Tc-99m pertecnetato positiva",
+          "C": "Mujeres ancianas; unifocal; alta tasa de recurrencia tras la exéresis",
+          "D": "Hombres no fumadores; quístico; alta tasa de transformación maligna (10-20%)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El tumor de Warthin (cistoadenoma papilar linfomatoso) tiene características distintivas: (1) Afecta predominantemente a hombres mayores con antecedentes de tabaquismo (el tabaquismo aumenta el riesgo 8 veces); (2) Bilateral en el 10-15% de los casos y multicéntrico; (3) Histológicamente: epitelio cilíndrico oncocítico dispuesto en proyecciones papilares con estroma linfoide subyacente denso (formación de centros germinales); (4) La gammagrafía con Tc-99m pertecnetato muestra captación aumentada (gammagrafía caliente) debido a las células oncocíticas ricas en mitocondrias — esto es casi patognomónico del tumor de Warthin entre las masas parotídeas; (5) En RM: componente hiperintenso en T1 por el alto contenido proteico en las áreas quísticas.",
+          "wrong": {
+            "A": "El tumor de Warthin no es frecuente en mujeres jóvenes y no tiene un curso clínico agresivo — es un tumor benigno con prácticamente ningún potencial de transformación maligna.",
+            "C": "El tumor de Warthin afecta predominantemente a hombres ancianos (no mujeres) y tiene tasas de recurrencia muy bajas tras la exéresis. No se asocia con alta recurrencia.",
+            "D": "La tasa de transformación maligna del tumor de Warthin es excepcionalmente baja (<0,5%), no del 10-20%. Tiende a ocurrir en hombres con antecedentes de tabaquismo."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Tumor de Warthin",
+          "trial": "Yu GY et al. (IJOMS 2002): Análisis del tumor de Warthin — incidencia bilateral, asociación con el tabaquismo y características clínicas.",
+          "pearl": "Nemotecnia del tumor de Warthin: Bilateral, Benigno, hOmbres mayores con antecedentes de tabaco, CALIENTE en gammagrafía con Tc-99m (células oncocíticas). La gammagrafía 'caliente' con pertecnetato diferencia el Warthin del AP (gammagrafía fría) y la malignidad. Masas quísticas parotídeas bilaterales en un hombre fumador = tumor de Warthin hasta que se demuestre lo contrario.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q10",
+        "stem": "Una mujer de 48 años se somete a parotidectomía total por un carcinoma mucoepidermoide de alto grado T2. El nervio facial se preserva. Patología: resección R0 (margen más próximo 6 mm), 1 de 22 ganglios positivos (nivel IIa, sin EEC), sin IPN. ¿Cuál es el tratamiento adyuvante más apropiado?",
+        "options": {
+          "A": "Observación — márgenes negativos, ganglio único, sin EEC",
+          "B": "Radioterapia adyuvante al sitio primario y cuello ipsilateral (60-63 Gy)",
+          "C": "Quimiorradioterapia concomitante (cisplatino + 66 Gy) — la enfermedad ganglionar obliga a quimioterapia",
+          "D": "Radioterapia adyuvante (60 Gy) + terapia de privación androgénica"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El carcinoma mucoepidermoide de alto grado con pN1 (ganglio positivo único, sin EEC) es un escenario de riesgo intermedio. La NCCN 2024 recomienda radioterapia adyuvante para las malignidades salivales de alto grado independientemente del estadio T, y para la enfermedad pN1. La RT adyuvante sola (60-63 Gy al lecho primario y al cuello ipsilateral) es apropiada. El cisplatino concomitante está indicado solo por márgenes positivos o EEC — ninguno está presente aquí. La privación androgénica es específica para el carcinoma de conducto salival AR-positivo, no para el carcinoma mucoepidermoide.",
+          "wrong": {
+            "A": "La observación es inapropiada para el carcinoma mucoepidermoide de alto grado con afectación ganglionar. La histología de alto grado es en sí misma una indicación de radioterapia adyuvante en las malignidades de glándulas salivales.",
+            "C": "El cisplatino concomitante no está indicado sin márgenes positivos o EEC. Para las malignidades de glándulas salivales, la evidencia de quimiorradioterapia es más débil que para el CEHC; la radioterapia sola es el estándar para los casos de riesgo intermedio.",
+            "D": "La TPA es para el carcinoma de conducto salival AR-positivo, no para el carcinoma mucoepidermoide. El carcinoma mucoepidermoide típicamente no expresa AR."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principios de tratamiento adyuvante del cáncer de glándulas salivales",
+          "trial": "Chen AM et al. (Cancer 2007): Radioterapia adyuvante en malignidades de glándulas salivales — la histología de alto grado y la afectación ganglionar son indicaciones independientes de PORT.",
+          "pearl": "Indicaciones de PORT en malignidades de glándulas salivales: T3-T4 cualquier grado; histología de alto grado cualquier estadio T; márgenes positivos/próximos; IPN; ILV; metástasis ganglionares. Quimiorradioterapia (cisplatino + RT) solo por márgenes positivos o EECp — las mismas dos indicaciones que en el CEHC.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q11",
+        "stem": "El carcinoma adenoide quístico es conocido por un patrón distintivo de metástasis a distancia. ¿Qué sitio a distancia se afecta con mayor frecuencia y cuál es el comportamiento clínico típico de estas metástasis?",
+        "options": {
+          "A": "Hueso; agresivo y rápidamente fatal",
+          "B": "Cerebro; agresivo con mal pronóstico",
+          "C": "Pulmón; frecuentemente indolente con supervivencia prolongada a pesar de la enfermedad metastásica",
+          "D": "Hígado; responde bien a la quimioterapia sistémica"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El pulmón es con diferencia el sitio más frecuente de metástasis a distancia en el carcinoma adenoide quístico (70-90% de los casos metastásicos). Las metástasis pulmonares del CAQ son característicamente indolentes: pueden ser múltiples pequeños nódulos presentes durante 5-10 años antes de causar síntomas. Este comportamiento indolente significa que los pacientes con metástasis pulmonares del CAQ pueden tener una supervivencia prolongada (5-10 años) sin terapia sistémica agresiva. La vigilancia estrecha (TC de tórax anual) es apropiada; la intervención (metastasectomía o terapia sistémica) se reserva para la enfermedad sintomática o de rápida progresión.",
+          "wrong": {
+            "A": "Las metástasis óseas ocurren en el CAQ pero son menos frecuentes que las pulmonares. Las metástasis óseas son más agresivas que las pulmonares en el CAQ.",
+            "B": "Las metástasis cerebrales del CAQ son infrecuentes. El cerebro no es el sitio dominante de diseminación a distancia.",
+            "D": "Las metástasis hepáticas del CAQ son poco frecuentes. El CAQ generalmente responde mal a la quimioterapia sistémica estándar."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Biología del carcinoma adenoide quístico y patrones metastásicos",
+          "trial": "Spiro RH. (Am J Surg 1997): Historia natural del CAQ — las metástasis pulmonares como patrón dominante de fracaso a distancia con un curso característicamente indolente.",
+          "pearl": "Patrón metastásico del CAQ: Pulmón >hueso >hígado. Las metástasis pulmonares son frecuentemente pequeñas, múltiples y de lento crecimiento durante años. Los pacientes pueden sobrevivir 5-10 años con metástasis pulmonares conocidas. La TC de tórax anual de vigilancia es obligatoria en el seguimiento del CAQ. Este comportamiento indolente es único del CAQ entre los carcinomas de cabeza y cuello.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q12",
+        "stem": "¿Para qué se utiliza el sistema de gradación de House-Brackmann y qué grado indica parálisis completa?",
+        "options": {
+          "A": "Gradación de la severidad de la disfunción de la articulación temporomandibular; Grado VI = disfunción grave",
+          "B": "Gradación de la función del nervio facial post-parotidectomía; Grado VI = parálisis completa",
+          "C": "Gradación de la malignidad del tumor parotídeo; Grado VI = carcinoma indiferenciado",
+          "D": "Gradación de la severidad del síndrome de Frey post-parotidectomía; Grado VI = hiperhidrosis grave"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La escala de House-Brackmann (H-B) es el sistema de gradación estándar para la función del nervio facial: Grado I = normal; Grado II = disfunción leve (debilidad mínima apreciable en inspección cercana, cierre completo con mínimo esfuerzo); Grado III = disfunción moderada (debilidad evidente, cierre incompleto con máximo esfuerzo posible); Grado IV = moderadamente grave (debilidad evidente, incapaz de cerrar el ojo con el máximo esfuerzo); Grado V = grave (movimiento apenas perceptible, cierre incompleto); Grado VI = parálisis total. Esta escala se utiliza para documentar la función basal y postoperatoria del nervio facial después de la parotidectomía y otra cirugía del nervio facial.",
+          "wrong": {
+            "A": "House-Brackmann es específicamente para la función del nervio facial, no para la disfunción de la ATM.",
+            "C": "House-Brackmann no gradúa la malignidad tumoral — ese es el papel de los sistemas WHO/grado.",
+            "D": "El síndrome de Frey tiene sistemas de puntuación de severidad separados pero no House-Brackmann."
+          },
+          "guideline": "House JW, Brackmann DE (Otolaryngol HNS 1985): Publicación original de la escala de gradación del nervio facial de House-Brackmann",
+          "trial": "Herramienta clínica estándar adoptada por la American Academy of Otolaryngology–Head and Neck Surgery (AAO-HNS) como escala de referencia para la documentación del nervio facial.",
+          "pearl": "House-Brackmann: Grado I = normal; Grado VI = parálisis completa. Grado II-III = leve-moderado (generalmente se recupera completamente). Grado IV-V = significativo (puede recuperarse con el tiempo o necesitar intervención). Grado VI = considerar injerto nervioso inmediato si el nervio fue sacrificado. Documente siempre el grado H-B pre y postoperatoriamente.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q13",
+        "stem": "Una mujer de 38 años es derivada con una masa submaxilar de 2 cm y 3 meses de dolor. La PAAF muestra adenoma pleomórfico. Se planifica la exéresis de la glándula submaxilar. ¿Qué complicación es la más temida y específica de la cirugía de la glándula submaxilar en comparación con la cirugía de la parótida?",
+        "options": {
+          "A": "Anestesia del nervio auricular mayor",
+          "B": "Síndrome de Frey",
+          "C": "Parálisis de la rama marginal mandibular del NC VII",
+          "D": "Hematoma de la herida"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La parálisis del nervio marginal mandibular (NMM) es la lesión nerviosa más temida específica de la exéresis de la glándula submaxilar. El NMM discurre a lo largo del borde inferior de la mandíbula profundo al platisma, y puede descender 1-2 cm por debajo del borde inferior en su trayecto anterior. Si se lesiona, los pacientes desarrollan caída del labio inferior ipsilateral (debilidad del depresor del ángulo de la boca y depresor del labio inferior), causando una sonrisa asimétrica que es cosméticamente significativa. La vena facial se usa como punto de referencia — el NMM discurre superficial a la vena facial y puede retraerse superiormente con la vena.",
+          "wrong": {
+            "A": "La anestesia del nervio auricular mayor es una complicación de la parotidectomía (el nervio se divide durante la elevación del colgajo cutáneo). NO es relevante para la cirugía de la glándula submaxilar.",
+            "B": "El síndrome de Frey es una complicación de la parotidectomía (nervio auriculotemporal). No ocurre tras la exéresis de la glándula submaxilar.",
+            "D": "El hematoma de la herida es un riesgo quirúrgico general, no específico de la cirugía submaxilar frente a la cirugía parotídea."
+          },
+          "guideline": "Miloro M et al. Peterson's Principles of OMFS 4th ed (2022) — Exéresis de la glándula submaxilar: Complicaciones",
+          "trial": "Enseñanza quirúrgica estándar: la tasa de lesión del NMM en la exéresis de la glándula submaxilar es del 5-10% (transitoria) en las series publicadas, con lesión permanente <1% con técnica meticulosa.",
+          "pearl": "Nervios clave en la exéresis de la glándula submaxilar: (1) Marginal mandibular NC VII — el más temido; (2) Nervio lingual — pérdida sensitiva + del gusto si se lesiona; (3) Hipogloso NC XII — parálisis lingual si se lesiona. La vena facial se liga durante la disección pero el NMM que discurre superficial a ella debe preservarse.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q14",
+        "stem": "Un hombre de 55 años tiene una masa parotídea izquierda que ha estado presente durante 12 años, previamente estable. En los últimos 3 meses ha crecido rápidamente, ahora de 5 cm, y ha desarrollado dolor facial izquierdo y debilidad del nervio marginal mandibular izquierdo. ¿Cuál es el diagnóstico más probable?",
+        "options": {
+          "A": "Adenoma pleomórfico con crecimiento benigno rápido — común después de muchos años",
+          "B": "Tumor de Warthin con afectación bilateral",
+          "C": "Carcinoma ex adenoma pleomórfico — transformación maligna de un AP de larga evolución",
+          "D": "Carcinoma mucoepidermoide de alto grado — nuevo primario no relacionado con la masa previa"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La presentación clásica del carcinoma ex adenoma pleomórfico (CaExAP) es una masa parotídea de larga evolución (>10 años) que de repente experimenta un crecimiento rápido combinado con dolor facial y debilidad del nervio facial. La transformación maligna del AP en CaExAP ocurre en aproximadamente el 1-5% de los casos a lo largo de la vida, con un riesgo que aumenta con la duración del tumor (>10 años aumenta significativamente el riesgo). La afectación del nervio facial (paresia) es un sello de malignidad en la parótida. El dolor en una masa parotídea previamente indolora es otra señal de alarma de malignidad.",
+          "wrong": {
+            "A": "El crecimiento rápido en un AP de larga evolución es una señal de alarma de malignidad, no una característica del crecimiento benigno. El AP benigno crece lentamente.",
+            "B": "El tumor de Warthin no causa parálisis del nervio facial ni dolor, y no crecería hasta 5 cm rápidamente tras años de estabilidad.",
+            "D": "Si bien un nuevo carcinoma mucoepidermoide de alto grado primario es posible, la historia clínica de una masa parotídea de 12 años de evolución con aceleración repentina del crecimiento y afectación del nervio facial es la presentación de libro de texto del CaExAP."
+          },
+          "guideline": "Barnes L et al. WHO 5th ed (2022) — CaExAP; NCCN Head and Neck Cancers v1.2024",
+          "trial": "Gnepp DR (Cancer 1993): CaExAP — las señales de alarma clínicas de crecimiento rápido + dolor facial + afectación del nervio facial en AP de larga evolución forman la tríada clásica.",
+          "pearl": "Señales de alarma del CaExAP: aceleración REPENTINA del crecimiento en un AP de larga evolución; DOLOR facial (nuevo); PARÁLISIS del nervio facial. Cualquiera de estas en una masa parotídea previamente estable = transformación maligna hasta que se demuestre lo contrario. Tiempo para la biopsia.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q15",
+        "stem": "El sello histológico del carcinoma mucoepidermoide es la presencia de qué tres tipos celulares?",
+        "options": {
+          "A": "Células oncocíticas, linfocitos y células mioepiteliales",
+          "B": "Células mucosas, células epidermoides (escamoides) y células intermedias",
+          "C": "Células acinares, células ductales y células claras",
+          "D": "Células basaloides, células cribiformes y células tubulares"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El carcinoma mucoepidermoide (CME) se define por la presencia de tres poblaciones celulares: (1) Células mucosas (células secretoras de mucina tipo caliciforme, PAS-positivas); (2) Células epidermoides (escamoides) (que recuerdan al epitelio escamoso, con puentes intercelulares pero sin queratinización en el CME de bajo grado); (3) Células intermedias (entre mucosas y epidermoides; de tipo progenitor). El CME de bajo grado tiene abundantes células mucosas con arquitectura quística; el CME de alto grado es predominantemente sólido con células epidermoides e intermedias y células mucosas mínimas — puede imitar histológicamente al carcinoma epidermoide.",
+          "wrong": {
+            "A": "Células oncocíticas + linfocitos = tumor de Warthin. Las células mioepiteliales son prominentes en el adenoma pleomórfico y el mioepitelioma.",
+            "C": "Células acinares + células ductales + células claras = carcinoma de células acinares.",
+            "D": "Basaloide + cribiforme + tubular = patrones histológicos del carcinoma adenoide quístico."
+          },
+          "guideline": "Barnes L et al. WHO Classification of Head and Neck Tumours 5th ed (2022) — Carcinoma mucoepidermoide",
+          "trial": "Enseñanza patológica estándar: criterios diagnósticos del CME — células mucosas, epidermoides e intermedias tal como se definen en la clasificación de la WHO.",
+          "pearl": "Tríada diagnóstica del CME: Células mucosas + Células epidermoides + Células intermedias. Bajo grado = principalmente mucosas + quístico. Alto grado = principalmente epidermoides + sólido. El grado determina el pronóstico dramáticamente: SG a 10 años 90%+ (bajo) vs 50% (alto). El grado está determinado por el tipo celular predominante, la proporción quístico vs sólido y la actividad mitótica.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q16",
+        "stem": "¿Cuál es el principio quirúrgico más importante que distingue una disección extracapsular (DEC) correcta de una enucleación incorrecta al manejar un adenoma pleomórfico sospechado?",
+        "options": {
+          "A": "La DEC utiliza electrocoagulación en lugar de disección aguda",
+          "B": "La DEC incluye la extirpación de todo el lóbulo superficial de la parótida junto con el tumor",
+          "C": "La DEC diseca a lo largo de la superficie de la cápsula tumoral, manteniendo un pequeño manguito de tejido normal alrededor de la masa sin parotidectomía formal",
+          "D": "La DEC implica sección por congelación intraoperatoria de la cápsula para confirmar histología benigna"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La disección extracapsular (DEC) es una técnica que diseca justo fuera de la cápsula tumoral, manteniendo la integridad visual de la superficie de la cápsula e incluyendo un reborde mínimo pero consistente de tejido parotídeo normal alrededor del tumor. A diferencia de la enucleación (que agarra el tumor y lo arranca de la parótida sin un manguito de tejido, violando frecuentemente la cápsula), la DEC preserva la integridad capsular y proporciona un margen mínimo. Algunas series reportan resultados de DEC comparables a la parotidectomía superficial para AP pequeños (<3 cm), con menores tasas de síndrome de Frey y pérdida sensitiva, pero requiere cirujanos experimentados y selección cuidadosa de los pacientes.",
+          "wrong": {
+            "A": "El uso de electrocoagulación vs disección aguda es un detalle técnico, no el principio diferenciador de la DEC vs enucleación.",
+            "B": "La DEC NO incluye la extirpación de todo el lóbulo superficial de la parótida — eso describe una parotidectomía superficial. La DEC es un procedimiento más limitado.",
+            "D": "La sección por congelación de la cápsula no es una característica definitoria de la DEC. La evaluación clínica e imagenológica orienta la decisión de realizar DEC vs parotidectomía."
+          },
+          "guideline": "McGurk M et al. (Br J Surg 2003): DEC vs parotidectomía superficial para AP — comparación de técnica",
+          "trial": "McGurk M et al. (Br J Surg 2003): Comparación prospectiva de DEC vs parotidectomía superficial — tasas de recurrencia comparables en manos experimentadas para AP pequeño, con menor síndrome de Frey en el grupo DEC.",
+          "pearl": "Principio de la DEC: disecar a lo largo de la superficie del tumor, manteniendo un delgado manguito de tejido normal. Preserva la integridad capsular (a diferencia de la enucleación que viola la cápsula). La DEC es apropiada solo en manos experimentadas para AP pequeños (<3 cm) y superficialmente localizados en centros donde es práctica rutinaria.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A3-Q17",
+        "stem": "Un hombre de 52 años presenta una masa submaxilar de 1,5 cm. La PAAF guiada por ecografía muestra características compatibles con carcinoma adenoide quístico. La TC y la RM no muestran ganglios cervicales ni enfermedad a distancia. ¿Qué procedimiento quirúrgico está indicado?",
+        "options": {
+          "A": "Biopsia incisional bajo anestesia local para diagnóstico definitivo",
+          "B": "Exéresis de la glándula submaxilar sola — la disección cervical no es necesaria para el CAQ",
+          "C": "Exéresis de la glándula submaxilar + disección cervical selectiva ipsilateral niveles I-IV",
+          "D": "Terapia sistémica primero — el CAQ es típicamente sistémico al diagnóstico"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La exéresis de la glándula submaxilar con disección cervical selectiva electiva ipsilateral (niveles I-IV) es apropiada para los tumores malignos de la glándula submaxilar, incluido el CAQ. Aunque el CAQ tiene una tasa más baja de metástasis ganglionares cervicales que el carcinoma epidermoide (~15-25%), la disección cervical electiva se recomienda para los tumores malignos submaxilares T2+ por la NCCN y la EACMFS. La disección cervical proporciona información de estadificación (pN0 vs pN+) que guía las decisiones de tratamiento adyuvante y proporciona control regional. Los niveles I-IV se disecan para los tumores primarios submaxilares.",
+          "wrong": {
+            "A": "La PAAF ya es positiva para CAQ — no se necesita biopsia incisional y arriesga implantación. La exéresis quirúrgica definitiva es el siguiente paso apropiado.",
+            "B": "La exéresis de la glándula submaxilar sola sin disección cervical es inadecuada para los tumores malignos submaxilares. La disección cervical electiva se recomienda debido al riesgo de metástasis ganglionares (15-25% para el CAQ) y la información de estadificación/pronóstica que proporciona.",
+            "D": "El CAQ no es típicamente sistémico al diagnóstico. Más del 60% de los casos se presentan con enfermedad localizada. El tratamiento quirúrgico primario seguido de PORT es el abordaje estándar para el CAQ resecable."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Malignidades de glándulas salivales: Principios quirúrgicos",
+          "trial": "Parsons JT et al. (IJOMS 1996): CAQ submaxilar — estadificación por disección cervical y recomendación de radioterapia adyuvante.",
+          "pearl": "Tumores malignos de la glándula submaxilar: exéresis de la glándula submaxilar + DCS niveles I-IV ipsilateral. PORT al sitio primario y al cuello en la mayoría de los casos. Si IPN que afecta al nervio lingual: extender el campo al foramen oval. Si invasión del nervio lingual, considerar el sacrificio del segmento nervioso afectado para márgenes R0.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A3-Q18",
+        "stem": "¿Qué histotipo de glándula salival se caracteriza por células MIOEPITELIALES tanto en los componentes epiteliales como estromales, cuyo sello histológico es un 'estroma condromixoide' en la tinción H&E?",
+        "options": {
+          "A": "Carcinoma mucoepidermoide",
+          "B": "Adenoma pleomórfico",
+          "C": "Carcinoma de células acinares",
+          "D": "Carcinoma adenoide quístico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El adenoma pleomórfico (AP) se caracteriza patológicamente por una doble población de células epiteliales y mioepiteliales incrustadas en una matriz estromal condromixoide. Las células mioepiteliales pueden diferenciarse en elementos escamosos, mucosos o cartilaginosos — de ahí 'pleomórfico' (muchas formas). El estroma condromixoide (cartilaginoso/mixoide) con nidos de células epiteliales incrustados es patognomónico del AP. Las extensiones pseudopódicas del tumor a través de la cápsula hacia el tejido parotídeo adyacente son la base histológica del riesgo de recurrencia con la enucleación.",
+          "wrong": {
+            "A": "El carcinoma mucoepidermoide tiene células mucosas, epidermoides e intermedias — NO células mioepiteliales ni estroma condromixoide.",
+            "C": "El carcinoma de células acinares muestra diferenciación acinar (gránulos citoplasmáticos similares al zimógeno), no células mioepiteliales.",
+            "D": "El carcinoma adenoide quístico tiene células epiteliales y mioepiteliales en patrones cribiformes/tubulares/sólidos alrededor de material perineural y de membrana basal — NO estroma condromixoide."
+          },
+          "guideline": "Barnes L et al. WHO 5th ed (2022) — Histopatología del adenoma pleomórfico",
+          "trial": "Enseñanza histopatológica estándar: AP = células epiteliales ductales + células mioepiteliales + estroma condromixoide. Esta combinación es única del AP entre los tumores de glándulas salivales.",
+          "pearl": "Tríada histológica del adenoma pleomórfico: Células epiteliales ductales + Células mioepiteliales + Estroma condromixoide. Las extensiones pseudopódicas más allá de la cápsula (no visibles macroscópicamente) son la razón por la que la enucleación deja tumor atrás. La parotidectomía formal captura estas extensiones.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A3-Q19",
+        "stem": "Un paciente sometido a parotidectomía desarrolla hemorragia significativa de la vena retromandibular durante la disección del lóbulo profundo. El sangrado se controla. Postoperatoriamente, el paciente desarrolla un síndrome del primer bocado. ¿Qué lesión nerviosa es responsable del síndrome del primer bocado?",
+        "options": {
+          "A": "Nervio auricular mayor — denervación sensorial del lóbulo de la oreja",
+          "B": "Fibras parasimpáticas del nervio auriculotemporal — reinervación misdirected",
+          "C": "Nervios simpáticos de la parótida — supersensibilidad por denervación de las células mioepiteliales",
+          "D": "Tronco principal del nervio facial — denervación motora del lecho parotídeo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El síndrome del primer bocado es causado por la denervación SIMPÁTICA de la glándula parótida/espacio parafaríngeo. El suministro simpático a la parótida proviene del ganglio cervical superior a través de fibras perivasculares en la arteria carótida externa. Cuando estas fibras simpáticas se interrumpen durante la parotidectomía del lóbulo profundo o la disección del espacio parafaríngeo, las células mioepiteliales que rodean los ácinos residuales pierden su tono simpático y se vuelven supersensibles. En el primer bocado de cada comida, el estímulo parasimpático sin oposición causa la contracción máxima acinar y de las células mioepiteliales, percibido como dolor intenso. Los bocados siguientes causan menos dolor a medida que la glándula agota su capacidad secretora.",
+          "wrong": {
+            "A": "La lesión del nervio auricular mayor causa hipoestesia del lóbulo de la oreja, no síndrome del primer bocado. Son complicaciones completamente diferentes.",
+            "B": "La redirección parasimpática del nervio auriculotemporal causa el SÍNDROME DE FREY (sudoración gustativa), no el síndrome del primer bocado.",
+            "D": "La lesión del nervio facial causa disfunción motora. No causa síndrome del primer bocado."
+          },
+          "guideline": "Netterville JL et al. (Arch Otolaryngol HNS 1998): Síndrome del primer bocado — mecanismo de la supersensibilidad por denervación simpática",
+          "trial": "Ali MJ et al. (Head Neck 2011): Síndrome del primer bocado tras disección del espacio parafaríngeo — caracterización del mecanismo y tratamiento con BTX-A.",
+          "pearl": "Mecanismo del síndrome del primer bocado: denervación simpática de las células mioepiteliales parotídeas → supersensibilidad por denervación → el primer estímulo gustativo causa contracción máxima mioepitelial → dolor intenso. Tratamiento: inyección de BTX-A, mejora espontánea con el tiempo. Distinga del síndrome de Frey (redirección parasimpática → sudoración, no dolor).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A3-Q20",
+        "stem": "Una mujer de 40 años presenta una masa parotídea izquierda de 1 cm confirmada como adenoma pleomórfico por RM. Pregunta sobre el riesgo de recurrencia tras la parotidectomía superficial en comparación con la enucleación simple. ¿Qué enunciado representa más exactamente la evidencia?",
+        "options": {
+          "A": "La enucleación y la parotidectomía tienen tasas de recurrencia iguales (~2-3%) — la preferencia del paciente debe decidir",
+          "B": "La parotidectomía superficial tiene aproximadamente un 2-4% de recurrencia; la enucleación tiene un 20-45% de recurrencia debido a las extensiones pseudopódicas",
+          "C": "La parotidectomía superficial tiene aproximadamente un 15% de recurrencia; la enucleación tiene un 40-50% de recurrencia",
+          "D": "Ambos procedimientos tienen tasas de recurrencia similares porque la RM puede identificar todas las extensiones pseudopódicas"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La parotidectomía superficial proporciona tasas de recurrencia de aproximadamente el 2-4% para el adenoma pleomórfico a lo largo de 10 años de seguimiento. La enucleación/exéresis simple conlleva tasas de recurrencia del 20-45% porque las extensiones pseudopódicas del AP se extienden más allá de la cápsula tumoral visible y no pueden capturarse de forma fiable sin un manguito de tejido. La resolución de la RM es insuficiente para identificar todas las extensiones pseudopódicas (que pueden ser <1 mm). Esta evidencia es la razón por la que la parotidectomía formal es el estándar universal para el manejo del AP.",
+          "wrong": {
+            "A": "Las tasas de recurrencia iguales son factualmente incorrectas. La evidencia demuestra claramente tasas de recurrencia dramáticamente más altas con la enucleación.",
+            "C": "La recurrencia de la parotidectomía superficial del 15% es sobreestimada — las manos experimentadas logran ~2-4%. La enucleación del 40-50% está en el extremo superior de los rangos reportados pero es plausible.",
+            "D": "La RM no puede identificar todas las extensiones pseudopódicas — esto es precisamente por qué la enucleación falla. Los pseudópodos pueden ser <1 mm y estar más allá de la resolución de imagen actual."
+          },
+          "guideline": "Speight PM, Barrett AW (Ann R Coll Surg Engl 2002): Revisión de tumores de glándulas salivales — tasas de recurrencia por procedimiento; EACMFS 2023",
+          "trial": "Witt RL et al. (Laryngoscope 2012): Adenoma pleomórfico recurrente — prevención primaria mediante parotidectomía formal con comparación documentada de tasas de recurrencia (enucleación 20-45% vs parotidectomía 2-4%).",
+          "pearl": "Recurrencia del AP: Enucleación 20-45%, Parotidectomía superficial 2-4%. Las extensiones pseudopódicas son la base biológica de esta diferencia. El AP recurrente es una pesadilla quirúrgica — la reoperación tiene una tasa de lesión del nervio facial mucho más alta (10-20% de parálisis permanente vs 1-2% para la parotidectomía primaria). Prevenga la recurrencia haciendo la operación correcta la primera vez.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

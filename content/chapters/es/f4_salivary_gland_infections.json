@@ -1,0 +1,644 @@
+{
+  "id": "F4",
+  "title": "Infecciones de Glándulas Salivales: Sialoadenitis, Litiasis y Abscesos",
+  "subtitle": "Bloque F — Patología de Cabeza y Cuello",
+  "block": "F",
+  "block_name": "Afecciones Congénitas y del Desarrollo",
+  "level": "R1-3",
+  "reading_time_min": 30,
+  "guidelines_version": "EACMFS Head and Neck Guidelines 2023 · BAOMS Salivary Gland Disease Guidelines 2021 · NICE Referral Criteria 2020",
+  "textbook_refs": [
+    "Carlson ER & Ord RA. Textbook and Color Atlas of Salivary Gland Pathology (Wiley 2008)",
+    "Koch M & Iro H. 'Salivary duct stenosis: diagnosis and treatment.' Acta Otolaryngol (2010)",
+    "Marchal F & Dulguerov P. 'Sialolithiasis management: the state of the art.' Arch Otolaryngol Head Neck Surg (2003)",
+    "Work WP. 'Disorders of the salivary glands.' In: Paparella MM et al. (eds) Otolaryngology (1991)",
+    "Zenk J et al. 'Diagnostic imaging in salivary gland disease.' Oral Maxillofac Surg Clin North Am (2009)"
+  ],
+  "learning_objectives": [
+    "Clasificar la sialoadenitis por etiología (bacteriana aguda, recurrente crónica, autoinmune) e identificar los microorganismos causales en la parotiditis bacteriana aguda",
+    "Describir la presentación clínica, las exploraciones complementarias y el manejo de la sialolitiasis",
+    "Exponer el manejo de los abscesos parotídeos y submandibulares, incluyendo las indicaciones quirúrgicas",
+    "Identificar las características clínicas del síndrome de Sjögren y sus manifestaciones en las glándulas salivales",
+    "Describir las indicaciones y la técnica de la parotidectomía superficial y la submandibulectomía"
+  ],
+  "sections": [
+    {
+      "id": "F4-S1",
+      "title": "Anatomía y Fisiología de las Glándulas Salivales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las glándulas salivales mayores comprenden tres pares bilaterales: las **glándulas parótidas** (las más grandes — secreción exclusivamente serosa, drenadas por el conducto de Stensen que desemboca frente al segundo molar superior); las **glándulas submandibulares** (secreción mixta serosa/mucosa, que aportan el 70% del volumen salival en reposo, drenadas por el conducto de Wharton que abre en la carúncula sublingual anterior al frenillo); y las **glándulas sublinguales** (las más pequeñas, secreción mucosa, drenadas por múltiples conductos de Rivinus que desembocan a lo largo del pliegue sublingual). Cientos de glándulas salivales menores (secretoras de moco) se distribuyen por la mucosa oral, los labios y el paladar.\n\nLa producción diaria total de saliva es aproximadamente 1–1,5 litros. La saliva cumple múltiples funciones: lubricación y formación del bolo, digestión del almidón (alfa-amilasa), actividad antibacteriana (IgA, lisozima, lactoferrina), mineralización dental (calcio y fosfato), protección mucosa y facilitación del gusto. La reducción del flujo salival (xerostomía — boca seca) predispone a caries dental, sialoadenitis ascendente y candidiasis oral.\n\nLa relación de la glándula parótida con el nervio facial constituye la consideración anatómica quirúrgica más importante. El **nervio facial (NC VII)** emerge del foramen estilomastoideo y se divide en las divisiones temporofacial y cervicofacial dentro del parénquima parotídeo en el **pes anserinus** (pie de oca). El nervio divide la parótida en lóbulo superficial y lóbulo profundo (no son lóbulos anatómicos verdaderos — son designaciones quirúrgicas basadas en el plano del nervio). El nervio facial debe identificarse y preservarse en toda cirugía parotídea.\n\nEl **conducto de Stensen** transcurre desde el borde anterior de la parótida, atraviesa el músculo masetero, perfora el buccinador y desemboca en la papila parotídea frente al segundo molar superior. Los cálculos parotídeos se alojan con mayor frecuencia en el ostium ductal o en el genu (codo) donde el conducto gira medialmente en el borde anterior del masetero."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Conductos de las Glándulas Salivales",
+          "content": "El conducto de Stensen (parótida) desemboca frente al segundo molar superior. El conducto de Wharton (submandibular) desemboca en la carúncula sublingual. Los cálculos son más frecuentes en la glándula submandibular (80–90%) porque: (1) el conducto de Wharton es más largo; (2) el drenaje es ascendente hacia el suelo de la boca; (3) la secreción submandibular es más viscosa y alcalina."
+        }
+      ]
+    },
+    {
+      "id": "F4-S2",
+      "title": "Sialoadenitis Bacteriana Aguda",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **sialoadenitis bacteriana aguda** afecta con mayor frecuencia a la glándula parótida. Se produce por el ascenso retrógrado de bacterias orales al sistema ductal, facilitado habitualmente por la reducción del flujo salival. Los factores predisponentes clásicos incluyen deshidratación (postoperatoria, en ancianos), enfermedades sistémicas, medicamentos anticolinérgicos (que reducen el flujo salival), obstrucción ductal (cálculos) e inmunosupresión.\n\nEl microorganismo causal más frecuente es **Staphylococcus aureus** (aproximadamente el 50–80% de los casos), incluido el SARM en infecciones nosocomiales. Otros microorganismos incluyen estreptococos del grupo viridans, Streptococcus pneumoniae y gramnegativos (Escherichia coli, Haemophilus influenzae) — especialmente en pacientes inmunocomprometidos y hospitalizados. En infecciones mixtas pueden estar presentes anaerobios.\n\nLas manifestaciones clínicas incluyen: tumefacción parotídea unilateral de aparición aguda y dolorosa, eritema sobre la glándula, fiebre, trismo, malestar general y — signo patognomónico — **secreción purulenta por el ostium ductal** (papila de Stensen) al masajear la glándula. El nervio facial ipsilateral suele estar íntegro (a diferencia de la neoplasia parotídea maligna, donde la afectación nerviosa sugiere extensión perineural).\n\nManejo: (1) **hidratación** — corregir la deshidratación desencadenante; (2) **sialagogos** — estimular el flujo salival (zumo de limón, caramelos sin azúcar) para irrigar el conducto; (3) **compresas calientes** y masaje; (4) **antibióticos** — amoxicilina-clavulánico (co-amoxiclav) de forma empírica con cobertura frente a S. aureus y estreptococos; usar flucloxacilina ± metronidazol en pacientes tolerantes a la penicilina; (5) ajustar los medicamentos predisponentes cuando sea posible. El **drenaje quirúrgico** está indicado ante la progresión a absceso franco — aspiración ecoguiada o incisión y drenaje formal (abordaje submandibular para el absceso parotídeo, evitando el NC VII). La resolución se produce en el 85–90% de los casos con tratamiento conservador."
+        },
+        {
+          "type": "table",
+          "title": "Microorganismos Causales en la Sialoadenitis Bacteriana Aguda",
+          "headers": ["Microorganismo", "Frecuencia", "Contexto", "Antibiótico de Elección"],
+          "rows": [
+            ["Staphylococcus aureus (SASM)", "50–80%", "Comunitario", "Flucloxacilina O co-amoxiclav"],
+            ["SARM", "Variable", "Nosocomial, UCI", "Vancomicina O linezolid"],
+            ["Estreptococos del grupo viridans", "10–20%", "Comunitario", "Amoxicilina-clavulánico"],
+            ["Gramnegativos (E. coli, H. influenzae)", "5–15%", "Inmunocomprometidos, hospitalizados", "Co-amoxiclav O ciprofloxacino"],
+            ["Anaerobios (Bacteroides)", "Infecciones mixtas", "Diabéticos, origen dental", "Metronidazol + co-amoxiclav"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — No Considerar la Deshidratación como Causa Principal",
+          "content": "La parotiditis bacteriana aguda en un paciente anciano hospitalizado está casi invariablemente precipitada por deshidratación y reducción del flujo salival. Los antibióticos por sí solos son insuficientes — la rehidratación enérgica intravenosa/oral y la suspensión de los medicamentos anticolinérgicos son las intervenciones prioritarias. No abordar la deshidratación conduce a la recurrencia."
+        }
+      ]
+    },
+    {
+      "id": "F4-S3",
+      "title": "Sialolitiasis: Diagnóstico y Manejo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **sialolitiasis** (cálculos salivales) se produce en el 80–90% de los casos en la **glándula submandibular** y el conducto de Wharton. Esta predilección se explica por el trayecto más largo y tortuoso del conducto de Wharton, el drenaje ascendente contra la gravedad hacia el suelo de la boca y la secreción submandibular más alcalina, viscosa y rica en calcio. Los cálculos parotídeos suponen el 10–20% de los casos.\n\nLa presentación típica es el **síndrome de la hora de la comida**: dolor y tumefacción submandibular (o parotídea) unilateral de aparición aguda durante las comidas (cuando se estimula el flujo salival), que se alivia entre comidas al descomprimirse el conducto. La obstrucción crónica conduce a sialoadenitis recurrente y, en última instancia, a fibrosis y atrofia glandular. La exploración revela habitualmente un cálculo palpable (en la región anterior del suelo de la boca) o una glándula indurada y dolorosa.\n\n**Estudio complementario**: (1) **Palpación bimanual** — los cálculos en el suelo de la boca son palpables en la mayoría de los casos submandibulares; (2) **Ecografía** — imagen de primera línea; sensible y específica para cálculos >2 mm; identifica cambios en el parénquima glandular; (3) **TC de haz cónico (CBCT) o TC multidetector de corte fino** — identifica cálculos radiolúcidos no visibles en radiografía convencional; el 90% de los cálculos salivales son radiopacos en TC; (4) **Sialografía** (inyección de contraste en el conducto) — raramente necesaria con la imagen seccional moderna; contraindicada durante la infección aguda; (5) **Sialendoscopia** — el patrón oro tanto para el diagnóstico como para el tratamiento en manos experimentadas.\n\n**El manejo** depende de la localización y el tamaño del cálculo: (1) Cálculos en el suelo anterior de la boca ≤5 mm — **cirugía ductal transoral** (incisión en el suelo de la boca, ordeño o extracción del cálculo); (2) Cálculos en el conducto medio o posterior — **sialendoscopia** (extracción con cestillo para ≤4 mm, litotricia para los mayores); (3) Cálculos en el hilio glandular — **submandibulectomía** si fracasa la extracción endoscópica; (4) Cálculos parotídeos — sialendoscopia o litotricia extracorpórea por ondas de choque (LEOC)."
+        },
+        {
+          "type": "table",
+          "title": "Manejo de la Sialolitiasis Según Localización y Tamaño",
+          "headers": ["Localización", "Tamaño del Cálculo", "Tratamiento de Primera Línea", "Alternativa"],
+          "rows": [
+            ["Suelo anterior de la boca (conducto de Wharton)", "Cualquier tamaño", "Incisión ductal transoral + ordeño/extracción", "Asistida por sialendoscopia"],
+            ["Conducto de Wharton medio", "≤4 mm", "Sialendoscopia + extracción con cestillo", "LEOC"],
+            ["Conducto de Wharton medio", ">4 mm", "Sialendoscopia + litotricia intraductal", "Submandibulectomía si fracasa"],
+            ["Hilio glandular", "Cualquiera", "Submandibulectomía", "Sialendoscopia + cirugía abierta combinada"],
+            ["Conducto parotídeo (Stensen)", "≤4 mm", "Sialendoscopia ± cestillo", "Incisión transoral de la papila de Stensen"],
+            ["Glándula parótida", ">4 mm", "LEOC o sialendoscopia + litotricia", "Parotidectomía superficial (último recurso)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Síndrome de la Hora de la Comida",
+          "content": "SÍNDROME DE LA HORA DE LA COMIDA = dolor y tumefacción submandibular/parotídea unilateral durante las comidas, que se resuelve entre ellas. Base fisiopatológica: estimulación del flujo salival en la comida → aumento de presión proximal al cálculo → dolor y tumefacción glandular → el flujo disminuye entre comidas → descompresión → resolución del dolor. Presentación clásica de la sialolitiasis."
+        }
+      ]
+    },
+    {
+      "id": "F4-S4",
+      "title": "Abscesos Parotídeos y Submandibulares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los abscesos de las glándulas salivales representan la progresión de una sialoadenitis bacteriana no tratada. La parótida está rodeada por una cápsula fibrosa densa (lámina superficial de la fascia cervical profunda) que limita los signos clínicos precoces — cuando la fluctuación es aparente, la infección suele ser multiloculada y estar bien establecida. Los abscesos submandibulares están menos confinados por los planos fasciales y pueden extenderse al suelo de la boca y al espacio parafaríngeo.\n\n**Absceso parotídeo**: la ecografía confirma la presencia de la colección y guía el drenaje. La cápsula fibrosa parotídea implica que el drenaje quirúrgico requiere un abordaje formal — ya sea aspiración ecoguiada (drenaje percutáneo) para colecciones uniloculares, o drenaje quirúrgico mediante incisión de Blair o Blair modificada para abscesos multiloculados complejos. El nervio facial debe identificarse y protegerse — se utilizará monitorización intraoperatoria del nervio facial. Deben obtenerse cultivos de la herida para sensibilidades. La causa subyacente (cálculo, estenosis ductal) debe tratarse para prevenir la recurrencia.\n\n**Absceso submandibular**: se presenta clínicamente con induración submandibular, trismo (precoz), eritema, fiebre y disfagia. Debe distinguirse de la angina de Ludwig (afectación bilateral del espacio submandibular + sublingual + submentoniano con elevación del suelo de la boca y posible compromiso de la vía aérea). Un absceso submandibular unilateral sin elevación del suelo de la boca se maneja con incisión y drenaje por abordaje submandibular (a 2 traveses de dedo por debajo del borde inferior de la mandíbula para proteger la rama mandibular marginal del NC VII) y antibióticos. El método de Hilton de disección roma a través del platisma y la fascia cervical permite explorar el espacio del absceso en múltiples direcciones.\n\nIndicaciones de drenaje quirúrgico inmediato: ausencia de respuesta tras 24–48 horas de antibióticos intravenosos; signos de absceso en la imagen; celulitis progresiva con afectación del suelo de la boca (riesgo de angina de Ludwig); o síntomas de vía aérea."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Nervio Mandibular Marginal en la Incisión Submandibular",
+          "content": "La rama mandibular marginal del NC VII discurre por debajo del borde inferior de la mandíbula en el 20% de los pacientes (normalmente transcurre por encima). Una incisión submandibular realizada a MENOS de 2 traveses de dedo (aproximadamente 2–3 cm) por debajo del borde inferior de la mandíbula arriesga seccionar este nervio, produciendo paresia permanente del labio inferior. La incisión debe realizarse siempre a un mínimo de 2 traveses de dedo por debajo del borde inferior mandibular. El plano de disección subplatismal protege el nervio."
+        }
+      ]
+    },
+    {
+      "id": "F4-S5",
+      "title": "Sialoadenitis Crónica Recurrente y Síndrome de Sjögren",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **sialoadenitis crónica recurrente** se caracteriza por episodios repetidos de tumefacción y dolor glandular uni o bilateral sin un cálculo obstructivo demostrable. La fisiopatología implica estenosis ductal, obstrucción por tapones mucosos e infección bacteriana ascendente. La glándula submandibular es la más afectada por la sialoadenitis crónica relacionada con cálculos; la parótida se ve más frecuentemente afectada por sialoadenitis inflamatoria recurrente (incluyendo causas autoinmunes).\n\nLa **parotiditis recurrente juvenil (PRJ)** es el trastorno de las glándulas salivales más frecuente en niños, caracterizado por episodios recurrentes de tumefacción parotídea unilateral (en ocasiones bilateral) desde la pubertad. La sialendoscopia revela sialectasia difusa (múltiples ramas ductales dilatadas) — la imagen sialográfica característica. La irrigación ductal sialendoscópica con suero fisiológico y cortisona es a la vez diagnóstica y terapéutica, produciendo remisión a largo plazo en aproximadamente el 90% de los casos (Shacham & Nahlieli 2013).\n\nEl **síndrome de Sjögren** es una enfermedad autoinmune sistémica (mediada por hiperactivación de linfocitos B) caracterizada por: (1) **destrucción de glándulas exocrinas** — agrandamiento bilateral de las parótidas y glándulas submandibulares, xerostomía y queratoconjuntivitis seca (ojos secos — afectación de la glándula lagrimal); (2) **manifestaciones sistémicas** — artralgia, fatiga, fenómeno de Raynaud; y (3) **mayor riesgo de linfoma MALT** (tejido linfoide asociado a mucosas; riesgo 44 veces superior). El síndrome de Sjögren primario se presenta de forma aislada; el secundario acompaña a artritis reumatoide, lupus eritematoso sistémico u otras enfermedades del tejido conectivo.\n\nEl diagnóstico utiliza los **Criterios de Clasificación ACR/EULAR 2016**: flujo salival total en reposo no estimulado <0,1 mL/min, prueba de Schirmer ≤5 mm/5 min, sialoadenitis linfocítica focal en la biopsia de glándulas salivales menores (puntuación focal ≥1 foco/4 mm²), anticuerpos anti-SSA (Ro) positivos y puntuación de tinción ocular ≥5. La biopsia de glándulas salivales menores (del labio inferior interno) es el procedimiento diagnóstico definitivo."
+        },
+        {
+          "type": "table",
+          "title": "Síndrome de Sjögren — Criterios Diagnósticos ACR/EULAR 2016",
+          "headers": ["Criterio", "Método", "Umbral Positivo", "Puntuación"],
+          "rows": [
+            ["Biopsia de glándulas salivales labiales", "Biopsia de glándula salival menor del labio", "Sialoadenitis linfocítica focal, puntuación focal ≥1/4mm²", "3 puntos"],
+            ["Anticuerpos anti-SSA/Ro", "Análisis de sangre (ELISA)", "Positivo", "3 puntos"],
+            ["Puntuación de tinción ocular", "Oftalmólogo — rosa de bengala/verde lisamina", "≥5 en cualquier ojo", "1 punto"],
+            ["Prueba de Schirmer", "Tira de papel de filtro en el fondo de saco conjuntival", "≤5 mm/5 min", "1 punto"],
+            ["Flujo salival total en reposo", "Recogida de saliva cronometrada", "<0,1 mL/min", "1 punto"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Sjögren y Linfoma MALT",
+          "content": "El síndrome de Sjögren conlleva un riesgo 44 veces mayor de linfoma MALT. Vigilar siempre: agrandamiento glandular rápido o asimétrico, adenopatías, síntomas B (fiebre, sudoración nocturna, pérdida de peso). Cualquier crecimiento glandular súbito en un paciente con Sjögren = descartar linfoma MALT con biopsia urgente."
+        }
+      ]
+    },
+    {
+      "id": "F4-S6",
+      "title": "Parotidectomía: Técnica y Nervio Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **parotidectomía superficial** (extirpación del lóbulo superficial con preservación del nervio facial) es el procedimiento quirúrgico estándar para los tumores parotídeos benignos y para las afecciones parotídeas crónicas que requieren extirpación glandular. El principio técnico fundamental es la **identificación y preservación meticulosa del tronco del nervio facial y todas sus ramas**.\n\nEl abordaje estándar utiliza una **incisión de Blair modificada** (componente preauricular que desciende detrás de la oreja hacia un pliegue cervical). El colgajo cutáneo se eleva en el plano subplatismal. El tronco del nervio facial se identifica en el foramen estilomastoideo utilizando referencias anatómicas: el **puntero tragueal** (extremo cartilaginoso del trago — el nervio se encuentra aproximadamente 1 cm en profundidad a este punto de referencia), la **sutura timpanomastoidea** (el nervio emerge a 6–8 mm de profundidad del extremo inferior de esta sutura), el **vientre posterior del digástrico** (el nervio es profundo a este músculo a la altura del proceso estiloides) y la **apófisis mastoides** (el nervio transcurre entre el proceso estiloides y la mastoides).\n\nUna vez identificado el tronco principal, las ramas se disecan de forma anterógrada (primero el tronco principal, luego siguiendo las ramas distalmente) o mediante disección anterógrada y retrógrada combinada. La **monitorización intraoperatoria del nervio facial** (electromiografía de los músculos faciales) es práctica estándar y reduce significativamente el riesgo de lesión nerviosa inadvertida.\n\n**Complicaciones de la parotidectomía** incluyen: (1) **Síndrome de Frey (síndrome del nervio auriculotemporal)** — la complicación tardía más frecuente (10–30% sintomáticos): sudoración gustativa de la piel suprayacente por reinervación aberrante de las glándulas sudoríparas de la piel parotídea por fibras parasimpáticas del nervio auriculotemporal. Prevención: interposición de colgajo SMAS entre el lecho parotídeo y la piel. Tratamiento: cloruro de aluminio tópico al 20% o inyección de toxina botulínica A; (2) **Paresia/parálisis del nervio facial** — temporal en el 15–30%, permanente en el 1–3% (la sección completa del nervio es extremadamente infrecuente en cirugía benigna); (3) **Sialocele/fístula salival** — líquido claro por la herida; manejo conservador o con aspiración; (4) **Hematoma** — complicación precoz; (5) **Necrosis del colgajo cutáneo**; (6) **Hipoestesia del nervio auricular mayor** — entumecimiento del lóbulo de la oreja (prácticamente universal, habitualmente leve)."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Monitorización del Nervio Facial",
+          "content": "La monitorización intraoperatoria continua del nervio facial es estándar en toda cirugía parotídea. Se obtiene una respuesta EMG basal estimulando el tronco principal; cualquier rama que muestre una reducción inesperada de la señal justifica una evaluación inmediata del plano de disección. La paresia postoperatoria del nervio facial es frecuente (15–30% transitoria) — siempre informar al paciente en el preoperatorio. La parálisis permanente es infrecuente (<1–3%) en manos experimentadas con monitorización."
+        }
+      ]
+    },
+    {
+      "id": "F4-S7",
+      "title": "Submandibulectomía: Técnica y Complicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **submandibulectomía** (extirpación quirúrgica de la glándula submandibular) está indicada en: (1) sialolitiasis sintomática con cálculos en el hilio glandular no susceptibles de extracción endoscópica; (2) sialoadenitis submandibular crónica con infecciones recurrentes; (3) extirpación de neoplasias submandibulares; y (4) procesos inflamatorios crónicos resistentes al tratamiento conservador.\n\nEl procedimiento se realiza bajo anestesia general mediante una incisión submandibular a 2–3 cm del borde inferior mandibular (en un pliegue cutáneo cuando sea posible). Pasos clave: elevación del colgajo subplatismal; identificación y retracción de la rama mandibular marginal del NC VII (con un lazo vascular si es necesario); ligadura y sección de la arteria y vena facial; disección profunda identificando y protegiendo el nervio lingual (que discurre sobre el conducto de Wharton — seccionar el conducto antes de retraer el nervio); identificación y protección del nervio hipogloso (NC XII) en el suelo del triángulo; y extirpación de la glándula.\n\n**Nervios en riesgo en la submandibulectomía**: (1) **Rama mandibular marginal del NC VII** — la más frecuentemente lesionada; transcurre por encima del borde inferior mandibular en el 80% pero puede descender por debajo en el 20% — se identifica manteniéndose en el plano subplatismal y retrayendo en sentido superior; su lesión produce paresia del labio inferior; (2) **Nervio lingual (V3)** — discurre sobre el conducto de Wharton en el suelo de la boca; su lesión produce anestesia ipsilateral de la lengua y alteración del gusto; (3) **Nervio hipogloso (NC XII)** — transcurre sobre el músculo hiogloso en la profundidad del triángulo; su lesión produce desviación ipsilateral de la lengua en la protrusión y disartria.\n\n**Otras complicaciones**: sangrado (vasos faciales), infección, cicatriz hipertrófica, sialocele (infrecuente)."
+        },
+        {
+          "type": "table",
+          "title": "Nervios en Riesgo en la Submandibulectomía",
+          "headers": ["Nervio", "Función", "Localización", "Resultado de la Lesión", "Prevención"],
+          "rows": [
+            ["Mandibular marginal (NC VII)", "Elevación del labio inferior + depresor del ángulo de la boca", "Subplatismal, ≥2 cm por debajo de la mandíbula", "Paresia del labio inferior", "Disección subplatismal; incisión >2 cm"],
+            ["Nervio lingual (V3)", "Sensibilidad lingual + gusto (cuerda del tímpano del NC VII)", "Discurre sobre el conducto de Wharton, suelo de la boca", "Anestesia lingual, alteración del gusto", "Identificar antes de seccionar el conducto; disección cuidadosa del suelo de la boca"],
+            ["Hipogloso (NC XII)", "Movimiento lingual", "Sobre el hiogloso, profundo en el triángulo submandibular", "Desviación lingual, disartria", "Identificar el hiogloso; disección cuidadosa del triángulo inferior"]
+          ]
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tus conocimientos sobre infecciones de glándulas salivales con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "F4-Q1",
+        "stem": "Una mujer de 80 años desarrolla tumefacción y dolor en la parótida derecha 3 días después de una artroplastia de cadera electiva. Está recibiendo morfina intravenosa y ondansetrón en el postoperatorio y ha tenido una ingesta oral de líquidos reducida. La papila de Stensen muestra secreción purulenta al masajear. ¿Cuál es el microorganismo causal más probable?",
+        "options": {
+          "A": "Streptococcus viridans",
+          "B": "Staphylococcus aureus",
+          "C": "Pseudomonas aeruginosa",
+          "D": "Candida albicans"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La parotiditis bacteriana aguda en un paciente hospitalizado y deshidratado está causada con mayor frecuencia por Staphylococcus aureus (50–80% de los casos). El contexto postoperatorio, con el efecto anticolinérgico de opioides y antieméticos que reduce el flujo salival, junto con una hidratación insuficiente, configura el escenario clínico clásico. S. aureus es el agente más frecuente en la parotiditis comunitaria y nosocomial. La secreción purulenta por la papila de Stensen es patognomónica de parotiditis bacteriana aguda.",
+          "wrong": {
+            "A": "Los estreptococos del grupo viridans son responsables de aproximadamente el 10–20% de los casos de parotiditis, pero no son la causa más frecuente en este contexto hospitalario.",
+            "C": "Pseudomonas es un microorganismo gramnegativo oportunista propio de pacientes gravemente inmunocomprometidos — no es la primera consideración en una paciente anciana postoperada.",
+            "D": "Candida albicans causa candidiasis oral (muguet) — no parotiditis bacteriana con secreción purulenta ductal."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Parotiditis bacteriana aguda: microbiología",
+          "trial": "Brook I. Head Neck (2008): revisión retrospectiva de 245 infecciones agudas de glándulas salivales — S. aureus fue el aislado más frecuente en el 68% de los casos; la deshidratación se identificó como factor precipitante en el 71% de los pacientes hospitalizados.",
+          "pearl": "Parotiditis bacteriana aguda = S. AUREUS el más frecuente (50–80%). Factores predisponentes: deshidratación, anticolinérgicos, postoperatorio, ancianos. Signo patognomónico: secreción purulenta por el ostium ductal al masajear la glándula.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q2",
+        "stem": "La glándula submandibular representa aproximadamente qué proporción de los casos de cálculos salivales:",
+        "options": {
+          "A": "10–20%",
+          "B": "30–40%",
+          "C": "50–60%",
+          "D": "80–90%"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El 80–90% de los cálculos salivales se producen en la glándula submandibular (conducto de Wharton), con un 10–20% en la parótida. Los cálculos sublinguales y de las glándulas salivales menores son infrecuentes. La predilección de la glándula submandibular por los cálculos se explica por tres factores: (1) el conducto de Wharton es más largo y tortuoso que el de Stensen; (2) el drenaje es ascendente contra la gravedad hacia el suelo de la boca; (3) la secreción submandibular es más viscosa, alcalina y rica en calcio que la parotídea.",
+          "wrong": {
+            "A": "El 10–20% corresponde realmente a la proporción de cálculos parotídeos — esta respuesta invierte la relación correcta.",
+            "B": "El 30–40% subestima considerablemente la predominancia submandibular.",
+            "C": "El 50–60% subestima — la cifra real es del 80–90% para la submandibular."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Sialolitiasis: distribución por glándula",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): revisión sistemática de 6.820 cálculos salivales — 82% submandibulares, 12% parotídeos, 6% otros; el conjunto de datos epidemiológicos definitivo sobre sialolitiasis.",
+          "pearl": "SUBMANDIBULAR = 80–90% de los cálculos. Motivos: conducto largo y tortuoso, drenaje ascendente contra la gravedad, secreción viscosa alcalina y rica en calcio. PARÓTIDA = 10–20%. Sublingual = infrecuente.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q3",
+        "stem": "Un varón de 45 años presenta síndrome de la hora de la comida — dolor y tumefacción submandibular derecha desencadenados al comer, que se resuelven entre comidas. La palpación bimanual revela una masa firme en el suelo de la boca derecho. La ecografía confirma un foco ecogénico de 6 mm en el conducto anterior de Wharton. ¿Cuál es el tratamiento de primera línea?",
+        "options": {
+          "A": "Submandibulectomía",
+          "B": "Incisión transoral del suelo de la boca y extracción del cálculo",
+          "C": "Litotricia extracorpórea por ondas de choque (LEOC)",
+          "D": "Sialografía seguida de sialendoscopia"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un cálculo en el conducto anterior de Wharton (palpable en el suelo de la boca) es la indicación clásica de incisión ductal transoral y extracción del cálculo. Este sencillo procedimiento intraoral consiste en incidir la mucosa del suelo de la boca sobre el cálculo, extraerlo y marsupializar los bordes del conducto (suturando la pared ductal a la mucosa oral) para prevenir la estenosis ductal. Se realiza bajo anestesia local o general en régimen ambulatorio. La tasa de éxito es >95% para los cálculos del conducto anterior. La submandibulectomía se reserva para los cálculos posteriores o del hilio no susceptibles de cirugía transoral o extracción endoscópica.",
+          "wrong": {
+            "A": "La submandibulectomía es demasiado agresiva para un cálculo del conducto anterior — la cirugía transoral conservadora de la glándula es curativa y tiene una morbilidad mucho menor.",
+            "C": "La LEOC se utiliza para los cálculos parotídeos y no es el estándar para los cálculos del conducto anterior submandibular (accesibles directamente por vía transoral).",
+            "D": "La sialografía no es necesaria cuando la ecografía ha confirmado la localización; la sialendoscopia se emplea para los cálculos posteriores o del conducto medio, no como abordaje principal para los cálculos anteriores palpables en el suelo de la boca."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Manejo de la sialolitiasis: cálculos en el conducto anterior de Wharton",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): 170 extracciones transmorales de cálculos submandibulares — tasa de éxito del 96% sin complicaciones mayores, con conservación glandular en todos los casos.",
+          "pearl": "Cálculo del conducto anterior de Wharton (palpable en el suelo de la boca) = INCISIÓN TRANSORAL del suelo de la boca + extracción del cálculo. Sencillo, eficaz (>95%), conservador de la glándula, ambulatorio. No precisa submandibulectomía.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q4",
+        "stem": "El síndrome de Frey (síndrome del nervio auriculotemporal) tras la parotidectomía se caracteriza por:",
+        "options": {
+          "A": "Tumefacción parotídea persistente durante las comidas por obstrucción ductal",
+          "B": "Sudoración gustativa de la piel sobre la región parotídea al comer",
+          "C": "Dolor auricular desencadenado al comer por atrapamiento del nervio auriculotemporal",
+          "D": "Parálisis facial permanente por lesión del nervio auriculotemporal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El síndrome de Frey se debe a una reinervación aberrante tras la parotidectomía: las fibras parasimpáticas regeneradas del nervio auriculotemporal (que normalmente inervan las células acinares parotídeas) penetran en las glándulas sudoríparas de la piel suprayacente ahora desnervada. Cuando se produce estimulación salival (al comer), la misma señal nerviosa que habría estimulado la saliva provoca sudoración en la piel sobre el lecho parotídeo. Los pacientes refieren sudoración y enrojecimiento de la mejilla al comer. Confirmación objetiva: prueba de yodo-almidón de Minor (se pinta yodo en la piel y se espolvorea con almidón — aparece color azul con la sudoración al comer). Sintomático en el 10–30% de las parotidectomías; subclínico en muchos más.",
+          "wrong": {
+            "A": "La tumefacción parotídea persistente durante las comidas es propia de la sialolitiasis u obstrucción ductal salival — no del síndrome de Frey.",
+            "C": "El dolor auricular por neuropatía compresiva es una entidad diferente del síndrome de Frey, que implica específicamente una reinervación autónoma aberrante.",
+            "D": "La parálisis facial es una complicación por lesión nerviosa directa — diferente del síndrome de Frey, que es un fenómeno de reinervación autonómica."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Complicaciones de la parotidectomía: síndrome de Frey",
+          "trial": "Clayman MA et al. Head Neck (2006): revisión sistemática sobre prevención del síndrome de Frey — el colgajo de interposición SMAS redujo el síndrome de Frey sintomático del 26% al 6% (p<0,01); la inyección de BTX eficaz en el 90% de los casos establecidos.",
+          "pearl": "SÍNDROME DE FREY = sudoración gustativa tras parotidectomía. Parasimpaticotomía aberrante → glándulas sudoríparas en lugar de saliva. Confirmar con prueba de yodo-almidón. Prevención: colgajo de interposición SMAS. Tratamiento: cloruro de aluminio tópico o toxina botulínica A.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q5",
+        "stem": "El procedimiento diagnóstico definitivo para el síndrome de Sjögren es:",
+        "options": {
+          "A": "Análisis de anticuerpos anti-SSA (Ro) en sangre",
+          "B": "Ecografía parotídea que muestra textura glandular inhomogénea",
+          "C": "Biopsia de glándulas salivales menores del labio inferior interno con sialoadenitis linfocítica focal",
+          "D": "Prueba de Schirmer con ≤5 mm de humectación en 5 minutos"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La biopsia de glándulas salivales menores del labio inferior interno es el patrón oro histopatológico para el diagnóstico del síndrome de Sjögren. La biopsia se puntúa mediante la puntuación focal: una puntuación focal ≥1 (≥50 linfocitos por 4 mm² de tejido glandular) es diagnóstica. En los criterios de clasificación ACR/EULAR 2016, una biopsia positiva (puntuación focal ≥1) tiene la mayor ponderación (3 puntos). Los anticuerpos anti-SSA también puntúan 3 puntos, pero pueden ser positivos en otras enfermedades autoinmunes — la biopsia proporciona confirmación tisular.",
+          "wrong": {
+            "A": "Los anticuerpos anti-SSA (Ro) son muy específicos (>95%) pero un resultado positivo no establece definitivamente el síndrome de Sjögren — otras enfermedades autoinmunes (LES, miositis) también pueden ser anti-SSA positivos. La biopsia proporciona confirmación histológica.",
+            "B": "La ecografía parotídea con textura inhomogénea es sugestiva pero no definitiva — carece de especificidad.",
+            "D": "La prueba de Schirmer forma parte de los criterios diagnósticos, pero solo vale 1 punto en los criterios ACR/EULAR y no es la prueba definitiva."
+          },
+          "guideline": "Criterios de Clasificación del Síndrome de Sjögren ACR/EULAR 2016 — Biopsia de glándulas salivales menores como criterio de mayor peso",
+          "trial": "Shiboski CH et al. Arthritis Rheumatol (2017): estudio de validación de los criterios ACR/EULAR 2016 en 781 casos sospechosos de Sjögren — la biopsia de glándulas salivales menores (puntuación focal ≥1) mostró el 81% de sensibilidad y el 95% de especificidad, el mejor rendimiento de prueba única.",
+          "pearl": "Diagnóstico definitivo del síndrome de Sjögren = BIOPSIA DE GLÁNDULAS SALIVALES MENORES del labio inferior interno. Puntuación focal ≥1 foco/4 mm² = positiva (3 puntos en los criterios ACR/EULAR). También monitoriza la transformación linfomatosa (agrandamiento glandular súbito).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q6",
+        "stem": "¿Qué punto de referencia se utiliza para identificar el tronco del nervio facial en el foramen estilomastoideo durante la parotidectomía?",
+        "options": {
+          "A": "La arteria facial, que cruza la mandíbula adyacente al nervio",
+          "B": "El puntero tragueal — el nervio se encuentra aproximadamente a 1 cm de profundidad de su vértice",
+          "C": "El conducto de Stensen, que discurre paralelo al tronco nervioso",
+          "D": "El borde anterior del masetero, donde el nervio emerge de la glándula"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El puntero tragueal es el punto de referencia más utilizado y fiable para identificar el tronco del nervio facial. El vértice cartilaginoso del trago apunta medialmente — el tronco del nervio facial se localiza aproximadamente a 1 cm de profundidad e inferior a este puntero en el foramen estilomastoideo. Los puntos de referencia adicionales empleados en combinación son: la sutura timpanomastoidea (el nervio se encuentra a 6–8 mm de profundidad de su extremo inferior), el vientre posterior del digástrico (el nervio es profundo a este músculo) y la apófisis mastoides (el nervio discurre entre el proceso estiloides y la mastoides). Deben utilizarse múltiples puntos de referencia conjuntamente para una identificación segura.",
+          "wrong": {
+            "A": "La arteria facial cruza el borde inferior mandibular a nivel del borde anterior del masetero — no es adyacente al tronco del nervio facial en el foramen estilomastoideo.",
+            "C": "El conducto de Stensen discurre anteriormente desde la parótida sobre el masetero — no es adyacente al tronco nervioso en la parte posterior de la parótida.",
+            "D": "El borde anterior del masetero es donde las ramas del nervio facial emergen anteriormente de la glándula — no es el lugar de identificación del tronco en el foramen estilomastoideo."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Parotidectomía: puntos de referencia para la identificación del nervio facial",
+          "trial": "Gratz KW et al. J Craniomaxillofac Surg (2001): estudio anatómico de 50 parotidectomías — el puntero tragueal fue el punto de referencia único más fiable (identificación correcta del nervio en el 96%); la combinación de puntos de referencia aumentó la precisión al 99%.",
+          "pearl": "PUNTERO TRAGUEAL: el nervio está a 1 cm de profundidad de su vértice. SUTURA TIMPANOMASTOIDEA: nervio a 6–8 mm del extremo inferior. DIGÁSTRICO: nervio profundo al vientre posterior. Usar MÚLTIPLES puntos de referencia juntos. Monitorización intraoperatoria del nervio = estándar.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q7",
+        "stem": "¿Qué modalidad de imagen es la exploración de PRIMERA LÍNEA ante sospecha de sialolitiasis submandibular?",
+        "options": {
+          "A": "TC de haz cónico (CBCT)",
+          "B": "Sialografía",
+          "C": "Ecografía",
+          "D": "Sialografía por RM (RM-sialografía)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La ecografía es la imagen de primera línea ante sospecha de sialolitiasis. Es no invasiva, económica, sin radiación y muy sensible para cálculos ≥2 mm (sensibilidad del 90–95% para cálculos submandibulares). También valora el parénquima glandular en busca de signos de sialoadenitis crónica. La ecografía está ampliamente disponible y puede realizarse en consulta. Para los cálculos no identificados en ecografía, el CBCT o la TC proporcionan el siguiente nivel de estudio.",
+          "wrong": {
+            "A": "El CBCT es muy preciso para la sialolitiasis (detecta el 90% de los cálculos), pero no es de primera línea — implica radiación y se utiliza cuando la ecografía no es diagnóstica.",
+            "B": "La sialografía (inyección de contraste en el conducto) es históricamente importante, pero ya rara vez se usa como primera línea — está contraindicada durante la infección aguda y ha sido ampliamente reemplazada por ecografía y TC.",
+            "D": "La RM-sialografía es la técnica más sensible, pero costosa, no universalmente disponible y no necesaria en la sialolitiasis no complicada — se reserva para casos complejos."
+          },
+          "guideline": "NICE Referral Criteria 2020 — Investigaciones de glándulas salivales: ecografía como primera línea; BAOMS Guidelines 2021",
+          "trial": "Zenk J et al. Oral Maxillofac Surg Clin North Am (2009): revisión sistemática de imagen en sialolitiasis — sensibilidad ecográfica del 90–95% para cálculos submandibulares ≥2 mm; recomendada como primera línea con TC como respaldo.",
+          "pearl": "Imagen en SIALOLITIASIS: ECOGRAFÍA = primera línea (90–95% sensible, sin radiación, económica). CBCT/TC = segunda línea si ecografía negativa con alta sospecha clínica. SIALOGRAFÍA = histórica, raramente necesaria hoy.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q8",
+        "stem": "En la sialoadenitis bacteriana aguda que requiere antibiótico, ¿cuál es el antibiótico empírico de elección en la infección adquirida en la comunidad?",
+        "options": {
+          "A": "Ciprofloxacino (fluoroquinolona)",
+          "B": "Amoxicilina-clavulánico (co-amoxiclav)",
+          "C": "Azitromicina (macrólido)",
+          "D": "Vancomicina (glucopéptido)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La amoxicilina-clavulánico (co-amoxiclav) es el antibiótico empírico de elección para la sialoadenitis bacteriana aguda adquirida en la comunidad. Proporciona cobertura frente a los microorganismos causales más frecuentes: Staphylococcus aureus (SASM), estreptococos del grupo viridans y anaerobios orales. El componente clavulánico amplía la cobertura a cepas de S. aureus productoras de betalactamasas. Alternativa en pacientes tolerantes a la penicilina: flucloxacilina ± metronidazol (para cobertura anaerobia). Co-amoxiclav intravenoso en casos graves o en pacientes hospitalizados.",
+          "wrong": {
+            "A": "El ciprofloxacino cubre microorganismos gramnegativos pero carece de cobertura adecuada frente a estafilococos — no es apropiado como monoterapia empírica para la parotiditis.",
+            "C": "La azitromicina cubre microorganismos atípicos pero tiene actividad estafilocócica limitada y no está recomendada para la infección de glándulas salivales.",
+            "D": "La vancomicina se reserva para SARM e infecciones nosocomiales — no es el tratamiento empírico apropiado para la parotiditis adquirida en la comunidad."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Selección de antibióticos en la sialoadenitis bacteriana aguda; guía de prescripción antimicrobiana del NICE",
+          "trial": "Brook I. Head Neck (2008): 245 casos de infección aguda de glándulas salivales — el co-amoxiclav alcanzó resolución clínica en el 92% de los casos comunitarios; establecido como terapia empírica estándar.",
+          "pearl": "Parotiditis bacteriana aguda, comunitaria: CO-AMOXICLAV empíricamente. Cubre S. aureus (SASM) + estreptococos + anaerobios orales. Nosocomial/riesgo SARM: añadir vancomicina. Siempre obtener cultivo de la secreción purulenta.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q9",
+        "stem": "El síndrome de Sjögren conlleva un riesgo significativamente aumentado de qué tipo de neoplasia:",
+        "options": {
+          "A": "Carcinoma epidermoide de la parótida",
+          "B": "Carcinoma mucoepidermoide",
+          "C": "Linfoma MALT (linfoma de tejido linfoide asociado a mucosas)",
+          "D": "Transformación maligna del adenoma pleomorfo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El síndrome de Sjögren se asocia a un riesgo 44 veces mayor de linfoma MALT (linfoma de células B de la zona marginal extranodal de bajo grado). Esto refleja la estimulación crónica de linfocitos B y la formación de centros germinales en las glándulas salivales y lagrimales del síndrome de Sjögren. El linfoma MALT suele presentarse como una masa glandular indolora, persistente y asimétrica en crecimiento (frecuentemente parotídea). Los síntomas B (fiebre, sudoración nocturna, pérdida de peso) sugieren transformación a grado más alto. Cualquier crecimiento glandular inexplicable en un paciente con Sjögren requiere biopsia urgente.",
+          "wrong": {
+            "A": "El carcinoma epidermoide no está específicamente asociado al síndrome de Sjögren — su riesgo depende del consumo de tabaco y alcohol.",
+            "B": "El carcinoma mucoepidermoide es la neoplasia maligna parotídea primaria más frecuente en la población general, pero no está específicamente vinculado al síndrome de Sjögren.",
+            "D": "La transformación maligna del adenoma pleomorfo (carcinoma ex adenoma pleomorfo) es una complicación conocida de los tumores de glándulas salivales, pero no es un riesgo específicamente asociado al síndrome de Sjögren."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Síndrome de Sjögren: riesgo de linfoma y seguimiento",
+          "trial": "Zintzaras E et al. Am J Med (2005): metaanálisis del síndrome de Sjögren y riesgo de linfoma — riesgo relativo 44 veces mayor de linfoma MALT respecto a la población general; el riesgo es mayor en pacientes con agrandamiento parotídeo, crioglobulinemia y C3/C4 bajos.",
+          "pearl": "Síndrome de Sjögren = riesgo de linfoma MALT 44 veces mayor. Señales de alerta: agrandamiento glandular asimétrico, adenopatías, síntomas B. Cualquier masa nueva en Sjögren = biopsia urgente. Revisión clínica anual para signos de linfoma.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q10",
+        "stem": "El 'síndrome de la hora de la comida' en la patología de las glándulas salivales describe:",
+        "options": {
+          "A": "Agrandamiento parotídeo bilateral que empeora tras comidas copiosas en el síndrome de Sjögren",
+          "B": "Dolor y tumefacción glandular unilateral desencadenados durante las comidas, que se alivian entre ellas, causados por obstrucción ductal por cálculos",
+          "C": "Enrojecimiento facial y sudoración al comer tras parotidectomía (síndrome de Frey)",
+          "D": "Trismo y dolor durante las comidas por espasmo del masetero en el absceso parotídeo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El síndrome de la hora de la comida es la presentación clínica clásica de la sialolitiasis. El mecanismo: un cálculo obstruye parcial o totalmente la luz ductal → la estimulación salival normal durante la comida → aumento de presión proximal a la obstrucción → tumefacción y dolor glandular agudo → finaliza la comida, el flujo disminuye → descompresión → resolución. El ciclo se repite de forma fiable en cada comida. La palpación bimanual puede revelar el cálculo en la región anterior del suelo de la boca.",
+          "wrong": {
+            "A": "El agrandamiento parotídeo bilateral en el síndrome de Sjögren empeora de forma gradual y no se desencadena de forma fiable durante las comidas — refleja infiltración glandular crónica, no obstrucción ductal.",
+            "C": "El síndrome de Frey (sudoración gustativa) es una complicación postparotidectomía — la conexión con la 'hora de la comida' existe pero no se denomina 'síndrome de la hora de la comida' en la terminología estándar.",
+            "D": "El trismo por absceso parotídeo es un signo continuo, no un fenómeno cíclico relacionado con las comidas."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Presentación clínica de la sialolitiasis",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): el síndrome de la hora de la comida estuvo presente en el 89% de los casos sintomáticos de sialolitiasis en una revisión sistemática de 6.820 casos — síntoma clínico más sensible para el diagnóstico.",
+          "pearl": "SÍNDROME DE LA HORA DE LA COMIDA = sialolitiasis. Dolor + tumefacción cíclicos desencadenados al comer (estimulación del flujo) → resolución entre comidas (descompresión). Patognomónico de obstrucción ductal por cálculo.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q11",
+        "stem": "En la submandibulectomía, la lesión del nervio lingual (V3) produce qué déficit:",
+        "options": {
+          "A": "Pérdida del movimiento lingual — la lengua se desvía al lado ipsilateral en la protrusión",
+          "B": "Anestesia lingual ipsilateral y alteración del gusto (pérdida del gusto a través de la cuerda del tímpano que viaja con el nervio lingual)",
+          "C": "Paresia del labio inferior en el lado ipsilateral",
+          "D": "Boca seca por denervación de la glándula submandibular"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio lingual (rama de V3) transporta: (1) fibras sensitivas generales de los dos tercios anteriores de la lengua (dolor, temperatura, tacto); y (2) fibras del gusto de los dos tercios anteriores de la lengua a través de la cuerda del tímpano (rama del NC VII), que se une al nervio lingual proximal al triángulo submandibular. La lesión produce anestesia lingual ipsilateral y alteración del gusto en el lado ipsilateral. El nervio lingual discurre sobre el conducto de Wharton en el triángulo submandibular y debe identificarse y protegerse antes de seccionar el conducto.",
+          "wrong": {
+            "A": "La desviación lingual en la protrusión (hacia el lado ipsilateral) resulta de la lesión del nervio hipogloso (NC XII) — no del nervio lingual. El nervio hipogloso proporciona inervación motora a la lengua.",
+            "C": "La paresia del labio inferior resulta de la lesión de la rama mandibular marginal del NC VII — no del nervio lingual.",
+            "D": "La denervación de la glándula submandibular no produce las manifestaciones clínicas dominantes de boca seca — la glándula salival se está extirpando mediante la submandibulectomía; el efecto de la lesión del nervio lingual es sensitivo/gustativo."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Complicaciones de la submandibulectomía: lesión nerviosa",
+          "trial": "Ampil FL et al. Head Neck Surg (1988): análisis de complicaciones de 320 submandibulectomías — lesión del nervio lingual en el 5,6% de los casos (con entumecimiento lingual y alteración del gusto); en su mayoría transitorias por tracción.",
+          "pearl": "Lesión del NERVIO LINGUAL = anestesia lingual + pérdida del gusto (2/3 anteriores). Lesión del HIPOGLOSO = desviación lingual ipsilateral en la protrusión. Lesión del MANDIBULAR MARGINAL = paresia del labio inferior. Conocer los tres — se preguntan con frecuencia.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q12",
+        "stem": "La parotiditis recurrente juvenil (PRJ) se trata con mayor eficacia mediante:",
+        "options": {
+          "A": "Antibióticos profilácticos a largo plazo hasta la pubertad",
+          "B": "Parotidectomía superficial para extirpar la glándula enferma",
+          "C": "Irrigación ductal sialendoscópica con suero fisiológico y cortisona",
+          "D": "Inmunosupresión con corticosteroides por la etiología autoinmune subyacente"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La irrigación ductal sialendoscópica con suero fisiológico y cortisona es a la vez diagnóstica (al revelar la sialectasia difusa característica de la PRJ) y terapéutica. Shacham y Nahlieli (2013) demostraron que el lavado sialendoscópico produjo remisión a largo plazo en aproximadamente el 90% de los pacientes con PRJ con una sola sesión. El procedimiento identifica estenosis ductales y sialectasia, limpia mecánicamente los tapones mucosos y los detritos inflamatorios, y administra tratamiento antiinflamatorio local. Es mínimamente invasivo y conservador de la glándula.",
+          "wrong": {
+            "A": "Los antibióticos profilácticos a largo plazo no son el tratamiento estándar de la PRJ — abordan la infección bacteriana recurrente de forma sintomática pero no tratan la patología ductal subyacente.",
+            "B": "La parotidectomía superficial no está indicada en la PRJ — es una afección benigna y autolimitada en la mayoría de los niños que se resuelve en la pubertad. La cirugía conlleva riesgo para el nervio facial y es innecesaria.",
+            "D": "La PRJ no tiene una etiología autoinmune probada — la inmunosupresión con corticosteroides no es el tratamiento estándar."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Parotiditis recurrente juvenil: manejo sialendoscópico",
+          "trial": "Shacham R & Nahlieli O. J Oral Maxillofac Surg (2013): irrigación sialendoscópica en 84 episodios de PRJ — el 90% mostró remisión clínica a los 12 meses de seguimiento con una sola intervención; establecido como estándar de cuidado.",
+          "pearl": "Parotiditis Recurrente Juvenil (PRJ) = trastorno de glándulas salivales más frecuente en niños. Sialendoscopia muestra sialectasia difusa (dilatación ductal). Tratamiento: irrigación sialendoscópica con suero fisiológico + cortisona = 90% remisión. Conservador de la glándula. Se resuelve en la pubertad en la mayoría de los casos.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q13",
+        "stem": "¿Dónde desemboca el conducto de Wharton en la cavidad oral?",
+        "options": {
+          "A": "Frente al segundo molar superior en la mucosa yugal",
+          "B": "En la carúncula sublingual (papila) adyacente al frenillo lingual",
+          "C": "A lo largo del pliegue sublingual (plica sublingualis) como múltiples pequeños orificios",
+          "D": "En el paladar blando posterior adyacente a la úvula"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El conducto de Wharton (el conducto submandibular principal) desemboca en la carúncula sublingual — una pequeña papila (caruncula sublingualis) situada a ambos lados del frenillo lingual en el suelo de la boca. Estos dos orificios son visibles en la inspección del suelo de la boca y pueden ser canulados con dilatadores lacrimales finos para sialografía o sialendoscopia. Los cálculos alojados cerca de la desembocadura ductal pueden ser visibles o palpables en este lugar.",
+          "wrong": {
+            "A": "El orificio frente al segundo molar superior corresponde al conducto de Stensen (parotídeo) — no al de Wharton.",
+            "C": "Los múltiples pequeños orificios a lo largo del pliegue sublingual corresponden a los conductos de Rivinus de la glándula sublingual — no al conducto de Wharton.",
+            "D": "No existen desembocaduras de grandes conductos salivales adyacentes a la úvula — no es la anatomía correcta de ninguna glándula salival mayor."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Anatomía de las glándulas salivales",
+          "trial": "Carlson ER & Ord RA. Textbook and Color Atlas of Salivary Gland Pathology (2008): referencia anatómica definitiva — apertura del conducto de Wharton en la carúncula sublingual; el de Stensen frente al segundo molar superior. Anatomía de examen de acceso.",
+          "pearl": "Conducto de Wharton (submandibular) → carúncula sublingual (suelo de la boca, junto al frenillo). Conducto de Stensen (parótida) → frente al segundo molar superior (mucosa yugal). Conductos de Rivinus (sublingual) → pliegue sublingual. CONOCER LOS TRES.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "F4-Q14",
+        "stem": "Una incisión submandibular para el drenaje de un absceso se realiza a un mínimo de 2 cm por debajo del borde inferior de la mandíbula principalmente para proteger qué estructura:",
+        "options": {
+          "A": "Nervio lingual",
+          "B": "Nervio hipogloso",
+          "C": "Rama mandibular marginal del NC VII",
+          "D": "Vena yugular interna"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La rama mandibular marginal del NC VII transcurre normalmente justo por encima del borde inferior de la mandíbula, cruzando los vasos faciales. En aproximadamente el 20% de los individuos, desciende por debajo del borde inferior entre 1 y 1,5 cm. Situar la incisión submandibular al menos 2 cm por debajo del borde inferior mandibular (en las líneas de Langer cuando sea posible) protege este nervio. Su lesión produce paresia ipsilateral del labio inferior por denervación del depresor del ángulo de la boca y del depresor del labio inferior — un déficit estético y funcional visible y permanente.",
+          "wrong": {
+            "A": "El nervio lingual se encuentra en el suelo de la boca, superior al espacio submandibular — está en riesgo durante la disección profunda del suelo de la boca, no por el nivel de la incisión cutánea.",
+            "B": "El nervio hipogloso es profundo en el triángulo submandibular, sobre el músculo hiogloso — está protegido por la técnica de profundidad de disección, no por el nivel de la incisión.",
+            "D": "La vena yugular interna es profunda en el cuello y no está en riesgo por una incisión cutánea submandibular a este nivel."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Técnica de incisión submandibular: protección del nervio mandibular marginal",
+          "trial": "Dingman RO & Grabb WC. Plast Reconstr Surg (1962): estudio anatómico definitivo del trayecto de la rama mandibular marginal — desciende por debajo de la mandíbula en el 19% de los sujetos; se recomienda una incisión mínima de 2 cm por debajo de la mandíbula. Sigue citándose como referencia estándar.",
+          "pearl": "Incisión submandibular = mínimo 2 cm por debajo del borde inferior mandibular = protege la rama MANDIBULAR MARGINAL del NC VII. El nervio desciende por debajo de la mandíbula en el 20%. Lesión = paresia del labio inferior. El plano de disección subplatismal proporciona protección adicional.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q15",
+        "stem": "La prueba de Schirmer en la valoración del síndrome de Sjögren mide:",
+        "options": {
+          "A": "La tasa de flujo salival mediante una copa de recogida cronometrada",
+          "B": "La producción lagrimal — una humectación del papel de filtro ≤5 mm en 5 minutos es un resultado positivo",
+          "C": "El recuento de linfocitos en la biopsia de la glándula submandibular",
+          "D": "El título de anticuerpos anti-SSA en suero"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La prueba de Schirmer mide la función de la glándula lagrimal: se coloca una tira de papel de filtro estándar en el fondo de saco conjuntival en el canto lateral sin anestesia; tras 5 minutos, se mide la longitud del papel humedecido. Humectación normal: ≥15 mm en 5 minutos. Un resultado de ≤5 mm en 5 minutos es un resultado positivo que indica deficiencia en la producción lagrimal, y puntúa 1 punto en los criterios de Sjögren ACR/EULAR 2016. La prueba cuantifica el componente de queratoconjuntivitis seca (ojos secos) del síndrome de Sjögren.",
+          "wrong": {
+            "A": "La tasa de flujo salival se mide mediante la prueba de flujo salival total no estimulado (escupir cronometrado en un tubo graduado) — no con la prueba de Schirmer. Una tasa de flujo <0,1 mL/min es un criterio salival positivo.",
+            "C": "La puntuación focal de la biopsia de glándulas salivales menores evalúa la infiltración linfocitaria — no la prueba de Schirmer.",
+            "D": "El título de anticuerpos anti-SSA es un análisis de sangre — no la prueba de Schirmer."
+          },
+          "guideline": "Criterios de Clasificación del Síndrome de Sjögren ACR/EULAR 2016 — Prueba de Schirmer: ≤5 mm/5 min = positivo = 1 punto",
+          "trial": "Shiboski CH et al. Arthritis Rheumatol (2017): validación de la prueba de Schirmer en los criterios de clasificación del Sjögren — sensibilidad del 61%, especificidad del 70% cuando se usa sola; mayor sensibilidad en combinación con tinción ocular.",
+          "pearl": "Prueba de SCHIRMER = LÁGRIMAS. Papel de filtro en el fondo de saco conjuntival → ≤5 mm húmedo en 5 min = POSITIVO = disfunción de la glándula lagrimal = criterio de queratoconjuntivitis seca del Sjögren (1 punto en ACR/EULAR).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q16",
+        "stem": "¿Qué propiedad de la secreción de la glándula submandibular la predispone a la formación de cálculos en comparación con la secreción parotídea?",
+        "options": {
+          "A": "Mayor volumen de producción que hace más probable la supersaturación",
+          "B": "pH más ácido que favorece el depósito de calcio",
+          "C": "Secreción más alcalina, viscosa y rica en calcio combinada con drenaje ascendente",
+          "D": "Mayor concentración de amilasa que nuclea la formación de cristales de calcio"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La formación de cálculos submandibulares se ve favorecida por: (1) secreción MÁS ALCALINA (pH ~6,8 vs pH parotídeo ~5,8) — a mayor pH, el fosfato cálcico es menos soluble y precipita con mayor facilidad; (2) mayor contenido en CALCIO y FOSFATO — la glándula submandibular segrega más calcio que la parótida; (3) secreción MÁS VISCOSA/MUCOSA — la glándula submandibular es mixta serosa/mucosa frente a la parótida, exclusivamente serosa, y las secreciones mucosas son más espesas y con mayor tendencia a formar restos sobre los que se nuclean los cristales; (4) DRENAJE ASCENDENTE — el conducto de Wharton drena hacia arriba contra la gravedad hasta el suelo de la boca, enlenteciendo el flujo. Los cuatro factores se sinergizan para producir la predominancia submandibular del 80–90% en la sialolitiasis.",
+          "wrong": {
+            "A": "El volumen de producción es en realidad mayor en la glándula submandibular (aporta ~70% de la saliva en reposo) — pero esto NO predispone a la formación de cálculos; de hecho, un flujo elevado es protector.",
+            "B": "Un pH más ácido en realidad PREVENDRÍA la precipitación de calcio (el calcio es más soluble en condiciones ácidas). Un pH más ALCALINO = mayor formación de cálculos.",
+            "D": "La amilasa se encuentra predominantemente en la secreción parotídea — no nuclea la formación de cristales de calcio."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Fisiopatología de la sialolitiasis",
+          "trial": "Marchal F & Dulguerov P. Arch Otolaryngol Head Neck Surg (2003): análisis bioquímico de cálculos salivales — composición de fosfato cálcico en el 94%; mayor concentración de calcio y pH alcalino de la secreción submandibular confirmados como los factores predisponentes dominantes para la formación de cálculos.",
+          "pearl": "Cálculos de glándula submandibular: pH ALCALINO + CALCIO ELEVADO + secreción VISCOSA Y MUCOSA + DRENAJE ASCENDENTE = tormenta perfecta para la formación de cálculos. Cuatro factores explican la predominancia submandibular del 80–90%.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q17",
+        "stem": "La inyección de toxina botulínica A se emplea como tratamiento de qué complicación de las glándulas salivales:",
+        "options": {
+          "A": "Parotiditis bacteriana aguda",
+          "B": "Sialolitiasis en el conducto parotídeo",
+          "C": "Síndrome de Frey (sudoración gustativa tras parotidectomía)",
+          "D": "Xerostomía por síndrome de Sjögren"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La toxina botulínica A (BTX-A) es muy eficaz para el síndrome de Frey. La BTX-A inyectada por vía intradérmica en la piel sobre el lecho parotídeo bloquea la transmisión colinérgica hacia las glándulas sudoríparas — el mismo mecanismo que causa la sudoración gustativa aberrante. Un solo tratamiento produce aproximadamente 12–18 meses de alivio sintomático, con inyecciones repetidas necesarias para un beneficio sostenido. Las tasas de respuesta son de aproximadamente el 90% en cuanto a la mejoría sintomática. Es el tratamiento médico más eficaz para el síndrome de Frey establecido.",
+          "wrong": {
+            "A": "La toxina botulínica no se utiliza para tratar la parotiditis bacteriana aguda — los antibióticos y la hidratación son el tratamiento.",
+            "B": "La toxina botulínica no se emplea en la sialolitiasis — los cálculos requieren extracción endoscópica o quirúrgica.",
+            "D": "Paradójicamente, la BTX-A inyectada en las glándulas salivales se ha utilizado para REDUCIR el flujo salival en pacientes con sialorrea — empeoraría la xerostomía en pacientes con síndrome de Sjögren en lugar de tratarla."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Manejo del síndrome de Frey: BTX-A como tratamiento de elección",
+          "trial": "Clayman MA et al. Head Neck (2006): revisión sistemática — la BTX-A logró una reducción ≥75% de los síntomas del síndrome de Frey en el 90% de los pacientes; duración del efecto aproximadamente 12–18 meses.",
+          "pearl": "BTX-A para el SÍNDROME DE FREY: inyección intradérmica en la zona cutánea afectada. Bloquea la estimulación colinérgica de las glándulas sudoríparas. Tasa de respuesta del 90%, duración de 12–18 meses, se requieren inyecciones repetidas. Confirmar el diagnóstico con la prueba de yodo-almidón de Minor primero.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q18",
+        "stem": "La sialendoscopia para la sialolitiasis submandibular presenta qué ventaja principal sobre los abordajes quirúrgicos abiertos:",
+        "options": {
+          "A": "Permite extraer cálculos de cualquier tamaño en cualquier localización del sistema ductal",
+          "B": "Permite la visualización ductal y la extracción del cálculo preservando la glándula — evitando la submandibulectomía",
+          "C": "No requiere anestesia general y puede realizarse en consultas externas",
+          "D": "Produce una dilatación ductal permanente que previene la recurrencia"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La ventaja clave de la sialendoscopia es la preservación glandular. El manejo tradicional de la sialolitiasis submandibular no susceptible de extracción transoral requería submandibulectomía. La sialendoscopia permite la visualización directa de la luz ductal, extracción con cestillo de cálculos ≤4 mm, litotricia intraductal para los cálculos más grandes y tratamiento de las estenosis ductales — todo ello dejando la glándula in situ. La submandibulectomía se reserva actualmente para las glándulas con daño parenquimatoso irreversible o los cálculos que no pueden recuperarse endoscópicamente.",
+          "wrong": {
+            "A": "La sialendoscopia no puede extraer TODOS los cálculos — los de >8–10 mm o firmemente impactados en el hilio glandular pueden no ser recuperables endoscópicamente y requieren cirugía abierta.",
+            "C": "La sialendoscopia suele requerir anestesia general o sedación profunda — no se realiza habitualmente solo bajo anestesia local, especialmente para procedimientos terapéuticos (extracción de cálculos).",
+            "D": "La sialendoscopia no dilata permanentemente el conducto — puede tratar estenosis y extraer cálculos, pero las estenosis pueden recurrir."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Sialendoscopia: indicaciones y preservación glandular",
+          "trial": "Koch M & Iro H. Acta Otolaryngol (2010): sialendoscopia en 532 casos de sialolitiasis submandibular — preservación glandular conseguida en el 87% de los casos que anteriormente habrían requerido submandibulectomía.",
+          "pearl": "SIALENDOSCOPIA = preservación glandular para la sialolitiasis. Ha reemplazado a la submandibulectomía para la mayoría de los cálculos del conducto medio y posterior. La submandibulectomía se reserva actualmente para los cálculos del hilio, los no recuperables endoscópicamente o la glándula con daño irreversible.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "F4-Q19",
+        "stem": "Una mujer de 62 años con síndrome de Sjögren conocido y agrandamiento parotídeo bilateral desarrolla un rápido crecimiento de la parótida derecha en 4 semanas, con adenopatías cervicales, sudoración nocturna y pérdida de peso de 5 kg. La investigación inmediata más adecuada es:",
+        "options": {
+          "A": "Repetición del título de anticuerpos anti-SSA",
+          "B": "Biopsia con aguja gruesa ecoguiada de la parótida",
+          "C": "Ensayo de prednisolona 40 mg/día durante 2 semanas",
+          "D": "Medición de la tasa de flujo salival"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este cuadro clínico (agrandamiento glandular asimétrico rápido + síntomas B en un paciente con Sjögren) es muy sospechoso de transformación a linfoma MALT. Se requiere diagnóstico tisular urgente — la biopsia con aguja gruesa de la parótida bajo guía ecográfica proporciona material histológico para el diagnóstico, incluida la clasificación del subtipo de linfoma, inmunohistoquímica y marcadores moleculares. Esto guiará el manejo oncológico. El retraso en el diagnóstico arriesga la progresión a linfoma de mayor grado.",
+          "wrong": {
+            "A": "Los títulos de anticuerpos anti-SSA no diagnostican linfoma — reflejan la actividad de la enfermedad de Sjögren, no la transformación linfomatosa.",
+            "C": "Un ensayo de prednisolona sin diagnóstico tisular es peligroso — si se trata de un linfoma, los esteroides pueden encoger temporalmente el tumor pero retrasar el diagnóstico y el tratamiento definitivos.",
+            "D": "La medición de la tasa de flujo salival se utiliza para el diagnóstico del síndrome de Sjögren, no para la investigación del linfoma."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Vigilancia del linfoma MALT en el síndrome de Sjögren: biopsia urgente ante crecimiento rápido",
+          "trial": "Zintzaras E et al. Am J Med (2005): riesgo de Sjögren y linfoma — riesgo relativo 44×; los síntomas B y el agrandamiento unilateral rápido identificados como las dos características de mayor sensibilidad que justifican biopsia urgente.",
+          "pearl": "Agrandamiento parotídeo asimétrico rápido + síntomas B en paciente con Sjögren = LINFOMA MALT HASTA DEMOSTRAR LO CONTRARIO. Biopsia con aguja gruesa urgente. NO realizar ensayo con esteroides sin diagnóstico histológico.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "F4-Q20",
+        "stem": "La glándula que aporta aproximadamente el 70% del volumen salival en reposo (no estimulado) es:",
+        "options": {
+          "A": "Glándula parótida",
+          "B": "Glándula submandibular",
+          "C": "Glándula sublingual",
+          "D": "Glándulas salivales menores en conjunto"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La glándula submandibular aporta aproximadamente el 70% de la producción salival basal (no estimulada) en reposo. La glándula parótida, siendo la glándula salival más grande, es el principal contribuyente durante la salivación estimulada (por ejemplo, al comer), pero produce relativamente poco en reposo. En reposo: submandibular ~70%, parótida ~25%, sublingual ~5%. Durante la estimulación: la parótida se convierte en la productora dominante (hasta el 50–60% del flujo estimulado). Esta distinción es relevante para entender por qué la reducción del flujo parotídeo (deshidratación, anticolinérgicos) produce parotiditis aguda — la parótida depende del flujo estimulado para mantener la permeabilidad del conducto.",
+          "wrong": {
+            "A": "La glándula parótida domina la salivación ESTIMULADA pero solo aporta ~25% del flujo en reposo — no es la principal productora en reposo.",
+            "C": "La glándula sublingual aporta aproximadamente el 5% del flujo salival en reposo — una contribución relativamente menor.",
+            "D": "Las glándulas salivales menores en conjunto aportan una pequeña cantidad de saliva en reposo (<5%) y no son la fuente dominante."
+          },
+          "guideline": "BAOMS Salivary Gland Disease Guidelines 2021 — Fisiología de las glándulas salivales",
+          "trial": "Humphrey SP & Williamson RT. J Prosthet Dent (2001): revisión de fisiología salival — submandibular 70% en reposo, parótida 20–25% en reposo, sublingual 5% — datos fundacionales para comprender la función de las glándulas salivales.",
+          "pearl": "Saliva en REPOSO: submandibular = 70%. Parótida = 25% en reposo pero DOMINANTE durante la estimulación. Por eso la parótida tiene MAYOR RIESGO durante la deshidratación/anticolinérgicos — depende del flujo estimulado para irrigar su conducto. Deshidratación = reducción del flujo parotídeo estimulado = infección bacteriana ascendente.",
+          "difficulty": 3
+        }
+      }
+    ]
+  }
+}

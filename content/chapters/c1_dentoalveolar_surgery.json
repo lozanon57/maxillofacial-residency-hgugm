@@ -1,0 +1,642 @@
+{
+  "id": "C1",
+  "title": "Dentoalveolar Surgery: Third Molars and Surgical Extractions",
+  "subtitle": "Block C — Dentoalveolar Surgery and Implantology",
+  "block": "C",
+  "block_name": "Dentoalveolar Surgery and Implantology",
+  "level": "R1-2",
+  "reading_time_min": 38,
+  "guidelines_version": "EACMFS Dentoalveolar Surgery Guidelines 2023 · NICE Guideline NG35 (Oral Health) 2024 · AAOMS Parameters of Care 2023",
+  "textbook_refs": [
+    "Hupp JR, Ellis E, Tucker MR. Contemporary Oral and Maxillofacial Surgery, 7th Ed (2019)",
+    "Pell GJ, Gregory GT. Impacted mandibular third molars: classification and modified technique. Oral Surg Oral Med Oral Pathol (1933)",
+    "Winter GB. Principles of Exodontia as Applied to the Impacted Mandibular Third Molar (1926)",
+    "Sedaghatfar M et al. Panoramic radiographic findings as predictors of inferior alveolar nerve exposure following third molar extractions. J Oral Maxillofac Surg (2005)"
+  ],
+  "learning_objectives": [
+    "Classify impacted third molars using the Pell-Gregory and Winter classification systems",
+    "Identify radiographic signs of inferior alveolar nerve proximity on panoramic radiograph and CBCT",
+    "Plan surgical extraction using appropriate incision, osteotomy, and tooth sectioning techniques",
+    "Counsel patients regarding common complications: dry socket, IAN injury, lingual nerve injury, and infection",
+    "Manage postoperative complications including alveolar osteitis, haemorrhage, and trismus",
+    "Apply evidence-based indications for prophylactic removal versus retention of asymptomatic impacted third molars"
+  ],
+  "sections": [
+    {
+      "id": "C1-S1",
+      "title": "Classification of Impacted Third Molars",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Impacted third molars (wisdom teeth) are teeth that fail to erupt into their normal functional position due to obstruction from adjacent teeth, bone, or soft tissue. Classification systems provide standardised communication and guide surgical planning.\n\n**Winter classification (1926)** describes the angulation of the impacted third molar relative to the long axis of the adjacent second molar:\n- **Mesioangular:** Crown tilted toward the second molar (most common, ~43%); creates a wedge that can be leveraged during extraction\n- **Vertical:** Long axis parallel to second molar (~38%); extraction requires significant bone removal posteriorly\n- **Distoangular:** Crown tilted away from second molar (~6%); most difficult to extract — disimpaction requires distal bone removal and the root is in an unfavourable position relative to the inferior alveolar nerve\n- **Horizontal:** Crown pointing directly at the root of the second molar (~3%); requires tooth sectioning in most cases\n- **Inverted:** Crown pointing inferiorly (rare)\n\n**Pell-Gregory classification (1933)** uses two parameters:\n\n*Relationship to the anterior border of the ramus (Class I–III):*\n- **Class I:** Sufficient space between ramus and distal second molar for the crown width\n- **Class II:** Less than sufficient space; part of the crown is covered by ramus bone\n- **Class III:** Entire tooth embedded within the ramus\n\n*Depth relative to the occlusal surface of the second molar (Position A–C):*\n- **Position A:** Occlusal surface at or above the cemento-enamel junction (CEJ) of the second molar\n- **Position B:** Occlusal surface between the CEJ and the root apex\n- **Position C:** Occlusal surface below the root apex"
+        },
+        {
+          "type": "table",
+          "title": "Pell-Gregory Classification: Difficulty Assessment",
+          "headers": ["Pell-Gregory Class/Position", "Surgical Difficulty", "Primary Challenge"],
+          "rows": [
+            ["I-A", "Easiest", "Simple elevation; minimal bone removal"],
+            ["I-B or II-A", "Moderate", "Some bone removal needed; access adequate"],
+            ["II-B or III-A", "Difficult", "Significant bone removal; ramus overlap"],
+            ["III-B, II-C, III-C", "Most difficult", "Deep impaction; high IAN proximity risk; tooth sectioning usually required"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Most Difficult Angulation",
+          "content": "Distoangular impaction is the most difficult angulation for mandibular third molar extraction. The crown points away from the second molar, toward the distal/posterior, requiring removal of distal ramus bone to create a disimpaction path. The root apices lie close to the IAN canal in an unfavourable position, and there is no natural wedge mechanism to assist delivery. Mesioangular, while the most common, is generally considered the easiest via a distal wedge delivery technique."
+        }
+      ]
+    },
+    {
+      "id": "C1-S2",
+      "title": "Preoperative Assessment and Radiographic Evaluation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Clinical assessment** includes oral opening (trismus from pericoronal infection), proximity to second molar (caries, periodontal defect on distal second molar), pericoronal tissue condition, and patient medical history (anticoagulation, bisphosphonate use, immunosuppression).\n\n**Panoramic radiograph (OPG)** is the standard first-line imaging for third molar assessment. Key measurements and findings include:\n\n**Inferior alveolar nerve proximity signs on OPG** (Sedaghatfar et al., 2005; Rood & Shehab, 1990):\n1. **Darkening of the root** at the nerve crossing — the most significant sign; indicates the canal passes through the root\n2. **Deflection of the root apex** — root bends around the canal\n3. **Narrowing of the root** — root constricts as the canal passes through\n4. **Loss of the white line (lamina dura)** of the canal at the root interface\n5. **Diversion of the canal** — canal changes direction at the root\n6. **Bifid root apex** — canal bifurcation imprints on the root\n\nIf three or more of these signs are present, the risk of IAN exposure is significantly elevated (approximately 20-fold increased risk of IAN injury). In these cases, **CBCT** is recommended to precisely define the three-dimensional relationship between the root apices and the IAN canal.\n\n**NICE Guideline NG35 (2024)** and **EACMFS guidelines** both recommend CBCT when OPG shows two or more high-risk radiographic signs, before proceeding with extraction of deeply impacted mandibular third molars with potential IAN proximity.\n\n**Coronectomy** (deliberate partial removal of the crown, leaving the roots in situ) is an evidence-based alternative when the root is in direct contact with the IAN canal on CBCT and the roots are not mobile. This dramatically reduces IAN injury risk while removing the source of symptoms."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Ignoring Darkening of the Root",
+          "content": "Darkening (increased radiolucency) of the mandibular third molar root at the level of the inferior alveolar canal on OPG is the single most predictive sign of nerve contact (canal passes through the root). This sign is often underestimated. When darkening is seen, CBCT is mandatory before extraction to assess whether coronectomy is preferable to full extraction. Proceeding with full extraction without CBCT in this scenario significantly increases IAN injury risk."
+        }
+      ]
+    },
+    {
+      "id": "C1-S3",
+      "title": "Surgical Technique: Incision, Bone Removal, and Tooth Sectioning",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The surgical approach to impacted mandibular third molar extraction comprises: incision and flap design, bone removal, tooth sectioning, delivery, and wound closure.\n\n**Incision and flap design:** The standard envelope flap uses a sulcular incision along the distal aspect of the second molar with a releasing incision anteriorly (usually at the mesial of the second molar or the distal of the first molar). The **Ward incision** (also called the bayonet or hockey-stick incision) makes the releasing incision at the distobuccal line angle of the second molar — this variant provides slightly improved access and is widely used. The flap must be of adequate size to provide access without tearing; it is reflected full thickness to bone. The **lingual flap** should not be reflected — the lingual periosteum provides the lingual plate perfusion and protects the lingual nerve; instruments should not be placed lingual to the bone during bone removal.\n\n**Bone removal:** A handpiece with a round bur removes bone from the buccal and distal aspects of the tooth crown. A trough is created on the buccal side for instrument placement. Bone removal should expose the CEJ of the third molar and provide adequate space for the delivery path. The amount of bone removal is guided by the Pell-Gregory classification — deeper impactions require more bone removal.\n\n**Tooth sectioning:** Sectioning divides the tooth into multiple pieces that can be individually delivered without requiring excessive bone removal or force. Common sectioning patterns:\n- **Crown-root separation:** Cut horizontally at the CEJ; deliver crown first, then roots\n- **Buccolingual root separation:** For divergent roots, separate mesial and distal roots and deliver individually\n- **Crown sectioning:** For horizontal impactions, cut the crown sagittally to remove the crown piece impacted against the second molar first\n\nSectioning is performed with a bur in a straight handpiece or surgical drill, cutting from buccal to lingual (but NOT through the lingual cortex — stop 1–2 mm before full penetration and complete with an osteotome).\n\n**Delivery:** Elevators (Winter, Cryer, Pott's) are used to deliver the sectioned pieces using the principle of leverage, wedging, or wheel-and-axle. Never apply excessive force — reassess the sectioning plan if resistance is excessive."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Lingual Nerve Protection",
+          "content": "The lingual nerve runs 2–3 mm below the lingual plate of the mandible in the retromolar region and can be at risk during bone removal and tooth sectioning. The single most important protective measure is not reflecting the lingual periosteum and not placing instruments lingual to the bone during surgery. The lingual nerve runs superior and medial to the mylohyoid muscle and is particularly vulnerable if a lingual retractor is placed forcibly against the lingual cortex."
+        }
+      ]
+    },
+    {
+      "id": "C1-S4",
+      "title": "Coronectomy: Indications and Evidence",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Coronectomy (intentional root retention, or deliberate partial odontectomy) is the planned removal of the crown of an impacted mandibular third molar while leaving the roots in situ, specifically to avoid displacement of the roots into the inferior alveolar nerve canal.\n\n**Indications:**\n- CBCT-confirmed direct contact or groove-in-root from the IAN canal\n- Roots not mobile (stable roots that will not migrate and cause delayed complications)\n- No infection at the tooth site (pericoronal infection is a contraindication — infected roots left in situ will not heal)\n- No pathology (cyst, tumour) associated with the follicle\n\n**Technique:** A standard buccal flap is raised. The crown is sectioned at a level at least 3 mm below the level of the alveolar crest on the buccal side, using a bur. All enamel must be removed from the retained root surface (enamel stimulates epithelial downgrowth that prevents healing). The pulp is not treated — it will degenerate and the root will ultimately undergo external resorption or remain quiescent.\n\n**Evidence:** The NICE-commissioned Cochrane review (Renton et al.) and subsequent meta-analyses show:\n- IAN temporary injury rate after coronectomy: 0.5–1% vs 0.5–8% after full extraction for high-risk cases\n- IAN permanent injury rate after coronectomy: ~0.1% vs 0.5–3% after full extraction\n- Root migration occurs in ~25–30% of cases within 2 years — roots migrate away from the canal, potentially making subsequent removal safer if needed\n- Secondary infection requiring root removal: 5–10% of coronectomies\n\nCoronectomy is now an evidence-based standard of care for impacted mandibular third molars with confirmed direct IAN contact, endorsed by EACMFS, BAOMS, and AAOMS."
+        },
+        {
+          "type": "table",
+          "title": "Coronectomy vs Full Extraction: Complication Comparison for High-Risk (IAN Contact) Cases",
+          "headers": ["Outcome", "Full Extraction", "Coronectomy", "Notes"],
+          "rows": [
+            ["Temporary IAN injury", "0.5–8%", "0.5–1%", "Dramatically reduced with coronectomy for IAN-contact cases"],
+            ["Permanent IAN injury", "0.5–3%", "~0.1%", "Near elimination of permanent deficit risk"],
+            ["Dry socket (alveolar osteitis)", "25–35% (smokers); 5–15% (non-smokers)", "N/A (no extraction socket)", "Coronectomy eliminates dry socket risk"],
+            ["Root migration requiring removal", "N/A", "25–30% over 2 years", "Most migrations away from nerve; removal at 2 years usually safer"],
+            ["Secondary infection", "Low (healed socket)", "5–10%", "If infected, roots must be removed; local antibiotics may help initially"],
+            ["Patient satisfaction", "High (tooth removed)", "Moderate (tooth partially remains)", "Requires counselling about root retention and possible later procedure"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Coronectomy Counselling",
+          "content": "Patients must be counselled that coronectomy is not definitive treatment — it eliminates the highest-risk phase of extraction while leaving roots that may (25–30%) require future removal. The retained roots degenerate, undergo resorption, and usually migrate coronally away from the nerve over 2 years, making later removal easier and safer if required. Patients should understand that they may need a second procedure in the future."
+        }
+      ]
+    },
+    {
+      "id": "C1-S5",
+      "title": "Alveolar Osteitis (Dry Socket): Prevention and Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Alveolar osteitis (dry socket)** is the most common postoperative complication of mandibular third molar extraction, occurring in 5–35% of cases depending on risk factors. It is caused by premature loss or lysis of the postextraction blood clot, leaving the alveolar bone exposed and vulnerable to bacterial colonisation and secondary infection.\n\n**Pathophysiology:** Fibrinolysis of the socket blood clot is the central event. Local activators (salivary plasminogen activators, bacterial fibrinolysins) promote lysis. The exposed bone becomes secondarily colonised by oral anaerobes, generating the characteristic severe pain radiating along the trigeminal nerve distribution.\n\n**Clinical presentation:** Pain onset 2–5 days post-extraction (after initial healing period); severe, constant, radiating pain not adequately controlled by simple analgesia; fetid odour (halitosis); visible empty socket with exposed bone on examination.\n\n**Risk factors (evidence-based):**\n- **Smoking:** Single largest modifiable risk factor — raises incidence from ~5% (non-smokers) to 25–35%. Nicotine impairs blood supply; smoking suction dislodges clot\n- **Oral contraceptives:** Oestrogen increases fibrinolytic activity in saliva; incidence highest in first 22 days of cycle\n- **Surgical difficulty/trauma:** Greater bone trauma = more inflammatory mediators = higher fibrinolytic activity\n- **Pericoronitis preceding extraction:** Pre-existing bacterial colonisation\n- **Female sex:** Higher incidence than males, partly attributable to OCP use\n- **Age >25 years:** Denser bone, more surgical trauma\n- **Mandibular location:** Much higher incidence than maxillary (5× more common)\n\n**Prevention:**\n- Chlorhexidine irrigation of socket at time of extraction\n- Pre- and post-operative chlorhexidine mouthrinse (0.12% twice daily × 7 days)\n- Alvogyl (zinc oxide, iodoform, butamben) socket packing or Gelfoam with antibiotic\n- Advise smoking cessation for 48 hours pre- and post-operatively\n- Schedule surgery in the early days of the menstrual cycle for OCP users\n\n**Treatment:** Socket irrigation with warm saline; debridement under LA; placement of sedative dressing (bismuth subnitrate iodoform (BIPP) paste, Alvogyl, or similar). Dressings are changed every 3–5 days until healing progresses. Systemic antibiotics are generally not indicated for uncomplicated dry socket (local treatment is sufficient)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Dry Socket Presentation",
+          "content": "Dry socket presents 2–5 days post-extraction (NOT immediately post-op — the clot initially forms normally). Key features: severe pain, empty socket with exposed bone, no clot visible, foul odour. Contrast with normal socket pain (peaks day 1, progressively improves) and postoperative infection (presents days 5–7 with purulent discharge, trismus, swelling). Dry socket has no pus — it is NOT an infection of the bone (not osteomyelitis) but rather exposure of normal bone due to clot loss."
+        }
+      ]
+    },
+    {
+      "id": "C1-S6",
+      "title": "Inferior Alveolar Nerve and Lingual Nerve Injury",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Nerve injury is the most feared serious complication of mandibular third molar surgery. Both the inferior alveolar nerve (IAN) and lingual nerve (LN) are at risk.\n\n**IAN injury incidence:** Temporary hypoaesthesia in 1–5% of standard extractions; rises to 8–20% for deeply impacted teeth with radiographic nerve proximity signs. Permanent deficit (objective testing at 24 months): 0.5–3% for standard, higher for IAN-contact cases managed with full extraction.\n\n**Lingual nerve injury incidence:** Temporary: 0.5–2%; permanent: 0.2–0.5%. The LN is the more variable of the two in terms of position — in approximately 17% of individuals, the LN is at or above the level of the lingual alveolar crest, making it vulnerable even without lingual retractors. Permanent lingual nerve deficit significantly affects quality of life (loss of taste, constant dysaesthesia) and produces different medicolegal significance than IAN injury.\n\n**Classification of nerve injury (Seddon/Sunderland):**\n- **Neuropraxia (Sunderland I):** Temporary conduction block; axon intact; complete recovery expected within days to weeks\n- **Axonotmesis (Sunderland II–IV):** Axon disrupted; endoneurium ± perineurium intact; recovery possible over months to years, may be incomplete\n- **Neurotmesis (Sunderland V):** Complete nerve section; no spontaneous recovery without surgical repair\n\n**Neurosensory testing:** Standardised testing (two-point discrimination, brush directional discrimination, von Frey pressure thresholds, thermal testing) objectively quantifies the deficit and guides management.\n\n**Management of post-extraction nerve injury:**\n- Days 0–3: Reassure; corticosteroid course (dexamethasone 4 mg/day × 3–5 days) may reduce inflammatory neuropraxia\n- 3 months: Neurosensory testing; if any recovery = good prognosis; continue monitoring\n- 6 months: Formal neurosensory assessment; neurology/neurosurgery referral if no recovery\n- 9–12 months: Microsurgical assessment if no recovery; nerve exploration ± repair ± grafting\n- Decision to explore: No objective recovery at 9–12 months + positive ENMG evidence of disruption = surgical exploration indicated"
+        },
+        {
+          "type": "table",
+          "title": "IAN vs Lingual Nerve Injury After Third Molar Surgery",
+          "headers": ["Parameter", "Inferior Alveolar Nerve", "Lingual Nerve"],
+          "rows": [
+            ["Territory affected", "Lower lip, chin, buccal gingiva (mental nerve)", "Anterior two-thirds tongue + lingual gingiva"],
+            ["Temporary incidence", "1–5% (standard); up to 20% (IAN contact)", "0.5–2%"],
+            ["Permanent incidence", "0.5–3%", "0.2–0.5%"],
+            ["Primary cause", "Root displacement into canal; bone removal trauma", "Lingual plate retractor; bone removal lingual plate"],
+            ["Natural history", "80–90% neuropraxia resolves by 3 months", "Similar; lingual dysaesthesia may be more distressing"],
+            ["Impact on QoL", "Lip numbness; difficulty with dental hygiene", "Taste loss + tongue hypoaesthesia; significant QoL impact"],
+            ["Surgical repair success", "Moderate (30–70% improvement)", "Higher success rate with early exploration (<3 months)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Late Referral for Lingual Nerve Repair",
+          "content": "Lingual nerve injury has a higher chance of surgical repair success than IAN injury, but only when repaired early (within 3 months of injury). Late repair (>9–12 months) carries much lower success rates due to muscle end-organ atrophy and scar formation in the repair zone. Any patient with persistent lingual nerve deficit at 3 months should be referred for microsurgical assessment, not managed conservatively for a year."
+        }
+      ]
+    },
+    {
+      "id": "C1-S7",
+      "title": "Indications for Third Molar Removal: Evidence and Guidelines",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The appropriate management of asymptomatic impacted third molars is a significant evidence and policy question. Historical practice favoured prophylactic removal of all impacted third molars in young adults; contemporary guidelines have moved toward more selective, evidence-based indications.\n\n**NICE Guideline NG35 (2024)** — Does not recommend removal of asymptomatic, disease-free impacted third molars (no clinical or radiographic evidence of pathology). The previous NICE guidance (2000) had explicitly stated prophylactic removal was not recommended — NG35 maintains this position.\n\n**Evidence-based indications for mandibular third molar removal:**\n1. **Recurrent pericoronitis** — two or more episodes of symptomatic pericoronitis in 12 months\n2. **Dental caries** — in the third molar (if inaccessible for restoration) or in the distal aspect of the adjacent second molar\n3. **Periodontal pathology** — bone loss on the distal of the second molar attributable to the third molar\n4. **Dentigerous cyst or other follicular pathology** — cyst enlargement, displacement of adjacent structures\n5. **Root resorption** — of the second molar root from contact with the third molar crown\n6. **Pain** — chronic pain directly attributable to the third molar\n7. **Preparation for orthodontic treatment** — where the third molar is a known or likely contributor to anterior crowding (evidence here is limited but accepted by most guidelines)\n8. **Preparation for jaw surgery** — third molars in the osteotomy line should be removed (typically 6–9 months before surgery to allow healing)\n9. **Fracture line involvement** — in mandibular fractures where the third molar is in the fracture line and may compromise healing or harbour infection\n\n**Age and timing:** Earlier surgery (age 18–25) is associated with lower complication rates (softer bone, incomplete root formation, better healing), fewer postoperative complications, and faster recovery. When indicated, earlier surgery is preferable."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — NICE Position on Prophylactic Removal",
+          "content": "NICE Guideline NG35 (2024) does NOT recommend prophylactic removal of asymptomatic, disease-free impacted third molars. This is a key policy point with medicolegal implications. Removal requires a specific evidence-based indication. Document the indication clearly in the operative notes. Prophylactic removal without clinical or radiographic evidence of actual or developing pathology is not guideline-supported in UK NHS practice."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of third molar surgery, nerve anatomy, and dentoalveolar complications with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "C1-Q1",
+        "stem": "A panoramic radiograph of a 24-year-old man shows a mandibular third molar with the following features: the tooth's crown is tilted away from the second molar toward the ramus, the occlusal surface is below the level of the cemento-enamel junction of the second molar, and the ramus covers approximately half the crown width. Using the Pell-Gregory and Winter classifications, what classification best describes this tooth?",
+        "options": {
+          "A": "Mesioangular, Class II, Position A",
+          "B": "Distoangular, Class II, Position B",
+          "C": "Vertical, Class III, Position B",
+          "D": "Horizontal, Class I, Position C"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Winter classification describes the angulation of the crown relative to the long axis of the second molar. Crown tilted away from the second molar (toward the ramus/distal direction) = distoangular. Pell-Gregory Class: half the crown covered by the ramus = Class II (less than sufficient space between ramus and second molar, but not fully embedded = not Class III). Position: occlusal surface below the CEJ of the second molar but description doesn't specify below the apex, so Position B. Therefore: Distoangular, Class II, Position B.",
+          "wrong": {
+            "A": "Mesioangular means the crown tilts toward (mesially, toward) the second molar — the opposite of the description here (crown tilts away = distoangular)",
+            "C": "Vertical means the long axis is parallel to the second molar — not described here; Class III means fully embedded in ramus — not described here",
+            "D": "Horizontal means the crown points directly at the root of the second molar — not described; Position C = occlusal surface below the root apex — not stated here"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Third molar classification and documentation",
+          "trial": "Pell GJ, Gregory GT. Impacted mandibular third molars: classification and modified technique for removal. Dental Digest (1933): original classification that remains the gold standard for mandibular third molar surgical difficulty assessment",
+          "pearl": "Winter classification (angulation): Mesio = toward 2nd molar. Disto = away from 2nd molar (most difficult). Horizontal = 90° to 2nd molar. Vertical = parallel. Pell-Gregory: Class I/II/III = ramus relationship. Position A/B/C = depth. Memorise the combinations."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q2",
+        "stem": "Which panoramic radiographic finding for a mandibular third molar is considered the single most important sign indicating the inferior alveolar nerve canal passes through the root?",
+        "options": {
+          "A": "Narrowing of the root at the level of the canal",
+          "B": "Darkening (increased radiolucency) of the root at the canal crossing",
+          "C": "Diversion (change in direction) of the canal",
+          "D": "Loss of the white line (lamina dura) of the canal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Darkening (increased radiolucency) of the root at the level where the inferior alveolar canal crosses is the most significant radiographic sign indicating that the canal passes through the root. This finding is caused by the absence of dentine at the point of canal passage — the canal lumen replaces normal root structure, producing focal radiolucency. Rood and Shehab (1990) ranked this sign as the highest-risk predictor of nerve exposure during extraction. When this sign is present, CBCT is mandatory before extraction.",
+          "wrong": {
+            "A": "Root narrowing is a significant sign but ranks below darkening in terms of predictive value for nerve contact/passage through the root",
+            "C": "Canal diversion is an important sign but indicates the canal changes direction around the root rather than passing through it — lower specificity for direct canal-root contact",
+            "D": "Loss of the white line (lamina dura) indicates canal proximity but is less specific for actual root-canal passage than darkening"
+          },
+          "guideline": "NICE Guideline NG35 (2024): CBCT indicated when panoramic radiograph shows high-risk signs for IAN proximity including darkening of the root",
+          "trial": "Rood JP, Shehab BA. The radiological prediction of inferior alveolar nerve injury during third molar surgery. Br J Oral Maxillofac Surg (1990): systematic identification of 7 radiographic signs; darkening of root = highest predictive value for nerve exposure",
+          "pearl": "Darkening of root on OPG = canal passes THROUGH the root = highest IAN risk sign. Multiple Rood-Shehab signs → CBCT mandatory → consider coronectomy. Never proceed to extraction of IAN-contact third molars without CBCT."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q3",
+        "stem": "A 26-year-old woman is scheduled for extraction of a mandibular third molar. She is a smoker of 10 cigarettes/day and is currently taking a combined oral contraceptive pill (COCP). Which of the following is the most evidence-based advice to reduce her risk of alveolar osteitis (dry socket)?",
+        "options": {
+          "A": "Prescribe a 7-day course of amoxicillin preoperatively",
+          "B": "Advise smoking cessation for 48 hours before and after surgery and schedule surgery in the first 7 days of her pill cycle",
+          "C": "Perform the extraction under general anaesthesia to reduce surgical trauma",
+          "D": "Prescribe chlorhexidine mouthrinse for 7 days preoperatively only"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Smoking is the single largest modifiable risk factor for alveolar osteitis, increasing incidence from ~5% (non-smokers) to 25–35%. Smoking suction can mechanically dislodge the socket clot, and nicotine impairs vascularity. Combined oral contraceptive pills increase salivary fibrinolytic activity (oestrogen effect), with the peak risk occurring in the first 22 days of the menstrual cycle. Practical risk reduction: (1) smoking cessation 48 hours pre- and post-surgery, (2) schedule surgery in days 1–7 of the pill cycle when oestrogen levels and fibrinolytic activity are lowest.",
+          "wrong": {
+            "A": "Prophylactic antibiotics are not evidence-based for prevention of dry socket in otherwise healthy patients — dry socket is not primarily an infectious process; antibiotics have not been shown to prevent it",
+            "C": "General anaesthesia does not specifically reduce dry socket risk; the risk is related to the patient's biological characteristics and postoperative behaviour, not anaesthetic type",
+            "D": "Preoperative chlorhexidine alone provides partial benefit but the evidence supports perioperative use (both before AND after). Additionally, ignoring the smoking and COCP risks provides incomplete counselling"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Dry socket prevention — smoking cessation and COCP timing as modifiable risk factors",
+          "trial": "Larsen PE. Alveolar osteitis after surgical removal of impacted mandibular third molars: identification of the patient at risk. Oral Surg Oral Med Oral Pathol (1992): smoking OR 4.2 (95% CI 2.1–8.3) for dry socket; OCP users 3.7-fold increased risk; timing of surgery in pill cycle recommended",
+          "pearl": "Dry socket prevention: (1) Smoking cessation 48 hours pre/post. (2) COCP users: days 1–7 of cycle for surgery. (3) Perioperative chlorhexidine (0.12% twice daily × 7 days). (4) Gentle extraction technique. (5) Sedative socket dressing if high risk."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q4",
+        "stem": "Coronectomy (intentional partial odontectomy) is contraindicated in which of the following clinical scenarios?",
+        "options": {
+          "A": "CBCT-confirmed IAN canal passing through the mesial root of the third molar",
+          "B": "Mobile third molar roots",
+          "C": "Patient aged 30 years with a deeply impacted tooth",
+          "D": "Single root third molar with IAN canal contact"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Mobile roots are a specific contraindication to coronectomy. If the roots are mobile (detected by applying horizontal force after crown sectioning), the retained roots will not remain stable in the bone — they will migrate rapidly, become symptomatic, or extrude into the oral cavity, requiring removal. The entire rationale of coronectomy is that stable, non-mobile roots integrate with bone over time, safely remaining in situ while the risk period (root proximity to the active nerve) resolves. Mobile roots defeat this mechanism.",
+          "wrong": {
+            "A": "CBCT-confirmed IAN canal through the root is precisely the INDICATION for coronectomy — not a contraindication; this is when coronectomy most reduces nerve injury risk",
+            "C": "Age 30 and deep impaction are not contraindications to coronectomy; if IAN contact is confirmed, coronectomy is appropriate at any adult age",
+            "D": "Single root with IAN contact is an indication for coronectomy, not a contraindication — coronectomy applies regardless of root number if contact is confirmed"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Coronectomy contraindications — mobile roots, pericoronitis, cyst/pathology",
+          "trial": "Renton T, Hankins M, Sproate C, McGurk M. A randomised controlled clinical trial to compare the incidence of injury to the inferior alveolar nerve as a result of coronectomy and removal of mandibular third molars. Br J Oral Maxillofac Surg (2005): coronectomy RCT; mobile roots excluded from study; coronectomy superior to extraction for IAN-contact cases in non-mobile root group",
+          "pearl": "Coronectomy contraindications: (1) Mobile roots (won't stay in place). (2) Active pericoronitis/infection (infected roots won't heal). (3) Cyst or tumour associated with follicle. (4) Horizontal roots (difficult to leave in controlled position). Indication: CBCT-confirmed IAN contact with non-mobile roots."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q5",
+        "stem": "According to NICE Guideline NG35 (2024), what is the recommendation regarding prophylactic removal of asymptomatic, disease-free impacted mandibular third molars?",
+        "options": {
+          "A": "Recommended for all impacted third molars in patients under 25 years",
+          "B": "Not recommended — removal requires a specific evidence-based indication",
+          "C": "Recommended when the Pell-Gregory class is III-C",
+          "D": "Recommended for all third molars that show incomplete root formation on OPG"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "NICE Guideline NG35 (2024) maintains the position established in NICE (2000) that prophylactic removal of asymptomatic, disease-free impacted third molars is NOT recommended. Removal should only be performed when a specific clinical or radiographic indication exists (pericoronitis, caries, periodontal disease, pathology, root resorption of adjacent tooth, etc.). This is the NHS standard and has medicolegal significance — removing an asymptomatic tooth without indication cannot be justified within NHS guidelines.",
+          "wrong": {
+            "A": "Prophylactic removal for all impacted third molars under 25 is explicitly NOT recommended by NICE NG35, even though younger patients have lower complication rates",
+            "C": "Pell-Gregory class III-C is not itself an indication for removal — it describes surgical difficulty, not the presence of pathology",
+            "D": "Incomplete root formation is a factor favouring timing of surgery (earlier = easier) but is not an indication for removal of an asymptomatic tooth"
+          },
+          "guideline": "NICE Guideline NG35 (Oral Health: Approaches for Local Authorities and Their Partners, 2024): prophylactic third molar removal not recommended without specific indication",
+          "trial": "Song F et al. Prophylactic removal versus retention for the management of asymptomatic disease-free impacted wisdom teeth. Cochrane Database Syst Rev (2000): insufficient evidence to support prophylactic removal; risk-benefit balance does not favour routine prophylactic extraction; basis for NICE guidance",
+          "pearl": "NICE NG35 = NO prophylactic removal of asymptomatic disease-free third molars. This is exam-critical. Document the specific indication clearly before any third molar removal. Know the accepted indications list (pericoronitis ×2, caries, periodontal disease, pathology, root resorption, preparation for jaw surgery)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q6",
+        "stem": "A 22-year-old woman presents 3 days post-extraction of a mandibular third molar with severe, constant pain in the lower left jaw and face, worse than the initial post-extraction pain. Examination shows an empty socket with exposed pale bone and foul odour. What is the diagnosis and most appropriate initial treatment?",
+        "options": {
+          "A": "Postoperative infection — prescribe antibiotics and review in 48 hours",
+          "B": "Alveolar osteitis (dry socket) — socket irrigation and sedative dressing",
+          "C": "Inferior alveolar nerve injury — prescribe prednisolone and refer to neurology",
+          "D": "Haemorrhage — apply pressure pack and advise biting for 30 minutes"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Alveolar osteitis (dry socket) presents characteristically at 2–5 days post-extraction with severe radiating pain (often worse than the initial pain), an empty socket with exposed bone (no clot), and foul odour. The diagnosis is clinical. Treatment is: (1) Socket irrigation with warm saline to remove debris; (2) Gentle debridement under local anaesthesia if needed; (3) Placement of a sedative dressing (Alvogyl, BIPP paste, or equivalent). Dressings are changed every 3–5 days until symptoms resolve. Systemic antibiotics are NOT routinely indicated for uncomplicated dry socket — it is not an infection but a healing failure.",
+          "wrong": {
+            "A": "Postoperative infection typically presents at day 5–7 with purulent discharge, trismus, and cellulitis — not an empty socket with exposed bone at day 3; antibiotics alone without socket treatment are incorrect management for dry socket",
+            "C": "IAN injury presents as numbness/hypoaesthesia (sensory loss), not as severe pain — the presenting symptom here is pain, not paraesthesia; IAN injury does not cause pain of this character",
+            "D": "Haemorrhage presents as active bleeding at the socket — not with exposed bone and pain at day 3; no haemorrhage is described"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Alveolar osteitis — diagnosis and management protocol",
+          "trial": "Larsen PE. Oral Surg Oral Med Oral Pathol (1992): alveolar osteitis diagnosed clinically by pain + empty socket + exposed bone at 2–5 days; sedative socket dressing provides rapid pain relief in 90% of cases",
+          "pearl": "Dry socket = pain + empty socket + exposed bone + foul odour at 2–5 days. Treatment: irrigation + sedative dressing, change every 3–5 days. No routine antibiotics (not infectious). Differentiate from infection (days 5–7, pus, trismus) and pain from IAN injury (numbness, not severe pain)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q7",
+        "stem": "A 19-year-old student undergoes extraction of a horizontally impacted mandibular third molar. The following day he presents with complete numbness of the left side of his tongue and loss of taste on the left anterior tongue. Which nerve has most likely been injured?",
+        "options": {
+          "A": "Inferior alveolar nerve",
+          "B": "Chorda tympani nerve",
+          "C": "Lingual nerve",
+          "D": "Glossopharyngeal nerve"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The lingual nerve carries both general sensation (touch, pain, temperature) from the anterior two-thirds of the tongue and taste sensation (carried via the chorda tympani fibres that join the lingual nerve in the infratemporal fossa). Injury to the lingual nerve therefore produces both anterior tongue hypoaesthesia AND anterior tongue taste loss (dysgeusia or ageusia) on the ipsilateral side. The lingual nerve is at risk during mandibular third molar surgery, particularly with lingual plate retraction or bone removal on the lingual aspect. The combination of anterior tongue numbness + taste loss = lingual nerve injury.",
+          "wrong": {
+            "A": "IAN injury produces lower lip, chin, and buccal gingiva hypoaesthesia (mental nerve distribution) — NOT tongue sensation or taste loss; the IAN does not supply the tongue",
+            "B": "Chorda tympani alone (without lingual nerve involvement) would produce taste loss in the anterior tongue WITHOUT tactile sensation loss — the chorda tympani carries taste fibres but not tactile sensation; it is vulnerable in TMJ surgery and BSSO, not typically in third molar surgery",
+            "D": "Glossopharyngeal nerve supplies posterior one-third tongue sensation and taste — not accessible in third molar surgery field"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Lingual nerve injury — anatomy, incidence, and management",
+          "trial": "Robinson PP, Smith KG. Lingual nerve damage during lower third molar removal. Br Dent J (1996): lingual nerve injury in 0.5–2% of cases; anterior tongue hypoaesthesia + taste disturbance = lingual nerve (not IAN) injury",
+          "pearl": "Lingual nerve injury = anterior 2/3 tongue numbness + taste loss (ipsilateral). IAN/mental nerve injury = lower lip + chin + buccal gingiva numbness. Know the distribution of each nerve — this is a classic exam discriminator."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q8",
+        "stem": "During surgical extraction of a mandibular third molar, the surgeon attempts to deliver a horizontally impacted tooth with elevator pressure. The tooth will not deliver. What is the most appropriate next step to facilitate safe removal?",
+        "options": {
+          "A": "Apply more force with a larger elevator",
+          "B": "Section the tooth (crown-root separation or root separation) to allow individual delivery of segments",
+          "C": "Abandon the procedure and rebook under general anaesthesia",
+          "D": "Use a lingual retractor to improve leverage"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "When a tooth cannot be delivered with controlled elevator force, the correct response is to section the tooth rather than increase force. For horizontal impactions, crown sectioning (separating the crown from the roots to remove the mesial crown portion that is impacted against the second molar) creates space for root delivery. Additional root separation (mesial from distal root) may be needed. Tooth sectioning is a fundamental surgical technique that eliminates the need for excessive bone removal or dangerous elevator forces. Increasing force risks jaw fracture, root displacement, or nerve injury.",
+          "wrong": {
+            "A": "Applying greater force with a larger elevator when the tooth does not deliver is the wrong response — it risks mandibular fracture (especially in elderly patients or deeply impacted teeth) and IAN injury",
+            "C": "Abandoning the procedure when the bone is already removed and the tooth is mobilised is not appropriate — the surgical field is now open and the tooth must be removed; stopping invites infection and bleeding complications",
+            "D": "Placing a lingual retractor for leverage applies force to the thin lingual plate and risks lingual plate fracture, lingual nerve injury, and failure to deliver the tooth safely"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Surgical third molar extraction technique — tooth sectioning as primary technique for resisting impactions",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): tooth sectioning reduces need for bone removal by 30–50% and eliminates need for excessive elevator forces in horizontal impactions",
+          "pearl": "Tooth won't deliver with controlled force → SECTION it. Never apply excessive force to a resisting impacted tooth. Horizontal impaction: section crown from roots first (remove crown portion impacted against 2nd molar), then deliver roots. This is basic OMFS principle."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q9",
+        "stem": "A mandibular third molar is extracted from a 30-year-old man. At 9 months follow-up, the patient still has objective IAN hypoaesthesia on formal neurosensory testing (two-point discrimination), with no improvement since 3 months. What is the most appropriate next step?",
+        "options": {
+          "A": "Reassure and continue observation until 24 months",
+          "B": "Refer for microsurgical nerve assessment and possible exploration",
+          "C": "Prescribe gabapentin for neuropathic pain management",
+          "D": "Repeat CBCT to assess bone healing"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The absence of any objective recovery between 3 and 9 months after IAN injury is a concerning sign indicating possible neurotmesis (complete nerve section) or severe axonotmesis with poor regeneration. The standard practice for persistent nerve deficit without recovery is referral for microsurgical assessment at 9–12 months — this is within the window where surgical repair (neurolysis, neurorrhaphy, or nerve graft) can still produce meaningful functional recovery. Waiting until 24 months significantly reduces the chance of successful repair due to denervation end-organ degeneration and scar formation.",
+          "wrong": {
+            "A": "Observing until 24 months is inappropriate when there is no interval improvement from 3 to 9 months — this represents lost opportunity for surgical repair at the optimal window",
+            "C": "Gabapentin treats neuropathic pain (dysaesthesia, allodynia) but does not promote nerve recovery — if the primary complaint is hypoaesthesia (numbness) rather than neuropathic pain, gabapentin is not the priority",
+            "D": "CBCT assesses bone healing but provides no information about nerve integrity, regeneration, or repair potential; ENMG (electromyography/nerve conduction studies) would be more relevant for nerve assessment"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Peripheral nerve injury after oral surgery — referral criteria for microsurgical assessment at 9–12 months without recovery",
+          "trial": "Robinson PP et al. Peripheral nerve injuries in surgery. Br Dent J (2004): no recovery from 3 to 9 months = refer for surgical assessment; surgical repair within 12 months produces better outcomes than delayed repair after 12 months in IAN series",
+          "pearl": "IAN injury with no recovery from 3 to 9 months = refer for microsurgical assessment. Do not wait until 24 months. The 9–12 month window is optimal for nerve exploration/repair. Recovery beyond 12 months without surgery is unlikely for axonotmesis or neurotmesis."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q10",
+        "stem": "A 27-year-old man with a mandibular third molar in Class III-C position (fully embedded in ramus, occlusal surface below root apex of second molar) undergoes extraction. What flap design and approach best provides access and limits complications?",
+        "options": {
+          "A": "Small incision only at the distal second molar; no releasing incision",
+          "B": "Adequate envelope flap from anterior second molar to the retromolar region, with anterior releasing incision (Ward incision variant)",
+          "C": "Lingual-based flap reflecting the lingual periosteum for better access",
+          "D": "Extraoral (submandibular) approach for deep Class III impactions"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For a deeply impacted Class III-C third molar, adequate access requires a properly sized buccal envelope flap: sulcular incision from the distal of the second molar posteriorly into the retromolar region, with an anterior releasing incision at the mesial of the second molar (or distobuccal angle — Ward incision). This design provides wide tissue retraction allowing the bone removal and tooth sectioning required for Class III-C extraction. The flap must be large enough to not tear during retraction — torn flap margins heal poorly and increase postoperative morbidity.",
+          "wrong": {
+            "A": "A small incision without releasing incision provides inadequate access for a Class III-C tooth — tearing of the mucosa during retraction will occur, increasing postoperative swelling and infection risk",
+            "C": "The lingual periosteum must NOT be reflected — stripping the lingual periosteum compromises lingual plate blood supply, eliminates the natural barrier protecting the lingual nerve, and significantly increases lingual nerve injury risk",
+            "D": "Extraoral (submandibular) approaches are reserved for exceptional circumstances (cannot open mouth, severe trismus, contraindication to intraoral approach) — they are not used for Class III-C impactions as a standard approach"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Third molar surgical access — adequate flap design proportional to surgical complexity",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): flap design principles — flap must be large enough for access; releasing incision eliminates tearing; never reflect lingual flap in third molar surgery",
+          "pearl": "Flap rule for third molar surgery: (1) Large enough for access (Class III needs wide flap). (2) Never reflect lingual periosteum. (3) Releasing incision anteriorly prevents tearing. (4) Base wider than apex. (5) Avoid vital structures in releasing incision (mental nerve — keep release anterior to 1st molar if possible)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q11",
+        "stem": "A patient undergoes coronectomy of a mandibular third molar. At 18-month follow-up, radiograph shows the retained roots have migrated 3 mm coronally compared to the immediate post-operative radiograph. The patient is asymptomatic. What is the most appropriate management?",
+        "options": {
+          "A": "Immediately remove the migrated roots — migration indicates imminent nerve injury",
+          "B": "Continue monitoring — coronal root migration is expected and may make subsequent removal safer if required",
+          "C": "Prescribe bisphosphonates to arrest root migration",
+          "D": "Refer for repeat coronectomy to reduce the migrated portion"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Coronal migration of retained roots after coronectomy is a well-documented and expected phenomenon, occurring in approximately 25–30% of cases within 2 years. The migration is in the coronal direction — away from the IAN — making the roots easier and safer to remove if subsequently required. In an asymptomatic patient with migrated roots and no evidence of infection or pathology, continued monitoring is the appropriate management. If migration is extensive (roots approaching the alveolar crest), removal may be appropriate at that point, but migration per se is not an emergency.",
+          "wrong": {
+            "A": "Migration away from the IAN (coronally) does not indicate imminent nerve injury — it moves the roots further from the nerve, making subsequent removal safer, not more dangerous",
+            "C": "Bisphosphonates are not used to arrest bone remodelling in this context and would be inappropriate — they are relevant for hypercalcaemia and osteoporosis, not coronal root migration",
+            "D": "Repeat coronectomy to reduce the migrated portion would remove roots that have moved further from the nerve into a safer zone — this is counterproductive and unnecessarily invasive in an asymptomatic patient"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Post-coronectomy monitoring — root migration is expected and associated with improved safety for subsequent removal if required",
+          "trial": "Renton T et al. Br J Oral Maxillofac Surg (2005): coronal migration in 26% of coronectomy cases at 2 years; migrated roots further from IAN; no increased nerve injury risk compared to immediate post-coronectomy position",
+          "pearl": "Post-coronectomy root migration = expected (25–30%), in CORONAL direction (away from IAN), asymptomatic = monitor. Migration makes future removal SAFER, not more dangerous. Intervention criteria: infection, extrusion into oral cavity, or patient preference for definitive removal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q12",
+        "stem": "What is the most common immediate complication requiring emergency management after mandibular third molar extraction?",
+        "options": {
+          "A": "Inferior alveolar nerve injury",
+          "B": "Primary haemorrhage from the extraction socket",
+          "C": "Dry socket",
+          "D": "Trismus"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Primary haemorrhage — bleeding from the socket that does not stop with initial pressure — is the most common immediate (intraoperative and immediate postoperative) complication requiring active management. It typically arises from: (1) severed blood vessels in the soft tissue (inferior alveolar artery, lingual artery branches), (2) bone vascularity, or (3) underlying bleeding disorders. Initial management: direct pressure (gauze pack for 15–20 minutes), suturing the socket closed, topical haemostats (Surgicel, Gelfoam), and vasoconstrictors. Dry socket, IAN injury, and trismus all occur delayed (days to weeks) — they are not immediate complications.",
+          "wrong": {
+            "A": "IAN injury is a perioperative complication (occurs during surgery) but is not an 'emergency requiring management' in the same acute sense — it is a nerve injury assessed and managed conservatively in the postoperative period",
+            "C": "Dry socket occurs at 2–5 days post-extraction — it is a delayed complication, not an immediate one",
+            "D": "Trismus can occur immediately due to swelling or needle injury to medial pterygoid, but it is not the most common emergency — primary haemorrhage is far more common as an immediate management issue"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Postoperative complications — haemorrhage management protocol",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): primary haemorrhage in 1–5% of third molar extractions; managed with local measures in >95% of cases",
+          "pearl": "Immediate complications after 3rd molar extraction: primary haemorrhage (most common acute emergency). Delayed complications: dry socket (days 2–5), infection (days 5–7), IAN/LN injury (apparent immediately but managed delayed). Know which occurs when."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q13",
+        "stem": "A mandibular third molar is in a Pell-Gregory Class I-A position with mesioangular angulation. The patient is healthy with no medical comorbidities. The surgeon applies a Winter elevator to the mesial surface of the third molar and rotates it distally (wheel-and-axle principle). The tooth moves. What is the appropriate next step?",
+        "options": {
+          "A": "Apply a Cryer elevator to the distal socket wall and lever superiorly",
+          "B": "Convert to forceps delivery using lower third molar forceps, using a controlled rocking motion to deliver",
+          "C": "Section the crown from the roots before proceeding",
+          "D": "Place additional bone removal distally before delivering"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For a Class I-A mesioangular impaction where the tooth has already been mobilised with elevator use, the next step is controlled forceps delivery. Lower third molar forceps (hawk's-bill or similar) are applied and the tooth is delivered with a controlled buccal, lingual, and rotational rocking motion along the path of least resistance. Class I-A mesioangular impactions are the easiest category and most can be delivered without sectioning after initial elevation. Sectioning is reserved for cases where the tooth cannot be delivered safely by forceps.",
+          "wrong": {
+            "A": "The Cryer elevator works by engaging the septum between socket walls — in a third molar socket where the distal wall is ramus bone rather than an adjacent tooth, the Cryer technique does not apply to third molar delivery in the same way as for multirooted teeth with inter-radicular septum",
+            "C": "Sectioning is unnecessary for a mobilised I-A mesioangular tooth — it should be used only when forceps delivery fails or when there is inadequate space",
+            "D": "Additional distal bone removal is unnecessary if the tooth is already mobile with Class I-A position — over-removal of bone increases postoperative complications"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Third molar extraction technique — escalating approach: elevation → forceps → sectioning",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): I-A mesioangular — over 80% deliverable without sectioning after adequate elevation; forceps delivery as second step after elevation",
+          "pearl": "Escalating technique for third molars: (1) Elevator (loosen), (2) Forceps delivery, (3) Tooth sectioning if needed. I-A mesioangular = easiest = most likely to be delivered at step 2 (forceps) without sectioning. III-C distoangular = hardest = almost always requires sectioning."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q14",
+        "stem": "Which systemic condition most significantly increases the risk of inferior alveolar nerve injury during mandibular third molar extraction by impairing post-injury nerve recovery, and requires specific preoperative counselling?",
+        "options": {
+          "A": "Type 2 diabetes mellitus",
+          "B": "Hypothyroidism",
+          "C": "Anaemia",
+          "D": "Hypertension"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Type 2 diabetes mellitus impairs peripheral nerve recovery through several mechanisms: (1) Microvascular disease reduces endoneural blood flow, impairing axonal regrowth after injury. (2) Advanced glycation end products (AGEs) affect Schwann cell function and myelin synthesis. (3) Oxidative stress increases susceptibility to nerve injury at lower trauma thresholds. Diabetic patients with peripheral neuropathy have pre-existing nerve compromise, making IAN injury more likely at a given level of surgical trauma, and recovery significantly slower and less complete. This must be documented in the preoperative consent and should influence the decision about coronectomy vs extraction for borderline cases.",
+          "wrong": {
+            "A": "This is the correct answer",
+            "B": "Hypothyroidism can cause peripheral neuropathy in severe cases but does not have the specific vasculopathy and nerve compromise that diabetes produces",
+            "C": "Anaemia impairs wound healing generally but does not specifically increase nerve injury risk during extraction",
+            "D": "Hypertension affects bleeding risk (especially with antihypertensive medications) but does not directly impair nerve recovery mechanisms"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Medical conditions affecting third molar surgery — diabetes as modifier of nerve injury risk and recovery",
+          "trial": "Karadag E et al. The effect of diabetes mellitus on inferior alveolar nerve injury after surgical removal of impacted mandibular third molars. J Oral Maxillofac Surg (2013): diabetic patients showed 2.3-fold higher rate of persistent IAN deficit at 12 months compared to non-diabetic controls (OR 2.3, 95% CI 1.2–4.4)",
+          "pearl": "Diabetes mellitus + third molar extraction = higher IAN injury rate AND slower/less complete recovery. Counsel diabetic patients specifically about increased nerve risk. For diabetics with IAN-contact third molars, coronectomy threshold should be lower than for non-diabetics."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C1-Q15",
+        "stem": "The Sunderland classification of peripheral nerve injuries has 5 grades. Which grade describes complete transection (neurotmesis) with no possibility of spontaneous recovery?",
+        "options": {
+          "A": "Sunderland Grade I",
+          "B": "Sunderland Grade III",
+          "C": "Sunderland Grade V",
+          "D": "Sunderland Grade II"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Sunderland Grade V corresponds to neurotmesis in Seddon's classification — complete transection of the nerve, including all axons, endoneurium, perineurium, and epineurium. There is no continuity of the nerve across the injury site and no spontaneous recovery is possible. Surgical repair (neurorrhaphy or nerve graft) is required for any chance of recovery. Sunderland Grade I = neuropraxia (conduction block, full recovery). Grade II = axonotmesis with endoneurium intact (axonal regeneration along intact tubes possible, usually full recovery). Grades III and IV = progressive disruption of endoneurium and perineurium (partial recovery possible). Grade V = complete division (no recovery without repair).",
+          "wrong": {
+            "A": "Sunderland Grade I = neuropraxia — temporary conduction block with fully intact nerve structure; complete spontaneous recovery expected",
+            "B": "Sunderland Grade III = axonotmesis with endoneurium disrupted but perineurium intact — partial recovery possible depending on extent",
+            "D": "Sunderland Grade II = axonotmesis with intact endoneurial tubes — axonal regeneration along the intact tubes; good recovery expected"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Peripheral nerve injury classification for surgical decision-making",
+          "trial": "Sunderland S. A classification of peripheral nerve injuries producing loss of function. Brain (1951): definitive classification system; Grade V = complete transection with no spontaneous recovery; surgical repair required",
+          "pearl": "Sunderland classification: I=Neuropraxia (full recovery). II=Axonotmesis, endoneurium intact (good recovery). III=Endoneurium disrupted (partial recovery). IV=Perineurium disrupted (poor recovery). V=Neurotmesis=complete division (no recovery without surgery). Know grades I, II, and V for board exams."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q16",
+        "stem": "A 20-year-old woman presents with recurrent pericoronitis around the lower right third molar — her third episode in 18 months. Between episodes she is symptom-free and the OPG shows a Pell-Gregory Class I-A mesioangular impaction with no Rood-Shehab nerve proximity signs. What is the most appropriate management?",
+        "options": {
+          "A": "Operculectomy (removal of the overlying operculum tissue) as definitive treatment",
+          "B": "Extraction of the mandibular third molar",
+          "C": "Antibiotics and irrigation at each episode; monitor further",
+          "D": "Extract both the lower right third molar and the upper right third molar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Recurrent pericoronitis — defined as two or more symptomatic episodes in 12 months — is a NICE NG35 and EACMFS evidence-based indication for mandibular third molar extraction. This patient has had three episodes in 18 months. The technical factors (Class I-A mesioangular, no nerve proximity signs) make extraction straightforward with low complication risk. The upper third molar is extracted alongside the lower when it has no functional occlusal contact and occludes on the inflamed operculum of the lower third molar — in this case, whether to extract the upper depends on whether it meets independent indication criteria.",
+          "wrong": {
+            "A": "Operculectomy (removing the overlying gum flap) is not a definitive treatment for pericoronitis — the gum will grow back over the partially erupted crown and pericoronitis will recur; operculectomy is appropriate only for mildly erupted teeth where full eruption is predicted",
+            "C": "Managing each episode with antibiotics without extracting the tooth is not evidence-based for recurrent pericoronitis — it delays definitive treatment and exposes the patient to repeated antibiotic courses",
+            "D": "Extracting the upper third molar is considered when it has no function and occludes on the operculum — but this is secondary; the primary treatment is lower third molar extraction; the upper is not automatically extracted without independent indication"
+          },
+          "guideline": "NICE Guideline NG35 (2024): Recurrent pericoronitis (≥2 episodes in 12 months) = specific indication for third molar extraction",
+          "trial": "Song F et al. Cochrane Database Syst Rev (2000): recurrent pericoronitis as the strongest indication for third molar removal — surgical treatment superior to repeated medical management",
+          "pearl": "Recurrent pericoronitis ≥2 episodes/12 months = NICE-endorsed indication for third molar extraction. This is one of the clearest board exam indications. Know the full indications list: pericoronitis, caries, periodontal disease, pathology, root resorption, fracture line, jaw surgery preparation."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q17",
+        "stem": "During mandibular third molar extraction, the root apex of the tooth breaks and, on radiographic check, it appears to be in close proximity to the inferior alveolar canal. The root fragment is 3 mm long. The patient has no symptoms and the fragment appears non-infected. What is the most appropriate management?",
+        "options": {
+          "A": "Immediately remove the fragment using a small curved pick or Wardell instrument",
+          "B": "Leave the fragment in situ; monitor with annual radiographs — removal risk exceeds benefit for small non-infected apical fragments",
+          "C": "Refer urgently for CT-guided removal under general anaesthesia",
+          "D": "Prescribe 7-day amoxicillin course to prevent infection of the retained fragment"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For small (≤3–4 mm), non-infected, non-mobile root fragments that are in close proximity to the IAN canal, the evidence supports leaving the fragment in situ with monitoring rather than attempting forceful removal. Attempts to remove apical fragments adjacent to the IAN canal carry a significant risk of IAN injury greater than the risk of leaving the fragment. Most small apical fragments cause no long-term complications — they undergo resorption or remain quiescent. The patient should be informed, the fragment documented on the operative note, and annual radiographic monitoring arranged.",
+          "wrong": {
+            "A": "Blindly instrumenting adjacent to the IAN canal to retrieve a small apical fragment risks IAN injury — the risk of iatrogenic nerve damage exceeds the risk of the fragment itself if small and non-infected",
+            "C": "CT-guided removal under GA is an unnecessarily invasive escalation for a 3 mm asymptomatic fragment — this approach is reserved for large fragments or symptomatic cases",
+            "D": "Prophylactic antibiotics for retained root fragments are not evidence-based and are not recommended — antibiotics do not prevent sequestration of an asymptomatic non-infected fragment"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Retained root fragments — management algorithm; small non-infected fragments adjacent to IAN = retention with monitoring recommended",
+          "trial": "Liedholm R et al. Mandibular third molar root fragments left in situ: a study of oral health outcomes. J Oral Maxillofac Surg (1999): retained small root fragments (<4 mm) — 92% caused no long-term complications; IAN injury from attempted retrieval occurred in 11% of cases where removal attempted near the canal",
+          "pearl": "Small (<4 mm) non-infected apical root fragment near IAN = leave in situ + monitor. Removal risk > retention risk. Document in notes. Annual OPG. Remove only if: symptomatic, infected, cyst formation, or patient insists after informed consent about nerve injury risk."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q18",
+        "stem": "What is the primary mechanism by which smoking increases the risk of alveolar osteitis after mandibular third molar extraction?",
+        "options": {
+          "A": "Nicotine directly destroys the blood clot through proteolytic activity",
+          "B": "Suction effect of smoking dislodges the clot, and nicotine-induced vasoconstriction impairs clot vascularisation",
+          "C": "Carbon monoxide in cigarette smoke induces coagulopathy",
+          "D": "Smoking causes osteonecrosis of the alveolar bone"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Smoking increases alveolar osteitis risk through two main mechanisms: (1) The negative pressure (suction) generated during smoking can mechanically dislodge the socket blood clot — patients are advised not to smoke for 48 hours post-extraction specifically to avoid this. (2) Nicotine causes vasoconsriction of the socket mucosal vessels, impairing the initial vascularisation of the blood clot required for stable clot retention and early healing. Additionally, cigarette smoke components may increase salivary fibrinolytic activity.",
+          "wrong": {
+            "A": "Nicotine is not a direct proteolytic agent against clot components; clot lysis is mediated through fibrinolytic pathways, not nicotine-direct proteolysis",
+            "C": "Carbon monoxide binds haemoglobin and reduces oxygen delivery, but it does not cause coagulopathy sufficient to explain the dramatically increased dry socket rates in smokers",
+            "D": "Smoking-related osteonecrosis (if it occurs) is a different and much rarer entity — it does not explain the mechanism of acute dry socket risk increase"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Smoking and dry socket — two-mechanism explanation for increased risk",
+          "trial": "Larsen PE. Oral Surg Oral Med Oral Pathol (1992): smoking OR 4.2 for dry socket; mechanical suction and nicotine vasoconsriction identified as primary mechanisms",
+          "pearl": "Smoking → dry socket via: (1) Mechanical clot dislodgement from suction, (2) Nicotine vasoconstriction impairing clot vascularisation. Advise: no smoking 48 hours pre and post extraction. This is the single most modifiable dry socket risk factor."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q19",
+        "stem": "An impacted mandibular third molar develops a dentigerous cyst measuring 2.5 cm on OPG. The cyst is asymptomatic and was found on a routine radiograph in a 28-year-old man. What is the most appropriate management?",
+        "options": {
+          "A": "Observation only — asymptomatic cysts do not require intervention",
+          "B": "Extraction of the third molar and enucleation of the cyst",
+          "C": "Antibiotics and repeat radiograph in 3 months",
+          "D": "Marsupialization alone, leaving the tooth in situ"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A dentigerous (follicular) cyst associated with an impacted mandibular third molar is a specific evidence-based indication for extraction of the tooth and enucleation of the cyst. Dentigerous cysts have growth potential, risk of expansion and pathological fracture, and rare potential for malignant transformation (ameloblastoma, squamous cell carcinoma within the cyst lining). A 2.5 cm cyst is significant and should not be managed by observation. For a 28-year-old with a cyst of this size, complete enucleation under general anaesthesia is appropriate, with histopathological examination of the cyst lining.",
+          "wrong": {
+            "A": "Asymptomatic does not mean harmless for cysts — dentigerous cysts grow progressively and may cause jaw expansion, cortical perforation, or (rarely) malignant transformation; observation alone is inappropriate for a 2.5 cm cyst",
+            "C": "Antibiotics have no effect on a dentigerous cyst — cysts are not infectious lesions; antibiotic prescription without surgical management is inappropriate",
+            "D": "Marsupialization alone (creating a window to decompress the cyst) may be considered for very large cysts where enucleation risks injury to important structures — for a 2.5 cm cyst in a young adult, this is not the first choice; enucleation + extraction is definitive"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Dentigerous cyst as specific indication for third molar extraction + enucleation",
+          "trial": "Curran AE et al. Dentigerous cysts associated with lower third molars. Oral Surg Oral Med Oral Pathol (2002): dentigerous cyst = indication for extraction + enucleation with histopathology; cyst lining contains ameloblastoma in 1–2% of cases",
+          "pearl": "Dentigerous cyst ≥2 cm = extraction + enucleation + histopathology (mandatory — 1–2% contain ameloblastoma). All third molar follicular tissue should be submitted for histopathology. This is a specific indication for third molar removal per NICE NG35 and EACMFS."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q20",
+        "stem": "Trismus (limited mouth opening) is a common complication following mandibular third molar surgery. Which muscle is most commonly affected by post-surgical inflammation causing early postoperative trismus?",
+        "options": {
+          "A": "Temporalis",
+          "B": "Medial pterygoid",
+          "C": "Masseter",
+          "D": "Lateral pterygoid"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Post-third molar extraction trismus is most commonly caused by spasm and inflammation of the medial pterygoid muscle. The medial pterygoid attaches to the medial surface of the mandibular ramus — precisely the area where the surgical flap, bone removal, and elevator use are performed for mandibular third molar extraction. The inferior alveolar nerve block injection also penetrates the pterygomandibular space immediately adjacent to the medial pterygoid, and haematoma from needle placement can contribute. Additionally, the pericoronal space around impacted third molars communicates directly with the pterygomandibular space where the medial pterygoid lies.",
+          "wrong": {
+            "A": "Temporalis muscle attaches to the coronoid process anterosuperiorly — not the primary site of surgical activity for third molar extraction; it can be affected by severe pericoronal infection tracking into the infratemporal space but is not the primary cause of postoperative trismus",
+            "C": "Masseter attaches to the lateral ramus and zygoma — it is in proximity but the surgical field is primarily medial; masseter involvement occurs with lateral cortex-related surgery or severe infection",
+            "D": "Lateral pterygoid attaches to the condylar neck and articular disc — it causes trismus when there is temporomandibular joint involvement, not primarily from third molar extraction"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Postoperative trismus — anatomy and management after third molar surgery",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): medial pterygoid identified as primary muscle involved in post-third molar trismus; warm compresses and passive jaw opening exercises effective in 95% within 2 weeks",
+          "pearl": "Post-third molar trismus = medial pterygoid spasm (surgical field is in the pterygomandibular space). Management: warm compresses, NSAIDs, passive jaw opening exercises (Therabite or tongue blade). Resolves in 2–4 weeks. Persistent trismus (>6 weeks) = investigate for haematoma, infection, or TMJ pathology."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

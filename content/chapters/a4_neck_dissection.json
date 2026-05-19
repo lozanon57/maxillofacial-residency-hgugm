@@ -1,0 +1,676 @@
+{
+  "id": "A4",
+  "title": "Neck Dissection",
+  "subtitle": "Block A — Head & Neck Oncology: Classification, Technique, and Complications",
+  "block": "A",
+  "block_name": "Head & Neck Oncology",
+  "level": "R2-4",
+  "reading_time_min": 42,
+  "guidelines_version": "AAOMS Neck Dissection Guidelines 2023 · EACMFS 2023 · NCCN Head and Neck Cancers 2024",
+  "textbook_refs": [
+    "Robbins KT et al. Consensus Statement on the Classification and Terminology of Neck Dissection (Arch Otolaryngol Head Neck Surg 2008)",
+    "Shah JP. Patterns of cervical lymph node metastasis from squamous cell carcinoma of the upper aerodigestive tract (Am J Surg 1990)",
+    "D'Cruz AK et al. Elective versus Therapeutic Neck Dissection in Node-Negative Oral Cancer — SENTI-MELA (NEJM 2015)",
+    "Mehanna H et al. PET-CT Surveillance versus Neck Dissection in Advanced Head and Neck Cancer — PET-NECK (NEJM 2016)",
+    "Flint PW et al. Cummings Otolaryngology: Head and Neck Surgery, 7th ed. (Elsevier 2021)"
+  ],
+  "learning_objectives": [
+    "Apply the Academy/AHNS 2008 classification of neck dissections (radical, modified radical, selective, extended) and describe the lymph node levels I–VI with boundaries",
+    "Determine the appropriate neck dissection type for cN0 and cN+ disease based on primary site and NCCN 2024 guidelines",
+    "Describe the surgical anatomy of the neck relevant to neck dissection, including structures at risk (spinal accessory nerve, internal jugular vein, common carotid artery, marginal mandibular nerve, phrenic nerve, thoracic duct)",
+    "Interpret the SENTI-MELA and PET-NECK trial results and apply them to elective neck management decisions",
+    "Recognise and manage the major complications of neck dissection: chyle leak, haematoma, wound dehiscence, spinal accessory nerve injury, carotid artery exposure"
+  ],
+  "sections": [
+    {
+      "id": "A4-S1",
+      "title": "Lymph Node Level Classification and Boundaries",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The Academy of Otolaryngology–Head and Neck Surgery (AAO-HNS) and the American Head and Neck Society (AHNS) published a consensus classification of neck dissection in 2002 and updated it in 2008 (Robbins et al., Arch Otolaryngol Head Neck Surg 2008). This system divides cervical lymph nodes into six main levels (I–VI) and designates additional subgroups. **Level I** encompasses the submental (IA) and submandibular (IB) triangles. IA is bounded by the anterior bellies of digastric and the hyoid bone; IB lies between the anterior and posterior bellies of digastric. **Level II** is the upper jugular group, extending from the skull base to the inferior border of the hyoid. The IIA subgroup lies anterior to the spinal accessory nerve; IIB lies posterior to it. **Level III** is the middle jugular group, between the hyoid and the inferior border of the cricoid cartilage. **Level IV** is the lower jugular group, from the cricoid to the clavicle. **Level V** is the posterior triangle, divided into VA (spinal accessory nodes, above the inferior belly of omohyoid) and VB (transverse cervical and supraclavicular nodes, below it). **Level VI** is the central compartment: pretracheal, paratracheal, and perithyroidal nodes between the carotid sheaths, from the hyoid to the sternal notch. Level VI is routinely dissected in thyroid carcinoma and subglottic primaries but not in standard head and neck squamous cell carcinoma (HNSCC). Some authors additionally designate Level VII (superior mediastinal nodes below the sternal notch) for thyroid and esophageal disease."
+        },
+        {
+          "type": "table",
+          "title": "Cervical Lymph Node Levels — Boundaries and Primary Drainage Sites",
+          "headers": ["Level", "Sublevels", "Anatomical Boundaries", "Primary Drainage"],
+          "rows": [
+            ["I", "IA, IB", "IA: ant. digastric–hyoid; IB: digastric triangle", "Oral cavity, lip, anterior floor of mouth"],
+            ["II", "IIA, IIB", "Skull base to hyoid; posterior to IJV (IIA), posterior to XI (IIB)", "Oral cavity, oropharynx, hypopharynx, larynx, parotid"],
+            ["III", "—", "Hyoid to inferior cricoid, along IJV", "Oral cavity, oropharynx, larynx, hypopharynx"],
+            ["IV", "—", "Inferior cricoid to clavicle, along IJV", "Larynx, hypopharynx, oesophagus, thyroid"],
+            ["V", "VA, VB", "Posterior triangle; VA above, VB below omohyoid", "Scalp, skin, nasopharynx"],
+            ["VI", "—", "Between carotid arteries, hyoid to sternal notch", "Thyroid, parathyroid, subglottis, cervical oesophagus"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — IIB Node and Skip Metastasis",
+          "content": "IIB nodes are at low risk for metastasis from oral cavity and laryngeal primaries when IIA is negative. Selective preservation of IIB can spare the spinal accessory nerve from the IIB dissection and reduce shoulder morbidity. However, oropharyngeal (particularly tonsillar) primaries have a higher risk of IIB involvement and should not be spared."
+        }
+      ]
+    },
+    {
+      "id": "A4-S2",
+      "title": "Classification of Neck Dissection Types",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The Academy/AHNS 2008 consensus defines four types of neck dissection based on the lymph node levels removed and the structures preserved. A **Radical Neck Dissection (RND)** removes levels I–V en bloc with sacrifice of the sternocleidomastoid muscle (SCM), internal jugular vein (IJV), and spinal accessory nerve (CN XI). This was the historical standard (Crile 1906) but is now reserved for disease directly invading these structures. The **Modified Radical Neck Dissection (MRND)** removes levels I–V but preserves one or more of the three non-lymphatic structures (SCM, IJV, CN XI). Three types are recognised: Type I preserves CN XI; Type II preserves CN XI and IJV; Type III (Bocca dissection) preserves all three structures. The MRND Type III has essentially equivalent oncological outcomes to RND for most HNSCC while dramatically reducing shoulder morbidity. A **Selective Neck Dissection (SND)** removes only the levels at highest risk for a given primary tumour. Common variants include the supraomohyoid SND (levels I–III for oral cavity), the lateral SND (levels II–IV for oropharynx, larynx, hypopharynx), the posterolateral SND (levels II–V and retroauricular/suboccipital nodes for scalp and parotid malignancies), and the central compartment dissection (level VI). An **Extended Neck Dissection** removes additional structures beyond the standard levels, such as the hypoglossal nerve, carotid artery, or parapharyngeal nodes."
+        },
+        {
+          "type": "table",
+          "title": "Neck Dissection Types — Classification Summary",
+          "headers": ["Type", "Levels Removed", "Structures Preserved/Sacrificed", "Indication"],
+          "rows": [
+            ["Radical (RND)", "I–V", "SCM, IJV, CN XI all sacrificed", "Direct invasion of these structures"],
+            ["MRND Type I", "I–V", "SCM + IJV preserved; CN XI sacrificed", "Rare: CN XI encased by node"],
+            ["MRND Type II", "I–V", "CN XI + IJV preserved; SCM sacrificed", "Bulky IIB/posterior disease"],
+            ["MRND Type III (Bocca)", "I–V", "SCM + IJV + CN XI all preserved", "cN+ without structural invasion"],
+            ["SND Supraomohyoid", "I–III", "SCM, IJV, CN XI preserved", "cN0 oral cavity"],
+            ["SND Lateral", "II–IV", "SCM, IJV, CN XI preserved", "cN0/cN+ larynx, hypopharynx, oropharynx"],
+            ["SND Central", "VI", "Preserves lateral structures", "Thyroid Ca, subglottic primaries"],
+            ["Extended ND", "I–V + extra", "Varies; may sacrifice carotid, CN XII", "Disease beyond standard levels"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Choosing Dissection Type",
+          "content": "For a cN0 oral cavity primary requiring elective neck treatment, a supraomohyoid SND (levels I–III) is the standard of care per NCCN 2024. If intraoperative frozen section or final histology shows extranodal extension (ENE) or multiple positive nodes, adjuvant chemoradiation with cisplatin is indicated (RTOG 9501/EORTC 22931). For cN+ disease, MRND Type III achieves equivalent regional control to RND with significantly lower shoulder disability."
+        }
+      ]
+    },
+    {
+      "id": "A4-S3",
+      "title": "Elective Neck Dissection — Evidence and Decision-Making",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The decision to perform elective neck dissection (END) in the clinically node-negative (cN0) neck is based on the estimated risk of occult nodal metastasis. A threshold of **≥20% occult metastasis risk** is the widely accepted indication for elective neck treatment, as this risk outweighs the morbidity of untreated microscopic disease. Oral cavity SCC with depth of invasion (DOI) ≥4 mm carries sufficient risk to mandate END. The landmark **SENTI-MELA trial** (D'Cruz AK et al., NEJM 2015) randomised 596 patients with lateralised cT1–T2 cN0 oral cavity SCC to immediate END versus therapeutic ND (if neck relapse occurred). Immediate END demonstrated a significant improvement in **overall survival** (80.0% vs 67.5% at 3 years, HR 0.64, 95% CI 0.45–0.92, p=0.01) and **disease-free survival** (69.5% vs 45.9%). This trial definitively established END as standard of care for cN0 oral cavity SCC, replacing the previous 'watchful waiting' approach. Despite END being standard, sentinel lymph node biopsy (SLNB) is an emerging alternative for T1–T2 cN0 oral cavity SCC. The **SENT study** (Schilling C et al., Lancet Oncology 2015) demonstrated that SLNB has sensitivity of 86% and negative predictive value of 95% for occult metastasis, with lower morbidity than END. SLNB is being adopted in high-volume centres as a staging procedure that avoids full END when the sentinel node is negative."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — SENTI-MELA Key Result",
+          "content": "SENTI-MELA (D'Cruz, NEJM 2015): immediate END improved OS from 67.5% to 80.0% at 3 years (HR 0.64, p=0.01) in cT1-T2 cN0 oral cavity SCC. This trial ended the debate on elective vs therapeutic neck dissection — END is now the standard of care. The number needed to treat to save one life was approximately 8."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Depth of Invasion vs Tumour Thickness",
+          "content": "Depth of invasion (DOI) and tumour thickness are NOT the same. DOI is measured from the basement membrane of adjacent normal mucosa to the deepest point of invasion — not from the surface of the tumour. A fungating tumour may have minimal DOI despite large thickness. AJCC 8th edition uses DOI for T-stage upstaging: DOI >5 mm → T2; DOI >10 mm → T3 (regardless of size)."
+        }
+      ]
+    },
+    {
+      "id": "A4-S4",
+      "title": "PET-CT and the cN+ Neck: PET-NECK Trial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "For patients with advanced head and neck SCC (T3–T4 or cN+) treated with primary chemoradiotherapy (CRT), the management of residual neck disease has historically required planned neck dissection (PND) after CRT. The **PET-NECK trial** (Mehanna H et al., NEJM 2016) addressed whether post-CRT PET-CT surveillance could safely replace PND. This multicentre RCT randomised 564 patients with N2–N3 HNSCC treated with primary platinum-based CRT to either PET-CT surveillance at 12 weeks post-CRT (with neck dissection only for PET-positive disease) or planned neck dissection. The PET-CT group had equivalent **2-year overall survival** (84.9% vs 81.5%, p=0.42) with significantly fewer neck dissections performed (54 vs 221 operations). The PET-CT group also had lower complication rates and equivalent quality of life. Importantly, complete metabolic response on PET-CT (Deauville 1–3) predicted pathological complete response with 93% negative predictive value. These results established PET-CT surveillance as the preferred approach after primary CRT for N2–N3 disease, avoiding unnecessary neck dissections in the majority of patients who achieve complete response."
+        },
+        {
+          "type": "table",
+          "title": "PET-NECK Trial — Key Results Summary",
+          "headers": ["Outcome", "PET-CT Surveillance", "Planned Neck Dissection", "p-value"],
+          "rows": [
+            ["2-year OS", "84.9%", "81.5%", "0.42 (NS)"],
+            ["Neck dissections performed", "54/282", "221/282", "< 0.001"],
+            ["Major complication rate", "Lower", "Higher", "< 0.05"],
+            ["Mean cost per patient", "£1,521 less", "Reference", "< 0.001"],
+            ["NPV of negative PET", "93%", "N/A", "—"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — PET-NECK Application",
+          "content": "PET-NECK showed that for N2–N3 HNSCC treated with primary CRT, PET-CT at 12 weeks can safely replace planned neck dissection. Complete metabolic response (Deauville 1–3) = no surgery needed in >93% of cases. Surgery is reserved for PET-positive (Deauville 4–5) residual disease only."
+        }
+      ]
+    },
+    {
+      "id": "A4-S5",
+      "title": "Surgical Anatomy and Technique",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Safe neck dissection requires detailed knowledge of the structures at risk. The **spinal accessory nerve (CN XI)** exits the posterior border of the SCM approximately 1 cm above Erb's point (the junction of the greater auricular nerve with the posterior border of SCM). It then traverses the posterior triangle to enter the trapezius. Injury leads to shoulder drop, limited abduction, and chronic pain. Preservation requires careful dissection of the IIB and VA levels. The **internal jugular vein (IJV)** lies within the carotid sheath; ligation is necessary in radical ND and risks cerebral venous hypertension if bilateral IJV sacrifice is required simultaneously (should be staged). The **phrenic nerve** runs on the anterior surface of the anterior scalene muscle; at risk during level IV and supraclavicular dissection. Injury causes ipsilateral diaphragm paralysis. The **thoracic duct** enters the venous system at the junction of the left IJV and subclavian vein; at risk during left-sided level IV dissection. The **marginal mandibular nerve** (branch of CN VII) runs deep to platysma along the lower border of the mandible, at risk during level I dissection. The **hypoglossal nerve (CN XII)** loops around the external carotid artery above the lingual artery, at risk during level II dissection. Standard incisions for neck dissection include the MacFee double-horizontal incision (best blood supply for post-irradiated necks), the utility incision (hockey-stick: vertical component at anterior SCM border extended horizontally along the mastoid), and the modified Schobinger incision."
+        },
+        {
+          "type": "table",
+          "title": "Structures at Risk During Neck Dissection — Anatomical Location and Clinical Consequence of Injury",
+          "headers": ["Structure", "Location / Risk Level", "Consequence of Injury", "Prevention"],
+          "rows": [
+            ["Spinal accessory (CN XI)", "Posterior to SCM, posterior triangle", "Shoulder drop, limited abduction, chronic pain", "Identify at Erb's point; careful IIB/VA dissection"],
+            ["Marginal mandibular n.", "Deep to platysma, below mandible", "Lower lip weakness/asymmetry", "Incise platysma below angle; ligate facial vein low"],
+            ["Phrenic nerve", "Anterior scalene surface", "Ipsilateral hemidiaphragm paralysis", "Stay superficial to pre-vertebral fascia at Level IV"],
+            ["Hypoglossal n. (CN XII)", "Loops around ECA above lingual a.", "Ipsilateral tongue deviation/atrophy", "Identify before ligating facial/lingual arteries"],
+            ["Thoracic duct", "Left IJV-subclavian junction", "Chylous fistula", "Left Level IV: ligate all small vessels, check Valsalva"],
+            ["Sympathetic trunk", "Pre-vertebral fascia, deep to carotid sheath", "Horner syndrome (ptosis, miosis, anhidrosis)", "Preserve pre-vertebral fascia"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Post-Irradiated Neck",
+          "content": "In the previously irradiated neck, tissue planes are obliterated, vascularity is reduced, and wound healing is impaired. The MacFee double-horizontal incision provides superior blood supply compared to apron incisions by avoiding vertical cuts through irradiated tissue. Free flap reconstruction with vascularised skin should be considered if wound closure is under tension. Carotid artery blow-out is a rare but catastrophic complication in previously irradiated necks with wound breakdown."
+        }
+      ]
+    },
+    {
+      "id": "A4-S6",
+      "title": "Complications of Neck Dissection",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Complications of neck dissection are classified as intraoperative, early postoperative, and late. **Chyle leak** is the most common serious complication of left-sided (and occasionally right-sided) neck dissection, occurring in 1–2.5% of cases. It presents as increased drain output with milky fluid after enteral feeding; confirmed by fluid triglyceride level >110 mg/dL or positive Sudan red stain. Management is initially conservative: low-fat diet (medium-chain triglycerides), negative pressure to the wound, and octreotide (somatostatin analogue) to reduce lymphatic flow. Persistent leakage (>500 mL/day for >5 days) requires surgical re-exploration and ligation of the thoracic duct or leak point. Chylothorax is a rare but serious sequela. **Haematoma** typically presents within 4–6 hours of surgery with expanding neck swelling and potential airway compromise; requires immediate return to theatre. **Wound dehiscence** is more frequent in post-irradiated and previously operated necks; free flap reconstruction should be considered prophylactically. **Spinal accessory nerve injury** produces shoulder syndrome: limited shoulder abduction (< 90°), shoulder drop, winging of the scapula, and chronic pain. Physiotherapy can partially compensate; in cases of complete transection, primary neurorrhaphy or nerve grafting (greater auricular nerve) may be attempted. **Carotid artery injury**: intraoperative inadvertent arteriotomy requires immediate repair; delayed carotid artery blow-out (Carotid Artery Rupture, CAR) is a life-threatening complication, typically in a post-irradiated or infected wound, presenting with herald bleed followed by catastrophic haemorrhage. Management: digital pressure, immediate embolisation or surgical ligation."
+        },
+        {
+          "type": "table",
+          "title": "Complications of Neck Dissection — Recognition and Management",
+          "headers": ["Complication", "Incidence", "Diagnosis", "Management"],
+          "rows": [
+            ["Chyle leak", "1–2.5%", "Milky drain fluid post-feed; TG >110 mg/dL", "Low-fat diet, octreotide, NPD; surgery if >500 mL/day ×5 days"],
+            ["Haematoma", "1–3%", "Expanding neck mass, airway compromise, within 6h", "Immediate return to theatre for evacuation"],
+            ["CN XI injury (shoulder)", "5–25%", "Shoulder drop, abduction <90°, winging scapula", "Physio; neurorrhaphy/graft if complete transection"],
+            ["Wound dehiscence", "2–5%", "Wound breakdown, exposed carotid", "Debridement + free flap reconstruction"],
+            ["Carotid blow-out", "<1% overall, higher post-XRT", "Herald bleed then haemorrhage", "Digital pressure; emergency embolisation or ligation"],
+            ["Phrenic nerve palsy", "0.5–1%", "Raised hemidiaphragm on CXR; dyspnoea", "Conservative (usually temporary); diaphragm plication if permanent"],
+            ["Horner syndrome", "<1%", "Ipsilateral ptosis, miosis, anhidrosis", "No treatment; educate patient (permanent if sympathetic trunk divided)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Chyle Leak Management",
+          "content": "Do NOT place the patient on NPO (nil by mouth) for chyle leak — medium-chain triglyceride (MCT) formula diet is the preferred conservative strategy, as MCTs bypass the thoracic duct. Standard TPN is not usually necessary unless output is very high. Total lymphocyte count should be monitored as significant leak causes lymphopaenia and immunosuppression."
+        }
+      ]
+    },
+    {
+      "id": "A4-S7",
+      "title": "Pathological Reporting and Prognostic Factors",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Pathological assessment of the neck dissection specimen provides critical staging and prognostic information. The minimum pathological data set (per CAP/RCPath protocols) includes: total number of nodes retrieved, number of positive nodes, presence and extent of **extranodal extension (ENE)**, lymph node level of positive nodes, and size of the largest metastatic deposit. **Extranodal extension** is defined as tumour extending beyond the lymph node capsule into surrounding soft tissue with or without desmoplastic stromal reaction. ENE is the single most important adverse pathological feature: it is an indication for adjuvant cisplatin-based chemoradiotherapy (per RTOG 9501 and EORTC 22931) and represents a significant downgrade in prognosis. AJCC 8th edition now includes ENE as an N-stage modifier: N+ENE is classified as N3b regardless of node size or number for HPV-negative disease. The **yield of the specimen** (number of nodes retrieved) is an important quality indicator. A minimum of **18 nodes** from a comprehensive levels I–V dissection is recommended. Inadequate sampling may understage the patient. Pathological review should also document soft tissue deposits, size of the largest node, and distance of tumour from surgical margins. For HPV-associated oropharyngeal SCC, the same anatomical criteria apply but with separate AJCC 8th edition staging tables that reflect the markedly better prognosis of this entity (N3 HPV+ OPSCC has a better prognosis than N2b HPV-negative HNSCC)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — ENE as Indication for Chemoradiation",
+          "content": "Extranodal extension (ENE) is the key pathological finding that upgrades adjuvant treatment from radiation alone to concurrent cisplatin chemoradiation. RTOG 9501 (Cooper, NEJM 2004) showed that the survival benefit of adding cisplatin to post-operative radiotherapy was confined to patients with ENE and/or positive surgical margins. ENE also upstages oral cavity, oropharynx, larynx, and hypopharynx primaries to N3b in AJCC 8th edition."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of neck dissection classification, technique, evidence-based management, and complications with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "A4-Q1",
+        "stem": "A 45-year-old man undergoes right supraomohyoid selective neck dissection (levels I–III) for a cT2 cN0 right lateral tongue SCC with depth of invasion 7 mm. Final histology shows 2/18 nodes positive in level II with no extranodal extension. Surgical resection margins are clear (>5 mm). According to current guidelines, what is the recommended adjuvant treatment?",
+        "options": {
+          "A": "Observation only — margins clear and no ENE",
+          "B": "Adjuvant radiotherapy to the ipsilateral neck",
+          "C": "Adjuvant concurrent cisplatin chemoradiotherapy",
+          "D": "Completion neck dissection to levels IV–V followed by observation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Adjuvant radiotherapy (without cisplatin) is indicated for pN+ disease (2 or more positive nodes) when surgical margins are clear and there is no extranodal extension. The indications for adding cisplatin (concurrent chemoradiation) per RTOG 9501/EORTC 22931 are ENE and/or positive surgical margins. With clear margins and no ENE, radiation alone to the neck is appropriate. NCCN 2024 Head and Neck Cancers recommends PORT for 2+ positive nodes without ENE.",
+          "wrong": {
+            "A": "Observation is not appropriate for pN+ disease — even without ENE, 2 positive nodes in level II warrant adjuvant radiotherapy to reduce regional recurrence risk.",
+            "C": "Concurrent cisplatin chemoradiation is reserved for cases with extranodal extension (ENE) and/or positive surgical margins, neither of which is present here. Adding cisplatin without these indications increases toxicity without proven survival benefit.",
+            "D": "Completion dissection to levels IV–V would be indicated if the primary dissection was inadvertently incomplete or if imaging showed additional suspicious nodes, not as routine adjuvant treatment after pN+ disease with clear margins."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principles of Radiation Therapy and Systemic Therapy; RTOG 9501 (Cooper NEJM 2004); EORTC 22931 (Bernier NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004): post-operative CRT vs PORT alone showed benefit of adding cisplatin confined to patients with ENE and/or positive margins; no benefit for pN+ disease with clear margins and no ENE.",
+          "pearl": "The two indications for adjuvant CISPLATIN in head and neck SCC are: (1) extranodal extension and (2) positive surgical margins. Two or more positive nodes without ENE = PORT alone, not chemoRT."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q2",
+        "stem": "Which of the following correctly defines 'Level IIB' of the neck lymph node classification?",
+        "options": {
+          "A": "Nodes inferior to the posterior belly of the digastric and superior to the hyoid",
+          "B": "Nodes in the posterior triangle between the skull base and inferior belly of the omohyoid",
+          "C": "Upper jugular nodes posterior to the spinal accessory nerve (CN XI), from skull base to hyoid",
+          "D": "Upper jugular nodes anterior to the internal jugular vein, from skull base to hyoid"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Level IIB is defined as the upper jugular group of nodes located posterior to the spinal accessory nerve (CN XI), extending from the skull base to the inferior border of the hyoid bone. The dividing landmark between IIA and IIB is the spinal accessory nerve, not the internal jugular vein. IIA lies anterior to CN XI; IIB lies posterior to it.",
+          "wrong": {
+            "A": "This description approximates Level IB (submandibular triangle), not Level IIB. The boundary between I and II is the posterior belly of the digastric.",
+            "B": "This describes Level VA (posterior triangle nodes above the omohyoid), not Level IIB. Level V is entirely posterior triangle; Level II is upper jugular.",
+            "D": "Level IIA (not IIB) contains nodes anterior to the spinal accessory nerve. The IIA/IIB distinction is made by the nerve, not the vein."
+          },
+          "guideline": "Robbins KT et al. Consensus Statement on the Classification and Terminology of Neck Dissection (AAO-HNS/AHNS, Arch Otolaryngol Head Neck Surg 2008)",
+          "trial": "Shah JP (Am J Surg 1990): patterns of cervical lymph node metastasis showed Level II to be the most common first-echelon drainage station for oral cavity, oropharynx, and larynx primaries.",
+          "pearl": "The spinal accessory nerve (CN XI) is the anatomical dividing line between Level IIA (anterior) and Level IIB (posterior). For tonsillar primaries, IIB is at significant risk and should not be preserved."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q3",
+        "stem": "The SENTI-MELA trial (D'Cruz AK et al., NEJM 2015) randomised 596 patients with cT1–T2 cN0 oral cavity SCC to immediate elective neck dissection (END) versus therapeutic neck dissection (TND). What was the primary finding regarding overall survival?",
+        "options": {
+          "A": "No significant difference in OS between END and TND (HR 1.02, p=0.87)",
+          "B": "END improved 3-year OS from 67.5% to 80.0% (HR 0.64, p=0.01)",
+          "C": "TND improved OS by avoiding unnecessary surgery in 70% of node-negative patients",
+          "D": "END improved disease-free survival but not overall survival"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "SENTI-MELA demonstrated a significant improvement in overall survival with immediate END: 80.0% vs 67.5% at 3 years (HR 0.64, 95% CI 0.45–0.92, p=0.01). Disease-free survival was also significantly improved (69.5% vs 45.9%). This trial definitively established END as standard of care for cT1–T2 cN0 oral cavity SCC, ending the debate over watchful waiting.",
+          "wrong": {
+            "A": "This would represent a null result — the trial showed a significant survival benefit for END. This is incorrect.",
+            "C": "The argument for watchful waiting (TND) was that only ~30% of cN0 patients have occult metastases, sparing 70% from unnecessary surgery. However, SENTI-MELA showed that this approach results in significantly inferior survival, making it an unacceptable strategy.",
+            "D": "SENTI-MELA showed improvement in BOTH disease-free AND overall survival with END, not DFS alone. The OS benefit (HR 0.64) is the primary endpoint result."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Lip and Oral Cavity; EACMFS Head and Neck Oncology Guidelines 2023",
+          "trial": "SENTI-MELA (D'Cruz AK et al., NEJM 2015): immediate END vs therapeutic ND in 596 cT1-T2 cN0 oral cavity SCC; 3-year OS 80.0% vs 67.5% (HR 0.64, p=0.01); established END as standard of care.",
+          "pearl": "SENTI-MELA is the most important trial in oral cavity cancer management. Know the key figures: 3-year OS benefit 80% vs 67.5%, HR 0.64, p=0.01. END is now mandatory for cN0 oral cavity SCC regardless of T stage."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q4",
+        "stem": "A 58-year-old woman with T3N2bM0 base of tongue SCC (HPV-negative) completes primary concurrent chemoradiotherapy. PET-CT at 12 weeks post-treatment shows complete metabolic response (Deauville score 2) in the primary site and neck. What is the recommended next step according to PET-NECK trial evidence?",
+        "options": {
+          "A": "Immediate planned neck dissection regardless of PET-CT result",
+          "B": "Planned neck dissection because the patient is HPV-negative",
+          "C": "Surveillance with clinical examination and repeat imaging — no neck dissection",
+          "D": "Salvage transoral robotic surgery to the base of tongue"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "PET-NECK (Mehanna, NEJM 2016) demonstrated that PET-CT surveillance at 12 weeks can safely replace planned neck dissection for N2–N3 HNSCC treated with primary CRT. A Deauville score of 1–3 (complete or near-complete metabolic response) has a negative predictive value of 93% for residual pathological disease. In this scenario, a Deauville 2 complete metabolic response indicates no surgery is needed, and the patient should continue surveillance.",
+          "wrong": {
+            "A": "Planned neck dissection regardless of PET result was the historical standard but is now superseded by PET-CT surveillance per PET-NECK. Performing ND in all cN+ patients would subject the majority (who achieve complete response) to unnecessary surgery.",
+            "B": "HPV status was not a significant modifier of the PET-NECK result — the survival equivalence of PET surveillance vs planned ND applied regardless of HPV status. While HPV-negative disease has worse prognosis, a complete metabolic response on PET still predicts pathological CR with high NPV.",
+            "D": "Salvage TORS would be indicated for residual or recurrent disease at the primary site, not for metabolic complete response. Salvage surgery is high-risk and reserved for definitive local/regional failure."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Oropharynx (HPV-Negative); EACMFS Head and Neck Oncology Guidelines 2023",
+          "trial": "PET-NECK (Mehanna H et al., NEJM 2016): PET-CT surveillance vs planned neck dissection in 564 N2–N3 HNSCC; equivalent 2-year OS (84.9% vs 81.5%); significantly fewer neck dissections (54 vs 221); established PET surveillance as standard of care.",
+          "pearl": "PET-NECK: Complete metabolic response (Deauville 1–3) = no neck dissection needed, NPV 93%. Neck dissection is only for Deauville 4–5 (PET-positive residual disease). This applies regardless of HPV status."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q5",
+        "stem": "During a left modified radical neck dissection Type III (Bocca dissection) for N2b SCC of the piriform sinus, the surgeon notices milky fluid in the drain on postoperative day 2 after starting enteral feeding. Triglyceride level in the drain fluid is 180 mg/dL. What is the most appropriate initial management?",
+        "options": {
+          "A": "Immediate return to theatre for thoracic duct ligation",
+          "B": "Switch to nil by mouth and total parenteral nutrition (TPN)",
+          "C": "Low-fat diet with medium-chain triglycerides (MCT) and subcutaneous octreotide",
+          "D": "Insertion of thoracic drain and pleurodesis"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The diagnosis is chyle leak (drain TG >110 mg/dL confirms chylous fluid). Initial management is conservative: switching to a low-fat diet using medium-chain triglycerides (MCTs) bypasses the thoracic duct, dramatically reducing chyle flow. Subcutaneous octreotide (somatostatin analogue) further reduces lymphatic output. Maintaining enteral nutrition with MCT formula is preferable to NPO + TPN as it preserves gut integrity and is equally effective in reducing output. Surgery is reserved for failure of conservative management (>500 mL/day for >5 days, or increasing output).",
+          "wrong": {
+            "A": "Immediate return to theatre is premature — conservative management with low-fat MCT diet and octreotide successfully resolves 70–80% of chyle leaks. Surgery is reserved for refractory high-output leaks (>500 mL/day for more than 5 days despite conservative measures).",
+            "B": "NPO + TPN is an older approach. MCT enteral formula is preferred because it is equally effective at reducing chyle output, preserves mucosal gut barrier function, and avoids the complications of TPN. NPO alone without MCT replacement does not significantly reduce thoracic duct flow.",
+            "D": "Thoracic drain and pleurodesis are treatments for chylothorax (pleural chyle collection), not a cervical chyle leak from a neck wound drain. In cervical chyle leak, there is typically no pleural component requiring a chest drain."
+          },
+          "guideline": "AAOMS Neck Dissection Guidelines 2023; EACMFS 2023 — Complications of Neck Dissection",
+          "trial": "Mra ZC et al. (Head Neck 1999): conservative management with low-fat/MCT diet resolves the majority of cervical chyle leaks; octreotide added for high-output leaks. Surgical re-exploration reserved for output >500 mL/day after 5 days.",
+          "pearl": "Chyle leak: TG >110 mg/dL in drain fluid confirms diagnosis. First-line = MCT formula (NOT NPO/TPN) + octreotide. Surgery if output >500 mL/day for >5 days. Left-sided neck dissection = highest risk (thoracic duct terminus)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q6",
+        "stem": "A surgeon is performing a right selective neck dissection (levels I–III) for a cT2N0 right buccal mucosa SCC. During level IB dissection, she identifies a nerve running deep to the platysma along the inferior border of the mandible. Injury to this nerve would most likely cause:",
+        "options": {
+          "A": "Ipsilateral tongue deviation and atrophy",
+          "B": "Loss of sensation to the anterior two-thirds of the tongue",
+          "C": "Ipsilateral lower lip weakness and asymmetry on smiling",
+          "D": "Ipsilateral shoulder drop and limited arm abduction"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The nerve described is the marginal mandibular branch of the facial nerve (CN VII). It runs deep to the platysma along the inferior border of the mandible, typically 1–2 cm below the mandibular border. Injury produces ipsilateral lower lip weakness and asymmetry, with the corner of the mouth drooping on smiling or showing teeth — a significant cosmetic and functional deficit.",
+          "wrong": {
+            "A": "Tongue deviation and atrophy result from hypoglossal nerve (CN XII) injury. CN XII loops around the external carotid artery at the level of the greater cornu of the hyoid, superior to the described location of the marginal mandibular nerve.",
+            "B": "Loss of sensation to the anterior two-thirds of the tongue is a consequence of lingual nerve injury. The lingual nerve is at risk during submandibular gland excision (passing between the medial surface of the mandible and hypoglossus muscle), not typically during level IB dissection near the inferior mandibular border.",
+            "D": "Shoulder drop and limited arm abduction result from spinal accessory nerve (CN XI) injury. CN XI is at risk in the posterior triangle (levels IIB and VA), not during level IB submandibular dissection."
+          },
+          "guideline": "AAOMS Neck Dissection Guidelines 2023; Robbins KT et al. (Arch Otolaryngol Head Neck Surg 2008)",
+          "trial": "Upile T et al. (Head Neck 2007): identification and preservation of the marginal mandibular nerve reduces cosmetically significant lower lip paralysis after neck dissection from 14% to <2%.",
+          "pearl": "Marginal mandibular nerve = lower lip asymmetry. It runs deep to platysma, 1–2 cm below mandibular border at level IB. Protect by incising platysma below the angle and ligating the facial vein low before reflecting flap superiorly."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q7",
+        "stem": "A radical neck dissection (RND) differs from a modified radical neck dissection Type III (MRND Type III, Bocca dissection) in that the RND additionally sacrifices which three structures?",
+        "options": {
+          "A": "Submandibular gland, parotid gland, and styloid process",
+          "B": "Sternocleidomastoid muscle, internal jugular vein, and spinal accessory nerve",
+          "C": "Digastric muscle, omohyoid muscle, and subclavian vein",
+          "D": "Sternocleidomastoid muscle, external jugular vein, and phrenic nerve"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Radical neck dissection (RND) removes levels I–V en bloc with sacrifice of the sternocleidomastoid muscle (SCM), internal jugular vein (IJV), and spinal accessory nerve (CN XI). Modified radical neck dissection Type III (MRND Type III, also called the Bocca dissection) removes the same lymph node levels I–V but preserves all three structures: SCM, IJV, and CN XI. MRND Type III has equivalent oncological outcomes to RND for most HNSCC while significantly reducing shoulder morbidity.",
+          "wrong": {
+            "A": "The submandibular gland is removed in both RND and MRND (it is part of the level IB dissection). The parotid tail and styloid process are not routinely removed in either dissection unless specifically involved.",
+            "C": "The anterior belly of the digastric and omohyoid are typically not sacrificed in either procedure unless directly involved. The subclavian vein is not a standard specimen in neck dissection.",
+            "D": "The external jugular vein is routinely ligated in neck dissection but this is not what distinguishes RND from MRND. The phrenic nerve is at risk but not routinely sacrificed. The distinguishing features of RND are sacrifice of SCM, IJV, and CN XI."
+          },
+          "guideline": "Robbins KT et al. Consensus Statement on the Classification and Terminology of Neck Dissection (AAO-HNS/AHNS, Arch Otolaryngol Head Neck Surg 2008)",
+          "trial": "Bocca E et al. (Ann Otol Rhinol Laryngol 1984): Functional neck dissection preserving SCM, IJV, and CN XI showed equivalent regional control to radical neck dissection with significantly reduced shoulder morbidity — established the basis for MRND Type III.",
+          "pearl": "RND sacrifices the 3 non-lymphatic structures: SCM + IJV + CN XI. MRND preserves one or more: Type I preserves CN XI; Type II preserves CN XI + IJV; Type III (Bocca) preserves all three. Oncological equivalence of MRND III to RND for most cN+ disease is established."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q8",
+        "stem": "A 62-year-old man with pT2 N2b laryngeal SCC (HPV-negative) undergoes total laryngectomy and right modified radical neck dissection. Histopathology demonstrates 4 positive nodes in levels II–IV with extranodal extension present. Surgical margins at the primary site are clear (>5 mm). What adjuvant treatment is recommended?",
+        "options": {
+          "A": "Observation — surgery achieved clear margins",
+          "B": "Adjuvant radiotherapy alone to the neck",
+          "C": "Adjuvant concurrent cisplatin chemoradiotherapy",
+          "D": "Adjuvant carboplatin chemoradiotherapy — cisplatin contraindicated post-laryngectomy"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Extranodal extension (ENE) is a high-risk pathological feature that mandates adjuvant concurrent cisplatin-based chemoradiotherapy (CRT) regardless of margin status. Both RTOG 9501 (Cooper, NEJM 2004) and EORTC 22931 (Bernier, NEJM 2004) demonstrated that the survival benefit of adding cisplatin to post-operative radiotherapy was confined to patients with ENE and/or positive surgical margins. ENE is present here, establishing the indication for CRT even though margins are clear.",
+          "wrong": {
+            "A": "Observation is not appropriate in the presence of ENE, which is an independent predictor of locoregional recurrence and is a guideline-level indication for adjuvant treatment regardless of margin status.",
+            "B": "Radiotherapy alone is insufficient when ENE is present. Both RTOG 9501 and EORTC 22931 showed that the OS benefit of adding cisplatin to radiation was specifically driven by the ENE subgroup.",
+            "D": "Cisplatin is not contraindicated after total laryngectomy. The reference to carboplatin reflects a common misconception — carboplatin is used as a cisplatin substitute only in patients with cisplatin contraindications (hearing loss, renal dysfunction, neuropathy), not routinely post-laryngectomy."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Larynx; RTOG 9501 (Cooper NEJM 2004); EORTC 22931 (Bernier NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004): post-operative CRT with cisplatin 100 mg/m² q3w vs PORT alone; 2-year locoregional control 82% vs 72% (p=0.01); OS benefit confined to ENE/positive margins subgroup.",
+          "pearl": "ENE = adjuvant cisplatin CRT. This is the most important pathological finding to trigger concurrent chemoradiation post-operatively. RTOG 9501 and EORTC 22931 are the two trials that defined this standard."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q9",
+        "stem": "Which selective neck dissection variant is most appropriate for the elective treatment of a cN0 neck in a patient with T2 squamous cell carcinoma of the supraglottic larynx?",
+        "options": {
+          "A": "Supraomohyoid SND (levels I–III)",
+          "B": "Lateral SND (levels II–IV)",
+          "C": "Posterolateral SND (levels II–V)",
+          "D": "Central compartment dissection (level VI)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The lateral selective neck dissection (levels II–IV) is the appropriate elective dissection for laryngeal, hypopharyngeal, and oropharyngeal primaries. The supraglottic larynx drains primarily to levels II, III, and IV along the jugular chain. Level I is not at significant risk for laryngeal primaries (level I primarily drains the oral cavity and floor of mouth). Level V is not routinely included unless there is posterior triangle involvement.",
+          "wrong": {
+            "A": "Supraomohyoid SND (levels I–III) is the correct elective dissection for ORAL CAVITY primaries (floor of mouth, tongue, buccal mucosa). Laryngeal primaries do not drain to level I, making this variant inappropriate for supraglottic larynx.",
+            "C": "Posterolateral SND (levels II–V plus retroauricular/suboccipital nodes) is indicated for scalp melanoma, parotid malignancies, and posterior neck skin cancers — not for laryngeal primaries. Including level V adds morbidity without benefit for laryngeal disease.",
+            "D": "Central compartment dissection (level VI) is the elective dissection for thyroid carcinoma, subglottic larynx (not supraglottic), and cervical oesophageal primaries. Level VI nodes drain the thyroid and subglottis, not the supraglottic larynx."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Supraglottic Larynx; AAOMS/AHNS Neck Dissection Guidelines 2023",
+          "trial": "Shah JP (Am J Surg 1990): anatomical mapping of cervical metastasis patterns showed laryngeal primaries drain predominantly to levels II–IV, establishing the anatomical rationale for lateral SND in elective management of laryngeal SCC.",
+          "pearl": "Elective neck dissection patterns by primary site: Oral cavity → Supraomohyoid (I–III); Larynx/Hypopharynx/Oropharynx → Lateral (II–IV); Scalp/Parotid → Posterolateral (II–V); Thyroid/Subglottis → Central (VI). Know these relationships for the board exam."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q10",
+        "stem": "During a left-sided modified radical neck dissection, the surgeon incises the pre-vertebral fascia inadvertently at level IV. On closure, a Valsalva manoeuvre confirms no identifiable leak. Postoperatively, the drain outputs 200 mL of clear fluid on day 1, then 150 mL on day 2, before the patient begins oral feeds, after which output becomes milky and reaches 400 mL/day. The triglyceride level in the drain fluid is 210 mg/dL. What is the best next step?",
+        "options": {
+          "A": "Immediate surgical re-exploration and ligation",
+          "B": "Continue current management for 48 hours before reassessing",
+          "C": "Start MCT formula diet, add subcutaneous octreotide, continue drain",
+          "D": "Remove drain and apply compressive neck dressing"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The clinical picture is consistent with a chyle leak (milky output after feeding, TG 210 mg/dL > 110 mg/dL threshold). With 400 mL/day output, this is a moderate-output leak that should initially be managed conservatively: switch to MCT formula to reduce chylomicron entry into the thoracic duct, add subcutaneous octreotide (50–100 mcg TID) to reduce lymphatic secretion, and maintain drain suction. Surgical re-exploration is reserved for output >500 mL/day for more than 5 consecutive days despite conservative management.",
+          "wrong": {
+            "A": "Immediate surgical re-exploration is not warranted for 400 mL/day output. The threshold for surgery is >500 mL/day for >5 days (or rapidly increasing output threatening electrolyte balance). Conservative management is the first-line approach and resolves 70–80% of leaks.",
+            "B": "Continuing the current management without dietary modification is incorrect — if the patient is still receiving standard enteral formula, switching to MCT formula is the first and most effective intervention to immediately reduce chyle output.",
+            "D": "Removing the drain risks chyle accumulation in the neck (chyloma), wound dehiscence, and missed monitoring of output trends. The drain should remain in situ to decompress the leak site and monitor response to treatment."
+          },
+          "guideline": "EACMFS Head and Neck Surgery Guidelines 2023; AAOMS Neck Dissection Complications 2023",
+          "trial": "Mra ZC et al. (Head Neck 1999): conservative management of chyle leaks with dietary modification resolves >70% of cases; octreotide significantly reduces output when added to MCT diet.",
+          "pearl": "Chyle leak threshold for surgery: >500 mL/day for >5 days of conservative management. Always start with MCT formula + octreotide. Check lymphocyte count — high-output leaks cause lymphopenia and immunosuppression."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q11",
+        "stem": "A 54-year-old woman 6 months post-right modified radical neck dissection for N2b tonsillar SCC complains of inability to raise her right arm above shoulder height and pain when reaching overhead. Examination shows right shoulder drop, winging of the scapula, and weakness of right trapezius. Which structure was most likely injured during surgery?",
+        "options": {
+          "A": "Phrenic nerve",
+          "B": "Brachial plexus",
+          "C": "Spinal accessory nerve (CN XI)",
+          "D": "Suprascapular nerve"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The clinical picture — shoulder drop, scapular winging, and inability to abduct the arm above 90° — is the classic presentation of spinal accessory nerve (CN XI) injury following neck dissection. CN XI innervates the trapezius (and SCM) and is at highest risk during dissection of level IIB (where it exits the SCM) and level VA (posterior triangle). In MRND Type III, the nerve should be preserved but may sustain traction or devascularisation injury leading to delayed palsy.",
+          "wrong": {
+            "A": "Phrenic nerve injury causes ipsilateral diaphragm paralysis with dyspnoea and an elevated hemidiaphragm on chest X-ray, not shoulder or arm dysfunction.",
+            "B": "Brachial plexus injury would cause more diffuse upper extremity weakness, sensory deficits, and potentially Horner syndrome. It is not typically injured in standard neck dissection.",
+            "D": "Suprascapular nerve injury would cause specific supraspinatus and infraspinatus weakness and external rotation deficit, not the global shoulder syndrome with winging described here."
+          },
+          "guideline": "AAOMS Neck Dissection Complications 2023; EACMFS 2023",
+          "trial": "van Wilgen CP et al. (Head Neck 2004): shoulder morbidity after neck dissection correlates with CN XI preservation; MRND with preserved CN XI still has 25–40% rate of shoulder dysfunction due to traction injury.",
+          "pearl": "CN XI injury = shoulder syndrome: drop, limited abduction <90°, winging. In MRND Type III, preservation of the nerve does not guarantee function — traction injury is common. Aggressive physiotherapy should begin 6 weeks post-op. Never sacrifice CN XI unnecessarily."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q12",
+        "stem": "A pathology report following a left levels I–V modified radical neck dissection for a T4aN2c oral cavity SCC shows: 16 nodes retrieved; 5 positive nodes; ENE present in 2 nodes; largest node 3.2 cm. According to AJCC 8th edition, what is the correct pathological N (pN) classification?",
+        "options": {
+          "A": "pN2b",
+          "B": "pN2c",
+          "C": "pN3a",
+          "D": "pN3b"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "AJCC 8th edition introduced extranodal extension (ENE) as an N-stage modifier for non-HPV HNSCC. Any node with extranodal extension is classified as N3b, regardless of the number of nodes, size, or laterality. The presence of ENE in 2 nodes automatically classifies this as pN3b. This is one of the most clinically important changes in AJCC 8th edition staging.",
+          "wrong": {
+            "A": "pN2b would apply to multiple ipsilateral nodes, none >6 cm, without ENE. The presence of ENE overrides the N2 classification and mandates N3b.",
+            "B": "pN2c would apply to bilateral or contralateral nodes ≤6 cm without ENE. ENE still overrides this to pN3b.",
+            "C": "pN3a applies to a single node >6 cm (without ENE). The largest node here is 3.2 cm, so N3a based on size is not applicable. Furthermore, ENE takes precedence and results in N3b regardless."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — Head and Neck Chapter; NCCN Head and Neck Cancers v1.2024",
+          "trial": "Wreesmann VB et al. (Cancer 2016): ENE as an independent predictor of regional recurrence and overall survival; inclusion in AJCC 8th edition reflects its prognostic importance.",
+          "pearl": "AJCC 8th: ENE = N3b in HPV-negative HNSCC. This is automatic regardless of node size, number, or laterality. The only exceptions are thyroid (different staging) and HPV+ oropharynx (separate staging system). Always check for ENE in every pathology report."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q13",
+        "stem": "Sentinel lymph node biopsy (SLNB) is being considered for a 48-year-old patient with cT1N0 right lateral tongue SCC (depth of invasion 5 mm). Which statement most accurately reflects the evidence from the SENT study (Schilling et al., Lancet Oncology 2015)?",
+        "options": {
+          "A": "SLNB has sensitivity of 96% and NPV of 99% — it has replaced standard END as the preferred treatment",
+          "B": "SLNB has sensitivity of 86% and NPV of 95% — it is a valid staging procedure in high-volume centres but has not replaced END globally",
+          "C": "SLNB is only valid for T1 tumours; T2 lesions have too high a false-negative rate",
+          "D": "SLNB is contraindicated for floor of mouth tumours due to shine-through artefact"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The SENT study (Schilling C et al., Lancet Oncology 2015) — a prospective multicentre European study of 415 patients with cT1–T2 cN0 oral cavity/oropharyngeal SCC — reported a sensitivity of 86% and negative predictive value of 95% for SLNB in detecting occult nodal metastasis. These results support SLNB as a valid staging procedure in experienced centres but do not establish superiority over END. It remains a staging tool that avoids full END when the sentinel node is negative, with the caveat that a false-negative rate of ~14% exists.",
+          "wrong": {
+            "A": "The sensitivity and NPV reported in SENT were 86% and 95%, not 96% and 99%. More importantly, SLNB has not replaced END globally — it is adopted in high-volume European centres as an alternative staging approach, but NCCN still recommends END or observation based on risk, not SLNB, as the primary standard.",
+            "C": "SENT included both T1 and T2 (cT1–T2) tumours with comparable results. T2 tumours are not contraindicated for SLNB in the SENT protocol, though performance may be slightly lower with larger primaries.",
+            "D": "Shine-through artefact (lymph node signal obscured by intense primary site uptake) is a recognised technical challenge in floor of mouth primaries, not a contraindication. SPECT-CT and intraoperative gamma probe can overcome this limitation in most cases."
+          },
+          "guideline": "EACMFS Head and Neck Oncology Guidelines 2023; NCCN Head and Neck v1.2024 (SLNB discussed as emerging alternative)",
+          "trial": "SENT study (Schilling C et al., Lancet Oncol 2015): 415 patients, cT1-T2 cN0 oral/oropharyngeal SCC; SLNB sensitivity 86%, NPV 95%; supports SLNB as valid staging tool in experienced centres.",
+          "pearl": "SENT trial: SLNB sensitivity 86%, NPV 95%. Valid in high-volume centres for cT1-T2 cN0 oral cavity SCC. Main limitation: 14% false-negative rate. Shine-through artefact is a technical challenge for floor-of-mouth primaries — use SPECT-CT."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q14",
+        "stem": "A 67-year-old man develops a slowly expanding right neck mass after radiation for nasopharyngeal carcinoma 8 years ago. PET-CT shows a FDG-avid level V node (Deauville 4). Fine needle aspiration confirms squamous cell carcinoma. No primary site is identified on clinical examination, flexible endoscopy, or PET-CT. What is the appropriate management?",
+        "options": {
+          "A": "Observation with repeat PET-CT in 3 months",
+          "B": "Ipsilateral modified radical neck dissection levels I–V, then post-operative radiotherapy to the neck and bilateral oropharynx",
+          "C": "Primary radiotherapy to the neck only — surgery is contraindicated in the post-irradiated patient",
+          "D": "Bilateral tonsillectomy + tongue base mucosectomy (TORS) + neck dissection to investigate the primary"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "This is an unknown primary (carcinoma of unknown primary, CUP) presentation. In the era of HPV-associated oropharyngeal SCC, the standard workup includes deep tonsil biopsy (or tonsillectomy if FNA negative) and base of tongue mucosectomy/biopsy (via TORS or transoral surgery) to identify a concealed oropharyngeal primary. Identifying the primary site allows targeted treatment and avoids extensive bilateral neck irradiation. The tonsil (particularly in patients where this was not previously irradiated for NPC) should be surgically resected as the occult primary is identified in 40–60% of CUP cases with this approach.",
+          "wrong": {
+            "A": "Observation is inappropriate — this is a confirmed SCC in a neck node with no evidence of distant metastasis. Delayed treatment risks progression.",
+            "B": "This approach treats the neck without investigating for the primary. If the primary is subsequently found (oropharynx, tongue base), incomplete treatment would result. NCCN mandates a systematic workup to identify the primary before definitive neck treatment.",
+            "C": "Surgery is not absolutely contraindicated in post-irradiated patients, though it carries higher risks of wound complications. For isolated neck disease with manageable risk, neck dissection remains a valid option. However, the first priority is identifying the primary site."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Occult Primary (CUP); EACMFS 2023",
+          "trial": "Friesland S et al. (Acta Oncol 2001) and Mehanna H et al. (NEJM 2016 — PET-NECK subanalysis): systematic workup of CUP including TORS tonsillectomy/base of tongue mucosectomy identifies primary in 40–70% of cases, enabling targeted treatment.",
+          "pearl": "Unknown primary neck SCC workup: HPV/p16 testing + PET-CT + TORS tonsillectomy + tongue base mucosectomy. Identify the primary in 40–70% of cases. Finding an HPV+ oropharyngeal primary dramatically changes prognosis (excellent) and treatment planning."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q15",
+        "stem": "What is the anatomical landmark used to identify the spinal accessory nerve (CN XI) at the posterior border of the sternocleidomastoid muscle (SCM) during neck dissection?",
+        "options": {
+          "A": "The point where the great auricular nerve crosses the SCM (Erb's point), approximately 6 cm below the mastoid tip",
+          "B": "The junction of the middle and lower thirds of the posterior SCM border",
+          "C": "The point 1 cm above where the greater auricular nerve crosses the posterior SCM (Erb's point)",
+          "D": "The superior margin of the omohyoid muscle"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The spinal accessory nerve (CN XI) exits the posterior border of the SCM approximately 1 cm ABOVE Erb's point. Erb's point is defined as the junction of the greater auricular nerve and the posterior SCM border, approximately 6 cm below the mastoid tip (or the midpoint of the posterior SCM border). CN XI exits 1 cm cephalad to this landmark, then crosses the posterior triangle to enter the trapezius.",
+          "wrong": {
+            "A": "Erb's point itself is where the greater auricular nerve crosses the SCM, but CN XI exits 1 cm ABOVE (cephalad to) Erb's point, not at Erb's point itself.",
+            "B": "The junction of the middle and lower thirds of the posterior SCM border is not a recognised anatomical landmark for CN XI localisation and would place the needle too caudally.",
+            "D": "The omohyoid muscle inferior belly is a landmark for the level III/IV boundary, not for CN XI identification. It lies below the typical exit point of CN XI from the SCM."
+          },
+          "guideline": "Robbins KT et al. (Arch Otolaryngol Head Neck Surg 2008); Flint PW et al. Cummings Otolaryngology 7th ed. 2021",
+          "trial": "Kierner AC et al. (Arch Otolaryngol Head Neck Surg 2000): morphometric study confirming CN XI exits the SCM 0.8–1.2 cm above Erb's point in 95% of cadavers.",
+          "pearl": "CN XI exits SCM 1 cm above Erb's point. Erb's point = greater auricular nerve crossing the posterior SCM border = 6 cm below mastoid tip. After exiting SCM, CN XI crosses the posterior triangle at a depth of 1–2 cm before entering trapezius."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q16",
+        "stem": "A MacFee double-horizontal incision is selected for a left neck dissection in a patient who previously received 66 Gy radiotherapy to the left neck for laryngeal SCC. What is the principal advantage of this incision over a single apron or utility incision in this clinical context?",
+        "options": {
+          "A": "It provides better cosmetic outcome by avoiding visible scars",
+          "B": "It avoids vertical skin components that cross irradiated tissue, thus preserving blood supply to skin flaps",
+          "C": "It allows access to both neck levels I and VI without repositioning",
+          "D": "It requires less operating time due to smaller total incision length"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The MacFee double-horizontal incision (two parallel transverse incisions) avoids vertical components crossing the irradiated neck, which are prone to ischaemic necrosis and breakdown in a previously irradiated field. Radiation damage impairs microvascular blood supply; vertical scars that cross between areas of differing radiation dose create zones of ischaemia at the skin bridge between the two transverse incisions. The intervening skin bridge retains adequate perfusion as it runs parallel to the vascular supply from the subdermal plexus. This reduces the risk of wound breakdown, carotid artery exposure, and wound infection.",
+          "wrong": {
+            "A": "Cosmetic advantage is not the primary rationale for the MacFee incision in post-irradiated patients. The incision has more limited access compared to apron incisions and is chosen for vascular preservation, not aesthetics.",
+            "C": "No single neck dissection incision provides simultaneous access to all levels I–VI without repositioning. MacFee access is limited compared to apron/utility incisions — it is chosen for wound healing reasons, not anatomical access.",
+            "D": "The MacFee incision actually has a total length comparable to other incisions and does not offer a time advantage; the skin bridge between the two incisions requires more careful handling."
+          },
+          "guideline": "EACMFS Head and Neck Surgery Guidelines 2023; AAOMS Neck Dissection Technical Standards 2023",
+          "trial": "MacFee WF (Ann Surg 1960): original description of the double-horizontal incision for post-irradiated neck dissection demonstrating superior wound healing compared to vertical-component incisions.",
+          "pearl": "MacFee incision = two horizontal incisions for post-irradiated necks. Preserves blood supply by avoiding vertical components across irradiated skin. Used when wound breakdown would expose the carotid artery — a life-threatening complication in previously irradiated tissue."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q17",
+        "stem": "A 71-year-old man undergoes planned neck dissection (right levels II–IV) 6 weeks after completing primary chemoradiotherapy for N2b SCC of the right vallecula. Two weeks post-operatively, he presents with a pulsatile neck mass that was not present at his initial post-operative visit. On examination, there is a pulsatile mass at the right angle of the mandible with mild surrounding erythema and a small area of skin necrosis overlying the carotid bifurcation. He reports a small episode of bright red blood from the neck wound 3 days ago that resolved spontaneously. What is the most likely diagnosis and the immediate next step?",
+        "options": {
+          "A": "Postoperative haematoma — drain under local anaesthesia in clinic",
+          "B": "Carotid artery rupture (carotid blow-out syndrome) — immediate arterial embolisation or surgical ligation",
+          "C": "Cervical abscess — IV antibiotics and surgical drainage",
+          "D": "Salivary fistula — compression dressing and observation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The clinical picture is classic carotid artery rupture (carotid blow-out syndrome, CBS): pulsatile neck mass, skin necrosis overlying the carotid bifurcation, and a prior 'herald bleed' (small spontaneous bleeding episode 3 days earlier). This is a surgical emergency. CBS occurs in previously irradiated necks with wound breakdown, typically 4–6 weeks post-neck dissection. The herald bleed is pathognomonic and presages catastrophic haemorrhage. Immediate management: digital pressure if active bleeding, emergent CT angiography to localise the site, then endovascular embolisation or covered stent as first-line treatment. Open surgical ligation is an alternative if endovascular is unavailable.",
+          "wrong": {
+            "A": "A pulsatile mass with skin necrosis and a prior herald bleed is not a haematoma. Attempting to drain this in clinic could precipitate catastrophic arterial haemorrhage.",
+            "C": "While post-neck dissection infections occur, a pulsatile mass with overlying skin necrosis and a herald bleed is not consistent with a simple abscess. Incising over the carotid in this context would be extremely dangerous.",
+            "D": "A salivary fistula would present with salivary fluid from the wound, not a pulsatile mass with a haemorrhagic herald bleed and skin necrosis."
+          },
+          "guideline": "EACMFS Head and Neck Surgery Guidelines 2023; AAOMS Neck Dissection Complications 2023",
+          "trial": "Citardi MJ et al. (Ann Otol Rhinol Laryngol 1995): carotid blow-out syndrome in post-irradiated neck dissection; endovascular embolisation as preferred first-line treatment; mortality 40% without treatment.",
+          "pearl": "Herald bleed + pulsatile neck mass + skin necrosis over carotid = carotid blow-out syndrome. This is a pre-terminal sign. Immediate action: digital pressure + emergent CT angiography + endovascular embolisation. Do NOT incise in clinic."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q18",
+        "stem": "What minimum number of lymph nodes should be retrieved from a comprehensive levels I–V modified radical neck dissection to ensure adequate pathological staging according to quality standards?",
+        "options": {
+          "A": "6 nodes",
+          "B": "10 nodes",
+          "C": "18 nodes",
+          "D": "25 nodes"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A minimum of 18 lymph nodes is the accepted quality standard for adequate pathological staging from a comprehensive levels I–V neck dissection. This threshold is based on studies showing that fewer nodes may indicate incomplete dissection or inadequate pathological sampling, leading to understaging. A comprehensive levels I–V dissection should typically yield 20–35 nodes. The CAP (College of American Pathologists) and RCPath protocols use 18 nodes as the minimum adequacy threshold.",
+          "wrong": {
+            "A": "Six nodes is far below the accepted minimum and would suggest either incomplete surgery, inadequate pathological sampling, or both. This would not be acceptable for staging purposes.",
+            "B": "Ten nodes, while more than 6, is still below the 18-node threshold for comprehensive levels I–V dissection and may result in understaging.",
+            "D": "While 25 nodes would be acceptable (and indeed expected from a thorough levels I–V dissection in a non-irradiated field), the minimum requirement is 18 nodes. Retrieval of 25+ nodes does not indicate a better dissection beyond a certain threshold."
+          },
+          "guideline": "CAP Protocol for Examination of Specimens from Patients with Cancers of the Lip and Oral Cavity 2023; RCPath Dataset for Histopathological Reporting of Mucosal Malignancies of the Head and Neck 2023",
+          "trial": "Goldstein DP et al. (Arch Otolaryngol Head Neck Surg 2011): node retrieval <18 from levels I–V neck dissection associated with significantly higher rates of false-negative staging and inferior regional control outcomes.",
+          "pearl": "Minimum 18 nodes from a levels I–V neck dissection = quality standard for adequate staging. Below this threshold, understaging risk is significant. Always document lymph node count in operative note and request extended pathological sampling if preliminary count is low."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q19",
+        "stem": "During a right levels II–IV selective neck dissection, the surgeon notices that the patient's right hemidiaphragm is elevated on intraoperative fluoroscopy. Which nerve was most likely injured, and at which anatomical location does this injury typically occur?",
+        "options": {
+          "A": "Vagus nerve (CN X) — at the carotid bifurcation",
+          "B": "Phrenic nerve — on the anterior surface of the anterior scalene muscle at level IV",
+          "C": "Brachial plexus — at the posterior triangle near level V",
+          "D": "Hypoglossal nerve (CN XII) — as it loops around the external carotid artery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The phrenic nerve (C3–C5) runs on the anterior surface of the anterior scalene muscle, covered by the pre-vertebral fascia. It passes from lateral to medial across the scalene, entering the thorax behind the sternoclavicular joint. It is at greatest risk during level IV dissection and supraclavicular dissection. Injury results in ipsilateral hemidiaphragm paralysis, visible as an elevated hemidiaphragm on chest X-ray or fluoroscopy. The injury is prevented by staying superficial to the pre-vertebral fascia during level IV dissection.",
+          "wrong": {
+            "A": "Vagus nerve injury at the carotid bifurcation would cause dysphonia (recurrent laryngeal nerve consequences), dysphagia, and cardiac effects, not diaphragm paralysis. The vagus nerve runs within the carotid sheath.",
+            "C": "Brachial plexus injury would cause upper limb motor and sensory deficits, not diaphragm paralysis. The brachial plexus emerges between anterior and middle scalenes at level V — different location from the phrenic nerve.",
+            "D": "Hypoglossal nerve injury causes tongue deviation and atrophy. CN XII loops around the external carotid artery near the level II/III junction — not in the level IV territory where phrenic nerve injury occurs."
+          },
+          "guideline": "Robbins KT et al. (Arch Otolaryngol Head Neck Surg 2008); Flint PW. Cummings Otolaryngology 7th ed. 2021",
+          "trial": "Kriesel D et al. (Eur J Cardiothorac Surg 1999): phrenic nerve injury during neck surgery — incidence 0.5–1%; most commonly unrecognised intraoperatively; confirmed by elevated hemidiaphragm on imaging.",
+          "pearl": "Phrenic nerve = anterior scalene surface at level IV. Stay superficial to pre-vertebral fascia at level IV to avoid injury. Result: elevated hemidiaphragm, dyspnoea on exertion. Rarely symptomatic if contralateral diaphragm is normal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q20",
+        "stem": "A 50-year-old woman with clinical T2N1 HPV-positive oropharyngeal SCC (base of tongue, left) undergoes definitive chemoradiation. PET-CT at 12 weeks shows a Deauville 4 (FDG-avid residual activity) node at left level II measuring 1.8 cm. Fine needle aspiration confirms viable squamous cell carcinoma. What is the recommended next step?",
+        "options": {
+          "A": "Repeat PET-CT in 6 weeks — HPV-positive disease has a high rate of delayed complete response",
+          "B": "Left modified radical neck dissection (levels I–V)",
+          "C": "Salvage transoral robotic surgery to the base of tongue",
+          "D": "Re-irradiation to the left neck to 60 Gy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A PET-positive (Deauville 4–5) residual node with FNA confirmation of viable SCC after primary CRT is an indication for salvage neck dissection. Per PET-NECK trial methodology, neck dissection is performed for PET-positive residual disease after CRT. In HPV-positive oropharyngeal SCC, the high complete response rate makes PET surveillance appropriate, but when residual disease is confirmed by FNA, salvage surgery (not re-irradiation or further watchful waiting) is the standard approach. A modified radical or selective neck dissection covering levels I–V is appropriate.",
+          "wrong": {
+            "A": "Delayed response is a recognised phenomenon in HPV+ OPSCC, but a Deauville 4 node confirmed by FNA positive for viable SCC is not a candidate for further watchful waiting. FNA positivity changes the management from surveillance to surgery.",
+            "C": "Salvage TORS targets the primary site in the base of tongue, not the neck node. PET-CT showed metabolic complete response at the primary site (Deauville implied for primary: the question specifies level II node only). If the primary also had residual disease, TORS would be considered for that, but the residual neck disease is treated with neck dissection.",
+            "D": "Re-irradiation to 60 Gy in a previously irradiated field carries significant risks of severe toxicity (mandibular osteoradionecrosis, carotid blow-out, mucosal necrosis) and is not the standard approach for a resectable residual neck node. Surgery is preferred for isolated nodal residual disease."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Oropharynx (HPV-Positive); PET-NECK trial (Mehanna NEJM 2016)",
+          "trial": "PET-NECK (Mehanna H et al., NEJM 2016): in the PET-CT surveillance group, all patients with Deauville 4–5 or FNA-confirmed residual disease proceeded to neck dissection; pathological CR rate in Deauville 1–3 group was 93%.",
+          "pearl": "PET-NECK algorithm: Complete metabolic response (Deauville 1–3) = surveillance. Deauville 4–5 or FNA-confirmed viable SCC = neck dissection. FNA confirmation of viable SCC makes watchful waiting inappropriate, even in HPV-positive disease."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

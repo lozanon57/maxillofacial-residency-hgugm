@@ -1,0 +1,656 @@
+{
+  "id": "C2",
+  "title": "Dental Implants: Osseointegration, Planning, and Complications",
+  "subtitle": "Block C — Dentoalveolar Surgery and Implantology",
+  "block": "C",
+  "block_name": "Dentoalveolar Surgery and Implantology",
+  "level": "R2-3",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Implantology Guidelines 2023 · ITI Consensus Statements 2023 · AAOMS Parameters of Care 2023",
+  "textbook_refs": [
+    "Brånemark PI, Zarb GA, Albrektsson T. Tissue-Integrated Prostheses: Osseointegration in Clinical Dentistry (1985)",
+    "Albrektsson T, Brånemark PI, Hansson HA, Lindström J. Osseointegrated titanium implants. Acta Orthop Scand (1981)",
+    "Mombelli A, Lang NP. The diagnosis and treatment of peri-implantitis. Periodontol 2000 (1998)",
+    "Chrcanovic BR, Albrektsson T, Wennerberg A. Smoking and dental implants. J Dent (2015)",
+    "Consensus Conference on Peri-implant Diseases. J Clin Periodontol (2018)"
+  ],
+  "learning_objectives": [
+    "Define osseointegration and describe the biological processes of implant-bone interface formation",
+    "Apply the ITI and EACMFS criteria for implant patient selection including contraindications",
+    "Plan implant placement using CBCT-based assessment of bone quantity and quality",
+    "Classify peri-implant diseases (peri-implant mucositis, peri-implantitis) and apply current treatment protocols",
+    "Identify major risk factors for implant failure including diabetes, smoking, and radiation therapy",
+    "Manage early and late implant failure and the specific risks of implants in irradiated bone"
+  ],
+  "sections": [
+    {
+      "id": "C2-S1",
+      "title": "Osseointegration: Definition and Biology",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Osseointegration** was defined by Per-Ingvar Brånemark (1985) as 'a direct structural and functional connection between ordered, living bone and the surface of a load-carrying implant.' This definition has been refined by Albrektsson to emphasise the requirement for direct bone-to-implant contact at the light microscopic level, without any interposing fibrous tissue layer. The absence of fibrous tissue at the interface is what distinguishes osseointegration from fibro-osseous integration (an earlier, less predictable outcome).\n\n**Biological phases of osseointegration:**\n\n1. **Wound healing phase (0–4 weeks):** Implant placement creates a sterile surgical wound. A haematoma forms in the periimplant gap, organises into granulation tissue, and undergoes early bone deposition (intramembranous ossification). The implant surface is colonised by plasma proteins, fibronectin, and vitronectin within minutes of placement, creating the protein layer that mediates osteoblast adhesion.\n\n2. **Primary stability phase:** Immediate mechanical interlocking of the implant threads with cortical bone provides the initial stability (primary stability) needed to prevent micromotion. Primary stability is measured by insertion torque (aim 25–45 N·cm) and resonance frequency analysis (ISQ: implant stability quotient; >65 = high stability; <55 = concern). Primary stability is essential — micromotion >100–150 μm prevents osseointegration and produces fibrous encapsulation.\n\n3. **Secondary stability phase (4–12 weeks):** Bone remodelling around the implant progressively replaces the initial mechanical interlocking with biological osseointegration. As the surrounding bone remodels, primary stability temporarily decreases before secondary stability increases. This 'stability dip' typically occurs at 4–6 weeks and is the critical period for implant loading protocols — early loading (before week 4) risks failure during this dip.\n\n4. **Long-term remodelling:** After osseointegration, the bone-implant interface undergoes continuous remodelling similar to natural bone. Marginal bone loss of up to 1.5 mm in the first year and up to 0.2 mm/year subsequently is considered within the acceptable range by the ITI (International Team for Implantology) Consensus."
+        },
+        {
+          "type": "table",
+          "title": "Implant Stability Parameters and Clinical Interpretation",
+          "headers": ["Parameter", "Measurement Method", "Good Stability", "Concerning Value"],
+          "rows": [
+            ["Primary stability", "Insertion torque (N·cm)", ">25 N·cm", "<15 N·cm — consider delayed loading or abort"],
+            ["Resonance frequency (ISQ)", "Osstell/Penguin device", ">65 ISQ", "<55 ISQ — increase loading protocol duration"],
+            ["Marginal bone loss (year 1)", "Periapical radiograph", "<1.5 mm", ">2 mm — evaluate for peri-implantitis"],
+            ["Marginal bone loss (year 2+)", "Annual periapical radiograph", "<0.2 mm/year", ">0.5 mm/year — diagnosis peri-implantitis"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Micromotion Threshold",
+          "content": "Micromotion at the bone-implant interface greater than 100–150 μm during the initial osseointegration phase (weeks 0–12) prevents osseointegration and produces fibrous encapsulation instead. This is why achieving adequate primary stability (insertion torque >25 N·cm, ISQ >65) at placement is critical, and why loading protocols are designed to avoid excessive interface micromotion during the secondary stability phase."
+        }
+      ]
+    },
+    {
+      "id": "C2-S2",
+      "title": "Patient Selection and Contraindications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Implant candidacy assessment involves evaluation of medical health, jaw bone quantity and quality, periodontal health, and patient compliance. Both absolute and relative contraindications exist.\n\n**Absolute contraindications to dental implants:**\n- Recent (within 12 months) myocardial infarction or stroke — surgery-induced catecholamine release; defer until medically stable\n- Active intravenous bisphosphonate use (zoledronic acid, ibandronate) — very high BRONJ/MRONJ risk (approximately 1–10% per implant site)\n- Recent head and neck radiotherapy to the implant site — dose >50 Gy produces hypovascular, hypoxic, hypocellular (3H) bone with very high osteoradionecrosis risk; requires HBO pre- and post-placement if implants are to be used\n- Active uncontrolled malignancy\n- Severe coagulopathy not correctable before surgery\n- Immunosuppression post-transplant on calcineurin inhibitors — high infection risk, impaired healing\n\n**Relative contraindications (increased risk — manage with modification):**\n- Diabetes mellitus: HbA1c >8% = relative contraindication; implants are appropriate with HbA1c <7% and good control. HbA1c 7–8% = caution, increased monitoring. Meta-analyses show 1.3–1.5× higher implant failure rates in poorly controlled diabetics (Chrcanovic et al. 2014)\n- Smoking: increases failure rate 2× (10 cigarette equivalents/day); marginal bone loss 1.7× higher. Cessation recommended minimum 1 month before and 2 months after implant placement\n- Oral bisphosphonates (alendronate, risedronate): MRONJ risk lower than IV bisphosphonates but still present; drug holiday of 2+ months before surgery is controversial — current evidence does not support routine drug holidays for oral bisphosphonates; patient-specific risk assessment required\n- Osteoporosis without bisphosphonates: not itself a contraindication; reduced bone density may require longer healing times\n- Sjögren's syndrome: xerostomia increases peri-implant infection risk; frequent monitoring needed"
+        },
+        {
+          "type": "table",
+          "title": "Implant Contraindications: Absolute vs Relative",
+          "headers": ["Condition", "Type", "Implication", "Management"],
+          "rows": [
+            ["IV bisphosphonates (active)", "Absolute", "MRONJ risk 1–10%", "Do not place; explain alternatives"],
+            ["Head/neck RT >50 Gy (recent)", "Absolute/high risk", "ORN risk >10%", "HBO protocol if proceeding; defer minimum 1 year"],
+            ["HbA1c >8% (uncontrolled DM)", "Relative", "1.5× failure rate", "Optimise glycaemic control before placement"],
+            ["Smoking >10 cigs/day", "Relative", "2× failure rate", "Smoking cessation counselling; 1 month pre + 2 months post"],
+            ["Oral bisphosphonates", "Relative", "Low MRONJ risk", "Informed consent; no routine drug holiday"],
+            ["Post-cardiac event (<6 months)", "Absolute (temporary)", "Surgical risk", "Defer 6–12 months"],
+            ["Periodontal disease (uncontrolled)", "Relative", "Peri-implantitis risk", "Treat periodontitis first; re-evaluate"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Proceeding Without Periodontal Treatment",
+          "content": "Placing dental implants in a patient with untreated active periodontal disease is a significant error. Periodontal pathogens (Porphyromonas gingivalis, Tannerella forsythia) colonise implant surfaces and cause peri-implantitis at rates 3–4× higher in patients with current or historical severe periodontitis. All active periodontal disease must be treated and stabilised before implant placement, and the patient must demonstrate adequate oral hygiene compliance."
+        }
+      ]
+    },
+    {
+      "id": "C2-S3",
+      "title": "Implant Planning: CBCT Assessment and Bone Classification",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Pre-implant assessment uses clinical examination, periapical and panoramic radiographs, and CBCT to determine bone quantity, quality, and spatial relationships to vital structures.\n\n**Bone quantity:** The minimum bone requirements for standard implant placement are:\n- **Width:** ≥5–6 mm of bone buccolingual width for a 3.5–4.5 mm diameter implant (leaving at least 1 mm of bone on each side of the implant)\n- **Height:** ≥10 mm from the crest to the vital structure (IAN in the mandible, floor of sinus in the maxilla) for a 10 mm implant with 1 mm safety margin\n- If insufficient bone exists, augmentation procedures (bone graft, sinus lift, GBR) are planned before or concurrent with implant placement\n\n**Lekholm and Zarb bone quality classification (ITI standard):**\n- **Type I:** Homogeneous compact bone throughout (extremely dense cortical bone, minimal trabecular; seen in anterior mandible). Difficult to drill; highest primary stability\n- **Type II:** Thick cortical bone surrounding a core of dense trabecular bone (most favourable)\n- **Type III:** Thin cortical crest surrounding a core of dense trabecular bone\n- **Type IV:** Very thin or absent cortical bone surrounding sparse trabecular bone (posterior maxilla; lowest primary stability; highest failure risk)\n\n**Key distances measured on CBCT:**\n- Distance from crest to IAN canal (mandible): minimum 2 mm safety margin\n- Distance from crest to sinus floor (maxilla): if <4 mm, crestal sinus lift; if <1 mm, lateral window sinus graft before implant\n- Buccal-lingual bone width at proposed implant site\n- Angulation of planned implant relative to adjacent teeth and opposing arch\n\n**CBCT vs 2D imaging:** CBCT provides 3D anatomical information not available on OPG — allows precise measurement of buccolingual width, detection of dehiscences, localisation of mental foramen loops, and planning of angulation. CBCT is indicated when clinical examination or 2D imaging suggests borderline bone dimensions, atypical anatomy, or augmentation planning."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Lekholm-Zarb Type IV Bone",
+          "content": "Type IV bone (sparse trabecular, absent/thin cortex) in the posterior maxilla gives the lowest primary stability and highest implant failure rates (3–4× higher than Type II bone). Strategies to improve primary stability in Type IV bone: longer implants, wider implants, undersized drilling (condensing bone rather than removing it), surface treatment implants, and extended healing times before loading. This is the scenario where staged sinus grafting before implant placement improves outcomes."
+        }
+      ]
+    },
+    {
+      "id": "C2-S4",
+      "title": "Peri-implant Diseases: Mucositis and Peri-implantitis",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Peri-implant diseases were formally defined and classified at the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions (published in J Clin Periodontol 2018).\n\n**Peri-implant mucositis:** Reversible inflammatory condition confined to the peri-implant mucosa without bone loss. Analogous to gingivitis around natural teeth. Prevalence: approximately 43% of implant sites in long-term studies. Characterised by: bleeding on probing (BOP), erythema, oedema of the peri-implant mucosa, pocket depth may be increased. **No radiographic bone loss.** Reversible with improved plaque control and professional debridement. Risk factors: poor oral hygiene, smoking, diabetes, residual cement from cemented crowns.\n\n**Peri-implantitis:** Irreversible inflammatory condition with progressive bone loss around an osseointegrated implant. Analogous to periodontitis around natural teeth. Prevalence: approximately 20% of implants and 10% of patients at 10-year follow-up in systematic reviews. Characterised by: BOP with or without suppuration, pocket depth typically >5 mm, and **radiographic bone loss** beyond normal remodelling margins (>1.5 mm in year 1, >0.2 mm/year subsequently).\n\n**Staging peri-implantitis (modified Mombelli/ITI 2023):**\n- Stage I: Bone loss ≤2 mm from implant shoulder\n- Stage II: Bone loss 2–4 mm\n- Stage III: Bone loss >4 mm, or involvement of apical third of implant, or >50% of implant length\n\n**Treatment of peri-implantitis (stepwise):**\n1. Non-surgical debridement + antiseptic (chlorhexidine, Er:YAG laser decontamination); oral hygiene instruction; eliminate risk factors\n2. If no resolution after 8–12 weeks: surgical debridement (open flap), implant surface decontamination (chemical, photodynamic), bone regeneration with GBR if defect geometry is favourable\n3. If no resolution: implant removal + site rehabilitation\n\n**Decontamination methods:** Titanium curettes (gentler than stainless steel), air polishing (glycine powder), Er:YAG laser, photodynamic therapy, chemical decontamination (citric acid, chlorhexidine gel). Implant surface decontamination is the most critical and most challenging step — rough-surface implants harbour biofilm in surface microporosity."
+        },
+        {
+          "type": "table",
+          "title": "Peri-implant Mucositis vs Peri-implantitis: Diagnostic Criteria",
+          "headers": ["Feature", "Peri-implant Mucositis", "Peri-implantitis"],
+          "rows": [
+            ["Bone loss", "No (beyond initial remodelling)", "Yes — progressive beyond threshold"],
+            ["Bleeding on probing", "Yes", "Yes + suppuration common"],
+            ["Pocket depth", "≤5 mm (may be normal)", ">5 mm typical"],
+            ["Reversibility", "Yes with treatment", "No — bone loss is permanent"],
+            ["Radiographic finding", "Normal bone level", "Bone loss at implant shoulder/threads"],
+            ["Analogy to natural teeth", "Gingivitis", "Periodontitis"],
+            ["Prevalence (implant sites)", "~43%", "~20%"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Residual Cement and Peri-implantitis",
+          "content": "Residual cement from cemented implant crowns is a significant cause of peri-implant mucositis and peri-implantitis. Cement extruded apically during crown cementation migrates subgingivally, acting as a foreign body that prevents mucosal seal and harbours biofilm. Studies show peri-implant disease in approximately 80% of implants with cementation excess vs 20% without. Excess cement must be meticulously removed at crown cementation; screw-retained restorations avoid this risk entirely."
+        }
+      ]
+    },
+    {
+      "id": "C2-S5",
+      "title": "Implants in Irradiated Bone and MRONJ Risk",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Two specific systemic conditions that significantly increase implant-related complications deserve detailed understanding: prior radiation therapy to the jaw and antiresorptive/antiangiogenic medications.\n\n**Implants in irradiated bone:**\n\nRadiation therapy to the head and neck at doses >50 Gy produces the '3H tissue' (Marx 1983): hypovascular, hypoxic, hypocellular bone and soft tissue that cannot support wound healing or implant osseointegration. Dental implants in previously irradiated bone carry failure rates of 10–20% in mandible and up to 50% in the maxilla (compared to <5% in non-irradiated bone).\n\n**Hyperbaric oxygen (HBO) therapy** (Marx protocol) is used perioperatively when implants are to be placed in irradiated bone: 20 sessions of HBO at 2.4 atm breathing 100% O2 before implant surgery + 10 sessions post-surgery ('Marx 20/10 protocol'). HBO promotes neovascularisation, increases tissue oxygen tension, and stimulates osteogenesis in the 3H tissue, improving implant osseointegration rates from ~50% to ~80% in irradiated mandibles. The minimum recommended interval from completion of radiotherapy to implant placement is 12 months.\n\n**Medication-related osteonecrosis of the jaw (MRONJ):**\n\nMRONJ is defined as exposed or probeable bone in the maxillofacial region in a patient who has received antiresorptive or antiangiogenic therapy, has not received radiation to the jaw, and the area has not healed in 8 weeks. Causative medications:\n- **IV bisphosphonates** (zoledronic acid, ibandronate) — highest risk; cumulative with duration; MRONJ incidence 1–10% for implant procedures in patients on IV bisphosphonates\n- **Oral bisphosphonates** (alendronate, risedronate) — lower risk; MRONJ incidence ~0.01–0.5% per implant procedure\n- **Denosumab** — RANK-L antibody used for osteoporosis and bone metastases; similar or slightly higher MRONJ risk to IV bisphosphonates\n- **Antiangiogenic agents** (bevacizumab, sunitinib) — risk especially when combined with bisphosphonates\n\nManagement of established MRONJ: conservative (antibiotics, chlorhexidine rinses, conservative debridement for Stage I); surgical debridement + sequestrectomy for Stage II; resection and reconstruction for Stage III."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Implants in IV Bisphosphonate Patients",
+          "content": "Placing dental implants in patients receiving intravenous bisphosphonates (zoledronic acid for bone metastases, hypercalcaemia, or Paget's disease; ibandronate for osteoporosis) is associated with 1–10% MRONJ risk per implant site. This is considered an absolute contraindication by most guidelines. The oncology team must be consulted. If implants are unavoidable, a drug holiday is not reliably protective for IV bisphosphonates (they remain in bone for years). Removable prostheses should be considered instead."
+        }
+      ]
+    },
+    {
+      "id": "C2-S6",
+      "title": "Implant Failure: Classification and Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Implant failure is classified by timing (early vs late) and by mechanism (biological vs mechanical).\n\n**Early failure (before osseointegration is complete, within 3–6 months):**\n- **Failure to osseointegrate:** The implant never achieves secondary stability; presents with mobility, pain, and radiographic bone loss. Causes: inadequate primary stability, excessive micromotion, surgical overheating, contamination, patient factors (uncontrolled DM, smoking, radiation)\n- **Early infection:** Perimplant abscess in the osseointegration phase; requires implant removal, antibiotics, and healing before re-implantation\n\n**Late failure (after established osseointegration):**\n- **Peri-implantitis:** Progressive bone loss from biofilm infection (see above)\n- **Overload failure:** Excessive occlusal loading causing crestal bone resorption and implant failure; more common in parafunctional patients (bruxism), short implants, type IV bone, and biomechanically compromised restorations\n- **Mechanical failure:** Implant fracture (rare, <1% in modern implants), abutment screw fracture (more common), prosthetic component failure\n\n**Overall implant survival rates (ITI Consensus 2023):**\n- 10-year survival: 95–96% for standard implants in non-compromised sites\n- 10-year survival with peri-implantitis history: 60–80%\n- 10-year survival in irradiated bone (with HBO): ~80% mandible, ~50–60% maxilla\n- 10-year survival in poorly controlled DM: ~90% (lower than non-DM)\n\n**Management of failed implant:**\n1. Remove the implant (trephine bur, reverse torque, or surgical removal)\n2. Treat the infection/cause\n3. Bone grafting of the defect\n4. Wait minimum 3–6 months\n5. Re-implantation when site has healed and risk factors are controlled"
+        },
+        {
+          "type": "table",
+          "title": "Implant Failure: Early vs Late — Causes and Management",
+          "headers": ["Type", "Timing", "Common Causes", "Management"],
+          "rows": [
+            ["Early failure", "0–6 months", "Low primary stability, DM, smoking, overheating, infection", "Remove implant; treat cause; re-implant after 3–6 months"],
+            ["Peri-implantitis", ">6 months", "Biofilm, poor hygiene, residual cement, smoking", "Non-surgical → surgical debridement → removal if refractory"],
+            ["Overload failure", "Variable", "Parafunctional loading, short implants, type IV bone", "Remove implant; redesign prosthesis; add implants"],
+            ["Mechanical failure", "Variable", "Component fracture, abutment screw loosening", "Component replacement; redesign restoration"],
+            ["Peri-implantitis stage III", ">12 months", "Advanced bone loss to apical third", "Implant removal + GBR + delayed re-implant"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Smoking and Implant Failure",
+          "content": "Smoking doubles the implant failure rate (OR ~2.0 in Chrcanovic et al. 2015 meta-analysis of 15,000 implants). Marginal bone loss around implants in smokers is 1.7× higher than non-smokers. The effect is dose-dependent and partially reversible with cessation. Advise patients to stop smoking for a minimum of 1 month before and 2 months after implant placement for optimal outcomes."
+        }
+      ]
+    },
+    {
+      "id": "C2-S7",
+      "title": "Loading Protocols and Bone Augmentation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Implant loading protocols** define the time from implant placement to restoration and are matched to primary stability and host factors.\n\n**Conventional loading (>3 months):** Original Brånemark protocol — 3 months for mandible, 6 months for maxilla before prosthetic loading. Still appropriate for: type IV bone (posterior maxilla), low primary stability, irradiated bone, DM.\n\n**Early loading (6–12 weeks):** Acceptable in good bone quality and stability (ISQ >65, insertion torque >35 N·cm) with single-stage protocols. Most common approach in current practice for standard sites.\n\n**Immediate loading (<1 week post-placement):** Single-tooth implants in the aesthetic zone with high primary stability (>35 N·cm) and minimal occlusal contact. For full-arch rehabilitation (All-on-4/6): immediate loading with provisional prosthesis is standard practice when primary stability is excellent at all fixtures. ITI Consensus 2023 supports immediate loading for specific indications with predictable outcomes.\n\n**All-on-4 concept:** A full-arch fixed prosthesis supported by 4 implants — 2 axial anterior implants and 2 tilted (30–45°) posterior implants that engage denser anterior bone and avoid the maxillary sinuses or IAN canal. Nobel Biocare's All-on-4 protocol, popularised by Paulo Malo, achieves 10-year survival of approximately 93–95% for the mandible and 90–93% for the maxilla.\n\n**Bone augmentation procedures:**\n- **Guided bone regeneration (GBR):** Resorbable or non-resorbable membrane + bone graft (autograft, allograft, xenograft, alloplast) to regenerate deficient bone before or concurrent with implant placement\n- **Lateral window sinus lift:** For maxillary posterior atrophy with >4–5 mm available crestal height; creates window in lateral sinus wall, lifts Schneiderian membrane, places graft, allows 4–6 months healing before implant\n- **Crestal sinus lift (summers technique):** For 5–8 mm crestal height; gentle hydraulic elevation of the sinus membrane through the implant osteotomy\n- **Block graft:** Autologous cortical-cancellous block from chin, ramus, or iliac crest for large defects"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — All-on-4 Tilted Implants",
+          "content": "The All-on-4 (Paulo Malo/Nobel Biocare) uses 30–45° tilted posterior implants to: (1) avoid the maxillary sinuses in the posterior maxilla and the IAN in the posterior mandible, (2) engage denser anterior bone, (3) distribute occlusal forces along the implant axis rather than laterally. Tilted implants were initially controversial but are now supported by 10–15 year outcome data showing equivalent survival to axial implants when used in the All-on-4 configuration."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of osseointegration, implant selection, peri-implant disease, and complications with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "C2-Q1",
+        "stem": "Per-Ingvar Brånemark defined osseointegration as:",
+        "options": {
+          "A": "Fibrous encapsulation of an implant by periosteal connective tissue",
+          "B": "A direct structural and functional connection between ordered, living bone and the surface of a load-carrying implant",
+          "C": "Partial fusion of bone trabeculae with an implant surface through endochondral ossification",
+          "D": "The process of new bone formation in a surgical socket after tooth extraction"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Brånemark's definition of osseointegration (1985) is 'a direct structural and functional connection between ordered, living bone and the surface of a load-carrying implant.' The key elements are: direct (no fibrous tissue interposition), structural and functional (not just anatomical proximity), and at the load-carrying interface. This definition distinguishes true osseointegration from the earlier concept of fibro-osseous integration, where a thin fibrous layer intervenes between bone and implant.",
+          "wrong": {
+            "A": "Fibrous encapsulation is the FAILURE of osseointegration — it occurs when excessive micromotion prevents direct bone contact",
+            "C": "Endochondral ossification is the mechanism of long bone fracture healing and growth plate development — osseointegration occurs via intramembranous-type direct bone apposition, not endochondral ossification",
+            "D": "New bone after tooth extraction is socket healing — not osseointegration, which specifically refers to the bone-implant interface"
+          },
+          "guideline": "ITI Consensus Statements (2023): Osseointegration definition",
+          "trial": "Brånemark PI, Zarb GA, Albrektsson T. Tissue-Integrated Prostheses: Osseointegration in Clinical Dentistry (1985): original definition; foundation of modern implant dentistry",
+          "pearl": "Osseointegration = DIRECT bone-to-implant contact. No fibrous tissue layer. Load-carrying. This is the exam definition — learn it verbatim. Fibrous encapsulation = implant failure."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q2",
+        "stem": "An implant is placed in the posterior maxilla with an insertion torque of 12 N·cm and an ISQ of 52. What is the most appropriate loading protocol?",
+        "options": {
+          "A": "Immediate loading within 48 hours",
+          "B": "Early loading at 6 weeks",
+          "C": "Conventional loading — minimum 6 months before prosthetic restoration",
+          "D": "Remove the implant immediately — it cannot osseointegrate"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "An insertion torque of 12 N·cm (below the threshold of 25 N·cm) and ISQ of 52 (below the good stability threshold of 65) indicate low primary stability. In this situation, the risk of micromotion exceeding the 100–150 μm threshold during the early healing phase is high. The conservative approach is conventional loading with an extended healing period (6 months in the maxilla is the original Brånemark protocol), allowing maximum time for secondary stability to develop. The implant should not be loaded early or immediately — this would risk failure during the stability dip period.",
+          "wrong": {
+            "A": "Immediate loading requires insertion torque >35 N·cm and ISQ >65 — this implant meets neither criterion; immediate loading would cause excessive micromotion and fibrous encapsulation",
+            "B": "Early loading (6 weeks) is appropriate only with good primary stability (ISQ >65, torque >25 N·cm) — not with low stability values",
+            "D": "Low primary stability does not indicate failure is inevitable — appropriate loading protocol (conventional, delayed) allows secondary stability to develop; removal is not indicated based solely on low insertion torque"
+          },
+          "guideline": "ITI Consensus Statements (2023): Loading protocols based on primary stability — conventional loading for ISQ <55",
+          "trial": "Albrektsson T et al. The long-term efficacy of currently used dental implants: a review and proposed criteria of success. Int J Oral Maxillofac Implants (1986): minimum acceptable primary stability criteria for various loading protocols",
+          "pearl": "Insertion torque <25 N·cm or ISQ <55 = low primary stability = conventional loading (6 months maxilla, 3 months mandible). ISQ >65 and torque >35 N·cm = high stability = early or immediate loading possible. ISQ 55–65 = intermediate = early loading with caution."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q3",
+        "stem": "Which bone quality type (Lekholm-Zarb classification) is associated with the highest implant failure rates and is most commonly found in the posterior maxilla?",
+        "options": {
+          "A": "Type I — homogeneous compact bone",
+          "B": "Type II — thick cortical with dense trabecular core",
+          "C": "Type III — thin cortical with dense trabecular core",
+          "D": "Type IV — very thin cortical with sparse trabecular bone"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Type IV bone — very thin or absent cortical bone surrounding sparse, low-density trabecular bone — provides the lowest primary stability of all bone types and is associated with implant failure rates 3–4 times higher than Type II bone. Type IV bone is characteristically found in the posterior maxilla, where progressive pneumatisation of the maxillary sinus and alveolar resorption after tooth loss create a volume of soft, trabecular bone with minimal cortical support. Strategies for Type IV bone include: longer/wider implants, undersized drilling (bone condensation), extended healing times, and frequently a lateral window sinus graft before implant placement.",
+          "wrong": {
+            "A": "Type I bone is dense cortical — provides highest primary stability (sometimes too dense, making drilling difficult) and lowest failure rate",
+            "B": "Type II is the ideal bone quality — thick cortex + dense trabecular = highest secondary stability and best overall outcomes",
+            "C": "Type III is common and has good outcomes with appropriate technique — not the highest failure risk"
+          },
+          "guideline": "ITI Consensus Statements (2023): Bone quality classification and implant outcomes — Type IV bone modified protocols",
+          "trial": "Lekholm U, Zarb GA. Patient selection and preparation. In: Brånemark PI, Zarb GA, Albrektsson T, eds. Tissue-Integrated Prostheses (1985): original classification; Type IV failure rates 3–4× Type II in long-term follow-up",
+          "pearl": "Lekholm-Zarb: I=compact (dense anterior mandible), II=ideal, III=thin cortex, IV=sparse trabecular (posterior maxilla) = highest failure rate. Know Type IV as the exam high-risk scenario requiring modified protocols."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q4",
+        "stem": "The 2017 World Workshop defined peri-implant mucositis as distinct from peri-implantitis based primarily on which criterion?",
+        "options": {
+          "A": "Presence of purulent discharge at the implant site",
+          "B": "Absence of progressive bone loss beyond normal remodelling",
+          "C": "Probing depth greater than 5 mm",
+          "D": "Duration of symptoms less than 6 months"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The fundamental distinction between peri-implant mucositis and peri-implantitis is the presence or absence of progressive bone loss on radiographic assessment. Peri-implant mucositis affects only the soft tissue peri-implant mucosa with no radiographic bone loss — analogous to gingivitis. Peri-implantitis involves progressive marginal bone loss beyond the normal remodelling threshold — analogous to periodontitis. Both conditions show bleeding on probing and soft tissue inflammation, but only peri-implantitis shows bone loss.",
+          "wrong": {
+            "A": "Purulent discharge can occur in both mucositis (with acute exacerbation) and peri-implantitis — it is not the defining distinction",
+            "C": "Probing depth >5 mm is common in peri-implantitis but is not the defining distinction — some deep pockets exist without bone loss (deep tissue profile); bone loss is the key criterion",
+            "D": "Duration of symptoms is not part of the 2017 World Workshop classification criteria"
+          },
+          "guideline": "Berglundh T et al. Peri-implant diseases and conditions: Consensus report of workgroup 4 of the 2017 World Workshop. J Periodontol (2018): bone loss as defining criterion distinguishing mucositis from peri-implantitis",
+          "trial": "Consensus Conference on Peri-implant Diseases. J Clin Periodontol (2018): full consensus recommendations including diagnostic criteria; bone loss >1.5 mm from platform + BOP = peri-implantitis",
+          "pearl": "Mucositis = BOP + soft tissue inflammation + NO bone loss = reversible (like gingivitis). Peri-implantitis = BOP + bone loss = irreversible (like periodontitis). The bone loss criterion is the exam discriminator."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q5",
+        "stem": "A 65-year-old woman with osteoporosis has been taking alendronate (oral bisphosphonate) for 7 years. She requires extraction of a necrotic lower molar and subsequent implant placement. What is the most important consideration regarding her medication?",
+        "options": {
+          "A": "Stop alendronate immediately for 3 months before extraction — this drug holiday eliminates MRONJ risk",
+          "B": "Oral bisphosphonates are associated with low MRONJ risk; proceed with informed consent and careful technique, without mandatory drug holiday",
+          "C": "Alendronate is an absolute contraindication to implants — do not place implants",
+          "D": "Switch the patient from alendronate to denosumab before surgery — lower MRONJ risk"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Oral bisphosphonates (alendronate, risedronate, ibandronate oral) are associated with a low but real MRONJ risk of approximately 0.01–0.5% per invasive dental procedure. Current evidence does NOT support routine drug holidays before dental surgery for oral bisphosphonates — the drug is incorporated in bone and cannot be cleared by stopping it for a few months; the drug holiday concept is based on CTX (C-terminal telopeptide) serum marker, but CTX is an unreliable predictor of MRONJ risk. Best practice: inform the patient of the small MRONJ risk, minimise surgical trauma, ensure primary closure, prescribe chlorhexidine, and monitor healing closely.",
+          "wrong": {
+            "A": "Drug holidays for oral bisphosphonates are not reliably protective — the drug is bound to bone and cannot be cleared in 3 months; current guidelines (AAOMS 2022) do not require mandatory drug holidays for oral bisphosphonates",
+            "C": "Oral bisphosphonates are not an absolute contraindication to implants (IV bisphosphonates carry absolute-level risk); implants are appropriate with informed consent and careful technique",
+            "D": "Denosumab carries similar or higher MRONJ risk compared to oral bisphosphonates; switching is counterproductive and would require the oncology/rheumatology team"
+          },
+          "guideline": "AAOMS Position Paper (2022): Medication-related osteonecrosis of the jaw — drug holiday not recommended for oral bisphosphonates; informed consent and careful technique",
+          "trial": "Chrcanovic BR et al. Dental implants in patients using bisphosphonates. Int J Oral Maxillofac Surg (2016): oral bisphosphonate implant failure rates similar to non-users; MRONJ rare but present; drug holiday not clearly protective",
+          "pearl": "Oral bisphosphonates: low MRONJ risk (~0.01–0.5%) = informed consent + careful technique + no mandatory drug holiday. IV bisphosphonates: high MRONJ risk (1–10%) = absolute contraindication to elective implant placement. Know the difference."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q6",
+        "stem": "A patient who completed head and neck radiotherapy (65 Gy to the mandible) 2 years ago requires dental implant placement in the irradiated area. Which protocol is associated with improved osseointegration rates in irradiated bone?",
+        "options": {
+          "A": "Double-dose corticosteroids for 7 days before and after implant placement",
+          "B": "Marx hyperbaric oxygen (HBO) protocol: 20 sessions before + 10 sessions after implant placement",
+          "C": "Alendronate (bisphosphonate) before implant placement to increase bone density",
+          "D": "Platelet-rich plasma (PRP) injection at implant sites on the day of placement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Marx HBO protocol (20 sessions pre-implant + 10 sessions post-implant at 2.4 atmospheres breathing 100% oxygen) is the evidence-based intervention for improving implant outcomes in irradiated bone. HBO increases tissue oxygen tension, promotes neovascularisation, stimulates osteogenesis, and improves the healing capacity of the 3H (hypovascular, hypoxic, hypocellular) tissue created by radiation. Marx showed improvement in osseointegration rates from approximately 50% to 80% in irradiated mandibles with this protocol.",
+          "wrong": {
+            "A": "Corticosteroids suppress the immune response and impair wound healing — they would reduce, not improve, osseointegration rates in already compromised irradiated bone",
+            "C": "Bisphosphonates increase MRONJ risk and are absolutely contraindicated in irradiated jaw preparations — they do not improve osseointegration and add significant additional risk",
+            "D": "PRP has limited evidence supporting improved implant osseointegration in irradiated bone specifically; it is not the established protocol"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Implants in irradiated bone — HBO Marx protocol (20/10) as standard pre/post-surgical protocol",
+          "trial": "Marx RE, Ehler WJ, Tayapongsak P, Pierce LW. Relationship of oxygen dose to angiogenesis induction in irradiated tissue. Am J Surg (1990): HBO increases tissue oxygen to normal levels in 3H tissue; improved angiogenesis confirmed histologically; protocol established",
+          "pearl": "Implants in irradiated bone (>50 Gy): HBO Marx protocol = 20 sessions pre + 10 sessions post at 2.4 atm/100% O2. Improves osseointegration 50% → 80% in mandible. Minimum 12 months from RT completion before placement. HBO is the answer to 'how to improve implants in irradiated bone' on board exams."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q7",
+        "stem": "The 'stability dip' in implant osseointegration occurs at approximately which time point after implant placement?",
+        "options": {
+          "A": "Day 1–3 (immediately post-placement)",
+          "B": "Weeks 4–6 after placement",
+          "C": "Months 6–12 after placement",
+          "D": "Years 2–3 after placement"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The stability dip occurs at approximately 4–6 weeks after implant placement. During this phase, the initial primary mechanical stability (from thread-bone interlocking) is declining as the periimplant bone undergoes remodelling (resorption prior to new bone formation), but secondary biological stability (osseointegration) has not yet fully developed. This temporary decrease in total stability represents the most vulnerable period for implant failure if loading is applied. Early loading protocols (loading at 6–12 weeks) are designed to begin loading after the stability dip has resolved and secondary stability has been re-established.",
+          "wrong": {
+            "A": "Day 1–3: primary stability is at its maximum immediately after placement — this is when insertion torque is highest; not the stability dip",
+            "C": "Months 6–12: full osseointegration has been achieved by this point; the implant is at maximum stability with established secondary stability",
+            "D": "Years 2–3: the implant is in long-term remodelling with stable bone-implant contact; stability dip has long passed"
+          },
+          "guideline": "ITI Consensus Statements (2023): Osseointegration timeline — stability dip at 4–6 weeks",
+          "trial": "Albrektsson T, Brånemark PI, Hansson HA, Lindström J. Osseointegrated titanium implants. Acta Orthop Scand (1981): original description of biphasic stability curve; dip at 4–6 weeks identified as critical vulnerability period",
+          "pearl": "Stability timeline: Day 0 = max primary stability (mechanical) → 4–6 weeks = STABILITY DIP (bone remodelling) → 12 weeks = secondary stability established (biological). Don't load during the dip. Early loading protocols wait until AFTER 6 weeks to avoid this period."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q8",
+        "stem": "A 55-year-old man has peri-implantitis around a mandibular implant placed 5 years ago. Probing shows 7 mm pockets with bleeding on probing and suppuration. Radiograph shows bone loss down to 60% of the implant length (stage III peri-implantitis). Non-surgical debridement 3 months ago produced no improvement. What is the most appropriate next step?",
+        "options": {
+          "A": "Long-term antibiotics (6-month course of doxycycline)",
+          "B": "Surgical debridement, implant surface decontamination, and bone regeneration",
+          "C": "Implant removal, bone grafting, and delayed re-implantation after healing",
+          "D": "Application of chlorhexidine gel locally and schedule review in 3 months"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Stage III peri-implantitis with bone loss extending to 60% of implant length, suppuration, and no response to non-surgical treatment represents advanced disease with poor prognosis for implant retention. At this stage, the bone defect is too extensive for predictable regeneration, and continued attempts to save the implant (surgical debridement, GBR) have low success rates. Implant removal, thorough debridement and decontamination of the site, bone grafting, and delayed re-implantation after complete healing (minimum 4–6 months) is the evidence-based approach for refractory stage III peri-implantitis.",
+          "wrong": {
+            "A": "Long-term antibiotics alone are not appropriate for peri-implantitis — the biofilm on the implant surface cannot be eliminated systemically; antibiotics are adjuncts to mechanical/surgical debridement, not primary treatment",
+            "B": "Surgical debridement and GBR is the appropriate treatment for stage I–II peri-implantitis and when there is a favourable bone defect geometry — for stage III with extensive bone loss and no response to non-surgical treatment, this is likely futile and implant removal is preferred",
+            "D": "Chlorhexidine gel and monitoring is appropriate initial management for peri-implant mucositis — completely inappropriate for stage III peri-implantitis with suppuration and 60% bone loss"
+          },
+          "guideline": "ITI Consensus Statements (2023): Peri-implantitis treatment decision tree — stage III + no response to non-surgical = implant removal indicated",
+          "trial": "Renvert S et al. Non-surgical treatment of peri-implant mucositis and peri-implantitis: a literature review. J Clin Periodontol (2018): non-surgical treatment fails to adequately resolve bone loss in >60% of peri-implantitis cases; surgical treatment required for persistent cases",
+          "pearl": "Peri-implantitis treatment: mucositis = non-surgical only. Stage I-II = surgical debridement + GBR. Stage III (bone loss >50% implant) + no response = implant removal + bone graft + re-implant. Escalating approach based on stage and treatment response."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C2-Q9",
+        "stem": "A systematic review by Chrcanovic et al. (2015) on smoking and dental implants found what hazard ratio for implant failure in smokers compared to non-smokers?",
+        "options": {
+          "A": "HR 0.5 (smokers have lower failure rates)",
+          "B": "HR ~2.0 (smokers have approximately double the failure rate)",
+          "C": "HR ~5.0 (smokers have five times the failure rate)",
+          "D": "HR 1.05 (negligible difference — no clinically significant effect)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Chrcanovic et al. (2015) performed a systematic review and meta-analysis of 107 studies including over 15,000 implants in smokers and non-smokers. The overall hazard ratio for implant failure was approximately 2.0 (pooled OR 2.23, 95% CI 1.96–2.53), meaning smokers have approximately double the implant failure rate. Marginal bone loss was 1.7× higher in smokers. This finding is consistent across multiple meta-analyses and is the basis for smoking cessation recommendations before implant placement.",
+          "wrong": {
+            "A": "Smokers have HIGHER failure rates (HR ~2.0) — not lower",
+            "C": "HR 5.0 overestimates the effect — the actual risk is approximately doubled, not quintupled",
+            "D": "The effect of smoking is clinically and statistically significant (OR 2.23 with narrow confidence interval) — not negligible"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): Smoking as risk factor — cessation recommended based on HR ~2.0 for failure",
+          "trial": "Chrcanovic BR, Albrektsson T, Wennerberg A. Smoking and dental implants: a systematic review and meta-analysis. J Dent (2015): 107 studies, 15,103 implants; pooled OR 2.23 (95% CI 1.96–2.53) for failure in smokers",
+          "pearl": "Smoking = 2× implant failure risk (OR ~2.23 Chrcanovic 2015). Advise cessation minimum 1 month pre-implant + 2 months post-placement. Marginal bone loss 1.7× higher in smokers long-term. This is a major modifiable risk factor — always address in preoperative counselling."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q10",
+        "stem": "What minimum bone height is required above the inferior alveolar canal in the mandible to safely place a 10 mm implant?",
+        "options": {
+          "A": "10 mm (implant length only)",
+          "B": "11–12 mm (10 mm implant + 1–2 mm safety margin)",
+          "C": "15 mm minimum regardless of implant length",
+          "D": "8 mm (some IAN proximity is acceptable)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For a 10 mm implant, the minimum required bone height from the crest to the IAN canal is 11–12 mm — the implant length (10 mm) plus a safety margin of 1–2 mm above the canal. This safety margin provides a buffer against minor drilling inaccuracies, implant apex protrusion, and the variation in implant-to-apex distance between systems. CBCT measurement allows precise pre-surgical determination of available bone height. If less than 11–12 mm is available, shorter implants (6–8 mm) with wider diameter or different site treatment options should be considered.",
+          "wrong": {
+            "A": "10 mm provides no safety margin — the implant apex would be exactly at the canal, risking perforation and nerve injury from drilling (the drill extends slightly beyond the osteotomy preparation)",
+            "C": "15 mm is an overly conservative figure that would eliminate many viable implant sites unnecessarily",
+            "D": "Accepting proximity to the IAN (less than 1 mm safety margin) significantly increases the risk of drill trauma to the nerve during osteotomy preparation"
+          },
+          "guideline": "ITI Consensus Statements (2023): Implant placement near vital structures — minimum 2 mm safety margin from IAN canal",
+          "trial": "Sedaghatfar M et al. Panoramic radiographic findings as predictors of inferior alveolar nerve exposure. J Oral Maxillofac Surg (2005): IAN injury risk increases sharply when implant drills within 1 mm of canal; 2 mm safety margin protects against nerve injury in 98% of cases",
+          "pearl": "IAN safety margin = 2 mm minimum below planned implant apex. Required bone height = implant length + 2 mm. For 10 mm implant = 12 mm required. Always measure on CBCT before mandibular posterior implant placement."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q11",
+        "stem": "A patient is found to have 3 mm of maxillary sinus floor height above the residual alveolar crest on CBCT at the proposed site for a posterior maxillary implant. Which augmentation strategy is most appropriate?",
+        "options": {
+          "A": "Crestal (transcrestal) sinus lift via the Summers technique",
+          "B": "Lateral window sinus lift with a 4–6 month healing period before implant placement",
+          "C": "Place a short (4 mm) implant without sinus augmentation",
+          "D": "Zygomatic implant (zygoma implant) to bypass the sinus entirely"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "With only 3 mm of crestal bone height between the alveolar crest and the sinus floor, there is insufficient bone for any conventional implant placement. The crestal (Summers) technique requires a minimum of 4–6 mm of residual bone height. For <4 mm residual height, the lateral window sinus lift (Caldwell-Luc approach to the sinus) is required: a bony window is created in the lateral sinus wall, the Schneiderian membrane is gently elevated from the sinus floor, a bone graft is packed beneath it (autograft ± xenograft), and 4–6 months are allowed for graft maturation and bone formation before implant placement.",
+          "wrong": {
+            "A": "The Summers crestal technique requires 4–6 mm of residual crestal bone (some authors say 4 mm minimum, others 5 mm) — with only 3 mm, there is insufficient bone for a safe crestal approach; Schneiderian membrane perforation risk is high",
+            "C": "A 4 mm short implant in 3 mm of bone is anatomically impossible — the implant would perforate the sinus floor",
+            "D": "Zygomatic implants are reserved for severely atrophic maxillae with no posterior bone available after multiple failed augmentation attempts — they are not the first-choice for 3 mm crestal height at a single site"
+          },
+          "guideline": "ITI Consensus Statements (2023): Maxillary sinus augmentation — <4 mm crestal height = lateral window sinus lift required",
+          "trial": "Summers RB. The osteotome technique: part 3 — less invasive methods of elevating the sinus floor. Compendium (1994): crestal technique requires ≥4 mm residual height; <4 mm = contraindication for crestal approach",
+          "pearl": "Maxillary sinus decision tree: ≥8 mm crestal height = implant without sinus augmentation. 4–8 mm = crestal sinus lift (Summers). <4 mm = lateral window sinus lift with 4–6 months healing before implant. 3 mm = lateral window. Know the thresholds."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q12",
+        "stem": "Immediate loading of dental implants (within 48 hours of placement) is most appropriate under which set of conditions?",
+        "options": {
+          "A": "All-on-4 full-arch rehabilitation with insertion torque >35 N·cm and ISQ >70",
+          "B": "Single posterior molar implant in type IV bone with 20 N·cm insertion torque",
+          "C": "All implants in diabetic patients to prevent soft tissue overgrowth",
+          "D": "All implants regardless of primary stability when using surface-treated titanium"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Immediate loading (within 48 hours) is supported by evidence for full-arch All-on-4 rehabilitation when all implants achieve high primary stability (insertion torque >35 N·cm, ISQ >70) and a cross-arch bridged provisional prosthesis is fabricated that stabilises all implants as a unit and limits individual implant micromotion. The cross-arch prosthesis distributes occlusal forces across multiple implants, preventing excessive micromotion at any single implant. This is the All-on-4 concept standard practice with published 10-year data supporting 93–95% survival.",
+          "wrong": {
+            "A": "This is the correct answer",
+            "B": "Single posterior molar in type IV bone with 20 N·cm insertion torque is precisely the scenario where delayed/conventional loading is required — poor stability, unfavourable bone quality, isolated implant with no cross-arch stability",
+            "C": "Immediate loading is not indicated to prevent soft tissue overgrowth — healing abutments manage soft tissue while healing without requiring immediate loading; diabetes is a relative risk factor reducing primary stability in many cases",
+            "D": "Surface treatment (sandblasted, acid-etched, etc.) improves osseointegration quality but does not eliminate the need for primary stability criteria for immediate loading"
+          },
+          "guideline": "ITI Consensus Statements (2023): Immediate loading — supported for full-arch rehabilitation with high primary stability and cross-arch splinting",
+          "trial": "Malo P et al. All-on-4 immediate-function concept with Brånemark system implants for completely edentulous maxillae. Clin Implant Dent Relat Res (2012): 10-year data; 93% cumulative survival with immediate loading; established All-on-4 as standard for full-arch immediate loading",
+          "pearl": "Immediate loading criteria: (1) Insertion torque >35 N·cm AND ISQ >70. (2) Cross-arch bridging for multiple implants. (3) Provisional prosthesis with minimal occlusal loading. All-on-4 = classic immediate loading indication. Single implant immediate loading = aesthetic zone only with high stability and no functional loading."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q13",
+        "stem": "Which of the following is the most important modifiable risk factor for peri-implant mucositis that, if not controlled, reliably leads to peri-implantitis?",
+        "options": {
+          "A": "Implant surface roughness",
+          "B": "Inadequate marginal bone thickness at placement",
+          "C": "Poor oral hygiene with biofilm accumulation at the peri-implant margin",
+          "D": "Implant diameter relative to bone width"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The most important modifiable risk factor for peri-implant disease (both mucositis and progression to peri-implantitis) is poor oral hygiene leading to biofilm (plaque) accumulation at the peri-implant margin. This is directly analogous to the central role of biofilm in periodontal disease. Experimental studies (Lang et al.) have demonstrated that plaque accumulation around implants reproducibly induces peri-implant mucositis within 3 weeks, and that plaque removal produces resolution. Long-term studies consistently identify poor oral hygiene as the strongest predictor of peri-implantitis development. Patient motivation, oral hygiene instruction, and regular professional maintenance are the primary preventive interventions.",
+          "wrong": {
+            "A": "Implant surface roughness is non-modifiable after placement — rougher surfaces do harbour more biofilm but are not a modifiable risk factor for the clinician managing existing implants",
+            "B": "Inadequate marginal bone is an anatomical/surgical factor — not primarily a driver of peri-implant mucositis; it relates more to initial bone stability",
+            "D": "Implant diameter relative to bone width is a planning parameter that affects initial bone stability — not a driver of peri-implant disease in the established implant"
+          },
+          "guideline": "Consensus Conference on Peri-implant Diseases J Clin Periodontol (2018): plaque/biofilm as primary aetiological factor for peri-implant diseases",
+          "trial": "Zitzmann NU, Berglundh T. Definition and prevalence of peri-implant diseases. J Clin Periodontol (2008): poor oral hygiene = strongest modifiable predictor of peri-implantitis in 10-year longitudinal study",
+          "pearl": "Peri-implantitis prevention = plaque control. Most important modifiable factor is oral hygiene. Regular maintenance every 3–6 months for implant patients. Reinforce this with every patient before, during, and after implant treatment."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q14",
+        "stem": "What is the acceptable marginal bone loss around a dental implant during the first year according to ITI Consensus criteria for implant success?",
+        "options": {
+          "A": "No bone loss is acceptable — any bone loss indicates failure",
+          "B": "Up to 1.5 mm in the first year, and up to 0.2 mm/year subsequently",
+          "C": "Up to 3 mm in the first year, then stable",
+          "D": "Up to 5 mm total over the lifetime of the implant"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The ITI Consensus and Albrektsson criteria define acceptable marginal bone loss as: up to 1.5 mm during the first year (covering initial remodelling during osseointegration and prosthetic loading adaptation), followed by no more than 0.2 mm per year subsequently. Beyond these thresholds, the diagnosis of peri-implantitis should be considered and investigated. This criterion was established in the original Albrektsson success criteria (1986) and remains the clinical standard.",
+          "wrong": {
+            "A": "Some marginal bone loss (<1.5 mm in year 1) is normal and expected during initial remodelling — 'no loss acceptable' is an unrealistic standard that would classify all implants as failing",
+            "C": "3 mm in year 1 exceeds the diagnostic threshold for peri-implantitis — this amount of bone loss in the first year should trigger investigation and treatment, not acceptance as normal",
+            "D": "5 mm total lifetime loss would represent complete failure for most implants (equivalent to loss of more than half the supporting bone)"
+          },
+          "guideline": "ITI Consensus Statements (2023): Implant success criteria — marginal bone loss thresholds",
+          "trial": "Albrektsson T et al. The long-term efficacy of currently used dental implants: a review and proposed criteria of success. Int J Oral Maxillofac Implants (1986): success criteria including <1.5 mm bone loss in year 1 and <0.2 mm/year subsequently",
+          "pearl": "Albrektsson success criteria for bone loss: Year 1 = <1.5 mm acceptable. Year 2+ = <0.2 mm/year. Above these thresholds = evaluate for peri-implantitis. Use periapical radiographs annually for monitoring."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q15",
+        "stem": "Residual cement from a cemented implant crown causes which peri-implant complication?",
+        "options": {
+          "A": "Accelerated implant corrosion due to pH changes",
+          "B": "Foreign body reaction and biofilm harbour, producing peri-implant mucositis and peri-implantitis",
+          "C": "Premature crown failure due to adhesive breakdown",
+          "D": "Abutment screw fracture from stress concentration"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Residual cement from cemented implant crowns that extrudes subgingivally acts as a foreign body and biofilm reservoir at the peri-implant sulcus. Cement particles prevent proper mucosal seal at the implant-abutment interface, facilitate biofilm accumulation, and produce a foreign body inflammatory response. Studies show peri-implant disease in approximately 80% of implants with cementation excess versus 20% without. This is preventable with meticulous cement removal at crown seating, use of minimal cement, or choosing screw-retained restorations entirely.",
+          "wrong": {
+            "A": "Cement residue does not cause significant electrochemical corrosion of titanium implants — titanium is highly corrosion-resistant",
+            "C": "Crown failure from adhesive breakdown is a prosthetic complication of the restoration itself, not a peri-implant biological complication from cement excess",
+            "D": "Abutment screw fracture is caused by excessive occlusal loading, improper torque, or off-axis loading — not by cement excess"
+          },
+          "guideline": "ITI Consensus Statements (2023): Cement excess as major cause of peri-implant complications; screw-retained restorations preferred where accessible",
+          "trial": "Wilson TG. The positive relationship between excess cement and peri-implant disease: a prospective clinical endoscopic study. J Periodontol (2009): 80% of peri-implant disease cases had radiographic/endoscopic evidence of excess cement; removal of cement resolved symptoms in 74%",
+          "pearl": "Residual cement = peri-implantitis. Preventable by: meticulous cement removal, using minimal volume, or choosing screw-retained crowns. Screw-retained = no cement risk; cemented = convenient but higher peri-implantitis risk. Prefer screw-retained in posterior areas where aesthetics are less critical."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q16",
+        "stem": "A patient with HbA1c of 9.5% (poorly controlled type 2 diabetes) requests dental implants for a full lower arch restoration. How does this affect implant planning?",
+        "options": {
+          "A": "HbA1c >9% is an absolute contraindication — no implants can be placed",
+          "B": "HbA1c >8% represents a relative contraindication; defer implants until glycaemic control is optimised (HbA1c <7%) with the primary care team",
+          "C": "Diabetes does not significantly affect implant outcomes — proceed with standard protocol",
+          "D": "Place implants immediately but use double the standard healing time"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "HbA1c >8% is considered a relative contraindication to dental implant placement. Poorly controlled diabetes impairs wound healing, increases infection risk, and has been associated with 1.3–1.5× higher implant failure rates. The current evidence-based approach is to defer implants until glycaemic control is improved (HbA1c <7% ideally, <8% as minimum threshold) in collaboration with the patient's primary care physician or endocrinologist. Once optimised, implants can be placed with enhanced monitoring. HbA1c 9.5% indicates very poor control and significant risk — proceeding without glycaemic optimisation is not appropriate.",
+          "wrong": {
+            "A": "Diabetes is not an absolute contraindication even with poor control — it is a relative contraindication requiring modification of the management plan (not permanent exclusion)",
+            "C": "Poorly controlled DM significantly affects implant outcomes — failure rates are 1.3–1.5× higher, wound healing is impaired, and infection risk is elevated; this is clinically significant",
+            "D": "Extended healing time alone is inadequate for HbA1c 9.5% — the metabolic disorder must be addressed before surgery; glycaemia impairs every phase of healing regardless of duration"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Diabetes and dental implants — HbA1c <8% recommended before placement",
+          "trial": "Chrcanovic BR et al. Diabetes mellitus and oral implant failure: a systematic review. J Oral Rehabil (2014): well-controlled DM (HbA1c <7%) = failure rate similar to non-DM; poorly controlled (HbA1c >8%) = 1.5× failure rate; HbA1c optimisation before implants improves outcomes",
+          "pearl": "DM and implants: HbA1c <7% = proceed with standard protocol. HbA1c 7–8% = proceed with caution + enhanced monitoring. HbA1c >8% = relative contraindication; defer until optimised. The glycaemic control threshold is an exam staple — know HbA1c 7% and 8%."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q17",
+        "stem": "Which feature of the All-on-4 implant concept allows the use of only 4 implants for a full-arch restoration, avoiding bone augmentation in atrophic jaws?",
+        "options": {
+          "A": "Use of larger diameter implants to compensate for fewer implant numbers",
+          "B": "Tilting the posterior 2 implants (30–45°) to engage denser anterior bone and avoid sinus/nerve structures",
+          "C": "Use of longer implants that penetrate the basal bone beneath the sinus",
+          "D": "Special surface treatment that achieves osseointegration in 1 week"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The All-on-4 concept (Paulo Malo, Nobel Biocare) places 2 axial (vertical) anterior implants and 2 posterior implants tilted at 30–45°. The tilted posterior implants allow them to: (1) avoid the maxillary sinuses in the posterior maxilla by staying anterior to them, (2) avoid the IAN in the posterior mandible by being positioned anterior to the mental foramen, (3) engage the denser anterior bone that has better bone quality, and (4) allow longer implants in areas where bone height is limited, distributing occlusal load over a larger bone-implant surface area. Cross-arch splinting with a provisional prosthesis immediately provides stability across all 4 implants as a unit.",
+          "wrong": {
+            "A": "All-on-4 uses standard-diameter implants (3.75–5 mm) — the innovation is the tilting angle, not implant size",
+            "C": "All-on-4 implants do not penetrate basal bone beneath the sinus — the tilted implants avoid the sinus by being placed anterior to it",
+            "D": "Surface treatment improves osseointegration quality but standard surface treatment achieves osseointegration in the normal 3–6 month timeframe; immediate loading is feasible due to primary stability and cross-arch splinting, not accelerated osseointegration"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Full-arch implant rehabilitation — All-on-4 tilted implant protocol",
+          "trial": "Malo P et al. All-on-4 immediate-function concept with Brånemark system implants for completely edentulous maxillae. Clin Implant Dent Relat Res (2012): posterior tilting allows avoidance of sinus + IAN; 93% maxillary survival at 10 years",
+          "pearl": "All-on-4: 2 anterior axial + 2 posterior tilted (30–45°). Tilting = (1) avoids sinus/IAN, (2) engages dense anterior bone, (3) allows longer implants. Immediate loading with cross-arch provisional. 10-year survival 93–95%. This is a high-yield exam topic."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q18",
+        "stem": "MRONJ (medication-related osteonecrosis of the jaw) is defined as requiring all three of the following criteria EXCEPT:",
+        "options": {
+          "A": "Exposed or probeable bone in the maxillofacial region",
+          "B": "History of antiresorptive or antiangiogenic medication",
+          "C": "No radiation therapy to the jaws",
+          "D": "Active dental infection at the site of bone exposure"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "The AAOMS definition of MRONJ requires three criteria: (1) Current or previous treatment with antiresorptive or antiangiogenic agents, (2) exposed bone or bone that can be probed through a fistula in the maxillofacial region that has persisted for more than 8 weeks, AND (3) no history of radiation therapy to the jaws and no obvious metastatic disease to the jaws. Active dental infection is NOT a required criterion — MRONJ can occur with or without concurrent infection. In fact, infection is often a secondary complication of exposed MRONJ bone rather than a required diagnostic feature.",
+          "wrong": {
+            "A": "Exposed or probeable bone IS one of the three required criteria — it is the clinical presentation of the necrosis",
+            "B": "History of antiresorptive or antiangiogenic medication IS required — MRONJ is specifically medication-related; without the medication exposure, the diagnosis is osteoradionecrosis or other cause",
+            "C": "Absence of radiation therapy IS required — radiation-related jaw necrosis is classified as osteoradionecrosis (ORN), not MRONJ; these are different pathological entities requiring different management"
+          },
+          "guideline": "AAOMS Position Paper (2022): MRONJ definition and diagnostic criteria",
+          "trial": "Ruggiero SL et al. American Association of Oral and Maxillofacial Surgeons Position Paper on Medication-Related Osteonecrosis of the Jaw. J Oral Maxillofac Surg (2022): three-criterion definition; absence of radiation required to distinguish MRONJ from ORN",
+          "pearl": "MRONJ = 3 criteria: (1) Antiresorptive/antiangiogenic drug, (2) Exposed/probeable bone >8 weeks, (3) No prior jaw radiation. Active infection is NOT required. Key distinction: ORN = radiation history; MRONJ = drug history, no radiation. Both cause exposed jaw bone but different management."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C2-Q19",
+        "stem": "A 72-year-old woman reports her mandibular implant placed 8 years ago now moves when she bites down. Radiograph shows complete absence of bone around the implant to its apex. What is the most appropriate management?",
+        "options": {
+          "A": "Surgical debridement with GBR to regenerate lost bone around the implant",
+          "B": "Prescribe tetracycline locally + systemic antibiotics for 4 weeks",
+          "C": "Implant removal, debridement, bone grafting, and delayed re-implantation",
+          "D": "Immediate replacement with a longer implant at the same site"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A mobile implant with complete bone loss to the apex and clinically detectable mobility represents end-stage implant failure with loss of osseointegration. A mobile implant cannot be saved — it must be removed. The sequence is: (1) Explantation of the failed implant, (2) Thorough debridement and decontamination of the defect, (3) Bone grafting of the defect (GBR or particulate graft), (4) 4–6 months for healing and bone maturation, (5) Re-assessment of site for implant suitability, (6) Re-implantation if the site has healed adequately and the causative risk factor has been controlled.",
+          "wrong": {
+            "A": "GBR cannot regenerate bone around a mobile implant — osseointegration has been lost and the implant must be removed before any regenerative attempt; attempting GBR on a mobile implant is not evidence-based and will fail",
+            "B": "Antibiotics cannot restore lost bone or re-establish osseointegration — they are adjuncts to mechanical/surgical treatment, not a primary treatment for a mobile implant",
+            "D": "Placing a longer implant immediately at the same site is inappropriate — the infected/inflamed defect requires thorough debridement and healing before re-implantation; immediate re-implantation in a contaminated site has very high failure rates"
+          },
+          "guideline": "ITI Consensus Statements (2023): Failed implant management — mobile implant = remove + treat site + delayed re-implantation",
+          "trial": "Mombelli A et al. Treatment of peri-implantitis. Periodontol 2000 (2018): mobile implant with complete bone loss = implant removal required; no conservative treatment has shown efficacy for mobile implants",
+          "pearl": "Mobile implant = osseointegration lost = REMOVE. No debate. Then: debride + graft + wait 4–6 months + re-implant if site healed. Immobile implant with peri-implantitis = surgical treatment options. Mobile = no options except removal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q20",
+        "stem": "When performing guided bone regeneration (GBR) for horizontal ridge augmentation before implant placement, which of the following principles is most critical for achieving bone regeneration rather than soft tissue fill?",
+        "options": {
+          "A": "Using the smallest possible bone graft volume to minimise resorption",
+          "B": "Barrier membrane exclusion of soft tissue cells while maintaining space for bone-forming cells",
+          "C": "Achieving primary closure of the flap under tension to increase bone formation pressure",
+          "D": "Using antibiotic-soaked collagen sponge instead of bone graft"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The fundamental principle of guided bone regeneration is the barrier membrane's function of physically excluding rapidly proliferating soft tissue cells (fibroblasts, epithelium) from the defect space, while maintaining a protected space that allows slower-migrating, bone-forming cells (osteoblasts from the periosteum and endosteum, mesenchymal stem cells) to populate and regenerate bone. Without the membrane, fibroblasts outcompete osteoblasts and fill the defect with non-mineralised connective tissue. The membrane also stabilises the graft and maintains space for blood clot organisation and angiogenesis.",
+          "wrong": {
+            "A": "Minimising graft volume limits the scaffold for bone formation — adequate graft volume (providing osteoconductive scaffold and potentially osteoinductive factors) is important; minimising it reduces the outcome",
+            "C": "Primary closure without tension is the correct surgical principle — closure UNDER tension causes wound dehiscence, membrane exposure, and infection, ruining the GBR outcome; tension-free closure is essential",
+            "D": "Antibiotic sponge does not provide the physical barrier or osteoconductive scaffold needed for GBR; antibiotics may be used adjunctively but are not a substitute for membrane + graft"
+          },
+          "guideline": "ITI Consensus Statements (2023): GBR principles — barrier membrane as essential component for selective cell repopulation",
+          "trial": "Dahlin C et al. Healing of bone defects by guided tissue regeneration. Plast Reconstr Surg (1988): original GBR study establishing membrane barrier as essential principle; membranes excluding fibrous tissue produced bone fill vs soft tissue fill in controls",
+          "pearl": "GBR principle = barrier membrane EXCLUDES soft tissue cells (fast) and ALLOWS bone cells (slow). Without membrane = soft tissue fill. With membrane = bone regeneration. Primary tension-free closure is also essential — exposure of membrane = failure."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

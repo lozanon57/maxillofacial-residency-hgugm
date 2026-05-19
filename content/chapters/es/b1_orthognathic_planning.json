@@ -1,0 +1,657 @@
+{
+  "id": "B1",
+  "title": "Planificación de la Cirugía Ortognática",
+  "subtitle": "Bloque B — Cirugía Ortognática y Esquelética: Cefalometría, VSP y Selección de Pacientes",
+  "block": "B",
+  "block_name": "Cirugía Ortognática y Esquelética",
+  "level": "R2-4",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · BAOMS Orthognathic Surgery Standards 2022 · BOS/BOPA Orthodontic-Orthognathic Guidelines 2023",
+  "textbook_refs": [
+    "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics, 6th ed. (Mosby 2018)",
+    "Arnett GW and Bergman RT. Facial Keys to Orthodontic Diagnosis and Treatment Planning (Am J Orthod Dentofacial Orthop 1993)",
+    "Steinhuber T et al. Virtual Surgical Planning in Orthognathic Surgery — Systematic Review (J Oral Maxillofac Surg 2018)",
+    "Baan F et al. Accuracy of Virtual Surgical Planning for Orthognathic Surgery (J Craniomaxillofac Surg 2016)",
+    "Nadjmi N. Fully Personalized Orthognathic Surgery Planning (J Craniomaxillofac Surg 2015)"
+  ],
+  "learning_objectives": [
+    "Interpretar una telerradiografía lateral de cráneo, identificar los puntos cefalométricos clave y realizar las mediciones angulares y lineales estándar (SNA, SNB, ANB, valoración de Wits)",
+    "Clasificar las discrepancias esqueléticas (Clase I, II, III) y el patrón vertical (hiperdivergente, hipodivergente) a partir del análisis cefalométrico",
+    "Describir las fases del tratamiento ortognático (ortodoncia prequirúrgica, cirugía, ortodoncia postquirúrgica) y la justificación de cada una",
+    "Explicar el papel de la planificación quirúrgica virtual (VSP) y sus ventajas frente a la cirugía en modelos tradicional y la transferencia con arco facial",
+    "Determinar los criterios de selección de pacientes para cirugía ortognática y describir el enfoque de equipo combinado ortodoncista-cirujano"
+  ],
+  "sections": [
+    {
+      "id": "B1-S1",
+      "title": "Indicaciones y Selección de Pacientes para Cirugía Ortognática",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La cirugía ortognática está indicada cuando las discrepancias esqueléticas significativas no pueden corregirse únicamente con ortodoncia. Las indicaciones principales son: (1) **Deformidad dentofacial** con compromiso funcional o estético, incluyendo clase III (prognatismo mandibular o hipoplasia maxilar), clase II (retrognacia mandibular), mordida abierta y asimetría; (2) **Apnea obstructiva del sueño (SAOS)** — el avance maxilomandibular (AMM) es el tratamiento quirúrgico más eficaz para el SAOS grave (reducción del IAH >80% en metaanálisis); (3) **Secuelas de fisura labiopalatina** con hipoplasia maxilar; (4) **Deformidades craneofaciales sindrómicas** (microsomía hemifacial, Treacher Collins, Crouzon, Apert). La selección de pacientes requiere: afectación funcional (maloclusión que comprometa la masticación, el habla o la ATM), madurez esquelética (niñas >16 años; niños >18 años — cese del crecimiento mandibular confirmado mediante telerradiografías seriadas), expectativas razonables del paciente y comprensión del proceso, y buena higiene oral. El estándar de referencia para confirmar la madurez esquelética son mediciones cefalométricas seriadas estables a intervalos de 6 meses sin progresión. La **duración del tratamiento** es típicamente de 18–30 meses en total: 9–18 meses de ortodoncia prequirúrgica, cirugía y 6–12 meses de ortodoncia postquirúrgica."
+        },
+        {
+          "type": "table",
+          "title": "Indicaciones de Cirugía Ortognática según Tipo de Deformidad Esquelética",
+          "headers": ["Deformidad", "Definición", "Cirugía", "Indicación"],
+          "rows": [
+            ["Clase III esquelética", "ANB <0°; prognatismo mandibular o hipoplasia maxilar", "BSSO retroceso ± avance Le Fort I", "ANB < −3°; maloclusión funcional; estética"],
+            ["Clase II esquelética", "ANB >4°; retrognacia mandibular", "BSSO avance ± genioplastia", "ANB >6°; mordida profunda; deficiencia mentoniana"],
+            ["Mordida abierta anterior", "Falta de oclusión anterior; hiperdivergente", "Impacción Le Fort I + BSSO ± genioplastia", "MAA >3 mm; etiología esquelética; fracaso ortodóncico"],
+            ["Exceso vertical maxilar", "Exposición gingival excesiva (>2 mm en reposo)", "Impacción Le Fort I", "Exposición gingival >3–4 mm; exceso de altura facial inferior"],
+            ["Asimetría", "Desviación de línea media dental; inclinación del plano oclusal", "Le Fort I ± BSSO unilateral ± genioplastia", "Desviación facial >3 mm; asimetría funcional"],
+            ["SAOS (grave)", "IAH >30; refractario a CPAP", "Avance maxilomandibular (AMM)", "IAH >30; fracaso de CPAP; deficiencia esquelética"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Evaluación de la Madurez Esquelética",
+          "content": "La cirugía ortognática no debe realizarse hasta alcanzar la madurez esquelética. Evaluación: telerradiografías laterales seriadas a intervalos de 6 meses — sin cambio significativo (≤0,5 mm/año en altura facial inferior) confirma la estabilidad. Las niñas maduran típicamente a los 16–17 años; los niños a los 18–19 años. La cirugía antes de la madurez conlleva riesgo de recidiva postoperatoria al continuar el crecimiento."
+        }
+      ]
+    },
+    {
+      "id": "B1-S2",
+      "title": "Análisis Cefalométrico — Puntos de Referencia y Mediciones Clave",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El análisis cefalométrico sigue siendo la base de la planificación de la cirugía ortognática, proporcionando una evaluación cuantitativa de las relaciones esqueléticas y dentarias. La **telerradiografía lateral** es una radiografía estandarizada con la cabeza en posición natural de la cabeza (PNC) o con el plano de Frankfort (PF) horizontal. Puntos cefalométricos clave: **S** (Sella — centro de la fosa pituitaria), **N** (Nasion — sutura nasofrontal), **A** (Subespinal — punto más profundo del contorno maxilar anterior), **B** (Supramental — punto más profundo del contorno mandibular anterior), **Pog** (Pogonion — punto más anterior del mentón), **Gn** (Gnation — punto más anteroinferior del mentón), **Me** (Mentón — punto más bajo de la sínfisis mandibular), **Go** (Gonion — punto posteroinferior del ángulo mandibular). Mediciones angulares críticas: **SNA** (82° ± 2°) — posición maxilar respecto a la base craneal; aumentado = prognatismo maxilar; disminuido = retrognacia maxilar. **SNB** (80° ± 2°) — posición mandibular respecto a la base craneal. **ANB** (2° ± 2°) — relación sagital entre maxilar y mandíbula; ANB >4° = Clase II; ANB <0° = Clase III. La **valoración de Wits** (perpendiculares de A y B al plano oclusal funcional; 0 mm en mujeres, -1 mm en hombres) se utiliza como complemento del ANB, especialmente cuando la morfología de la base craneal es anormal. Evaluación vertical: **FMA** (ángulo plano de Frankfort-plano mandibular; 25° ± 4°) — aumentado = hiperdivergente; **SN-PM** (32° ± 4°). **IMPA** (90° ± 5°) — inclinación del incisivo inferior. **I1-SN** (102° ± 2°) — inclinación del incisivo superior."
+        },
+        {
+          "type": "table",
+          "title": "Valores Cefalométricos Clave e Interpretación Clínica",
+          "headers": ["Medición", "Valor Normal", "Aumentado", "Disminuido"],
+          "rows": [
+            ["SNA", "82° ± 2°", "Prognatismo maxilar", "Retrognacia maxilar"],
+            ["SNB", "80° ± 2°", "Prognatismo mandibular", "Retrognacia mandibular (Clase II)"],
+            ["ANB", "2° ± 2°", ">4° = Clase II esquelética", "<0° = Clase III esquelética"],
+            ["Valoración de Wits", "0 mm (M); −1 mm (H)", "Clase II", "Clase III"],
+            ["FMA", "25° ± 4°", "Hiperdivergente (riesgo de mordida abierta)", "Hipodivergente (mordida profunda)"],
+            ["IMPA", "90° ± 5°", "Incisivo inferior proinclinado", "Incisivo inferior retroinclinado"],
+            ["I1-SN", "102° ± 2°", "Incisivo superior proinclinado", "Incisivo superior retroinclinado"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Limitación del ANB con Anomalías de la Base Craneal",
+          "content": "El ángulo ANB está influido por el ángulo de la base craneal y la posición del Nasion. En pacientes con anomalías de la base craneal (platibasias, braquicefalia) o Nasion en posición inusual, el ANB puede no reflejar con precisión la verdadera relación esquelética sagital. En estos casos, la valoración de Wits (perpendiculares al plano oclusal funcional) es más fiable. Utilice siempre ambas mediciones conjuntamente para una clasificación esquelética precisa."
+        }
+      ]
+    },
+    {
+      "id": "B1-S3",
+      "title": "Ortodoncia Prequirúrgica — Objetivos y Principios",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La preparación ortodóncica prequirúrgica es una fase crítica que dura típicamente 9–18 meses antes de la cirugía. Los objetivos de la ortodoncia prequirúrgica son opuestos a los de la ortodoncia de camuflaje: en lugar de enmascarar la discrepancia esquelética con compensaciones dentarias, la ortodoncia prequirúrgica **descompensa** la dentición, alineando los dientes sobre la base esquelética subyacente. Esto empeora intencionalmente la apariencia de la maloclusión (haciendo que la mordida de un paciente Clase III parezca peor) para permitir que el movimiento quirúrgico posterior logre la oclusión ideal cuando se reposicionan los maxilares. Objetivos específicos de la ortodoncia prequirúrgica: (1) **Nivelación y alineamiento** dentro de cada arcada, eliminando las curvas de Spee; (2) **Descompensación** — eliminar las compensaciones dentarias de la discrepancia esquelética. En un paciente Clase III, los incisivos superiores suelen estar retroinclinados (compensados — inclinados hacia el maxilar) y los inferiores proinclinados. La descompensación proinclinará los incisivos superiores y retroinclinará los inferiores, empeorando la relación incisal de Clase III; (3) **Coordinación de arcadas** — asegurando que las formas de las arcadas superior e inferior coincidan para que los maxilares tengan oclusión coordinada tras la reposición quirúrgica; (4) **Expansión de arcada** cuando existe constricción maxilar (la expansión palatina rápida asistida quirúrgicamente, EPRAC/SARPE, puede realizarse como procedimiento preliminar si la constricción es significativa); (5) **Registros prequirúrgicos** — telerradiografía final, modelos dentales y fotografías faciales tomados 2–4 semanas antes de la cirugía para la planificación VSP. El criterio de aptitud para la cirugía: cuando las formas de arcada están coordinadas y la descompensación dental está completa, confirmado encajando los modelos dentales superior e inferior en la posición quirúrgica planificada para previsualizar la oclusión."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Descompensación en Clase III",
+          "content": "En un paciente con Clase III esquelética, los incisivos superiores suelen estar proinclinados (compensados para mantener el contacto incisal) y los inferiores retroinclinados. La ortodoncia prequirúrgica RETROINCLINARÁ los incisivos superiores y PROINCLINARÁ los inferiores — esto empeora temporalmente la mordida (más Clase III) pero es necesario para que tras el avance quirúrgico del maxilar y el retroceso mandibular, los incisivos se encuentren en la relación incisal correcta. Si la descompensación es insuficiente, la cirugía no puede lograr el resultado dental planificado."
+        }
+      ]
+    },
+    {
+      "id": "B1-S4",
+      "title": "Planificación Quirúrgica Virtual — Principios y Evidencia",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La planificación quirúrgica virtual (VSP) se ha convertido en el estándar de atención para la cirugía ortognática en la mayoría de los centros, sustituyendo a la cirugía en modelos tradicional y a la transferencia con arco facial. El flujo de trabajo VSP: (1) **Imagen prequirúrgica** — CBCT de alta resolución del cráneo y CBCT o escáner intraoral de las arcadas dentales; (2) **Reconstrucción 3D** — segmentación del cráneo, maxilar, mandíbula, dientes y envoltorio de tejidos blandos; (3) **Simulación de osteotomías** — Le Fort I, osteotomía sagital de rama bilateral (BSSO), genioplastia, simuladas virtualmente con control preciso del movimiento en los seis ejes; (4) **Análisis oclusal** — colocación virtual de los modelos dentales en la oclusión planificada; (5) **Predicción de tejidos blandos** — los algoritmos predicen la respuesta de los tejidos blandos al movimiento esquelético (proporciones: el labio superior responde un 50–60% del avance maxilar; el mentón blando un 100% del avance de genioplastia); (6) **Fabricación** de férulas quirúrgicas intermedias y finales personalizadas (wafers oclusales) mediante tecnología CAD/CAM para guiar el posicionamiento mandibular durante la cirugía; (7) **Fabricación de placas de titanio personalizadas** — opcional; placas preformadas fabricadas a partir del plan 3D. La evidencia sobre la precisión del VSP: **Baan et al.** (J Craniomaxillofac Surg 2016) mostró que el VSP alcanza un error medio de posición quirúrgica de 1,0 mm frente a 2,4 mm con la cirugía en modelos convencional. La revisión sistemática de **Steinhuber et al.** (J Oral Maxillofac Surg 2018) confirmó la superioridad del VSP sobre la cirugía en modelos en precisión y reducción del tiempo quirúrgico (una media de 35–45 minutos menos). El VSP también permite la visualización tridimensional simultánea de la vía aérea, lo que es fundamental para la planificación de la cirugía del SAOS (midiendo las dimensiones nasofaríngeas, orofaríngeas e hipofaríngeas antes y después de los movimientos planificados)."
+        },
+        {
+          "type": "table",
+          "title": "VSP frente a Cirugía en Modelos Convencional — Resumen Comparativo",
+          "headers": ["Parámetro", "VSP", "Cirugía en Modelos Convencional"],
+          "rows": [
+            ["Error medio de posición", "~1,0 mm", "~2,4 mm"],
+            ["Tiempo quirúrgico", "35–45 min más corto", "Referencia"],
+            ["Fabricación de férulas", "CAD/CAM (precisa)", "Manual con arco facial + articulador"],
+            ["Predicción de tejidos blandos", "Algoritmo integrado", "Estimación manual"],
+            ["Visualización de vía aérea", "Volumétrica 3D", "No disponible"],
+            ["Coste", "Mayor (software + CAD/CAM)", "Menor (honorarios de laboratorio)"],
+            ["Exposición a radiación", "Requiere CBCT", "Telerradiografía convencional"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Precisión del VSP y Proporciones de Tejidos Blandos",
+          "content": "Error del VSP ~1,0 mm frente a 2,4 mm del convencional. Proporciones de respuesta de tejidos blandos para la planificación quirúrgica: labio superior = 50–60% del avance maxilar; labio inferior = 80% del movimiento mandibular; mentón = 100% de la genioplastia. Estas proporciones están programadas en el software VSP y permiten mostrar al paciente el aspecto facial postoperatorio previsto."
+        }
+      ]
+    },
+    {
+      "id": "B1-S5",
+      "title": "Férulas Quirúrgicas y Posicionamiento Mandibular",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las férulas quirúrgicas (wafers oclusales) son dispositivos acrílicos que fijan temporalmente los dientes superiores e inferiores en una relación predeterminada durante la cirugía, guiando el posicionamiento de los maxilares hacia la oclusión planificada. En la cirugía bimaxilar (Le Fort I + BSSO), se utilizan dos férulas: (1) una **férula intermedia** (utilizada tras completar la osteotomía Le Fort I, antes de realizar el BSSO) — que posiciona el maxilar en su nueva posición quirúrgica en relación con la mandíbula sin modificar, permitiendo al cirujano fijar el maxilar y, a continuación, la mandíbula; (2) una **férula final** (utilizada tras completar ambas osteotomías) — que posiciona ambos maxilares en la oclusión final planificada y se mantiene en posición durante la fijación y las 6–8 semanas postoperatorias de curación. La férula intermedia es técnicamente la más crítica de las dos — cualquier error en la férula intermedia se propagará como un error en el posicionamiento maxilar que no podrá corregirse posteriormente. La fabricación tradicional de férulas implica transferencia con arco facial, montaje en articulador y cirugía en modelos (reposicionamiento manual de modelos de escayola en la posición planificada). La fabricación VSP utiliza flujo de trabajo digital: escáneres dentales registrados con el CBCT, osteotomías virtuales, programación de la oclusión planificada y fresado de férulas en PMMA (polimetilmetacrilato) por CAD/CAM. El flujo de trabajo digital elimina el error de transferencia del arco facial y la variabilidad del montaje en articulador, produciendo férulas más precisas y reproducibles."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Errores en la Férula Intermedia",
+          "content": "La férula intermedia posiciona el maxilar EN RELACIÓN CON LA MANDÍBULA SIN MODIFICAR tras el Le Fort I. Si la férula intermedia es inexacta, el maxilar queda fijado en la posición incorrecta, y el BSSO posterior tiene un punto de partida erróneo para el posicionamiento mandibular. La férula final solo puede corregir errores dentro del rango de movimiento del BSSO mandibular — no puede compensar un maxilar mal posicionado. Pruebe siempre ambas férulas en los modelos dentales antes de la cirugía."
+        }
+      ]
+    },
+    {
+      "id": "B1-S6",
+      "title": "Análisis de Tejidos Blandos y Objetivos Estéticos",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La planificación moderna de la cirugía ortognática está impulsada tanto por el análisis de tejidos blandos como por las mediciones cefalométricas esqueléticas. El objetivo de la cirugía es una apariencia facial armoniosa, no simplemente alcanzar valores cefalométricos «normales». El **análisis cefalométrico de tejidos blandos de Arnett y Bergman** (1993) y el **ATCA (análisis cefalométrico de tejidos blandos)** evalúan las proporciones faciales directamente a partir de los puntos de referencia de tejidos blandos. Evaluaciones clave de tejidos blandos: (1) **Tercios faciales** — superior (línea del cabello a la glabela), medio (glabela a subnasal) e inferior (subnasal a mentón) deben ser aproximadamente iguales (cada uno ~1/3 de la altura facial); (2) **Posición y competencia labial** — los labios deben estar separados menos de 2 mm en reposo; labio superior al plano E (Ricketts) −4 mm; labio inferior al plano E 0 mm; (3) **Exposición gingival** — en reposo, la encía superior no debe ser visible; en la sonrisa máxima, 0–2 mm de exposición gingival es aceptable; >3 mm = «sonrisa gingival» por exceso vertical maxilar; (4) **Posición del mentón** — el pogonion al meridiano cero (Gonzalez-Ulloa) debe estar sobre o por detrás (no más de 2 mm anterior) de la línea del meridiano cero; (5) **Ángulo nasolabial** — 90–100° en hombres, 100–110° en mujeres; (6) **Convexidad facial** — G-Sn-Pog (debe ser aproximadamente 168–175°, es decir, perfil casi recto). Los registros fotográficos (frontal, lateral, tres cuartos, sonrisa) y el análisis de las proporciones faciales complementan los datos cefalométricos. La predicción por software del aspecto postoperatorio de los tejidos blandos (Dolphin Imaging, Maxilim) permite la consulta con el paciente mostrando el resultado quirúrgico esperado."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Sonrisa Gingival",
+          "content": "El exceso vertical maxilar (EVM) provoca exposición gingival excesiva (>3 mm en la sonrisa). El procedimiento de impacción Le Fort I reduce la altura facial inferior y la exposición gingival. Para EVM leve (<3 mm de exposición gingival), la inyección de toxina botulínica en el músculo elevador del labio superior (efecto temporal) o la cirugía de reposicionamiento labial son alternativas a la cirugía ortognática completa. Para EVM grave con maloclusión, la impacción Le Fort I es el tratamiento definitivo."
+        }
+      ]
+    },
+    {
+      "id": "B1-S7",
+      "title": "Ortodoncia Postquirúrgica y Estabilidad a Largo Plazo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La ortodoncia postquirúrgica comienza 4–8 semanas después de la cirugía, cuando la curación ósea inicial permite fuerzas ortodóncicas ligeras. Sus objetivos son: ajuste fino de los contactos oclusales, cierre de espacios residuales, logro del paralelismo radicular ideal y aseguramiento de una intercuspidación estable. Duración: típicamente 6–12 meses. La **estabilidad esquelética** es la preocupación crítica a largo plazo tras la cirugía ortognática. La recidiva es multifactorial y específica del movimiento. Los movimientos ortognáticos más estables (en orden): (1) reposicionamiento superior mandibular (menor recidiva); (2) avance mandibular; (3) avance maxilar; (4) impacción maxilar; (5) retroceso mandibular (mayor recidiva, especialmente para movimientos grandes >8 mm). Factores que afectan la estabilidad: magnitud del movimiento (mayor = más recidiva), fijación quirúrgica (la fijación interna rígida con placas y tornillos de titanio ha reducido drásticamente la recidiva en comparación con la fijación con alambre), elásticos postoperatorios y cooperación en la ortodoncia postquirúrgica. **Mecanismos de recidiva**: para los avances mandibulares, el mecanismo principal de recidiva es la torsión condilar/rotación horaria de los segmentos proximales; para las impacciones maxilares, la recidiva está impulsada por las fuerzas de los tejidos blandos. La fijación esquelética rígida (placas de titanio, tornillos y para Le Fort I: fijación en 4 puntos en el reborde piriforme y el contrafuerte cigomático) es esencial. Retención a largo plazo: retenedores fijos y removibles de forma indefinida para la estabilidad dental; los movimientos esqueléticos se mantienen mediante la remodelación ósea en los sitios de osteotomía."
+        },
+        {
+          "type": "table",
+          "title": "Estabilidad Esquelética de los Movimientos Ortognáticos (de Mayor a Menor Estabilidad)",
+          "headers": ["Movimiento", "Estabilidad", "Tasa de Recidiva", "Factor Clave"],
+          "rows": [
+            ["Reposicionamiento superior mandibular", "Muy estable", "<5%", "La gravedad favorece el contacto óseo"],
+            ["Impacción maxilar", "Estable", "5–10%", "Fuerzas de tejidos blandos; fijación en 4 puntos"],
+            ["Avance mandibular (<8 mm)", "Estable", "10–15%", "Fijación rígida; minimización de torsión condilar"],
+            ["Avance maxilar", "Moderadamente estable", "10–20%", "Dependiente de la magnitud; fijación con placas"],
+            ["Retroceso mandibular (grande)", "Menos estable", "20–40% para >8 mm", "Tensión muscular; posicionamiento condilar"],
+            ["Alargamiento vertical mandibular", "Menos estable", "Alta", "Necesita injertos óseos; preferible distracción"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Jerarquía de Estabilidad",
+          "content": "Movimientos ortognáticos más estables: (1) reposicionamiento superior mandibular; (2) avance mandibular; (3) impacción/avance maxilar. Menos estables: retroceso mandibular (>8 mm) y reposicionamiento inferior. Los grandes retrocesos mandibulares tienen las tasas de recidiva más altas — considere combinarlo con genioplastia de avance y fijación rígida."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre planificación de cirugía ortognática — cefalometría, VSP, selección de pacientes y estabilidad — con 20 preguntas estilo examen de residentes.",
+    "questions": [
+      {
+        "id": "B1-Q1",
+        "stem": "Un varón de 19 años presenta una discrepancia esquelética Clase III. El análisis cefalométrico muestra: SNA 82°, SNB 86°, ANB −4°. ¿Cuál es la deformidad esquelética principal?",
+        "options": {
+          "A": "Retrognacia maxilar (SNA reducido)",
+          "B": "Prognatismo mandibular (SNB aumentado)",
+          "C": "Prognatismo bimaxilar",
+          "D": "Exceso vertical maxilar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El SNA es 82° (normal). El SNB es 86° (el normal es 80° ± 2°, por lo que 86° está aumentado, indicando prognatismo mandibular). El ANB es −4° (normal 2° ± 2°, el ANB negativo confirma Clase III). La combinación de SNA normal y SNB elevado indica que la discrepancia Clase III está causada por prognatismo mandibular, no por retrognacia maxilar.",
+          "wrong": {
+            "A": "La retrognacia maxilar estaría indicada por un SNA reducido (<80°). Aquí el SNA es 82° — normal. El maxilar está en posición normal.",
+            "C": "El prognatismo bimaxilar mostraría TANTO el SNA como el SNB elevados, con ANB normal o casi normal. Aquí el ANB es −4°, indicando Clase III esquelética relativa, no prognatismo bimaxilar.",
+            "D": "El exceso vertical maxilar se evalúa mediante mediciones verticales (FMA, altura facial inferior, exposición gingival) — no mediante las mediciones AP SNA/SNB/ANB presentadas aquí."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 6th ed. 2018",
+          "trial": "Arnett GW and Bergman RT (Am J Orthod Dentofacial Orthop 1993): validación del análisis cefalométrico — confirmó ANB, SNA, SNB como mediciones diagnósticas primarias para la clasificación esquelética.",
+          "pearl": "Clase III esquelética: ANB <0°. Causada por: (1) Prognatismo mandibular (SNB elevado, SNA normal); (2) Retrognacia maxilar (SNA reducido, SNB normal); (3) Combinación. Distinguir la causa determina el plan quirúrgico: retroceso BSSO vs avance Le Fort I vs cirugía bimaxilar."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q2",
+        "stem": "Durante la preparación de ortodoncia prequirúrgica para un paciente Clase III esquelética, el ortodoncista proinclinó los incisivos inferiores y retroinclinó los superiores, empeorando temporalmente la mordida. ¿Cuál es la justificación de este enfoque?",
+        "options": {
+          "A": "Para crear espacio en la arcada superior para dientes retenidos",
+          "B": "Descompensación dental — eliminar las compensaciones dentales para permitir que la corrección quirúrgica logre la relación incisal ideal en el postoperatorio",
+          "C": "Para mejorar la anchura de la arcada mandibular antes de la cirugía",
+          "D": "Para inducir la retardación del crecimiento mandibular en el período de crecimiento restante"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En un paciente Clase III esquelética, los dientes compensan naturalmente la discrepancia esquelética: los incisivos superiores se proinclinan (se inclinan hacia adelante para mantener el contacto con los incisivos inferiores) y los inferiores se retroinclinan. La ortodoncia prequirúrgica invierte esto — la descompensación retroinclina los incisivos superiores y proinclinará los inferiores, empeorando intencionalmente la maloclusión aparente. Cuando los maxilares se reposicionan quirúrgicamente (maxilar avanzado/mandíbula retraída), los incisivos previamente descompensados se encontrarán en la relación correcta de borde a borde o de sobremordida/resalte ideal.",
+          "wrong": {
+            "A": "Crear espacio para dientes retenidos es un objetivo ortodóncico separado no relacionado con la descompensación. La descompensación de Clase III no aborda principalmente el espacio para dientes retenidos.",
+            "C": "La coordinación de la anchura de arcada (hacer coincidir las formas de las arcadas superior e inferior) también se realiza durante la ortodoncia prequirúrgica, pero es independiente de la descompensación de los incisivos. La anchura de la arcada mandibular no se altera típicamente proinclinando/retroinclinando los incisivos.",
+            "D": "La ortodoncia prequirúrgica no afecta al crecimiento mandibular — el potencial de crecimiento está determinado por la madurez esquelética del paciente. Por eso la cirugía se aplaza hasta la finalización del crecimiento."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 6th ed.",
+          "trial": "Luther F et al. (Cochrane Database Syst Rev 2010): revisión sistemática de la ortodoncia prequirúrgica — la descompensación es esencial para lograr la oclusión quirúrgica ideal; la descompensación inadecuada es causa principal de resultados quirúrgicos subóptimos.",
+          "pearl": "Ortodoncia prequirúrgica = DESCOMPENSACIÓN, no camuflaje. Descompensación Clase III: proinclinación incisivos INFERIORES, retroinclinación incisivos SUPERIORES. Descompensación Clase II: proinclinación incisivos SUPERIORES, retroinclinación incisivos INFERIORES. Empeora temporalmente la mordida para que la cirugía logre la oclusión ideal."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q3",
+        "stem": "En el flujo de trabajo VSP para cirugía ortognática, ¿cuál es el propósito de la férula quirúrgica INTERMEDIA?",
+        "options": {
+          "A": "Fijar la mandíbula en la posición final planificada tras completar el Le Fort I",
+          "B": "Posicionar el maxilar en su nueva posición quirúrgica en relación con la mandíbula sin modificar tras el Le Fort I, antes de realizar el BSSO mandibular",
+          "C": "Retener la oclusión dental durante la fase de ortodoncia postquirúrgica",
+          "D": "Guiar la posición del corte de genioplastia"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En la cirugía bimaxilar (Le Fort I + BSSO), el maxilar se osteotomiza primero. La férula intermedia posiciona el maxilar recién movilizado en relación con la mandíbula SIN MODIFICAR (aún no osteotomizada), permitiendo al cirujano colocar el maxilar en su nueva posición planificada y aplicar las placas de fijación. Una vez completado y fijado el Le Fort I, se realiza el BSSO, y la férula FINAL posiciona ambos maxilares en la oclusión final planificada.",
+          "wrong": {
+            "A": "La férula intermedia posiciona el MAXILAR, no la mandíbula. La mandíbula aún no ha sido osteotomizada en la etapa de la férula intermedia.",
+            "C": "La retención en la ortodoncia postquirúrgica utiliza aparatos ortodóncicos y retenedores, no la férula quirúrgica. La férula quirúrgica final se mantiene 6–8 semanas en el postoperatorio durante la curación, pero luego se retira.",
+            "D": "El posicionamiento de la genioplastia está guiado por su propia plantilla o por la guía de corte VSP, no por la férula intermedia."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Baan F et al. J Craniomaxillofac Surg 2016",
+          "trial": "Baan F et al. (J Craniomaxillofac Surg 2016): estudio de precisión del VSP — la precisión de la férula intermedia es el determinante más crítico de la posición maxilar final; las férulas intermedias fabricadas con VSP son superiores a las de cirugía en modelos convencional (1,0 mm frente a 2,4 mm de error medio).",
+          "pearl": "Secuencia de cirugía bimaxilar: (1) Movilización maxilar Le Fort I; (2) Férula INTERMEDIA posiciona el maxilar en relación con la mandíbula sin modificar; (3) Fijación del maxilar; (4) BSSO; (5) Férula FINAL posiciona ambos maxilares. El error de la férula intermedia se propaga como mala posición maxilar irreparable."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q4",
+        "stem": "Según la jerarquía de estabilidad de los movimientos ortognáticos, ¿qué procedimiento tiene la mayor tasa de recidiva esquelética a largo plazo?",
+        "options": {
+          "A": "Reposicionamiento superior mandibular",
+          "B": "Impacción maxilar",
+          "C": "Avance mandibular de 6 mm",
+          "D": "Retroceso mandibular de 12 mm"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Los grandes retrocesos mandibulares (>8 mm) tienen las tasas de recidiva más altas en cirugía ortognática, con un 20–40% del movimiento que recidiva con el tiempo. El mecanismo principal es la tensión de la musculatura suprahioidea y pterigoidea que tracciona la mandíbula hacia adelante, combinada con la torsión condilar durante la fijación rígida. Los grandes retrocesos son el movimiento ortognático menos estable.",
+          "wrong": {
+            "A": "El reposicionamiento superior mandibular (impacción — realizado más comúnmente junto al Le Fort I para el cierre de la mordida) es el movimiento ortognático MÁS ESTABLE, con <5% de recidiva, porque la gravedad favorece el contacto en el sitio de osteotomía.",
+            "B": "La impacción maxilar es muy estable (5–10% de recidiva) — uno de los movimientos maxilares más estables, especialmente con fijación en 4 puntos.",
+            "C": "El avance mandibular de 6 mm tiene estabilidad moderada (10–15% de recidiva) — significativamente más estable que los grandes retrocesos."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR. A Summary of Orthognathic Surgery Stability (Semin Orthod 2007)",
+          "trial": "Proffit WR et al. (Semin Orthod 2007): revisión sistemática de estabilidad ortognática — retrocesos mandibulares >8 mm con tasas de recidiva del 20–40%; reposicionamiento superior mandibular <5% de recidiva; estableció la jerarquía de estabilidad.",
+          "pearl": "Jerarquía de estabilidad (mejor a peor): (1) Reposicionamiento superior mandibular; (2) Avance mandibular; (3) Impacción maxilar; (4) Avance maxilar; (5) Retroceso mandibular (PEOR — especialmente >8 mm). Para grandes retrocesos: fijación rígida + considerar genioplastia + asesoramiento al paciente sobre riesgo de recidiva."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q5",
+        "stem": "Una mujer de 22 años con exceso vertical maxilar tiene 5 mm de exposición gingival en reposo y un ANB de 3° (esqueleto Clase I). ¿Cuál es el tratamiento quirúrgico más apropiado?",
+        "options": {
+          "A": "Avance mandibular BSSO para aumentar la altura facial inferior",
+          "B": "Impacción maxilar Le Fort I para reducir la altura facial inferior y la exposición gingival",
+          "C": "Genioplastia reductora para acortar la cara inferior",
+          "D": "Extrusión ortodóncica de los incisivos inferiores como compensación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El exceso vertical maxilar (EVM) con >3 mm de exposición gingival en reposo se trata con impacción maxilar Le Fort I. La impacción reduce la altura facial inferior, disminuye la exposición gingival y mejora el sellado labial. Un ANB de 3° indica una relación esquelética Clase I — la mandíbula está correctamente posicionada; la cirugía debe abordar únicamente el exceso vertical maxilar. La impacción Le Fort I es el tratamiento estándar de referencia para el EVM.",
+          "wrong": {
+            "A": "El avance mandibular AUMENTARÍA la altura facial inferior y no abordaría la exposición gingival — es lo contrario de lo que se necesita.",
+            "C": "La genioplastia reductora reduce la altura y proyección del mentón, pero no afecta a la posición del maxilar ni a la exposición gingival. El problema aquí es el exceso maxilar, no el exceso mentoniano.",
+            "D": "La extrusión ortodóncica de los incisivos inferiores aumentaría el resalte/sobremordida pero no puede resolver 5 mm de exposición gingival, que es un EVM esquelético que requiere corrección quirúrgica."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Nadjmi N. J Craniomaxillofac Surg 2015",
+          "trial": "Stec M et al. (Int J Oral Maxillofac Surg 2007): impacción Le Fort I para EVM — reducción de exposición gingival de media 5,2 mm a 1,1 mm; estable a los 2 años de seguimiento; confirmado como tratamiento estándar.",
+          "pearl": "Tratamiento del EVM (sonrisa gingival): impacción Le Fort I. Reduce la exposición gingival 1:1 con la cantidad de impacción. >3 mm de exposición gingival en reposo = indicación quirúrgica. EVM leve (<3 mm): considerar toxina botulínica en el elevador del labio superior o reposicionamiento labial como alternativas no quirúrgicas."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q6",
+        "stem": "¿Cuándo se considera seguro realizar la cirugía ortognática en base a los criterios de madurez esquelética?",
+        "options": {
+          "A": "A los 16 años para todos los pacientes independientemente del sexo",
+          "B": "Tras un mínimo de dos telerradiografías laterales seriadas con 6 meses de intervalo que muestren <0,5 mm/año de cambio en las mediciones clave; típicamente niñas ≥16–17 años, niños ≥18–19 años",
+          "C": "En cualquier momento después de la erupción completa de la dentición permanente",
+          "D": "Tras la erupción completa de los terceros molares"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La madurez esquelética se confirma mediante telerradiografías laterales seriadas a intervalos de 6 meses que muestren mediciones estables (típicamente definidas como <0,5 mm de cambio en la altura facial vertical por año). Las niñas generalmente alcanzan la madurez esquelética a los 16–17 años; los niños a los 18–19 años. La edad sola es insuficiente — debe demostrarse la estabilidad cefalométrica seriada. Realizar la cirugía antes de completar el crecimiento conlleva el riesgo de recidiva postoperatoria a medida que el crecimiento mandibular continúa deshaciendo la corrección quirúrgica.",
+          "wrong": {
+            "A": "Una edad fija de 16 años es insuficiente — los niños siguen con crecimiento mandibular significativo mucho más tiempo que las niñas. La edad debe combinarse con la estabilidad cefalométrica demostrada.",
+            "C": "La erupción de la dentición permanente se completa aproximadamente a los 12–14 años — esto ocurre varios años antes de la madurez esquelética y no es un indicador fiable del cese del crecimiento mandibular.",
+            "D": "La erupción del tercer molar es muy variable (16–25 años) y no se correlaciona de forma fiable con el cese del crecimiento mandibular. No es un criterio de madurez esquelética válido."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; BAOMS Standards for Orthognathic Surgery 2022",
+          "trial": "Fudalej P et al. (J Oral Maxillofac Surg 2007): cirugía ortognática antes vs después de la madurez esquelética — la cirugía prematura asociada a tasas de recidiva esquelética significativamente mayores (32% vs 8%); confirmó la importancia de la evaluación de la madurez.",
+          "pearl": "Madurez esquelética: telerradiografías cada 6 meses, estables durante 12 meses antes de la cirugía. Niñas ≥16–17 años; niños ≥18–19 años. Confirme siempre radiográficamente — la edad es solo una guía. Cirugía prematura → recidiva al continuar el crecimiento."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q7",
+        "stem": "En un paciente con Clase III esquelética y constricción maxilar significativa (discrepancia transversal >5 mm), ¿qué procedimiento quirúrgico preliminar puede requerirse antes de la osteotomía Le Fort I definitiva?",
+        "options": {
+          "A": "Distracción ósea alveolar vertical",
+          "B": "Expansión palatina rápida asistida quirúrgicamente (EPRAC/SARPE)",
+          "C": "Ortodoncia con aceleración cortical (PAOO)",
+          "D": "Osteotomías bilaterales tipo Le Fort II"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Tras la madurez esquelética, la sutura palatina media se fusiona y la expansión palatina rápida (EPR) ortodóncica sola es insuficiente para expandir la dimensión transversal maxilar. La expansión palatina rápida asistida quirúrgicamente (SARPE) implica la liberación de la sutura palatina media, la unión pterigomaxilar y las osteotomías de la pared nasal lateral para permitir la expansión gradual con un dispositivo expansor palatino. El SARPE está indicado para constricciones maxilares transversales >5 mm en pacientes esqueléticamente maduros antes de la osteotomía Le Fort I definitiva.",
+          "wrong": {
+            "A": "La distracción ósea alveolar vertical se utiliza para aumentar la altura del hueso alveolar (por ejemplo, para la colocación de implantes) — no para la expansión transversal.",
+            "C": "La ortodoncia osteogénica de aceleración periodontal (PAOO/Wilckodontics) utiliza corticotomías para acelerar el movimiento dental — se usa para el alineamiento dental rápido pero tiene un efecto limitado sobre las verdaderas discrepancias esqueléticas transversales en pacientes maduros.",
+            "D": "Las osteotomías Le Fort II implican la movilización del macizo facial incluyendo los huesos nasales — no son el tratamiento estándar para la expansión transversal en la cirugía ortognática de Clase III."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Betts NJ et al. (Int J Adult Orthod Orthognath Surg 1995)",
+          "trial": "Betts NJ et al. (Int J Adult Orthod Orthognath Surg 1995): SARPE para deficiencia maxilar transversal — expansión media de 7,2 mm; estable a los 2 años post-Le Fort I; confirmado como el enfoque estándar para la corrección transversal >5 mm en pacientes esqueléticamente maduros.",
+          "pearl": "Deficiencia transversal maxilar >5 mm en paciente esqueléticamente maduro = SARPE antes del Le Fort I. El SARPE libera la sutura palatina fusionada + pterigomaxilar + paredes nasales laterales. Tasa de expansión: 0,25 mm/día. Retención 3–6 meses antes del Le Fort I. No intente EPR sin cirugía en adultos — la sutura no se abrirá."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q8",
+        "stem": "La predicción de tejidos blandos en VSP estima que el labio superior avanzará en qué proporción del avance maxilar?",
+        "options": {
+          "A": "100% (proporción 1:1)",
+          "B": "70–80%",
+          "C": "50–60%",
+          "D": "25–30%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El labio superior responde al avance maxilar en aproximadamente un 50–60% del movimiento esquelético (es decir, 1 mm de avance maxilar produce aproximadamente 0,5–0,6 mm de avance del labio superior). El tejido blando del mentón responde en un 100% al avance de genioplastia. El labio inferior responde aproximadamente en un 80% al movimiento mandibular. Estas proporciones están integradas en el software VSP para generar predicciones de tejidos blandos en la consulta con el paciente.",
+          "wrong": {
+            "A": "La respuesta del 100% (1:1) es la proporción del TEJIDO BLANDO DEL MENTÓN al avance de genioplastia — no del labio superior al avance maxilar.",
+            "B": "El 70–80% es la proporción de respuesta del LABIO INFERIOR al movimiento mandibular — no del labio superior.",
+            "D": "El 25–30% subestima significativamente la respuesta del labio superior. Esto resultaría en predicciones que infravaloran el cambio facial de la cirugía maxilar."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Arnett GW and Bergman RT (Am J Orthod Dentofacial Orthop 1993): análisis cefalométrico de tejidos blandos — estableció las proporciones de respuesta de tejidos blandos: labio superior 50–60% del movimiento maxilar; labio inferior 80% del mandibular; mentón 100% de genioplastia.",
+          "pearl": "Proporciones de respuesta de tejidos blandos: Labio superior = 50–60% del avance maxilar. Labio inferior = 80% del movimiento mandibular. Mentón (pogonion blando) = 100% del avance de genioplastia. Punta nasal: ~25% del avance maxilar. Estas proporciones están programadas en los software VSP Dolphin Imaging y Maxilim."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q9",
+        "stem": "La valoración de Wits se utiliza como complemento del ángulo ANB en el análisis cefalométrico. ¿En qué situación es la valoración de Wits MÁS útil en comparación con el ANB solo?",
+        "options": {
+          "A": "Cuando el paciente tiene Clase III grave con ANB muy grande",
+          "B": "Cuando la morfología de la base craneal es anormal (platibasias, braquicefalia, Nasion prognático), haciendo que el ANB sea poco fiable",
+          "C": "Cuando solo se dispone de una radiografía periapical",
+          "D": "Para evaluar discrepancias verticales (FMA)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La valoración de Wits mide la relación sagital de los maxilares usando perpendiculares de los puntos A y B al plano oclusal funcional, evitando el Nasion y los puntos de la base craneal que se usan en el ANB. Cuando la morfología de la base craneal es anormal (platibasias, braquicefalia) o el Nasion está posicionado de forma inusual (muy posterior o muy anterior), el ángulo ANB no refleja con precisión la verdadera relación mandibular A-B. La valoración de Wits es independiente de la base craneal y proporciona una evaluación más fiable en estos casos.",
+          "wrong": {
+            "A": "El Wits no es específicamente necesario para Clase III grave — el ANB refleja claramente grandes discrepancias esqueléticas. La limitación del ANB está en las discrepancias LEVES donde la variación de la base craneal podría desplazar la lectura.",
+            "C": "La valoración de Wits requiere una telerradiografía lateral — no puede realizarse a partir de radiografías periapicales.",
+            "D": "La valoración de Wits es una medición SAGITAL — no tiene ningún papel en la evaluación de los patrones verticales. El FMA y el SN-PM son las mediciones verticales."
+          },
+          "guideline": "Jacobson A. The Wits Appraisal of Jaw Disharmony (Am J Orthod 1975); Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Jacobson A (Am J Orthod 1975): descripción original de Wits — demostró que el ANB estaba significativamente afectado por el ángulo de la base craneal y la posición del Nasion; la valoración de Wits de 0 mm (mujer)/−1 mm (hombre) en las perpendiculares al plano oclusal funcional es independiente de la base craneal.",
+          "pearl": "Valoración de Wits: AO (perpendicular de A al plano oclusal) y BO (perpendicular de B al plano oclusal). Normal: AO por delante de BO en 0 mm (mujer) / −1 mm (hombre). Clase II: AO significativamente por delante; Clase III: BO por delante de AO. Use Wits cuando el ANB pueda ser engañoso por base craneal inusual."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q10",
+        "stem": "La cirugía de avance maxilomandibular (AMM) para la apnea obstructiva del sueño logra su efecto terapéutico mediante cuál mecanismo principal?",
+        "options": {
+          "A": "Reducción de la resistencia de la vía aérea nasal mediante la corrección de un tabique nasal desviado",
+          "B": "Avance simultáneo del maxilar y la mandíbula, que adelanta la base de la lengua, el paladar blando y la musculatura suprahioidea para aumentar las dimensiones de la vía aérea retroglosal y velofaríngea",
+          "C": "Reposicionamiento del hueso hioides hacia arriba para reducir la obstrucción orofaríngea",
+          "D": "Reducción del peso de los tejidos blandos en la pared faríngea mediante liposucción"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El AMM avanza simultáneamente el maxilar (Le Fort I) y la mandíbula (BSSO), típicamente 10–12 mm hacia adelante. Este avance lleva la base de la lengua, el geniogloso, el genihioideo y los músculos suprahioideos hacia adelante, además de estirar el paladar blando anteriormente a través del tensor del velo del paladar. El resultado es un aumento significativo de las dimensiones de la vía aérea retroglosal (de la base de la lengua a la pared faríngea posterior) y velofaríngea. Los metaanálisis muestran una reducción del IAH >80% con AMM, comparable a la traqueotomía para el SAOS grave.",
+          "wrong": {
+            "A": "La cirugía del tabique nasal aborda la resistencia de la vía aérea nasal pero no afecta significativamente a la obstrucción retroglosal o velofaríngea, que son los sitios principales de colapso en el SAOS grave. El AMM actúa a nivel de la orofaringe, no de la cavidad nasal.",
+            "C": "La suspensión hioidea (miotomía y suspensión del hioides) es un procedimiento separado que puede complementar el AMM, pero el AMM en sí mismo no reposiciona principalmente el hioides — reposiciona todo el complejo mandibular con la musculatura adherida.",
+            "D": "La liposucción faríngea no forma parte del AMM — la reducción de grasa en la pared faríngea no es un componente de la cirugía AMM. Esto describe un procedimiento diferente (raramente realizado)."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; AASM (American Academy of Sleep Medicine) OSA Treatment Guidelines 2019",
+          "trial": "Holty JE and Guilleminault C (Sleep Med Rev 2010): revisión sistemática del AMM para SAOS — reducción media del IAH del 86% (de 63 a 9 eventos/hora); tasa de éxito (IAH <20) del 86%; procedimiento quirúrgico más eficaz para el SAOS a excepción de la traqueotomía.",
+          "pearl": "AMM para SAOS: avanza ambos maxilares 10–12 mm, llevando la base de la lengua y los músculos suprahioideos anteriormente. Reducción del IAH del 86% en metaanálisis. Tratamiento quirúrgico del SAOS más eficaz. Indicación: IAH >30 con fracaso o intolerancia al CPAP. Requiere preparación ortodóncica."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q11",
+        "stem": "Un varón de 25 años tiene las siguientes mediciones cefalométricas: SNA 76°, SNB 78°, ANB −2°. ¿Cuál es el diagnóstico esquelético primario y el tratamiento quirúrgico apropiado?",
+        "options": {
+          "A": "Prognatismo mandibular — retroceso BSSO",
+          "B": "Retrognacia maxilar — avance maxilar Le Fort I",
+          "C": "Retrognacia bimaxilar — avance bimaxilar (Le Fort I + BSSO)",
+          "D": "Patrón esquelético normal — tratamiento solo con ortodoncia"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "SNA 76° (normal 82° ± 2°) = REDUCIDO = retrognacia maxilar. SNB 78° (normal 80° ± 2°) = reducido = retrognacia mandibular. ANB −2° = Clase III. Tanto el maxilar como la mandíbula están posicionados posteriormente (retrognáticos), pero la mandíbula está relativamente más adelantada que el maxilar (ANB negativo). El tratamiento es el avance bimaxilar: Le Fort I para avanzar el maxilar + BSSO para avanzar la mandíbula, restaurando ambos maxilares a sus posiciones sagitales correctas.",
+          "wrong": {
+            "A": "El prognatismo mandibular (retroceso BSSO) estaría indicado para un SNB elevado con SNA normal. Aquí el SNB está reducido (78°) — la mandíbula es retrognática, no prognática.",
+            "B": "El avance Le Fort I solo sería apropiado si únicamente el SNA estuviera reducido con SNB normal. Aquí TANTO el SNA como el SNB están reducidos, requiriendo cirugía bimaxilar.",
+            "D": "SNA 76° y SNB 78° representan desviaciones significativas de la normalidad — 6° y 2° por debajo de los valores normales respectivamente. Esta es una discrepancia esquelética quirúrgicamente significativa que no es tratable solo con ortodoncia."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Posnick JC (J Oral Maxillofac Surg 2014): resultados de cirugía bimaxilar en pacientes retrognáticos — resultados funcionales y estéticos superiores en comparación con cirugía de un solo maxilar; esencial cuando tanto el SNA como el SNB son anormales.",
+          "pearl": "Retrognacia bimaxilar: TANTO el SNA como el SNB reducidos. Tratamiento = avance Le Fort I + avance BSSO. El ANB puede aparecer como Clase III (negativo) incluso con retrognacia bimaxilar porque ambos maxilares son posteriores pero la mandíbula menos que el maxilar."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q12",
+        "stem": "¿Qué proporción facial describe la «regla de los tercios» en el análisis estético facial?",
+        "options": {
+          "A": "La nariz debe ser un tercio del ancho facial total",
+          "B": "La altura facial vertical debe dividirse en tres segmentos aproximadamente iguales: superior (línea del cabello a la glabela), medio (glabela a subnasal) e inferior (subnasal al mentón)",
+          "C": "La altura del labio debe ser un tercio de la altura facial inferior",
+          "D": "El ancho facial debe ser exactamente tres veces la distancia intercantal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La «regla de los tercios» en el análisis de proporciones faciales divide la altura facial vertical en tres segmentos aproximadamente iguales: (1) tercio superior — desde la línea del cabello (triquion) hasta la glabela; (2) tercio medio — desde la glabela hasta el subnasal; (3) tercio inferior — desde el subnasal hasta el mentón. Idealmente, cada tercio debe representar aproximadamente un tercio de la altura facial total. El exceso vertical maxilar aumenta el tercio inferior; la deficiencia mandibular reduce la proyección del tercio inferior pero puede aumentar o disminuir su altura en función de los cambios verticales asociados.",
+          "wrong": {
+            "A": "El ancho nasal en relación con el ancho facial es un análisis de proporciones faciales separado — idealmente el ancho de la base nasal se aproxima a la distancia intercantal. Esto no es la «regla de los tercios».",
+            "C": "La altura del labio como un tercio de la altura facial inferior es una proporción vertical dentro del tercio inferior, no la «regla de los tercios» que define los tercios verticales faciales generales.",
+            "D": "El ancho facial en relación con la distancia intercantal es la «regla de los quintos» (ancho facial dividido en 5 partes iguales, cada una igual a la distancia intercantal) — no la «regla de los tercios»."
+          },
+          "guideline": "Arnett GW and Bergman RT. Am J Orthod Dentofacial Orthop 1993; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Farkas LG et al. (Plast Reconstr Surg 1985): estudio antropométrico de proporciones faciales — confirmó la regla de los tercios como estándar de proporción estética válido; las desviaciones de las proporciones de un tercio se correlacionaron con la percepción de disarmonía facial.",
+          "pearl": "Tercios faciales: superior (línea del cabello–glabela), medio (glabela–subnasal), inferior (subnasal–mentón) — aproximadamente iguales. El EVM aumenta el tercio inferior. Tercio inferior subdividido: labio superior 1/3 (subnasal al stomion), labio inferior + mentón 2/3 (stomion al mentón). Útil para discusiones de planificación quirúrgica."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q13",
+        "stem": "En el contexto de la cirugía ortognática, ¿qué es el FMA (ángulo plano de Frankfort-plano mandibular) y qué indica un FMA elevado?",
+        "options": {
+          "A": "El ángulo entre el plano SN y el plano mandibular; elevado = prognatismo mandibular",
+          "B": "El ángulo entre el plano horizontal de Frankfort y el plano mandibular; elevado (>30°) = patrón facial hiperdivergente con tendencia a la mordida abierta anterior",
+          "C": "El ángulo entre los ejes longitudinales de los incisivos superior e inferior; elevado = mordida profunda",
+          "D": "El ángulo entre el plano facial y el plano oclusal; elevado = Clase III esquelética"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El FMA (ángulo plano de Frankfort-plano mandibular) es el ángulo formado entre el plano horizontal de Frankfort (de porion a orbitale) y el plano mandibular (de gonion a mentón). El FMA normal es 25° ± 4°. Un FMA elevado (>30°) indica un patrón facial hiperdivergente — el plano mandibular es más empinado de lo normal, creando una cara inferior larga con tendencia a la mordida abierta anterior. Los pacientes hiperdivergentes suelen tener mordidas abiertas anteriores esqueléticas y tienen mayor riesgo de recidiva de la mordida abierta después de la cirugía ortognática.",
+          "wrong": {
+            "A": "El ángulo entre el plano SN y el plano mandibular es el SN-PM (ángulo SN-plano mandibular), no el FMA. Ambos evalúan el patrón vertical pero utilizan planos de referencia diferentes.",
+            "C": "El ángulo entre los ejes longitudinales de los incisivos superior e inferior es el ángulo interincisal — utilizado para evaluar la relación de inclinación de los incisivos. Un ángulo interincisal disminuido indica incisivos proinclinados (compensación de la curva de Spee profunda), no el patrón vertical.",
+            "D": "El ángulo del plano facial al plano oclusal no es el FMA. El ángulo del plano facial (N-Pog al PF) se usa en el análisis del perfil sagital."
+          },
+          "guideline": "Proffit WR Contemporary Orthodontics 6th ed. 2018; EACMFS Orthognathic Guidelines 2023",
+          "trial": "Proffit WR et al. (Am J Orthod Dentofacial Orthop 1992): FMA como predictor de estabilidad ortognática — los pacientes hiperdivergentes (FMA >30°) tienen tasas de recidiva más altas para la corrección de mordida abierta; el FMA incorporado en la planificación quirúrgica y el asesoramiento de estabilidad.",
+          "pearl": "FMA = ángulo plano de Frankfort al plano mandibular. Normal 25° ± 4°. FMA >30° = hiperdivergente = tendencia a mordida abierta anterior, cara inferior más larga. FMA <20° = hipodivergente = tendencia a mordida profunda, cara inferior corta. Los pacientes hiperdivergentes tienen mayores tasas de recidiva de mordida abierta postquirúrgica."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q14",
+        "stem": "Se adquiere un CBCT para la planificación VSP de un Le Fort I + BSSO. En comparación con una telerradiografía lateral convencional, ¿qué información adicional proporciona el CBCT para la planificación de la cirugía ortognática?",
+        "options": {
+          "A": "Mejor medición 2D de los ángulos ANB y SNB",
+          "B": "Evaluación volumétrica 3D de los maxilares, dientes y vía aérea, permitiendo la simulación de todos los ejes de movimiento simultáneamente",
+          "C": "Menor dosis de radiación para información diagnóstica equivalente",
+          "D": "Información de color sobre los tejidos blandos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El CBCT proporciona imagen volumétrica tridimensional que permite: evaluación 3D de la anatomía esquelética y dental (no limitada a proyecciones 2D), identificación de asimetrías invisibles en la telerradiografía lateral, simulación de osteotomías en los seis ejes (traslaciones x, y, z y rotaciones de cabeceo, balanceo y guiñada), evaluación volumétrica 3D de la vía aérea (fundamental para la planificación de la cirugía del SAOS) y registro del modelo dental digital para la planificación virtual de la oclusión. La combinación de CBCT y escáneres intraorales permite el flujo de trabajo VSP completo.",
+          "wrong": {
+            "A": "Las mediciones cefalométricas 2D (ANB, SNA, SNB) se realizan con MAYOR precisión a partir de telerradiografías convencionales que a partir de reconstrucciones 2D derivadas de CBCT, porque el CBCT introduce variabilidad de magnificación en función de la posición de la cabeza. La ventaja del CBCT es el 3D, no la precisión de la medición 2D.",
+            "C": "La dosis de radiación del CBCT es típicamente MAYOR que la de una telerradiografía lateral convencional. La dosis del CBCT oscila entre 0,01 y 0,5 mSv según el campo de visión — comparable o mayor que una telerradiografía convencional (0,005–0,01 mSv). La información 3D justifica la mayor dosis para la planificación quirúrgica.",
+            "D": "El CBCT no proporciona información de color — es un conjunto de datos volumétrico en escala de grises. La fotogrametría 3D o la esterofotogrametría (imagen separada) proporciona datos de superficie en color."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Steinhuber T et al. J Oral Maxillofac Surg 2018",
+          "trial": "Steinhuber T et al. (J Oral Maxillofac Surg 2018): revisión sistemática — VSP basado en CBCT superior a la planificación con telerradiografía 2D para la evaluación de asimetrías 3D, simulación simultánea de movimientos múltiples y análisis de la vía aérea.",
+          "pearl": "CBCT en VSP ortognático: anatomía esquelética/dental 3D, simulación en todos los ejes, evaluación volumétrica de la vía aérea, cuantificación de asimetrías faciales. Mayor radiación que telerradiografía 2D — justificada por el beneficio de la planificación quirúrgica. Campo de visión estándar: cráneo completo (15×17 cm o 15×15 cm) incluyendo las ATM para ortognática."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q15",
+        "stem": "Una mujer de 28 años tiene una asimetría facial con 5 mm de desviación de la línea media mandibular hacia la derecha. El análisis cefalométrico muestra un plano oclusal inclinado (lado derecho 3 mm más bajo que el izquierdo). ¿Qué abordaje quirúrgico corrige mejor tanto la desviación de la línea media como la inclinación del plano oclusal?",
+        "options": {
+          "A": "BSSO solo — los movimientos bilaterales asimétricos del corte sagital pueden corregir la asimetría",
+          "B": "Le Fort I solo — el reposicionamiento maxilar y la corrección de la inclinación",
+          "C": "Le Fort I combinado (para nivelar el plano oclusal) + BSSO (para corregir la línea media y la discrepancia sagital) con movimientos asimétricos",
+          "D": "Genioplastia con corte diagonal para corregir solo la asimetría del mentón"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La inclinación del plano oclusal es principalmente un problema maxilar — requiere una osteotomía Le Fort I con impacción diferencial (mayor impacción en el lado más bajo) para nivelar el plano. La desviación de la línea media mandibular se corrige con movimientos BSSO asimétricos (diferentes cantidades en cada lado). Para la combinación de inclinación del plano oclusal y desviación de la línea media, el enfoque estándar es la cirugía bimaxilar: Le Fort I para nivelar el plano oclusal + BSSO para corregir la línea media y la discrepancia sagital. El VSP con simulación de movimientos asimétricos es esencial para planificar estos movimientos tridimensionales complejos.",
+          "wrong": {
+            "A": "El BSSO solo no puede corregir de forma fiable una inclinación del plano oclusal — la inclinación está determinada por la posición del maxilar. Intentar usar BSSO asimétrico para compensar una inclinación maxilar genera fuerzas asimétricas adicionales sobre los cóndilos.",
+            "B": "El Le Fort I solo puede corregir la inclinación pero dejaría sin abordar la desviación de la línea media mandibular.",
+            "D": "La genioplastia con corte diagonal puede corregir la asimetría del mentón pero no corrige la inclinación del plano oclusal ni la desviación de la línea media dental — solo aborda el mentón."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery (Saunders 2014)",
+          "trial": "Nadjmi N (J Craniomaxillofac Surg 2015): VSP totalmente personalizado para cirugía bimaxilar asimétrica — la planificación 3D logra una asimetría residual media de 1,1 mm frente a 3,2 mm con planificación 2D; confirma el abordaje bimaxilar como estándar para la corrección combinada de inclinación + línea media.",
+          "pearl": "Inclinación del plano oclusal: corregida principalmente por Le Fort I (impacción diferencial). Desviación de la línea media: corregida por BSSO. Asimetría compleja = cirugía bimaxilar con movimientos 3D asimétricos — esencial usar VSP para planificar y simular todos los ejes simultáneamente."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q16",
+        "stem": "¿Cuál de los siguientes es una contraindicación para proceder con la cirugía ortognática?",
+        "options": {
+          "A": "Ruidos articulares leves de la ATM (clic) preexistentes sin dolor",
+          "B": "Enfermedad periodontal activa con pérdida ósea y dientes móviles",
+          "C": "Discrepancia Clase II esquelética leve (ANB 5°) con salud dental normal",
+          "D": "Paciente de 20 años con mediciones cefalométricas estables durante 12 meses"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La enfermedad periodontal activa es una contraindicación para la cirugía ortognática porque: (1) la movilidad dental reduce la fiabilidad de las férulas quirúrgicas y el asentamiento oclusal; (2) los patógenos periodontales aumentan el riesgo de infección postoperatoria en los sitios de osteotomía; (3) el movimiento ortodóncico en presencia de periodontitis activa provoca mayor pérdida de hueso alveolar. La enfermedad periodontal debe estar completamente tratada y estabilizada antes de planificar la cirugía ortognática.",
+          "wrong": {
+            "A": "El clic articular leve de ATM sin dolor es frecuente en la población general y no es una contraindicación para la cirugía ortognática. De hecho, la corrección de Clase II mediante avance mandibular puede mejorar los síntomas de ATM en algunos pacientes. La patología grave de la ATM (anquilosis, artritis activa, alteración interna significativa) requiere tratamiento previo a la cirugía ortognática.",
+            "C": "Un ANB de 5° representa una discrepancia esquelética Clase II leve que está dentro del rango de corrección quirúrgica — es una indicación para la cirugía ortognática si existen preocupaciones funcionales o estéticas, no una contraindicación.",
+            "D": "La edad de 20 años con 12 meses de estabilidad cefalométrica cumple los criterios de madurez — este es el momento adecuado para la cirugía."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; BAOMS Standards 2022",
+          "trial": "Proffit WR et al. Contemporary Orthodontics (Mosby 2018): contraindicaciones para la cirugía ortognática — periodontitis activa, inmadurez esquelética, expectativas irreales del paciente, inestabilidad psiquiátrica listadas como contraindicaciones principales.",
+          "pearl": "Contraindicaciones para la cirugía ortognática: Enfermedad periodontal activa (tratar primero), inmadurez esquelética (esperar), inestabilidad psiquiátrica/expectativas irreales, condiciones médicas no controladas. Clic leve de ATM = NO es una contraindicación. Enfermedad grave de ATM = necesita evaluación antes de la cirugía."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q17",
+        "stem": "¿Qué rango del ángulo nasolabial se considera estéticamente ideal para las mujeres en el análisis facial de tejidos blandos?",
+        "options": {
+          "A": "75–85°",
+          "B": "90–100°",
+          "C": "100–110°",
+          "D": "115–125°"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El ángulo nasolabial (ángulo entre la columela de la nariz y el labio superior en el subnasal) debe ser de 100–110° para las mujeres y de 90–100° para los hombres. Esta diferencia de género refleja la tendencia de la estética facial femenina a tener la punta nasal ligeramente más elevada (mayor ángulo nasolabial). Un ángulo <90° parece caído (punta nasal ptótica); >115° parece excesivamente elevado. El avance maxilar tiende a rotar la punta nasal hacia arriba, aumentando el ángulo nasolabial — esto debe tenerse en cuenta en la planificación quirúrgica.",
+          "wrong": {
+            "A": "75–85° indicaría una punta nasal gravemente caída — estéticamente indeseable y fuera del rango normal.",
+            "B": "90–100° es el ángulo nasolabial ideal para los HOMBRES, no para las mujeres. Estéticamente, las mujeres se benefician de una punta ligeramente más elevada (100–110°).",
+            "D": "115–125° indicaría una punta nasal excesivamente elevada — el aspecto de «nariz de cerdo», estéticamente desfavorable."
+          },
+          "guideline": "Arnett GW and Bergman RT. Am J Orthod Dentofacial Orthop 1993; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Farkas LG and Munro IR (Am J Orthod Dentofacial Orthop 1987): estudio antropométrico que confirma las normas del ángulo nasolabial específicas por sexo; mujeres 100–110°, hombres 90–100°; incorporado en los protocolos estándar de análisis estético facial.",
+          "pearl": "Ángulo nasolabial: ideal en hombres 90–100°; ideal en mujeres 100–110°. El avance maxilar rota la punta nasal superiormente (aumenta el ángulo nasolabial ~1° por mm de avance). Planifique esto en los movimientos Le Fort I para evitar elevar excesivamente la punta nasal en pacientes femeninas Clase III que reciben avance maxilar."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q18",
+        "stem": "Un varón de 21 años con SAOS grave (IAH 65 eventos/hora) ha sido intolerante a la terapia CPAP durante 2 años. Su cefalometría muestra SNB 74° (retrognacia mandibular) con relación Clase II. Es derivado para avance maxilomandibular (AMM). ¿Cuál es la reducción esperada del IAH con el AMM según el metaanálisis?",
+        "options": {
+          "A": "~30% de reducción del IAH",
+          "B": "~50% de reducción del IAH",
+          "C": "~70% de reducción del IAH",
+          "D": "~85% de reducción del IAH"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Los metaanálisis del avance maxilomandibular (AMM) para el SAOS grave reportan consistentemente una reducción del IAH de aproximadamente el 85–86% (de una media de 63 a 9 eventos/hora). La revisión sistemática de Holty y Guilleminault (Sleep Med Rev 2010) de 627 pacientes mostró una reducción media del IAH del 86% con una tasa de éxito (IAH <20) del 86%. El AMM es el tratamiento quirúrgico más eficaz para el SAOS a excepción de la traqueotomía.",
+          "wrong": {
+            "A": "Una reducción del IAH del 30% es comparable a la uvulopalatoplastia (UPP) en metaanálisis — significativamente inferior al AMM para el SAOS grave.",
+            "B": "Una reducción del 50% es insuficiente para caracterizar el resultado del AMM — este nivel de respuesta dejaría un IAH de 32,5 en este paciente, aún en rango grave.",
+            "C": "El 70% está dentro del rango de algunas series unicéntricas de AMM pero por debajo de la media del metaanálisis de ~85%."
+          },
+          "guideline": "AASM OSA Treatment Guidelines 2019; EACMFS Orthognathic Guidelines 2023",
+          "trial": "Holty JE and Guilleminault C (Sleep Med Rev 2010): revisión sistemática del AMM para SAOS (627 pacientes, 22 estudios); reducción media del IAH del 86% (de 63,9 a 9,0); tasa de éxito (IAH <20) del 86%; tasa de curación (IAH <5) del 43%; estableció el AMM como el tratamiento quirúrgico del SAOS más eficaz.",
+          "pearl": "AMM para SAOS: reducción del IAH ~86%, tasa de éxito 86%. Indicar para IAH >30 con intolerancia/fracaso al CPAP. Avance de 10–12 mm necesario para efecto óptimo. La estabilidad a largo plazo (5 años) de la mejora del IAH está confirmada. Inferior solo a la traqueotomía para el SAOS grave."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q19",
+        "stem": "Al planificar una osteotomía Le Fort I para un paciente con 4 mm de exposición gingival en reposo (exceso vertical maxilar), ¿cuánto debe impactarse el maxilar (reposicionamiento superior) para lograr 1 mm de exposición gingival en reposo en el postoperatorio?",
+        "options": {
+          "A": "1 mm de impacción",
+          "B": "3 mm de impacción",
+          "C": "5 mm de impacción",
+          "D": "8 mm de impacción"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El paciente tiene 4 mm de exposición gingival y el objetivo es 1 mm en el postoperatorio — una reducción de 3 mm. La impacción Le Fort I tiene una relación aproximadamente 1:1 con la reducción de la exposición gingival (cada 1 mm de movimiento superior reduce la exposición gingival en aproximadamente 1 mm). Por tanto, se planifican 3 mm de impacción para lograr una reducción de 3 mm en la exposición gingival (de 4 mm a 1 mm).",
+          "wrong": {
+            "A": "1 mm de impacción solo reduciría la exposición gingival en 1 mm — de 4 mm a 3 mm. Esto no lograría el objetivo de 1 mm de exposición gingival.",
+            "C": "5 mm de impacción sobreCorregiría — reduciendo la exposición gingival de 4 mm a −1 mm (1 mm de labio cubriendo los dientes en reposo, creando un aspecto «edéntulo»). Esto sería estéticamente indeseable.",
+            "D": "8 mm de impacción supondría una sobre-impacción dramática — resultando en 4 mm de cobertura incisal y pérdida de la visualización del diente/sonrisa. Este nivel de impacción no es apropiado solo para la corrección del EVM."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Stec M et al. (Int J Oral Maxillofac Surg 2007): impacción Le Fort I para EVM — confirmada la proporción 1:1 de impacción respecto a reducción de exposición gingival; impacción media de 3 mm para reducción media de exposición gingival de 3 mm; estable a los 2 años.",
+          "pearl": "Impacción Le Fort I: 1 mm de impacción = ~1 mm de reducción de exposición gingival (proporción 1:1). Objetivo de exposición gingival = 0–2 mm. Si la exposición actual es de 4 mm y el objetivo es 1 mm: planifique 3 mm de impacción. Considere siempre: cambios en la exposición del incisivo superior (los incisivos descienden con la impacción), ensanchamiento de la base alar (la sutura alar cinch lo previene) y cambio del ángulo nasolabial."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q20",
+        "stem": "Se analiza una telerradiografía lateral cefalométrica y muestra: SNA 80°, SNB 80°, ANB 0°, FMA 32°, IMPA 96°. ¿Cuál es el diagnóstico esquelético más preciso?",
+        "options": {
+          "A": "Esqueleto Clase I, hipodivergente, incisivo inferior dentro de los límites normales",
+          "B": "Esqueleto Clase III, hiperdivergente, incisivo inferior proinclinado",
+          "C": "Esqueleto Clase I (ANB 0° límite), hiperdivergente (FMA 32°), incisivo inferior levemente proinclinado (IMPA 96°)",
+          "D": "Esqueleto Clase II con vertical normal"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Análisis: SNA 80° (normal 82°, ligeramente reducido pero dentro del rango de 2° — límite), SNB 80° (normal), ANB 0° (límite Clase III — rango normal 2° ± 2°, por lo que 0° está en el límite Clase I/III), FMA 32° (normal 25° ± 4°, por lo que 32° = levemente elevado = HIPERDIVERGENTE), IMPA 96° (normal 90° ± 5°, por lo que 96° = incisivo inferior levemente proinclinado). El diagnóstico compuesto correcto es: esqueleto límite Clase I/Clase III, patrón vertical hiperdivergente, incisivo inferior levemente proinclinado.",
+          "wrong": {
+            "A": "FMA 32° NO es hipodivergente — es levemente hiperdivergente (>29°). IMPA 96° está levemente fuera del rango normal (>95° es proinclinado).",
+            "B": "ANB 0° es límite — no claramente Clase III. La Clase III se define típicamente como ANB <0°; el valor límite 0°–1° podría ser Clase I o III dependiendo de otras mediciones. Los otros valores no confirman un diagnóstico definitivo de Clase III.",
+            "D": "El ANB es 0° — esto no es Clase II (ANB >4°). El diagnóstico de Clase II es incorrecto."
+          },
+          "guideline": "Proffit WR Contemporary Orthodontics 2018; EACMFS Orthognathic Guidelines 2023",
+          "trial": "Jacobson A. Am J Orthod 1975; Proffit WR Am J Orthod Dentofacial Orthop 1992 — establecieron los valores de referencia y los marcos de interpretación para las mediciones cefalométricas estándar.",
+          "pearl": "Lista de verificación de interpretación cefalométrica: (1) Sagital: SNA, SNB, ANB, Wits; (2) Vertical: FMA, SN-PM; (3) Dental: IMPA, I1-SN, ángulo interincisal. Interprete siempre los tres dominios conjuntamente. Un ANB límite cercano a 0° requiere correlación clínica y posiblemente valoración de Wits para determinar la verdadera clasificación sagital."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

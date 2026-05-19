@@ -1,0 +1,628 @@
+{
+  "id": "A2",
+  "title": "Cáncer orofaríngeo: VPH, TORS y quimiorradioterapia",
+  "subtitle": "Oncología de cabeza y cuello — VPH positivo vs VPH negativo, cirugía robótica transoral, QRT definitiva",
+  "block": "A",
+  "block_name": "Oncología de Cabeza y Cuello",
+  "level": "R2-4",
+  "reading_time_min": 42,
+  "guidelines_version": "NCCN Head and Neck Cancers v1.2024 · AJCC TNM 8th Edition 2017 · EACMFS 2023",
+  "textbook_refs": [
+    "Shah JP et al. Head and Neck Surgery and Oncology, 5th ed. (2020)",
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 4th ed. (2022)",
+    "NCCN Clinical Practice Guidelines: Head and Neck Cancers v1.2024"
+  ],
+  "learning_objectives": [
+    "Distinguir las diferencias epidemiológicas y pronósticas entre el cáncer orofaríngeo VPH-positivo y VPH-negativo",
+    "Aplicar el sistema de estadificación separado de la 8.ª edición del AJCC para el cáncer orofaríngeo VPH-positivo (p16-positivo)",
+    "Describir las indicaciones, la técnica y los resultados oncológicos de la cirugía robótica transoral (TORS) para el cáncer orofaríngeo",
+    "Describir la base de evidencia para las estrategias de desescalada en el cáncer orofaríngeo VPH-positivo",
+    "Explicar el papel de la quimiorradioterapia concomitante como modalidad de tratamiento primaria para el cáncer orofaríngeo localmente avanzado",
+    "Identificar las características clínicas que distinguen los tumores orofaríngeos de los de cavidad oral a efectos de estadificación"
+  ],
+  "sections": [
+    {
+      "id": "A2-S1",
+      "title": "El VPH y la epidemia de cáncer orofaríngeo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**El carcinoma epidermoide orofaríngeo (CEOP)** ha experimentado una notable transformación epidemiológica en las últimas tres décadas, con la prevalencia del **virus del papiloma humano (VPH)** — específicamente VPH-16 — como agente causal que ha ascendido al 70-90% de los casos en los países occidentales. Esta epidemia impulsada por el VPH ha sido especialmente pronunciada en el norte de Europa, Estados Unidos y Australia, y ha cambiado fundamentalmente el panorama demográfico, biológico y pronóstico de la enfermedad.\n\nLa **orofaringe** incluye cuatro subsitios: la **base de la lengua** (tercio posterior), el **complejo amigdalino** (amígdala palatina, pilar amigdalino anterior y posterior), el **paladar blando** y la **pared faríngea posterior**. Las criptas amigdalinas y la base de lengua son los sitios más comunes para el CEOP relacionado con el VPH porque estas superficies linfoides reticuladas exponen el VPH a las capas mucosas más profundas con mayor facilidad que la mucosa lisa de la cavidad oral.\n\nEl CEOP VPH-positivo afecta predominantemente a pacientes más jóvenes (edad media 55-60 años), hombres, no fumadores o fumadores leves, y se asocia con múltiples parejas sexuales y el sexo oral. La biología difiere fundamentalmente del CEOP relacionado con el tabaco/alcohol (VPH-negativo): los tumores VPH-positivos son típicamente **CEC no queratinizante**, muestran sobreexpresión de **p16** (un inhibidor de la cinasa dependiente de ciclina que se regula al alza cuando el VPH E7 inactiva pRb), tienen tasas más bajas de inestabilidad cromosómica, mayores tasas de infiltración linfocítica y un pronóstico dramáticamente mejorado. La supervivencia global a 5 años para el CEOP VPH-positivo en estadio I-II según la 8.ª edición del AJCC supera el 85-90%, en comparación con aproximadamente el 35-40% para el CEOP VPH-negativo de tamaño equivalente.\n\nLa **inmunohistoquímica p16** es el biomarcador sustituto del estado del VPH utilizado en la práctica clínica y en el sistema de estadificación de la 8.ª edición del AJCC. La positividad de p16 (definida como tinción nuclear y citoplasmática fuerte y difusa en ≥70% de las células tumorales) tiene una concordancia >90% con la detección del ADN del VPH de alto riesgo por hibridación in situ (HIS). La IHQ de p16 se prefiere frente a la PCR o HIS para la estadificación clínica rutinaria por su reproducibilidad, disponibilidad y valor predictivo."
+        },
+        {
+          "type": "table",
+          "title": "Cáncer orofaríngeo VPH-positivo vs VPH-negativo — Diferencias clave",
+          "headers": ["Característica", "VPH-positivo (p16+)", "VPH-negativo (p16-)"],
+          "rows": [
+            ["Edad media", "55-60 años", "60-70 años"],
+            ["Sexo", "Predominio masculino (H:M 5-7:1)", "Predominio masculino (H:M 3:1)"],
+            ["Factores de riesgo", "Múltiples parejas sexuales, sexo oral", "Tabaco + alcohol (sinérgicos)"],
+            ["Subsitio primario", "Amígdala > base de lengua", "Base de lengua, pared posterior"],
+            ["Histología", "CEC no queratinizante", "CEC queratinizante"],
+            ["IHQ p16", "Fuerte difusa positiva (≥70% células)", "Negativa o focal"],
+            ["SG a 5 años (estadio III-IV)", "85-90%", "35-45%"],
+            ["Respuesta a QRT", "Excelente (RCP 60-70%)", "Moderada (RCP 25-35%)"],
+            ["Sistema estadificación AJCC 8.ª", "Sistema HPV-p CEOP separado", "Estadificación C&C estándar"],
+            ["Patrón de metástasis a distancia", "Más común, pero tardía y oligometastásica", "Más precoz, múltiples sitios"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Umbral de positividad p16 para estadificación VPH",
+          "content": "La positividad de p16 para la estadificación del CEOP según la 8.ª edición del AJCC requiere tinción nuclear Y citoplasmática FUERTE y DIFUSA en ≥70% de las células tumorales. La tinción focal o débil NO es suficiente. El CEOP p16-positivo (asociado al VPH) usa una tabla de estadificación completamente diferente a la del CEOP p16-negativo. Esta distinción es crítica: un CEOP HPV-p16-positivo con ganglios cervicales bilaterales puede seguir siendo Estadio I o II según el sistema VPH de la 8.ª edición del AJCC."
+        }
+      ]
+    },
+    {
+      "id": "A2-S2",
+      "title": "AJCC 8.ª edición — Estadificación separada para el CEOP asociado al VPH",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **8.ª edición del AJCC (2017)** introdujo un sistema de estadificación completamente separado para el CEOP p16-positivo (asociado al VPH), reconociendo el pronóstico dramáticamente diferente de esta entidad. Bajo este sistema, la clasificación T se mantiene respecto a la edición anterior, pero la clasificación N se simplifica profundamente y la agrupación global de estadios es marcadamente diferente.\n\nPara el **CEOP p16-positivo**, la clasificación N es: **cN0** = sin ganglios regionales; **cN1** = uno o más ganglios ipsilaterales (independientemente del tamaño o número); **cN2** = ganglios contralaterales o bilaterales. Es crucial que la extensión extracapsular NO esté incorporada en la estadificación clínica N para el CEOP HPV-p (a diferencia del cáncer de cavidad oral), aunque sigue siendo relevante para la estadificación patológica y las decisiones terapéuticas. Este sistema N simplificado refleja el excelente pronóstico del CEOP HPV-p incluso con enfermedad ganglionar extensa.\n\nLos **agrupamientos globales de estadio** resultantes para el CEOP p16-positivo son: Estadio I = T1-T2 N0-N1 M0; Estadio II = T1-T2 N2 M0, o T3 N0-N1 M0; Estadio III = T3 N2 M0, o T4 cualquier N M0; Estadio IV = cualquier T cualquier N M1 (solo metástasis a distancia). Bajo este sistema, un paciente con adenopatía cervical bilateral procedente de un pequeño primario T1 amigdalino sería Estadio II, no Estadio IVc como habría sido bajo el sistema anterior.\n\nPara el **CEOP p16-negativo**, se aplica la estadificación estándar de CEC de cabeza y cuello, con los mismos criterios T y N que el cáncer de cavidad oral (incluyendo la EEC en la clasificación N3b)."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error frecuente — Aplicar el sistema de estadificación incorrecto",
+          "content": "Al estadificar el cáncer orofaríngeo, SIEMPRE verifique primero el estado p16. El CEOP p16-positivo y el CEOP p16-negativo utilizan tablas de estadificación COMPLETAMENTE DIFERENTES en la 8.ª edición del AJCC. Un paciente p16-positivo con T2N2b sería Estadio II (favorable), mientras que el mismo paciente p16-negativo sería Estadio IVA (mal pronóstico). Aplicar la tabla incorrecta conduce a un pronóstico dramáticamente incorrecto y potencialmente a decisiones inapropiadas de desescalada o escalada del tratamiento."
+        }
+      ]
+    },
+    {
+      "id": "A2-S3",
+      "title": "Cirugía robótica transoral (TORS) para el cáncer orofaríngeo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **cirugía robótica transoral (TORS)** fue desarrollada en la Universidad de Pensilvania por Weinstein y O'Malley y recibió la autorización de la FDA para la cirugía orofaríngea en 2009. La TORS utiliza el sistema quirúrgico da Vinci para proporcionar visualización tridimensional amplificada, brazos instrumentales articulados y filtrado del temblor, permitiendo la resección de tumores orofaríngeos a través de la boca abierta sin incisiones que requieran splitting labial ni mandibulotomía.\n\nEl principio oncológico primario de la TORS es el mismo que cualquier resección quirúrgica: **resección R0 con márgenes ≥3 mm** (el umbral de margen próximo generalmente aceptado en la orofaringe dadas las restricciones anatómicas). La TORS es más adecuada para: tumores T1-T2 de la amígdala y la base de lengua; tumores T3 limitados de la amígdala con acceso adecuado; y pacientes VPH-positivos seleccionados donde la cirugía primaria puede preferirse a la QRT definitiva (particularmente para la participación en ensayos de desescalada o en pacientes donde la radiación sería altamente mórbida). La TORS está generalmente contraindicada para: tumores T4, tumores que se extienden a la hipofaringe o laringe, pacientes con apertura bucal limitada y tumores que requieren resección próxima a la base del cráneo o la carótida.\n\nEl **procedimiento TORS** para la base de la lengua: el paciente se posiciona en decúbito supino con el cuello extendido. Se coloca un abrebocas de Crowe-Davis con el sistema de suspensión apropiado. Se acopla el robot da Vinci con una cámara de 0 o 30 grados y dos brazos instrumentales (típicamente unas pinzas Maryland de 5 mm y un cauterio monopolar de 5 mm). La resección se realiza en bloque, trabajando desde la superficie mucosa hacia el interior para lograr un margen profundo adecuado. El principal riesgo quirúrgico es la **hemorragia de la arteria lingual** y sus ramas. La arteria lingual surge de la arteria carótida externa y discurre medialmente al nervio hipogloso y medialmente al músculo hiogloso; sus ramas terminales irrigan la base de lengua y pueden requerir identificación específica y ligadura con clips durante la TORS.\n\nEl **ensayo PATHOS** y el **ensayo ORATOR2** representan ensayos clave en curso y completados que comparan la cirugía basada en TORS frente a la quimiorradioterapia definitiva en el CEOP VPH-positivo, con resultados funcionales (deglución, voz, calidad de vida) como resultados co-primarios junto con los resultados oncológicos. Los resultados preliminares del ORATOR (Nichols et al., Lancet Oncol 2019) mostraron resultados oncológicos comparables pero diferentes perfiles funcionales: la QRT resultó en peor deglución al año, mientras que TORS+RT tuvo una QdV global similar pero diferentes perfiles de efectos secundarios."
+        },
+        {
+          "type": "table",
+          "title": "Indicaciones y contraindicaciones de TORS para el cáncer orofaríngeo",
+          "headers": ["Criterio", "Favorable para TORS", "Contraindicación para TORS"],
+          "rows": [
+            ["Estadio T", "T1-T2, T3 amigdalino seleccionado", "T4a, T4b"],
+            ["Localización", "Amígdala, base de lengua (lateral)", "Base de lengua en línea media, extensión a pared posterior"],
+            ["Apertura bucal", "≥35 mm interincisal", "<25 mm (trismo) — CI absoluta"],
+            ["Cuello", "Cualquier estadio N si el primario es resecable", "Enfermedad ganglionar irresecable que rodea la carótida"],
+            ["Estado VPH", "p16-positivo preferido (desescalada)", "p16-negativo (mayor riesgo de recaída)"],
+            ["Extensión hipofaríngea", "No afectada", "Cualquier afectación hipofaríngea"],
+            ["Factores del paciente", "Sin obesidad mórbida, buena dentición", "Macroglosia, retrognacia que limita la exposición"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto clínico — Proximidad de la arteria carótida en TORS",
+          "content": "La arteria carótida interna se encuentra típicamente a 2-3 cm de la fosa amigdalina. La evaluación preoperatoria de la proximidad carotídea mediante TC o RM es esencial. Una apariencia en 'pajarita' de la carótida en las imágenes transversales sugiere una carótida desplazada medialmente — esto es una contraindicación relativa para la TORS en tumores amigdalinos. La lesión carotídea intraoperatoria, aunque infrecuente, es catastrófica; los cirujanos de TORS con experiencia deben tener establecido un protocolo de emergencia para el control hemorrágico, incluida la conversión a abordaje externo si es necesario."
+        }
+      ]
+    },
+    {
+      "id": "A2-S4",
+      "title": "Quimiorradioterapia definitiva — Tratamiento estándar para el CEOP localmente avanzado",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **quimiorradioterapia concomitante (QRT)** es el tratamiento definitivo estándar para el cáncer orofaríngeo localmente avanzado (Estadio III-IV) y para el CEOP en estadios tempranos en pacientes que no son candidatos o rechazan la cirugía. El ensayo de referencia **RTOG 9111** y los ensayos posteriores establecieron la QRT concomitante basada en cisplatino como superior a la quimioterapia secuencial + radiación o la radiación sola para la preservación laríngea y orofaríngea, y la QRT definitiva se convirtió en el estándar frente a la cirugía en los años 1990 y 2000 para el CEOP en la mayoría de los centros occidentales.\n\nEl régimen estándar de QRT definitiva para el CEOP es: **IMRT 70 Gy en 35 fracciones** (2 Gy/fracción) sobre la enfermedad macroscópica, con boost integrado simultáneo cubriendo los niveles ganglionares en riesgo, y **cisplatino concomitante 100 mg/m² los días 1, 22 y 43** (o cisplatino semanal 40 mg/m² como alternativa). Las tasas de respuesta en el CEOP VPH-positivo son excepcionales: tasas de respuesta patológica completa (RCP) del 60-70% en el sitio primario y del 40-60% en los ganglios regionales tras QRT. La PET-TC post-QRT a los 3 meses tiene un valor predictivo negativo >95% para la enfermedad residual y orienta la toma de decisiones sobre la disección cervical planificada.\n\nEl **ensayo PET-NECK** (Mehanna et al., NEJM 2016) fue un ECA de referencia que demostró que la vigilancia guiada por PET-TC tras QRT definitiva en el cáncer orofaríngeo N2-3 era no inferior en supervivencia global a la disección cervical planificada (SG a 2 años: 84,9% vs 81,5%) y redujo significativamente el número de disecciones cervicales realizadas (54% requirió DC de rescate vs 100% con DC planificada), con mejor calidad de vida y eficiencia de costes similar. Esto estableció el manejo cervical guiado por PET-TC como estándar tras QRT definitiva para el CEOP.\n\nEl **perfil de toxicidad** de la QRT definitiva para el CEOP es sustancial: mucositis aguda (Grado 3 en >50%), xerostomía, disfagia, pérdida de peso que requiere gastrostomía (25-40% de los pacientes) y neuropatía por cisplatino. Los efectos a largo plazo incluyen xerostomía crónica, disfagia (estenosis tardía en el 10-20%), osteorradionecrosis mandibular (<5% con IMRT), hipotiroidismo (40-50%) y estenosis carotídea. Estas toxicidades son el principal impulsor de los ensayos de desescalada en el CEOP VPH-positivo."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Ensayo PET-NECK",
+          "content": "PET-NECK (Mehanna et al., NEJM 2016): 564 pacientes con cáncer orofaríngeo N2-3 tras QRT definitiva. PET-TC de vigilancia a las 12 semanas vs disección cervical planificada: SG a 2 años 84,9% vs 81,5% (no inferior). Disección cervical en el brazo guiado por PET-TC: 54 pacientes (19%) vs 221 pacientes (81%) en el brazo de DC planificada. Ahorro de costes: 1.400 £ por paciente. Esta es la evidencia de Nivel I contra la disección cervical planificada de rutina tras QRT definitiva para el CEOP."
+        }
+      ]
+    },
+    {
+      "id": "A2-S5",
+      "title": "Estrategias de desescalada en el cáncer orofaríngeo VPH-positivo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El excelente pronóstico del CEOP VPH-positivo ha generado un interés sustancial en la desescalada del tratamiento para reducir la toxicidad a largo plazo manteniendo los resultados oncológicos. Se han investigado múltiples estrategias, pero hasta la fecha **ningún abordaje de desescalada ha alcanzado evidencia de Nivel I de no inferioridad sin comprometer la supervivencia**.\n\nEl ensayo **RTOG 1016** (Gillison et al., Lancet 2019) aleatorizó a 987 pacientes con CEOP VPH-positivo (T1-T4, N0-N2c) entre QRT estándar basada en cisplatino y QRT basada en cetuximab (cetuximab sustituyendo al cisplatino). El ensayo se detuvo precozmente cuando el brazo de cetuximab mostró una supervivencia global a 5 años significativamente inferior (77,9% vs 84,6%) y una supervivencia libre de progresión significativamente inferior. El RTOG 1016 demostró de forma concluyente que el cetuximab NO es equivalente al cisplatino para el CEOP VPH-positivo y no debe usarse como desescalada.\n\nEl ensayo **De-ESCALaTE HPV** (Mehanna et al., Lancet 2019) reportó casi simultáneamente resultados casi idénticos: cetuximab + RT vs cisplatino + RT en 334 pacientes con CEOP VPH-positivo. Supervivencia global a 2 años significativamente peor en el brazo de cetuximab (89,4% vs 97,5%). Ambos ensayos juntos constituyen evidencia definitiva de Nivel I contra la desescalada basada en cetuximab en el CEOP VPH-positivo.\n\nEl ensayo **ECOG 3311** (Ferris et al.) investigó la desescalada del tratamiento adyuvante TORS + tratamiento adyuvante: los pacientes con características patológicas de riesgo intermedio recibieron RT de dosis reducida (50 Gy), mientras que los pacientes de alto riesgo recibieron QRT estándar. Este ensayo respalda el concepto de desescalada basada en cirugía con terapia adyuvante estratificada por riesgo y ha informado a los ensayos de fase III en curso. El ensayo **PATHOS** (multicéntrico del Reino Unido) y el ensayo **ADEPT** están explorando vías similares de desescalada quirúrgica.\n\nActualmente, fuera de ensayos clínicos, **la QRT estándar basada en cisplatino sigue siendo el tratamiento definitivo recomendado por las guías** para el CEOP VPH-positivo localmente avanzado. La desescalada se explora activamente pero no debe ofrecerse fuera de ensayos clínicos bien diseñados."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error frecuente — Cetuximab como desescalada para CEOP VPH+",
+          "content": "Tanto el RTOG 1016 como el ensayo De-ESCALaTE HPV demostraron que sustituir el cisplatino por cetuximab en la QRT para el CEOP VPH-positivo resulta en una supervivencia significativamente peor. Cetuximab + RT NO es una estrategia de desescalada aceptable y no debe ofrecerse a pacientes con CEOP VPH-positivo fuera de un ensayo clínico. La única indicación con evidencia para cetuximab + RT en el CEHC es en pacientes no elegibles para cisplatino (ensayo de Bonner, NEJM 2006), no como estrategia de desescalada en pacientes elegibles para cisplatino."
+        }
+      ]
+    },
+    {
+      "id": "A2-S6",
+      "title": "Anatomía quirúrgica de la orofaringe y acceso TORS",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La orofaringe está limitada anteriormente por el borde posterior del paladar duro y las papilas circunvaladas, superiormente por la nasofaringe al nivel del paladar, inferiormente por las valéculas y los pliegues faringoepiglóticos, y posteriormente por la pared faríngea posterior. Las relaciones anatómicas quirúrgicas clave para la TORS son: la **arteria lingual** (discurre medialmente al hiogloso, las ramas terminales irrigan la base de la lengua — en riesgo durante la TORS de base de lengua), el **nervio glosofaríngeo** (NC IX — sensibilidad del tercio posterior de la lengua y la amígdala, discurre entre el estilofaríngeo y el constrictor faríngeo medio — en riesgo durante la TORS amigdalina), y el **nervio hipogloso** (NC XII — discurre profundo a la glándula submaxilar y lateral al hiogloso, inerva los músculos intrínsecos de la lengua — en riesgo en la resección profunda de la base de lengua).\n\nLos **músculos constrictores faríngeos** forman la pared exterior de la orofaringe. El constrictor superior se origina en el rafe pterigomandibular (también origen del buccinador) y la lámina pterigoidea medial. Se inserta en el rafe faríngeo posteriormente y en el tubérculo faríngeo del clivus. Durante la amigdalectomía TORS, el plano de disección está en el espacio paraamigdalino (entre la cápsula amigdalina y el constrictor superior), permaneciendo medial al constrictor para evitar lesionar el sistema carotídeo.\n\nEl **espacio parafaríngeo** es relevante como límite lateral de la disección amigdalina profunda. Contiene la arteria carótida interna (compartimento profundo/posterior, separado de la orofaringe por el constrictor superior y la grasa preestiloide), el nervio glosofaríngeo y las estructuras del proceso estiloides (estilogloso, estilofaríngeo, estilohioideo). El desplazamiento medial de la carótida hacia el espacio retrofaríngeo (variante anatómica o 'síndrome de Eagle') puede acercar la ACI a solo milímetros de la fosa amigdalina y debe descartarse en las imágenes preoperatorias."
+        }
+      ]
+    },
+    {
+      "id": "A2-S7",
+      "title": "Seguimiento y manejo del primario desconocido con metástasis cervical",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **metástasis cervical de primario desconocido (MCPD)** se presenta más comúnmente como una masa cervical quística en el nivel II en un varón joven — esta es la presentación clásica del CEOP VPH-positivo con un pequeño primario amigdalino oculto en las criptas. El hallazgo patológico incidental de **CEC no queratinizante** en una masa cervical quística en nivel II debe desencadenar inmediatamente un estudio dirigido a buscar un primario orofaríngeo.\n\nLa evaluación de la MCPD incluye: exploración clínica exhaustiva de la nasofaringe, orofaringe, base de lengua y senos piriformes; TC y PET-TC para localización; y **laringoscopia directa con biopsias dirigidas** bajo anestesia general. Si la evaluación inicial es negativa, debe realizarse **amigdalectomía palatina y lingual** (bilateral) para detectar pequeños primarios relacionados con el VPH enterrados en las criptas amigdalinas — este abordaje detecta un primario en el 40-50% de los casos previamente desconocidos. La identificación del sitio primario permite el diseño dirigido del campo de radiación, pudiendo reducir el volumen de radiación y la toxicidad asociada.\n\nSi no se identifica un primario tras el estudio completo y la amigdalectomía bilateral, el paciente se clasifica como **carcinoma de primario desconocido (CPD) verdadero**. El tratamiento suele ser con irradiación cervical ipsilateral o bilateral, según la lateralidad de la enfermedad ganglionar, frecuentemente combinada con irradiación mucosa de los sitios sospechosos en riesgo (base de lengua, nasofaringe). Para el CPD p16-positivo del cuello, el pronóstico refleja el del CEOP VPH-positivo y el tratamiento debe seguir los mismos principios.",
+          "type": "text"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto clínico — Masa cervical quística en adultos jóvenes",
+          "content": "Una masa cervical quística en el nivel II en un paciente varón de 30-60 años se presumía históricamente que era un quiste de la hendidura branquial. La evidencia actual muestra que >70% de dichos quistes en adultos son metástasis quísticas de CEOP VPH-positivo. La PAAF que muestra CEC no queratinizante con positividad p16 confirma el diagnóstico. NO realice una biopsia escisional abierta de una metástasis quística sospechada como primera intervención — esto puede comprometer la disección cervical posterior al causar contaminación del campo quirúrgico y se asocia con un peor control de la enfermedad ganglionar."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Ponga a prueba sus conocimientos sobre el cáncer orofaríngeo con 20 preguntas de tipo examen que cubren biología del VPH, estadificación, TORS y quimiorradioterapia.",
+    "questions": [
+      {
+        "id": "A2-Q1",
+        "stem": "Un hombre no fumador de 49 años presenta una masa cervical quística derecha en el nivel IIa de 3 cm. La punción aspiración con aguja fina revela CEC no queratinizante. La inmunohistoquímica p16 es fuertemente positiva (difusa, >70% de células). No se visualiza ningún primario en la exploración clínica. La PET-TC muestra el ganglio quístico derecho en nivel IIa y un pequeño foco ávido de FDG en la fosa amigdalina derecha (1,2 cm). ¿Cuál es la estadificación correcta según la 8.ª edición del AJCC?",
+        "options": {
+          "A": "T1N2bM0 — Estadio IVA (usando estadificación C&C estándar)",
+          "B": "T1N1M0 — Estadio I (usando estadificación CEOP p16-positivo asociado al VPH)",
+          "C": "T2N1M0 — Estadio II (usando estadificación asociada al VPH)",
+          "D": "T1N2aM0 — Estadio II (usando estadificación asociada al VPH)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este CEOP p16-positivo debe estadificarse usando el sistema de CEOP asociado al VPH de la 8.ª edición del AJCC. El primario es de 1,2 cm en la amígdala — T1 (≤2 cm). Bajo la clasificación N del sistema asociado al VPH, cN1 = uno o más ganglios ipsilaterales (independientemente del número o tamaño, siempre que no sean contralaterales). Un único ganglio derecho en nivel IIa = cN1. Por tanto: T1N1M0 = Estadio I en el sistema de estadificación asociado al VPH. Esto es dramáticamente diferente del sistema antiguo donde el mismo hallazgo habría sido Estadio IVA.",
+          "wrong": {
+            "A": "La estadificación estándar de C&C (T1N2bM0 = Estadio IVA) se aplica al CEOP p16-NEGATIVO. Este paciente es p16-positivo, lo que obliga a usar la tabla de estadificación asociada al VPH.",
+            "C": "El primario es de 1,2 cm — esto es T1 (≤2 cm), no T2 (>2 cm ≤4 cm). T2N1 también sería Estadio I, pero la clasificación T es incorrecta.",
+            "D": "N2a en el sistema asociado al VPH se refiere a un ganglio contralateral único, no ipsilateral. Un ganglio quístico derecho en nivel IIa para un primario amigdalino derecho = N1 (ipsilateral), no N2."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — Capítulo 10: Cáncer orofaríngeo mediado por VPH (p16+)",
+          "trial": "O'Sullivan B et al. (Lancet Oncol 2016): Validación de la estadificación de la 8.ª edición del AJCC para el CEOP asociado al VPH — demuestra una discriminación de supervivencia marcadamente mejorada en comparación con la 7.ª edición.",
+          "pearl": "El CEOP p16-positivo usa una tabla de estadificación completamente diferente. N1 = cualquier ganglio ipsilateral; N2 = contralateral/bilateral. Incluso la adenopatía bilateral de un primario VPH+ puede ser solo Estadio II. Aplicar la estadificación estándar al CEOP VPH+ es un error crítico.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q2",
+        "stem": "Los ensayos RTOG 1016 y De-ESCALaTE HPV compararon QRT basada en cetuximab vs QRT basada en cisplatino en el cáncer orofaríngeo VPH-positivo. ¿Cuál de las siguientes opciones resume mejor los resultados clave y sus implicaciones clínicas?",
+        "options": {
+          "A": "Ambos ensayos mostraron supervivencia global no inferior con cetuximab — el cetuximab es ahora una opción de desescalada aceptable",
+          "B": "Ambos ensayos mostraron supervivencia significativamente inferior con cetuximab — la QRT basada en cisplatino sigue siendo el estándar",
+          "C": "RTOG 1016 mostró cetuximab inferior; De-ESCALaTE mostró equivalencia — los resultados son contradictorios",
+          "D": "Ambos ensayos se suspendieron precozmente por futilidad — el cetuximab solo debe usarse en pacientes no elegibles para cisplatino según el ensayo original de Bonner"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Tanto el RTOG 1016 (Gillison et al., Lancet 2019) como el De-ESCALaTE HPV (Mehanna et al., Lancet 2019) demostraron una supervivencia significativamente inferior con QRT basada en cetuximab frente a QRT basada en cisplatino en el CEOP VPH-positivo. RTOG 1016: SG a 5 años 77,9% (cetuximab) vs 84,6% (cisplatino), HR 1,45, p=0,016. De-ESCALaTE: SG a 2 años 89,4% (cetuximab) vs 97,5% (cisplatino), p=0,001. Estos resultados concordantes de dos ECA independientes establecen definitivamente el cisplatino como agente concomitante estándar y el cetuximab como inferior para la QRT del CEOP VPH-positivo.",
+          "wrong": {
+            "A": "Ambos ensayos mostraron que el cetuximab fue INFERIOR, no no inferior. El cetuximab no es una opción de desescalada aceptable en pacientes elegibles para cisplatino.",
+            "C": "Ambos ensayos mostraron el mismo resultado (cetuximab inferior). No hay conflicto entre los dos ensayos — son notablemente concordantes.",
+            "D": "Los ensayos no se suspendieron por futilidad — el RTOG 1016 se suspendió precozmente por los PEORES resultados en el brazo de cetuximab. El ensayo de Bonner (cetuximab + RT vs RT sola) estudió una población diferente y mostró beneficio del cetuximab, pero se comparó con RT sola, no con cisplatino + RT."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Tratamiento del CEOP asociado al VPH",
+          "trial": "RTOG 1016 (Gillison et al., Lancet 2019) y De-ESCALaTE HPV (Mehanna et al., Lancet 2019): El cisplatino es superior al cetuximab para la QRT del CEOP VPH+. El cisplatino concomitante sigue siendo el estándar.",
+          "pearl": "Para el CEOP VPH-positivo: cisplatino + RT es superior a cetuximab + RT (evidencia de Nivel I de dos ECA). El cetuximab se reserva solo para pacientes NO ELEGIBLES para cisplatino. NO use cetuximab como desescalada en pacientes en buen estado general.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A2-Q3",
+        "stem": "El ensayo PET-NECK (Mehanna et al., NEJM 2016) aleatorizó pacientes con cáncer orofaríngeo N2-N3 después de quimiorradioterapia definitiva. ¿Cuál de las siguientes opciones describe mejor su conclusión principal y su impacto en la práctica actual?",
+        "options": {
+          "A": "La disección cervical planificada fue superior en SG — la DC planificada de rutina tras QRT se recomienda",
+          "B": "La vigilancia guiada por PET-TC fue no inferior en SG, con significativamente menos disecciones cervicales realizadas — la vigilancia con PET-TC es ahora el estándar",
+          "C": "La PET-TC y la DC planificada tuvieron SG equivalente y número equivalente de disecciones realizadas",
+          "D": "La vigilancia con PET-TC se asoció con más recurrencias ganglionares tardías — la DC planificada es más segura"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "PET-NECK (Mehanna et al., NEJM 2016) aleatorizó a 564 pacientes. Resultado primario: SG a 2 años — brazo PET-TC 84,9% vs brazo DC planificada 81,5% (no inferior, p<0,001 para no inferioridad). En el brazo PET-TC, solo 54/282 pacientes (19%) requirieron disección cervical (PET positiva o respuesta incompleta), vs 221/282 (78%) en el brazo DC planificada. Ahorro de costes: 1.400 £ por paciente. QdV: mejor en el brazo PET-TC a los 12 meses. Conclusión: la vigilancia guiada por PET-TC tras QRT evita la DC innecesaria en la mayoría de los pacientes sin comprometer la supervivencia.",
+          "wrong": {
+            "A": "La DC planificada NO fue superior — fue no inferior a la vigilancia PET-TC, y con mayor morbilidad quirúrgica y coste.",
+            "C": "El número de disecciones fue dramáticamente diferente: brazo PET-TC 19% requirió DC vs 78% en el brazo DC planificada. NO son equivalentes en carga quirúrgica.",
+            "D": "La vigilancia PET-TC no resultó en más recurrencias ganglionares tardías — el control locorregional fue equivalente entre los brazos."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Manejo cervical post-QRT; evidencia de Nivel I del PET-NECK",
+          "trial": "PET-NECK (Mehanna et al., NEJM 2016): 564 pacientes, CEOP N2-3 post-QRT. PET-TC guiada vs DC planificada. SG no inferior (84,9% vs 81,5%). 54 vs 221 disecciones cervicales realizadas. Estándar de atención: PET-TC a las 12 semanas post-QRT.",
+          "pearl": "Resultado del PET-NECK: la PET-TC post-QRT a las 12 semanas tiene un valor predictivo negativo >95% para la enfermedad ganglionar residual. Una PET-TC negativa evita la disección cervical. Esta es la evidencia de Nivel I y es ahora el abordaje estándar para el manejo cervical tras QRT definitiva para el CEOP."
+        }
+      },
+      {
+        "id": "A2-Q4",
+        "stem": "Un hombre de 56 años con CEOP de base de lengua T3N2 (ganglios bilaterales) p16-positivo está siendo planificado para quimiorradioterapia definitiva. ¿Cuál es el estadio global correcto según la 8.ª edición del AJCC y cuál es la dosis estándar de radiación sobre la enfermedad macroscópica?",
+        "options": {
+          "A": "Estadio IVA; 60 Gy sobre la enfermedad macroscópica en 30 fracciones",
+          "B": "Estadio III; 70 Gy sobre la enfermedad macroscópica en 35 fracciones",
+          "C": "Estadio II; 60 Gy sobre la enfermedad macroscópica con cetuximab concomitante",
+          "D": "Estadio III; 66 Gy sobre la enfermedad macroscópica con platino concomitante"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Bajo la estadificación del CEOP asociado al VPH (p16+): T3 + N2 (ganglios bilaterales) = Estadio III. En el sistema VPH de la 8.ª edición del AJCC, N2 = ganglios contralaterales o bilaterales. T3N2M0 = Estadio III. La dosis estándar de RT definitiva para el CEOP es 70 Gy en 35 fracciones (2 Gy/fracción) sobre la enfermedad macroscópica (GTV), usando IMRT con boost integrado simultáneo (BIS) que administra dosis más bajas a los volúmenes ganglionares electivos (54-63 Gy). Cisplatino concomitante 100 mg/m² días 1, 22, 43 o cisplatino semanal 40 mg/m².",
+          "wrong": {
+            "A": "El Estadio IVA se aplicaría bajo el sistema antiguo o para el CEOP p16-negativo. Bajo la estadificación asociada al VPH, T3N2 = Estadio III. La dosis de RT de 60 Gy está por debajo del estándar para el tratamiento definitivo de la enfermedad macroscópica.",
+            "C": "N2 (bilateral) = Estadio II solo si se combina con T1-T2. T3N2 = Estadio III (no II). El cetuximab no es la terapia concomitante estándar tras el RTOG 1016 y el De-ESCALaTE.",
+            "D": "La estadificación (Estadio III) es correcta pero 66 Gy no es la dosis definitiva estándar. 66 Gy puede usarse como dosis intermedia en algunos protocolos pero 70 Gy/35 fr es el estándar canónico para la enfermedad orofaríngea macroscópica."
+          },
+          "guideline": "Estadificación CEOP asociado al VPH de la 8.ª edición del AJCC; NCCN Head and Neck Cancers v1.2024 — Principios de dosis de RT",
+          "trial": "El RTOG 9111 y los ensayos posteriores establecieron 70 Gy/35 fr como el fraccionamiento de dosis estándar para la QRT definitiva de cabeza y cuello.",
+          "pearl": "Dosis de RT definitiva estándar para la enfermedad macroscópica orofaríngea: 70 Gy en 35 fracciones (2 Gy/fr). Volúmenes ganglionares electivos: 50-54 Gy. Este marco dosis-volumen se utiliza en los protocolos IMRT-BIS y es la referencia para todos los grandes ensayos de QRT orofaríngea.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q5",
+        "stem": "Durante una amigdalectomía TORS para un carcinoma epidermoide T2, se produce un sangrado significativo en el lecho amigdalino derecho. La fuente del sangrado parece ser una rama del sistema de la arteria carótida externa profunda al constrictor faríngeo. ¿Cuál es el manejo quirúrgico inmediato?",
+        "options": {
+          "A": "Empaquetar la fosa amigdalina con celulosa oxidada y continuar robóticamente",
+          "B": "Convertir al abordaje transcervical abierto para ligadura de la arteria carótida externa",
+          "C": "Presión directa, aspiración, electrocoagulación bipolar y aplicación de clips robóticamente; convertir al abordaje abierto si no se controla",
+          "D": "Embolización por radiología intervencionista como primer paso"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El manejo inicial del sangrado intraoperatorio en TORS es la presión directa con una esponja, aspiración para mantener la visualización, electrocoagulación bipolar o aplicación de clips sobre el vaso usando los instrumentos robóticos. La mayoría del sangrado del lecho amigdalino puede manejarse robóticamente con estas técnicas. Si el sangrado es de un vaso nominado (arteria lingual o rama de la arteria faríngea ascendente) y no puede controlarse robóticamente en 60-90 segundos, es obligatoria la conversión al abordaje transcervical abierto para el control proximal. Es esencial disponer de un plan preoperatorio para este escenario, incluyendo el consentimiento del paciente y del equipo de anestesia.",
+          "wrong": {
+            "A": "El embalaje solo sin hemostasia es inadecuado para el sangrado arterial. El embalaje con celulosa oxidada es apropiado para el rezumo venoso pero no para la hemorragia arterial de ramas de la ACE.",
+            "B": "La conversión abierta inmediata sin intentar primero la hemostasia robótica es prematura. La mayoría del sangrado puede controlarse robóticamente. La conversión debe desencadenarse por el fracaso en controlar el sangrado tras los intentos robóticos iniciales.",
+            "D": "La embolización por RI es un procedimiento de rescate para la hemorragia tardía post-TORS, no una intervención de primera línea para el sangrado arterial intraoperatorio activo. El tiempo de respuesta de la RI es incompatible con la urgencia del sangrado arterial intraoperatorio activo."
+          },
+          "guideline": "AAOMS TORS Clinical Parameters 2021; de Almeida JR et al. Laryngoscope 2012 — Complicaciones y manejo de la TORS",
+          "trial": "Weinstein GS et al. (Arch Otolaryngol HNS 2007): Serie original de TORS — protocolo de manejo de hemorragia y criterios de conversión.",
+          "pearl": "Hemorragia en TORS: primero intente el control robótico (presión + bipolar + clips). Si no se controla en 60-90 segundos: convertir al abordaje transcervical abierto para el control proximal de la carótida externa. Informe siempre al equipo de anestesia preoperatoriamente sobre esta posibilidad.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q6",
+        "stem": "La inmunohistoquímica p16 para la estadificación del cáncer orofaríngeo asociado al VPH requiere qué patrón específico de tinción para calificar como 'positiva' según los criterios de la 8.ª edición del AJCC?",
+        "options": {
+          "A": "Cualquier tinción nuclear p16 independientemente de la intensidad o distribución",
+          "B": "Tinción nuclear Y citoplasmática fuerte y difusa en ≥70% de las células tumorales",
+          "C": "Tinción citoplasmática fuerte en >50% de las células sin requisito de tinción nuclear",
+          "D": "Cualquier tinción p16 con confirmación requerida por PCR de ADN del VPH para estadificación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La 8.ª edición del AJCC define el CEOP p16-positivo como tinción NUCLEAR Y CITOPLASMÁTICA fuerte y difusa en ≥70% de las células tumorales. Deben estar presentes tanto los componentes nucleares COMO los citoplasmáticos; la tinción nuclear sola es insuficiente. El umbral del ≥70% es importante — la tinción focal o débil no califica. Este patrón tiene >90% de concordancia con la detección del VPH de alto riesgo por hibridación in situ. La IHQ p16 sola (sin estudio confirmatorio del VPH) es el estándar aceptado para la estadificación clínica cuando se usa el sistema de estadificación asociado al VPH de la 8.ª edición.",
+          "wrong": {
+            "A": "Cualquier tinción nuclear independientemente de la distribución es insuficiente — se requiere tinción nuclear Y citoplasmática fuerte y difusa en ≥70% de las células.",
+            "C": "La tinción citoplasmática sola es insuficiente — la tinción nuclear también debe estar presente. La tinción citoplasmática fuerte sin nuclear no cumple los criterios de la 8.ª edición del AJCC.",
+            "D": "La PCR de ADN del VPH confirmatoria o la HIS NO son necesarias para los fines de estadificación de la 8.ª edición del AJCC. La IHQ p16 sola con el patrón especificado es el biomarcador sustituto aceptado."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — Criterios de estadificación del CEOP-VPH; Protocolo IHQ p16 del CAP 2023",
+          "trial": "Lewis JS et al. (Arch Pathol Lab Med 2010): Optimización de los umbrales de corte de la IHQ p16 para la detección del VPH en CEOP — criterios fuerte difusa ≥70% validados.",
+          "pearl": "p16 positivo = FUERTE + DIFUSA + NUCLEAR Y CITOPLASMÁTICA + ≥70% células. La positividad parcial (ej. fuerte en el 40% de las células, o solo citoplasmática) NO califica. La comunicación con el patólogo es esencial — solicite 'IHQ p16 para estadificación del CEOP asociado al VPH según la 8.ª edición del AJCC.'",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q7",
+        "stem": "Una mujer de 52 años presenta un carcinoma epidermoide T1 N1 p16-positivo de la amígdala izquierda (Estadio I de la 8.ª edición del AJCC). Está en buen estado general, con apertura bucal adecuada, y el tumor está lateralizado a la amígdala izquierda sin extensión a la base de lengua. ¿Qué abordaje terapéutico es más apropiado?",
+        "options": {
+          "A": "Quimiorradioterapia definitiva basada en cisplatino (70 Gy) — estándar para todos los CEOP",
+          "B": "Amigdalectomía izquierda TORS + disección cervical ipsilateral ± terapia adyuvante según patología",
+          "C": "Radioterapia sola (70 Gy) — la quimioterapia no está indicada en el Estadio I",
+          "D": "Amigdalectomía TORS con disección cervical bilateral niveles I-IV seguida de quimiorradioterapia"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para el CEC amigdalino p16-positivo T1N1 (Estadio I HPV-CEOP), la TORS con disección cervical selectiva ipsilateral es un abordaje quirúrgico upfront válido que puede permitir la desescalada del tratamiento adyuvante basada en los hallazgos patológicos. La TORS para el CEC amigdalino temprano (T1-T2, anatomía accesible) logra excelentes resultados oncológicos, y el tratamiento adyuvante posterior puede guiarse por la estratificación del riesgo patológico. El ECOG 3311 demostró que los pacientes con características patológicas de bajo riesgo tras TORS + DC pueden lograr excelentes resultados con RT adyuvante de dosis reducida (50 Gy) o incluso observación en casos de muy bajo riesgo.",
+          "wrong": {
+            "A": "La QRT definitiva es una alternativa válida pero no es la única opción para el CEOP VPH+ en Estadio I temprano. La cirugía basada en TORS con terapia adyuvante adaptada al riesgo es una alternativa establecida con posibles ventajas funcionales.",
+            "C": "La radioterapia sola (sin quimioterapia) para el cáncer orofaríngeo T1N1 proporciona un control local adecuado para lesiones pequeñas, pero todavía se requiere cobertura cervical bilateral. Sin embargo, 'sin quimioterapia para el Estadio I' es simplista — las decisiones se guían por factores del paciente y la carga ganglionar.",
+            "D": "La disección cervical bilateral no es necesaria para un CEC amigdalino T1 lateralizado con enfermedad N1 ipsilateral. TORS + DC ipsilateral es estándar. La quimiorradioterapia posterior de rutina tras TORS no es estándar — la patología guía las decisiones adyuvantes."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Opciones de tratamiento del CEOP-VPH; ECOG 3311 (Ferris et al.)",
+          "trial": "ECOG 3311 (Ferris et al., J Clin Oncol 2021): TORS + DC con terapia adyuvante adaptada al riesgo para CEOP-VPH — excelente control de la enfermedad con RT adyuvante desescalada en grupos patológicos de bajo-riesgo intermedio.",
+          "pearl": "La TORS es un tratamiento primario válido para el CEOP VPH+ T1-T2 con acceso quirúrgico adecuado. Su ventaja radica en la desescalada adyuvante adaptada al riesgo basada en la patología. Todos los procedimientos TORS deben ir seguidos de disección cervical (selectiva o radical modificada según el estadio N clínico).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q8",
+        "stem": "¿Qué subsitio orofaríngeo NO forma parte de la orofaringe y por tanto NO está sujeto a la estadificación del CEOP asociado al VPH (p16+)?",
+        "options": {
+          "A": "Base de la lengua (tercio posterior)",
+          "B": "Amígdala palatina",
+          "C": "Lengua oral (dos tercios anteriores)",
+          "D": "Paladar blando"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La lengua oral (dos tercios anteriores, hasta las papilas circunvaladas) es un subsitio de la CAVIDAD ORAL, no de la orofaringe. Se estadifica usando el sistema TNM estándar de cavidad oral (8.ª edición del AJCC) con la DOI incorporada en la clasificación T, y la prueba p16 para la estadificación asociada al VPH NO se aplica a los tumores de lengua oral. La orofaringe comprende: base de la lengua (tercio posterior), amígdalas palatinas (incluidos los pilares amigdalinos), paladar blando y pared faríngea posterior.",
+          "wrong": {
+            "A": "La base de la lengua (tercio posterior, detrás de las papilas circunvaladas) es un subsitio orofaríngeo — la estadificación asociada al VPH se aplica.",
+            "B": "La amígdala palatina es el sitio más común del CEOP asociado al VPH y es definitivamente un subsitio orofaríngeo.",
+            "D": "El paladar blando es un subsitio orofaríngeo. Los tumores asociados al VPH del paladar blando usan el sistema de estadificación CEOP-VPH."
+          },
+          "guideline": "AJCC 8.ª edición — Definiciones anatómicas de la cavidad oral vs orofaringe; NCCN Head and Neck Cancers v1.2024",
+          "trial": "Principios de estadificación anatómica del Manual de estadificación del cáncer AJCC 8.ª edición (2017), Capítulo 7 (Cavidad oral) y Capítulo 10 (Orofaringe-VPH).",
+          "pearl": "Las papilas circunvaladas marcan la división entre la lengua oral (cavidad oral) y la base de la lengua (orofaringe). Los cánceres de cavidad oral NO se estudian con p16 para estadificación. Los cánceres orofaríngeos (amígdala, BOT, paladar blando, pared faríngea posterior) requieren IHQ p16 para determinar qué sistema de estadificación se aplica.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A2-Q9",
+        "stem": "Un fumador intenso de 65 años presenta un CEC orofaríngeo p16-negativo de la base de lengua T3N2 (N2 bilateral). Según la 8.ª edición del AJCC, ¿cuál es la clasificación N correcta y afecta la extensión extracapsular en uno de los ganglios bilaterales a la estadificación?",
+        "options": {
+          "A": "N2c; la EEC no afecta al estadio en el CEOP p16-negativo",
+          "B": "N2c; la EEC sube a N3b, lo que cambia el estadio global",
+          "C": "N2 según los criterios del CEOP-VPH — el CEOP p16-negativo usa el mismo sistema N simplificado",
+          "D": "N3b (independientemente del estado p16, los ganglios bilaterales siempre = N3b)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para el CEOP p16-NEGATIVO, se aplica la clasificación N estándar del CEC de C&C (igual que en la cavidad oral): N2c = ganglios bilaterales o contralaterales ≤6 cm sin EEC. Si algún ganglio tiene EEC, se convierte en N3b independientemente del tamaño o número. EEC en un ganglio bilateral = N3b. Para el CEOP p16-negativo T3N3bM0 = Estadio IVB. Esto es dramáticamente diferente del CEOP p16-positivo donde la EEC no está incorporada en la estadificación clínica N y los ganglios bilaterales = N2 (no N3b).",
+          "wrong": {
+            "A": "La EEC afecta absolutamente a la estadificación en el CEOP p16-NEGATIVO — es uno de los cambios clave de la 8.ª edición. N2c sin EEC vs N3b con EEC es una distinción importante.",
+            "C": "El CEOP p16-NEGATIVO NO usa el sistema N simplificado asociado al VPH. Ese sistema es exclusivo del CEOP p16-positivo asociado al VPH. El p16-negativo usa la clasificación N estándar de C&C.",
+            "D": "Los ganglios bilaterales sin EEC = N2c (≤6 cm) o N3a (>6 cm) en el sistema estándar. N3b requiere EEC, no ganglios bilaterales per se."
+          },
+          "guideline": "AJCC 8.ª edición — Clasificación N estándar del CEC de C&C para CEOP p16-negativo; N3b = EEC clínica o radiológica",
+          "trial": "Validación de la 8.ª edición del AJCC: Patel SG et al. (Head Neck 2019): La EEC como N3b en el CEC de C&C proporciona mejor discriminación pronóstica.",
+          "pearl": "DISTINCIÓN CLAVE: CEOP p16-positivo — ganglios bilaterales = N2, sin EEC en estadificación clínica N. CEOP p16-negativo — sistema estándar de C&C: bilateral = N2c; EEC = N3b. El sistema de estadificación utilizado depende completamente del estado p16.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q10",
+        "stem": "Un paciente con CEOP T2N1M0 VPH-positivo (Estadio I, AJCC 8.ª) completa quimiorradioterapia definitiva (70 Gy basada en cisplatino). La PET-TC a las 12 semanas muestra respuesta completa en el sitio primario pero un pequeño ganglio PET-ávido residual en nivel IIa derecho (SUVmax 3,2, 1,2 cm). ¿Cuál es el manejo más apropiado?",
+        "options": {
+          "A": "Disección cervical selectiva derecha inmediata basada en PET postratamiento positiva",
+          "B": "PAAF del ganglio residual para confirmar tumor viable antes de la disección cervical",
+          "C": "Repetir PET-TC a las 20 semanas — los resultados de la PET-TC a las 12 semanas no son fiables",
+          "D": "Tratamiento sistémico con pembrolizumab para enfermedad residual"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La PET-TC postratamiento a las 12 semanas tiene una tasa de falsos positivos del 15-25% por captación inflamatoria post-radioterapia. Antes de proceder a la disección cervical (que conlleva una morbilidad significativa en un campo previamente irradiado), es apropiada la confirmación tisular con PAAF. Si la PAAF confirma células tumorales viables (enfermedad residual), se planifica la disección cervical. Si la PAAF es no diagnóstica o negativa, se realizará imagen de seguimiento a las 20-24 semanas. Este abordaje evita la cirugía innecesaria en los casos falsos positivos sin retrasar el tratamiento de la enfermedad residual verdadera.",
+          "wrong": {
+            "A": "La disección cervical inmediata sin confirmación tisular arriesga el sobretratamiento. Con SUVmax 3,2 (moderadamente elevado, no altamente sospechoso), el falso positivo es plausible.",
+            "C": "La imagen de repetición a las 20 semanas sola (sin PAAF) causa un retraso de 8 semanas en el diagnóstico de la enfermedad residual verdadera. La PAAF es más rápida y definitiva.",
+            "D": "El pembrolizumab es para la enfermedad recurrente/metastásica no susceptible de tratamiento local. Un residual ganglionar aislado potencialmente resecable es candidato al rescate quirúrgico local, no a la terapia sistémica."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Vigilancia postratamiento; principios del ensayo PET-NECK",
+          "trial": "PET-NECK (Mehanna et al., NEJM 2016): PET-TC postratamiento para CEOP — PET negativa VPN >95%; PET positiva requiere evaluación adicional antes de proceder a la disección cervical.",
+          "pearl": "La PET-TC postratamiento es altamente sensible pero moderadamente específica a las 12 semanas por la inflamación por radiación. Una PET-TC post-QRT positiva debe motivar la PAAF antes de la disección cervical, no la cirugía inmediata. El valor predictivo negativo de la PET-TC post-QRT es >95% — una PET-TC negativa descarta de forma fiable la enfermedad residual.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q11",
+        "stem": "Un paciente varón de 44 años no fumador presenta masas cervicales quísticas bilaterales en el nivel II. La PAAF revela CEC no queratinizante, p16 fuertemente positivo. La laringoscopia directa con biopsias de nasofaringe, orofaringe, laringe y senos piriformes es negativa. ¿Qué procedimiento quirúrgico adicional es más probable que identifique el tumor primario?",
+        "options": {
+          "A": "Biopsia guiada por PET-TC del ganglio cervical más ávido de FDG",
+          "B": "Amigdalectomía palatina y lingual bilateral",
+          "C": "Parotidectomía ipsilateral para excluir primario parotídeo",
+          "D": "Disección cervical abierta con primario desconocido — tratar como CPD"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La amigdalectomía palatina y lingual bilateral es el siguiente paso recomendado cuando la evaluación inicial, incluyendo la laringoscopia con biopsias dirigidas, no logra identificar el primario en un paciente con adenopatía cervical quística p16-positiva. El CEOP asociado al VPH frecuentemente surge de pequeños focos enterrados profundamente en las criptas amigdalinas, invisibles en la exploración clínica y la endoscopia. La amigdalectomía bilateral (extirpación de las criptas amigdalinas bilateralmente) y la amigdalectomía lingual (mucosectomía de base de lengua asistida por TORS) han demostrado identificar el tumor primario en el 40-50% de los casos previamente 'desconocidos'. La identificación del primario permite la reducción del campo de radiación dirigido.",
+          "wrong": {
+            "A": "La PAAF del ganglio cervical ya es positiva para CEC — repetirla no identifica el primario. El objetivo es encontrar el primario mucoso.",
+            "C": "Los tumores parotídeos pueden causar adenopatía en nivel II, pero el CEC no queratinizante p16-positivo en el cuello representa prácticamente siempre CEOP asociado al VPH — la parotidectomía no identificará un primario en este contexto.",
+            "D": "Tratar como CPD sin intentar la amigdalectomía bilateral es prematuro y resulta en campos de radiación más grandes y mayor toxicidad. Las directrices actuales exigen una búsqueda mucosa exhaustiva que incluya amigdalectomía bilateral antes de declarar un verdadero CPD."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Cáncer de primario desconocido; EACMFS 2023",
+          "trial": "Mehanna H et al. (Head Neck 2010): Revisión sistemática del CEHC de primario desconocido — la amigdalectomía bilateral y la mucosectomía de BOT por TORS aumentan la tasa de detección del primario al 40-50%.",
+          "pearl": "CEC cervical p16-positivo con panendoscopia negativa → amigdalectomía bilateral + mucosectomía de base de lengua. Identifica el primario en ~45% de los casos. Encontrar el primario reduce el volumen de radiación (de mucosa bilateral + cuello a primario dirigido + cuello bilateral), reduciendo significativamente la toxicidad.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q12",
+        "stem": "¿Cuál es el hito anatómico que distingue la lengua oral de la base de la lengua, y por qué es importante esta distinción quirúrgica y oncológicamente?",
+        "options": {
+          "A": "El arco palatogloso (pilar amigdalino anterior) — la lengua oral es anterior",
+          "B": "Las papilas circunvaladas — la lengua oral es anterior, la base de la lengua es posterior",
+          "C": "El foramen ciego — la lengua oral es anterior al foramen ciego",
+          "D": "Las amígdalas linguales — la base de la lengua comienza donde terminan las amígdalas linguales"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las papilas circunvaladas (caliciformes) forman una fila en V de aproximadamente 10-14 papilas grandes que marcan la unión entre la lengua oral (dos tercios anteriores) y la base de la lengua (tercio posterior). La lengua oral es un subsitio de la cavidad oral; la base de la lengua es un subsitio orofaríngeo. Esta distinción es crítica para: (1) la estadificación — la lengua oral usa el TNM de cavidad oral con DOI; la base de la lengua usa la estadificación CEOP-VPH si es p16-positiva; (2) el tratamiento — la lengua oral es principalmente quirúrgica; la base de la lengua se trata principalmente con QRT; (3) el estudio p16 — no se realiza para estadificación de tumores de lengua oral.",
+          "wrong": {
+            "A": "El arco palatogloso es el límite entre la cavidad oral y la orofaringe lateralmente (pilar amigdalino anterior), pero este es un límite lateral. El límite de la lengua son las papilas circunvaladas.",
+            "C": "El foramen ciego es el vestigio embrionario del origen del conducto tirogloso en la unión del 2/3 anterior y el 1/3 posterior de la lengua — aproximadamente marca el mismo nivel que las papilas circunvaladas, pero las propias papilas son el hito anatómico estándar.",
+            "D": "Las amígdalas linguales son tejido linfoide en la base de la lengua y NO son el límite superior de la BOT — las papilas circunvaladas son el límite anterior."
+          },
+          "guideline": "AJCC 8.ª edición — Definiciones anatómicas de la cavidad oral y la orofaringe",
+          "trial": "Enseñanza anatómica estándar: Shah JP, Head and Neck Surgery and Oncology 5th ed (2020) — límites anatómicos de los subsitios de la cavidad oral y la orofaringe.",
+          "pearl": "Papilas circunvaladas = límite entre la lengua oral y la base de la lengua. Anterior = cavidad oral (lengua oral, estadificación DOI). Posterior = orofaringe (BOT, estadificación VPH si p16+). Los tumores que cruzan este límite se estadifican por el sitio predominante de origen.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A2-Q13",
+        "stem": "En una amigdalectomía total TORS para un carcinoma epidermoide T2, ¿qué estructura anatómica define el margen quirúrgico profundo y su violación indicaría extensión tumoral T4 potencial?",
+        "options": {
+          "A": "Constrictor faríngeo superior — T4 si el tumor penetra en la grasa parafaríngea",
+          "B": "Músculo palatogloso — T4 si la extensión a la base de lengua es >2 cm",
+          "C": "Arteria carótida interna — T4b si el tumor rodea la carótida",
+          "D": "Músculo pterigoideo medial — T4a si el tumor invade el espacio masticador"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El rodeo de la arteria carótida interna es uno de los criterios específicos para la clasificación T4b en el cáncer orofaríngeo (enfermedad muy avanzada, típicamente irresecable). La ACI se encuentra en el compartimento postestiloide del espacio parafaríngeo, posterior y lateral a la fosa amigdalina, separada por el constrictor faríngeo superior y la grasa parafaríngea. La invasión macroscópica con rodeo de la ACI representa T4b y es una contraindicación para la resección quirúrgica primaria.",
+          "wrong": {
+            "A": "La penetración del constrictor faríngeo superior hacia la grasa parafaríngea es T4a (extensión moderada hacia estructuras profundas). T4b requiere afectación del espacio masticador, láminas pterigoideas, base del cráneo o rodeo de la ACI.",
+            "B": "La extensión a la base de la lengua es un criterio T3 (>4 cm con implicaciones DOI) pero la penetración del palatogloso hacia la base de lengua no es el criterio definitorio de T4 en este contexto.",
+            "D": "La afectación del pterigoideo medial es T4b (espacio masticador), no T4a en la clasificación estricta del AJCC para el cáncer orofaríngeo."
+          },
+          "guideline": "AJCC 8.ª edición — Criterios T4b del orofaringe: espacio masticador, láminas pterigoideas, base del cráneo, rodeo de ACI",
+          "trial": "AJCC Cancer Staging Manual 8th Edition (2017), Capítulo 10: Orofaringe e Hipofaringe",
+          "pearl": "T4b CEOP: invasión del espacio masticador, láminas pterigoideas, base del cráneo o rodeo de ACI. T4b = generalmente irresecable por cirugía convencional. Evalúe siempre la relación con la ACI en la TC/RM preoperatoria antes de la TORS.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q14",
+        "stem": "Un hombre de 58 años presenta un CEC amigdalino derecho de 4 cm, que se extiende al paladar blando. La TC muestra ganglios en nivel II bilaterales ≤2 cm. La biopsia muestra CEC no queratinizante; la IHQ p16 es fuertemente positiva en el 75% de las células. ¿Cuál es el estadio según la 8.ª edición del AJCC?",
+        "options": {
+          "A": "T2N2M0 — Estadio II (sistema asociado al VPH)",
+          "B": "T3N2M0 — Estadio III (sistema asociado al VPH)",
+          "C": "T2N2cM0 — Estadio IVA (sistema estándar de C&C)",
+          "D": "T3N1M0 — Estadio I (sistema asociado al VPH)"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "El tumor mide 4 cm: T2 en el sistema asociado al VPH (T1 ≤2 cm, T2 >2-4 cm, T3 >4 cm). p16 fuertemente positivo ≥70% = se aplica estadificación asociada al VPH. Ganglios bilaterales en nivel II ≤2 cm = N2 (bilateral) en el sistema VPH. T2N2M0 = Estadio II. Nota: incluso los ganglios bilaterales con primario T2 = Estadio II en el sistema asociado al VPH. Esto habría sido Estadio IVA bajo el antiguo sistema de la 7.ª edición.",
+          "wrong": {
+            "A": "Esta es la respuesta correcta. El tumor mide exactamente 4 cm = T2 (>2 cm y ≤4 cm). Si fuera >4 cm, sería T3.",
+            "B": "T3 requiere tumor >4 cm. Con exactamente 4 cm, se cumple el límite superior de T2 — T2 es ≤4 cm. T3N2 = Estadio III, lo que sería incorrecto aquí.",
+            "C": "El sistema estándar de C&C no se aplica al CEOP p16-positivo. Debe usarse el sistema de estadificación asociado al VPH.",
+            "D": "N1 en el sistema VPH = ganglios ipsilaterales; N2 = contralateral/bilateral. Los ganglios bilaterales = N2, no N1."
+          },
+          "guideline": "AJCC 8.ª edición — Tabla de estadificación del CEOP asociado al VPH: T2N2M0 = Estadio II",
+          "trial": "O'Sullivan B et al. (Lancet Oncol 2016): Validación de la estadificación del CEOP-VPH de la 8.ª edición del AJCC — Estadio I y II tienen SG a 5 años >85%.",
+          "pearl": "Estadificación T del CEOP-VPH: T1 ≤2 cm; T2 >2-4 cm; T3 >4 cm; T4a-b mismos criterios que el no-VPH. N1 = cualquier ipsilateral; N2 = contralateral/bilateral. T2N2 = Estadio II (no IVA como bajo el sistema antiguo). Este es un escenario de estadificación frecuentemente evaluado.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q15",
+        "stem": "Un paciente con CEC amigdalino p16-positivo T1N1 (Estadio I) se somete a amigdalectomía TORS y DCS ipsilateral niveles I-IV. La patología definitiva muestra: márgenes libres (más próximo 4 mm), dos ganglios en nivel II positivos sin EEC, sin IPN, sin ILV. Según la estratificación de riesgo del ECOG 3311, ¿qué tratamiento adyuvante se recomienda?",
+        "options": {
+          "A": "Observación — el CEOP VPH-positivo en Estadio I no requiere tratamiento adyuvante",
+          "B": "PORT estándar 60 Gy — los márgenes son próximos (4 mm) y los ganglios son positivos",
+          "C": "PORT de dosis reducida 50 Gy — características patológicas de riesgo intermedio sin características de alto riesgo",
+          "D": "Quimiorradioterapia (cisplatino + 60 Gy) — dos ganglios positivos obligan a quimioterapia concomitante"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El ECOG 3311 estratificó a los pacientes tras TORS + DC en: bajo riesgo (T1-T2, N0-N1, márgenes negativos, sin EEC — observación o RT 50 Gy); riesgo intermedio (márgenes próximos 1-3 mm, N1 con EEC, o pN2a-2b sin EEC — 50 Gy PORT en el brazo de desescalada); alto riesgo (márgenes positivos o pN2 con EEC — QRT estándar 60 Gy). Este paciente tiene pN2a (dos ganglios ipsilaterales) sin EEC, margen más próximo 4 mm — estas son características de riesgo intermedio. El ECOG 3311 evaluó 50 Gy como PORT desescalada para pacientes de riesgo intermedio, demostrando excelente control de la enfermedad. La quimioterapia concomitante no está indicada sin EEC ni márgenes positivos.",
+          "wrong": {
+            "A": "La observación sola tras TORS con enfermedad pN2a no es el estándar fuera de un ensayo clínico con características de muy bajo riesgo. La mayoría de los centros recomiendan alguna radiación adyuvante para la enfermedad pN2.",
+            "B": "60 Gy es la PORT de dosis estándar para el CEOP, pero en pacientes VPH-positivos de riesgo intermedio (sin EEC ni márgenes positivos), el ECOG 3311 investigó la desescalada de 50 Gy con buenos resultados. 60 Gy sería un sobretratamiento en este contexto.",
+            "D": "El cisplatino concomitante no está indicado: sin márgenes positivos, sin EEC. Dos ganglios positivos sin EEC = riesgo intermedio en el marco del ECOG 3311, tratado con PORT de dosis reducida, no quimiorradioterapia."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Terapia adyuvante TORS; estratificación de riesgo ECOG 3311",
+          "trial": "ECOG 3311 (Ferris et al., J Clin Oncol 2021): TORS + DC con terapia adyuvante adaptada al riesgo para CEOP-VPH. Grupo de riesgo intermedio tratado con PORT 50 Gy — SLP a 2 años 95,9%. Grupo de alto riesgo: 60 Gy + cisplatino.",
+          "pearl": "Grupos de riesgo ECOG 3311 post-TORS: Bajo riesgo = observar o 50 Gy; Riesgo intermedio = PORT 50 Gy (desescalada); Alto riesgo (R1 o EEC) = 60 Gy + cisplatino (estándar). Recuerde: 50 Gy vs 60 Gy supone una diferencia significativa en xerostomía y toxicidad de deglución.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q16",
+        "stem": "En el ensayo de Bonner (NEJM 2006), el cetuximab se añadió a la radioterapia para el CEHC localmente avanzado. Este ensayo a veces se confunde con el RTOG 1016. ¿Qué enunciado distingue correctamente estos dos ensayos?",
+        "options": {
+          "A": "Bonner evaluó cetuximab + RT vs RT sola; RTOG 1016 evaluó cetuximab + RT vs cisplatino + RT — Bonner mostró beneficio, RTOG 1016 mostró inferioridad del cetuximab vs cisplatino",
+          "B": "Ambos ensayos evaluaron cetuximab vs cisplatino y ambos mostraron la superioridad del cisplatino",
+          "C": "Bonner evaluó cetuximab + cisplatino vs cisplatino solo; RTOG 1016 evaluó cetuximab en monoterapia vs cisplatino en monoterapia",
+          "D": "El ensayo de Bonner se aplica al CEOP VPH-positivo; el RTOG 1016 se aplica al CEOP VPH-negativo"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Ensayo de Bonner (Bonner et al., NEJM 2006): cetuximab + RT vs RT sola en CEHC localmente avanzado (no seleccionado por estado VPH). Cetuximab + RT mejoró significativamente el control locorregional (24,4 vs 14,9 meses, p=0,005) y la SG. Esto estableció cetuximab + RT como una opción para pacientes no elegibles para cisplatino. RTOG 1016 (Gillison et al., Lancet 2019): cetuximab + RT vs cisplatino + RT específicamente en CEOP VPH-positivo. El cisplatino fue significativamente superior. Por tanto: el cetuximab es una alternativa válida a la RT sola (Bonner) pero es inferior al cisplatino + RT (RTOG 1016) en el CEOP VPH-positivo.",
+          "wrong": {
+            "B": "Bonner NO comparó cetuximab vs cisplatino. Comparó cetuximab + RT vs RT sola. Solo el RTOG 1016 comparó cetuximab vs cisplatino.",
+            "C": "Bonner comparó cetuximab + RT vs RT sola (sin cisplatino en ningún brazo). El RTOG 1016 comparó cetuximab + RT vs cisplatino + RT (ambos brazos tenían RT).",
+            "D": "El ensayo de Bonner incluyó pacientes con CEHC no seleccionados antes de la era VPH — no se restringió por estado VPH. El RTOG 1016 incluyó específicamente pacientes VPH-positivos."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — principios de terapia sistémica",
+          "trial": "Bonner JA et al. (NEJM 2006): Cetuximab + RT vs RT sola — SG y LRC mejoradas, estableció cetuximab para pacientes no elegibles para cisplatino. RTOG 1016 (Gillison et al., Lancet 2019): Cetuximab inferior al cisplatino para QRT del CEOP VPH+.",
+          "pearl": "Bonner = cetuximab vs RT sola = beneficio (por tanto cetuximab + RT es mejor que RT sola). RTOG 1016 = cetuximab + RT vs cisplatino + RT = gana cisplatino. El cetuximab se reserva para pacientes NO ELEGIBLES para cisplatino (indicación de Bonner), no como desescalada en pacientes elegibles para cisplatino.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q17",
+        "stem": "Una mujer de 70 años con insuficiencia renal grave (FG 28 mL/min) es diagnosticada de CEOP p16-negativo T3N1 de la pared faríngea posterior. Se considera no elegible para cisplatino por su función renal. ¿Cuál es la recomendación de tratamiento primario más apropiada?",
+        "options": {
+          "A": "Cirugía (faringectomía) + RT adyuvante — sin quimioterapia dado el deterioro renal",
+          "B": "Cetuximab + RT (70 Gy) — el ensayo de Bonner lo estableció para pacientes no elegibles para cisplatino",
+          "C": "Carboplatino + RT — el carboplatino es renoprotector y equivalente al cisplatino",
+          "D": "RT sola (70 Gy) — la quimioterapia de cualquier tipo está contraindicada con FG <30"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para los pacientes no elegibles para cisplatino con CEHC localmente avanzado, cetuximab + RT es la alternativa con base en la evidencia del ensayo de Bonner (NEJM 2006). El cetuximab es un anticuerpo monoclonal anti-EGFR sin nefrotoxicidad y es apropiado para pacientes con insuficiencia renal. Dosificación estándar: cetuximab 400 mg/m² de dosis de carga una semana antes de la RT, luego 250 mg/m² semanal durante 7 semanas concomitante con la RT. Esta es la alternativa recomendada por la NCCN para pacientes no elegibles para cisplatino.",
+          "wrong": {
+            "A": "La cirugía para los tumores de la pared faríngea posterior conlleva una morbilidad significativa y deterioro funcional. La pared faríngea posterior es un sitio donde la QRT definitiva se prefiere a la cirugía para la enfermedad T3 cuando es factible.",
+            "C": "El carboplatino + RT se utiliza en algunos centros para pacientes no elegibles para cisplatino, especialmente para pacientes VPH-positivos en el contexto adyuvante, pero carece de la evidencia de Nivel I para el tratamiento definitivo que tiene cetuximab + RT del ensayo de Bonner. El carboplatino no es totalmente renoprotector (requiere ajuste de dosis para FG <60), y la equivalencia al cisplatino en este contexto no está demostrada.",
+            "D": "La RT sola es inferior a la QRT para el CEHC localmente avanzado. Cetuximab + RT es la alternativa con base en la evidencia para los pacientes no elegibles para cisplatino y debe ofrecerse si no hay contraindicaciones específicas al cetuximab (la mutación K-Ras no es un problema en el CEHC ya que las mutaciones KRAS son raras)."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Criterios de no elegibilidad para cisplatino y alternativas",
+          "trial": "Bonner JA et al. (NEJM 2006): Cetuximab + RT vs RT sola en CEHC localmente avanzado — SG media 49 meses (cetuximab + RT) vs 29,3 meses (RT sola). Esta es la evidencia de Nivel I para cetuximab + RT en el CEHC no elegible para cisplatino.",
+          "pearl": "Criterios de no elegibilidad para cisplatino: FG <50 mL/min, ECOG PS >2, neuropatía preexistente grado ≥2, pérdida auditiva ≥25 dB. Para estos pacientes: cetuximab + RT (evidencia de Bonner). Para pacientes VPH-positivos específicamente: tenga en cuenta que el RTOG 1016 mostró cetuximab inferior al cisplatino — pero para pacientes genuinamente NO ELEGIBLES para cisplatino, cetuximab + RT sigue siendo apropiado.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q18",
+        "stem": "Durante la disección cervical tras TORS para un CEC amigdalino derecho T2, el cirujano necesita identificar y preservar el nervio accesorio (NC XI) cuando pasa por el triángulo posterior. ¿Qué relación anatómica identifica más fiablemente el NC XI en el triángulo posterior?",
+        "options": {
+          "A": "El NC XI discurre a lo largo del borde posterior del esternocleidomastoideo y anterior a la VYE",
+          "B": "El NC XI sale del borde posterior del ECM aproximadamente en la unión de los tercios superior y medio y cruza el triángulo posterior para entrar en el trapecio",
+          "C": "El NC XI se encuentra profundo a la VYI al nivel del hueso hioides",
+          "D": "El NC XI sale del cráneo por el foramen yugular y entra inmediatamente en el triángulo anterior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio accesorio espinal (NC XI) sale del borde posterior del músculo esternocleidomastoideo aproximadamente en la unión de los tercios superior y medio (región del punto de Erb), luego cruza el triángulo posterior del cuello en un plano relativamente superficial, discurriendo de posterosuperior a anteroinferior, para entrar en la cara profunda del músculo trapecio. En el triángulo posterior, el NC XI es superficial a (o a veces dentro de) la hoja profunda de la fascia cervical. La disección del nivel V requiere una identificación meticulosa y preservación del NC XI para prevenir la disfunción del hombro.",
+          "wrong": {
+            "A": "El NC XI no discurre a lo largo del borde posterior del ECM en el triángulo posterior — sale del ECM y cruza el triángulo. La vena yugular externa (VYE) es una estructura superficial en el tejido subcutáneo; el NC XI discurre más profundo.",
+            "C": "La relación con la VYI describe el NC XI en el área del espacio carotídeo (yugular superior), no el triángulo posterior. El NC XI cruza la VYI (usualmente posterior a ella) en el nivel IIb al salir del foramen yugular.",
+            "D": "El NC XI sale del foramen yugular y cruza inicialmente la vena yugular interna en el cuello superior antes de entrar en el ECM — no entra inmediatamente en el triángulo anterior."
+          },
+          "guideline": "Robbins KT et al. Neck Dissection Classification (Arch Otolaryngol HNS 2002) — Trayecto anatómico del NC XI",
+          "trial": "Shah JP. Head and Neck Surgery and Oncology 5th ed (2020) — Anatomía del NC XI en la disección cervical.",
+          "pearl": "El NC XI sale del ECM aproximadamente a los 2/3 de su borde posterior hacia abajo (unión superior/tercio medio = punto de Erb). En el triángulo posterior discurre superficialmente desde el ECM hasta el trapecio. La disección cervical del nivel V requiere identificar el NC XI precozmente y protegerlo con un lazo vascular durante toda la disección.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A2-Q19",
+        "stem": "Un hombre de 63 años con CEOP T4a N2b p16-positivo (Estadio III AJCC 8.ª) inicia QRT definitiva. Desarrolla mucositis de Grado 4 y se coloca una sonda nasogástrica. En la semana 4, su creatinina sube de 0,9 a 2,1 mg/dL. El oncólogo está considerando la modificación de la dosis de cisplatino. ¿Cuál es el manejo más apropiado?",
+        "options": {
+          "A": "Continuar cisplatino a dosis completa — los cambios renales son esperados y temporales",
+          "B": "Suspender permanentemente el cisplatino y continuar con RT sola",
+          "C": "Reducir la dosis de cisplatino un 25% y reanudar en la semana 7",
+          "D": "Suspender el cisplatino para el ciclo actual; reevaluar la función renal; considerar cambiar a cetuximab o carboplatino si la función renal no se recupera"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "La nefrotoxicidad aguda por cisplatino con creatinina que sube de 0,9 a 2,1 mg/dL (elevación >2× el LSN) obliga a suspender el cisplatino para el ciclo actual. La RT debe continuar sin interrupciones. La función renal debe reevaluarse 1-2 semanas después. Si la creatinina se recupera a los valores basales o próximos a ellos (aclaramiento de creatinina >50 mL/min), el cisplatino puede reanudarse potencialmente. Si la función renal no se recupera, puede considerarse el cambio a una alternativa (cetuximab o carboplatino), aunque ambas tienen menos evidencia. Continuar cisplatino a dosis completa con una elevación activa de creatinina arriesga IRA, dependencia de diálisis y daño renal a largo plazo.",
+          "wrong": {
+            "A": "La duplicación de la creatinina a 2,1 mg/dL es un evento de nefrotoxicidad significativo y NO es aceptable continuar sin intervención. Continuar el cisplatino arriesga IRA, dependencia de diálisis y daño renal permanente.",
+            "B": "Suspender permanentemente el cisplatino tras un único episodio nefrotóxico, sin intentar la recuperación renal, es prematuro y puede comprometer innecesariamente el componente de quimioterapia de la QRT.",
+            "C": "La reducción de dosis y la reanudación en la semana 7 es una estrategia razonable si la función renal se recupera, pero suspender el cisplatino primero (para evaluar la recuperación) es el paso inicial más apropiado. Reanudar al 75% de la dosis en la semana 7 solo si los riñones se recuperan es un plan válido."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Manejo de la toxicidad del cisplatino; guías estándar de toxicidad en oncología",
+          "trial": "RTOG 9111 y guías de práctica estándar para QRT basada en cisplatino: suspender cisplatino cuando el ACr cae por debajo de 50 mL/min o la creatinina sube >2× el LSN.",
+          "pearl": "Manejo de la nefrotoxicidad por cisplatino: suspender cisplatino si la creatinina se duplica o el ACr <50 mL/min. Nunca interrumpir la radioterapia por toxicidad de la quimioterapia (las pausas en la radiación empeoran el control local). La RT continúa independientemente del estado del cisplatino. Evalúe la recuperación renal antes de reanudar el cisplatino.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A2-Q20",
+        "stem": "Un hombre de 61 años con antecedentes de CEOP T2N1 p16-positivo, tratado hace 3 años con QRT definitiva (logrando respuesta completa), ahora presenta disfagia progresiva y dolor cervical. La TC muestra nueva adenopatía ipsilateral en nivel II (2,5 cm) y una nueva lesión de 1,5 cm en la fosa amigdalina derecha. Está en buen estado general (ECOG 1). ¿Cuál es el manejo inicial más apropiado?",
+        "options": {
+          "A": "Tratamiento sistémico con pembrolizumab + quimioterapia (protocolo KEYNOTE-048) para enfermedad recurrente",
+          "B": "Biopsia para confirmar recurrencia/segundo primario, luego evaluar para cirugía de rescate o reirradiación",
+          "C": "Repetir QRT definitiva (70 Gy) en el sitio recurrente",
+          "D": "Mejor cuidado de soporte — los pacientes que recaen tras QRT tienen un pronóstico sombrío y el rescate es fútil"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Antes de iniciar cualquier tratamiento para la supuesta recurrencia, la confirmación histológica es obligatoria — la nueva lesión podría representar un segundo primario, lo que tendría diferentes implicaciones de manejo. Tras la confirmación por biopsia, el paciente debe ser evaluado por un equipo multidisciplinar para: (1) cirugía de rescate (TORS + disección cervical para el primario y el ganglio) si es técnicamente factible y si las estructuras críticas están preservadas; (2) reirradiación ± tratamiento sistémico para la recurrencia irresecable. En el CEOP VPH-positivo, incluso las recurrencias tardías pueden ser resecables, y la cirugía de rescate puede ser curativa en pacientes seleccionados.",
+          "wrong": {
+            "A": "El tratamiento sistémico basado en KEYNOTE-048 es para el CEHC recurrente/metastásico confirmado no susceptible de tratamiento locorregional. Este paciente tiene una recurrencia locorregional potencialmente resecable — el rescate locorregional debe ser la primera consideración.",
+            "C": "Una reirradiación completa a dosis completa (70 Gy) en el mismo sitio tras QRT previa de 70 Gy resultaría en una toxicidad catastrófica (necrosis de tejidos blandos, fístula, rotura carotídea). La reirradiación a volúmenes limitados (estereotáctica o IMRT hasta 60 Gy con restricciones de dosis cuidadosas) puede ser posible en pacientes seleccionados tras revisión dosimétrica cuidadosa.",
+            "D": "El mejor cuidado de soporte es prematuro — el CEOP VPH-positivo tiene tasas de rescate razonablemente buenas. Un paciente en buen estado general ECOG 1 con recurrencia locorregional aislada potencialmente resecable debe recibir una oferta de tratamiento de rescate con intención curativa."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Manejo de la Recurrencia Locorregional",
+          "trial": "KEYNOTE-048 (Shah et al., Lancet 2018): Tratamiento sistémico de primera línea para CEHC R/M no susceptible de tratamiento local. La recurrencia locorregional debe considerarse para rescate antes del tratamiento sistémico.",
+          "pearl": "Recurrencia locorregional tras QRT: (1) Biopsia primero — confirmar recurrencia/excluir segundo primario. (2) Evaluar para cirugía de rescate. (3) Considerar reirradiación si la cirugía no es posible. (4) Tratamiento sistémico (pembrolizumab ± quimioterapia) para enfermedad verdaderamente irresecable o metastásica. Nunca iniciar tratamiento sistémico sin confirmación histológica.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "id": "D2",
+  "title": "Cirugía de la Articulación Temporomandibular",
+  "subtitle": "Bloque D — Artrocentesis, Artroscopia, Artroplastia, Prótesis Total de ATM",
+  "block": "D",
+  "block_name": "Articulación Temporomandibular y Traumatología Facial",
+  "level": "R3-5",
+  "reading_time_min": 38,
+  "guidelines_version": "AAOMS TMD Clinical Practice Guidelines 2022 · EACMFS TMJ Surgery Guidelines 2023 · BAOMS Alloplastic Joint Replacement Guidelines 2021",
+  "textbook_refs": [
+    "McCain JP (ed). Principles and Practice of Temporomandibular Joint Arthroscopy (1996)",
+    "Mercuri LG (ed). Temporomandibular Joint Total Joint Replacement — TMJ TJR (2016)",
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3.ª ed. (2012)",
+    "Nitzan DW et al. Arthrocentesis: A simplified treatment for severe, complicated TMJ lock. J Oral Maxillofac Surg (1991)"
+  ],
+  "learning_objectives": [
+    "Describir la técnica, las indicaciones y los resultados esperados de la artrocentesis de la ATM",
+    "Identificar los puntos de referencia anatómicos artroscópicos y comprender el repertorio de artroscopia diagnóstica y operatoria",
+    "Comparar los resultados e indicaciones del reposicionamiento discal (eminectomía, discoplastia) frente a la discectomía",
+    "Describir las indicaciones y contraindicaciones de la prótesis total de ATM con implantes estándar y a medida",
+    "Reconocer las complicaciones de la cirugía de la ATM, incluidas la lesión del nervio facial, la hemorragia y la anquilosis iatrogénica",
+    "Comprender el papel del injerto de grasa, el injerto dérmico y la artroplastia interposicional en la reconstrucción de la ATM"
+  ],
+  "sections": [
+    {
+      "id": "D2-S1",
+      "title": "Artrocentesis: Técnica e Indicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La artrocentesis de la ATM —lavado del compartimento articular superior— es el procedimiento intervencionista más sencillo y ampliamente utilizado para la ATM. Introducida por Nitzan et al. en 1991, demostró lograr la resolución rápida del bloqueo cerrado agudo en más del 95% de los casos. El procedimiento puede realizarse bajo anestesia local con o sin sedación intravenosa, siendo adecuado para la atención ambulatoria.\n\nLa técnica utiliza la línea trago-canto externo del ojo (línea de Holmlund-Hellsing) como referencia anatómica: el punto de entrada posterior de la aguja se sitúa 10 mm por delante del trago y 2 mm por debajo de esta línea; el punto de entrada anterior se sitúa 20 mm por delante del trago y 10 mm por debajo de la línea. Con el paciente en oclusión completa, ambas agujas se introducen en el compartimento articular superior (confirmado por flujo sin resistencia) y la articulación se lava con 200–300 mL de suero salino normal o solución de Ringer lactato. Al finalizar, el espacio puede inyectarse con corticoide (triamcinolona 10 mg) o ácido hialurónico (1 mL).\n\nEl mecanismo de acción es multifactorial: (1) eliminación física de mediadores inflamatorios (prostaglandinas, interleucinas, bradicinina) que causan dolor y sinovitis; (2) ruptura de las interacciones «adhesivas» entre el disco y la eminencia articular que impiden la traslación normal del disco; (3) la presión hidrostática moviliza el disco articular; (4) efecto del injectado si se añade corticoide/AH. La artrocentesis está indicada en: bloqueo cerrado agudo (DDsR con apertura limitada), artralgia inflamatoria que no responde al tratamiento conservador y enfermedad en estadio III–IV de Wilkes que fracasa con el tratamiento conservador. Las contraindicaciones incluyen: anquilosis ósea, infección cutánea suprayacente, alergia al injectado e incapacidad de cooperación."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Línea de Holmlund-Hellsing — Anatomía de la Artrocentesis",
+          "content": "La línea de Holmlund-Hellsing va desde el centro del trago hasta el canto externo del ojo. AGUJA POSTERIOR: 10 mm por delante del trago, 2 mm POR DEBAJO de la línea (apunta al compartimento superior posterior). AGUJA ANTERIOR: 20 mm por delante del trago, 10 mm POR DEBAJO de la línea (apunta al compartimento superior anterior para el flujo de salida). Ambas agujas entran en el compartimento superior. Confirmar con inyección sin resistencia: si se aprecia resistencia, la aguja está en tejido blando o ha atravesado el disco."
+        }
+      ]
+    },
+    {
+      "id": "D2-S2",
+      "title": "Artroscopia de ATM: Anatomía, Técnica e Indicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La artroscopia de ATM utiliza un artroscopio de 1,9–2,3 mm de diámetro para visualizar directamente el compartimento articular superior. Supone un avance significativo respecto a la artrocentesis al proporcionar diagnóstico e intervención operatoria bajo visión directa. El abordaje estándar se realiza a través de los mismos portales de la línea de Holmlund-Hellsing que para la artrocentesis, con el artroscopio introducido por el portal posterior y un instrumento operatorio por el portal anterior.\n\nLa artroscopia diagnóstica define las zonas anatómicas estándar del compartimento superior: el receso anterior, la zona intermedia, el receso posterior y las goteras medial y lateral. La sinovial normal tiene un aspecto amarillo pálido y brillante; la sinovial inflamada es hiperrémica (roja, vascular). La superficie discal debe ser lisa y blanca. Las adherencias se presentan como bandas fibrosas que unen el disco a la eminencia o a la superficie temporal, y son un hallazgo frecuente en los estadios III–IV de Wilkes.\n\nLos procedimientos artroscópicos operatorios incluyen: lisis y lavado (ruptura de adherencias barriendo el compartimento con el artroscopio o instrumentos — el procedimiento más comúnmente realizado), movilización y reposicionamiento discal, sinovectomía y artroplastia abrasiva de la eminencia articular. La lisis y el lavado obtienen excelentes resultados (>80% de mejoría en dolor y función) para la enfermedad en estadio III de Wilkes y es superior a la artrocentesis para la lisis de adherencias. La artroscopia es el tratamiento de elección para el bloqueo cerrado agudo que fracasa con artrocentesis, para el estadio III–IV de Wilkes que no responde al tratamiento conservador y para la incertidumbre diagnóstica que requiere visualización directa y biopsia sinovial.\n\nEl nervio facial (nervio craneal VII) discurre en estrecha proximidad a la ATM — la rama temporal cruza por encima de la articulación, y el tronco posterior del nervio facial pasa por delante del foramen estilomastoideo, a 5–10 mm de profundidad respecto a la fascia parotídea. La lesión del nervio facial durante la artroscopia es infrecuente (<1%) pero es una complicación reconocida. Otras complicaciones incluyen: hemorragia (ramas de la arteria carótida externa — la arteria meníngea media si la aguja penetra la fisura petrotimpánica — es rara pero catastrófica), rotura de instrumentos, daño del cartílago y fístula sinovial."
+        },
+        {
+          "type": "table",
+          "title": "Artroscopia vs. Artrocentesis de ATM: Comparación",
+          "headers": ["Característica", "Artrocentesis", "Artroscopia"],
+          "rows": [
+            ["Visualización", "Ninguna — procedimiento a ciegas", "Visión directa del compartimento articular"],
+            ["Instrumentación", "Solo dos agujas", "Artroscopio de 1,9–2,3 mm + instrumentos operatorios"],
+            ["Anestesia", "AL ± sedación", "Generalmente AG; posible con AL/sedación"],
+            ["Lisis de adherencias", "Hidrostática/mecánica (a ciegas)", "Lisis directa bajo visión"],
+            ["Biopsia sinovial", "No posible", "Posible bajo visión directa"],
+            ["Reposicionamiento discal", "No posible", "Posible (técnica de sutura)"],
+            ["Indicación según estadio Wilkes", "III (agudo); IV (complementario)", "III-IV (preferido sobre artrocentesis para adherencias)"],
+            ["Tasa de éxito (dolor/función)", "85-90% DDsR agudo", ">85% estadio III; 70-80% estadio IV"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Nervio Facial — Zona de Riesgo Durante la Cirugía de ATM",
+          "content": "La rama temporal del nervio facial cruza el arco cigomático aproximadamente 1,5 cm por delante del trago, a la altura del cuello condilar. Esta zona se encuentra directamente en el campo quirúrgico de la artroscopia de ATM (portal anterior) y de la cirugía abierta de ATM. Siempre marcar la incisión preauricular y mantenerse profundo al SMAS/fascia temporal superficial para evitar esta rama. El tronco principal del nervio facial emerge del foramen estilomastoideo y debe protegerse durante cualquier abordaje abierto de ATM mediante una incisión retromandibular o preauricular."
+        }
+      ]
+    },
+    {
+      "id": "D2-S3",
+      "title": "Cirugía Abierta de ATM: Reposicionamiento Discal y Discectomía",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La cirugía abierta de ATM está reservada para pacientes que han fracasado con el tratamiento artroscópico o que requieren cirugía más extensa del disco o del hueso. El **abordaje preauricular** (preauricular ampliado, endaural o modificación de Al-Kayat) es la vía de acceso estándar a la ATM, que proporciona una excelente exposición del cóndilo, la eminencia articular y el disco con resultados estéticos aceptables cuando se cierra con cuidado. La modificación de Al-Kayat (1979) utiliza una incisión preauricular curvilínea con extensión temporal para mejorar la exposición y proteger la rama temporal del nervio facial.\n\n**El reposicionamiento discal (discoplastia)** tiene como objetivo restaurar la relación disco-cóndilo normal. Las técnicas incluyen: liberación de la banda posterior con sutura anterior del disco al cuello condilar (procedimiento de anclaje discal), plicatura (acortamiento de la banda posterior para reducir el desplazamiento discal) y discropexia (sutura del disco al pterigoideo lateral). El reposicionamiento discal es más exitoso en la enfermedad en estadio III de Wilkes cuando el disco está intacto y morfológicamente adecuado. Las tasas de éxito reportadas para el estadio III de Wilkes son del 85–90% al año en dolor y función. Los resultados empeoran con el aumento del estadio de Wilkes.\n\n**La eminectomía (eminoplastia)** aplana o extirpa la eminencia articular para reducir el atrapamiento mecánico del disco y mejorar la movilidad discal. Se utiliza para la subluxación/luxación recurrente y como complemento del reposicionamiento discal en la enfermedad en estadio III–IV de Wilkes.\n\n**La discectomía** está indicada cuando el disco está perforado, destruido morfológicamente o no reparable (estadio V de Wilkes). El disco se extirpa por completo. Históricamente, la discectomía aislada se seguía de anquilosis fibrosa en algunos pacientes. Para prevenirlo, se colocan **injertos interposicionales** en el espacio de la discectomía: injerto autólogo dérmico-graso (obtenido del abdomen), fascia temporal (colgajo miofascial del músculo temporal con fascia — 'colgajo miofascial del temporal'), o alodermis micronizada. El colgajo miofascial del temporal proporciona tejido interpuesto vascularizado con buenos resultados a largo plazo (McCarthy 1987) y es la técnica más ampliamente utilizada en el Reino Unido y Europa."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Discectomía + Injerto Interposicional — Qué Material Usar",
+          "content": "Tras la extirpación total del disco en estadio V de Wilkes, el material interposicional más utilizado es el colgajo miofascial del temporal (músculo temporal con su fascia, pediculado sobre la arteria temporal profunda). Proporciona tejido vascularizado que resiste la fibrosis y remodelado en un pseudodisco funcional. Alternativa: injerto de cartílago auricular (para defectos menores). Los reemplazos discales aloplásticos (p. ej., Proplast-Teflon — actualmente abandonado por reacciones catastróficas a cuerpo extraño) no deben utilizarse. El injerto dérmico-graso del abdomen es una alternativa aceptada con buenos resultados a largo plazo."
+        }
+      ]
+    },
+    {
+      "id": "D2-S4",
+      "title": "Prótesis Total de ATM: Indicaciones y Sistemas Protésicos",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La prótesis total de articulación temporomandibular (RTT de ATM) implica la sustitución tanto del componente condilar como de la fosa glenoidea/eminencia articular con componentes protésicos. Es el tratamiento quirúrgico definitivo para la enfermedad en estadio terminal de la ATM. Los sistemas protésicos actuales disponibles en Europa y Estados Unidos incluyen: **Prótesis de ATM Biomet (Zimmer-Biomet)** (tanto tallas estándar como implantes a medida específicos del paciente, PSI), **TMJ Concepts (Techmedica)** (solo PSI personalizado) y **Prótesis de ATM Stryker**. Materiales: cabeza condilar de aleación de cobalto-cromo o titanio, componente de fosa de polietileno de ultra-alto peso molecular (PEUAPM).\n\nLas indicaciones para RTT de ATM incluyen: osteoartritis de ATM en estadio terminal (estadio V de Wilkes) que fracasa con tratamiento conservador y artroscópico; fracaso de cirugía previa de ATM (cirugía discal previa fallida, discectomía sin injerto interposicional); artritis inflamatoria con destrucción condilar grave (AR, AIJ — tras remisión confirmada de la enfermedad); resorción condilar grave con maloclusión progresiva; anquilosis de ATM (ósea, recurrente — véase D3); y resección tumoral condilar que requiere reconstrucción. La RTT puede combinarse con cirugía ortognática (simultánea o secuencial) en pacientes con deformidad esquelética grave por resorción condilar o anquilosis.\n\n**Prótesis estándar vs. a medida**: las prótesis estándar se fabrican en tallas normalizadas y son adecuadas para la mayoría de los pacientes; reducen el coste y el tiempo de fabricación. Las prótesis a medida (específicas del paciente) se diseñan a partir de datos de TC para ajustarse exactamente a la anatomía del paciente y se prefieren en casos con distorsión anatómica grave (cirugía previa, resorción grave, anquilosis), pacientes pediátricos (aunque la RTT generalmente se difiere hasta la madurez esquelética) y procedimientos ortognáticos combinados complejos. Los implantes específicos del paciente se diseñan mediante software de planificación quirúrgica virtual (VSP) y guías quirúrgicas impresas en 3D.\n\nContraindicaciones para RTT: infección sistémica activa, artritis inflamatoria activa (enfermedad no controlada), alergia a los materiales protésicos, pacientes en crecimiento (relativa — diferir hasta la madurez esquelética si es posible) y stock óseo insuficiente para la fijación."
+        },
+        {
+          "type": "table",
+          "title": "Indicaciones para RTT de ATM vs. Tratamiento Conservador/Artroscópico",
+          "headers": ["Escenario Clínico", "Primera Línea", "Si Fracasa/No Adecuado", "Indicación de RTT de ATM"],
+          "rows": [
+            ["Bloqueo cerrado agudo (DDsR)", "Artrocentesis", "Lisis y lavado artroscópico", "No indicada (primero cirugía discal)"],
+            ["Estadio III de Wilkes DDsR", "Artroscopia", "Discoplastia abierta", "No es primera línea a menos que el disco esté destruido"],
+            ["Estadio V de Wilkes (disco perforado, OA)", "Artroscopia + discectomía", "Discectomía abierta + injerto interposicional", "Sí — fracaso de cirugía previa o OA grave"],
+            ["Destrucción condilar por AR/AIJ", "Control reumatológico con FAME", "Férula, artrocentesis", "Sí — tras remisión confirmada de la enfermedad"],
+            ["RCI con retrognatia grave", "CBCT seriado + férula 12-24 meses", "Cirugía ortognática sola (si estable)", "Sí — si los cóndilos son insuficientes para soportar la cirugía ortognática"],
+            ["Anquilosis de ATM (ósea)", "Artroplastia con resección", "Artroplastia interposicional", "Sí — anquilosis recurrente o deformidad grave"],
+            ["Osteocondroma condilar", "Resección del tumor", "No aplica", "Sí — si se extirpa el cóndilo, RTT para reconstrucción"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Prótesis de Proplast-Teflon — Advertencia Histórica",
+          "content": "Las prótesis aloplásticas de disco Proplast-Teflon (Vitek), ampliamente utilizadas en la década de 1980, causaron una catastrófica reacción de células gigantes a cuerpo extraño que provocó destrucción ósea grave, dolor intenso y enfermedad sistémica. Fueron retiradas del mercado en 1990. Los pacientes que recibieron estos implantes pueden presentarse décadas después con complicaciones persistentes. Las prótesis de generación actual utilizan cobalto-cromo y PEUAPM con un registro de seguridad demostrado. Nunca recomendar ningún reemplazo aloplástico de disco; los sistemas articulares totales con metal y PEUAPM son la opción basada en la evidencia."
+        }
+      ]
+    },
+    {
+      "id": "D2-S5",
+      "title": "Anquilosis de la ATM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La anquilosis de ATM —definida como inmovilidad patológica de la articulación— se clasifica como fibrosa (fusión de tejidos blandos) u ósea (fusión osea con continuidad de hueso entre el cóndilo y el hueso temporal). La anquilosis ósea es la forma más grave, que impide completamente el movimiento mandibular. Las causas más frecuentes en adultos son: traumatismo (fractura subcondílea — especialmente si se trata de forma conservadora sin movilización), infección (artritis séptica por diseminación hematógena o extensión directa) y artritis inflamatoria (AR, AIJ en niños). En niños, la etiología es predominantemente traumática (uso forzado de fórceps obstétricos, fractura condilar por caídas, traumatismo durante el parto) e infecciosa.\n\nLas características clínicas incluyen: trismo grave (a veces incapacidad completa de apertura), retrognatia mandibular (por restricción del crecimiento mandibular cuando la anquilosis aparece en la infancia), desviación del mentón hacia el lado afectado (unilateral), mordida abierta anterior y asimetría facial (anquilosis infantil bilateral o unilateral). La clasificación de Sawhney (1986) categoriza la anquilosis en 4 tipos según el grado de fusión ósea y la relevancia quirúrgica:\n- Tipo I: adherencias fibrosas, cóndilo visible\n- Tipo II: fusión ósea en el aspecto lateral, cabeza condilar aún identificable\n- Tipo III: fusión ósea completa, cabeza condilar y rama fusionadas con la fosa glenoidea y el arco cigomático\n- Tipo IV: bloque óseo completo entre la rama y el arco cigomático/base del cráneo — el más desafiante.\n\nEl tratamiento quirúrgico requiere: resección completa de la masa anquilosada (artroplastia con resección creando un espacio de 1,5–2 cm entre la rama y el hueso temporal), fisioterapia agresiva para mantener la apertura, y reconstrucción de la ATM. Las opciones de reconstrucción incluyen: injerto costocondral de costilla (ICR — preferido en niños por su potencial de crecimiento), distracción osteogénica de la rama reconstruida, o prótesis total articular (preferida en adultos/pacientes esqueléticamente maduros). El riesgo de re-anquilosis es mayor en pacientes con anquilosis ósea grave y fisioterapia inadecuada — los ejercicios agresivos de apertura mandibular deben iniciarse en la primera semana tras la cirugía."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Injerto Costocondral de Costilla — Consideración del Potencial de Crecimiento",
+          "content": "El injerto costocondral de costilla (ICR) utiliza un segmento de costilla con cartílago costal adherido para reemplazar el cóndilo y la rama en niños con anquilosis de ATM. El capuchón cartilaginoso tiene potencial de crecimiento, permitiendo que el crecimiento mandibular continúe tras la reconstrucción — esta es su principal ventaja sobre la prótesis articular total aloplástica en niños. El riesgo es un crecimiento impredecible: algunos injertos crecen en exceso causando una deformidad similar a la hiperplasia condilar, otros muestran crecimiento mínimo. A pesar de esta impredictibilidad, el ICR sigue siendo la reconstrucción preferida en niños por debajo de la madurez esquelética; la RTT está reservada para los pacientes esqueléticamente maduros."
+        }
+      ]
+    },
+    {
+      "id": "D2-S6",
+      "title": "Complicaciones de la Cirugía de ATM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones de la cirugía de ATM abarcan desde las menores y transitorias hasta las graves y potencialmente permanentes. Comprender estas complicaciones es esencial para el consentimiento informado, la prevención y el tratamiento.\n\n**La lesión del nervio facial** es la complicación más temida de la cirugía abierta de ATM. La rama temporal del nervio facial — responsable de la inervación del músculo frontal, el orbicular de los párpados (superior) y el corrugador superciliar — está especialmente en riesgo durante las incisiones preauriculares y la disección sobre el arco cigomático. La incidencia de debilidad temporal de la rama temporal tras cirugía abierta de ATM se estima en un 5–15%; la lesión permanente es <1%. Prevención: disección anatómica cuidadosa en el plano fascial correcto (manteniéndose profundo a la fascia temporoparietal superficial). Se recomienda monitorización intraoperatoria del nervio mediante electromiografía facial (EMGf) en casos complejos.\n\n**Hemorragia**: la arteria temporal superficial (rama de la carótida externa) y la arteria temporal media están en riesgo durante la disección preauricular. La penetración profunda (p. ej., artroscopio dirigido medialmente a través de la fisura petrotimpánica) puede lesionar la arteria meníngea media (rama de la arteria maxilar, que discurre en la fosa craneal media) — descrita en casos raros de artroscopia con hemorragia intracraneal catastrófica. Es esencial extremar el cuidado en la dirección de agujas/instrumentos.\n\n**Hundimiento condilar/malposicionamiento del segmento proximal** ocurre durante la cirugía articular abierta si la cabeza condilar no se apoya y asienta correctamente en la fosa durante el cierre de la herida. Prevención: soporte manual del cóndilo con el asistente quirúrgico sosteniendo la mandíbula hacia arriba durante el cierre, o uso de una mentonera.\n\n**Osificación heterotópica** (re-anquilosis): formación de nuevo hueso entre el cóndilo/rama y el hueso temporal tras la cirugía — especialmente tras la liberación de anquilosis sin fisioterapia agresiva. Prevención: fisioterapia mandibular agresiva iniciada en la primera semana tras la cirugía y uso de material interposicional para evitar el contacto hueso con hueso."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones de la Cirugía de ATM: Prevención y Tratamiento",
+          "headers": ["Complicación", "Procedimiento de Riesgo", "Prevención", "Tratamiento"],
+          "rows": [
+            ["Lesión de la rama temporal del nervio facial", "Cirugía abierta, incisión preauricular", "Mantenerse profundo a la fascia temporoparietal; monitorización del nervio", "Observación 3-6 meses; generalmente transitoria; fisioterapia"],
+            ["Lesión de la arteria meníngea media", "Artroscopia (penetración medial)", "Limitar la profundidad de la aguja; dirigir lateralmente, no medialmente", "Derivación urgente a neurocirugía; TC craneal"],
+            ["Lesión de la arteria temporal superficial", "Disección preauricular", "Visualizar la arteria antes de la incisión; ligar", "Compresión directa; ligadura"],
+            ["Re-anquilosis (osificación heterotópica)", "Cirugía de liberación de anquilosis", "Fisioterapia agresiva desde la semana 1; injerto interposicional", "Re-liberación quirúrgica si >2 episodios; considerar RTT"],
+            ["Hundimiento condilar", "BSSO, cirugía abierta de ATM", "Soporte manual del cóndilo durante el cierre", "Reposicionamiento si se detecta intraoperatoriamente; revisión si hay maloclusión"],
+            ["Aflojamiento/fracaso del implante protésico", "RTT de ATM", "Stock óseo adecuado; evitar en infección/artritis activa", "Cirugía de revisión; recambio de componentes"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D2-S7",
+      "title": "Resultados y Evidencia de las Intervenciones Quirúrgicas de ATM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La base de evidencia para las intervenciones quirúrgicas de ATM ha crecido sustancialmente en las últimas dos décadas. Una revisión sistemática de Reston y Turkelson (2003) en los Annals of Internal Medicine evaluó todos los tratamientos de los TTM, concluyendo que la evidencia apoya la artroscopia para la mejoría del dolor y la función en la enfermedad en estadio III–IV de Wilkes. La revisión Cochrane de Alomar et al. (2019) sobre intervenciones para el desplazamiento discal de la ATM identificó la artrocentesis y la artroscopia como efectivas para reducir el dolor y mejorar la apertura en el DDsR, con resultados superiores de la artroscopia cuando hay adherencias presentes.\n\nPara la prótesis total articular, el estudio prospectivo de Mercuri (2012) del sistema Biomet de ATM en 347 articulaciones reportó resultados a 5 años que mostraron mejoría significativa en dolor (reducción de la EVA de 8,2 a 2,1), apertura máxima (de 17,3 mm a 37,4 mm) y calidad de vida autoinformada. La supervivencia de la prótesis a 5 años fue del 97,2%. Las revisiones sistemáticas de Leandro et al. (2013) y Sidebottom et al. (2020) de centros de RTT del Reino Unido/Europa reportaron resultados funcionales similares y confirmaron la RTT como el estándar de referencia para la enfermedad terminal de ATM.\n\nEl estudio multicéntrico de referencia de Gonzalez-García et al. (JOMS 2011) sobre los resultados de la RTT combinada con cirugía ortognática demostró que la prótesis total articular simultánea y la cirugía Le Fort I/BSSO logra una corrección esquelética estable con tasas de recidiva aceptables (2–4% a los 2 años), comparable a la cirugía ortognática convencional en pacientes no artríticos — validando el abordaje combinado simultáneo en pacientes con enfermedad grave de ATM y deformidad esquelética asociada."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Cuándo Escalar del Tratamiento Conservador al Quirúrgico en ATM",
+          "content": "La decisión de escalar del tratamiento conservador al quirúrgico debe tomarse tras: (1) mínimo 3-6 meses de tratamiento conservador optimizado (férula, fisioterapia, farmacoterapia), (2) diagnóstico confirmado con RMN/CBCT, (3) estadio III de Wilkes o superior, y (4) limitación funcional significativa o dolor refractario que afecta a la calidad de vida. Para el bloqueo cerrado agudo (<2 semanas de duración): proceder directamente a la artrocentesis. Para el DDsR crónico (>3 meses) que no responde al tratamiento conservador: artroscopia. Para OA en estadio terminal (Wilkes V, fracaso de cirugía previa): discusión de RTT."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tus conocimientos sobre cirugía de ATM con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "D2-Q1",
+        "stem": "Una mujer de 34 años presenta incapacidad aguda para abrir la boca más allá de 23 mm desde hace 4 días al despertar una mañana. Tiene antecedentes de chasquido de la ATM derecha de larga evolución que ahora ha desaparecido. Existe desviación de la mandíbula hacia la derecha al abrir. Ha probado AINEs y dieta blanda sin mejoría. La RMN muestra desplazamiento discal derecho anterior tanto en posición de boca cerrada como abierta, con derrame articular. ¿Cuál es la intervención quirúrgica inicial más adecuada?",
+        "options": {
+          "A": "Artroscopia bilateral de ATM bajo AG con reposicionamiento discal",
+          "B": "Artrocentesis de ATM derecha bajo AL/sedación",
+          "C": "Discoplastia abierta mediante abordaje preauricular",
+          "D": "Prótesis total de ATM derecha"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El bloqueo cerrado agudo (DDsR) de 4 días de evolución que fracasa con AINEs es una indicación primaria de artrocentesis. El procedimiento lava los mediadores inflamatorios del compartimento articular superior y rompe las adherencias entre el disco y la eminencia articular, permitiendo la movilización del disco. La tasa de éxito para el bloqueo cerrado agudo con artrocentesis es >90%. Puede realizarse bajo AL/sedación en régimen ambulatorio, convirtiéndolo en el primer paso quirúrgico menos invasivo y más adecuado. La artroscopia se escala si la artrocentesis fracasa o si las adherencias requieren lisis directa.",
+          "wrong": {
+            "A": "La artroscopia bilateral bajo AG es excesiva como primer paso para un bloqueo cerrado unilateral agudo de 4 días. Primero debe intentarse la artrocentesis — si fracasa, escalar a artroscopia.",
+            "C": "La discoplastia abierta está reservada para el fracaso del tratamiento artroscópico. Proceder directamente a cirugía abierta para un bloqueo cerrado agudo de 4 días omite opciones menos invasivas.",
+            "D": "La prótesis total articular no tiene indicación para el bloqueo cerrado agudo — está reservada para la enfermedad en estadio terminal (Wilkes V, fracaso de cirugía previa, OA grave)."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — DDsR agudo que fracasa con tratamiento conservador: artrocentesis como tratamiento intervencionista de primera línea",
+          "trial": "Nitzan DW et al. Arthrocentesis: a simplified treatment for severe, complicated TMJ lock. J Oral Maxillofac Surg (1991): tasa de éxito de la artrocentesis del 95% para el bloqueo cerrado agudo en 39 pacientes",
+          "pearl": "Bloqueo cerrado agudo + fracaso del tratamiento conservador = ARTROCENTESIS como primera opción. Línea de Holmlund-Hellsing para la colocación de portales. Éxito >90%. Si fracasa → escalar a artroscopia para lisis directa de adherencias. La cirugía abierta y la RTT NO son de primera línea para el bloqueo cerrado agudo."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D2-Q2",
+        "stem": "Durante la artrocentesis de ATM con la línea de Holmlund-Hellsing, ¿dónde se coloca la aguja POSTERIOR?",
+        "options": {
+          "A": "10 mm por delante del trago y 10 mm por debajo de la línea",
+          "B": "20 mm por delante del trago y 2 mm por debajo de la línea",
+          "C": "10 mm por delante del trago y 2 mm por debajo de la línea",
+          "D": "5 mm por delante del trago directamente sobre la línea"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La aguja posterior para la artrocentesis de ATM (técnica de Holmlund-Hellsing) se coloca 10 mm por delante del centro del trago y 2 mm POR DEBAJO de la línea de Holmlund-Hellsing (línea trago-canto lateral). Esto sitúa la aguja en la parte posterior del compartimento articular superior. La aguja ANTERIOR se coloca 20 mm por delante del trago y 10 mm por debajo de la línea, para la cánula de salida en el receso anterior del compartimento superior. La posición de 2 mm por debajo de la línea evita la superficie articular superior y posiciona la aguja correctamente en el compartimento superior posterior.",
+          "wrong": {
+            "A": "10 mm por delante del trago + 10 mm por debajo de la línea quedaría demasiado inferior, pudiendo entrar en la glándula parótida en lugar de la articulación.",
+            "B": "20 mm por delante + 2 mm por debajo describe la posición de la aguja ANTERIOR, no la aguja posterior.",
+            "D": "Directamente sobre la línea es demasiado superior — supondría el riesgo de entrar en la zona de la superficie articular del hueso temporal."
+          },
+          "guideline": "Nitzan DW et al. Técnica de artrocentesis. J Oral Maxillofac Surg (1991) — aguja posterior: 10 mm por delante del trago, 2 mm por debajo de la línea HL; anterior: 20 mm por delante, 10 mm por debajo",
+          "trial": "Holmlund A, Hellsing G. Arthroscopy of the TMJ: occurrence and nature of cartilage changes. Int J Oral Maxillofac Surg (1988): línea HL establecida como referencia anatómica para la colocación del portal de ATM",
+          "pearl": "REFERENCIAS DE ARTROCENTESIS: línea de Holmlund-Hellsing = trago a canto lateral. Aguja POSTERIOR: 10 mm por delante del trago, 2 mm POR DEBAJO de la línea. Aguja ANTERIOR: 20 mm por delante del trago, 10 mm POR DEBAJO de la línea. Regla mnemotécnica: aguja posterior = 10/2; aguja anterior = 20/10."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q3",
+        "stem": "Un hombre de 45 años con dolor crónico y crepitación en la ATM derecha presenta en la RMN un disco articular perforado con erosión condilar grave y formación de osteofitos (estadio V de Wilkes). Ha fracasado con artrocentesis y dos procedimientos artroscópicos. ¿Cuál es la opción quirúrgica más adecuada?",
+        "options": {
+          "A": "Tercera artroscopia con sinovectomía más agresiva",
+          "B": "Discectomía abierta sin injerto interposicional",
+          "C": "Prótesis total de ATM derecha",
+          "D": "Condilotomía modificada"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Se trata de una enfermedad de ATM en estadio terminal (estadio V de Wilkes — disco perforado, OA grave) que ha fracasado con dos procedimientos artroscópicos. La prótesis total articular (RTT) con prótesis condilar y componente de fosa (sistema Biomet/TMJ Concepts) es la intervención definitiva adecuada. La RTT proporciona alivio predecible del dolor, mejoría funcional y restauración de la mecánica mandibular. Los estudios a largo plazo (Mercuri 2012) muestran una supervivencia de la prótesis del 97% a 5 años con reducción significativa del dolor.",
+          "wrong": {
+            "A": "Una tercera artroscopia para el estadio V de Wilkes con disco perforado y artroscopia previa fallida sería infructuosa — no hay disco que reparar ni lesión reversible que abordar artroscópicamente.",
+            "B": "La discectomía abierta sin injerto interposicional tiene riesgo de anquilosis fibrosa y es inadecuada para la enfermedad en estadio V con OA grave. Incluso la discectomía con injerto interposicional sería insuficiente dado el fracaso de dos procedimientos previos.",
+            "D": "La condilotomía modificada reposiciona el cóndilo y se utiliza para el reposicionamiento discal en casos seleccionados de DDcR — no para OA en estadio terminal con disco perforado."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — enfermedad de ATM en estadio terminal (Wilkes V) que fracasa con cirugía previa: está indicada la prótesis total articular",
+          "trial": "Mercuri LG et al. Resultados a largo plazo de la prótesis de ATM Biomet. J Oral Maxillofac Surg (2012): estudio prospectivo a 5 años; supervivencia del 97,2%; reducción del EVA de dolor de 8,2 a 2,1; mejoría de apertura de 17,3 a 37,4 mm",
+          "pearl": "Fracaso de artroscopia × 2 + estadio V de Wilkes (disco perforado + OA grave) = PRÓTESIS TOTAL ARTICULAR. Criterios de RTT: enfermedad en estadio terminal + fracaso del tratamiento quirúrgico previo. No repetir artroscopia para estadio V fallido. Los sistemas Biomet y TMJ Concepts son estándar — estándar o específico del paciente a medida."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q4",
+        "stem": "¿Cuál de los siguientes representa el material interposicional MÁS adecuado tras la extirpación total del disco (discectomía) para prevenir la anquilosis fibrosa?",
+        "options": {
+          "A": "Reemplazo de disco Proplast-Teflon",
+          "B": "Colgajo miofascial del temporal",
+          "C": "Disco de goma de silicona",
+          "D": "Matriz dérmica acelular (Alodermis) sola"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El colgajo miofascial del temporal (músculo temporal con su fascia, pediculado sobre la arteria temporal profunda) es el material interposicional autólogo de referencia tras la discectomía de ATM. Proporciona tejido vascularizado que resiste la fibrosis, se remodelado en un pseudodisco funcional y tiene buenos resultados a largo plazo en la prevención de la anquilosis. El colgajo se moviliza a través de la incisión preauricular y se rota inferiormente para rellenar el espacio de la discectomía. El injerto dérmico-graso del abdomen es una alternativa aceptada. El cartílago auricular puede usarse para defectos menores.",
+          "wrong": {
+            "A": "Las prótesis Proplast-Teflon (Vitek) causaron reacciones catastróficas de células gigantes a cuerpo extraño que condujeron a una destrucción ósea grave. Fueron retiradas del mercado en 1990 y NUNCA deben utilizarse.",
+            "C": "Los reemplazos de disco de goma de silicona causaron reacciones a cuerpo extraño similares al Proplast-Teflon, incluyendo osteólisis y reacciones sistémicas graves. No se usan en la práctica moderna.",
+            "D": "La alodermis (matriz dérmica acelular) puede utilizarse como material interposicional pero no es el estándar de referencia — carece de la vascularidad y el volumen del colgajo miofascial del temporal. Se utiliza como complemento más que como tejido interposicional primario."
+          },
+          "guideline": "EACMFS TMJ Surgery Guidelines (2023) — discectomía: el colgajo miofascial del temporal es el material interposicional autólogo preferido; los discos aloplásticos están contraindicados",
+          "trial": "Wolford LM, Karras SC. Autologous fat implantation around TMJ prosthetics. J Oral Maxillofac Surg (1997): el colgajo miofascial del temporal y la interposición de grasa reducen la re-anquilosis tras la discectomía frente a la no interposición",
+          "pearl": "Interposición post-discectomía: COLGAJO MIOFASCIAL DEL TEMPORAL = estándar de referencia (vascularizado, autólogo, se remodelado en pseudodisco funcional). NUNCA: Proplast-Teflon ni discos de silicona — ambos retirados por reacciones catastróficas a cuerpo extraño. Injerto de grasa (abdomen) = alternativa aceptable."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q5",
+        "stem": "La modificación de Al-Kayat del abordaje preauricular a la ATM utiliza un diseño de incisión específico para proteger qué estructura?",
+        "options": {
+          "A": "La arteria carótida externa",
+          "B": "La rama temporal del nervio facial",
+          "C": "El nervio auriculotemporal",
+          "D": "La arteria temporal superficial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La modificación de Al-Kayat (1979) del abordaje preauricular utiliza una incisión preauricular curvilínea con extensión temporal que discurre dentro de la línea del cabello temporal, permitiendo la retracción superior del colgajo en un plano profundo a la fascia temporoparietal (fascia temporal superficial) y superficial a la capa superficial de la fascia temporal profunda. Este plano de disección mantiene la rama temporal del nervio facial (VII) dentro del colgajo superficial, protegiéndola de la lesión. La rama temporal cruza el arco cigomático aproximadamente 1,5 cm por delante del trago y es el nervio con mayor riesgo durante este abordaje.",
+          "wrong": {
+            "A": "La arteria carótida externa está bien por debajo y por detrás de la ATM; no es la principal preocupación en el abordaje preauricular.",
+            "C": "El nervio auriculotemporal (rama de CN V3) proporciona inervación sensitiva a la ATM y el cuero cabelludo temporal — discurre con la arteria temporal superficial y está protegido por el mismo plano de disección fascial, pero el propósito principal de diseño de la modificación de Al-Kayat es la protección de la rama temporal MOTORA del nervio facial.",
+            "D": "La arteria temporal superficial se identifica y se retrae o liga durante el abordaje — no es la estructura nerviosa específica que la modificación de Al-Kayat fue diseñada para proteger."
+          },
+          "guideline": "EACMFS TMJ Surgery Technical Guidelines (2023) — abordaje preauricular: modificación de Al-Kayat para la protección de la rama temporal del NC VII",
+          "trial": "Al-Kayat A, Bramley P. A modified pre-auricular approach to the temporomandibular joint and malar arch. Br J Oral Surg (1979): tasa de lesión de la rama temporal del nervio facial reducida con incisión curvilínea modificada y plano de disección sub-SMAS",
+          "pearl": "Modificación de Al-Kayat: incisión preauricular curvilínea + extensión temporal dentro de la línea del cabello. Plano de disección: PROFUNDO a la fascia temporoparietal (equivalente al SMAS) = la rama temporal del NC VII queda en el colgajo superficial = protegida. El nervio cruza el arco cigomático ~1,5 cm por delante del trago. Esta es la anatomía crítica para el acceso a la cirugía de ATM."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q6",
+        "stem": "El lavado de artrocentesis de ATM con 200-300 mL de suero salino consigue su efecto terapéutico principalmente a través de qué mecanismo?",
+        "options": {
+          "A": "Estiramiento de los ligamentos capsulares para aumentar el rango de movimiento",
+          "B": "Eliminación de mediadores inflamatorios y ruptura de adherencias entre el disco y la eminencia",
+          "C": "Inyección de ácido hialurónico en el compartimento articular inferior",
+          "D": "Reposicionamiento del disco desplazado anteriormente sobre la cabeza condilar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los mecanismos primarios del lavado de artrocentesis son: (1) dilución y eliminación de mediadores proinflamatorios (IL-1, IL-6, TNF-α, prostaglandinas, bradicinina) del espacio articular, reduciendo la inflamación sinovial y el dolor; (2) la presión hidrostática del líquido de lavado rompe las adherencias fibrosas (fenómeno del disco pegajoso) entre el disco articular y la superficie articular temporal, permitiendo que el disco reanude el movimiento de traslación normal. Los mecanismos secundarios incluyen el lavado de metaloproteinasas de matriz que degradan el cartílago y la lubricación mecánica de la articulación.",
+          "wrong": {
+            "A": "El estiramiento capsular juega un papel menor; el mecanismo principal es la eliminación de mediadores inflamatorios y la ruptura de adherencias, no la distensión capsular.",
+            "C": "El ácido hialurónico se inyecta como complemento al FINAL de la artrocentesis, no es el mecanismo del lavado en sí. El lavado se hace con suero salino.",
+            "D": "La artrocentesis no reposiciona mecánicamente el disco. Crea las condiciones para que el disco se mueva con mayor libertad, pero el reposicionamiento del disco no es el mecanismo de acción directo. La recaptura del disco puede ocurrir como resultado pero no es la acción directa."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — mecanismo de artrocentesis: eliminación de mediadores inflamatorios + lisis de adherencias",
+          "trial": "Nitzan DW et al. The role of friction and adhesion in the pathogenesis of hypomobility of the TMJ. J Oral Maxillofac Surg (1990): la adherencia del 'disco pegajoso' es la causa mecánica principal del bloqueo cerrado; el lavado rompe estas adherencias",
+          "pearl": "Mecanismo de artrocentesis = DOS PARTES: (1) ELIMINACIÓN DE MEDIADORES INFLAMATORIOS (IL-1, TNF, PGE2) + (2) LISIS DE ADHERENCIAS (ruptura del 'disco pegajoso'). Esto explica por qué se necesitan 200-300 mL de lavado — no solo una pequeña inyección. El volumen proporciona tanto efecto antiinflamatorio como ruptura hidráulica de adherencias."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q7",
+        "stem": "Una mujer de 52 años requiere prótesis total de ATM derecha tras el fracaso de cirugía discal previa. La TC preoperatoria muestra que la cabeza condilar derecha fue extirpada previamente, con solo 5 mm de cuello condilar restante y una superficie de fosa glenoidea irregular. ¿Qué tipo de sistema protésico es más adecuado?",
+        "options": {
+          "A": "Prótesis Biomet estándar (talla pequeña)",
+          "B": "Implante a medida específico del paciente (PSI) diseñado a partir de datos de TC",
+          "C": "Reconstrucción con injerto costocondral de costilla",
+          "D": "Injerto dérmico-graso interposicional sin prótesis articular"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La anatomía gravemente distorsionada — extirpación previa de la cabeza condilar, fosa glenoidea irregular, solo 5 mm de cuello condilar restante — es una indicación clásica para los implantes a medida específicos del paciente (PSI). Las prótesis estándar se basan en dimensiones anatómicas normales; no pueden adaptarse a la distorsión grave de este caso. El PSI se diseña a partir de los datos de TC del paciente mediante planificación quirúrgica virtual, con la longitud exacta del cuello condilar, la angulación y la forma de la fosa adaptadas con precisión a la anatomía única del paciente. Esto maximiza el ajuste, la fijación y el resultado funcional.",
+          "wrong": {
+            "A": "Una prótesis estándar requiere longitud adecuada del cuello condilar y fosa glenoidea de contorno normal para una fijación y posicionamiento estables. Con solo 5 mm de cuello condilar y superficie de fosa irregular, el ajuste estándar sería poco fiable.",
+            "C": "El injerto costocondral de costilla es apropiado para niños; se trata de una mujer de 52 años esqueléticamente madura que requiere una reconstrucción adulta fiable — la prótesis articular total se prefiere sobre la reconstrucción biológica en este grupo de edad.",
+            "D": "El injerto interposicional solo no reemplaza la cabeza condilar extirpada ni restaura el soporte condilar a la rama."
+          },
+          "guideline": "BAOMS Alloplastic TMJ Replacement Guidelines (2021) — PSI a medida indicado para: cirugía previa con distorsión anatómica, resorción grave, casos combinados complejos",
+          "trial": "Gonzalez-Garcia R et al. Resultados de RTT combinada + cirugía ortognática. J Oral Maxillofac Surg (2011): el PSI a medida logró mayor estabilidad esquelética frente a prótesis estándar en casos anatómicamente complejos",
+          "pearl": "Prótesis estándar de ATM = anatomía normal/cercana a normal. PSI A MEDIDA = anatomía distorsionada (cirugía previa, resorción grave, anquilosis, casos combinados complejos). El PSI se diseña a partir de datos de TC — la planificación quirúrgica virtual garantiza un ajuste preciso. El coste y el plazo de fabricación son mayores para el PSI pero es indispensable en casos complejos."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q8",
+        "stem": "Un cirujano que realiza artroscopia de ATM derecha observa que el artroscopio ha pasado medialmente a través de la fisura petrotimpánica y el paciente desarrolla de repente una hemorragia arterial profusa desde el portal posterior. ¿Qué estructura ha sido lesionada?",
+        "options": {
+          "A": "Arteria temporal superficial",
+          "B": "Arteria meníngea media",
+          "C": "Arteria carótida externa",
+          "D": "Arteria auricular posterior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La arteria meníngea media — rama de la arteria maxilar (territorio de la carótida interna) — entra en el cráneo a través del foramen espinoso, inmediatamente medial a la ATM y posterior a la espina del esfenoides. Si el artroscopio se dirige excesivamente medial y posteriormente, puede penetrar a través de la pared posteriomedial de la fosa glenoidea o a través de la fisura petrotimpánica y lesionar la arteria meníngea media en su recorrido intracraneal. Esta es una complicación extremadamente rara pero potencialmente fatal, que causa un hematoma epidural. Se requiere respuesta neuroquirúrgica de urgencia inmediata.",
+          "wrong": {
+            "A": "La arteria temporal superficial se encuentra superficial a la articulación en los tejidos blandos preauriculares — la lesión ocurre durante la disección cutánea/de tejidos blandos, no por la penetración intraarticular medial del artroscopio.",
+            "C": "La arteria carótida externa está situada muy inferior y posterior a la ATM; no se lesionaría por la penetración medial del artroscopio a través de la fisura petrotimpánica.",
+            "D": "La arteria auricular posterior discurre detrás del oído y no está en riesgo por la dirección del artroscopio medial a la articulación."
+          },
+          "guideline": "EACMFS TMJ Surgery Technical Guidelines (2023) — lesión de la arteria meníngea media: complicación artroscópica catastrófica rara; nunca dirigir el instrumento medialmente hacia la fisura petrotimpánica",
+          "trial": "Laskin DM. Complications of TMJ arthroscopy. J Oral Maxillofac Surg (1992): casos reportados de lesión de la arteria meníngea media con perforación medial del artroscopio; contraindicación absoluta de dirección medial del instrumento",
+          "pearl": "ARTERIA MENÍNGEA MEDIA: la complicación vascular más temida de la artroscopia de ATM. Situada medialmente justo posterior a la fosa glenoidea en la fisura petrotimpánica. NUNCA dirigir el artroscopio medialmente. Entra en el cráneo en el foramen espinoso. Lesión = hematoma epidural = urgencia neuroquirúrgica. Prevención: mantener la orientación lateral del instrumento en todo momento."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q9",
+        "stem": "¿Qué clasificación de Sawhney de anquilosis de ATM se caracteriza por fusión ósea completa entre el cóndilo/rama y el arco cigomático, sin cabeza condilar identificable?",
+        "options": {
+          "A": "Sawhney Tipo I",
+          "B": "Sawhney Tipo II",
+          "C": "Sawhney Tipo III",
+          "D": "Sawhney Tipo IV"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El Tipo IV de Sawhney es la forma más grave: fusión ósea masiva completa que crea un bloque de hueso entre la rama y el arco cigomático y la base del cráneo, sin estructuras condilares anatómicas identificables. Es el tipo quirúrgicamente más difícil. Los tipos I–III tienen implicación ósea progresivamente creciente: Tipo I = solo fibroso; Tipo II = óseo en el aspecto lateral, cóndilo aún identificable; Tipo III = fusión ósea completa pero cabeza condilar y rama aún identificadas individualmente; Tipo IV = bloque completo, sin puntos de referencia anatómicos preservados.",
+          "wrong": {
+            "A": "Tipo I = solo adherencias fibrosas; el cóndilo es visible en la TC.",
+            "B": "Tipo II = fusión ósea en el aspecto lateral de la articulación, pero la cabeza condilar aún puede identificarse.",
+            "C": "Tipo III = anquilosis ósea completa con estructuras condilares y de la rama fusionadas, pero los componentes anatómicos individuales aún pueden identificarse en la TC. Más difícil quirúrgicamente que el Tipo II pero menos grave que el Tipo IV."
+          },
+          "guideline": "Sawhney CP. Bony ankylosis of the TMJ: follow-up of 70 patients treated with arthroplasty and acrylic spacer interposition. Plast Reconstr Surg (1986) — clasificación Tipo I-IV aún ampliamente utilizada en la planificación quirúrgica",
+          "trial": "Sawhney CP. Plast Reconstr Surg (1986): 70 casos de anquilosis ósea; el Tipo IV requiere la resección más extensa; tasa de re-anquilosis mayor en los Tipos III-IV sin fisioterapia agresiva",
+          "pearl": "Clasificación de Sawhney: I=fibroso (cóndilo visible), II=óseo lateral (cóndilo identificable), III=óseo completo (estructuras cóndilo/rama identificables), IV=BLOQUE MASIVO (sin estructuras identificables). Tipo IV = cirugía más difícil. Todos requieren fisioterapia postoperatoria agresiva para prevenir la re-anquilosis."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q10",
+        "stem": "El estudio prospectivo de Mercuri (2012) sobre la prótesis total de ATM Biomet en 347 articulaciones reportó una supervivencia de la prótesis a 5 años de aproximadamente:",
+        "options": {
+          "A": "75%",
+          "B": "85%",
+          "C": "97%",
+          "D": "100%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El estudio prospectivo de Mercuri (2012) reportó una supervivencia de la prótesis del 97,2% a 5 años para el sistema de prótesis total de ATM Biomet. Esto incluye tanto prótesis estándar como a medida. El estudio también demostró mejoras significativas en el dolor (EVA de 8,2 a 2,1) y en la apertura máxima (de 17,3 mm a 37,4 mm). Los fracasos en el 2,8% fueron predominantemente aflojamiento aséptico del componente condilar. Estos datos sustentan la RTT como el tratamiento definitivo para la enfermedad terminal de ATM.",
+          "wrong": {
+            "A": "Una supervivencia del 75% se consideraría inaceptable para una prótesis articular; está muy por debajo de los resultados reportados.",
+            "B": "El 85% se acerca más a la supervivencia de la prótesis de cadera a los 20 años; la supervivencia de la RTT de ATM a 5 años es considerablemente mayor.",
+            "D": "El 100% sería excepcional; algunos fallos de hardware y revisiones son esperables incluso con un excelente diseño de implante."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — prótesis total articular: tasa de éxito a largo plazo >90%; los sistemas Biomet/TMJ Concepts son sistemas aprobados",
+          "trial": "Mercuri LG et al. Biomet TMJ Replacement System: a prospective 5-year study. J Oral Maxillofac Surg (2012): supervivencia del 97,2% a 5 años; mejoría EVA de 8,2 a 2,1; mejoría AIM de 17,3 a 37,4 mm",
+          "pearl": "Supervivencia a 5 años de RTT de ATM Biomet = 97,2% (Mercuri 2012). EVA de dolor: 8,2 → 2,1. Apertura: 17,3 mm → 37,4 mm. Estos son los datos de referencia de resultados para la RTT de ATM. Memorizar para el examen."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q11",
+        "stem": "Tras la cirugía de liberación de anquilosis de ATM, ¿cuál es la medida MÁS IMPORTANTE para prevenir la re-anquilosis (osificación heterotópica)?",
+        "options": {
+          "A": "Radioterapia intraoperatoria en el sitio quirúrgico",
+          "B": "Fisioterapia mandibular agresiva que comience en la primera semana postoperatoria",
+          "C": "Administración de bisfosfonato IV durante 6 meses tras la cirugía",
+          "D": "Colocación de un separador de goma de silicona entre la rama y el hueso temporal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fisioterapia mandibular agresiva — ejercicios activos y pasivos de apertura mandibular iniciados en la primera semana tras la cirugía de liberación de anquilosis — es el factor más importante para prevenir la re-anquilosis. Los ejercicios interrumpen la formación temprana de adherencias fibrosas, mantienen el espacio quirúrgico y estimulan una pseudoarticulación fibrosa madura en lugar de la regeneración ósea. Los pacientes generalmente requieren un dispositivo de apertura mandibular personalizado (cuña bucal, Therabite, dynaférula) y fisioterapia supervisada durante 3–6 meses. El riesgo de re-anquilosis está directamente correlacionado con la fisioterapia inadecuada.",
+          "wrong": {
+            "A": "La radioterapia en un sitio quirúrgico conlleva riesgos de osteonecrosis por radiación y no es una práctica estándar para la prevención de anquilosis.",
+            "C": "Los bisfosfonatos inhiben la actividad osteoclástica y podrían reducir teóricamente la osificación heterotópica, pero la fisioterapia es la intervención primaria y con mayor evidencia. Los bisfosfonatos durante 6 meses tras la cirugía de ATM no son protocolo estándar.",
+            "D": "Los separadores de goma de silicona causaron reacciones a cuerpo extraño (similares a los fallos de Proplast-Teflon) y no se usan en la cirugía moderna de ATM. Se utilizan injertos interposicionales (colgajo miofascial del temporal)."
+          },
+          "guideline": "EACMFS TMJ Surgery Guidelines (2023) — cirugía post-anquilosis: fisioterapia obligatoria en la semana 1; prevención de re-anquilosis más importante",
+          "trial": "Sawhney CP. Plast Reconstr Surg (1986): tasa de re-anquilosis del 15% con fisioterapia inadecuada frente a <5% con protocolo de fisioterapia agresiva precoz",
+          "pearl": "Prevención de re-anquilosis de ATM = FISIOTERAPIA EN LA SEMANA 1. Esto es más importante que la propia técnica quirúrgica. Sin fisioterapia precoz, las tasas de re-anquilosis se acercan al 15%. Usar Therabite/dynaférula para estiramiento pasivo 3-5 veces al día. Primera revisión a la semana 1 específicamente para confirmar que la fisioterapia está en marcha."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q12",
+        "stem": "El injerto costocondral de costilla (ICR) se prefiere sobre la prótesis articular total aloplástica para la reconstrucción de anquilosis de ATM en niños por cuál propiedad única?",
+        "options": {
+          "A": "Menor tasa de infección",
+          "B": "Potencial de crecimiento del capuchón cartilaginoso",
+          "C": "Mayor capacidad de carga",
+          "D": "Técnica quirúrgica más sencilla que requiere menor tiempo de operación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El potencial de crecimiento del capuchón cartilaginoso del injerto costocondral (unión del cartílago costal con el hueso de la costilla) — la proliferación de condrocitos dentro del cartílago permite el crecimiento del injerto junto con el crecimiento mandibular general. Esto permite el desarrollo mandibular continuado tras la reconstrucción en un niño en crecimiento, evitando la hipoplasia mandibular grave y la deformidad facial que resultaría si el crecimiento mandibular se detuviera definitivamente. En cambio, las prótesis articulares totales aloplásticas tienen un tamaño fijo y no crecen con el niño. El principal inconveniente del ICR es el crecimiento impredecible — algunos injertos crecen en exceso (similar a la hiperplasia condilar), otros crecen insuficientemente.",
+          "wrong": {
+            "A": "Las tasas de infección son en realidad menores con las prótesis aloplásticas que con los injertos biológicos, que son susceptibles a resorción e infección. Esta no es la razón para preferir el ICR en niños.",
+            "C": "Las prótesis aloplásticas tienen mayor capacidad de carga en comparación con un injerto biológico de costilla. El ICR no se utiliza por sus propiedades mecánicas.",
+            "D": "El ICR requiere cosecha de costilla (morbilidad del sitio donante) y cirugía compleja de tallado/modelado. Los procedimientos aloplásticos pueden ser en realidad más rápidos en manos experimentadas."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — reconstrucción de anquilosis pediátrica de ATM: ICR preferido por potencial de crecimiento; RTT diferida hasta la madurez esquelética",
+          "trial": "Perrott DH et al. Costochondral graft construction/reconstruction of the ramus/condyle unit. Int J Oral Maxillofac Surg (1994): el ICR muestra potencial de crecimiento en niños; seguimiento requerido por sobrecrecimiento",
+          "pearl": "ICR en niños = POTENCIAL DE CRECIMIENTO del capuchón cartilaginoso. Principal ventaja sobre el aloplástico. Principal riesgo = CRECIMIENTO IMPREDECIBLE (sobre O bajo). RTT en adultos. ICR en niños (esqueléticamente inmaduros). Seguimiento por posible sobrecrecimiento que requiera condilectomía posterior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q13",
+        "stem": "¿En qué estadio de Wilkes la lisis y el lavado artroscópico proporciona los MEJORES resultados, apoyando que sea el procedimiento de elección?",
+        "options": {
+          "A": "Estadio I de Wilkes",
+          "B": "Estadio II de Wilkes",
+          "C": "Estadio III de Wilkes",
+          "D": "Estadio V de Wilkes"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La lisis y el lavado artroscópico obtienen sus mejores resultados en el estadio III de Wilkes (intermedio) — desplazamiento discal crónico no reductor con adherencias, con cambios incipientes de la superficie articular, pero sin la perforación discal avanzada y la OA grave de los estadios IV–V. En el estadio III, el disco es aún morfológicamente apto para el reposicionamiento y las superficies articulares no están todavía gravemente dañadas. Las tasas de éxito reportadas superan el 85% para la mejoría del dolor y la función en el estadio III. Los resultados del estadio IV son aceptables (70–80%) pero menos predecibles; el estadio V presenta una disrupción discal intacta que no puede abordarse adecuadamente por artroscopia.",
+          "wrong": {
+            "A": "El estadio I (chasquido indoloro, sin cambios estructurales) no requiere intervención quirúrgica — el tratamiento conservador o la tranquilización son adecuados.",
+            "B": "El estadio II (bloqueo intermitente, leve deformidad discal) también responde bien al tratamiento conservador. La artroscopia no es la primera línea.",
+            "D": "El estadio V (disco perforado, OA avanzada) está más allá del alcance del beneficio artroscópico — el disco perforado no puede repararse artroscópicamente, y la OA grave requiere considerar el reemplazo articular."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — lisis y lavado artroscópico: indicación óptima estadio III de Wilkes; tasa de éxito >85%",
+          "trial": "Reston JT, Turkelson CM. Meta-analysis of surgical treatments for TMJ disc displacement. J Oral Maxillofac Surg (2003): artroscopia superior a la terapia con férula para estadio III; tasa de éxito 82-91% para dolor y función",
+          "pearl": "Mejores resultados de artroscopia = ESTADIO III DE WILKES. Este es el umbral de estadificación clave para la cirugía artroscópica: estadios I-II = tratamiento conservador. Estadio III = artroscopia (lisis y lavado). Estadio IV = artroscopia o cirugía abierta. Estadio V = discectomía ± RTT."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q14",
+        "stem": "¿Cuál es el principal riesgo de realizar una prótesis total de ATM durante la artritis reumatoide (AR) ACTIVA en lugar de esperar la remisión de la enfermedad?",
+        "options": {
+          "A": "Hemorragia debida a medicamentos anticoagulantes",
+          "B": "Pérdida ósea protésica progresiva y fracaso del implante por inflamación sinovial continua y resorción ósea",
+          "C": "Rechazo de los componentes protésicos por disregulación inmune relacionada con la AR",
+          "D": "Infección por inmunosupresión inducida por metotrexato"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La AR activa causa inflamación sinovial persistente con TNF-α, IL-1 e IL-6 elevados que impulsan la formación agresiva de pannus sinovial y la resorción ósea mediada por osteoclastos. Si se realiza la prótesis articular total durante la enfermedad activa, el mismo proceso patológico que destruyó la articulación nativa continuará erosionando el hueso adyacente a los componentes protésicos, provocando pérdida ósea periprotésica y, en última instancia, aflojamiento e inestabilidad del implante. Además, la inflamación activa relacionada con la AR deteriora la cicatrización de la herida. Se requiere la remisión de la enfermedad (idealmente durante ≥6 meses, confirmada mediante serología y evaluación clínica) antes de la RTT.",
+          "wrong": {
+            "A": "La anticoagulación en pacientes con AR no es estándar — la AR no suele requerir anticoagulación. Esta no es la principal preocupación.",
+            "C": "Los componentes protésicos (titanio, cobalto-cromo, PEUAPM) son materiales biocompatibles que no provocan rechazo inmune de la misma manera que los trasplantes biológicos.",
+            "D": "La inmunosupresión relacionada con el metotrexato es una consideración perioperatoria, pero las guías actuales no exigen suspender el MTX para la cirugía electiva articular (a diferencia de los biológicos). El principal riesgo es la actividad de la enfermedad, no la inmunosupresión por FAME."
+          },
+          "guideline": "BAOMS Alloplastic TMJ Replacement Guidelines (2021) — artritis inflamatoria activa es contraindicación para RTT; se requiere valoración reumatológica y remisión de la enfermedad",
+          "trial": "Gonzalez-Garcia R et al. RTT combinada + ortognática en AR/AIJ. JOMS (2011): AR activa en el momento de la RTT asociada con mayores tasas de revisión; remisión de la enfermedad ≥6 meses antes de la cirugía recomendada",
+          "pearl": "AR activa = CONTRAINDICACIÓN para RTT de ATM. Razón: inflamación sinovial continua y resorción ósea osteoclástica → pérdida ósea periprotésica → fracaso del implante. Esperar remisión de la enfermedad ≥6 meses (confirmada clínica y serológicamente) antes de planificar RTT en AR."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q15",
+        "stem": "La condilotomía modificada es un procedimiento de ATM realizado por vía intraoral. ¿Cuál es su mecanismo e indicación principal?",
+        "options": {
+          "A": "Extirpa la cabeza condilar para descomprimir la articulación en la osteoartritis grave",
+          "B": "Realiza una osteotomía intraoral de la rama (sagital o subcondílea) para permitir que el cóndilo se desplace inferior y anteriormente, reduciendo el desplazamiento discal",
+          "C": "Fusiona el cóndilo con la fosa glenoidea para la luxación recurrente",
+          "D": "Acorta la eminencia articular para prevenir el bloqueo por traslación condilar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La condilotomía modificada (Hall 1984) utiliza una osteotomía sagital o subcondílea intraoral de la rama para permitir que el cóndilo se desplace inferior y anteriormente por debajo del disco desplazado anteriormente — reposicionando efectivamente el cóndilo bajo el disco sin manipular directamente el disco. Se utiliza para el DDcR y el DDsR (estadios II–IV de Wilkes) en pacientes que no son candidatos a artroscopia o que han fracasado con el tratamiento conservador. El abordaje intraoral evita las cicatrices externas y el riesgo para el nervio facial. Proporciona simultáneamente el reposicionamiento discal y la descompresión articular.",
+          "wrong": {
+            "A": "La condilotomía no extirpa la cabeza condilar — eso sería una condilectomía. La condilotomía solo realiza una osteotomía para reposicionar el cóndilo.",
+            "C": "La fusión para la luxación recurrente sería inducción de anquilosis — es la eminectomía la que se usa para la luxación recurrente, no la condilotomía.",
+            "D": "La eminoplastia/eminectomía reduce la eminencia articular para prevenir el bloqueo/luxación condilar — esto describe ese procedimiento, no la condilotomía."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — condilotomía modificada: indicación para DDcR/DDsR (Wilkes II-IV) que fracasa con tratamiento conservador, abordaje intraoral",
+          "trial": "Hall HD. Modified condylotomy for treatment of the painful TMJ with a reducing disc. Oral Surg (1984): tasa de éxito de la condilotomía del 79% para el DDcR; abordaje intraoral sin riesgo para el nervio facial",
+          "pearl": "Condilotomía modificada = osteotomía de rama INTRAORAL → el cóndilo desciende hacia delante BAJO el disco desplazado → disco recapturado sin tocarlo directamente. Ventaja: sin cicatriz externa, sin riesgo para el nervio facial. Indicación: DDcR/DDsR Wilkes II-IV que fracasa con tratamiento conservador o artroscopia."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D2-Q16",
+        "stem": "La inyección intraarticular de ácido hialurónico (AH) en la ATM se coloca en qué compartimento articular, y cuál es su mecanismo propuesto?",
+        "options": {
+          "A": "Compartimento inferior; reduciendo el desplazamiento discal al lubricar la interfaz cóndilo-disco",
+          "B": "Compartimento superior; viscosuplementación que mejora la calidad del líquido sinovial y reduce la fricción",
+          "C": "Ambos compartimentos simultáneamente; efecto antiinflamatorio bilateral",
+          "D": "Tejido retrodiscal; reduciendo la inflamación de la zona bilaminar retrodiscal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La inyección de ácido hialurónico (hialuronato sódico) se coloca en el compartimento articular SUPERIOR — el mismo compartimento al que se accede para la artrocentesis. El mecanismo propuesto es la viscosuplementación: reemplazar o suplementar el líquido sinovial degradado (que muestra menor concentración de hialuronato en la OA y el desplazamiento discal) con ácido hialurónico de alto peso molecular, restaurando las propiedades viscoelásticas normales, mejorando la lubricación articular y reduciendo la fricción. Los efectos secundarios incluyen la modulación de citocinas inflamatorias (reduciendo IL-1β, TNF-α) y el efecto directo sobre el metabolismo de los condrocitos. Se utiliza para la OA de ATM y los trastornos de desplazamiento discal, generalmente administrado tras el lavado de artrocentesis.",
+          "wrong": {
+            "A": "El compartimento inferior es un espacio mucho menor responsable de la rotación condilar — no es el sitio de inyección estándar y la AH en el compartimento inferior no tiene base de evidencia clínica específica.",
+            "C": "La inyección bilateral simultánea se realiza ocasionalmente en OA bilateral pero no es la técnica estándar. La inyección en el compartimento superior único es la norma.",
+            "D": "La inyección en el tejido retrodiscal no es un sitio de inyección estándar de AH."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — inyección de AH: compartimento superior; indicado para OA de ATM y desplazamiento discal persistente tras artrocentesis",
+          "trial": "Altman R et al. Revisión sistemática: inyección de AH en la osteoartritis de ATM. J Oral Rehabil (2022): AH superior al placebo para el dolor a los 3 y 6 meses; mejor evidencia cuando se administra tras el lavado de artrocentesis",
+          "pearl": "Inyección de AH = compartimento SUPERIOR = viscosuplementación. Administrar tras el lavado de artrocentesis (primero lavar la inflamación, luego inyectar AH para lubricación). 1 mL de Ostenil o Suplasyn. Evidencia: reducción del dolor a los 3-6 meses. Funciona mejor en OA de ATM y desplazamiento discal persistente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q17",
+        "stem": "Una mujer de 35 años se somete a artroscopia electiva de ATM izquierda por desplazamiento discal en estadio III de Wilkes. Durante el procedimiento, desarrolla de inmediato debilidad profunda del músculo frontal izquierdo e incapacidad para elevar la ceja izquierda. ¿Qué nervio/rama ha sido lesionado?",
+        "options": {
+          "A": "Nervio auriculotemporal (V3)",
+          "B": "Nervio cigomaticotemporal (V2)",
+          "C": "Rama temporal del nervio facial (VII)",
+          "D": "Rama motora trigeminal al masetero"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La rama temporal del nervio facial (NC VII) es responsable de la inervación del músculo frontal (elevación de la frente), el corrugador superciliar y el orbicular superior de los párpados. La debilidad del frontal (incapacidad para elevar la ceja) y la posible debilidad del párpado superior indican lesión de la rama temporal. Esta rama cruza el arco cigomático aproximadamente 1,5 cm por delante del trago — directamente en el campo operatorio de la artroscopia de ATM — y es el nervio más frecuentemente lesionado en los procedimientos preauriculares y artroscópicos de ATM. La mayoría de las neuropraxias de la rama temporal postartroscopia se resuelven en 3–6 meses.",
+          "wrong": {
+            "A": "El nervio auriculotemporal (NC V3) proporciona inervación sensitiva a la ATM, el cuero cabelludo temporal y el pabellón auricular. Su lesión causaría pérdida sensitiva en la región temporal, no debilidad motora del frontal.",
+            "B": "El nervio cigomaticotemporal (NC V2) es puramente sensitivo — inerva la piel temporal. Sin función motora.",
+            "D": "La rama motora al masetero (nervio maseterino) procede del NC V3 e inerva el músculo masetero, no el frontal."
+          },
+          "guideline": "EACMFS TMJ Surgery Guidelines (2023) — lesión de la rama temporal del nervio facial: complicación neurológica más frecuente; 5-15% transitoria; <1% permanente",
+          "trial": "Holmlund A et al. Facial nerve injury as a complication of TMJ arthroscopy. J Oral Maxillofac Surg (1991): tasa de lesión de la rama temporal del 6,5% en 154 artroscopias; todos los casos se resolvieron en 3-6 meses",
+          "pearl": "Debilidad del frontal tras cirugía de ATM = lesión de la RAMA TEMPORAL del NC VII. Esta rama cruza el arco cigomático ~1,5 cm por delante del trago. Prevención: disección en el plano fascial correcto (profundo al SMAS, superficial a la fascia temporal profunda). La mayoría transitoria (neuropraxia) y se resuelven en 3-6 meses."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D2-Q18",
+        "stem": "¿Qué hallazgo artroscópico es característico del desplazamiento discal en estadio III de Wilkes y es el objetivo principal del tratamiento artroscópico operatorio?",
+        "options": {
+          "A": "Superficie discal lisa y blanca con sinovial normal brillante",
+          "B": "Adherencias fibrosas entre el disco y la superficie de la eminencia articular",
+          "C": "Perforación discal bruta con hueso condilar visible",
+          "D": "Proliferación sinovial masiva (vellosidades sinoviales)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En el estadio III de Wilkes, el hallazgo artroscópico principal son las adherencias fibrosas — bandas de tejido fibroso que unen la superficie superior del disco a la eminencia articular o la superficie articular temporal. Estas adherencias impiden la traslación normal del disco durante la apertura, causando el fenómeno del 'disco pegado'. Aparecen como filamentos fibrosos pálidos que cruzan el espacio articular. El procedimiento artroscópico operatorio primario es la lisis de estas adherencias mediante el barrido del artroscopio o instrumentos específicos, combinado con el lavado para eliminar los mediadores inflamatorios. La ruptura de estas adherencias restaura la movilidad discal.",
+          "wrong": {
+            "A": "El disco liso y blanco con sinovial brillante es el hallazgo de una articulación NORMAL (estadio I). No es el hallazgo típico del estadio III.",
+            "C": "La perforación discal bruta con hueso condilar visible es el hallazgo del estadio V de Wilkes — enfermedad en estadio terminal. No es estadio III.",
+            "D": "Las vellosidades sinoviales son un hallazgo en la artritis inflamatoria (AR, AIJ) que afecta a la ATM — no el hallazgo principal en el trastorno interno del estadio III de Wilkes."
+          },
+          "guideline": "Wilkes CH. Arch Otolaryngol Head Neck Surg (1989); McCain JP. Principles and Practice of TMJ Arthroscopy (1996): las adherencias fibrosas = signo del estadio III; la lisis y el lavado apuntan a estas adherencias",
+          "trial": "McCain JP et al. Arthroscopy of the TMJ. J Oral Maxillofac Surg (1992): adherencias fibrosas identificadas en el 89% de los casos de estadio III; la lisis de las adherencias restauró la movilidad discal en el 84%",
+          "pearl": "Signo artroscópico del estadio III de Wilkes = ADHERENCIAS FIBROSAS (disco a eminencia). Tratamiento = LISIS Y LAVADO. Ruptura de adherencias bajo visión directa + eliminación de mediadores inflamatorios. Éxito >85% para dolor y función al año."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q19",
+        "stem": "Una mujer de 28 años con antecedentes de luxación recurrente de ATM (bloqueo de la mandíbula en posición abierta que requirió manipulación para reducirla 4 veces en el último año) es derivada para tratamiento quirúrgico. Las medidas conservadoras han fracasado. ¿Cuál es el procedimiento quirúrgico más adecuado?",
+        "options": {
+          "A": "Prótesis total de ATM",
+          "B": "Eminectomía (reducción de la eminencia articular)",
+          "C": "Reposicionamiento bilateral de disco por abordaje abierto preauricular",
+          "D": "Artrocentesis bilateral e inyección de corticoide"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La luxación recurrente de ATM (hipermobilidad que provoca que el cóndilo quede bloqueado anterior a la eminencia articular en posición de amplia apertura) se trata quirúrgicamente mediante eminectomía (eminoplastia) — reducción o extirpación de la eminencia articular. Al aplanar la eminencia, no existe ninguna barrera anatómica que impida que el cóndilo regrese a la fosa glenoidea cuando el paciente intenta cerrar la boca. El procedimiento se realiza mediante abordaje preauricular. Los procedimientos alternativos incluyen el aumento de la eminencia (creando un tope óseo para prevenir la traslación excesiva) y la inyección de sangre autóloga o esclerosante en la articulación para crear fibrosis, pero la eminectomía cuenta con la evidencia a largo plazo más consistente.",
+          "wrong": {
+            "A": "La prótesis articular total es para la destrucción articular en estadio terminal — la luxación recurrente no implica destrucción articular.",
+            "C": "El reposicionamiento discal es para los trastornos de desplazamiento discal — la luxación recurrente es un problema de hipermobilidad condilar, no un problema de desplazamiento discal. Son diagnósticos diferentes.",
+            "D": "La artrocentesis y la inyección de corticoide tratan la artralgia inflamatoria y el bloqueo cerrado agudo — no la luxación/hipermobilidad recurrente."
+          },
+          "guideline": "AAOMS TMD Clinical Practice Guidelines (2022) — luxación recurrente de ATM que fracasa con tratamiento conservador: la eminectomía es el tratamiento quirúrgico basado en la evidencia",
+          "trial": "Undt G et al. Surgical management of chronic TMJ dislocation. J Oral Maxillofac Surg (1997): tasa de éxito de la eminectomía del 87% para prevenir la luxación recurrente a los 2 años de seguimiento",
+          "pearl": "LUXACIÓN recurrente de ATM (cóndilo bloquea anterior a la eminencia, posición abierta) = EMINECTOMÍA. Extirpar la eminencia articular para que el cóndilo pueda regresar libremente. Diferente del BLOQUEO CERRADO (DDsR) = artrocentesis/artroscopia. Conocer la diferencia: bloqueo ABIERTO = luxación = eminectomía. BLOQUEO CERRADO = DDsR = artrocentesis/artroscopia."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D2-Q20",
+        "stem": "¿Cuál de los siguientes es una contraindicación ABSOLUTA para la prótesis articular total de ATM?",
+        "options": {
+          "A": "Cirugía discal previa fallida en la misma articulación",
+          "B": "Edad del paciente superior a 65 años",
+          "C": "Infección sistémica activa no controlada",
+          "D": "Desplazamiento discal en estadio IV de Wilkes en la RMN"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La infección sistémica activa no controlada es una contraindicación absoluta para cualquier artroplastia articular electiva, incluida la RTT de ATM. Implantar una prótesis en un paciente con bacteriemia sistémica arriesga la siembra hematógena del implante, causando infección articular protésica — una complicación devastadora que requiere la extirpación del implante. La bacteriemia de una fuente remota (ITU, neumonía, absceso dental) que no se resuelve antes de la cirugía es el escenario más frecuente. Todas las infecciones activas deben identificarse y tratarse antes de proceder con el reemplazo articular electivo.",
+          "wrong": {
+            "A": "La cirugía discal previa fallida es en realidad una INDICACIÓN clásica para RTT — no una contraindicación. El fracaso de la cirugía previa de ATM es una de las indicaciones más frecuentes.",
+            "B": "La edad superior a 65 años no es una contraindicación. La RTT de ATM se realiza con éxito en pacientes de edad avanzada. La longevidad de la prótesis (15-20 años) puede ser adecuada para su esperanza de vida restante. La RTT en niños (esqueléticamente inmaduros) es la contraindicación relativa relacionada con la edad.",
+            "D": "El estadio IV de Wilkes puede ser una indicación para RTT si el tratamiento conservador/artroscópico ha fracasado. No es una contraindicación."
+          },
+          "guideline": "BAOMS Alloplastic TMJ Replacement Guidelines (2021) — contraindicaciones absolutas: infección sistémica activa; alergia a los materiales protésicos; pacientes en crecimiento (relativa)",
+          "trial": "Mercuri LG et al. J Oral Maxillofac Surg (2012): la infección activa es criterio de exclusión en todos los estudios prospectivos de RTT Biomet; fracaso precoz relacionado con la infección reportado en pacientes con infecciones preoperatorias no reconocidas",
+          "pearl": "Contraindicaciones absolutas para RTT de ATM: (1) INFECCIÓN ACTIVA (sistémica o local), (2) ALERGIA a los materiales protésicos (cobalto-cromo, PEUAPM). Relativas: artritis inflamatoria activa (no en remisión), pacientes esqueléticamente inmaduros. La infección activa debe resolverse antes de proceder con CUALQUIER artroplastia articular electiva."
+        },
+        "difficulty": 1
+      }
+    ]
+  }
+}

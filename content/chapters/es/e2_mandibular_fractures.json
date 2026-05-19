@@ -1,0 +1,631 @@
+{
+  "id": "E2",
+  "title": "Fracturas Mandibulares",
+  "subtitle": "Bloque E — Anatomía, Clasificación, Técnicas de RAFI, Complicaciones",
+  "block": "E",
+  "block_name": "Traumatismo Facial",
+  "level": "R2-3",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Facial Trauma Guidelines 2021 · BAOMS Mandibular Fracture Guidelines 2020 · AO CMF Classification 2021",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3ª ed. (2012)",
+    "Champy M et al. Mandibular osteosynthesis by miniature screwed plates via a buccal approach. J Maxillofac Surg (1978)",
+    "Ellis E, Walker LR. Treatment of mandibular angle fractures. J Oral Maxillofac Surg (1994)",
+    "Spiessl B. Internal Fixation of the Mandible. (1989)"
+  ],
+  "learning_objectives": [
+    "Clasificar las fracturas mandibulares por localización anatómica, patrón de fractura (favorable/desfavorable) y desplazamiento",
+    "Identificar las líneas de osteosíntesis ideales (líneas de Champy) para la fijación con miniplacas en fracturas mandibulares",
+    "Seleccionar la técnica de fijación apropiada para cada localización de fractura: sínfisis, parasínfisis, cuerpo, ángulo, rama y cóndilo",
+    "Describir los abordajes quirúrgicos a la mandíbula para la reducción abierta y fijación interna",
+    "Reconocer las complicaciones de las fracturas mandibulares: infección, pseudoartrosis, consolidación viciosa, lesión del nervio alveolar inferior y osteomielitis",
+    "Manejar las fracturas mandibulares en el contexto de dientes en el trazo de fractura y en el paciente edéntulo"
+  ],
+  "sections": [
+    {
+      "id": "E2-S1",
+      "title": "Anatomía Mandibular y Patrones de Fractura",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La mandíbula es el hueso facial fracturado con mayor frecuencia que requiere manejo quirúrgico por parte de los cirujanos orales y maxilofaciales, representando aproximadamente el 60–70% de los ingresos traumatológicos de CCMF. Su estructura en U con dos procesos condilares la hace especialmente vulnerable: las fuerzas se transmiten a lo largo del arco mandibular hacia los puntos de debilidad — el delgado hueso cortical del cuello condilar, el ángulo (debilitado por la presencia del tercer molar) y la parasínfisis (debilitada por la raíz del canino).\n\nEl aporte sanguíneo de la mandíbula procede de la arteria alveolar inferior (rama de la arteria maxilar interna) que discurre por el canal alveolar inferior, y de los vasos periosteales (ramas de las arterias facial, mentoniana y submentoniana). Este doble aporte — endóstico (alveolar inferior) y periostal — proporciona buen potencial de cicatrización; sin embargo, el despegamiento perióstico durante la exposición quirúrgica agresiva devasculariza el hueso y aumenta el riesgo de pseudoartrosis e infección.\n\nLas fracturas mandibulares se clasifican por:\n1. **Localización anatómica**: Sínfisis (entre los incisivos centrales), parasínfisis (entre el incisivo central y el canino/primer premolar), cuerpo (de premolar a ángulo), ángulo (región del tercer molar, desde el borde anterior al posterior de la rama), rama (entre el ángulo y el cuello condilar), cuello condilar, y apófisis coronoides.\n2. **Favorabilidad**: Una fractura es **favorable** cuando los músculos de la masticación tienden a comprimir los fragmentos, reduciendo el desplazamiento. Es **desfavorable** cuando la tracción muscular tiende a distanciar los fragmentos. Las fracturas horizontales desfavorables son separadas por los pterigoideos laterales y los músculos depresores.\n3. **Estado dental**: Clase I (dientes a ambos lados de la fractura), Clase II (dientes en un solo lado), Clase III (sin dientes en los segmentos de fractura — edéntulo).\n4. **Abierta frente a cerrada**: Las fracturas abiertas comunican con la cavidad oral a través del ligamento periodontal (muy frecuente en pacientes dentados) o por heridas cutáneas."
+        },
+        {
+          "type": "table",
+          "title": "Localizaciones de Fractura Mandibular: Frecuencia y Características Clave",
+          "headers": ["Localización", "Frecuencia", "Característica Anatómica Clave", "Fijación Preferida"],
+          "rows": [
+            ["Cóndilo/subcondíleo", "25-35%", "Desplazamiento por pterigoideo lateral; fracturas bilaterales causan mordida abierta anterior", "Tratamiento conservador preferido; RAFI en casos dislocados/bilaterales con mordida abierta"],
+            ["Ángulo", "20-30%", "Debilitado por el cordal; patrón horizontal desfavorable", "Miniplaca única de Champy en la línea oblicua externa"],
+            ["Parasínfisis", "15-25%", "Raíz del canino debilita la cortical; bilateral = 'asa de cubo'", "Una placa en borde inferior + una superior (zona de tensión)"],
+            ["Cuerpo", "15-20%", "Nervio mentoniano en riesgo; raíces dentales en el trazo", "Sistema de dos placas o placa 3D"],
+            ["Sínfisis", "5-10%", "Zona de impacto bilateral; puede ser conminuta", "Dos placas (borde superior e inferior)"],
+            ["Rama", "3-5%", "Protegida por el cabestrillo pterigomasesetérico; raramente desplazada", "Conservador; RAFI si desplazada/conminuta"],
+            ["Apófisis coronoides", "<1%", "Fractura coronoidea aislada muy rara", "Habitualmente conservador; el trismo se resuelve"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Fractura de Ángulo — Localización Más Frecuente de Infección y Pseudoartrosis",
+          "content": "El ángulo mandibular es el lugar más frecuente de infección postoperatoria y pseudoartrosis tras la RAFI. Factores de riesgo específicos del ángulo: (1) la raíz del tercer molar (si está presente) está frecuentemente en el trazo de fractura, (2) la cortical delgada del ángulo proporciona escasa sujeción a los tornillos, (3) las fuertes fuerzas masticatorias en el ángulo generan alto estrés en la placa. Decisión clave: extraer el tercer molar en el trazo de fractura (reduce el riesgo de infección) frente a conservarlo (proporciona stock óseo). La EACMFS 2021 recomienda la extracción de terceros molares móviles, no vitales o significativamente incluidos en el trazo de fractura."
+        }
+      ]
+    },
+    {
+      "id": "E2-S2",
+      "title": "Líneas de Champy y Biomecánica de la Fijación Mandibular",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las **líneas de osteosíntesis de Champy** (Champy et al. 1978, J Maxillofac Surg) proporcionan el marco teórico para la colocación de miniplacas en fracturas mandibulares basado en el análisis biomecánico de las fuerzas masticatorias. Champy definió las 'líneas de osteosíntesis ideales' como las posiciones en la mandíbula donde una sola miniplaca puede lograr suficiente estabilidad neutralizando las fuerzas de tensión mientras las fuerzas compresivas en el borde inferior aportan estabilidad adicional.\n\nEn la **sínfisis y parasínfisis**: la mandíbula experimenta fuerzas de torsión — la cortical vestibular está bajo tensión y la lingual bajo compresión durante la función. Una sola placa en la superficie lingual o superior no proporciona estabilidad torsional adecuada. Se requieren **dos placas**: una en el borde inferior (resistencia a las fuerzas de flexión) y una en la región del canino/premolar superior al agujero mentoniano (resistencia a la torsión). No utilizar dos placas en la sínfisis/parasínfisis produce apertura lingual e incorrección de la reducción.\n\nEn el **cuerpo mandibular**: la cortical vestibular oblicua o superior soporta fuerzas de tensión durante la función. Una sola placa de Champy en el borde superior (por encima del agujero mentoniano) proporciona estabilidad adecuada para las fracturas del cuerpo. Se usan dos placas para fracturas del cuerpo complejas o inestables.\n\nEn el **ángulo mandibular**: la línea ideal de osteosíntesis de Champy es la **línea oblicua externa** en la superficie superior de la unión ramo/ángulo — una sola miniplaca colocada a lo largo de esta línea proporciona fijación adecuada para la mayoría de las fracturas de ángulo. Esta es la técnica clásica de 'placa única en el ángulo' de Champy, realizada mediante abordaje transoral. La modificación de Spiessl emplea una placa más grande o una placa de bloqueo para fracturas de ángulo complejas.\n\nEl principio biomecánico fundamental es: las miniplacas resisten la zona de tensión; la cortical mandibular inferior (bajo compresión) proporciona autoestabilización mediante el contacto óseo — la compresión placa-hueso no es necesaria para la fijación estándar de fracturas mandibulares."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Resumen de las Líneas de Champy — La Pregunta Clásica de Examen",
+          "content": "Sínfisis/parasínfisis = DOS placas (una en borde inferior + una superior al agujero mentoniano). Cuerpo = UNA o DOS placas (superior al agujero mentoniano). Ángulo = UNA placa en la línea oblicua externa (Champy). Rama = UNA placa (raramente necesaria). La 'técnica de Champy' hace referencia específicamente a la miniplaca única en el ángulo por abordaje intraoral — este es el detalle más frecuentemente evaluado sobre la fijación de fracturas mandibulares."
+        }
+      ]
+    },
+    {
+      "id": "E2-S3",
+      "title": "Abordajes Quirúrgicos a la Mandíbula",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La RAFI de las fracturas mandibulares puede realizarse mediante abordajes intraorales (transorales) o extraorales, o una combinación de ambos.\n\n**Abordaje transoral (intraoral)**: Incisión en el vestíbulo bucal o a lo largo del borde anterior de la rama. Proporciona acceso directo a la superficie lateral de la mandíbula desde la sínfisis hasta el ángulo. Ventajas: sin cicatriz externa, menor riesgo del nervio facial, menor disección. Limitaciones: acceso restringido a la rama posterior y al cóndilo, e incapacidad para aplicar placas linguales sin acceso adicional. Utilizado para: sínfisis, parasínfisis, cuerpo y fracturas de ángulo.\n\n**Abordaje submandibular (Hinds)**: Incisión de 1,5–2 cm paralela al borde inferior de la mandíbula, 2 cm por debajo de él. Acceso a las superficies inferior y lateral de la mandíbula desde la sínfisis hasta el ángulo. Nervio en riesgo: rama marginal mandibular del VII par craneal. Utilizado para: fracturas de cuerpo y ángulo que requieren acceso al borde inferior, especialmente para segundas placas o placas grandes/de reconstrucción.\n\n**Abordaje retromandibular**: Posterior a la rama mandibular, proporcionando acceso a la rama posterior y la región condilar (descrito en D3). Utilizado para RAFI subcondílea y del cuello condilar.\n\n**Abordaje preauricular**: Proporciona acceso a la cabeza condilar y el cuello condilar alto.\n\n**Abordaje transcervical (cuello inferior)**: Para acceso a toda la mandíbula posterior en traumatismos panfaciales complejos — raramente empleado en fracturas mandibulares aisladas.\n\nPara la fijación intraoral de fracturas de ángulo mediante la técnica de Champy, la técnica del trócar-destornillador permite la aplicación de la placa y la colocación del tornillo a través de una sola incisión vestibular intraoral, guiada por instrumentos transbucales pasados a través de una pequeña incisión de punción en la mejilla (para permitir la colocación perpendicular del tornillo). El trócar transbucal evita una incisión extraoral directa manteniendo el ángulo necesario para la colocación del tornillo en el ángulo."
+        },
+        {
+          "type": "table",
+          "title": "Abordajes Quirúrgicos para RAFI Mandibular: Correspondencia Localización-Abordaje",
+          "headers": ["Localización de Fractura", "Abordaje Preferido", "Nervio en Riesgo", "Notas"],
+          "rows": [
+            ["Sínfisis", "Vestíbulo labial transoral", "Marginal mandibular (cuidado con la retracción)", "Dos placas; evitar el nervio mentoniano"],
+            ["Parasínfisis", "Transoral", "Nervio mentoniano, marginal mandibular", "Dos placas; identificar y proteger el nervio mentoniano"],
+            ["Cuerpo", "Transoral ± submandibular (2ª placa)", "Nervio mentoniano, marginal mandibular", "Frecuentemente necesarias dos placas"],
+            ["Ángulo", "Transoral (Champy) ± submandibular", "Marginal mandibular (extraoral)", "Placa única en la línea oblicua externa para la técnica de Champy"],
+            ["Rama (alta)", "Retromandibular", "División inferior del VII par craneal", "RAFI poco frecuente; habitualmente conservador"],
+            ["Cuello condilar", "Retromandibular o preauricular", "VII par craneal temporal/bucal", "Dos miniplacas; ver D3"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2-S4",
+      "title": "Dientes en el Trazo de Fractura",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El manejo de los dientes en el trazo de una fractura mandibular es una decisión crítica. Los dientes proporcionan referencias importantes para establecer la correcta oclusión, contribuyen al stock óseo que soporta el material de fijación y pueden facilitar la fijación intermaxilar. Sin embargo, los dientes en el trazo de fractura pueden aumentar el riesgo de infección al proporcionar una comunicación directa entre el entorno rico en bacterias de la cavidad oral y el foco de fractura a través del ligamento periodontal — lo que convierte prácticamente en 'abierta' la mayoría de las fracturas mandibulares en pacientes dentados.\n\nFactores favorables para la **conservación del diente** en el trazo de fractura: diente vital sin patología periapical, el diente proporciona una referencia oclusal esencial o fijación (p. ej., tercer molar en un segmento edéntulo), la raíz del diente proporciona stock óseo para la sujeción del tornillo, y no hay movilidad grosera del diente.\n\nFactores favorables para la **extracción del diente** en el trazo de fractura: diente no vital (pulpa necrótica), absceso periapical o enfermedad periodontal avanzada, movilidad grosera (raíz fracturada o avulsionada), el diente impide la correcta reducción de la fractura, y cordales profundamente incluidos (especialmente en el ángulo, donde aumentan significativamente el riesgo de infección).\n\nLa evidencia (revisión sistemática de Ellis 1994, J Oral Maxillofac Surg) muestra que conservar dientes viables en el trazo de fracturas de ángulo no aumenta significativamente las tasas de infección en comparación con la extracción, siempre que se administre profilaxis antibiótica adecuada y el diente no esté infectado. Sin embargo, los terceros molares profundamente incluidos, no erupcionados, en el trazo de fracturas de ángulo se asocian a tasas de infección significativamente más altas cuando se conservan, y la posición actual de la EACMFS favorece su extracción durante la RAFI en la mayoría de los casos. Todos los dientes conservados en el trazo de fractura requieren tratamiento endodóntico si es probable la afectación pulpar.\n\nProfilaxis antibiótica para RAFI mandibular: penicilina preoperatoria (ampicilina/sulbactam o amoxicilina-ácido clavulánico) y un ciclo postoperatorio de 5 días son práctica estándar, reflejando el carácter 'abierto' de la mayoría de las fracturas mandibulares en pacientes dentados."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Diente en el Trazo de Fractura — Tercer Molar del Ángulo Mandibular",
+          "content": "Un tercer molar mandibular profundamente incluido en el trazo de fractura de ángulo se asocia específicamente a tasas de infección postoperatoria significativamente más altas cuando se conserva. La recomendación de la EACMFS 2021 es EXTRAER el tercer molar en el trazo de fractura en la mayoría de los casos de RAFI de fracturas de ángulo, especialmente cuando el diente está incluido, no es vital o contribuye a la no reducción de la fractura. La excepción es un tercer molar completamente erupcionado, vital, no móvil que ayuda a mantener la reducción de la fractura — este puede conservarse con un seguimiento estrecho."
+        }
+      ]
+    },
+    {
+      "id": "E2-S5",
+      "title": "Manejo de las Fracturas Mandibulares en el Paciente Edéntulo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas de la mandíbula edéntula presentan desafíos específicos en el manejo. A medida que la mandíbula se reabsorbe tras la pérdida dental, el nervio alveolar inferior se desplaza progresivamente hacia la cresta de la cresta alveolar (en la atrofia Cawood-Howell Clase V–VI, el nervio puede situarse en la propia cresta). La reducida altura y anchura óseas implica:\n1. La FIM es imposible o no fiable (sin dientes para arcos)\n2. El stock óseo está gravemente reducido, limitando la sujeción de los tornillos y aumentando el riesgo de fallo de la fijación\n3. La posición del nervio alveolar inferior está en la cresta — con riesgo extremadamente alto durante la manipulación de la fractura\n4. La cicatrización está comprometida por la osteoporosis, la escasa vascularización y las comorbilidades frecuentes (pacientes de edad avanzada)\n\nPrincipios de tratamiento para fracturas de mandíbula edéntula:\n- El **manejo conservador** (dieta blanda, analgésicos) es apropiado para fracturas no desplazadas o mínimamente desplazadas en pacientes de edad avanzada con comorbilidades médicas significativas y función aceptable.\n- La **RAFI con placa de reconstrucción** (sistema de 2,4 mm) es el estándar de referencia para fracturas desplazadas. La placa de reconstrucción abarca todo el foco de fractura y proporciona estabilidad absoluta. Debe colocarse en el borde inferior e idealmente fijarse con tornillos bicorticales. El sistema de placa de reconstrucción de bloqueo AO/Synthes de 2,4 mm proporciona rigidez adecuada para las fracturas de mandíbula edéntula.\n- Las prótesis dentales pueden utilizarse como guías de referencia oclusal y plantillas de estabilización durante la RAFI.\n- Las fracturas sinfisarias y parasinfisarias en mandíbulas edéntulas pueden manejarse con una sola placa de reconstrucción (a diferencia de los pacientes dentados donde bastan dos miniplacas), debido al escaso stock óseo.\n- En el paciente muy anciano o médicamente no apto, el manejo conservador incluso con cierto desplazamiento puede ser aceptable, asumiendo cierto grado de deformidad residual en favor de evitar el riesgo anestésico."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Nervio Alveolar Inferior en Mandíbula Atrófica",
+          "content": "En la atrofia mandibular grave (Cawood-Howell Clase V–VI), el nervio alveolar inferior puede emerger en la propia cresta alveolar. Durante la manipulación de fracturas mandibulares atróficas — incluso en intentos conservadores de reducir la fractura — el nervio puede comprimirse, estirarse o avulsionarse. Esta lesión nerviosa yatrogénica en una situación ya difícil añade una morbilidad significativa. La CBCT es esencial antes de cualquier manejo quirúrgico para identificar la posición del nervio en relación con la fractura. Informar al paciente del riesgo de lesión nerviosa antes de cualquier intervención."
+        }
+      ]
+    },
+    {
+      "id": "E2-S6",
+      "title": "Complicaciones de las Fracturas Mandibulares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones de las fracturas mandibulares pueden ser precoces (perioperatorias) o tardías (semanas a meses).\n\n**Infección**: La complicación más frecuente, que ocurre en el 5–12% de los casos de RAFI. La infección en el foco de fractura del ángulo supone la mayoría. Manifestaciones clínicas: dolor, inflamación, trismo, secreción purulenta alrededor de las placas/tornillos o a través de un trayecto fistuloso. Manejo: antibióticos, irrigación, frecuentemente extracción de la placa (en general, las placas deben retirarse cuando la infección está establecida — el material es un cuerpo extraño que perpetúa la infección, y la fractura debe estar suficientemente consolidada a las 6–8 semanas para permitir la retirada de la placa sin pérdida de reducción).\n\n**Pseudoartrosis**: Definida como el fracaso de la consolidación ósea a los 4–6 meses. Factores predisponentes: infección, fijación deficiente, hueso desvascularizado, desnutrición, osteoporosis, hueso irradiado y comorbilidades médicas significativas. Tratamiento: resección del tejido fibroso de la pseudoartrosis, injerto óseo (cresta ilíaca autóloga o injerto en bloque), y fijación rígida con placa de reconstrucción.\n\n**Consolidación viciosa**: Consolidación ósea en una posición anatómica incorrecta, típicamente con maloclusión. Causas: reducción inadecuada en la RAFI primaria, fallo precoz de la placa, o presentación diferida. Tratamiento: osteotomía en el foco de la consolidación viciosa, reducción y nueva fijación. La osteotomía secundaria es técnicamente más exigente que la reparación primaria.\n\n**Lesión del nervio alveolar inferior**: La lesión del NAI que produce entumecimiento del labio inferior y el mentón (anestesia, hipoestesia, parestesia) es frecuente en las fracturas parasinfisarias y del cuerpo donde el nervio se encuentra en el trazo de fractura. Manejo: documentar el estado neurológico basal antes y después de la cirugía; las lesiones de Sunderland Grado I–II se recuperan típicamente en semanas a meses; el Grado IV–V requiere reparación nerviosa si se confirma en la exploración.\n\n**Osteomielitis**: Puede desarrollarse a partir de una pseudoartrosis infectada o de una infección postoperatoria tratada de forma inadecuada. Requiere sequestrectomía quirúrgica, decorticación y antibioterapia prolongada."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones de la RAFI de Fracturas Mandibulares: Factores de Riesgo, Prevención, Manejo",
+          "headers": ["Complicación", "Incidencia", "Factores de Riesgo", "Manejo"],
+          "rows": [
+            ["Infección", "5-12% global; 20-30% en ángulo", "Cordal incluido en el trazo; reparación diferida; consumo elevado de alcohol", "Antibióticos; drenaje; retirada de placa a las 6-8 semanas si está relacionada con el material"],
+            ["Pseudoartrosis", "1-3%", "Infección; fijación deficiente; osteoporosis; irradiación", "Injerto óseo + placa de reconstrucción rígida"],
+            ["Consolidación viciosa", "2-5%", "Reducción primaria inadecuada; fallo precoz de la placa", "Osteotomía secundaria y nueva fijación"],
+            ["Neuropraxia del NAI", "15-25%", "Fracturas del cuerpo/parasínfisis; retracción quirúrgica", "Observación; recuperación esperada en meses"],
+            ["Palpabilidad/exposición de placa", "3-8%", "Partes blandas delgadas sobre la placa; placas de titanio", "Retirada de placa tras la consolidación de la fractura"],
+            ["Osteomielitis", "<2%", "Infección no tratada; hueso irradiado", "Sequestrectomía + antibioterapia prolongada"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2-S7",
+      "title": "Técnicas de Fijación Intermaxilar",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La fijación intermaxilar (FIM) se emplea en el manejo de fracturas mandibulares para establecer y mantener la oclusión correcta durante y después de la RAFI, y como tratamiento único en fracturas estables no desplazadas seleccionadas. Las técnicas incluyen:\n\n**Arcos de Erich**: Barras de acero inoxidable adaptadas al arco dental y ligadas a cada diente con alambre de acero inoxidable del calibre 24. Proporcionan FIM fiable, pero son técnicamente exigentes, requieren mucho tiempo de colocación y se asocian a lesión periodontal y dificultades de higiene. Siguen siendo el estándar de referencia para fracturas complejas que requieren FIM prolongada.\n\n**Tornillos de FIM**: Tornillos de titanio bicorticales colocados entre las raíces dentales en el hueso alveolar, con gomas o alambres que conectan los tornillos superiores e inferiores. Más rápidos de colocar y retirar que los arcos de Erich. Adecuados para fracturas simples que requieren FIM temporal durante la RAFI. Riesgo: aflojamiento del tornillo, lesión de raíces dentales y fuerza limitada en comparación con los arcos. Contraindicados en pacientes con longitud radicular limitada o raíces muy próximas entre sí.\n\n**Alambres de Risdon**: Haces de alambre trenzado alrededor de los dientes de forma circunferencial — en gran medida sustituidos por los arcos de Erich y los tornillos de FIM en la mayoría de los centros.\n\n**Fijación maxilomandibular (FMM)**: Utilizado de forma intercambiable con FIM — hace referencia al alambrado conjunto del maxilar y la mandíbula. En la RAFI, la FIM se aplica típicamente al inicio para establecer la referencia oclusal, se colocan las placas con las mandíbulas alambradas juntas, y luego se libera la FIM para evaluar la oclusión antes del cierre de la herida. La **FIM postoperatoria** solo se requiere en casos seleccionados: fracturas bilaterales complejas, reparaciones en pacientes edéntulos y fijaciones débiles — no se usa de forma rutinaria después de una RAFI estable."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "FIM y Vía Aérea — Seguridad Postoperatoria",
+          "content": "Los pacientes con alambres de FIM postoperatoria DEBEN tener cortaalambres inmediatamente disponibles en la cabecera y en un lugar visible y accesible. Si el paciente vomita, los alambres deben cortarse de inmediato para prevenir la aspiración. El personal de enfermería y el personal del pabellón deben ser instruidos sobre este requisito antes de que el paciente abandone la sala de recuperación. En la práctica moderna, se evita la FIM postoperatoria prolongada cuando es posible — la RAFI con fijación estable permite la movilización precoz y elimina este riesgo de aspiración."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre fracturas mandibulares con 20 preguntas tipo MIR.",
+    "questions": [
+      {
+        "id": "E2-Q1",
+        "stem": "Según el principio de osteosíntesis de Champy, ¿cuántas miniplacas se requieren para una fijación adecuada de una fractura mandibular parasinfisaria?",
+        "options": {
+          "A": "Una placa en el borde inferior",
+          "B": "Una placa en el borde superior por encima del agujero mentoniano",
+          "C": "Dos placas: una en el borde inferior y una en la región canino-premolar superior al agujero mentoniano",
+          "D": "Tres placas: borde inferior, cuerpo medio y borde superior"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La región parasinfisaria experimenta tanto fuerzas de flexión como fuerzas de torsión durante la función mandibular. Una sola placa solo resiste un plano de fuerzas. La técnica de dos placas de Champy para la sínfisis/parasínfisis aborda ambas: una placa en el borde inferior (resiste la flexión) y una placa en la región del canino/premolar justo superior al agujero mentoniano (resiste la torsión/apertura de la cortical lingual). Utilizar solo una placa en esta localización produce apertura lingual e incorrección de la reducción. Este es uno de los principios de Champy más frecuentemente evaluados.",
+          "wrong": {
+            "A": "Una sola placa en el borde inferior no aborda las fuerzas de torsión y produce apertura lingual.",
+            "B": "Una sola placa superior no aborda las fuerzas de flexión en el borde inferior y proporciona una estabilidad general inadecuada.",
+            "D": "No se requieren tres placas — el principio de Champy especifica dos placas para la parasínfisis."
+          },
+          "guideline": "Champy M et al. Mandibular osteosynthesis by miniature screwed plates via a buccal approach. J Maxillofac Surg (1978) — parasínfisis: dos placas obligatorias para la estabilidad torsional",
+          "trial": "Champy M et al. J Maxillofac Surg (1978): el análisis biomecánico demostró que la técnica de dos placas para la sínfisis/parasínfisis es superior a la de una sola placa en la prevención de la apertura lingual; validado en serie clínica de 250 fracturas",
+          "pearl": "Champy parasínfisis = DOS PLACAS. Placa de borde inferior + placa de borde superior (sobre agujero mentoniano). Motivo: las fuerzas de torsión causan apertura lingual que una sola placa no puede resistir. Este es el principio de Champy más evaluado."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q2",
+        "stem": "En el ángulo mandibular, la línea ideal de osteosíntesis de Champy se encuentra en:",
+        "options": {
+          "A": "El borde inferior del ángulo mandibular",
+          "B": "La línea oblicua externa en la superficie superior de la unión ramo-ángulo",
+          "C": "La superficie medial de la rama",
+          "D": "Los bordes superior e inferior simultáneamente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para el ángulo mandibular, Champy definió la línea ideal de osteosíntesis como la línea oblicua externa (linea obliqua) — una cresta ósea en la superficie superior-lateral de la rama en la región del ángulo, que corresponde a la cresta oblicua externa. Una sola miniplaca colocada a lo largo de esta cresta proporciona fijación adecuada para la mayoría de las fracturas de ángulo mediante un abordaje transoral. Esta línea corresponde a la zona de tensión del ángulo mandibular durante la masticación. Una sola placa aquí más las fuerzas compresivas en el borde inferior proporciona estabilidad adecuada.",
+          "wrong": {
+            "A": "El borde inferior del ángulo es la zona compresiva — colocar una sola placa aquí es inadecuado ya que no aborda la zona de tensión superior.",
+            "C": "La superficie medial (lingual) de la rama es inaccesible por abordaje intraoral y no es la localización estándar de la placa.",
+            "D": "Dos placas se recomiendan para sínfisis/parasínfisis, no para el ángulo. El principio de Champy para el ángulo es una placa en la línea oblicua externa."
+          },
+          "guideline": "Champy M et al. J Maxillofac Surg (1978) — fractura de ángulo: placa única en la línea oblicua externa (linea obliqua) por abordaje transoral",
+          "trial": "Ellis E, Walker LR. Treatment of mandibular angle fractures using a plate and screw fixation. J Oral Maxillofac Surg (1994): placa única de Champy en la línea oblicua externa: tasa de éxito del 88%; tasa de infección del 8% en fracturas de ángulo",
+          "pearl": "Champy ángulo = placa ÚNICA en la LÍNEA OBLICUA EXTERNA (linea obliqua). Superficie superior del ángulo por abordaje intraoral. Este es el principio de Champy definitorio para las fracturas de ángulo. Las fuerzas de compresión en el borde inferior complementan la resistencia a la tracción de la placa."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q3",
+        "stem": "Un varón de 28 años sufre una fractura del cuerpo mandibular. La valoración preoperatoria revela un segundo premolar inferior no vital en el trazo de fractura con absceso periapical. ¿Qué debe hacerse con este diente?",
+        "options": {
+          "A": "Conservar el diente y manejar el absceso solo con antibióticos",
+          "B": "Conservar el diente para mantener el stock óseo para la fijación con placa",
+          "C": "Extraer el diente antes o durante la RAFI",
+          "D": "Realizar tratamiento de conductos 2 semanas después de la RAFI"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Un diente no vital con absceso periapical en el trazo de fractura es una indicación clara de extracción. El diente infectado proporciona un reservorio bacteriano que infectará el foco de fractura, aumentando drásticamente el riesgo de infección postoperatoria, pseudoartrosis y osteomielitis. Conservar un diente infectado en el trazo de fractura está universalmente contraindicado. El diente debe extraerse antes o durante la RAFI. Aunque el diente proporcione teóricamente stock óseo útil para la sujeción de la placa, este beneficio queda completamente superado por el riesgo de infección.",
+          "wrong": {
+            "A": "Los antibióticos por sí solos no pueden erradicar la infección cuando persiste la fuente (diente no vital). El diente infectado debe extraerse.",
+            "B": "Mantener el stock óseo es una consideración para los dientes vitales no infectados en el trazo de fractura — no para los dientes infectados con abscesos periapicales.",
+            "D": "El tratamiento de conductos 2 semanas después de la RAFI no es apropiado cuando hay un absceso periapical activo en el momento de la cirugía. La infección comprometerá la cicatrización."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — dientes en el trazo de fractura: los dientes infectados y no vitales con patología periapical deben extraerse",
+          "trial": "Ellis E. A prospective study of the effect of tooth in the line of mandibular fractures. J Oral Maxillofac Surg (2002): la conservación de dientes infectados/no vitales aumentó la tasa de infección del 7% al 24%; la patología periapical = extracción obligatoria",
+          "pearl": "Decisión sobre el diente en el trazo de fractura: EXTRAER si: (1) no vital/absceso periapical, (2) movilidad grosera (raíz fracturada), (3) cordal incluido en fractura de ángulo, (4) impide la correcta reducción. CONSERVAR si: vital, no infectado, sin movilidad y ayuda a mantener la reducción. El riesgo de infección es el factor determinante principal."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q4",
+        "stem": "La rama marginal mandibular del nervio facial (VII par craneal) presenta mayor riesgo durante qué abordaje quirúrgico a la mandíbula?",
+        "options": {
+          "A": "Abordaje transoral (intraoral) vestibular a la sínfisis",
+          "B": "Abordaje submandibular al ángulo y cuerpo mandibular",
+          "C": "Abordaje transoral al ángulo mandibular",
+          "D": "Abordaje preauricular al cóndilo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La rama marginal mandibular del nervio facial discurre a lo largo del borde inferior de la mandíbula, cruzando la arteria y vena faciales, y entra en la región submandibular antes de distribuirse en los músculos depresor del ángulo de la boca, depresor del labio inferior y mentoniano. El abordaje submandibular requiere una incisión y disección en esta región, exponiendo directamente la rama marginal mandibular. La lesión provoca sonrisa asimétrica (incapacidad para deprimir la comisura) y debilidad del labio. El nervio debe identificarse (o respetar su plano de paso) durante la disección del abordaje submandibular.",
+          "wrong": {
+            "A": "El abordaje transoral a la sínfisis permanece intraoralemente, por encima del nervio marginal mandibular. El nervio solo está en riesgo por retracción profunda, no por lesión directa.",
+            "C": "El abordaje transoral al ángulo utiliza incisiones vestibulares bucales — el nervio marginal mandibular está por debajo del borde inferior y no está directamente en el campo transoral.",
+            "D": "El abordaje preauricular pone en riesgo la rama TEMPORAL del VII par craneal, no la marginal mandibular."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — abordaje submandibular: rama marginal mandibular del VII par craneal en riesgo; permanecer superficial al platisma hasta identificar el nervio",
+          "trial": "Hinds EC, Girotti WJ. Lateral facial approach to the mandible and temporomandibular joint. J Oral Surg (1967) — descripción original del abordaje submandibular; la protección del nervio marginal mandibular requiere una incisión ≥2 cm por debajo del borde inferior",
+          "pearl": "Abordaje submandibular (Hinds) → rama MARGINAL MANDIBULAR del VII par craneal en riesgo. Incisión 1,5-2 cm POR DEBAJO del borde inferior mandibular (por debajo de la trayectoria del nervio). Si se corta la rama marginal → sonrisa asimétrica, debilidad en la depresión labial. La mayoría son transitorias (neuropraxia); lesión permanente <3%."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q5",
+        "stem": "Una fractura de ángulo mandibular favorable es aquella en la que:",
+        "options": {
+          "A": "El trazo de fractura discurre de anterosuperior a posteroinferior, por lo que los músculos elevadores tienden a comprimir la fractura",
+          "B": "El trazo de fractura discurre de posterosuperior a anteroinferior, por lo que los músculos depresores tienden a distanciar los fragmentos",
+          "C": "La fractura no implica ningún diente en el trazo",
+          "D": "La fractura está aislada al cuerpo mandibular sin afectación del ángulo"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Una fractura favorable es aquella en la que la acción muscular tiende a COMPRIMIR (reducir, mantener la aposición de) los fragmentos de fractura en lugar de distanciarlos. En el ángulo mandibular, una fractura que discurre de anterosuperior a posteroinferior significa que el masetero y el pterigoideo medial (músculos elevadores que se insertan en el ángulo y la rama) traccionan el fragmento posterior hacia arriba y adelante — hacia el fragmento anterior — creando una fuerza compresiva que estabiliza la fractura. Una fractura desfavorable discurre en la dirección opuesta, donde la tracción muscular distancia los fragmentos.",
+          "wrong": {
+            "B": "Esto describe un patrón de fractura DESFAVORABLE donde los músculos depresores distancian los fragmentos — lo opuesto de favorable.",
+            "C": "La ausencia de dientes en el trazo de fractura se relaciona con la planificación del tratamiento (fractura Clase III), pero no define la favorabilidad.",
+            "D": "La afectación del cuerpo mandibular define la localización de la fractura, no la favorabilidad."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) y clasificación de Spiessl — favorable frente a desfavorable según la dirección de la tracción muscular en relación con la orientación del trazo de fractura",
+          "trial": "Spiessl B. Internal Fixation of the Mandible (1989): clasificación de favorable frente a desfavorable basada en el análisis del vector muscular; las fracturas desfavorables tienen mayor riesgo de desplazamiento y pseudoartrosis",
+          "pearl": "FAVORABLE = las fuerzas musculares COMPRIMEN la fractura (estable sin desplazamiento). DESFAVORABLE = las fuerzas musculares DISTANCIAN la fractura (inestable, requiere RAFI). Para el ángulo: orientación anterosuperior a posteroinferior = favorable (maseteros comprimen). Posterosuperior a anteroinferior = desfavorable (los músculos distancian)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q6",
+        "stem": "¿Cuál es la localización más frecuente de infección postoperatoria tras la RAFI de fractura mandibular?",
+        "options": {
+          "A": "Sínfisis",
+          "B": "Cuerpo mandibular",
+          "C": "Ángulo mandibular",
+          "D": "Cuello condilar"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El ángulo mandibular es el lugar más frecuente de infección postoperatoria tras la RAFI, con tasas de infección notificadas del 15–30% en algunas series frente al 5–12% global para la RAFI mandibular. Factores contribuyentes específicos del ángulo: (1) el tercer molar mandibular (si está presente) se encuentra frecuentemente en el trazo de fractura, proporcionando una vía directa de contaminación bacteriana; (2) la cortical delgada del ángulo proporciona escaso contacto placa-hueso y sujeción de tornillos; (3) el ángulo es una localización biomecánicamente exigente con fuertes fuerzas de torsión; y (4) el tejido blando es más delgado sobre el ángulo.",
+          "wrong": {
+            "A": "Las fracturas de sínfisis tienen tasas de infección más bajas porque la región sinfisaria tiene buen aporte sanguíneo y el tejido blando habitualmente es más robusto.",
+            "B": "Las fracturas del cuerpo tienen tasas de infección moderadas pero inferiores a las del ángulo.",
+            "D": "La RAFI del cuello condilar tiene como preocupación principal la lesión del nervio facial, no la infección."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — fractura de ángulo: mayor tasa de infección post-RAFI; extracción del tercer molar recomendada",
+          "trial": "Ellis E, Walker LR. Treatment of mandibular angle fractures. J Oral Maxillofac Surg (1994): tasa de infección de fractura de ángulo del 20% cuando se conserva el tercer molar incluido frente al 7% cuando se extrae; el ángulo tiene la mayor tasa de infección de todas las localizaciones mandibulares",
+          "pearl": "ÁNGULO = mayor tasa de infección post-RAFI (15-30%). Causa principal: tercer molar incluido en el trazo de fractura. Solución: extraer el tercer molar en la RAFI. Segunda causa: el ángulo tiene cortical delgada y alto estrés. Esta es la complicación más evaluada de la RAFI mandibular."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q7",
+        "stem": "Una mujer edéntula de 70 años con atrofia mandibular grave (altura de 5 mm en el foco de fractura) sufre una fractura del cuerpo desplazada. ¿Qué sistema de fijación es el más apropiado?",
+        "options": {
+          "A": "Dos miniplacas de 2,0 mm (técnica de Champy)",
+          "B": "FIM prolongada con un bloque de mordida fabricado a medida",
+          "C": "Placa de reconstrucción de bloqueo de 2,4 mm que abarca la fractura",
+          "D": "Injerto óseo primario de cresta ilíaca autóloga y fijación con miniplaca"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "En una mandíbula gravemente atrófica (5 mm de altura), el escaso stock óseo no permite una sujeción adecuada de los tornillos de las miniplacas y proporciona insuficiente hueso para las fuerzas compresivas que complementan la fijación con miniplaca en la técnica de Champy. Una placa de reconstrucción de bloqueo de 2,4 mm que abarca todo el foco de fractura (frecuentemente de ángulo a ángulo en mandíbulas muy atróficas) proporciona fijación portante de carga independiente de la calidad ósea. Los tornillos de bloqueo se enganchan a la rosca de la placa en lugar de comprimir el hueso, haciéndolos ideales para hueso osteoporótico. Este abordaje de 'placa puente' sortea el foco de fractura y proporciona estabilidad a través de la propia placa rígida.",
+          "wrong": {
+            "A": "Dos miniplacas de 2,0 mm requieren stock óseo adecuado para la sujeción de tornillos y el contacto cortical. Con solo 5 mm de altura ósea, los tornillos no se enganchan adecuadamente y el fallo de la placa es probable.",
+            "B": "La FIM requiere dientes o puntos de fijación fiables anclados en hueso — ninguno disponible. El manejo conservador es una opción para pacientes médicamente muy precarios, pero no es la respuesta cuando la RAFI es factible.",
+            "D": "El injerto óseo primario es apropiado para fracturas conminutas con pérdida ósea, no para una fractura simple desplazada. Añadir un injerto a una fractura atrófica aumenta innecesariamente la morbilidad quirúrgica."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — mandíbula edéntula atrófica: placa de reconstrucción de bloqueo (2,4 mm) recomendada; miniplacas inadecuadas para hueso gravemente atrófico",
+          "trial": "Luhr HG et al. Correction of mandibular deformities with dynamic compression plates. J Maxillofac Surg (1982): la placa de reconstrucción para la mandíbula atrófica reduce la tasa de pseudoartrosis del ~40% a <10%",
+          "pearl": "Fractura de mandíbula edéntula atrófica = PLACA DE RECONSTRUCCIÓN DE BLOQUEO (2,4 mm). Por qué: sin stock óseo para sujeción de tornillos de miniplacas. Tornillos de bloqueo = se enganchan a la rosca de la placa, no al hueso = funciona en hueso osteoporótico/atrófico. Placa de reconstrucción = portante de carga, puentea la fractura de forma independiente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q8",
+        "stem": "Un paciente 3 semanas después de la RAFI de una fractura del cuerpo mandibular presenta dolor creciente, inflamación y secreción purulenta de la herida. La radiografía muestra el material en su sitio con signos de osteólisis alrededor de los tornillos. ¿Cuál es el manejo apropiado?",
+        "options": {
+          "A": "Prescribir antibióticos orales durante 6 semanas y revisión radiológica",
+          "B": "Irrigar la herida y añadir una segunda placa para mayor estabilización",
+          "C": "Retirar el material infectado, desbridar la herida, prescribir antibióticos y reevaluar a las 6-8 semanas si la fractura ha consolidado",
+          "D": "Realizar injerto óseo inmediato para rellenar el defecto osteolítico"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La infección establecida del material con osteólisis alrededor de los tornillos es una infección relacionada con la placa que requiere retirada del material. La placa infectada actúa como cuerpo extraño que perpetúa la infección — los antibióticos solos son ineficaces cuando hay un cuerpo extraño en un campo infectado. El principio de manejo: retirar el material, desbridar el tejido infectado, irrigar, cultivar y prescribir antibióticos dirigidos. Reevaluar a las 6–8 semanas (momento en que la fractura habitualmente ha consolidado lo suficiente si la fijación original proporcionó suficiente estabilidad) — si la fractura no ha consolidado, puede entonces ser necesaria fijación adicional o injerto óseo. A las 3 semanas post-RAFI, la fractura ha tenido habitualmente suficiente cicatrización como para que la retirada del material no la desestabilice de inmediato.",
+          "wrong": {
+            "A": "Los antibióticos solos para la infección establecida del material con osteólisis no lograrán la resolución. El material es un cuerpo extraño que debe retirarse para que la infección se resuelva.",
+            "B": "Añadir una segunda placa en un campo infectado está contraindicado — el material adicional en presencia de infección empeora la situación.",
+            "D": "El injerto óseo en un foco de infección activa está contraindicado — el injerto será reabsorbido e infectado. Injertar solo tras la resolución de la infección."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — infección establecida de placa con osteólisis: retirada del material + desbridamiento + antibióticos; injerto diferido hasta resolución de la infección",
+          "trial": "Mathog RH et al. Nonunion of the mandible: an analysis of contributing factors. J Oral Maxillofac Surg (1988): la retirada de la placa por infección del material seguida de manejo conservador resolvió la infección en el 89% de los casos; nueva fijación inmediata no recomendada",
+          "pearl": "Placa mandibular infectada con osteólisis = RETIRAR MATERIAL + DESBRIDAR + ANTIBIÓTICOS. La placa es un cuerpo extraño que perpetúa la infección. A las 6-8 semanas, la fractura habitualmente es suficientemente estable como para no requerir nueva fijación inmediata. Si persiste pseudoartrosis tras la resolución de la infección → injerto óseo + placa de reconstrucción."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q9",
+        "stem": "¿Qué localización de fractura mandibular se asocia con mayor frecuencia a la lesión del nervio alveolar inferior?",
+        "options": {
+          "A": "Cabeza condilar",
+          "B": "Ángulo mandibular",
+          "C": "Parasínfisis y cuerpo mandibular",
+          "D": "Apófisis coronoides"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El nervio alveolar inferior (NAI) discurre por el canal alveolar inferior desde el agujero mandibular a través del cuerpo mandibular hasta salir por el agujero mentoniano como nervio mentoniano. Las fracturas parasinfisarias y del cuerpo afectan directamente al segmento mandibular que contiene el canal del NAI, lo que hace frecuente la lesión del NAI (que produce entumecimiento del labio inferior y el mentón) en estas localizaciones. El nervio está especialmente en riesgo durante la propia fractura y durante la reducción quirúrgica y la colocación de la placa en la región del cuerpo y parasinfisaria.",
+          "wrong": {
+            "A": "Las fracturas de la cabeza condilar pueden producir hemartrosis y disfunción de la ATM, pero no afectan directamente al canal del NAI.",
+            "B": "La fractura de ángulo es posterior al agujero mentoniano — afecta al segmento del canal del NAI posterior a la salida del nervio, pero se asocia menos frecuentemente a una pérdida sensitiva clínicamente significativa del NAI en comparación con las fracturas del cuerpo/parasínfisis.",
+            "D": "La apófisis coronoides es superior al canal mandibular y no afecta al NAI."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — lesión del NAI más frecuente en fracturas parasinfisarias/del cuerpo; documentar la función sensitiva pre y postoperatoria",
+          "trial": "Laster Z et al. Inferior alveolar nerve injury in mandibular fractures. J Oral Maxillofac Surg (2007): lesión del NAI documentada en el 42% de las fracturas parasinfisarias y en el 31% de las fracturas del cuerpo; la mayoría Sunderland Grado I–II con recuperación espontánea",
+          "pearl": "Lesión del NAI = más frecuente en PARASÍNFISIS y CUERPO (el NAI discurre directamente por la zona de fractura). Documentar la sensibilidad basal ANTES de la cirugía (para distinguir lesión preexistente de lesión quirúrgica). La mayoría de las lesiones del NAI son neuropraxia (Grado I-II) con recuperación espontánea en meses."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q10",
+        "stem": "Al utilizar tornillos de FIM (en lugar de arcos de Erich) para la fijación intermaxilar temporal durante la RAFI, ¿qué complicación específica es importante advertir a los pacientes?",
+        "options": {
+          "A": "Anquilosis permanente de la ATM",
+          "B": "Lesión radicular por tornillos mal dirigidos",
+          "C": "Fallo de placa que requiere cirugía de revisión",
+          "D": "Formación de sialocelio parotídeo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los tornillos de FIM se colocan bicorticalmente en el hueso alveolar entre las raíces dentales en el maxilar y la mandíbula. La complicación específica principal es la lesión de la raíz dental por tornillos mal dirigidos — si el tornillo se coloca sin un conocimiento adecuado de las posiciones de las raíces (idealmente confirmadas mediante OPG), puede penetrar en una raíz, causando una fractura o perforación radicular irreversible. Este riesgo es especialmente alto en áreas con raíces muy próximas, dientes de raíz corta o extracciones previas que han alterado el espaciado radicular. Los tornillos de FIM están contraindicados en pacientes con altura alveolar limitada o raíces muy próximas entre sí.",
+          "wrong": {
+            "A": "La anquilosis de la ATM se asocia con la duración prolongada de la FIM o con hemartrosis intraarticular — no específicamente con los tornillos de FIM frente a los arcos de Erich.",
+            "C": "El fallo de placa es una complicación de la fijación RAFI, no específicamente de los tornillos de FIM.",
+            "D": "El sialocelio parotídeo resulta de la lesión del conducto o la glándula parotídea durante los abordajes quirúrgicos — no relacionado con los tornillos de FIM."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tornillos de FIM: la lesión radicular dental es una complicación específica; se recomienda verificar las posiciones radiculares con OPG antes de la colocación",
+          "trial": "Fabbroni G et al. IMF screws for mandibular fractures. Br J Oral Maxillofac Surg (2000): tasa de lesión radicular del 1,2% con tornillos de FIM; reducción significativa del riesgo con revisión previa de la OPG",
+          "pearl": "Tornillos de FIM: complicación específica = LESIÓN RADICULAR DENTAL. Colocar entre raíces, no en ellas. OPG o CBCT para identificar las posiciones radiculares antes de la colocación. Contraindicados en pacientes con raíces muy próximas, raíces cortas o hueso alveolar gravemente atrófico."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q11",
+        "stem": "¿Qué hallazgo clínico es más indicativo de una fractura mandibular, independientemente de la localización específica?",
+        "options": {
+          "A": "Trismo (apertura oral limitada)",
+          "B": "Cambio en la oclusión (maloclusión)",
+          "C": "Sensibilidad a la palpación bimanual",
+          "D": "Pericoronaritis alrededor del tercer molar inferior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un cambio en la oclusión (maloclusión — el paciente refiere que los dientes no encajan como antes) es el indicador clínico más específico y sensible de fractura mandibular. El papel de la mandíbula como una de las mandíbulas de la articulación dental implica que CUALQUIER desplazamiento de cualquier fragmento mandibular cambia la relación oclusal. Los pacientes casi universalmente refieren que su oclusión se 'siente diferente' tras una fractura mandibular. Este síntoma es más específico que el dolor, la sensibilidad o la inflamación, que pueden ocurrir con lesiones de partes blandas, contusiones y otras afecciones sin fractura.",
+          "wrong": {
+            "A": "El trismo (apertura limitada) puede ocurrir con cualquier lesión facial, incluidas las contusiones, el hematoma masetero/pterigoideo, la lesión de la ATM y la pericoronaritis. No es específico de las fracturas.",
+            "C": "La sensibilidad a la palpación bimanual es útil pero puede indicar hematoma de partes blandas, hematoma o contractura muscular sin fractura.",
+            "D": "La pericoronaritis es una infección local del tercer molar — no es un signo de fractura."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — maloclusión: indicador clínico más sensible de fractura mandibular; siempre evaluar la oclusión en el traumatismo facial",
+          "trial": "Hogg NJV et al. J Oral Maxillofac Surg (2000): maloclusión presente en >90% de las fracturas mandibulares desplazadas; signo clínico único más sensible",
+          "pearl": "MALOCLUSIÓN = signo más sensible de fracturas mandibulares (Y faciales). Evaluar siempre la oclusión en el traumatismo facial. El relato del paciente de que 'la mordida se siente diferente' + sensibilidad → OPG. Este es el mismo principio que en las fracturas condilares — el cambio oclusal es patognomónico."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q12",
+        "stem": "Un varón de 25 años sufre una fractura bilateral del ángulo mandibular por un golpe directo en el mentón. Ambos ángulos están desplazados. ¿Qué abordaje permite tratar AMBOS lados sin incisiones externas?",
+        "options": {
+          "A": "Abordaje bilateral submandibular (Hinds)",
+          "B": "Abordaje transoral bilateral con técnica de trócar transbucal",
+          "C": "Abordaje extraoral único por línea media",
+          "D": "Abordaje preauricular bilateral"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El abordaje transoral con técnica de trócar transbucal permite la RAFI de fracturas de ángulo bilaterales sin ninguna incisión facial externa. Ambos lados se abordan mediante incisiones vestibulares bucales, con placas aplicadas en la línea oblicua externa. Un trócar transbucal (un instrumento percutáneo introducido a través de una pequeña incisión de punción en la mejilla — típicamente en un pliegue cutáneo existente) permite la colocación perpendicular de tornillos en la región del ángulo mientras el campo operatorio permanece principalmente intraoral. Esta técnica logra la fijación bilateral de ángulo con placa única de Champy mediante un abordaje completamente transoral/mínimamente extraoral.",
+          "wrong": {
+            "A": "Las incisiones submandibulares bilaterales pueden proporcionar acceso a ambos ángulos, pero dejan cicatrices externas bilaterales — menos preferible que el abordaje transoral cuando el acceso intraoral es adecuado.",
+            "C": "Un único abordaje extraoral por línea media no proporciona acceso bilateral al ángulo.",
+            "D": "Los abordajes preauriculares acceden a la región condilar, no al ángulo."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — fracturas bilaterales de ángulo: el abordaje transoral con trócar transbucal es la técnica estándar; evita cicatrices externas",
+          "trial": "Champy M et al. J Maxillofac Surg (1978): técnica de trócar transbucal validada para RAFI de ángulo por acceso transoral; los ángulos bilaterales se manejan simultáneamente",
+          "pearl": "Fracturas bilaterales de ángulo → abordaje BILATERAL TRANSORAL con TRÓCAR TRANSBUCAL. Sin cicatrices externas. Trócar = incisión de punción percutánea en mejilla para colocación perpendicular de tornillos. Placa única de Champy en la línea oblicua externa bilateralmente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q13",
+        "stem": "La pseudoartrosis de una fractura mandibular se define como el fracaso de la consolidación ósea en qué momento?",
+        "options": {
+          "A": "4 semanas",
+          "B": "8 semanas",
+          "C": "4-6 meses",
+          "D": "12 meses"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La pseudoartrosis de la mandíbula se define como el fracaso de la consolidación ósea a los 4–6 meses de la lesión, con movilidad persistente en el foco de fractura, dolor y ausencia radiológica de hueso puente. Esto es análogo a la definición de pseudoartrosis de los huesos largos. Antes de los 4 meses, la fractura se encuentra en la categoría de consolidación retardada. La distinción es importante porque el tratamiento cambia: la consolidación retardada puede responder a medidas conservadoras adicionales, mientras que la pseudoartrosis requiere desbridamiento quirúrgico, injerto óseo y nueva fijación rígida.",
+          "wrong": {
+            "A": "4 semanas es demasiado pronto — las fracturas mandibulares típicamente muestran formación de callo precoz pero no consolidación ósea completa a las 4 semanas.",
+            "B": "8 semanas representa la formación de callo precoz/hueso reticulado. La denominación de pseudoartrosis requiere un período más largo.",
+            "D": "12 meses está más allá de la definición estándar de pseudoartrosis; usar este umbral retrasa la intervención quirúrgica necesaria."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — pseudoartrosis: fracaso de la consolidación ósea a los 4-6 meses de la lesión",
+          "trial": "Mathog RH et al. Nonunion of the mandible. J Oral Maxillofac Surg (1988): pseudoartrosis definida como ausencia de consolidación a los 4-6 meses; causas más frecuentes: infección, fijación deficiente y osteoporosis",
+          "pearl": "PSEUDOARTROSIS mandibular = sin consolidación ósea a los 4-6 MESES. Tratamiento: desbridamiento + injerto óseo (cresta ilíaca autóloga) + fijación rígida (placa de reconstrucción). Causas más frecuentes: infección, selección incorrecta de placa, osteoporosis, daño por irradiación."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q14",
+        "stem": "La distinción AO/Synthes entre fijación 'portante de carga' y 'compartidora de carga' en la fijación de fracturas mandibulares se describe mejor como:",
+        "options": {
+          "A": "Portante de carga = la fijación depende del contacto hueso a hueso para la estabilidad; compartidora de carga = la placa soporta todas las fuerzas de forma independiente",
+          "B": "Compartidora de carga = el contacto óseo comparte las cargas con la placa; portante de carga = la placa sola soporta todas las fuerzas masticatorias sin contacto óseo",
+          "C": "Ambos términos hacen referencia al mismo tipo de fijación; se usan de forma intercambiable",
+          "D": "Portante de carga significa que la placa se utiliza solo en el borde inferior; compartidora de carga significa que la placa se utiliza en la zona de tensión"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En la filosofía de fijación AO/Synthes: **compartidora de carga** = existe contacto hueso a hueso a través de la fractura y las cargas masticatorias se comparten entre la placa y el hueso intacto (la técnica de miniplaca de Champy depende de la compartición de carga — el borde inferior proporciona contacto óseo compresivo); **portante de carga** = la placa sola soporta TODAS las cargas masticatorias porque NO hay contacto hueso a hueso (fracturas conminutas, defectos óseos o mandíbula atrófica donde el contacto óseo es mínimo). La fijación portante de carga requiere una placa más fuerte y rígida — típicamente una placa de reconstrucción de 2,4 mm — porque recibe toda la carga masticatoria sin soporte óseo.",
+          "wrong": {
+            "A": "Esto invierte las definiciones. La compartición de carga utiliza el contacto óseo; la portación de carga depende solo de la placa.",
+            "C": "No son intercambiables — tienen significados distintos y determinan qué sistema de placa se requiere.",
+            "D": "La distinción trata sobre si existe contacto óseo, no sobre la posición de la placa."
+          },
+          "guideline": "AO CMF Classification (2021) — portante de carga frente a compartidora de carga: determina la selección del sistema de placa para las fracturas mandibulares",
+          "trial": "Spiessl B. Internal Fixation of the Mandible (1989): principio portante de carga (placa de reconstrucción) validado para fracturas mandibulares conminutas y hueso atrófico donde el contacto óseo está ausente",
+          "pearl": "COMPARTIDORA DE CARGA = contacto óseo presente = miniplaca de Champy suficiente. PORTANTE DE CARGA = SIN contacto óseo (conminuta, defecto, atrófica) = PLACA DE RECONSTRUCCIÓN necesaria. Esta distinción determina la selección de la placa: miniplacas para fracturas simples con contacto óseo; placas de reconstrucción para fracturas complejas/conminutas/atróficas sin contacto."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E2-Q15",
+        "stem": "Se aplican alambres de FIM postoperatorios tras la RAFI de una fractura mandibular bilateral compleja. ¿Cuál es la medida de seguridad postoperatoria MÁS importante?",
+        "options": {
+          "A": "Prescribir medicación antiemética para prevenir las náuseas",
+          "B": "Colocar cortaalambres en la cabecera y asegurarse de que todo el personal de enfermería sabe que debe cortar los alambres inmediatamente si el paciente vomita",
+          "C": "Aplicar un vendaje firme en el mentón para prevenir la apertura de la boca",
+          "D": "Prescribir nutrición por sonda nasogástrica para evitar la masticación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los pacientes con alambres de FIM tienen las mandíbulas fijadas juntas. Si se produce un vómito, la incapacidad para abrir la boca impide que el paciente limpie su vía aérea, lo que lleva a la aspiración — potencialmente mortal. Los cortaalambres (tipo tijera) deben estar disponibles inmediatamente en la cabecera, encima del paciente cuando deambule, y en un lugar muy visible. Todo el personal de enfermería, los médicos del pabellón y la familia deben ser instruidos antes de que el paciente abandone la sala de recuperación. Esta es la medida de seguridad más crítica para los pacientes en FIM.",
+          "wrong": {
+            "A": "Los antieméticos reducen pero no eliminan el riesgo de vómitos. Los cortaalambres son igualmente obligatorios — los antieméticos son complementarios.",
+            "C": "Un vendaje en el mentón no aborda el riesgo de aspiración y no es una medida de seguridad estándar para la FIM.",
+            "D": "La nutrición por sonda nasogástrica puede ser necesaria para la nutrición, pero no aborda el problema principal de seguridad del riesgo de aspiración por vómito en FIM."
+          },
+          "guideline": "BAOMS Mandibular Fracture Guidelines (2020) — obligatorio: cortaalambres en la cabecera para todos los pacientes con FIM postoperatoria; formación del personal de enfermería necesaria",
+          "trial": "Hogg NJV et al. Complications of mandibular fracture management. J Trauma (2004): muertes por aspiración notificadas en pacientes en FIM sin cortaalambres accesibles; la disponibilidad de cortaalambres es un estándar de seguridad obligatorio",
+          "pearl": "FIM POSTOP = CORTAALAMBRES en la cabecera. Obligatorio. No negociable. Vómito con mandíbulas alambradas = aspiración = muerte. El personal del pabellón DEBE ser instruido. El paciente debe tener cortaalambres al abandonar el pabellón. Esta es la regla de seguridad básica más crítica para la FIM."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E2-Q16",
+        "stem": "Un varón de 35 años sufre una fractura del cuerpo mandibular con un defecto óseo de 1,5 cm por un disparo de escopeta. ¿Qué estrategia de fijación es la más apropiada?",
+        "options": {
+          "A": "Dos miniplacas de 2,0 mm (técnica de Champy compartidora de carga)",
+          "B": "Placa de reconstrucción en configuración portante de carga con injerto óseo inmediato",
+          "C": "Manejo conservador con dieta blanda durante 8 semanas",
+          "D": "Reconstrucción inmediata con colgajo libre de peroné"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un defecto óseo de 1,5 cm significa que no hay contacto hueso a hueso a través de la fractura — esta es una situación portante de carga que requiere una placa de reconstrucción. La placa abarca el defecto y soporta todas las cargas masticatorias. El injerto óseo inmediato (primario) rellena el defecto, proporciona material osteogénico/osteoconductor y restaura la continuidad. Para un defecto de este tamaño, el injerto de hueso esponjoso de la cresta ilíaca (injerto primario inmediato) es apropiado. Para defectos más grandes (>5 cm) en entornos contaminados, puede utilizarse inicialmente solo una placa de reconstrucción ('placa puente') con injerto óseo diferido una vez que la herida esté limpia.",
+          "wrong": {
+            "A": "Las miniplacas de Champy requieren contacto óseo (compartición de carga). Con un defecto óseo, NO hay contacto óseo — las miniplacas fallarán bajo las cargas masticatorias.",
+            "C": "El manejo conservador de una fractura con defecto óseo traumático no es apropiado — el defecto requiere soporte estructural y regeneración ósea.",
+            "D": "El colgajo libre de peroné está indicado para defectos más grandes (>5 cm) tras resecciones oncológicas o en campos irradiados/contaminados — no es la primera línea para un defecto de 1,5 cm por disparo en un paciente no irradiado."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — fracturas con defecto óseo: placa de reconstrucción (portante de carga) + injerto óseo primario para defectos ≤5 cm; placa puente + injerto diferido para defectos contaminados/grandes",
+          "trial": "Mathog RH et al. Nonunion of the mandible. J Oral Maxillofac Surg (1988): fracturas con defecto óseo sin injerto → pseudoartrosis 100%; placa de reconstrucción + injerto primario → consolidación 85% a los 6 meses",
+          "pearl": "DEFECTO ÓSEO (sin contacto óseo) = PLACA DE RECONSTRUCCIÓN (portante de carga) + INJERTO ÓSEO. Sin contacto óseo = miniplacas de Champy FALLAN. Defecto pequeño (<5 cm) = injerto primario inmediato. Defecto grande o campo contaminado = placa puente primero, luego injerto diferido cuando la herida esté limpia."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E2-Q17",
+        "stem": "¿Qué patrón de fractura mandibular resulta con mayor frecuencia de un golpe directo en el mentón (impacto directo en la línea media)?",
+        "options": {
+          "A": "Fractura unilateral del cuerpo",
+          "B": "Fracturas condilares bilaterales ± fractura parasinfisaria/sinfisaria",
+          "C": "Fractura coronoidea aislada",
+          "D": "Fractura unilateral del ángulo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un golpe directo en el mentón (impacto en la línea media) transmite fuerzas a lo largo del arco mandibular en ambas direcciones simultáneamente. La fuerza se concentra en los puntos más débiles: los delgados cuellos condilares bilateralmente y a veces en la sínfisis/parasínfisis (el punto de impacto). El resultado clásico es fracturas condilares bilaterales (los cóndilos se fracturan cuando la fuerza termina en las fosas glenoideas) combinadas con una fractura parasinfisaria o sinfisaria en el punto de impacto — un patrón de lesión 'condilar bilateral + sinfisaria'. Este patrón de 'triple fractura' es muy característico del impacto en la línea media del mentón.",
+          "wrong": {
+            "A": "Las fracturas unilaterales del cuerpo resultan típicamente de golpes laterales — no de impactos en la línea media del mentón.",
+            "C": "Las fracturas coronoideas aisladas son poco frecuentes y resultan de mecanismos específicos (golpe temporal directo que fuerza la coronoides contra el arco cigomático).",
+            "D": "Las fracturas unilaterales del ángulo resultan de impactos laterales en la mandíbula, no de golpes en el mentón."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — mecanismo de impacto en el mentón: fracturas condilares bilaterales + fractura sinfisaria es el patrón característico de la triple fractura 'ángel de la guarda'",
+          "trial": "Hogg NJV et al. J Oral Maxillofac Surg (2000): el impacto directo en el mentón se asoció con fracturas condilares bilaterales en el 65% de los casos; fractura sinfisaria en el punto de impacto en el 35%",
+          "pearl": "IMPACTO EN EL MENTÓN → fracturas condilares bilaterales ± fractura sinfisaria. La fuerza se desplaza bilateralmente hacia los cuellos condilares (punto más débil). Este es el patrón clásico de fractura 'ángel de la guarda'. Si solo un lado está afectado = golpe asimétrico. Cóndilo bilateral = valorar siempre la oclusión cuidadosamente para buscar mordida abierta anterior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q18",
+        "stem": "¿Cuándo se considera que un diente en el trazo de fractura es una indicación relativa de CONSERVACIÓN (no extracción) durante la RAFI de fractura mandibular?",
+        "options": {
+          "A": "Cuando el diente tiene absceso periapical en la OPG preoperatoria",
+          "B": "Cuando el diente es un tercer molar profundamente incluido en el foco de fractura de ángulo",
+          "C": "Cuando el diente es vital, no infectado, no móvil y ayuda a mantener la reducción de la fractura",
+          "D": "Cuando el paciente se niega a la extracción"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La conservación de un diente en el trazo de fractura es más apropiada cuando es vital (respuesta normal a las pruebas de vitalidad eléctrica o a la percusión), no infectado (sin patología periapical en OPG/CBCT), no móvil (sin raíz fracturada) y realmente contribuye a mantener la reducción de la fractura proporcionando referencia oclusal o soporte mecánico. En esta situación, el riesgo de conservar un diente sano no supera significativamente el riesgo de infección de la propia fractura (que ya es 'abierta' a través del periodonto), y el diente aporta beneficios. Se requiere seguimiento postoperatorio con radiografías periapicales en serie, y se programa el tratamiento endodóntico si se produce necrosis pulpar.",
+          "wrong": {
+            "A": "Absceso periapical = EXTRAER. El diente infectado no vital es una indicación obligatoria de extracción.",
+            "B": "Tercer molar profundamente incluido en ángulo = EXTRAER. Este escenario específico se asocia con tasas de infección postoperatoria significativamente más altas cuando se conserva.",
+            "D": "La preferencia del paciente no anula las indicaciones clínicas. Si el diente necesita extracción, el paciente debe recibir el consejo apropiado."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — conservación del diente en el trazo de fractura: aceptable para dientes vitales, no infectados, no móviles; extracción para dientes infectados, no vitales, incluidos o móviles",
+          "trial": "Ellis E. J Oral Maxillofac Surg (2002): los dientes vitales no infectados conservados en el trazo de fractura no aumentaron significativamente las tasas de infección frente a los focos sin dientes en el trazo; la patología periapical fue el factor de riesgo determinante",
+          "pearl": "Conservar el diente en el trazo de fractura si: VITAL + NO INFECTADO + NO MÓVIL + ayuda a la reducción. Extraer si: absceso, no vital, incluido (especialmente tercer molar del ángulo) o móvil. La vitalidad y el estado de infección son los factores de decisión críticos."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E2-Q19",
+        "stem": "Un chico de 17 años con fractura del cuerpo mandibular es tratado con una miniplaca de titanio de 2,0 mm. A los 18 meses de la RAFI, está asintomático, la fractura ha consolidado y la CBCT muestra la placa in situ. ¿Debe retirarse la placa?",
+        "options": {
+          "A": "Sí — todas las placas de titanio deben retirarse de forma rutinaria a los 12-18 meses en pacientes en crecimiento",
+          "B": "No — las placas de titanio son biocompatibles y no requieren retirada en casos consolidados asintomáticos",
+          "C": "Sí — las placas de titanio inhiben la remodelación ósea y deben retirarse para permitir el crecimiento mandibular normal",
+          "D": "Solo si la placa es palpable a través de la piel"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "En pacientes en crecimiento (niños y adolescentes), las miniplacas de titanio deben retirarse generalmente tras confirmar la consolidación de la fractura (habitualmente a los 12–18 meses). El motivo: en el hueso en crecimiento, una placa rígida puede actuar como una restricción de anclaje, obstaculizando o distorsionando la remodelación y el crecimiento óseo normal. Esto es especialmente importante en la mandíbula, donde el crecimiento se produce en el cóndilo y mediante aposición periostal. En adultos, la retirada rutinaria de la placa no está recomendada — las placas pueden dejarse in situ indefinidamente si están asintomáticas. El joven de 17 años todavía está creciendo (típicamente el crecimiento mandibular masculino continúa hasta los 18–21 años), lo que hace apropiada la retirada de la placa.",
+          "wrong": {
+            "B": "Aunque las placas de titanio son biocompatibles en adultos, los pacientes en crecimiento requieren un manejo diferente. El anclaje del hueso en crecimiento por placas rígidas puede causar alteración del crecimiento.",
+            "C": "El titanio no 'inhibe la remodelación ósea' per se — la preocupación es el anclaje mecánico durante el crecimiento activo, no un efecto inhibitorio biológico.",
+            "D": "La palpabilidad es una indicación de retirada de placa en adultos, pero no el criterio principal en pacientes en crecimiento."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) y BAOMS Mandibular Fracture Guidelines (2020) — pacientes pediátricos/adolescentes: retirada de placa tras consolidación confirmada recomendada; adultos: placas conservadas salvo sintomatología",
+          "trial": "Eppley BL et al. Plate removal in paediatric facial fracture repair. J Craniofac Surg (2005): alteración del crecimiento por anclaje de placa documentada en pacientes pediátricos con fractura mandibular con placas conservadas más de 12 meses; la retirada previene la asimetría del crecimiento",
+          "pearl": "PACIENTE EN CRECIMIENTO + placa de fractura = RETIRAR a los 12-18 meses tras la consolidación confirmada. Riesgo de anclaje del crecimiento. ADULTO (sin crecimiento) + placa asintomática = DEJARLA. Solo retirar en adultos si: infección, dolor, palpabilidad, sensibilidad al frío o preferencia del paciente."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E2-Q20",
+        "stem": "¿Qué suplemento nutricional tiene mayor evidencia para mejorar la consolidación ósea y reducir el riesgo de pseudoartrosis en las fracturas mandibulares?",
+        "options": {
+          "A": "Vitamina B12",
+          "B": "Vitamina D y suplementos de calcio",
+          "C": "Ácidos grasos omega-3",
+          "D": "Suplementos de magnesio"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La deficiencia de vitamina D es muy prevalente en los pacientes traumatológicos y se asocia a una consolidación fracturaria deteriorada, pseudoartrosis y densidad ósea reducida. La vitamina D es esencial para la absorción del calcio y la mineralización ósea, y su deficiencia deteriora significativamente la actividad de los osteoblastos y la formación de nuevo hueso. La suplementación combinada de vitamina D y calcio tiene la base de evidencia más sólida para mejorar los resultados de la consolidación de fracturas. La suplementación rutinaria de vitamina D y calcio es recomendada por la NICE NG187 (2021) para todos los pacientes con riesgo de deficiencia que sufren fracturas por fragilidad o traumatismo.",
+          "wrong": {
+            "A": "La deficiencia de vitamina B12 se asocia a neuropatía, pero no específicamente a deterioro de la consolidación ósea. No hay evidencia sólida de que la suplementación con B12 mejore la consolidación de fracturas mandibulares.",
+            "C": "Los ácidos grasos omega-3 tienen propiedades antiinflamatorias y alguna evidencia básica para la consolidación ósea, pero evidencia insuficiente de ensayos clínicos para recomendarlos de forma rutinaria.",
+            "D": "El magnesio juega un papel en el metabolismo óseo, pero carece de la base de evidencia de ensayos clínicos de la vitamina D + calcio para los resultados de la consolidación de fracturas."
+          },
+          "guideline": "NICE NG187 (Suplementación de vitamina D 2021) — suplementación de vitamina D + calcio para pacientes con fractura con riesgo de deficiencia; guía de soporte nutricional en traumatismo de la EACMFS",
+          "trial": "Lappe J et al. Vitamin D and calcium supplementation reduces cancer risk. Am J Clin Nutr (2007): datos concurrentes apoyan la reducción del riesgo de fractura con vitamina D + calcio. Holick MF et al. Vitamin D deficiency. NEJM (2007): prevalencia de deficiencia en pacientes traumatológicos y deterioro de la consolidación ósea",
+          "pearl": "VITAMINA D + CALCIO = intervención nutricional más potente para la consolidación ósea. La deficiencia de vitamina D es extremadamente frecuente en pacientes traumatológicos (especialmente ancianos e hospitalizados). Comprobar los niveles de 25-OH vitamina D; suplementar a todos los pacientes deficientes. También fundamental para la integración de implantes (contexto OMRN) y la salud ósea en general."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

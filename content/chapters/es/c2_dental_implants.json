@@ -1,0 +1,656 @@
+{
+  "id": "C2",
+  "title": "Implantes Dentales: Osteointegración, Planificación y Complicaciones",
+  "subtitle": "Bloque C — Cirugía Dentoalveolar e Implantología",
+  "block": "C",
+  "block_name": "Cirugía Dentoalveolar e Implantología",
+  "level": "R2-3",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Implantology Guidelines 2023 · ITI Consensus Statements 2023 · AAOMS Parameters of Care 2023",
+  "textbook_refs": [
+    "Brånemark PI, Zarb GA, Albrektsson T. Tissue-Integrated Prostheses: Osseointegration in Clinical Dentistry (1985)",
+    "Albrektsson T, Brånemark PI, Hansson HA, Lindström J. Osseointegrated titanium implants. Acta Orthop Scand (1981)",
+    "Mombelli A, Lang NP. The diagnosis and treatment of peri-implantitis. Periodontol 2000 (1998)",
+    "Chrcanovic BR, Albrektsson T, Wennerberg A. Smoking and dental implants. J Dent (2015)",
+    "Consensus Conference on Peri-implant Diseases. J Clin Periodontol (2018)"
+  ],
+  "learning_objectives": [
+    "Definir la osteointegración y describir los procesos biológicos de formación de la interfaz hueso-implante",
+    "Aplicar los criterios ITI y EACMFS para la selección de pacientes candidatos a implantes, incluyendo contraindicaciones",
+    "Planificar la colocación de implantes mediante evaluación de cantidad y calidad ósea basada en CBCT",
+    "Clasificar las enfermedades periimplantarias (mucositis periimplantaria, periimplantitis) y aplicar los protocolos de tratamiento actuales",
+    "Identificar los principales factores de riesgo de fracaso de los implantes, incluidos diabetes, tabaquismo y radioterapia",
+    "Manejar el fracaso precoz y tardío de implantes y los riesgos específicos de los implantes en hueso irradiado"
+  ],
+  "sections": [
+    {
+      "id": "C2-S1",
+      "title": "Osteointegración: Definición y Biología",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**La osteointegración** fue definida por Per-Ingvar Brånemark (1985) como «una conexión directa, estructural y funcional entre hueso vivo y ordenado y la superficie de un implante portador de carga». Esta definición fue matizada por Albrektsson para enfatizar el requisito de contacto directo hueso-implante a nivel microscópico óptico, sin ninguna capa de tejido fibroso interpuesto. La ausencia de tejido fibroso en la interfaz es lo que distingue la osteointegración de la integración fibroósea (un resultado anterior y menos predecible).\n\n**Fases biológicas de la osteointegración:**\n\n1. **Fase de cicatrización de la herida (0–4 semanas):** La colocación del implante crea una herida quirúrgica estéril. Se forma un hematoma en el espacio periimplantario, que se organiza en tejido de granulación y experimenta una deposición ósea precoz (osificación intramembranosa). La superficie del implante es colonizada por proteínas plasmáticas, fibronectina y vitronectina en los minutos posteriores a la colocación, creando la capa proteica que media la adhesión de los osteoblastos.\n\n2. **Fase de estabilidad primaria:** El encaje mecánico inmediato de las roscas del implante con el hueso cortical proporciona la estabilidad inicial (estabilidad primaria) necesaria para prevenir el micromovimiento. La estabilidad primaria se mide mediante el torque de inserción (objetivo 25–45 N·cm) y el análisis de frecuencia de resonancia (ISQ: cociente de estabilidad del implante; >65 = alta estabilidad; <55 = preocupante). La estabilidad primaria es esencial: un micromovimiento >100–150 μm impide la osteointegración y produce encapsulación fibrosa.\n\n3. **Fase de estabilidad secundaria (4–12 semanas):** La remodelación ósea alrededor del implante reemplaza progresivamente el encaje mecánico inicial con osteointegración biológica. A medida que el hueso circundante se remodela, la estabilidad primaria disminuye temporalmente antes de que aumente la estabilidad secundaria. Este «período de caída de estabilidad» ocurre típicamente a las 4–6 semanas y constituye el período crítico para los protocolos de carga de implantes: la carga precoz (antes de la semana 4) arriesga el fracaso durante este período.\n\n4. **Remodelación a largo plazo:** Tras la osteointegración, la interfaz hueso-implante sufre una remodelación continua similar al hueso natural. Una pérdida ósea marginal de hasta 1,5 mm en el primer año y hasta 0,2 mm/año posteriormente se considera dentro del rango aceptable según el Consenso ITI (International Team for Implantology)."
+        },
+        {
+          "type": "table",
+          "title": "Parámetros de Estabilidad del Implante e Interpretación Clínica",
+          "headers": ["Parámetro", "Método de Medición", "Buena Estabilidad", "Valor Preocupante"],
+          "rows": [
+            ["Estabilidad primaria", "Torque de inserción (N·cm)", ">25 N·cm", "<15 N·cm — considerar carga diferida o abortar"],
+            ["Frecuencia de resonancia (ISQ)", "Dispositivo Osstell/Penguin", ">65 ISQ", "<55 ISQ — ampliar duración del protocolo de carga"],
+            ["Pérdida ósea marginal (año 1)", "Radiografía periapical", "<1,5 mm", ">2 mm — evaluar periimplantitis"],
+            ["Pérdida ósea marginal (año 2+)", "Radiografía periapical anual", "<0,2 mm/año", ">0,5 mm/año — diagnóstico de periimplantitis"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Umbral de Micromovimiento",
+          "content": "Un micromovimiento en la interfaz hueso-implante superior a 100–150 μm durante la fase inicial de osteointegración (semanas 0–12) impide la osteointegración y produce encapsulación fibrosa. Por ello, lograr una estabilidad primaria adecuada (torque de inserción >25 N·cm, ISQ >65) en el momento de la colocación es fundamental, y los protocolos de carga están diseñados para evitar un micromovimiento excesivo en la interfaz durante la fase de estabilidad secundaria."
+        }
+      ]
+    },
+    {
+      "id": "C2-S2",
+      "title": "Selección de Pacientes y Contraindicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La evaluación de la candidatura para implantes implica valorar el estado de salud general, la cantidad y calidad ósea del maxilar, la salud periodontal y el cumplimiento del paciente. Existen contraindicaciones tanto absolutas como relativas.\n\n**Contraindicaciones absolutas para implantes dentales:**\n- Infarto de miocardio o ictus reciente (en los 12 meses previos) — la liberación de catecolaminas inducida por la cirugía; diferir hasta la estabilización médica\n- Uso activo de bisfosfonatos intravenosos (ácido zoledrónico, ibandronato) — riesgo muy elevado de BRMM/MRONJ (aproximadamente 1–10% por zona de implante)\n- Radioterapia craneal y cervical reciente en la zona del implante — dosis >50 Gy produce hueso hipovascular, hipóxico e hipocelular (3H) con muy alto riesgo de osteorradionecrosis; requiere HBO pre y postcolocación si se van a utilizar implantes\n- Neoplasia maligna activa no controlada\n- Coagulopatía grave no corregible antes de la cirugía\n- Inmunosupresión postrasplante con inhibidores de la calcineurina — alto riesgo de infección y curación deteriorada\n\n**Contraindicaciones relativas (riesgo aumentado — manejar con modificación):**\n- Diabetes mellitus: HbA1c >8% = contraindicación relativa; los implantes son apropiados con HbA1c <7% y buen control. HbA1c 7–8% = precaución, mayor monitorización. Los metaanálisis muestran tasas de fracaso de implantes 1,3–1,5 veces mayores en diabéticos mal controlados (Chrcanovic et al. 2014)\n- Tabaquismo: aumenta la tasa de fracaso 2 veces (10 cigarrillos equivalentes/día); la pérdida ósea marginal es 1,7 veces mayor. Se recomienda el abandono del tabaco como mínimo 1 mes antes y 2 meses después de la colocación del implante\n- Bisfosfonatos orales (alendronato, risedronato): riesgo de MRONJ menor que con bisfosfonatos IV, pero presente; la suspensión farmacológica durante 2 o más meses antes de la cirugía es controvertida — la evidencia actual no respalda las suspensiones sistemáticas para bisfosfonatos orales; se requiere evaluación de riesgo individualizada\n- Osteoporosis sin bisfosfonatos: no es en sí misma una contraindicación; la densidad ósea reducida puede requerir tiempos de curación más prolongados\n- Síndrome de Sjögren: la xerostomía aumenta el riesgo de infección periimplantaria; se requiere monitorización frecuente"
+        },
+        {
+          "type": "table",
+          "title": "Contraindicaciones para Implantes: Absolutas vs Relativas",
+          "headers": ["Condición", "Tipo", "Implicación", "Manejo"],
+          "rows": [
+            ["Bisfosfonatos IV (activos)", "Absoluta", "Riesgo MRONJ 1–10%", "No colocar; explicar alternativas"],
+            ["RT craneal/cervical >50 Gy (reciente)", "Absoluta/alto riesgo", "Riesgo ORN >10%", "Protocolo HBO si se procede; diferir mínimo 1 año"],
+            ["HbA1c >8% (DM no controlada)", "Relativa", "Tasa de fracaso 1,5×", "Optimizar control glucémico antes de la colocación"],
+            ["Tabaquismo >10 cigarrillos/día", "Relativa", "Tasa de fracaso 2×", "Consejo de abandono; 1 mes antes + 2 meses después"],
+            ["Bisfosfonatos orales", "Relativa", "Bajo riesgo MRONJ", "Consentimiento informado; no suspensión sistemática"],
+            ["Evento cardíaco reciente (<6 meses)", "Absoluta (temporal)", "Riesgo quirúrgico", "Diferir 6–12 meses"],
+            ["Enfermedad periodontal (no controlada)", "Relativa", "Riesgo periimplantitis", "Tratar primero la periodontitis; reevaluar"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Proceder sin Tratamiento Periodontal",
+          "content": "Colocar implantes dentales en un paciente con enfermedad periodontal activa no tratada es un error grave. Los patógenos periodontales (Porphyromonas gingivalis, Tannerella forsythia) colonizan las superficies de los implantes y causan periimplantitis a tasas 3–4 veces mayores en pacientes con periodontitis grave actual o pasada. Toda enfermedad periodontal activa debe tratarse y estabilizarse antes de la colocación del implante, y el paciente debe demostrar un cumplimiento adecuado de la higiene oral."
+        }
+      ]
+    },
+    {
+      "id": "C2-S3",
+      "title": "Planificación del Implante: Evaluación por CBCT y Clasificación Ósea",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La evaluación preimplantaria utiliza exploración clínica, radiografías periapicales y panorámicas, y CBCT para determinar la cantidad y calidad ósea y las relaciones espaciales con las estructuras vitales.\n\n**Cantidad ósea:** Los requisitos mínimos de hueso para la colocación estándar de implantes son:\n- **Anchura:** ≥5–6 mm de anchura ósea bucolingual para un implante de 3,5–4,5 mm de diámetro (dejando al menos 1 mm de hueso a cada lado del implante)\n- **Altura:** ≥10 mm desde la cresta hasta la estructura vital (nervio dentario inferior en la mandíbula, suelo sinusal en el maxilar) para un implante de 10 mm con 1 mm de margen de seguridad\n- Si no existe hueso suficiente, se planifican procedimientos de aumento (injerto óseo, elevación de seno, ROG) previos o simultáneos a la colocación del implante\n\n**Clasificación de la calidad ósea de Lekholm y Zarb (estándar ITI):**\n- **Tipo I:** Hueso compacto homogéneo (hueso cortical muy denso, escasa trabécula; observado en la mandíbula anterior). Difícil de fresar; máxima estabilidad primaria\n- **Tipo II:** Cortical gruesa que rodea un núcleo de hueso trabecular denso (el más favorable)\n- **Tipo III:** Cortical fina que rodea un núcleo de hueso trabecular denso\n- **Tipo IV:** Cortical muy fina o ausente que rodea hueso trabecular escaso (maxilar posterior; mínima estabilidad primaria; mayor riesgo de fracaso)\n\n**Distancias clave medidas en el CBCT:**\n- Distancia desde la cresta al canal del nervio dentario inferior (mandíbula): mínimo 2 mm de margen de seguridad\n- Distancia desde la cresta al suelo sinusal (maxilar): si <4 mm, elevación sinusal crestal; si <1 mm, injerto sinusal por ventana lateral previo al implante\n- Anchura bucolingual del hueso en la zona propuesta para el implante\n- Angulación del implante planificado respecto a los dientes adyacentes y la arcada antagonista\n\n**CBCT frente a imagen 2D:** El CBCT proporciona información anatómica 3D no disponible en la ortopantomografía — permite la medición precisa de la anchura bucolingual, la detección de dehiscencias, la localización de los lazos del foramen mentoniano y la planificación de la angulación. El CBCT está indicado cuando la exploración clínica o la imagen 2D sugieren dimensiones óseas en el límite, anatomía atípica o planificación de un aumento."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Hueso Tipo IV de Lekholm-Zarb",
+          "content": "El hueso tipo IV (trabécula escasa, cortical ausente o fina) en el maxilar posterior proporciona la menor estabilidad primaria y las mayores tasas de fracaso del implante (3–4 veces superiores al hueso tipo II). Estrategias para mejorar la estabilidad primaria en hueso tipo IV: implantes más largos, implantes más anchos, fresado infradimensionado (condensando hueso en lugar de eliminarlo), implantes con tratamiento de superficie, y tiempos de curación prolongados antes de la carga. Este es el escenario en que el injerto sinusal por etapas previo a la colocación del implante mejora los resultados."
+        }
+      ]
+    },
+    {
+      "id": "C2-S4",
+      "title": "Enfermedades Periimplantarias: Mucositis y Periimplantitis",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las enfermedades periimplantarias fueron definidas y clasificadas formalmente en el Taller Mundial de 2017 sobre la Clasificación de las Enfermedades y Condiciones Periodontales y Periimplantarias (publicado en J Clin Periodontol 2018).\n\n**Mucositis periimplantaria:** Proceso inflamatorio reversible confinado a la mucosa periimplantaria sin pérdida ósea. Análoga a la gingivitis alrededor de los dientes naturales. Prevalencia: aproximadamente 43% de los sitios de implantes en estudios a largo plazo. Se caracteriza por: sangrado al sondaje (SS), eritema, edema de la mucosa periimplantaria; la profundidad de sondaje puede estar aumentada. **No hay pérdida ósea radiográfica.** Reversible con la mejora del control de placa y el desbridamiento profesional. Factores de riesgo: higiene oral deficiente, tabaquismo, diabetes, cemento residual de coronas cementadas.\n\n**Periimplantitis:** Proceso inflamatorio irreversible con pérdida ósea progresiva alrededor de un implante osteointegrado. Análoga a la periodontitis alrededor de los dientes naturales. Prevalencia: aproximadamente 20% de los implantes y 10% de los pacientes a los 10 años de seguimiento en revisiones sistemáticas. Se caracteriza por: SS con o sin supuración, profundidad de sondaje típicamente >5 mm, y **pérdida ósea radiográfica** que supera los márgenes normales de remodelación (>1,5 mm en el año 1, >0,2 mm/año posteriormente).\n\n**Estadificación de la periimplantitis (Mombelli/ITI 2023 modificado):**\n- Estadio I: Pérdida ósea ≤2 mm desde el hombro del implante\n- Estadio II: Pérdida ósea 2–4 mm\n- Estadio III: Pérdida ósea >4 mm, o afectación del tercio apical del implante, o >50% de la longitud del implante\n\n**Tratamiento de la periimplantitis (por etapas):**\n1. Desbridamiento no quirúrgico + antiséptico (clorhexidina, descontaminación con láser Er:YAG); instrucción de higiene oral; eliminar factores de riesgo\n2. Si no hay resolución tras 8–12 semanas: desbridamiento quirúrgico (colgajo abierto), descontaminación de la superficie del implante (química, fotodinámica), regeneración ósea con ROG si la geometría del defecto es favorable\n3. Si no hay resolución: extracción del implante + rehabilitación del lecho\n\n**Métodos de descontaminación:** Curetas de titanio (más suaves que las de acero inoxidable), chorro de aire (polvo de glicina), láser Er:YAG, terapia fotodinámica, descontaminación química (ácido cítrico, gel de clorhexidina). La descontaminación de la superficie del implante es el paso más crítico y más difícil — los implantes de superficie rugosa albergan biopelícula en la microporosidad superficial."
+        },
+        {
+          "type": "table",
+          "title": "Mucositis Periimplantaria vs Periimplantitis: Criterios Diagnósticos",
+          "headers": ["Característica", "Mucositis Periimplantaria", "Periimplantitis"],
+          "rows": [
+            ["Pérdida ósea", "No (más allá de la remodelación inicial)", "Sí — progresiva por encima del umbral"],
+            ["Sangrado al sondaje", "Sí", "Sí + supuración frecuente"],
+            ["Profundidad de sondaje", "≤5 mm (puede ser normal)", ">5 mm típico"],
+            ["Reversibilidad", "Sí con tratamiento", "No — la pérdida ósea es permanente"],
+            ["Hallazgo radiográfico", "Nivel óseo normal", "Pérdida ósea en hombro/roscas del implante"],
+            ["Analogía en dientes naturales", "Gingivitis", "Periodontitis"],
+            ["Prevalencia (por implante)", "~43%", "~20%"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Cemento Residual y Periimplantitis",
+          "content": "El cemento residual de coronas implantosoportadas cementadas es una causa importante de mucositis periimplantaria y periimplantitis. El cemento extruido apicalmente durante la cementación de la corona migra subgingivalmente, actuando como cuerpo extraño que impide el sellado mucoso y alberga biopelícula. Los estudios muestran enfermedad periimplantaria en aproximadamente el 80% de los implantes con exceso de cemento frente al 20% sin él. El cemento en exceso debe eliminarse meticulosamente en el momento de la cementación de la corona; las restauraciones atornilladas evitan completamente este riesgo."
+        }
+      ]
+    },
+    {
+      "id": "C2-S5",
+      "title": "Implantes en Hueso Irradiado y Riesgo de MRONJ",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Dos condiciones sistémicas específicas que aumentan significativamente las complicaciones relacionadas con los implantes merecen una comprensión detallada: la radioterapia previa en el maxilar y los medicamentos antirresortivos/antiangiogénicos.\n\n**Implantes en hueso irradiado:**\n\nLa radioterapia en cabeza y cuello con dosis >50 Gy produce el «tejido 3H» (Marx 1983): hueso y tejido blando hipovascular, hipóxico e hipocelular que no puede sostener la cicatrización de heridas ni la osteointegración de implantes. Los implantes dentales en hueso previamente irradiado tienen tasas de fracaso del 10–20% en la mandíbula y de hasta el 50% en el maxilar (frente a <5% en hueso no irradiado).\n\n**La oxigenoterapia hiperbárica (HBO)** (protocolo de Marx) se utiliza perioperatoriamente cuando se van a colocar implantes en hueso irradiado: 20 sesiones de HBO a 2,4 atm respirando O2 al 100% antes de la cirugía del implante + 10 sesiones postoperatorias («protocolo 20/10 de Marx»). La HBO promueve la neovascularización, aumenta la tensión de oxígeno tisular y estimula la osteogénesis en el tejido 3H, mejorando las tasas de osteointegración de implantes del ~50% al ~80% en mandíbulas irradiadas. El intervalo mínimo recomendado desde la finalización de la radioterapia hasta la colocación del implante es de 12 meses.\n\n**Osteonecrosis de los maxilares relacionada con medicamentos (OMRM/MRONJ):**\n\nLa MRONJ se define como hueso expuesto o que puede sondearse en la región maxilofacial en un paciente que ha recibido tratamiento antirresortivo o antiangiogénico, no ha recibido radiación en el maxilar y el área no ha curado en 8 semanas. Medicamentos causantes:\n- **Bisfosfonatos IV** (ácido zoledrónico, ibandronato) — mayor riesgo; acumulativo con la duración; incidencia de MRONJ del 1–10% para procedimientos implantológicos en pacientes con bisfosfonatos IV\n- **Bisfosfonatos orales** (alendronato, risedronato) — menor riesgo; incidencia de MRONJ ~0,01–0,5% por procedimiento de implante\n- **Denosumab** — anticuerpo anti-RANK-L utilizado para osteoporosis y metástasis óseas; riesgo de MRONJ similar o ligeramente superior a los bisfosfonatos IV\n- **Agentes antiangiogénicos** (bevacizumab, sunitinib) — riesgo especialmente cuando se combinan con bisfosfonatos\n\nManejo de la MRONJ establecida: conservador (antibióticos, enjuagues de clorhexidina, desbridamiento conservador para el estadio I); desbridamiento quirúrgico + secuestrectomía para el estadio II; resección y reconstrucción para el estadio III."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Implantes en Pacientes con Bisfosfonatos IV",
+          "content": "La colocación de implantes dentales en pacientes que reciben bisfosfonatos intravenosos (ácido zoledrónico para metástasis óseas, hipercalcemia o enfermedad de Paget; ibandronato para osteoporosis) se asocia a un riesgo de MRONJ del 1–10% por sitio de implante. La mayoría de las guías lo consideran una contraindicación absoluta. Debe consultarse con el equipo de oncología. Si los implantes son inevitables, la suspensión farmacológica no es fiablemente protectora para los bisfosfonatos IV (permanecen en el hueso durante años). Deben considerarse las prótesis removibles como alternativa."
+        }
+      ]
+    },
+    {
+      "id": "C2-S6",
+      "title": "Fracaso del Implante: Clasificación y Manejo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El fracaso del implante se clasifica según el momento (precoz vs tardío) y el mecanismo (biológico vs mecánico).\n\n**Fracaso precoz (antes de que se complete la osteointegración, en los 3–6 primeros meses):**\n- **Fallo de la osteointegración:** El implante nunca alcanza la estabilidad secundaria; se presenta con movilidad, dolor y pérdida ósea radiográfica. Causas: estabilidad primaria inadecuada, micromovimiento excesivo, sobrecalentamiento quirúrgico, contaminación, factores del paciente (DM no controlada, tabaquismo, radiación)\n- **Infección precoz:** Absceso periimplantario en la fase de osteointegración; requiere extracción del implante, antibióticos y curación antes de la reimplantación\n\n**Fracaso tardío (tras la osteointegración establecida):**\n- **Periimplantitis:** Pérdida ósea progresiva por infección por biopelícula (véase más arriba)\n- **Fracaso por sobrecarga:** Carga oclusal excesiva que provoca resorción ósea crestal y fracaso del implante; más frecuente en pacientes con parafunción (bruxismo), implantes cortos, hueso tipo IV y restauraciones biomecánicamente comprometidas\n- **Fracaso mecánico:** Fractura del implante (rara, <1% en implantes modernos), fractura del tornillo del pilar (más frecuente), fracaso de componentes protésicos\n\n**Tasas globales de supervivencia de los implantes (Consenso ITI 2023):**\n- Supervivencia a 10 años: 95–96% para implantes estándar en localizaciones no comprometidas\n- Supervivencia a 10 años con antecedente de periimplantitis: 60–80%\n- Supervivencia a 10 años en hueso irradiado (con HBO): ~80% mandíbula, ~50–60% maxilar\n- Supervivencia a 10 años en DM mal controlada: ~90% (menor que en no diabéticos)\n\n**Manejo del implante fracasado:**\n1. Retirar el implante (fresa trefina, contratorque o extracción quirúrgica)\n2. Tratar la infección/causa\n3. Injerto óseo del defecto\n4. Esperar mínimo 3–6 meses\n5. Reimplantación cuando el lecho haya curado y los factores de riesgo estén controlados"
+        },
+        {
+          "type": "table",
+          "title": "Fracaso del Implante: Precoz vs Tardío — Causas y Manejo",
+          "headers": ["Tipo", "Momento", "Causas Frecuentes", "Manejo"],
+          "rows": [
+            ["Fracaso precoz", "0–6 meses", "Baja estabilidad primaria, DM, tabaquismo, sobrecalentamiento, infección", "Retirar implante; tratar causa; reimplantar tras 3–6 meses"],
+            ["Periimplantitis", ">6 meses", "Biopelícula, mala higiene, cemento residual, tabaquismo", "No quirúrgico → desbridamiento quirúrgico → extracción si refractario"],
+            ["Fracaso por sobrecarga", "Variable", "Carga parafuncional, implantes cortos, hueso tipo IV", "Retirar implante; rediseñar prótesis; añadir implantes"],
+            ["Fracaso mecánico", "Variable", "Fractura de componente, aflojamiento del tornillo del pilar", "Sustitución de componentes; rediseñar restauración"],
+            ["Periimplantitis estadio III", ">12 meses", "Pérdida ósea avanzada hasta el tercio apical", "Extracción + ROG + reimplante diferido"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Tabaquismo y Fracaso del Implante",
+          "content": "El tabaquismo dobla la tasa de fracaso del implante (OR ~2,0 en el metaanálisis de Chrcanovic et al. 2015 con 15.000 implantes). La pérdida ósea marginal alrededor de los implantes en fumadores es 1,7 veces mayor que en no fumadores. El efecto es dosis-dependiente y parcialmente reversible con el abandono. Se recomienda a los pacientes dejar de fumar un mínimo de 1 mes antes y 2 meses después de la colocación del implante para obtener los mejores resultados."
+        }
+      ]
+    },
+    {
+      "id": "C2-S7",
+      "title": "Protocolos de Carga y Aumento Óseo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Los protocolos de carga del implante** definen el tiempo desde la colocación del implante hasta la restauración y se adaptan a la estabilidad primaria y a los factores del huésped.\n\n**Carga convencional (>3 meses):** Protocolo original de Brånemark — 3 meses para la mandíbula, 6 meses para el maxilar antes de la carga protésica. Sigue siendo apropiado para: hueso tipo IV (maxilar posterior), baja estabilidad primaria, hueso irradiado, DM.\n\n**Carga precoz (6–12 semanas):** Aceptable en buena calidad ósea y estabilidad (ISQ >65, torque de inserción >35 N·cm) con protocolos en una sola fase. Enfoque más frecuente en la práctica actual para localizaciones estándar.\n\n**Carga inmediata (<1 semana postoperatoria):** Implantes unitarios en la zona estética con alta estabilidad primaria (>35 N·cm) y contacto oclusal mínimo. Para la rehabilitación de arcada completa (Todo-en-4/6): la carga inmediata con prótesis provisional es práctica estándar cuando la estabilidad primaria es excelente en todos los implantes. El Consenso ITI 2023 respalda la carga inmediata para indicaciones específicas con resultados predecibles.\n\n**Concepto Todo-en-4 (All-on-4):** Una prótesis fija de arcada completa soportada por 4 implantes — 2 implantes anteriores axiales y 2 implantes posteriores inclinados (30–45°) que se anclan en hueso anterior más denso y evitan los senos maxilares o el canal del nervio dentario inferior. El protocolo Todo-en-4 de Nobel Biocare, popularizado por Paulo Malo, consigue una supervivencia a 10 años de aproximadamente el 93–95% para la mandíbula y del 90–93% para el maxilar.\n\n**Procedimientos de aumento óseo:**\n- **Regeneración ósea guiada (ROG):** Membrana reabsorbible o no reabsorbible + injerto óseo (autoinjerto, aloinjerto, xenoinjerto, aloplástico) para regenerar el hueso deficiente antes o simultáneamente a la colocación del implante\n- **Elevación sinusal por ventana lateral:** Para atrofia maxilar posterior con >4–5 mm de altura crestal disponible; crea una ventana en la pared sinusal lateral, eleva la membrana de Schneider, coloca el injerto, permite 4–6 meses de curación antes del implante\n- **Elevación sinusal crestal (técnica de Summers):** Para 5–8 mm de altura crestal; elevación hidráulica suave de la membrana sinusal a través de la osteotomía del implante\n- **Injerto en bloque:** Bloque corticoesponjoso autólogo de la sínfisis mentoniana, la rama mandibular o la cresta ilíaca para defectos de gran tamaño"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Implantes Inclinados Todo-en-4",
+          "content": "El Todo-en-4 (Paulo Malo/Nobel Biocare) utiliza implantes posteriores inclinados 30–45° para: (1) evitar los senos maxilares en el maxilar posterior y el nervio dentario inferior en la mandíbula posterior, (2) anclarse en hueso anterior más denso, (3) distribuir las fuerzas oclusales a lo largo del eje del implante en lugar de lateralmente. Los implantes inclinados fueron inicialmente controvertidos, pero actualmente están respaldados por datos de resultados a 10–15 años que muestran una supervivencia equivalente a la de los implantes axiales cuando se utilizan en la configuración Todo-en-4."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tu conocimiento sobre osteointegración, selección de implantes, enfermedad periimplantaria y complicaciones con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "C2-Q1",
+        "stem": "Per-Ingvar Brånemark definió la osteointegración como:",
+        "options": {
+          "A": "Encapsulación fibrosa de un implante por tejido conectivo periostal",
+          "B": "Una conexión directa, estructural y funcional entre hueso vivo y ordenado y la superficie de un implante portador de carga",
+          "C": "Fusión parcial de trabéculas óseas con la superficie de un implante mediante osificación endocondral",
+          "D": "El proceso de formación de hueso nuevo en el alveolo quirúrgico tras la extracción dentaria"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La definición de osteointegración de Brånemark (1985) es «una conexión directa, estructural y funcional entre hueso vivo y ordenado y la superficie de un implante portador de carga». Los elementos clave son: directa (sin interposición de tejido fibroso), estructural y funcional (no solo proximidad anatómica), y en la interfaz portadora de carga. Esta definición distingue la verdadera osteointegración del concepto anterior de integración fibroósea, donde una fina capa fibrosa se interpone entre el hueso y el implante.",
+          "wrong": {
+            "A": "La encapsulación fibrosa es el FRACASO de la osteointegración — ocurre cuando el micromovimiento excesivo impide el contacto directo del hueso",
+            "C": "La osificación endocondral es el mecanismo de curación de fracturas de huesos largos y del desarrollo de la placa de crecimiento — la osteointegración se produce mediante aposición ósea directa de tipo intramembranoso, no osificación endocondral",
+            "D": "El hueso nuevo tras la extracción dentaria es cicatrización alveolar — no osteointegración, que se refiere específicamente a la interfaz hueso-implante"
+          },
+          "guideline": "ITI Consensus Statements (2023): definición de osteointegración",
+          "trial": "Brånemark PI, Zarb GA, Albrektsson T. Tissue-Integrated Prostheses: Osseointegration in Clinical Dentistry (1985): definición original; base de la implantología moderna",
+          "pearl": "Osteointegración = contacto DIRECTO hueso-implante. Sin capa fibrosa. Portador de carga. Esta es la definición de examen — apréndetela literalmente. Encapsulación fibrosa = fracaso del implante."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q2",
+        "stem": "Se coloca un implante en el maxilar posterior con un torque de inserción de 12 N·cm y un ISQ de 52. ¿Cuál es el protocolo de carga más apropiado?",
+        "options": {
+          "A": "Carga inmediata en las primeras 48 horas",
+          "B": "Carga precoz a las 6 semanas",
+          "C": "Carga convencional — mínimo 6 meses antes de la restauración protésica",
+          "D": "Retirar el implante de inmediato — no puede osteointegrar"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Un torque de inserción de 12 N·cm (por debajo del umbral de 25 N·cm) y un ISQ de 52 (por debajo del umbral de buena estabilidad de 65) indican una baja estabilidad primaria. En esta situación, el riesgo de que el micromovimiento supere el umbral de 100–150 μm durante la fase de curación inicial es elevado. El enfoque conservador es la carga convencional con un período de curación prolongado (6 meses en el maxilar es el protocolo original de Brånemark), permitiendo el máximo tiempo para el desarrollo de la estabilidad secundaria. El implante no debe cargarse precoz ni inmediatamente — esto arriesgaría el fracaso durante el período de caída de estabilidad.",
+          "wrong": {
+            "A": "La carga inmediata requiere un torque de inserción >35 N·cm y un ISQ >65 — este implante no cumple ninguno de los dos criterios; la carga inmediata causaría micromovimiento excesivo y encapsulación fibrosa",
+            "B": "La carga precoz (6 semanas) es apropiada solo con buena estabilidad primaria (ISQ >65, torque >25 N·cm) — no con valores de baja estabilidad",
+            "D": "La baja estabilidad primaria no indica que el fracaso sea inevitable — el protocolo de carga apropiado (convencional, diferido) permite que se desarrolle la estabilidad secundaria; la retirada no está indicada basándose solo en un bajo torque de inserción"
+          },
+          "guideline": "ITI Consensus Statements (2023): protocolos de carga según estabilidad primaria — carga convencional para ISQ <55",
+          "trial": "Albrektsson T et al. The long-term efficacy of currently used dental implants: a review and proposed criteria of success. Int J Oral Maxillofac Implants (1986): criterios mínimos de estabilidad primaria aceptable para distintos protocolos de carga",
+          "pearl": "Torque de inserción <25 N·cm o ISQ <55 = baja estabilidad primaria = carga convencional (6 meses maxilar, 3 meses mandíbula). ISQ >65 y torque >35 N·cm = alta estabilidad = posible carga precoz o inmediata. ISQ 55–65 = intermedio = carga precoz con precaución."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q3",
+        "stem": "¿Qué tipo de calidad ósea (clasificación Lekholm-Zarb) se asocia con las mayores tasas de fracaso de implantes y se encuentra con mayor frecuencia en el maxilar posterior?",
+        "options": {
+          "A": "Tipo I — hueso compacto homogéneo",
+          "B": "Tipo II — cortical gruesa con núcleo trabecular denso",
+          "C": "Tipo III — cortical fina con núcleo trabecular denso",
+          "D": "Tipo IV — cortical muy fina con hueso trabecular escaso"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El hueso tipo IV — cortical muy fina o ausente que rodea un hueso trabecular escaso y de baja densidad — proporciona la menor estabilidad primaria de todos los tipos óseos y se asocia a tasas de fracaso de implantes 3–4 veces mayores que el hueso tipo II. El hueso tipo IV se encuentra característicamente en el maxilar posterior, donde la neumatización progresiva del seno maxilar y la resorción alveolar tras la pérdida dental crean un volumen de hueso blando y trabecular con mínimo soporte cortical. Las estrategias para el hueso tipo IV incluyen: implantes más largos y anchos, fresado infradimensionado (condensación ósea), tiempos de curación prolongados, y frecuentemente un injerto sinusal por ventana lateral previo a la colocación del implante.",
+          "wrong": {
+            "A": "El hueso tipo I es cortical denso — proporciona la máxima estabilidad primaria (a veces demasiado denso, lo que dificulta el fresado) y la menor tasa de fracaso",
+            "B": "El tipo II es la calidad ósea ideal — cortical gruesa + trabécula densa = mayor estabilidad secundaria y mejores resultados globales",
+            "C": "El tipo III es frecuente y tiene buenos resultados con la técnica adecuada — no es el de mayor riesgo de fracaso"
+          },
+          "guideline": "ITI Consensus Statements (2023): clasificación de la calidad ósea y resultados de implantes — protocolos modificados para hueso tipo IV",
+          "trial": "Lekholm U, Zarb GA. Patient selection and preparation. In: Brånemark PI, Zarb GA, Albrektsson T, eds. Tissue-Integrated Prostheses (1985): clasificación original; tasas de fracaso del tipo IV 3–4× el tipo II en seguimiento a largo plazo",
+          "pearl": "Lekholm-Zarb: I=compacto (mandíbula anterior densa), II=ideal, III=cortical fina, IV=trabécula escasa (maxilar posterior) = mayor tasa de fracaso. Conoce el tipo IV como el escenario de alto riesgo en el examen que requiere protocolos modificados."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q4",
+        "stem": "El Taller Mundial de 2017 definió la mucositis periimplantaria como distinta de la periimplantitis basándose principalmente en qué criterio?",
+        "options": {
+          "A": "Presencia de secreción purulenta en el lecho del implante",
+          "B": "Ausencia de pérdida ósea progresiva más allá de la remodelación normal",
+          "C": "Profundidad de sondaje mayor de 5 mm",
+          "D": "Duración de los síntomas inferior a 6 meses"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La distinción fundamental entre la mucositis periimplantaria y la periimplantitis es la presencia o ausencia de pérdida ósea progresiva en la evaluación radiográfica. La mucositis periimplantaria afecta solo a la mucosa periimplantaria blanda sin pérdida ósea radiográfica — análoga a la gingivitis. La periimplantitis implica pérdida ósea marginal progresiva que supera el umbral de remodelación normal — análoga a la periodontitis. Ambas condiciones muestran sangrado al sondaje e inflamación de los tejidos blandos, pero solo la periimplantitis muestra pérdida ósea.",
+          "wrong": {
+            "A": "La supuración puede producirse tanto en la mucositis (con exacerbación aguda) como en la periimplantitis — no es la distinción definitoria",
+            "C": "La profundidad de sondaje >5 mm es frecuente en la periimplantitis, pero no es la distinción definitoria — existen bolsas profundas sin pérdida ósea (perfil tisular profundo); la pérdida ósea es el criterio clave",
+            "D": "La duración de los síntomas no forma parte de los criterios de clasificación del Taller Mundial de 2017"
+          },
+          "guideline": "Berglundh T et al. Peri-implant diseases and conditions: Consensus report of workgroup 4 of the 2017 World Workshop. J Periodontol (2018): la pérdida ósea como criterio definitorio que distingue mucositis de periimplantitis",
+          "trial": "Consensus Conference on Peri-implant Diseases. J Clin Periodontol (2018): recomendaciones del consenso completo, incluidos criterios diagnósticos; pérdida ósea >1,5 mm desde la plataforma + SS = periimplantitis",
+          "pearl": "Mucositis = SS + inflamación de tejidos blandos + SIN pérdida ósea = reversible (como gingivitis). Periimplantitis = SS + pérdida ósea = irreversible (como periodontitis). El criterio de pérdida ósea es el discriminador en el examen."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q5",
+        "stem": "Una mujer de 65 años con osteoporosis lleva 7 años tomando alendronato (bisfosfonato oral). Precisa la extracción de un molar inferior necrótico y posterior colocación de un implante. ¿Cuál es la consideración más importante respecto a su medicación?",
+        "options": {
+          "A": "Suspender el alendronato inmediatamente durante 3 meses antes de la extracción — esta suspensión farmacológica elimina el riesgo de MRONJ",
+          "B": "Los bisfosfonatos orales se asocian a bajo riesgo de MRONJ; proceder con consentimiento informado y técnica cuidadosa, sin suspensión farmacológica obligatoria",
+          "C": "El alendronato es una contraindicación absoluta para los implantes — no colocar implantes",
+          "D": "Cambiar al paciente de alendronato a denosumab antes de la cirugía — menor riesgo de MRONJ"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los bisfosfonatos orales (alendronato, risedronato, ibandronato oral) se asocian a un riesgo de MRONJ bajo pero real, de aproximadamente 0,01–0,5% por procedimiento dental invasivo. La evidencia actual NO respalda las suspensiones farmacológicas sistemáticas antes de la cirugía dental para los bisfosfonatos orales — el fármaco se incorpora al hueso y no puede eliminarse suspendiéndolo durante unos meses; el concepto de suspensión se basa en el marcador sérico CTX (telopéptido C-terminal), pero el CTX no es un predictor fiable del riesgo de MRONJ. Mejor práctica: informar al paciente del pequeño riesgo de MRONJ, minimizar el traumatismo quirúrgico, asegurar el cierre primario, prescribir clorhexidina y monitorizar la cicatrización de cerca.",
+          "wrong": {
+            "A": "Las suspensiones farmacológicas para los bisfosfonatos orales no son fiablemente protectoras — el fármaco está unido al hueso y no puede eliminarse en 3 meses; las guías actuales (AAOMS 2022) no requieren suspensiones farmacológicas obligatorias para los bisfosfonatos orales",
+            "C": "Los bisfosfonatos orales no son una contraindicación absoluta para los implantes (los bisfosfonatos IV tienen un riesgo de nivel absoluto); los implantes son apropiados con consentimiento informado y técnica cuidadosa",
+            "D": "El denosumab tiene un riesgo de MRONJ similar o superior al de los bisfosfonatos orales; el cambio es contraproducente y requeriría al equipo de oncología/reumatología"
+          },
+          "guideline": "AAOMS Position Paper (2022): MRONJ — no se recomienda suspensión farmacológica para bisfosfonatos orales; consentimiento informado y técnica cuidadosa",
+          "trial": "Chrcanovic BR et al. Dental implants in patients using bisphosphonates. Int J Oral Maxillofac Surg (2016): tasas de fracaso de implantes con bisfosfonatos orales similares a los no usuarios; MRONJ rara pero presente; la suspensión farmacológica no claramente protectora",
+          "pearl": "Bisfosfonatos orales: bajo riesgo MRONJ (~0,01–0,5%) = consentimiento informado + técnica cuidadosa + sin suspensión farmacológica obligatoria. Bisfosfonatos IV: alto riesgo MRONJ (1–10%) = contraindicación absoluta para colocación electiva de implantes. Conoce la diferencia."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q6",
+        "stem": "Un paciente que completó radioterapia craneal y cervical (65 Gy en la mandíbula) hace 2 años requiere colocación de implantes dentales en la zona irradiada. ¿Qué protocolo se asocia a mejores tasas de osteointegración en hueso irradiado?",
+        "options": {
+          "A": "Corticoterapia a doble dosis durante 7 días antes y después de la colocación del implante",
+          "B": "Protocolo HBO de Marx: 20 sesiones antes + 10 sesiones después de la colocación del implante",
+          "C": "Alendronato (bisfosfonato) antes de la colocación del implante para aumentar la densidad ósea",
+          "D": "Inyección de plasma rico en plaquetas (PRP) en los lechos implantarios el día de la colocación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El protocolo HBO de Marx (20 sesiones preimplante + 10 sesiones postimplante a 2,4 atmósferas respirando oxígeno al 100%) es la intervención basada en la evidencia para mejorar los resultados de los implantes en hueso irradiado. La HBO aumenta la tensión de oxígeno tisular, promueve la neovascularización, estimula la osteogénesis y mejora la capacidad de curación del tejido 3H (hipovascular, hipóxico e hipocelular) creado por la radiación. Marx demostró una mejora en las tasas de osteointegración de aproximadamente el 50% al 80% en mandíbulas irradiadas con este protocolo.",
+          "wrong": {
+            "A": "Los corticoides suprimen la respuesta inmune y deterioran la cicatrización de heridas — reducirían, no mejorarían, las tasas de osteointegración en un hueso ya comprometido por irradiación",
+            "C": "Los bisfosfonatos aumentan el riesgo de MRONJ y están absolutamente contraindicados en preparaciones mandibulares irradiadas — no mejoran la osteointegración y añaden un riesgo adicional significativo",
+            "D": "El PRP tiene evidencia limitada que respalde la mejora de la osteointegración de implantes en hueso irradiado específicamente; no es el protocolo establecido"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): implantes en hueso irradiado — protocolo HBO de Marx (20/10) como protocolo quirúrgico estándar pre/postoperatorio",
+          "trial": "Marx RE, Ehler WJ, Tayapongsak P, Pierce LW. Relationship of oxygen dose to angiogenesis induction in irradiated tissue. Am J Surg (1990): la HBO aumenta la tensión de oxígeno tisular a niveles normales en tejido 3H; angiogénesis mejorada confirmada histológicamente; protocolo establecido",
+          "pearl": "Implantes en hueso irradiado (>50 Gy): protocolo HBO de Marx = 20 sesiones antes + 10 sesiones después a 2,4 atm/O2 al 100%. Mejora la osteointegración del 50% al 80% en mandíbula. Mínimo 12 meses desde la finalización de la RT antes de la colocación. El HBO es la respuesta a «cómo mejorar los implantes en hueso irradiado» en los exámenes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q7",
+        "stem": "La «caída de estabilidad» en la osteointegración del implante se produce aproximadamente en qué momento tras la colocación?",
+        "options": {
+          "A": "Días 1–3 (inmediatamente tras la colocación)",
+          "B": "Semanas 4–6 tras la colocación",
+          "C": "Meses 6–12 tras la colocación",
+          "D": "Años 2–3 tras la colocación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La caída de estabilidad se produce aproximadamente a las 4–6 semanas tras la colocación del implante. Durante esta fase, la estabilidad mecánica primaria inicial (del encaje roscas-hueso) está disminuyendo a medida que el hueso periimplantario sufre remodelación (resorción previa a la nueva formación ósea), pero la estabilidad biológica secundaria (osteointegración) aún no se ha desarrollado plenamente. Esta disminución temporal de la estabilidad total representa el período más vulnerable para el fracaso del implante si se aplica carga. Los protocolos de carga precoz (carga a las 6–12 semanas) están diseñados para comenzar la carga tras la resolución de la caída de estabilidad y el restablecimiento de la estabilidad secundaria.",
+          "wrong": {
+            "A": "Días 1–3: la estabilidad primaria está en su máximo inmediatamente después de la colocación — es cuando el torque de inserción es más alto; no es la caída de estabilidad",
+            "C": "Meses 6–12: la osteointegración completa ya se ha logrado en este punto; el implante tiene la máxima estabilidad con la estabilidad secundaria establecida",
+            "D": "Años 2–3: el implante está en remodelación a largo plazo con contacto hueso-implante estable; la caída de estabilidad ya ha pasado hace tiempo"
+          },
+          "guideline": "ITI Consensus Statements (2023): cronología de la osteointegración — caída de estabilidad a las 4–6 semanas",
+          "trial": "Albrektsson T, Brånemark PI, Hansson HA, Lindström J. Osseointegrated titanium implants. Acta Orthop Scand (1981): descripción original de la curva de estabilidad bifásica; caída a las 4–6 semanas identificada como período crítico de vulnerabilidad",
+          "pearl": "Cronología de estabilidad: Día 0 = máxima estabilidad primaria (mecánica) → 4–6 semanas = CAÍDA DE ESTABILIDAD (remodelación ósea) → 12 semanas = estabilidad secundaria establecida (biológica). No cargar durante la caída. Los protocolos de carga precoz esperan hasta DESPUÉS de las 6 semanas para evitar este período."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q8",
+        "stem": "Un varón de 55 años presenta periimplantitis alrededor de un implante mandibular colocado hace 5 años. El sondaje muestra bolsas de 7 mm con sangrado al sondaje y supuración. La radiografía muestra pérdida ósea hasta el 60% de la longitud del implante (periimplantitis estadio III). El desbridamiento no quirúrgico realizado hace 3 meses no produjo mejoría. ¿Cuál es el paso siguiente más apropiado?",
+        "options": {
+          "A": "Antibióticos a largo plazo (pauta de 6 meses de doxiciclina)",
+          "B": "Desbridamiento quirúrgico, descontaminación de la superficie del implante y regeneración ósea",
+          "C": "Extracción del implante, injerto óseo y reimplantación diferida tras la curación",
+          "D": "Aplicación local de gel de clorhexidina y revisión programada a los 3 meses"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La periimplantitis estadio III con pérdida ósea que alcanza el 60% de la longitud del implante, supuración y sin respuesta al tratamiento no quirúrgico representa una enfermedad avanzada con mal pronóstico para la retención del implante. En esta fase, el defecto óseo es demasiado extenso para una regeneración predecible, y los intentos continuados de salvar el implante (desbridamiento quirúrgico, ROG) tienen bajas tasas de éxito. La extracción del implante, el desbridamiento minucioso y la descontaminación del lecho, el injerto óseo y la reimplantación diferida tras la curación completa (mínimo 4–6 meses) es el enfoque basado en la evidencia para la periimplantitis refractaria estadio III.",
+          "wrong": {
+            "A": "Los antibióticos a largo plazo solos no son apropiados para la periimplantitis — la biopelícula sobre la superficie del implante no puede eliminarse por vía sistémica; los antibióticos son complementos del desbridamiento mecánico/quirúrgico, no un tratamiento primario",
+            "B": "El desbridamiento quirúrgico y la ROG es el tratamiento apropiado para la periimplantitis estadio I–II y cuando la geometría del defecto óseo es favorable — para el estadio III con pérdida ósea extensa y sin respuesta al tratamiento no quirúrgico, esto probablemente sea inútil y se prefiere la extracción del implante",
+            "D": "El gel de clorhexidina y la monitorización son el manejo inicial apropiado para la mucositis periimplantaria — completamente inapropiado para la periimplantitis estadio III con supuración y pérdida ósea del 60%"
+          },
+          "guideline": "ITI Consensus Statements (2023): árbol de decisión para el tratamiento de la periimplantitis — estadio III + sin respuesta al tratamiento no quirúrgico = extracción del implante indicada",
+          "trial": "Renvert S et al. Non-surgical treatment of peri-implant mucositis and peri-implantitis: a literature review. J Clin Periodontol (2018): el tratamiento no quirúrgico no resuelve adecuadamente la pérdida ósea en >60% de los casos de periimplantitis; se requiere tratamiento quirúrgico para los casos persistentes",
+          "pearl": "Tratamiento de la periimplantitis: mucositis = solo no quirúrgico. Estadio I-II = desbridamiento quirúrgico + ROG. Estadio III (pérdida ósea >50% del implante) + sin respuesta = extracción del implante + injerto óseo + reimplante. Enfoque escalonado según estadio y respuesta al tratamiento."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C2-Q9",
+        "stem": "Una revisión sistemática de Chrcanovic et al. (2015) sobre tabaquismo e implantes dentales encontró qué razón de riesgo para el fracaso del implante en fumadores frente a no fumadores?",
+        "options": {
+          "A": "HR 0,5 (los fumadores tienen menores tasas de fracaso)",
+          "B": "HR ~2,0 (los fumadores tienen aproximadamente el doble de tasa de fracaso)",
+          "C": "HR ~5,0 (los fumadores tienen cinco veces la tasa de fracaso)",
+          "D": "HR 1,05 (diferencia insignificante — sin efecto clínicamente significativo)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Chrcanovic et al. (2015) realizaron una revisión sistemática y metaanálisis de 107 estudios que incluían más de 15.000 implantes en fumadores y no fumadores. La razón de riesgo global para el fracaso del implante fue de aproximadamente 2,0 (OR agrupado 2,23, IC 95%: 1,96–2,53), lo que significa que los fumadores tienen aproximadamente el doble de tasa de fracaso del implante. La pérdida ósea marginal fue 1,7 veces mayor en fumadores. Este hallazgo es consistente en múltiples metaanálisis y es la base de las recomendaciones de abandono del tabaco antes de la colocación del implante.",
+          "wrong": {
+            "A": "Los fumadores tienen tasas de fracaso MÁS ALTAS (HR ~2,0) — no más bajas",
+            "C": "Un HR de 5,0 sobreestima el efecto — el riesgo real se aproximadamente se duplica, no se quintuplica",
+            "D": "El efecto del tabaquismo es clínica y estadísticamente significativo (OR 2,23 con intervalo de confianza estrecho) — no es insignificante"
+          },
+          "guideline": "EACMFS Implantology Guidelines (2023): tabaquismo como factor de riesgo — abandono recomendado basándose en HR ~2,0 para el fracaso",
+          "trial": "Chrcanovic BR, Albrektsson T, Wennerberg A. Smoking and dental implants: a systematic review and meta-analysis. J Dent (2015): 107 estudios, 15.103 implantes; OR agrupado 2,23 (IC 95%: 1,96–2,53) para fracaso en fumadores",
+          "pearl": "Tabaquismo = 2× riesgo de fracaso del implante (OR ~2,23 Chrcanovic 2015). Recomendar abandono mínimo 1 mes antes del implante + 2 meses tras la colocación. Pérdida ósea marginal 1,7× mayor en fumadores a largo plazo. Este es un importante factor de riesgo modificable — siempre abordarlo en el consejo preoperatorio."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q10",
+        "stem": "¿Cuál es la altura ósea mínima necesaria por encima del canal del nervio dentario inferior en la mandíbula para colocar con seguridad un implante de 10 mm?",
+        "options": {
+          "A": "10 mm (solo la longitud del implante)",
+          "B": "11–12 mm (implante de 10 mm + margen de seguridad de 1–2 mm)",
+          "C": "15 mm mínimo independientemente de la longitud del implante",
+          "D": "8 mm (se acepta cierta proximidad al NDI)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para un implante de 10 mm, la altura ósea mínima requerida desde la cresta hasta el canal del NDI es de 11–12 mm — la longitud del implante (10 mm) más un margen de seguridad de 1–2 mm por encima del canal. Este margen de seguridad proporciona un margen frente a imprecisiones menores del fresado, la protrusión del ápice del implante y la variación en la distancia implante-ápice entre sistemas. La medición por CBCT permite una determinación prequirúrgica precisa de la altura ósea disponible. Si se dispone de menos de 11–12 mm, deben considerarse implantes más cortos (6–8 mm) con mayor diámetro u otras opciones de tratamiento del lecho.",
+          "wrong": {
+            "A": "10 mm no proporciona ningún margen de seguridad — el ápice del implante quedaría exactamente en el canal, arriesgando la perforación y la lesión nerviosa por el fresado (la fresa se extiende ligeramente más allá de la preparación de la osteotomía)",
+            "C": "15 mm es una cifra demasiado conservadora que eliminaría innecesariamente muchos lugares viables para implantes",
+            "D": "Aceptar la proximidad al NDI (menos de 1 mm de margen de seguridad) aumenta significativamente el riesgo de traumatismo de la fresa sobre el nervio durante la preparación de la osteotomía"
+          },
+          "guideline": "ITI Consensus Statements (2023): colocación de implantes cerca de estructuras vitales — margen de seguridad mínimo de 2 mm desde el canal del NDI",
+          "trial": "Sedaghatfar M et al. Panoramic radiographic findings as predictors of inferior alveolar nerve exposure. J Oral Maxillofac Surg (2005): el riesgo de lesión del NDI aumenta bruscamente cuando las fresas del implante están a menos de 1 mm del canal; el margen de seguridad de 2 mm protege contra la lesión nerviosa en el 98% de los casos",
+          "pearl": "Margen de seguridad del NDI = mínimo 2 mm por debajo del ápice planificado del implante. Altura ósea necesaria = longitud del implante + 2 mm. Para implante de 10 mm = 12 mm necesarios. Siempre medir en CBCT antes de la colocación de implantes posteriores mandibulares."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q11",
+        "stem": "En un paciente se encuentra una altura de suelo sinusal maxilar de 3 mm sobre la cresta alveolar residual en el CBCT en el lugar propuesto para un implante maxilar posterior. ¿Cuál es la estrategia de aumento más apropiada?",
+        "options": {
+          "A": "Elevación sinusal crestal (transcrestal) mediante la técnica de Summers",
+          "B": "Elevación sinusal por ventana lateral con un período de curación de 4–6 meses antes de la colocación del implante",
+          "C": "Colocar un implante corto (4 mm) sin aumento sinusal",
+          "D": "Implante cigomático (implante en el cigoma) para evitar completamente el seno"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Con solo 3 mm de altura crestal entre la cresta alveolar y el suelo sinusal, no hay hueso suficiente para ninguna colocación convencional de implante. La técnica crestal de Summers requiere un mínimo de 4–6 mm de altura ósea residual. Para <4 mm de altura residual, se requiere la elevación sinusal por ventana lateral (abordaje tipo Caldwell-Luc al seno): se crea una ventana ósea en la pared lateral del seno, se eleva suavemente la membrana de Schneider del suelo sinusal, se empaqueta un injerto óseo bajo ella (autoinjerto ± xenoinjerto) y se permiten 4–6 meses para la maduración del injerto y la formación ósea antes de la colocación del implante.",
+          "wrong": {
+            "A": "La técnica crestal de Summers requiere 4–6 mm de hueso crestal residual (algunos autores dicen un mínimo de 4 mm, otros 5 mm) — con solo 3 mm, no hay suficiente hueso para un abordaje crestal seguro; el riesgo de perforación de la membrana de Schneider es alto",
+            "C": "Un implante corto de 4 mm en 3 mm de hueso es anatómicamente imposible — el implante perforaría el suelo sinusal",
+            "D": "Los implantes cigomáticos están reservados para maxilares gravemente atróficos sin hueso posterior disponible tras múltiples intentos de aumento fallidos — no son la primera opción para una altura crestal de 3 mm en un único lugar"
+          },
+          "guideline": "ITI Consensus Statements (2023): aumento del seno maxilar — altura crestal <4 mm = se requiere elevación sinusal por ventana lateral",
+          "trial": "Summers RB. The osteotome technique: part 3 — less invasive methods of elevating the sinus floor. Compendium (1994): la técnica crestal requiere ≥4 mm de altura residual; <4 mm = contraindicación para el abordaje crestal",
+          "pearl": "Árbol de decisión sinusal maxilar: ≥8 mm de altura crestal = implante sin aumento sinusal. 4–8 mm = elevación sinusal crestal (Summers). <4 mm = elevación sinusal por ventana lateral con 4–6 meses de curación antes del implante. 3 mm = ventana lateral. Conoce los umbrales."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q12",
+        "stem": "La carga inmediata de implantes dentales (en las primeras 48 horas tras la colocación) es más apropiada en qué conjunto de condiciones?",
+        "options": {
+          "A": "Rehabilitación Todo-en-4 de arcada completa con torque de inserción >35 N·cm e ISQ >70",
+          "B": "Implante molar posterior unitario en hueso tipo IV con torque de inserción de 20 N·cm",
+          "C": "Todos los implantes en pacientes diabéticos para prevenir el sobrecrecimiento de tejidos blandos",
+          "D": "Todos los implantes independientemente de la estabilidad primaria cuando se utilizan titanio con tratamiento de superficie"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "La carga inmediata (en las primeras 48 horas) está respaldada por la evidencia para la rehabilitación Todo-en-4 de arcada completa cuando todos los implantes alcanzan alta estabilidad primaria (torque de inserción >35 N·cm, ISQ >70) y se fabrica una prótesis provisional puente de arcada completa que estabiliza todos los implantes como unidad y limita el micromovimiento individual del implante. La prótesis de arcada completa distribuye las fuerzas oclusales entre múltiples implantes, evitando el micromovimiento excesivo en cualquier implante individual. Este es el concepto estándar del Todo-en-4 con datos publicados a 10 años que respaldan una supervivencia del 93–95%.",
+          "wrong": {
+            "A": "Esta es la respuesta correcta",
+            "B": "El implante molar posterior unitario en hueso tipo IV con torque de inserción de 20 N·cm es precisamente el escenario en que se requiere carga diferida/convencional — mala estabilidad, calidad ósea desfavorable, implante aislado sin estabilidad de arcada completa",
+            "C": "La carga inmediata no está indicada para prevenir el sobrecrecimiento de tejidos blandos — los pilares de cicatrización gestionan los tejidos blandos durante la curación sin requerir carga inmediata; la diabetes es un factor de riesgo relativo que reduce la estabilidad primaria en muchos casos",
+            "D": "El tratamiento de superficie (chorreado, grabado ácido, etc.) mejora la calidad de la osteointegración pero no elimina la necesidad de criterios de estabilidad primaria para la carga inmediata"
+          },
+          "guideline": "ITI Consensus Statements (2023): carga inmediata — respaldada para rehabilitación de arcada completa con alta estabilidad primaria y ferulización de arcada",
+          "trial": "Malo P et al. All-on-4 immediate-function concept with Brånemark system implants for completely edentulous maxillae. Clin Implant Dent Relat Res (2012): datos a 10 años; supervivencia del 93% con carga inmediata; Todo-en-4 establecido como estándar para carga inmediata de arcada completa",
+          "pearl": "Criterios para carga inmediata: (1) Torque de inserción >35 N·cm Y ISQ >70. (2) Ferulización de arcada completa para implantes múltiples. (3) Prótesis provisional con carga oclusal mínima. Todo-en-4 = indicación clásica de carga inmediata. Carga inmediata de implante unitario = solo zona estética con alta estabilidad y sin carga funcional."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q13",
+        "stem": "¿Cuál es el factor de riesgo modificable más importante para la mucositis periimplantaria que, si no se controla, conduce de forma fiable a la periimplantitis?",
+        "options": {
+          "A": "Rugosidad de la superficie del implante",
+          "B": "Grosor óseo marginal inadecuado en el momento de la colocación",
+          "C": "Higiene oral deficiente con acumulación de biopelícula en el margen periimplantario",
+          "D": "Diámetro del implante relativo a la anchura ósea"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El factor de riesgo modificable más importante para la enfermedad periimplantaria (tanto mucositis como progresión a periimplantitis) es la higiene oral deficiente que conduce a la acumulación de biopelícula (placa) en el margen periimplantario. Esto es directamente análogo al papel central de la biopelícula en la enfermedad periodontal. Estudios experimentales (Lang et al.) han demostrado que la acumulación de placa alrededor de los implantes induce de forma reproducible mucositis periimplantaria en 3 semanas, y que la eliminación de la placa produce la resolución. Los estudios a largo plazo identifican consistentemente la higiene oral deficiente como el predictor más fuerte del desarrollo de periimplantitis. La motivación del paciente, la instrucción de higiene oral y el mantenimiento profesional regular son las intervenciones preventivas primarias.",
+          "wrong": {
+            "A": "La rugosidad de la superficie del implante no es modificable tras la colocación — las superficies más rugosas albergan más biopelícula, pero no son un factor de riesgo modificable para el clínico que maneja los implantes existentes",
+            "B": "El hueso marginal inadecuado es un factor anatómico/quirúrgico — no es el principal impulsor de la mucositis periimplantaria; se relaciona más con la estabilidad ósea inicial",
+            "D": "El diámetro del implante relativo a la anchura ósea es un parámetro de planificación que afecta a la estabilidad ósea inicial — no es el principal impulsor de la enfermedad periimplantaria en el implante establecido"
+          },
+          "guideline": "Consensus Conference on Peri-implant Diseases J Clin Periodontol (2018): placa/biopelícula como factor etiológico primario de las enfermedades periimplantarias",
+          "trial": "Zitzmann NU, Berglundh T. Definition and prevalence of peri-implant diseases. J Clin Periodontol (2008): higiene oral deficiente = predictor modificable más fuerte de periimplantitis en estudio longitudinal de 10 años",
+          "pearl": "Prevención de la periimplantitis = control de placa. El factor modificable más importante es la higiene oral. Mantenimiento regular cada 3–6 meses para pacientes con implantes. Refuerza esto con cada paciente antes, durante y después del tratamiento implantológico."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q14",
+        "stem": "¿Cuál es la pérdida ósea marginal aceptable alrededor de un implante dental durante el primer año según los criterios de éxito del Consenso ITI?",
+        "options": {
+          "A": "No se acepta ninguna pérdida ósea — cualquier pérdida ósea indica fracaso",
+          "B": "Hasta 1,5 mm en el primer año, y hasta 0,2 mm/año posteriormente",
+          "C": "Hasta 3 mm en el primer año, luego estable",
+          "D": "Hasta 5 mm en total durante toda la vida del implante"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El Consenso ITI y los criterios de Albrektsson definen la pérdida ósea marginal aceptable como: hasta 1,5 mm durante el primer año (que abarca la remodelación inicial durante la osteointegración y la adaptación a la carga protésica), seguida de no más de 0,2 mm por año posteriormente. Más allá de estos umbrales, debe considerarse e investigarse el diagnóstico de periimplantitis. Este criterio fue establecido en los criterios de éxito originales de Albrektsson (1986) y sigue siendo el estándar clínico.",
+          "wrong": {
+            "A": "Cierta pérdida ósea marginal (<1,5 mm en el año 1) es normal y esperada durante la remodelación inicial — «no se acepta ninguna pérdida» es un estándar poco realista que clasificaría todos los implantes como en fracaso",
+            "C": "3 mm en el año 1 supera el umbral diagnóstico de periimplantitis — esta cantidad de pérdida ósea en el primer año debe desencadenar una investigación y tratamiento, no aceptarse como normal",
+            "D": "5 mm de pérdida total en toda la vida representaría un fracaso completo para la mayoría de los implantes (equivalente a la pérdida de más de la mitad del hueso de soporte)"
+          },
+          "guideline": "ITI Consensus Statements (2023): criterios de éxito del implante — umbrales de pérdida ósea marginal",
+          "trial": "Albrektsson T et al. The long-term efficacy of currently used dental implants: a review and proposed criteria of success. Int J Oral Maxillofac Implants (1986): criterios de éxito que incluyen <1,5 mm de pérdida ósea en el año 1 y <0,2 mm/año posteriormente",
+          "pearl": "Criterios de Albrektsson para pérdida ósea: Año 1 = <1,5 mm aceptable. Año 2+ = <0,2 mm/año. Por encima de estos umbrales = evaluar periimplantitis. Utilizar radiografías periapicales anuales para la monitorización."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C2-Q15",
+        "stem": "El cemento residual de una corona implantosoportada cementada causa qué complicación periimplantaria?",
+        "options": {
+          "A": "Corrosión acelerada del implante por cambios de pH",
+          "B": "Reacción de cuerpo extraño y reservorio de biopelícula, produciendo mucositis periimplantaria y periimplantitis",
+          "C": "Fracaso prematuro de la corona por rotura adhesiva",
+          "D": "Fractura del tornillo del pilar por concentración de tensiones"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El cemento residual de coronas implantosoportadas cementadas que se extruye subgingivalmente actúa como cuerpo extraño y reservorio de biopelícula en el surco periimplantario. Las partículas de cemento impiden el sellado mucoso adecuado en la interfaz implante-pilar, facilitan la acumulación de biopelícula y producen una respuesta inflamatoria de cuerpo extraño. Los estudios muestran enfermedad periimplantaria en aproximadamente el 80% de los implantes con exceso de cemento frente al 20% sin él. Esto es prevenible con la eliminación meticulosa del cemento en el momento del asentamiento de la corona, el uso de cemento en cantidad mínima, o eligiendo restauraciones atornilladas en su totalidad.",
+          "wrong": {
+            "A": "El cemento residual no causa una corrosión electroquímica significativa de los implantes de titanio — el titanio tiene una elevada resistencia a la corrosión",
+            "C": "El fracaso de la corona por rotura adhesiva es una complicación protésica de la propia restauración, no una complicación biológica periimplantaria derivada del exceso de cemento",
+            "D": "La fractura del tornillo del pilar es causada por una carga oclusal excesiva, un torque inadecuado o una carga fuera del eje — no por el exceso de cemento"
+          },
+          "guideline": "ITI Consensus Statements (2023): exceso de cemento como causa principal de complicaciones periimplantarias; se prefieren restauraciones atornilladas donde sea accesible",
+          "trial": "Wilson TG. The positive relationship between excess cement and peri-implant disease: a prospective clinical endoscopic study. J Periodontol (2009): el 80% de los casos de enfermedad periimplantaria tenían evidencia radiográfica/endoscópica de exceso de cemento; la eliminación del cemento resolvió los síntomas en el 74%",
+          "pearl": "Cemento residual = periimplantitis. Prevenible mediante: eliminación meticulosa del cemento, uso de volumen mínimo, o elegir coronas atornilladas. Atornillada = sin riesgo de cemento; cementada = cómoda pero mayor riesgo de periimplantitis. Preferir atornillada en zonas posteriores donde la estética es menos crítica."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q16",
+        "stem": "Un paciente con HbA1c del 9,5% (diabetes tipo 2 mal controlada) solicita implantes dentales para una rehabilitación de arcada inferior completa. ¿Cómo afecta esto a la planificación del implante?",
+        "options": {
+          "A": "HbA1c >9% es una contraindicación absoluta — no se pueden colocar implantes",
+          "B": "HbA1c >8% representa una contraindicación relativa; diferir los implantes hasta que el control glucémico sea óptimo (HbA1c <7%) con el equipo de atención primaria",
+          "C": "La diabetes no afecta significativamente a los resultados de los implantes — proceder con el protocolo estándar",
+          "D": "Colocar implantes de inmediato pero usar el doble del tiempo de curación estándar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una HbA1c >8% se considera una contraindicación relativa para la colocación de implantes dentales. La diabetes mal controlada deteriora la cicatrización de heridas, aumenta el riesgo de infección y se ha asociado a tasas de fracaso de implantes 1,3–1,5 veces mayores. El enfoque actual basado en la evidencia es diferir los implantes hasta mejorar el control glucémico (HbA1c <7% idealmente, <8% como umbral mínimo) en colaboración con el médico de atención primaria o el endocrinólogo del paciente. Una vez optimizado, los implantes pueden colocarse con una monitorización mejorada. Una HbA1c del 9,5% indica un control muy deficiente y un riesgo significativo — proceder sin la optimización glucémica no es apropiado.",
+          "wrong": {
+            "A": "La diabetes no es una contraindicación absoluta ni siquiera con mal control — es una contraindicación relativa que requiere modificación del plan de manejo (no exclusión permanente)",
+            "C": "La DM mal controlada afecta significativamente a los resultados de los implantes — las tasas de fracaso son 1,3–1,5 veces mayores, la cicatrización de heridas está deteriorada y el riesgo de infección es elevado; esto es clínicamente significativo",
+            "D": "El tiempo de curación prolongado por sí solo es inadecuado para una HbA1c del 9,5% — el trastorno metabólico debe abordarse antes de la cirugía; la glucemia deteriora todas las fases de la cicatrización independientemente de la duración"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): diabetes e implantes dentales — se recomienda HbA1c <8% antes de la colocación",
+          "trial": "Chrcanovic BR et al. Diabetes mellitus and oral implant failure: a systematic review. J Oral Rehabil (2014): DM bien controlada (HbA1c <7%) = tasa de fracaso similar a no diabéticos; mal controlada (HbA1c >8%) = tasa de fracaso 1,5×; la optimización de la HbA1c antes de los implantes mejora los resultados",
+          "pearl": "DM e implantes: HbA1c <7% = proceder con protocolo estándar. HbA1c 7–8% = proceder con precaución + monitorización mejorada. HbA1c >8% = contraindicación relativa; diferir hasta la optimización. El umbral del control glucémico es un tema frecuente en los exámenes — conoce HbA1c 7% y 8%."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q17",
+        "stem": "¿Qué característica del concepto de implante Todo-en-4 permite el uso de solo 4 implantes para una rehabilitación de arcada completa, evitando el aumento óseo en maxilares atróficos?",
+        "options": {
+          "A": "Uso de implantes de mayor diámetro para compensar el menor número de implantes",
+          "B": "Inclinación de los 2 implantes posteriores (30–45°) para anclarse en hueso anterior más denso y evitar las estructuras sinusales/nerviosas",
+          "C": "Uso de implantes más largos que penetran en el hueso basal por debajo del seno",
+          "D": "Tratamiento especial de superficie que logra la osteointegración en 1 semana"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El concepto Todo-en-4 (Paulo Malo, Nobel Biocare) coloca 2 implantes anteriores axiales (verticales) y 2 implantes posteriores inclinados a 30–45°. Los implantes posteriores inclinados permiten: (1) evitar los senos maxilares en el maxilar posterior manteniéndose anteriores a ellos, (2) evitar el NDI en la mandíbula posterior al posicionarse anteriores al foramen mentoniano, (3) anclarse en el hueso anterior más denso con mejor calidad ósea, y (4) permitir implantes más largos en zonas donde la altura ósea es limitada, distribuyendo la carga oclusal sobre una mayor superficie hueso-implante. La ferulización de arcada completa con una prótesis provisional inmediata proporciona estabilidad en los 4 implantes como unidad.",
+          "wrong": {
+            "A": "El Todo-en-4 utiliza implantes de diámetro estándar (3,75–5 mm) — la innovación es el ángulo de inclinación, no el tamaño del implante",
+            "C": "Los implantes Todo-en-4 no penetran en el hueso basal bajo el seno — los implantes inclinados evitan el seno al colocarse anteriores a él",
+            "D": "El tratamiento de superficie mejora la calidad de la osteointegración, pero el tratamiento de superficie estándar logra la osteointegración en el período normal de 3–6 meses; la carga inmediata es factible debido a la estabilidad primaria y la ferulización de arcada, no a la osteointegración acelerada"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): rehabilitación de arcada completa con implantes — protocolo de implantes inclinados Todo-en-4",
+          "trial": "Malo P et al. All-on-4 immediate-function concept with Brånemark system implants for completely edentulous maxillae. Clin Implant Dent Relat Res (2012): la inclinación posterior permite evitar el seno + NDI; supervivencia maxilar del 93% a los 10 años",
+          "pearl": "Todo-en-4: 2 anteriores axiales + 2 posteriores inclinados (30–45°). Inclinación = (1) evita seno/NDI, (2) se ancla en hueso anterior denso, (3) permite implantes más largos. Carga inmediata con provisional de arcada completa. Supervivencia a 10 años 93–95%. Este es un tema de alta rentabilidad en los exámenes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q18",
+        "stem": "La MRONJ (osteonecrosis de los maxilares relacionada con medicamentos) se define como la presencia de los tres criterios siguientes EXCEPTO:",
+        "options": {
+          "A": "Hueso expuesto o que puede sondearse en la región maxilofacial",
+          "B": "Antecedente de medicación antirresortiva o antiangiogénica",
+          "C": "Sin radioterapia previa en los maxilares",
+          "D": "Infección dental activa en el lugar de la exposición ósea"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "La definición de MRONJ de la AAOMS requiere tres criterios: (1) Tratamiento actual o previo con agentes antirresortivos o antiangiogénicos, (2) hueso expuesto o que puede sondearse a través de una fístula en la región maxilofacial que ha persistido durante más de 8 semanas, Y (3) sin antecedente de radioterapia en los maxilares ni enfermedad metastásica evidente en los maxilares. La infección dental activa NO es un criterio requerido — la MRONJ puede producirse con o sin infección concurrente. De hecho, la infección es frecuentemente una complicación secundaria del hueso MRONJ expuesto, más que un criterio diagnóstico requerido.",
+          "wrong": {
+            "A": "El hueso expuesto o que puede sondearse SÍ es uno de los tres criterios requeridos — es la presentación clínica de la necrosis",
+            "B": "El antecedente de medicación antirresortiva o antiangiogénica SÍ es requerido — la MRONJ es específicamente relacionada con medicamentos; sin la exposición al medicamento, el diagnóstico es osteorradionecrosis u otra causa",
+            "C": "La ausencia de radioterapia SÍ es requerida — la necrosis mandibular relacionada con la radiación se clasifica como osteorradionecrosis (ORN), no MRONJ; son entidades patológicas diferentes que requieren un manejo distinto"
+          },
+          "guideline": "AAOMS Position Paper (2022): definición de MRONJ y criterios diagnósticos",
+          "trial": "Ruggiero SL et al. American Association of Oral and Maxillofacial Surgeons Position Paper on Medication-Related Osteonecrosis of the Jaw. J Oral Maxillofac Surg (2022): definición de tres criterios; ausencia de radiación requerida para distinguir MRONJ de ORN",
+          "pearl": "MRONJ = 3 criterios: (1) Fármaco antirresortivo/antiangiogénico, (2) Hueso expuesto/sondeable >8 semanas, (3) Sin radiación previa en el maxilar. La infección activa NO es requerida. Distinción clave: ORN = antecedente de radiación; MRONJ = antecedente de fármaco, sin radiación. Ambos causan exposición ósea maxilar pero requieren un manejo diferente."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C2-Q19",
+        "stem": "Una mujer de 72 años refiere que su implante mandibular colocado hace 8 años ahora se mueve al morder. La radiografía muestra ausencia completa de hueso alrededor del implante hasta su ápice. ¿Cuál es el manejo más apropiado?",
+        "options": {
+          "A": "Desbridamiento quirúrgico con ROG para regenerar el hueso perdido alrededor del implante",
+          "B": "Prescribir tetraciclina local + antibióticos sistémicos durante 4 semanas",
+          "C": "Extracción del implante, desbridamiento, injerto óseo y reimplantación diferida",
+          "D": "Sustitución inmediata por un implante más largo en el mismo lecho"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Un implante móvil con pérdida ósea completa hasta el ápice y movilidad clínicamente detectable representa un fracaso terminal del implante con pérdida de osteointegración. Un implante móvil no puede salvarse — debe extraerse. La secuencia es: (1) Explantación del implante fracasado, (2) Desbridamiento minucioso y descontaminación del defecto, (3) Injerto óseo del defecto (ROG o injerto particulado), (4) 4–6 meses para la curación y maduración ósea, (5) Reevaluación del lecho para la idoneidad del implante, (6) Reimplantación si el lecho ha curado adecuadamente y el factor de riesgo causante ha sido controlado.",
+          "wrong": {
+            "A": "La ROG no puede regenerar hueso alrededor de un implante móvil — la osteointegración se ha perdido y el implante debe extraerse antes de cualquier intento regenerativo; intentar ROG en un implante móvil no está basado en la evidencia y fracasará",
+            "B": "Los antibióticos no pueden restaurar el hueso perdido ni restablecer la osteointegración — son complementos del tratamiento mecánico/quirúrgico, no un tratamiento primario para un implante móvil",
+            "D": "Colocar un implante más largo de forma inmediata en el mismo lecho es inapropiado — el defecto infectado/inflamado requiere un desbridamiento minucioso y curación antes de la reimplantación; la reimplantación inmediata en un lecho contaminado tiene tasas de fracaso muy elevadas"
+          },
+          "guideline": "ITI Consensus Statements (2023): manejo del implante fracasado — implante móvil = extraer + tratar el lecho + reimplantación diferida",
+          "trial": "Mombelli A et al. Treatment of peri-implantitis. Periodontol 2000 (2018): implante móvil con pérdida ósea completa = extracción del implante requerida; ningún tratamiento conservador ha demostrado eficacia para los implantes móviles",
+          "pearl": "Implante móvil = osteointegración perdida = EXTRAER. Sin debate. Luego: desbridar + injertar + esperar 4–6 meses + reimplantar si el lecho ha curado. Implante no móvil con periimplantitis = opciones de tratamiento quirúrgico. Móvil = sin opciones excepto la extracción."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C2-Q20",
+        "stem": "Al realizar regeneración ósea guiada (ROG) para el aumento horizontal del reborde alveolar previo a la colocación de implantes, ¿cuál de los siguientes principios es más crítico para lograr la regeneración ósea en lugar del relleno con tejido blando?",
+        "options": {
+          "A": "Usar el menor volumen posible de injerto óseo para minimizar la resorción",
+          "B": "Exclusión por membrana barrera de las células de tejido blando manteniendo el espacio para las células formadoras de hueso",
+          "C": "Lograr el cierre primario del colgajo bajo tensión para aumentar la presión de formación ósea",
+          "D": "Usar una esponja de colágeno empapada en antibiótico en lugar de injerto óseo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El principio fundamental de la regeneración ósea guiada es la función de la membrana barrera para excluir físicamente las células de tejido blando de proliferación rápida (fibroblastos, epitelio) del espacio del defecto, mientras mantiene un espacio protegido que permite que las células formadoras de hueso de migración más lenta (osteoblastos del periostio y endostio, células madre mesenquimales) lo pueblen y regeneren hueso. Sin la membrana, los fibroblastos superan en número a los osteoblastos y rellenan el defecto con tejido conectivo no mineralizado. La membrana también estabiliza el injerto y mantiene el espacio para la organización del coágulo sanguíneo y la angiogénesis.",
+          "wrong": {
+            "A": "Minimizar el volumen del injerto limita el andamiaje para la formación ósea — un volumen de injerto adecuado (que proporcione andamiaje osteoconductor y potencialmente factores osteoinductores) es importante; minimizarlo reduce el resultado",
+            "C": "El cierre primario sin tensión es el principio quirúrgico correcto — el cierre BAJO tensión causa dehiscencia de la herida, exposición de la membrana e infección, arruinando el resultado de la ROG; el cierre sin tensión es esencial",
+            "D": "La esponja de antibiótico no proporciona la barrera física ni el andamiaje osteoconductor necesarios para la ROG; los antibióticos pueden usarse como adyuvantes pero no son un sustituto de la membrana + injerto"
+          },
+          "guideline": "ITI Consensus Statements (2023): principios de la ROG — membrana barrera como componente esencial para la repoblación celular selectiva",
+          "trial": "Dahlin C et al. Healing of bone defects by guided tissue regeneration. Plast Reconstr Surg (1988): estudio original de ROG que establece la membrana barrera como principio esencial; las membranas que excluían el tejido fibroso produjeron relleno óseo frente a relleno de tejido blando en los controles",
+          "pearl": "Principio de la ROG = la membrana barrera EXCLUYE las células de tejido blando (rápidas) y PERMITE las células óseas (lentas). Sin membrana = relleno de tejido blando. Con membrana = regeneración ósea. El cierre primario sin tensión también es esencial — la exposición de la membrana = fracaso."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

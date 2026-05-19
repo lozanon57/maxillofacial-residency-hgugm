@@ -1,0 +1,636 @@
+{
+  "id": "D1",
+  "title": "Trastornos de la Articulación Temporomandibular",
+  "subtitle": "Bloque D — Clasificación de Wilkes, Diagnóstico, Tratamiento Conservador",
+  "block": "D",
+  "block_name": "Articulación Temporomandibular y Traumatología Facial",
+  "level": "R2-3",
+  "reading_time_min": 36,
+  "guidelines_version": "AAOMS TMD Clinical Practice Guidelines 2022 · EACMFS TMJ Guidelines 2023 · ICOP 2020 (Clasificación del Dolor Orofacial)",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3ª ed. (2012)",
+    "Wilkes CH. Internal derangements of the temporomandibular joint. Arch Otolaryngol Head Neck Surg (1989)",
+    "de Leeuw R, Klasser GD (eds). Orofacial Pain: Guidelines for Assessment, Diagnosis, and Management. AAOP 5ª ed. (2013)",
+    "Schiffman E et al. Diagnostic Criteria for Temporomandibular Disorders (DC/TMD). J Oral Facial Pain Headache (2014)"
+  ],
+  "learning_objectives": [
+    "Aplicar la clasificación de Wilkes para estadificar las alteraciones internas de la ATM a partir de hallazgos clínicos y radiológicos",
+    "Distinguir el dolor miofascial masticatorio de la artropia de la ATM y los trastornos del disco intraarticular mediante los criterios DC/TMD",
+    "Interpretar los hallazgos de la RM de ATM relevantes para el desplazamiento discal con y sin reducción",
+    "Seleccionar estrategias conservadoras de tratamiento adecuadas (férulas oclusales, fisioterapia, farmacoterapia) en función del diagnóstico y el estadio",
+    "Reconocer las indicaciones de escalada desde el tratamiento conservador al quirúrgico en los trastornos de la ATM",
+    "Identificar las enfermedades sistémicas más frecuentemente asociadas a artritis de la ATM (artritis reumatoide, artritis psoriásica, artritis idiopática juvenil)"
+  ],
+  "sections": [
+    {
+      "id": "D1-S1",
+      "title": "Anatomía y Biomecánica de la ATM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La articulación temporomandibular (ATM) es una articulación sinovial bilateral única en el organismo, ya que ambas articulaciones deben funcionar simultáneamente y de forma coordinada. Es una articulación ginglimoartrodial, capaz tanto de movimiento en bisagra (ginglimoidea) como de deslizamiento (artrodial). Las superficies articulares están recubiertas de fibrocartílago (no cartílago hialino), lo que hace a la ATM menos susceptible a la artrosis primaria que las articulaciones periféricas, aunque sigue siendo vulnerable a la artropatía degenerativa bajo cargas anómalas.\n\nEl disco articular bicóncavo (menisco) divide la articulación en compartimentos superior e inferior. El compartimento superior permite el movimiento traslacional (deslizamiento) durante la apertura máxima; el inferior permite la rotación. El disco consta de tejido conectivo fibroso con tres zonas diferenciadas: banda anterior (gruesa), zona intermedia (delgada, zona de carga) y banda posterior (la más gruesa, aproximadamente 3 mm). La zona bilaminar (tejido retrodiscal) se inserta posteriormente, proporcionando tracción elástica que devuelve el disco hacia delante durante el cierre. La lámina retrodiscal superior contiene fibras elásticas; la inferior es colágeno inelástico.\n\nLos músculos masticadores —masetero (cabezas superficial y profunda), pterigoideo interno, pterigoideo externo (cabezas superior e inferior) y temporal— proporcionan las fuerzas primarias sobre la articulación. La cabeza inferior del pterigoideo externo protraía el cóndilo durante la apertura; la cabeza superior estabiliza el disco durante el golpe de potencia. La apertura mandibular máxima normal es de 40–55 mm (interincisal); una limitación dolorosa por debajo de 35 mm es clínicamente significativa. La excursión lateral es normalmente de 8–12 mm; la protrusión de 6–9 mm."
+        },
+        {
+          "type": "table",
+          "title": "Estructuras Articulares de la ATM y Relevancia Clínica",
+          "headers": ["Estructura", "Composición", "Función", "Relevancia Clínica"],
+          "rows": [
+            ["Disco articular (zona intermedia)", "Fibrocartílago denso, avascular", "Soporte de carga, distribución de la carga", "Perforación = contacto hueso con hueso, OA"],
+            ["Banda posterior", "Fibrocartílago grueso (~3 mm)", "Ancla el disco posteriormente", "Desplazamiento anterior del disco = el cóndilo carga sobre la banda posterior"],
+            ["Zona bilaminar (retrodiscal)", "Colágeno elástico superior + inelástico inferior", "Retorno del disco al cerrar", "Muy inervada/vascularizada; fuente de dolor en el desplazamiento discal"],
+            ["Compartimento articular superior", "Líquido sinovial, superficie superior del disco", "Traslación durante la apertura amplia", "Sitio de inyección de corticoide/ácido hialurónico"],
+            ["Fibrocartílago (superficie articular)", "Colágeno tipo I, sin inervación", "Soporte de carga, movimiento articular", "Se repara mal cuando se daña; susceptible de remodelación adaptativa"],
+            ["Cabeza condilar", "Hueso con casquete fibrocartilaginoso", "Rota/traslada durante la apertura bucal", "Erosión condilar en artritis inflamatoria, OA"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Característica Única de la ATM — Fibrocartílago, No Cartílago Hialino",
+          "content": "La ATM está recubierta por fibrocartílago (colágeno tipo I) en lugar de cartílago hialino (colágeno tipo II). Esta es una pregunta clásica de examen. La implicación clínica es que el fibrocartílago de la ATM tiene una capacidad intrínseca de reparación limitada, pero muestra una considerable capacidad de remodelación adaptativa; los cambios «adaptativos» no deben confundirse con artrosis patológica en las imágenes a menos que coexistan síntomas."
+        }
+      ]
+    },
+    {
+      "id": "D1-S2",
+      "title": "Clasificación de los Trastornos Temporomandibulares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los trastornos temporomandibulares (TTM) engloban un grupo heterogéneo de afecciones que afectan a los músculos masticadores, las ATM y las estructuras asociadas. Los Criterios Diagnósticos para los Trastornos Temporomandibulares (DC/TMD), publicados por Schiffman et al. en 2014 y avalados por el Consorcio Internacional RDC/TMD, constituyen el marco de clasificación de referencia actual. Los DC/TMD distinguen entre el Eje I (diagnósticos físicos) y el Eje II (evaluación psicosocial).\n\nLos diagnósticos físicos del Eje I se agrupan en tres grandes categorías: (1) **Trastornos musculares masticadores** — mialgia (dolor local y miofascial), dolor miofascial con irradiación, miospasmo, contractura e hipertrofia; (2) **Trastornos de la ATM** — desplazamiento discal con reducción (DDcR), desplazamiento discal con reducción y bloqueo intermitente (DDcRBI), desplazamiento discal sin reducción con apertura limitada (DDsR-LA), desplazamiento discal sin reducción sin apertura limitada (DDsR-SA); y (3) **Enfermedad articular** — enfermedad articular degenerativa (osteoartritis, osteoartrosis), artropatías sistémicas, condilisis/reabsorción condilar idiopática (RCI).\n\nPara uso clínico, el sistema de estadificación de Wilkes (1989) sigue siendo ampliamente aplicado en la planificación quirúrgica de las alteraciones internas, estadificando las alteraciones internas de la ATM desde el Estadio I (desplazamiento discal reductible con clic indoloro, sin cambios estructurales) hasta el Estadio V (bloqueo crónico con artrosis grave, disco perforado). El sistema de Wilkes integra hallazgos clínicos, de RM y artroscópicos para guiar la toma de decisiones quirúrgicas, en particular para la artroscopia y la cirugía abierta."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Wilkes de las Alteraciones Internas de la ATM",
+          "headers": ["Estadio", "Características Clínicas", "Hallazgos en RM", "Cambios Estructurales", "Tratamiento Habitual"],
+          "rows": [
+            ["I (Precoz)", "Clic indoloro; apertura completa; sin bloqueo", "Desplazamiento anterior leve del disco; se reduce al abrir", "Ninguno; contorno discal normal", "Tranquilización, autocuidado, fisioterapia"],
+            ["II (Precoz/intermedio)", "Clic doloroso ocasional; bloqueo intermitente; ligera limitación de apertura", "Desplazamiento anterior del disco; contorno discal irregular", "Ligera deformación del disco", "Férula, fisioterapia, AINE"],
+            ["III (Intermedio)", "Bloqueo doloroso frecuente; apertura restringida <35 mm; dolor articular", "Desplazamiento anterior no reductible del disco; deformación moderada", "Inicio de cambios en la superficie articular", "Fallo conservador → artroscopia"],
+            ["IV (Intermedio/tardío)", "Dolor crónico; apertura restringida; crepitación", "Desplazamiento crónico no reductible; deformación grave del disco", "Osteofitos, esclerosis, aplanamiento del cóndilo", "Artroscopia o discoplastia abierta"],
+            ["V (Tardío)", "Dolor variable; crepitación; posibles cambios en la oclusión", "Disco perforado/destruido; artrosis grave", "OA avanzada: osteofitos, aplanamiento, reabsorción, erosión", "Discectomía ± sustitución; RTT si grave"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Diferenciación del Clic de la ATM",
+          "content": "Un clic de la ATM se clasifica por su relación temporal con la apertura bucal: un clic de apertura precoz (dentro de los primeros 10 mm) sugiere un desplazamiento discal anterior leve; un clic de apertura tardío (>25 mm de apertura) sugiere un desplazamiento más avanzado. Un clic recíproco —tanto al abrir como al cerrar— es patognomónico del desplazamiento discal CON reducción (DDcR). Un clic solo a la apertura, o la ausencia de un clic previamente presente acompañada de una limitación súbita de la apertura, sugiere conversión a desplazamiento discal SIN reducción (bloqueo cerrado). Esta historia clínica es fundamental para la estadificación."
+        }
+      ]
+    },
+    {
+      "id": "D1-S3",
+      "title": "Imagen Diagnóstica de la ATM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La elección de la modalidad de imagen en los TTM depende de la pregunta clínica: cambios óseos frente a patología del disco y los tejidos blandos. La **radiografía panorámica (OPG)** es una herramienta razonable de cribado de primera línea para los cambios óseos groseros, pero presenta limitaciones significativas como superposición y distorsión geométrica del 20–25%. La **tomografía computarizada de haz cónico (CBCT)** proporciona un detalle superior de los cambios óseos —erosión condilar, formación de osteofitos, aplanamiento y esclerosis— con menor radiación que la TC médica. No puede visualizar el disco ni el líquido sinovial.\n\nLa **RM de la ATM** es el patrón de referencia para la evaluación de tejidos blandos y la modalidad de imagen de elección para las alteraciones internas, el desplazamiento discal, el derrame articular, la inflamación sinovial y los cambios medulares. El protocolo estándar de RM incluye: secuencias oblicuas sagitales ponderadas en T1 en posición de boca cerrada y abierta (para evaluar la posición y traslación del disco), y secuencias de densidad de protones o T2 (para evaluar la morfología del disco, el derrame y el edema). El disco normal es uniformemente hipointenso (oscuro) en T1 y T2. El desplazamiento discal se identifica cuando la banda posterior está desplazada anteriormente respecto a la posición de las 12 en punto (superior a la cabeza condilar en el plano sagital). El derrame articular aparece como señal T2 elevada en los espacios articulares. La **artroscopia diagnóstica** ha sido sustituida en gran medida por la RM, aunque puede utilizarse intraoperatoriamente durante la artroscopia.\n\nPara la reabsorción condilar (RCI), la CBCT seriada cada 6–12 meses cuantifica la progresión. Ante sospecha de artritis inflamatoria (AR, APs, AIJ), se requiere evaluación serológica o seronegativa, VSG, PCR, anticuerpos anti-PCC y cogestión reumatológica junto a la imagen."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Posición Normal del Disco en RM — Regla de las 12 en Punto",
+          "content": "En la RM oblicua sagital ponderada en T1 con la boca CERRADA, la banda posterior del disco articular debe situarse en la posición de las 12 en punto respecto a la cabeza condilar. Cualquier desplazamiento anterior de la banda posterior más allá de esta posición indica desplazamiento discal. «Con reducción» = el disco regresa a las 12 en punto en la RM con la boca ABIERTA. «Sin reducción» = el disco permanece anterior tanto en boca cerrada como abierta — este es el sello característico del bloqueo cerrado."
+        }
+      ]
+    },
+    {
+      "id": "D1-S4",
+      "title": "Dolor Miofascial Masticatorio y Trastornos del Dolor Orofacial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El dolor miofascial masticatorio (DM) es la forma más frecuente de TTM, afecta aproximadamente al 6–12% de la población general y es responsable de hasta el 80% de las presentaciones de TTM en atención primaria. Se caracteriza por dolor sordo y continuo en los músculos masticadores —típicamente masetero, temporal y pterigoideo interno— que empeora con la masticación y la función mandibular, y puede ir acompañado de patrones de dolor referido. A diferencia de los TTM de base articular, el DM no se asocia a ruidos articulares, clic ni limitación de la apertura a la tracción pasiva.\n\nLos criterios DC/TMD para el dolor miofascial requieren: dolor familiar en la mandíbula, la sien o el oído reproducido a la palpación del masetero o del temporal, y dolor presente durante ≥3 meses. El dolor miofascial con irradiación (anteriormente «dolor miofascial con puntos gatillo de irradiación») requiere además que la palpación del músculo reproduzca el dolor en un lugar distante del punto de palpación —el patrón de irradiación. Los puntos gatillo del temporal irradian característicamente a cefalea temporal ipsilateral; los del masetero irradian a la región preauricular, los dientes mandibulares y el oído.\n\nEl modelo biopsicosocial (DC/TMD Eje II) es fundamental para comprender el DM: los trastornos del sueño, la ansiedad, la depresión y la catastrofización se asocian fuertemente con la cronificación del dolor masticatorio y predicen una respuesta deficiente a los tratamientos locales aislados. Los instrumentos validados (PHQ-4, GAD-7, PROMIS) detectan la comorbilidad psicosocial. La derivación a TCC y a psicólogo del dolor se recomienda para los pacientes con puntuaciones altas de catastrofización del dolor o carga psicosocial significativa. Las conductas parafuncionales —bruxismo, apretamiento, tensión mandibular— son factores precipitantes o perpetuadores frecuentemente identificados."
+        },
+        {
+          "type": "table",
+          "title": "Características Diferenciales entre Mialgia Masticadora y Trastorno Discal de la ATM",
+          "headers": ["Característica", "Mialgia Masticadora/DM", "Desplazamiento Discal de la ATM"],
+          "rows": [
+            ["Localización del dolor", "Vientre muscular a la palpación; cara/cabeza difusa", "Preauricular; localizado en la articulación"],
+            ["Ruidos articulares", "Ausentes", "Clic (DDcR) o crepitación (OA/DDsR)"],
+            ["Patrón de apertura", "Reducido; recto (simétrico); mejora a la tracción pasiva", "Desviación hacia el lado afecto (DDsR); clic recíproco (DDcR)"],
+            ["Respuesta a la tracción pasiva", "Aumenta la apertura (guarda muscular)", "Apertura permanece limitada (bloqueo mecánico)"],
+            ["Asociación con bruxismo", "Fuerte", "Moderada"],
+            ["Hallazgos en RM", "Articulación normal; posible hipertrofia muscular", "Desplazamiento discal; posible derrame"],
+            ["Tratamiento primario", "Fisioterapia, TCC, ATC en dosis baja, férula oclusal", "Férula, AINE, artrocentesis si bloqueo"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D1-S5",
+      "title": "Terapia con Férula Oclusal",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las férulas oclusales (aparatos de estabilización) son el tratamiento conservador más ampliamente prescrito para los TTM y los trastornos musculares masticadores relacionados con el bruxismo. La férula de estabilización (también llamada férula de Michigan, férula de relación céntrica o férula de plano plano) es un aparato maxilar, de acrílico duro y de cobertura completa que proporciona: contactos posteriores bilaterales uniformes en máxima intercuspidación, guía anterior (canina o grupal) y ausencia de guía posterior. El mecanismo de acción sigue siendo objeto de debate: los mecanismos propuestos incluyen la reducción de la carga articular, la interrupción de los ciclos parafuncionales y el cambio propioceptivo temporal. La evidencia de las revisiones sistemáticas (incluida la revisión Cochrane de Fricton et al., 2010) sugiere que las férulas de estabilización son superiores al placebo para el dolor y la función mandibular en los TTM miofasciales y en los trastornos del desplazamiento discal.\n\nEl **aparato de reposicionamiento anterior** es un dispositivo controvertido que protraye la mandíbula para reducir el disco sobre la cabeza condilar (reducir los clic del DDcR). Aunque puede lograr alivio sintomático, el uso a largo plazo conlleva el riesgo de mordida abierta posterior por la desoclusión posterior y debe limitarse temporalmente (<3–6 meses). No está recomendado como primera línea en las guías AAOMS 2022.\n\nLos **dispositivos NTI-tss (Nociceptive Trigeminal Inhibition Tension Suppression System)** de cobertura parcial (duro) cubren solo los dientes anteriores. Su uso se ha asociado a trastornos temporomandibulares paradójicos y a sobreerupción de los dientes posteriores con el uso prolongado; no están recomendados para el tratamiento de los TTM según la AAOMS. Las férulas blandas (protectores bucales) son adecuadas para la protección frente al bruxismo, pero no son terapéuticas para el dolor relacionado con TTM de la misma manera que los aparatos de estabilización duros."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Tratamientos Irreversibles — Advertencia sobre el Equilibrado Oclusal",
+          "content": "El ajuste oclusal permanente (desgaste dental, restauraciones irreversibles) para tratar los TTM no está respaldado por evidencia y está explícitamente contraindicado como tratamiento de primera línea en las Guías de Práctica Clínica de la AAOMS para TTM 2022. El principio de «reversibilidad primero» exige que el tratamiento inicial de los TTM emplee únicamente enfoques reversibles (férulas, fisioterapia, farmacoterapia). Los tratamientos irreversibles nunca deben implementarse hasta que las opciones reversibles hayan sido exhaustivamente probadas."
+        }
+      ]
+    },
+    {
+      "id": "D1-S6",
+      "title": "Farmacoterapia y Tratamiento Conservador",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El tratamiento farmacológico de los TTM se dirige al dolor, la inflamación y la actividad muscular parafuncional. Los AINE son de primera línea para la artralgia y la mialgia aguda de la ATM: ibuprofeno 400–600 mg tres veces al día o naproxeno 500 mg dos veces al día durante 7–14 días. Los inhibidores selectivos de la ciclooxigenasa (COX-2) son preferibles en pacientes con factores de riesgo gastrointestinal. Los AINE tópicos (gel de diclofenaco) pueden proporcionar beneficio local con menores efectos secundarios sistémicos. Las inyecciones intraarticulares de corticosteroides (triamcinolona 10–20 mg) están indicadas para las reagudizaciones inflamatorias agudas de la artralgia de la ATM que no responden a los AINE orales; deben limitarse a 3 inyecciones al año por el riesgo de degradación del cartílago con la administración repetida.\n\nPara el dolor crónico con características de sensibilización central, los antidepresivos tricíclicos (ATC) a dosis bajas —amitriptilina 10–50 mg por la noche— tienen la evidencia más sólida como analgésicos coadyuvantes para el dolor musculoesquelético crónico, independientemente del efecto antidepresivo. Los IRSN (duloxetina 30–60 mg) son una alternativa con mejor tolerabilidad. Las benzodiazepinas (diazepam 2–5 mg por la noche) proporcionan relajación muscular a corto plazo, pero no deben prescribirse más de 4 semanas por el riesgo de dependencia. Los relajantes musculares (ciclobenzaprina 5–10 mg por la noche) pueden considerarse en episodios agudos.\n\nLa fisioterapia constituye la piedra angular del tratamiento multidisciplinar de los TTM. Las intervenciones basadas en evidencia incluyen: terapia manual (movilización articular, masaje de tejidos blandos), ejercicio terapéutico (ejercicios de apertura mandibular y excursiones laterales), corrección postural (en especial de la postura cervical) y educación del paciente. La acupuntura tiene evidencia moderada específicamente para el dolor miofascial. La terapia cognitivo-conductual (TCC) es la intervención psicológica con mayor evidencia y está indicada en todos los pacientes con dolor crónico, trastornos del sueño o puntuaciones altas de catastrofización."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Inyección de Ácido Hialurónico — Resumen de Evidencia",
+          "content": "Las inyecciones intraarticulares de ácido hialurónico (hialuronato sódico, Ostenil, Suplasyn) en el compartimento articular superior han demostrado beneficio en la osteoartritis de la ATM, especialmente para el dolor y la movilidad articular. Tres revisiones sistemáticas (incluida Altman 2022, J Oral Rehabil) muestran superioridad sobre las inyecciones placebo para el dolor a los 3 y 6 meses. Generalmente se administran tras el lavado por artrocentesis. El efecto se atribuye a la viscosupplementación, que restaura la lubricación del líquido sinovial y reduce la concentración de mediadores inflamatorios."
+        }
+      ]
+    },
+    {
+      "id": "D1-S7",
+      "title": "Artropatías Sistémicas y la ATM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La ATM se ve afectada en las artropatías inflamatorias sistémicas de forma predecible. La **artritis reumatoide (AR)** afecta a la ATM en el 50–75% de los pacientes con el tiempo, típicamente de forma bilateral. Produce formación de pannus sinovial, erosión condilar progresiva y, en última instancia, anquilosis fibrosa. Las imágenes muestran reabsorción condilar con aplanamiento, erosión y osteoporosis. La positividad de los anticuerpos anti-PCC y el FR son diagnósticos. El tratamiento con FAME (metotrexato, leflunomida, agentes biológicos) lo gestiona el reumatólogo. La intervención de la CCMF se orienta al tratamiento sintomático, la colocación de férulas de ATM y, en última instancia, a la intervención quirúrgica cuando la destrucción articular es grave.\n\nLa **artritis psoriásica (APs)** afecta a la ATM con menor frecuencia que la AR, pero puede presentarse con artralgia de ATM como primera manifestación antes de que la psoriasis cutánea sea evidente. La CBCT puede mostrar erosión y superficies articulares irregulares. Es seronegativa (FR negativo) con asociación HLA-B27 en la enfermedad axial. La **artritis idiopática juvenil (AIJ)** es especialmente importante en CCMF porque provoca destrucción condilar progresiva durante el período de crecimiento, lo que conduce a retrognasia mandibular, mordida abierta anterior y deformidad facial si no se trata. La cogestión precoz reumatológica y de CCMF es esencial; las inyecciones intraarticulares de corticosteroides en la infancia pueden detener la destrucción condilar, pero deben utilizarse con prudencia por el riesgo de inhibición del crecimiento.\n\nLa **reabsorción condilar idiopática (RCI, condilisis)** es una entidad importante que afecta predominantemente a mujeres jóvenes (90% de sexo femenino, típicamente entre 15 y 35 años) y se caracteriza por una reabsorción condilar bilateral progresiva que lleva a maloclusión de clase II progresiva, retrognasia y mordida abierta anterior. Las etiologías propuestas incluyen la carga biomecánica (AMP elevado, eminencia articular de mayor inclinación), factores hormonales (expresión de receptores de estrógenos en el fibrocartílago condilar) y procesos inflamatorios sistémicos. La RCI es una contraindicación clave para la cirugía ortognática en la fase activa —operar durante la reabsorción activa genera recidiva. La estabilización con una férula de reposicionamiento anterior y la monitorización seriada con CBCT durante 12–24 meses para confirmar el cese antes de la intervención quirúrgica constituyen la práctica estándar."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "RCI y Cirugía Ortognática — Contraindicación Crítica",
+          "content": "La reabsorción condilar idiopática activa es una CONTRAINDICACIÓN para la cirugía ortognática. La cirugía durante la RCI activa produce una reabsorción condilar adicional en el postoperatorio, lo que provoca una recidiva esquelética impredecible y a menudo grave. El diagnóstico de RCI activa requiere CBCT seriada a intervalos de 6–12 meses que demuestre una reducción progresiva del volumen condilar. Solo tras 12–24 meses de estabilidad documentada debe procederse a la cirugía ortognática. Factores de alto riesgo: mujer joven, AMP elevado, eminencia articular con mayor inclinación, retrognasia de clase II, mordida abierta anterior, corrección ortodóncica previa de clase II."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Ponga a prueba sus conocimientos sobre los trastornos de la ATM con 20 preguntas tipo MIR.",
+    "questions": [
+      {
+        "id": "D1-Q1",
+        "stem": "Una mujer de 28 años presenta un cuadro de 6 meses de evolución de clic en la ATM derecha al abrir la boca, que en ocasiones es doloroso. Refiere episodios ocasionales de breve bloqueo que se resuelven espontáneamente. La apertura máxima es de 42 mm con desviación hacia la derecha, y se aprecia un clic palpable a los 18 mm de apertura con clic recíproco al cerrar. La RM muestra la banda posterior del disco derecho desplazada anteriormente respecto a las 12 en punto en la vista de boca cerrada, con retorno a la posición normal en la vista de boca abierta. ¿Cuál es el diagnóstico y el estadio de Wilkes?",
+        "options": {
+          "A": "Desplazamiento discal sin reducción (DDsR); estadio III de Wilkes",
+          "B": "Desplazamiento discal con reducción (DDcR) con bloqueo intermitente; estadio II de Wilkes",
+          "C": "Osteoartritis de la ATM; estadio IV de Wilkes",
+          "D": "Dolor miofascial masticatorio; estadio I de Wilkes"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El clic recíproco (tanto al abrir como al cerrar), los episodios de bloqueo intermitente que se resuelven espontáneamente y la RM que muestra el desplazamiento discal que SE REDUCE al abrir la boca confirman el desplazamiento discal con reducción y bloqueo intermitente (DDcRBI), clasificado en los DC/TMD. El bloqueo intermitente y el dolor ocasional, con ligera deformación del disco y sin cambios óseos, corresponden al estadio II de Wilkes (precoz/intermedio). Una apertura completa de 42 mm con desviación hacia el lado afecto es compatible con el DDcR.",
+          "wrong": {
+            "A": "El DDsR mostraría el disco permaneciendo anteriormente desplazado TANTO en la RM de boca cerrada como abierta, típicamente con apertura restringida <35 mm que NO mejora con tracción pasiva.",
+            "C": "La osteoartritis mostraría crepitación y cambios óseos (osteofitos, erosión, aplanamiento) en la CBCT. El clic es un fenómeno discal; la crepitación es el ruido articular asociado al contacto hueso con hueso en la OA.",
+            "D": "El dolor miofascial se presenta con sensibilidad muscular, sin ruidos articulares y con RM normal. La estadificación de Wilkes es específicamente para las alteraciones internas, no para el dolor miofascial."
+          },
+          "guideline": "DC/TMD (Schiffman et al. J Oral Facial Pain Headache 2014) — criterios del DDcRBI: dolor familiar + clic + bloqueo intermitente + reducción en RM",
+          "trial": "Wilkes CH. Internal derangements of the TMJ. Arch Otolaryngol Head Neck Surg (1989): Estadio II = apertura ligeramente limitada, bloqueo intermitente, ligera deformación del disco, sin cambios óseos",
+          "pearl": "Clic recíproco (tanto al abrir COMO al cerrar) = desplazamiento discal CON reducción. Clic solo en apertura = DDcR. Ausencia de clic + apertura bruscamente limitada = conversión a DDsR (bloqueo cerrado). La RM confirma: el disco vuelve a las 12 en punto al abrir = 'con reducción'."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q2",
+        "stem": "En la RM de la ATM, ¿dónde debe situarse la banda posterior del disco articular en una articulación normal con la boca cerrada?",
+        "options": {
+          "A": "En la posición de las 9 en punto (posterior al cóndilo)",
+          "B": "En la posición de las 12 en punto (superior al cóndilo)",
+          "C": "En la posición de las 3 en punto (anterior al cóndilo)",
+          "D": "En la posición de las 6 en punto (inferior al cóndilo)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En una ATM normal, en la RM oblicua sagital ponderada en T1 con boca cerrada, la banda posterior del disco articular se sitúa en la posición de las 12 en punto respecto a la cabeza condilar —es decir, directamente superior al cóndilo. Esta es la referencia anatómica estándar. Cualquier desplazamiento de la banda posterior anterior a esta posición (hacia las 3 en punto) constituye un desplazamiento anterior del disco. El grado de desplazamiento puede cuantificarse en grados o describirse como leve (<10°), moderado (10–20°) o grave (>20°).",
+          "wrong": {
+            "A": "Las 9 en punto representarían un disco desplazado posteriormente, que es infrecuente y clínicamente distinto del desplazamiento anterior del disco.",
+            "C": "Las 3 en punto representan el desplazamiento anterior de la banda posterior —esto ES la definición del desplazamiento discal, no la anatomía normal.",
+            "D": "Las 6 en punto son anatómicamente imposibles para la banda posterior —el compartimento articular inferior está limitado por el cóndilo por abajo y el disco por arriba."
+          },
+          "guideline": "Protocolo de imagen DC/TMD (Schiffman et al. 2014) — banda posterior a las 12 en punto = posición normal; anterior a las 12 en punto = desplazamiento discal",
+          "trial": "Tasaki MM et al. Classification and prevalence of TMJ disk displacement in patients and symptom-free volunteers. Am J Orthod Dentofacial Orthop (1996): criterio de las 12 en punto para posición normal del disco validado en 330 articulaciones",
+          "pearl": "Disco normal de la ATM: BANDA POSTERIOR a las 12 EN PUNTO en RM con boca cerrada. Este es el único punto de referencia más importante en RM de ATM. Desplazamiento = banda posterior anterior a las 12 en punto. Reducción = la banda posterior regresa a las 12 en punto en la vista de boca abierta."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q3",
+        "stem": "Un hombre de 32 años se despierta con incapacidad súbita para abrir la boca más de 22 mm, con desviación de la mandíbula hacia la derecha al abrir. Refiere un clic crónico del lado derecho de la ATM que ahora está ausente. No hay antecedentes de traumatismo. Consigue una apertura de solo 24 mm incluso con tracción pasiva asistida. ¿Cuál es el diagnóstico más probable?",
+        "options": {
+          "A": "Espasmo muscular masticatorio secundario a bruxismo",
+          "B": "Desplazamiento discal agudo sin reducción (bloqueo cerrado), ATM derecha",
+          "C": "Anquilosis de la ATM tras fractura subcondílea previa",
+          "D": "Neuropatía motora del trigémino que provoca debilidad del pterigoideo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La aparición súbita de apertura limitada (<25 mm), la desviación ipsilateral, la desaparición de un clic previo de la ATM y la incapacidad de mejorar con tracción pasiva son la presentación clásica del desplazamiento discal agudo sin reducción (bloqueo cerrado agudo). El clic desaparece porque el disco ya no se reduce durante la apertura —permanece permanentemente desplazado anteriormente, bloqueando físicamente la traslación condilar completa. Estadio III de Wilkes. La tracción pasiva no mejora significativamente la apertura (el bloqueo mecánico distingue el DDsR del mioespasmo, donde la tracción pasiva mejora la apertura).",
+          "wrong": {
+            "A": "El espasmo muscular sí causa limitación aguda de apertura, pero la apertura MEJORA con tracción pasiva asistida (sin bloqueo mecánico). El espasmo tampoco causa la desaparición de un clic preexistente.",
+            "C": "La anquilosis de la ATM causa una apertura restringida crónica y de progresión lenta (no de inicio súbito), a menudo con antecedente de traumatismo/infección. No habría historia previa de clic.",
+            "D": "La neuropatía motora del trigémino que afecta al pterigoideo causaría una desviación débil en lugar de una mandíbula bruscamente bloqueada con historia previa de clic."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — DDsR agudo: apertura restringida <35 mm, sin mejoría a la tracción pasiva, desviación hacia el lado afecto",
+          "trial": "Nitzan DW et al. Arthrocentesis: a simplified treatment for severe, complicated temporomandibular joint lock. J Oral Maxillofac Surg (1991): tasa de éxito inmediato de la artrocentesis >95% para el bloqueo cerrado agudo",
+          "pearl": "Bloqueo cerrado agudo (DDsR) = apertura bruscamente LIMITADA (<35 mm) + desviación hacia el MISMO lado + desaparición del clic previo + SIN mejoría con tracción pasiva. Tratamiento de primera línea: artrocentesis bajo AL/sedación para lavar mediadores inflamatorios y movilizar físicamente el disco. Tasa de éxito >90% en presentaciones agudas."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q4",
+        "stem": "Una mujer de 45 años con 3 años de evolución de dolor facial bilateral, sensibilidad a la palpación del masetero y del temporal, y cefaleas en la región temporal acude a la consulta de TTM. La apertura máxima es de 43 mm sin dolor; la apertura mejora hasta 46 mm con tracción pasiva suave. No hay ruidos articulares. La RM muestra posición normal del disco bilateralmente. La puntuación PHQ-9 es 14 (depresión moderada). ¿Cuál es el diagnóstico principal y el tratamiento inicial más adecuado?",
+        "options": {
+          "A": "Desplazamiento discal bilateral sin reducción; artrocentesis guiada por RM",
+          "B": "Dolor miofascial masticatorio; enfoque multimodal que incluya férula de estabilización, fisioterapia y cogestión psicosocial",
+          "C": "Osteoartritis de la ATM; inyecciones intraarticulares de corticosteroides",
+          "D": "Neuralgia del trigémino; carbamazepina 100 mg dos veces al día"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La presentación cumple los criterios DC/TMD para dolor miofascial masticatorio: dolor familiar reproducido a la palpación del masetero y del temporal, duración >3 meses, apertura mejorada a la tracción pasiva (sin bloqueo mecánico), ausencia de ruidos articulares y RM normal. La puntuación PHQ-9 de 14 confirma depresión moderada, una comorbilidad significativa del Eje II que requiere cogestión. La férula de estabilización (férula de Michigan), la fisioterapia y el tratamiento psicosocial (incluida la derivación a TCC o ATC a dosis baja) conforman el enfoque multimodal basado en evidencia.",
+          "wrong": {
+            "A": "La RM es normal —el desplazamiento discal está descartado. La artrocentesis no tiene indicación aquí.",
+            "C": "La OA mostraría cambios óseos en la CBCT y crepitación clínicamente. Los corticosteroides intraarticulares son para la artralgia inflamatoria aguda de la ATM, no para el dolor miofascial.",
+            "D": "La neuralgia del trigémino se presenta con dolor breve (segundos), intenso y en descarga eléctrica, desencadenado por el toque de zonas gatillo específicas. No causa sensibilidad muscular ni el dolor sordo crónico descrito aquí."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — dolor miofascial masticatorio: primera línea = reversible y conservador; cribado psicosocial del Eje II DC/TMD obligatorio",
+          "trial": "Schiffman E et al. Estudio de validación DC/TMD. J Oral Facial Pain Headache (2014): criterios de dolor miofascial (sensibilidad 0,90, especificidad 0,99) validados frente a patrón de referencia clínico",
+          "pearl": "Dolor miofascial masticatorio = sensibilidad muscular bilateral + dolor familiar a la palpación + sin ruidos articulares + RM normal + a menudo comorbilidad psicosocial significativa. La puntuación PHQ-4/PHQ-9 para la depresión es la evaluación del EJE II DC/TMD —obligatorio en todos los pacientes con TTM. Puntuación alta de catastrofización = predice mal pronóstico con tratamiento local exclusivo → derivación a TCC."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q5",
+        "stem": "En la clasificación DC/TMD, ¿qué hallazgo en RM distingue específicamente el desplazamiento discal 'con reducción' del 'sin reducción'?",
+        "options": {
+          "A": "Presencia o ausencia de derrame articular en las imágenes ponderadas en T2",
+          "B": "Retorno del disco a las 12 en punto en RM de boca abierta frente a permanencia en posición anterior",
+          "C": "Grado de deformación del disco (cambio morfológico leve frente a grave)",
+          "D": "Presencia de osteofitos en la cabeza condilar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El criterio de RM definitivo que distingue el DDcR del DDsR es si el disco se reduce —es decir, regresa a su posición normal de las 12 en punto en la imagen de BOCA ABIERTA— o permanece anteriormente desplazado independientemente de la posición mandibular. DDcR: disco desplazado anteriormente en la RM de boca cerrada, pero regresa a posición normal en la RM de boca abierta. DDsR: disco permanece anteriormente desplazado TANTO en boca cerrada como abierta. Esta distinción orienta el tratamiento: el DDcR se gestiona generalmente de forma conservadora; el DDsR con apertura limitada (bloqueo cerrado agudo) puede requerir artrocentesis.",
+          "wrong": {
+            "A": "El derrame articular se asocia al desplazamiento discal y a la inflamación, pero no distingue con/sin reducción —el derrame puede estar presente en ambos.",
+            "C": "La deformación del disco se relaciona con la cronicidad y la gravedad (estadificación de Wilkes), pero no define la condición con/sin reducción.",
+            "D": "Los osteofitos indican cambios artrósicos y estadios IV–V de Wilkes, pero no son el criterio distintivo entre con/sin reducción."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — reducción del disco definida como retorno a las 12 en punto en RM de boca abierta; criterio validado",
+          "trial": "Tasaki MM et al. Prevalence and staging of disc displacement in patients with TMJ disorders. Am J Orthod (1996): el protocolo abierto/cerrado de RM alcanza sensibilidad 0,87 / especificidad 0,96 para DDsR",
+          "pearl": "La RM de BOCA ABIERTA es la secuencia crítica para distinguir DDcR de DDsR. Solicitar siempre AMBAS secuencias sagitales, boca cerrada y abierta. DDcR = el disco vuelve a casa al abrir. DDsR = el disco permanece desplazado independientemente de la posición mandibular."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q6",
+        "stem": "Una férula de estabilización para el tratamiento de los TTM debe fabricarse con qué especificación de diseño oclusal?",
+        "options": {
+          "A": "Topes posteriores sin contacto anterior, guía en protrusiva sobre premolares",
+          "B": "Contactos posteriores bilaterales uniformes en relación céntrica, guía anterior en caninos, sin guía posterior",
+          "C": "Contacto solo anterior (diseño NTI) para reducir la actividad electromiográfica del masetero",
+          "D": "Plano de mordida anterior profundo para intruir los incisivos inferiores y adelantar la mandíbula"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El diseño patrón de la férula de estabilización (férula de Michigan) especifica: (1) cobertura maxilar completa (todos los dientes contactan uniformemente), (2) contactos bilaterales uniformes en posición de relación céntrica (máxima intercuspidación sobre la férula), (3) guía anterior sobre caninos (o función de grupo) durante excursiones laterales, y (4) SIN contactos posteriores durante los movimientos de protrusión o lateralidad. Este diseño reduce la carga articular, distribuye las fuerzas uniformemente e interrumpe los patrones de contacto parafuncional sin alterar permanentemente la oclusión.",
+          "wrong": {
+            "A": "Los topes posteriores sin contacto anterior describen una férula pivote —utilizada en indicaciones específicas para la descompresión articular, no como férulas de estabilización estándar.",
+            "C": "Los dispositivos NTI (solo anteriores) NO están recomendados por la AAOMS para el tratamiento de los TTM por el riesgo de extrusión de los dientes posteriores, mordida abierta posterior y empeoramiento paradójico de los TTM.",
+            "D": "Un plano de mordida anterior profundo que avanza la mandíbula describe un aparato de reposicionamiento anterior —útil para la recaptura temporal del disco en el DDcR, pero asociado a mordida abierta posterior con uso prolongado y no es el diseño de la férula de estabilización."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — diseño de la férula de estabilización: contactos bilaterales uniformes en relación céntrica + guía anterior + sin guía posterior",
+          "trial": "Fricton J et al. Systematic review and meta-analysis of randomised controlled trials evaluating intraoral orthopedic appliances for TMD. J Orofacial Pain (2010): las férulas de estabilización son superiores al control para el dolor; dispositivos NTI no recomendados",
+          "pearl": "Férula de estabilización = férula de Michigan = férula de plano plano = contactos bilaterales uniformes + guía canina + SIN guía posterior. Este es el ÚNICO diseño de aparato reversible y basado en evidencia para los TTM en las guías AAOMS. NTI = solo dientes anteriores = NO recomendado."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q7",
+        "stem": "Una niña de 16 años con artritis idiopática juvenil (AIJ) presenta retrognasia progresiva y maloclusión de clase II que se ha desarrollado en 24 meses. La CBCT muestra erosión condilar bilateral con pérdida del 40% del volumen. Su reumatólogo la trata con metotrexato con buen control. ¿Cuál es la consideración de tratamiento CCMF MÁS IMPORTANTE?",
+        "options": {
+          "A": "Proceder con BSSO bilateral para corregir la retrognasia tan pronto como se alcance la madurez esquelética",
+          "B": "Coordinar estrechamente con reumatología para confirmar la remisión de la enfermedad antes de cualquier cirugía mandibular; considerar la reposición total de la ATM en la madurez esquelética si la destrucción condilar es grave",
+          "C": "Realizar una condilotomía bilateral precoz para extraer las cabezas condilares enfermas y detener la progresión",
+          "D": "Iniciar tratamiento ortodóncico fijo precoz para camuflar la clase II esquelética sin cirugía"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La AIJ con destrucción condilar activa es el escenario clásico en que la cirugía ortognática (BSSO) está contraindicada durante la enfermedad activa. Realizar una cirugía de avance mandibular durante la reabsorción condilar activa conduce a una recidiva progresiva a medida que la destrucción condilar continúa en el postoperatorio. El enfoque correcto es: colaboración con reumatología para lograr la remisión de la enfermedad, CBCT seriada para documentar el cese de la reabsorción condilar, y planificación de la reposición articular (prótesis total de ATM, por ejemplo Biomet/Zimmer-Biomet estándar o implante a medida) combinada con cirugía ortognática solo tras la confirmación de estabilidad durante ≥12 meses. Las inyecciones intraarticulares precoces de corticosteroides por reumatología pueden detener la destrucción condilar.",
+          "wrong": {
+            "A": "El BSSO aislado no es apropiado porque (1) la actividad de la enfermedad puede aún estar presente, y (2) los cóndilos dañados no pueden soportar las fuerzas de la cirugía ortognática —la recidiva y la destrucción condilar adicional son resultados predecibles.",
+            "C": "La condilotomía extirpa las cabezas condilares afectadas, pero no proporciona reposición articular —esto resultaría en una mordida abierta y unión fibrosa sin soporte condilar adecuado para la función.",
+            "D": "El camuflaje ortodóncico puede enmascarar temporalmente la discrepancia esquelética, pero no aborda la destrucción condilar progresiva y no es el tratamiento definitivo para una paciente de 16 años con daño articular grave."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) y Guía EACMFS de tratamiento de la ATM en AIJ (2023) — destrucción condilar activa por AIJ: cogestión reumatológica primero; planificación de la reposición articular en la madurez esquelética",
+          "trial": "Lochbühler N et al. Joint replacement in JIA. J Oral Maxillofac Surg (2014): la reposición articular total combinada + Le Fort I/BSSO logra una corrección esquelética estable tras confirmar la remisión de la AIJ",
+          "pearl": "AIJ + reabsorción condilar progresiva + clase II esquelética = NO hacer BSSO aislado. Los cóndilos dañados no pueden soportar el avance mandibular. Secuencia correcta: (1) Lograr la remisión de la enfermedad reumática, (2) CBCT a los 12–24 meses para confirmar la estabilidad condilar, (3) Reposición articular total combinada + cirugía ortognática en la madurez esquelética."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D1-Q8",
+        "stem": "¿Qué fármaco tiene la BASE DE EVIDENCIA MÁS SÓLIDA como tratamiento coadyuvante del dolor miofascial masticatorio crónico en pacientes que no han respondido a la terapia con férula y fisioterapia?",
+        "options": {
+          "A": "Tramadol 50 mg tres veces al día",
+          "B": "Amitriptilina 10–50 mg por la noche",
+          "C": "Diazepam 5 mg tres veces al día",
+          "D": "Celecoxib 200 mg al día"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los antidepresivos tricíclicos (ATC) a dosis bajas, en concreto la amitriptilina a 10–50 mg por la noche, tienen la evidencia más sólida para los síndromes de dolor musculoesquelético y masticatorio crónico. Su efecto analgésico es independiente del efecto antidepresivo y está mediado por la potenciación de la inhibición noradrenérgica descendente del dolor y el bloqueo de la recaptación de serotonina/noradrenalina. Múltiples ECA y revisiones sistemáticas avalan su uso en el dolor crónico por TTM, la fibromialgia y los trastornos miofasciales relacionados. La dosis analgésica (10–25 mg) es mucho menor que la antidepresiva (75–150 mg).",
+          "wrong": {
+            "A": "El tramadol es un opioide débil/IRSN con escasa evidencia para el dolor crónico por TTM y un potencial significativo de dependencia y abuso. No está recomendado para el tratamiento crónico de los TTM.",
+            "C": "El diazepam proporciona relajación muscular a corto plazo, pero está contraindicado más allá de 4 semanas por dependencia. No tiene evidencia a largo plazo para el tratamiento del dolor miofascial crónico.",
+            "D": "Los inhibidores de la COX-2 son apropiados para la artralgia inflamatoria aguda, pero tienen evidencia limitada para los síndromes de dolor miofascial crónico. No abordan los mecanismos de sensibilización central."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — ATC a dosis bajas recomendados para TTM crónico con características de sensibilización central",
+          "trial": "Plesh O et al. Amitriptyline treatment of chronic pain in patients with TMJ disorders. J Oral Rehabil (1995): la amitriptilina reduce significativamente la intensidad y la frecuencia del dolor frente a placebo en TTM crónico durante 8 semanas",
+          "pearl": "Dolor crónico por TTM = AMITRIPTILINA A DOSIS BAJA (10–50 mg por la noche). El efecto analgésico es independiente del antidepresivo. Comenzar con 10 mg por la noche, titular lentamente. Efectos secundarios frecuentes: sequedad de boca, sedación matutina. El beneficio suele apreciarse a las 4–6 semanas. Es también el tratamiento de otros síndromes de dolor musculoesquelético crónico."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q9",
+        "stem": "La reabsorción condilar idiopática (RCI) afecta predominantemente a qué grupo demográfico, y cuál es el tratamiento recomendado antes de cualquier planificación quirúrgica ortognática?",
+        "options": {
+          "A": "Varones de mediana edad; BSSO inmediato para corregir la retrognasia mandibular",
+          "B": "Mujeres jóvenes de 15–35 años; 12–24 meses de CBCT seriada para confirmar la estabilidad condilar antes de la cirugía",
+          "C": "Pacientes ancianos de ambos sexos; reposición articular total como intervención primaria",
+          "D": "Varones jóvenes con maloclusión de clase III; osteotomía Le Fort I aislada para corregir la mordida abierta anterior"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La RCI (condilisis) sigue un patrón demográfico llamativo: aproximadamente el 90% de los casos se dan en mujeres jóvenes de 15 a 35 años, a menudo con ángulo del plano mandibular elevado (AMP alto), eminencia articular con mayor inclinación y retrognasia con mordida abierta anterior. El rasgo característico es la reabsorción condilar activa que conduce a cambios esqueléticos progresivos. Antes de cualquier cirugía ortognática, la CBCT seriada a intervalos de 6–12 meses durante un mínimo de 12–24 meses debe confirmar la estabilidad (sin reducción adicional del volumen condilar). Operar durante la RCI activa conduce a recidiva grave. Los factores hormonales, la expresión de receptores de estrógenos en el fibrocartílago condilar y la carga biomecánica son factores etiológicos propuestos.",
+          "wrong": {
+            "A": "La RCI afecta predominantemente a mujeres jóvenes, no a varones de mediana edad. El BSSO inmediato durante la RCI activa es el principal error de tratamiento que debe evitarse.",
+            "C": "La reposición articular total puede ser necesaria en última instancia en casos graves, pero no es la intervención primaria. La prioridad es confirmar el cese de la enfermedad.",
+            "D": "La RCI causa retrognasia de clase II y mordida abierta anterior —no clase III. El grupo de sexo (varones jóvenes) también es incorrecto."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — RCI: CBCT seriada cada 6–12 meses; mínimo 12–24 meses de estabilidad antes de la cirugía ortognática",
+          "trial": "Arnett GW et al. Progressive mandibular retrusion — idiopathic condylar resorption. Am J Orthod (1996): 90% mujeres, 15–35 años; AMP elevado; recidiva tras cirugía ortognática prematura en fase activa",
+          "pearl": "RCI: 90% mujeres jóvenes, AMP elevado, eminencia articular de mayor inclinación, retrognasia + MOA. REGLA CLAVE: mínimo 12–24 meses de estabilidad por CBCT seriada antes de cirugía ortognática. La puntuación de factores de riesgo (criterios de Arnett) ayuda a predecir el riesgo de RCI en la planificación prequirúrgica ortognática."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q10",
+        "stem": "Una paciente recibe una inyección intraarticular de corticosteroide (triamcinolona 20 mg) en el compartimento articular superior de la ATM derecha por artralgia inflamatoria aguda. El dolor se resuelve en 2 semanas. Regresa 8 semanas después con recurrencia. ¿Cuál es el siguiente paso más adecuado?",
+        "options": {
+          "A": "Repetir la inyección de corticosteroide de inmediato; planificar hasta 6 inyecciones al año",
+          "B": "Reevaluar para artritis inflamatoria sistémica; limitar a un máximo de 3 inyecciones de corticosteroide al año por el riesgo de degradación del cartílago",
+          "C": "Proceder directamente a artroscopia de ATM y reposicionamiento del disco",
+          "D": "Prescribir prednisolona oral a largo plazo 20 mg al día"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La artralgia recurrente de la ATM tras una inyección de corticosteroide debe motivar la reevaluación para descartar artritis inflamatoria sistémica (AR, APs, AIJ) con serología adecuada (FR, anti-PCC, ANA, VSG, PCR). Respecto a las inyecciones repetidas: la frecuencia máxima segura es generalmente de 3 inyecciones al año en la misma articulación, ya que las inyecciones repetidas de corticosteroides provocan degradación progresiva del cartílago, adelgazamiento del fibrocartílago y adelgazamiento de la membrana de Schneider si el seno está implicado. Cuatro o más inyecciones al año aumentan significativamente el riesgo de condrotoxicidad. La inyección de ácido hialurónico puede considerarse como alternativa para la lubricación articular a más largo plazo tras la artrocentesis.",
+          "wrong": {
+            "A": "6 inyecciones al año es excesivo y conlleva riesgo de condrotoxicidad. El límite seguro es de 3 por año en la misma articulación.",
+            "C": "La artroscopia no está indicada sin completar primero el tratamiento conservador. La recurrencia a las 8 semanas tras la inyección debe motivar la reevaluación y medidas conservadoras adicionales, no una escalada quirúrgica inmediata.",
+            "D": "Los corticosteroides sistémicos para un problema unilateral de la ATM no son apropiados —los efectos secundarios sistémicos superan ampliamente cualquier beneficio local."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — corticosteroides intraarticulares: máximo 3 inyecciones/año; reevaluar artritis sistémica si hay recurrencia",
+          "trial": "Emshoff R et al. Randomised controlled trial: TMJ arthrocentesis vs steroid injection. J Oral Maxillofac Surg (1994): la inyección de corticoide es efectiva para la artralgia aguda; las inyecciones repetidas (>3/año) aumentan el daño cartilaginoso",
+          "pearl": "Corticosteroides intraarticulares en ATM: MÁXIMO 3 por año. Más allá de esto, la condrotoxicidad supera al beneficio. Artralgia recurrente de ATM = cribar artritis sistémica. AR, APs, AIJ afectan a la ATM. Solicitar FR, anti-PCC, ANA, VSG, PCR antes de asumir TTM primario en enfermedad articular bilateral recurrente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q11",
+        "stem": "¿Cuál es la maniobra clínica específica utilizada para distinguir el desplazamiento discal agudo sin reducción (bloqueo cerrado) del espasmo muscular masticatorio como causa de apertura mandibular agudamente limitada?",
+        "options": {
+          "A": "Inyección de anestésico local en el músculo masetero",
+          "B": "Tracción pasiva asistida (apertura mandibular asistida suavemente por el médico)",
+          "C": "Radiografía panorámica para descartar fractura",
+          "D": "Medición de la fuerza de mordida con dinamómetro"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La prueba de tracción pasiva distingue una causa muscular (espasmo, miositis) de una causa mecánica articular (desplazamiento discal sin reducción, anquilosis). Con el espasmo muscular masticatorio, el paciente no puede abrir activamente más allá de cierto punto, pero la TRACCIÓN PASIVA SUAVE del explorador produce apertura adicional (el músculo cede ante la fuerza externa). Con el DDsR (bloqueo cerrado), el obstáculo discal mecánico impide una mayor traslación independientemente de la fuerza pasiva —la apertura NO mejora significativamente con la tracción pasiva. Esta sencilla prueba clínica tiene una elevada utilidad clínica.",
+          "wrong": {
+            "A": "La inyección de AL en el masetero podría confirmar el espasmo del masetero como origen del dolor, pero no distingue el bloqueo discal del espasmo muscular como causa de apertura limitada —y conlleva riesgos como maniobra diagnóstica.",
+            "C": "Las radiografías descartan fractura pero no pueden diferenciar el espasmo muscular del desplazamiento discal sin reducción en la apertura agudamente limitada.",
+            "D": "La medición de la fuerza de mordida evalúa la fuerza mandibular, no el rango de apertura ni el mecanismo de limitación."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — la prueba de tracción pasiva forma parte del protocolo de exploración clínica: mejora ≥3 mm = origen muscular; sin mejora = origen mecánico/articular",
+          "trial": "Schiffman E et al. Protocolo de exploración física DC/TMD. J Oral Facial Pain Headache (2014): prueba de tracción pasiva: sensibilidad 0,88 / especificidad 0,93 para distinguir la limitación muscular de la discal",
+          "pearl": "PRUEBA DE TRACCIÓN PASIVA: diferenciador clínico clave. Espasmo muscular = mejora con tracción pasiva (la guarda cede). Bloqueo discal (DDsR) = NO mejora (bloqueo mecánico). Apertura clínica: si la diferencia entre apertura activa y pasiva es >3 mm → causa muscular. Si la diferencia es insignificante → causa articular/discal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q12",
+        "stem": "La evaluación del Eje II DC/TMD evalúa los factores psicosociales en los TTM. ¿Qué instrumento psicométrico se recomienda específicamente para el cribado de la depresión en pacientes con TTM?",
+        "options": {
+          "A": "Inventario de Ansiedad de Beck (BAI)",
+          "B": "Cuestionario de Salud del Paciente-4 (PHQ-4) o PHQ-9",
+          "C": "Escala de Catastrofización del Dolor (PCS) solamente",
+          "D": "Inventario Multifásico de Personalidad de Minnesota (MMPI)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El protocolo del Eje II DC/TMD especifica el PHQ-4 (herramienta de cribado ultracorta de 4 ítems que cubre depresión y ansiedad) como cribado inicial, con el PHQ-9 (9 ítems) para una evaluación más detallada de la depresión cuando el PHQ-4 es positivo. El GAD-7 se utiliza para la ansiedad generalizada. Estos instrumentos están validados, son breves y adecuados para el uso clínico rutinario. Una puntuación PHQ-9 ≥10 indica depresión moderada-grave que requiere tratamiento activo (incluida derivación a psicología clínica o psiquiatría) junto al tratamiento de los TTM.",
+          "wrong": {
+            "A": "El BAI criba específicamente la ansiedad. El protocolo DC/TMD recomienda el GAD-7 para el cribado de ansiedad, no el BAI —aunque el BAI también está validado. El PHQ-4 cubre tanto depresión COMO ansiedad en un solo instrumento.",
+            "C": "La Escala de Catastrofización del Dolor es importante para identificar la catastrofización (un predictor clave de cronificación), pero no es el instrumento principal de cribado de depresión en el protocolo DC/TMD.",
+            "D": "El MMPI es un inventario de personalidad completo de más de 500 ítems utilizado en evaluaciones especializadas de psicología —no es adecuado para el cribado rutinario de TTM en la consulta."
+          },
+          "guideline": "Protocolo de Evaluación del Eje II DC/TMD (Schiffman et al. 2014) — PHQ-4 cribado inicial; PHQ-9 para depresión; GAD-7 para ansiedad; PCS para catastrofización",
+          "trial": "Ohrbach R et al. Validación del Eje II DC/TMD. J Oral Facial Pain Headache (2014): PHQ-4 sensibilidad 0,83 especificidad 0,90 para detectar distrés psicológico clínicamente significativo en pacientes con TTM",
+          "pearl": "Eje II DC/TMD = evaluación PSICOSOCIAL. Obligatorio en TODOS los pacientes con TTM. Instrumentos: PHQ-4 (cribado depresión/ansiedad) → si positivo, PHQ-9 + GAD-7 para evaluación detallada. Escala de Catastrofización del Dolor (PCS) para riesgo de cronificación. PCS elevado = derivar a psicología clínica INDEPENDIENTEMENTE de la gravedad del dolor."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q13",
+        "stem": "¿Qué hallazgo de la ATM en RM ponderada en T2 es más compatible con inflamación sinovial activa y osteoartritis precoz?",
+        "options": {
+          "A": "Disco de señal baja (oscuro) en el compartimento articular superior",
+          "B": "Señal T2 elevada en los espacios articulares (derrame articular)",
+          "C": "Señal medular condilar normal",
+          "D": "Desplazamiento anterior del disco con la banda posterior a las 3 en punto"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El derrame articular —señal hiperintensa (blanco brillante) dentro de los espacios articulares en RM ponderada en T2— indica un volumen elevado de líquido sinovial, compatible con inflamación sinovial activa y/o osteoartritis precoz. En la ATM normal, los espacios articulares contienen líquido sinovial mínimo y aparecen oscuros en T2. El derrame articular en RM se correlaciona con citocinas inflamatorias elevadas (IL-1, IL-6, TNF-α) en el análisis del líquido sinovial y es un marcador de patología intraarticular clínicamente significativa. Se asocia frecuentemente a dolor, sensibilidad y desplazamiento discal.",
+          "wrong": {
+            "A": "El disco normal de la ATM es uniformemente hipointenso (oscuro) tanto en T1 como en T2 —esto representa el fibrocartílago discal normal, no patología. El cambio de señal del disco (brillante en T2) indicaría degeneración discal.",
+            "C": "La señal medular condilar normal es un hallazgo sin relevancia —es el hallazgo normal. El edema óseo subcondral (señal T2 elevada en la cabeza condilar) indicaría OA activa o AVN.",
+            "D": "El desplazamiento anterior del disco es un hallazgo posicional anatómico, no específico de las secuencias ponderadas en T2. El desplazamiento discal aislado no implica inflamación activa."
+          },
+          "guideline": "Guías de Imagen EACMFS para ATM (2023) — el derrame articular en T2 es el marcador principal de sinovitis activa de la ATM en RM",
+          "trial": "Schellhas KP et al. TMJ biopsy and MRI correlation. Radiology (1989): el derrame articular en T2 se correlaciona con sinovitis histológica y citocinas inflamatorias elevadas en el líquido sinovial aspirado",
+          "pearl": "RM T2: DERRAME ARTICULAR = líquido blanco brillante en espacios articulares = inflamación activa. RM T1: evaluación del desplazamiento discal = posición del disco respecto al cóndilo. Estas son secuencias complementarias —ambas son necesarias. Derrame T2 elevado + desplazamiento discal = alteración interna grave con sinovitis activa."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q14",
+        "stem": "Una mujer de 22 años presenta dolor preauricular bilateral, rigidez mandibular y un clic audible al abrir la boca bilateralmente. Refiere también cefaleas matutinas, dificultad para dormir y su pareja ha notado que rechina los dientes por la noche. PHQ-9 = 8, PCS = 35/52. ¿Qué debe incluirse en el plan de tratamiento inicial?",
+        "options": {
+          "A": "Férula de estabilización maxilar dura únicamente",
+          "B": "Inyecciones bilaterales de corticosteroide intraarticular",
+          "C": "Plan multimodal: férula de estabilización + fisioterapia + higiene del sueño + derivación a TCC dada la PCS elevada",
+          "D": "Artroscopia bilateral bajo anestesia general para reposicionamiento del disco"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Esta paciente presenta características de DDcR bilateral (clic bilateral de la ATM) y mialgia masticadora, combinadas con bruxismo y factores psicosociales significativos (PHQ-9 = 8 = depresión leve-moderada; PCS = 35 = alta catastrofización —umbral 30+). Es imprescindible un enfoque multimodal: férula de estabilización dura para bruxismo y protección articular, fisioterapia para el dolor muscular y ejercicio mandibular, higiene del sueño para abordar el componente de alteración del sueño, y derivación a TCC dada la alta puntuación de catastrofización del dolor (PCS ≥30 es un fuerte predictor de cronificación y mala respuesta al tratamiento local exclusivo). Una puntuación PCS de 35 es especialmente importante de abordar desde el inicio para prevenir el desarrollo de TTM crónico.",
+          "wrong": {
+            "A": "Una férula aislada es insuficiente cuando hay factores psicosociales significativos. Las puntuaciones PCS elevadas predicen una mala respuesta al tratamiento local exclusivo.",
+            "B": "Las inyecciones de corticosteroide son para la artralgia inflamatoria aguda, no para una paciente joven con DDcR bilateral, mialgia y factores psicosociales predominantes.",
+            "D": "La artroscopia bilateral es una escalada quirúrgica completamente inapropiada como tratamiento de primera línea para el DDcR bilateral en una paciente joven. El tratamiento conservador debe probarse exhaustivamente primero."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — PCS elevado requiere cogestión psicosocial; enfoque conservador multimodal recomendado para presentaciones mixtas",
+          "trial": "Dworkin SF et al. Biobehavioral treatment of chronic low back pain vs TMD. J Dent Res (1994): TCC + autogestión superior a la intervención física exclusiva en TTM con puntuaciones psicosociales elevadas",
+          "pearl": "Escala de Catastrofización del Dolor (PCS) ≥30/52 = alta catastrofización = derivación OBLIGATORIA a TCC/psicología. Este es el predictor más fuerte de mal pronóstico con tratamiento local exclusivo de los TTM. Alta catastrofización + TTM = multidisciplinar (CCMF + fisioterapia + psicología) obligatorio desde el primer día."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D1-Q15",
+        "stem": "¿A qué proporción de pacientes con artritis reumatoide afecta la ATM con el tiempo, y cuál es el hallazgo patológico característico en la articulación?",
+        "options": {
+          "A": "5–10%; depósito de pirofosfato cálcico (pseudogota)",
+          "B": "50–75%; formación de pannus sinovial con erosión condilar progresiva",
+          "C": "90–100%; anquilosis fibrosa uniformemente en 2 años",
+          "D": "20–30%; sinovitis reactiva sin daño estructural"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La artritis reumatoide afecta a la ATM en el 50–75% de los pacientes a lo largo de la enfermedad, típicamente de forma bilateral y simétrica. El sello patológico es la formación de pannus sinovial —tejido de granulación proliferativo y vascularizado procedente del sinovio inflamado que invade y erosiona las superficies articulares. Con el tiempo, esto conduce al aplanamiento condilar progresivo, la erosión y, en última instancia, la pérdida del espacio articular. A diferencia de la OA degenerativa, la AR causa afectación articular sistémica con serología característica (FR, anti-PCC), rigidez matutina y manifestaciones extraarticulares.",
+          "wrong": {
+            "A": "El 5–10% infraestima dramáticamente la afectación de la ATM en la AR. El depósito de pirofosfato cálcico (PPCD/pseudogota) es una artropatía metabólica, no el hallazgo patológico de la AR.",
+            "C": "La anquilosis fibrosa en el 90–100% en 2 años está muy sobreestimada. Aunque la AR puede causar anquilosis, esta ocurre típicamente tras años de destrucción articular progresiva sin tratamiento adecuado.",
+            "D": "El 20–30% subestima la frecuencia. La sinovitis reactiva sin daño estructural infraestima el potencial erosivo de la AR en la ATM."
+          },
+          "guideline": "Guías EACMFS para TTM (2023) — afectación de la ATM en la AR: prevalencia 50–75%; caracterizada por pannus sinovial y artritis erosiva",
+          "trial": "Helenius LM et al. Temporomandibular joint involvement in patients with RA. Oral Surg Oral Med Oral Pathol (2006): afectación de la ATM confirmada clínica/radiológicamente en el 74% de los pacientes con AR estudiados",
+          "pearl": "AR + ATM = afectación en el 50–75%. Erosión condilar bilateral. Pannus = tejido de granulación invasivo del sinovio. Cribar todos los pacientes con AR en busca de síntomas de ATM. La CBCT muestra aplanamiento/erosión condilar bilateral. El anti-PCC es más específico que el FR para el diagnóstico de AR."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q16",
+        "stem": "A una mujer de 19 años con 1 año de evolución de clic y dolor en la ATM se le entrega una férula de reposicionamiento anterior (FRA) para recapturar el disco desplazado anteriormente. La usa a tiempo completo durante 6 meses con buen alivio del dolor. ¿Cuál es el RIESGO PRINCIPAL del uso a tiempo completo y a largo plazo de la FRA?",
+        "options": {
+          "A": "Desplazamiento discal anterior permanente y conversión a bloqueo cerrado",
+          "B": "Mordida abierta posterior por desoclusión de los dientes posteriores con sobreerupción de los dientes posteriores",
+          "C": "Hipermobilidad condilar y subluxación",
+          "D": "Neuralgia del trigémino por compresión nerviosa prolongada"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La férula de reposicionamiento anterior mantiene la mandíbula en posición protruida para recapturar el disco anteriormente desplazado. Aunque esto puede aliviar el dolor, el uso a tiempo completo y prolongado (>3–6 meses) mantiene los dientes posteriores fuera del contacto oclusal. Esta desoclusión prolongada permite la sobreerupción de los dientes posteriores (adaptación alveolar y dental a la nueva posición vertical), creando una mordida abierta posterior permanente cuando se retira la férula. Esta mordida abierta posterior iatrogénica puede ser extremadamente difícil o imposible de tratar sin cirugía ortognática. La FRA debe limitarse estrictamente en el tiempo (máximo 3–6 meses) con retirada progresiva.",
+          "wrong": {
+            "A": "Paradójicamente, la FRA está diseñada para recapturar el disco y prevenir la conversión a DDsR. Sin embargo, si se interrumpe el tratamiento, el disco puede volver a desplazarse —pero el riesgo principal de la propia FRA es la mordida abierta posterior.",
+            "C": "La hipermobilidad condilar no es causada por el uso de la FRA. La subluxación es una condición preexistente.",
+            "D": "La neuralgia del trigémino por uso de férula no tiene base mecanicista ni evidencia clínica."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — FRA: uso máximo 3–6 meses; riesgo de mordida abierta posterior con uso prolongado a tiempo completo; no recomendada como tratamiento a largo plazo",
+          "trial": "Lundh H et al. Anterior repositioning splint in TMJ disc displacement. Oral Surg (1985): la FRA reduce el clic y el dolor a corto plazo en el DDcR; riesgo de mordida abierta posterior con uso prolongado; tasas de recaptura discal a largo plazo malas",
+          "pearl": "FRA = MÁXIMO 3–6 meses. Uso prolongado de FRA = MORDIDA ABIERTA POSTERIOR por sobreerupción de dientes posteriores. Esta es una maloclusión iatrogénica. La guía AAOMS establece explícitamente que la FRA no es adecuada para uso a largo plazo. Comenzar la retirada a los 3 meses cambiando a férula de estabilización."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "D1-Q17",
+        "stem": "¿Por debajo de qué apertura mandibular máxima (distancia interincisal) se considera clínicamente significativa la limitación en un paciente adulto?",
+        "options": {
+          "A": "25 mm",
+          "B": "35 mm",
+          "C": "45 mm",
+          "D": "55 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una apertura interincisal máxima inferior a 35 mm en adultos es el umbral clínico establecido para la limitación significativa de la apertura mandibular (hipomobilidad), según el protocolo DC/TMD. El rango normal es de 40–55 mm. Entre 35–40 mm representa una limitación leve. Por debajo de 35 mm —especialmente la aparición aguda por debajo de 25–30 mm— representa un bloqueo cerrado que requiere tratamiento activo. La medición se realiza con los dientes en apertura activa máxima, medida entre los bordes incisales de los incisivos centrales superiores e inferiores, corregida para la sobremordida.",
+          "wrong": {
+            "A": "25 mm representa una limitación grave (rango del bloqueo cerrado agudo). Aunque es clínicamente importante, 35 mm es el umbral establecido para la limitación significativa según el DC/TMD.",
+            "C": "45 mm está dentro del rango normal y no se consideraría limitación.",
+            "D": "55 mm es el extremo superior del rango normal."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — apertura voluntaria máxima <35 mm = apertura limitada; criterio DC/TMD para los trastornos con apertura restringida",
+          "trial": "Schiffman E et al. Estudio de validación DC/TMD. J Oral Facial Pain Headache (2014): criterio de apertura interincisal <35 mm validado como limitación clínicamente significativa",
+          "pearl": "Umbrales clave de apertura de la ATM: Normal = 40–55 mm. Limitación leve = 35–40 mm. Limitación significativa = <35 mm (umbral del DDsR). Bloqueo cerrado agudo = típicamente <25–30 mm. Siempre medir con una regla desde los bordes incisales superior e inferior, corrigiendo la sobremordida."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q18",
+        "stem": "Un varón de 55 años presenta dolor preauricular derecho de empeoramiento progresivo y crepitación (ruido de crujido) con el movimiento mandibular durante 2 años. La apertura es de 38 mm con desviación hacia la derecha. La CBCT muestra aplanamiento condilar derecho, esclerosis subcondral y formación de osteofitos. No hay cambios óseos en la articulación izquierda. ¿Cuál es el diagnóstico y el tratamiento adecuado?",
+        "options": {
+          "A": "Desplazamiento discal sin reducción; artroscopia inmediata",
+          "B": "Enfermedad articular degenerativa (osteoartritis), ATM derecha; tratamiento conservador con AINE, fisioterapia y férula de estabilización",
+          "C": "Osteorradionecrosis del cóndilo; oxigenoterapia hiperbárica y desbridamiento",
+          "D": "Osteosarcoma del cóndilo; biopsia urgente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La combinación de dolor de progresión gradual, crepitación (ruido articular de hueso con hueso —distinto del clic), aplanamiento condilar, esclerosis subcondral y formación de osteofitos en la CBCT en un varón de mediana edad es diagnóstica de enfermedad articular degenerativa de la ATM (osteoartritis/OA). El diagnóstico DC/TMD requiere: dolor articular familiar + crepitación + cambios condilares en CBCT (≥1 de: osteofito, esclerosis subcondral, erosión, aplanamiento, esclerosis generalizada). El tratamiento de primera línea es conservador: AINE, férula de estabilización, fisioterapia y educación del paciente. La mayoría de los síntomas de OA de la ATM mejoran espontáneamente en 2–3 años con tratamiento conservador.",
+          "wrong": {
+            "A": "La crepitación + cambios óseos en CBCT indican OA, no DDsR. La artroscopia no está indicada como primera línea para la OA de la ATM.",
+            "C": "La osteorradionecrosis requiere antecedentes de radioterapia. Este paciente no tiene historia de irradiación.",
+            "D": "El osteosarcoma del cóndilo es infrecuente y se presenta con crecimiento rápido, dolor, parestesia y destrucción ósea agresiva en las imágenes —no el patrón gradual, esclerótico y osteofitico de la OA."
+          },
+          "guideline": "DC/TMD (Schiffman et al. 2014) — criterios de OA de la ATM: dolor familiar + cambios óseos en CBCT; tratamiento conservador de primera línea",
+          "trial": "de Leeuw R et al. Natural course of craniomandibular disorders over a 10-year period. J Orofacial Pain (1994): el 85% de los pacientes con OA de la ATM muestra mejoría significativa de los síntomas con tratamiento conservador en 2–3 años",
+          "pearl": "Crepitación = hueso con hueso = OA (no disco). Clic = desplazamiento discal. Crepitación + cambios en CBCT (aplanamiento, osteofitos, esclerosis) = diagnóstico DC/TMD de OA de la ATM (enfermedad articular degenerativa). El tratamiento conservador funciona bien: el 85% mejora en 2–3 años. Reservar cirugía para casos refractarios."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "D1-Q19",
+        "stem": "¿Cuál es el fundamento para considerar una férula de reposicionamiento anterior EN LUGAR de una férula de estabilización en un paciente con clic doloroso agudo de la ATM (DDcR, estadio II de Wilkes)?",
+        "options": {
+          "A": "La FRA reduce más la actividad electromiográfica de los músculos masticadores que la férula de estabilización",
+          "B": "La FRA protraye la mandíbula para recapturar el disco anteriormente desplazado sobre el cóndilo, reduciendo el clic y el dolor",
+          "C": "La FRA proporciona contactos posteriores bilaterales más uniformes que una férula de plano plano",
+          "D": "La FRA está fabricada con un material más blando, proporcionando mejor amortiguación del impacto articular"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La férula de reposicionamiento anterior actúa manteniendo la mandíbula en posición protruida (anterior). Esta postura de protrusión lleva el cóndilo hacia delante, bajo el disco anteriormente desplazado, «recapturando» eficazmente el disco sobre la cabeza condilar y restaurando una relación disco-cóndilo más normal. En esta posición, el clic desaparece y el dolor a menudo se reduce significativamente. El fundamento es la recaptura mecánica del disco desplazado. Sin embargo, esto solo logra la recaptura discal cuando la mandíbula está en la posición protruida (con la férula puesta); al retirarla, el disco generalmente vuelve a desplazarse.",
+          "wrong": {
+            "A": "Reducir la actividad electromiográfica muscular es el mecanismo propuesto de las férulas de estabilización (mediante el cambio propioceptivo), no específicamente de la FRA. El mecanismo de la FRA es la recaptura mecánica del disco.",
+            "C": "La FRA está diseñada para protruir la mandíbula —crea deliberadamente una posición excursiva y no habitual. NO proporciona contactos en relación céntrica como hace la férula de estabilización.",
+            "D": "Las FRA están fabricadas con acrílico duro, no con material blando. Las férulas blandas son dispositivos aparte utilizados principalmente para protección frente al bruxismo."
+          },
+          "guideline": "Guías de Práctica Clínica AAOMS para TTM (2022) — mecanismo de la FRA: recaptura del disco por protrusión mandibular; uso limitado ≤3–6 meses",
+          "trial": "Lundh H et al. TMD splint therapy RCT. Oral Surg (1985): la FRA reduce el clic y el dolor en el DDcR a corto plazo; la férula de estabilización equivalente para el dolor sin recaptura discal",
+          "pearl": "Mecanismo de la FRA = PROTRUSIÓN MANDIBULAR lleva el cóndilo bajo el disco anteriormente desplazado = recaptura del disco = el clic desaparece. Pero esto solo funciona con la férula puesta. Uso a tiempo completo prolongado → mordida abierta posterior. Usar máximo 3–6 meses, luego cambiar a férula de estabilización."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "D1-Q20",
+        "stem": "En el sistema de estadificación de Wilkes para las alteraciones internas de la ATM, ¿qué combinación de características sitúa a un paciente en el Estadio V (estadio tardío)?",
+        "options": {
+          "A": "Clic indoloro sin cambios estructurales y apertura completa",
+          "B": "Bloqueo intermitente, dolor ocasional, contorno discal ligeramente irregular",
+          "C": "Disco perforado o destruido, osteoartritis avanzada con osteofitos y erosión, dolor variable, crepitación",
+          "D": "Desplazamiento discal crónico no reductible con osteofitos moderados pero sin perforación discal"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El estadio V de Wilkes (estadio tardío) representa el estadio terminal de la alteración interna de la ATM, caracterizado por: disco perforado o estructuralmente destruido, cambios osteoartríticos graves (osteofitos, erosión, esclerosis subcondral, aplanamiento), dolor variable (que puede ser menor que en los estadios intermedios por la fibrosis) y crepitación. Paradójicamente, algunos pacientes en estadio V tienen menos dolor que en los estadios III–IV porque la fibrosis ha estabilizado la articulación. Las opciones quirúrgicas en este estadio incluyen discectomía (con o sin sustitución), condilotomía modificada o reposición articular total para los casos graves.",
+          "wrong": {
+            "A": "Clic indoloro con apertura completa y sin cambios estructurales = Estadio I. La presentación más precoz y benigna.",
+            "B": "Bloqueo intermitente + dolor ocasional + disco ligeramente irregular = Estadio II (precoz/intermedio).",
+            "D": "Desplazamiento crónico no reductible + osteofitos moderados pero sin perforación discal = Estadio IV (intermedio/tardío), no Estadio V."
+          },
+          "guideline": "Wilkes CH. Internal derangements of the TMJ. Arch Otolaryngol Head Neck Surg (1989): Estadio V = disco perforado + OA avanzada + crepitación + dolor variable",
+          "trial": "McCain JP et al. TMJ arthroscopy. J Oral Maxillofac Surg (1992): la estadificación de Wilkes fue validada artroscópicamente —el Estadio V muestra perforación discal y contacto hueso con hueso intraoperatoriamente",
+          "pearl": "Resumen de la estadificación de Wilkes: I = clic indoloro, normal. II = bloqueo ocasional, ligera deformidad discal. III = bloqueo crónico, cambios en la superficie articular. IV = osteofitos, esclerosis. V = DISCO PERFORADO + OA AVANZADA. El estadio determina la candidatura quirúrgica: Estadio III–IV → artroscopia. Estadio V → discectomía o RTT."
+        },
+        "difficulty": 1
+      }
+    ]
+  }
+}

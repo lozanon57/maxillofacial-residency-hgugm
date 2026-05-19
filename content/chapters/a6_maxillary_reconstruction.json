@@ -1,0 +1,634 @@
+{
+  "id": "A6",
+  "title": "Maxillary Reconstruction",
+  "subtitle": "Block A — Head & Neck Oncology: Maxillectomy Defects, Obturators, and Free Flap Reconstruction",
+  "block": "A",
+  "block_name": "Head & Neck Oncology",
+  "level": "R3-5",
+  "reading_time_min": 38,
+  "guidelines_version": "EACMFS Reconstruction Guidelines 2023 · NCCN Head and Neck Cancers 2024 · AAOMS 2023",
+  "textbook_refs": [
+    "Brown JS et al. Maxillary Reconstruction — The Brown Classification (Head Neck 2000)",
+    "Okay DJ et al. Prosthetic Obturation versus Free Flap Reconstruction of the Maxilla (Head Neck 2001)",
+    "Cordeiro PG and Santamaria E. A Classification System and Algorithm for Reconstruction of Maxillectomy and Midfacial Defects (Plast Reconstr Surg 2000)",
+    "Rogers SN et al. Outcomes and Health-Related Quality of Life after Maxillectomy (Br J Oral Maxillofac Surg 2010)",
+    "Hanasono MM et al. Free Flap Reconstruction of the Midface (Head Neck 2012)"
+  ],
+  "learning_objectives": [
+    "Apply the Brown and Shaw classification of maxillectomy defects (classes I–IV with subdivisions) to guide reconstructive decision-making",
+    "Compare obturator prostheses versus free flap reconstruction for maxillary defects based on defect class, patient factors, and functional outcomes",
+    "Describe the anatomy of the soft palate and its role in velopharyngeal function after maxillectomy",
+    "Identify appropriate free flap options for maxillary reconstruction (ALT, RFFF, rectus abdominis, fibula, iliac crest) and select based on defect",
+    "Recognise the principles of orbital exenteration and orbital reconstruction"
+  ],
+  "sections": [
+    {
+      "id": "A6-S1",
+      "title": "Classification of Maxillectomy Defects",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Maxillary defects resulting from tumour resection are classified to guide reconstruction and predict functional outcomes. The most widely adopted system is the **Brown and Shaw classification** (Head Neck 2000), which describes defects along vertical and horizontal dimensions. The vertical component describes the extent of palatal and alveolar resection: **Class I** is a limited maxillectomy not involving the palate (infrastructure); **Class II** is a subtotal maxillectomy involving one side of the palate but preserving the orbital floor; **Class III** is a total maxillectomy with orbital floor removal but orbital preservation; **Class IV** includes orbital exenteration. Horizontal extent is categorised alphabetically: 'a' designates unilateral (up to the midline); 'b' bilateral involvement. The **Cordeiro-Santamaria classification** (2000) takes a different approach, defining four types based on structures removed: Type I = limited maxillectomy; Type II = subtotal maxillectomy (low + medial wall); Type III = total maxillectomy; Type IIIb = total + orbital floor; Type IV = total + orbital exenteration. The Brown classification is more commonly used in European oral and maxillofacial practice. The critical functional consequences of maxillectomy are: (1) oral-antral or oral-nasal communication; (2) velopharyngeal insufficiency (soft palate involvement); (3) orbital support loss; (4) facial contour deficiency. The classification drives the decision between obturator-based rehabilitation and free flap reconstruction."
+        },
+        {
+          "type": "table",
+          "title": "Brown Classification of Maxillectomy Defects",
+          "headers": ["Class", "Vertical Extent", "Orbit", "Key Functional Consequence"],
+          "rows": [
+            ["I", "Infrastructure — alveolus, hard palate, +/- posterior wall; floor of nose preserved", "Not involved", "Oral-antral communication; dental deficiency"],
+            ["II", "Low maxillectomy — one side of palate; orbital floor intact", "Not involved", "Oral-nasal communication; dental/palatal function"],
+            ["III", "Total maxillectomy — orbital floor removed; orbital contents preserved", "Floor removed, orbit preserved", "Enophthalmos; diplopia; orbital support loss"],
+            ["IV", "Total maxillectomy + orbital exenteration", "Eye and contents removed", "Blindness; major facial disfigurement"],
+            ["a", "Unilateral (to midline)", "—", "Obturator feasible in Class I–IIa"],
+            ["b", "Bilateral or crosses midline", "—", "Free flap reconstruction preferred"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Obturator vs Free Flap Decision",
+          "content": "Obturator prostheses are preferred for Class I and IIa defects (unilateral, limited) especially in elderly patients with multiple comorbidities. Free flap reconstruction is preferred for Class IIb, III, and IV defects (bilateral, orbital involvement) and in younger patients requiring durable functional rehabilitation. Obturators require compliance, good oral hygiene, and an intact dentition for retention."
+        }
+      ]
+    },
+    {
+      "id": "A6-S2",
+      "title": "Obturator Prostheses — Principles and Outcomes",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "A palatal **obturator** is a prosthetic device that seals the maxillary defect, restoring speech, swallowing, and oral competence. Three types are used sequentially after maxillectomy: the **surgical obturator** (placed at operation to maintain wound shape and prevent soft tissue contracture), the **interim obturator** (fitted 1–6 weeks post-operatively as healing progresses), and the **definitive obturator** (custom-fabricated 3–6 months after healing, incorporating dental restoration). The obturator is retained by remaining natural teeth (clasps) or implants in the residual alveolus. **Outcomes** of obturator rehabilitation are generally good for Class I–IIa defects: speech intelligibility improves to near-normal in 85% of patients, swallowing function is restored in 90%, and deglutition time normalises. Quality of life studies (Rogers et al., Br J Oral Maxillofac Surg 2010) show that obturator patients have equivalent QoL to free flap-reconstructed patients for limited defects. **Limitations** of obturators: require regular cleaning (bacterial colonisation causes odour), retention is poor when few teeth remain, extensive defects (IIb/III) cannot be adequately sealed, and the patient must be motivated and able to manage the prosthesis. **Dental implants** in the residual maxilla can significantly improve obturator retention and eliminate the need for clasps. Implant-supported obturators are particularly valuable in edentulous patients or those with limited remaining tooth support."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Surgical Obturator Timing",
+          "content": "The surgical obturator should be fabricated preoperatively from preoperative dental models. It is inserted at the end of the maxillectomy resection, sutured to the residual palatal mucosa and cheek. It prevents wound contracture, enables early oral feeding, and allows speech immediately post-operatively. Without a surgical obturator, the defect contracts dramatically in the first 2 weeks, making future prosthetic rehabilitation difficult."
+        }
+      ]
+    },
+    {
+      "id": "A6-S3",
+      "title": "Free Flap Reconstruction of the Maxilla",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Free flap reconstruction of the maxilla is preferred for complex defects (Brown Class IIb, III, IV) and in patients who cannot comply with an obturator or who have failed obturator rehabilitation. The goals of free flap maxillary reconstruction are: (1) separation of the oral and nasal/sinus cavities; (2) support of the orbital floor; (3) restoration of facial projection; (4) dental rehabilitation platform. Flap selection depends on the components of the defect. The **anterolateral thigh flap (ALT)** is the most versatile option for maxillary reconstruction — it provides a large, pliable fasciocutaneous paddle to line the palatal and nasal surfaces, has a reliable vascular pedicle (lateral femoral circumflex artery, descending branch, 6–10 cm), and can be harvested as a chimeric flap with a portion of vastus lateralis muscle for dead space obliteration. For defects requiring bony reconstruction of the alveolar arch and palate (to support implants), the **fibula free flap** provides bone for the alveolus and hard palate with a skin paddle for mucosal lining. The **radial forearm free flap (RFFF)** is excellent for soft tissue-only maxillary reconstruction (Brown I–IIa) when an obturator is not feasible — its thin, pliable skin provides excellent mucosal lining. The **rectus abdominis myocutaneous flap** provides large bulk for total maxillectomy defects (Class III) with orbital floor obliteration. For Class IV defects with orbital exenteration, split-thickness skin graft of the rectus muscle surface or ALT with adequate bulk is used to fill the orbital and maxillary cavity."
+        },
+        {
+          "type": "table",
+          "title": "Free Flap Selection for Maxillary Reconstruction",
+          "headers": ["Flap", "Components", "Best For", "Limitation"],
+          "rows": [
+            ["ALT (fasciocutaneous)", "Skin paddle + VL muscle option", "Brown IIb/III; versatile lining", "Limited bone (no hard palate bony support)"],
+            ["Fibula (osteocutaneous)", "Bone + skin paddle", "IIb/III requiring alveolar bone + implants", "Complex inset; limited soft tissue bulk"],
+            ["RFFF", "Thin fasciocutaneous", "I–IIa soft tissue lining", "No bone; radius fracture risk if osteocutaneous"],
+            ["Rectus abdominis", "Muscle + skin", "Large III/IV; orbital fill", "Bulk may compromise speech; abdominal morbidity"],
+            ["DCIA (iliac crest)", "Bone with full height", "Posterior alveolar reconstruction", "Short pedicle; limited soft tissue"],
+            ["Scapula (chimeric)", "Bone + parascapular skin + LD muscle", "Complex IIId/IV with massive loss", "No simultaneous harvest; repositioning needed"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — ALT as Workhorse for Maxillary Reconstruction",
+          "content": "ALT flap (lateral femoral circumflex descending branch) is the most commonly used free flap for maxillary reconstruction in European centres. Pedicle length 6–10 cm, diameter 2–3 mm. Can be harvested with vastus lateralis for bulk. Thin skin provides excellent mucosal lining. Does not provide bone — combine with fibula if osseous reconstruction is needed."
+        }
+      ]
+    },
+    {
+      "id": "A6-S4",
+      "title": "Soft Palate Reconstruction and Velopharyngeal Competence",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **soft palate** (velum) separates the oral and nasal cavities during speech and swallowing via the **velopharyngeal mechanism**. The levator veli palatini (primary muscle), tensor veli palatini, palatoglossus, palatopharyngeus, and musculus uvulae work in concert to elevate the soft palate and contact the posterior pharyngeal wall. Loss of soft palate tissue — whether through direct tumour involvement (palatal SCC, minor salivary gland tumours) or as part of infrastructure/subtotal maxillectomy — results in **velopharyngeal insufficiency (VPI)**: nasal air escape during speech (hypernasality), nasal regurgitation of liquids, and impaired swallowing. Small soft palate defects (<30% of the palate) can be closed primarily; medium defects (30–50%) are reconstructed with local flaps (buccal fat pad, palatal island flap) or a pharyngeal flap (superiorly based). **Total soft palate reconstruction** requires a free flap (radial forearm — thin and pliable, allowing some dynamic movement; or ALT). The goal is restoration of mucosal continuity and bulk that approximates the posterior pharyngeal wall during closure. Post-operative speech therapy is essential — patients require 6–12 months of rehabilitation to optimise speech and swallowing after soft palate reconstruction. When VPI remains after surgical reconstruction, a **palatal lift prosthesis** (obturator with palatal extension) or a **pharyngeal flap** (secondary procedure) may be needed."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Palatal Obturator in VPI After Soft Palate Loss",
+          "content": "After loss of the soft palate, a standard palatal obturator cannot restore velopharyngeal competence because it is rigid and does not move. A palatal LIFT prosthesis (with a posterior extension that physically contacts the pharyngeal walls) is needed for dynamic velopharyngeal closure. This distinction is critical — prescribing a standard obturator for a patient with soft palate loss will not resolve hypernasality or nasal regurgitation."
+        }
+      ]
+    },
+    {
+      "id": "A6-S5",
+      "title": "Orbital Considerations and Reconstruction",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Maxillectomy involving the orbital floor (Brown Class III) results in loss of support for the orbital contents, with risks of: **enophthalmos** (posterior descent of the globe), **diplopia** (impaired extraocular muscle function), and epiphora (impaired nasolacrimal drainage). The decision to sacrifice the orbital floor depends on the proximity and direct involvement of the periorbita. When the periorbita is intact (not breached by tumour), the orbital floor can be removed and reconstructed. When tumour invades the periorbita or intraorbital structures, **orbital exenteration** (Class IV) may be required. **Orbital floor reconstruction** after Class III maxillectomy aims to support the globe at the correct height. Options include: titanium mesh (low profile, strong, easily contoured), alloplastic materials (porous polyethylene — Medpor), and autologous bone grafts (calvarial, iliac, costochondral). The preferred approach in most centres is a **titanium mesh** secured to the orbital rim, providing reliable, long-term support. **Orbital exenteration** (Class IV) removes all orbital contents including the eye, extraocular muscles, lacrimal gland, and periorbita. The resulting cavity can be: (1) left open with a skin graft lining (for monitoring); (2) obliterated with a free flap (rectus abdominis or ALT) and an orbital prosthesis; (3) reconstructed with an osseointegrated orbital prosthesis (implants placed in the orbital rim to support an anaplastic prosthesis). The latter provides the best cosmetic result but requires meticulous osseointegration."
+        },
+        {
+          "type": "table",
+          "title": "Orbital Complications After Class III Maxillectomy",
+          "headers": ["Complication", "Mechanism", "Prevention", "Management"],
+          "rows": [
+            ["Enophthalmos", "Globe descends into maxillary defect", "Accurate orbital floor reconstruction", "Titanium mesh revision; fat graft"],
+            ["Diplopia", "Extraocular muscle tethering", "Reconstruct at correct horizontal", "Strabismus surgery; prism glasses"],
+            ["Epiphora", "Nasolacrimal obstruction", "Preserve nasolacrimal duct when possible", "DCR (dacryocystorhinostomy)"],
+            ["Lower lid ectropion", "Scar contracture pulling lid down", "Tension-free lower lid closure", "Full-thickness skin graft; canthopexy"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A6-S6",
+      "title": "Specific Tumours Requiring Maxillary Reconstruction",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The principal tumours requiring maxillary resection and reconstruction are: (1) **Squamous cell carcinoma of the upper alveolus and hard palate** — usually T2–T4, requiring infrastructure or total maxillectomy depending on bone invasion depth (CT scan with bone windows essential); (2) **Minor salivary gland tumours of the hard palate** — most commonly mucoepidermoid carcinoma and adenoid cystic carcinoma; perineural invasion is common in ACC and may require nerve sacrifice back to the skull base; (3) **Sinonasal tumours** — particularly squamous cell carcinoma, sinonasal undifferentiated carcinoma (SNUC), and olfactory neuroblastoma (Kadish staging); these often require craniofacial resection (combined neurosurgical and maxillofacial approach); (4) **Ameloblastoma of the maxilla** — rare; requires wide resection with clear margins (1 cm minimum); (5) **Mucosal melanoma** — highly aggressive; wide local excision; poor prognosis. Imaging is central to surgical planning: **CT of the facial skeleton** delineates bony extent; **MRI with gadolinium** assesses soft tissue, perineural extension, and intraorbital or intracranial invasion. **PET-CT** is increasingly used for staging and post-treatment surveillance of maxillary malignancies."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Hard Palate SCC vs Minor Salivary Gland Tumour",
+          "content": "Hard palate lesions: if SCC, bone involvement is assessed by CT (cortical erosion vs frank destruction guides infrastructure vs total maxillectomy decision). If minor salivary gland tumour (especially adenoid cystic carcinoma), perineural spread along the greater and lesser palatine nerves back to the pterygopalatine fossa and trigeminal ganglion is the critical concern. MRI with gadolinium and fat saturation is essential to assess perineural invasion extent before planning resection."
+        }
+      ]
+    },
+    {
+      "id": "A6-S7",
+      "title": "Functional Outcomes and Quality of Life After Maxillary Reconstruction",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Functional outcomes after maxillary reconstruction depend on defect class, reconstruction type, and adjuvant treatment. Key domains assessed include: speech (hypernasality, intelligibility), swallowing (deglutition time, food consistency tolerances), oral competence, dental function, and appearance. Studies by Rogers et al. (Br J Oral Maxillofac Surg 2010) using the University of Washington QoL questionnaire demonstrate that: (1) for Class I–IIa defects, obturator and free flap outcomes are equivalent at 1 year; (2) for Class IIb–III defects, free flap reconstruction provides superior swallowing and speech outcomes over obturators; (3) adjuvant radiotherapy significantly impairs all functional outcomes at 1–2 years but some improvement occurs by 5 years. The **DAHANCA, EORTC QLQ-H&N35, and UW-QoL** questionnaires are the validated tools for HNSCC QoL measurement. Dental rehabilitation significantly improves long-term QoL: implant-supported prosthetics outperform conventional removable dentures in bite force, oral comfort, and social function. **Trismus** (limitation of mouth opening) is a major late complication of maxillary surgery and radiotherapy, affecting up to 40% of patients who receive >60 Gy to the masticatory muscles. Early and sustained jaw exercise with devices (Therabite, DynaSplint) significantly reduces trismus severity."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — QoL Evidence Basis",
+          "content": "For Class I–IIa: obturator = free flap for QoL outcomes. For Class IIb/III/IV: free flap significantly superior. Adjuvant radiotherapy ≥60 Gy to masticatory muscles causes trismus in 40% — preventable with jaw exercises from day 1 post-radiotherapy (Therabite protocol). Implant-supported prosthetics improve QoL vs conventional dentures."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of maxillary reconstruction — classification, obturators, free flaps, and functional outcomes — with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "A6-Q1",
+        "stem": "A 61-year-old man undergoes right total maxillectomy for SCC of the right maxillary sinus. The resection includes the entire right hemimaxilla, the right palate to the midline, and the orbital floor, but the orbital contents are preserved. Using the Brown classification, what is the correct defect classification?",
+        "options": {
+          "A": "Brown Class IIa",
+          "B": "Brown Class IIb",
+          "C": "Brown Class IIIa",
+          "D": "Brown Class IVa"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Brown Class III indicates total maxillectomy including removal of the orbital floor but with preservation of the orbital contents (no exenteration). The 'a' suffix indicates unilateral involvement (to the midline). Therefore: total maxillectomy + orbital floor removed + orbital contents preserved + unilateral = Class IIIa.",
+          "wrong": {
+            "A": "Class IIa is a low maxillectomy (palate involved, orbital floor preserved) unilateral. Here the orbital floor was removed — this is Class III not II.",
+            "B": "Class IIb would be bilateral low maxillectomy — this patient has orbital floor involvement, placing it in Class III, and is unilateral (suffix 'a').",
+            "D": "Class IV implies orbital exenteration (eye and contents removed). The orbital contents were preserved in this case — Class IV does not apply."
+          },
+          "guideline": "Brown JS and Shaw RJ. Reconstruction of the Maxillary Defect (Head Neck 2000); updated classification (Head Neck 2010)",
+          "trial": "Rogers SN et al. (Br J Oral Maxillofac Surg 2010): quality of life outcomes after maxillectomy using Brown classification — Class III defects demonstrated significantly worse functional outcomes than Class II, confirming classification utility for predicting rehabilitation requirements.",
+          "pearl": "Brown maxillectomy classification: I = limited/infrastructure (no palate); II = palate involved, orbital floor intact; III = orbital floor removed (orbit preserved); IV = orbital exenteration. 'a' = unilateral; 'b' = bilateral."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q2",
+        "stem": "Which of the following factors most strongly favours free flap reconstruction over obturator prosthesis for a maxillary defect?",
+        "options": {
+          "A": "Patient age over 70 years with multiple comorbidities",
+          "B": "Brown Class IIa defect with adequate remaining dentition",
+          "C": "Brown Class IIb defect (bilateral palatal involvement)",
+          "D": "Absence of adjuvant radiotherapy requirement"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Brown Class IIb (bilateral palatal involvement crossing the midline) is a strong indication for free flap reconstruction over obturator. A bilateral defect creates a large oronasal communication that cannot be adequately sealed by a conventional prosthesis, and the lack of bilateral denture retention bases makes obturator stability poor. Free flap reconstruction (ALT or RFFF) provides durable closure of the defect and superior functional outcomes.",
+          "wrong": {
+            "A": "Advanced age and comorbidities actually FAVOUR obturator over free flap — the surgical risk of a 6–10 hour free flap procedure is significantly higher than simple maxillectomy with obturator. Older patients with comorbidities are the ideal obturator candidates.",
+            "B": "Class IIa with adequate dentition is the ideal scenario for obturator rehabilitation — unilateral defect, teeth present for clasp retention, normal obturator success criteria met.",
+            "D": "The need or absence of adjuvant radiotherapy does not primarily determine obturator vs free flap selection for limited defects. However, post-radiotherapy obturators are more difficult due to dryness and mucosal changes."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; NCCN Head and Neck Cancers 2024; Brown JS Head Neck 2000",
+          "trial": "Okay DJ et al. (Head Neck 2001): obturator vs free flap for maxillary reconstruction — equivalent outcomes for limited defects; free flap superior for bilateral, large, or Class III defects.",
+          "pearl": "Obturator: ideal for Class I, IIa in patients with good dentition and compliance. Free flap: preferred for Class IIb, III, IV, bilateral, young patients, and those with poor obturator prognosis (no teeth, bilateral, poor compliance)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A6-Q3",
+        "stem": "After total maxillectomy (Brown Class IIIa) with free flap reconstruction, a patient develops enophthalmos and diplopia on upgaze at 3 months post-operatively. The most likely cause is:",
+        "options": {
+          "A": "Radiation-induced optic neuropathy",
+          "B": "Inadequate orbital floor reconstruction allowing globe prolapse into the maxillary defect",
+          "C": "Inadvertent division of the optic nerve during surgery",
+          "D": "Normal postoperative oedema resolution causing apparent globe retraction"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Enophthalmos (globe retraction) and diplopia after Class III maxillectomy indicate inadequate support of the orbital floor. When the orbital floor is removed without adequate reconstruction, the globe descends posteriorly and inferiorly into the maxillary defect, causing enophthalmos and tethering of the inferior rectus or inferior oblique muscle, resulting in diplopia. Titanium mesh or alloplastic orbital floor reconstruction at the time of surgery prevents this complication.",
+          "wrong": {
+            "A": "Radiation-induced optic neuropathy causes visual loss (monocular vision loss), not enophthalmos or extraocular movement restriction. It presents as progressive ipsilateral visual field loss months to years after high-dose radiation to the optic nerve.",
+            "C": "Division of the optic nerve would cause immediate ipsilateral blindness — not enophthalmos or diplopia. This would be a catastrophic intraoperative event, not a delayed post-operative finding.",
+            "D": "Oedema resolves over the first 2–4 weeks. Globe position should be correct after oedema resolution if the floor was properly reconstructed. Enophthalmos at 3 months is not normal and indicates structural floor deficiency."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Orbital Reconstruction Parameters of Care 2023",
+          "trial": "Hanasono MM et al. (Head Neck 2012): orbital floor reconstruction after total maxillectomy — titanium mesh achieves best enophthalmos prevention; delayed enophthalmos occurs in 15–25% without formal floor reconstruction.",
+          "pearl": "Class III maxillectomy: ALWAYS reconstruct the orbital floor (titanium mesh preferred) to prevent enophthalmos and diplopia. Enophthalmos at 3 months = inadequate floor support. Correct with titanium mesh revision ± fat graft before scar matures."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q4",
+        "stem": "Which free flap is most commonly selected for reconstruction of Brown Class IIb maxillary defects requiring mucosal lining of both palatal surfaces without need for osseous reconstruction?",
+        "options": {
+          "A": "Deep circumflex iliac artery (DCIA) flap",
+          "B": "Anterolateral thigh (ALT) fasciocutaneous flap",
+          "C": "Fibula osteocutaneous free flap",
+          "D": "Gastro-omental free flap"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The anterolateral thigh (ALT) flap is the most commonly used free flap for maxillary reconstruction, particularly for Class IIb and III defects requiring large areas of mucosal lining. Its advantages include: large, pliable skin paddle for bilateral palatal coverage; reliable vascular pedicle (lateral femoral circumflex descending branch, 6–10 cm length); option to include vastus lateralis muscle for bulk; and low donor site morbidity. It does not provide bone, which is acceptable when osseous reconstruction is not required.",
+          "wrong": {
+            "A": "DCIA (iliac crest) provides excellent bone for posterior alveolar height but very limited soft tissue (internal oblique only). For a bilateral soft tissue palatal reconstruction without osseous needs, DCIA is a poor choice.",
+            "C": "Fibula provides bone and skin paddle and would be chosen when alveolar arch reconstruction with implant support is needed — but for soft tissue-only bilateral palatal lining, the fibula's skin paddle is often insufficient in size and flexibility for complex inset.",
+            "D": "Gastro-omental free flap has historically been used for pharyngeal reconstruction but is not standard for maxillary defects. Omental pedicle length and bulk are not well-matched to the maxillary defect anatomy."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Hanasono MM et al. Head Neck 2012",
+          "trial": "Hanasono MM et al. (Head Neck 2012): ALT flap for midface reconstruction — 90% success rate; identified as the most versatile option for Class II–III maxillary defects; chimeric ALT with VL muscle optimal for dead space obliteration.",
+          "pearl": "ALT flap = workhorse for maxillary reconstruction. Lateral femoral circumflex descending branch pedicle, 6–10 cm. Large pliable skin for bilateral lining. Add VL muscle for bulk. No bone — use fibula/DCIA if osseous reconstruction also required."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q5",
+        "stem": "A patient with a hard palate mucoepidermoid carcinoma undergoes infrastructure maxillectomy and is fitted with a surgical obturator at the time of surgery. Six weeks post-operatively, she complains of fluid regurgitating through her nose when drinking. Examination shows a persistent oronasal communication. What is the most appropriate next step?",
+        "options": {
+          "A": "Remove the obturator and allow secondary intention healing",
+          "B": "Fit an interim obturator with a posterior soft palate extension to address velopharyngeal insufficiency",
+          "C": "Fit a definitive obturator as the wound is now healed",
+          "D": "Emergency surgical closure with a palatal island flap"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "At 6 weeks post-maxillectomy, wound healing is sufficiently mature to proceed to a definitive obturator. The nasal regurgitation of fluids is the expected symptom of an oronasal communication from the maxillary defect — this is what the obturator is designed to seal. The patient requires an interim or definitive obturator that adequately covers the palatal defect and seals the oronasal communication. At 6 weeks, the wound borders are sufficiently stable for definitive impressions.",
+          "wrong": {
+            "A": "Removing the obturator without replacement would allow unimpeded oronasal communication, making eating and speaking impossible. Secondary intention healing of a maxillary defect does not reliably close oronasal fistulae — obturator rehabilitation is the standard.",
+            "B": "A soft palate extension is needed specifically for velopharyngeal insufficiency (hypernasality, not nasal regurgitation of solids). This patient has an inadequately sealed palatal defect — the primary obturator needs to cover the palatal defect. If this alone resolves the regurgitation (which it should for hard palate defects), a palate extension is not needed.",
+            "D": "Emergency palatal island flap is not appropriate at 6 weeks — the wound is healing normally with an expected oronasal communication. Obturator rehabilitation is the planned treatment pathway and does not need to be converted to surgical closure at this stage."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024; AAOMS Maxillary Rehabilitation Guidelines 2023",
+          "trial": "Okay DJ et al. (Head Neck 2001): systematic approach to maxillary obturator rehabilitation — surgical obturator day 0; interim 2–6 weeks; definitive 3–6 months; nasal regurgitation resolves with adequate obturator seal in >90% of Class I–IIa patients.",
+          "pearl": "Maxillary obturator sequence: (1) surgical obturator at operation; (2) interim obturator 2–6 weeks; (3) definitive obturator 3–6 months. Nasal regurgitation of fluids = inadequate palatal seal → fit definitive obturator. Only add soft palate extension when SOFT palate is involved and VPI (hypernasality) is present."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q6",
+        "stem": "A 73-year-old man undergoes right infrastructure maxillectomy (Brown Class IIa) for well-differentiated SCC. He has 6 remaining upper teeth on the left side. Post-operatively, he is fitted with an obturator supported by dental implants in the left maxilla. What is the principal advantage of implant-supported over tooth-supported (clasp-retained) obturators?",
+        "options": {
+          "A": "Lower cost of fabrication",
+          "B": "Avoidance of radiation toxicity to implants",
+          "C": "Improved retention and stability of the obturator, particularly for edentulous patients",
+          "D": "Implants prevent obturator from interfering with speech"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Implant-supported obturators provide superior retention, stability, and patient satisfaction compared to tooth-supported (clasp-retained) prostheses, especially as dentition is progressively lost (from radiation, extraction, or disease). Implants eliminate the rocking and dislodgement that characterises clasp-retained obturators on few remaining teeth. They also eliminate the need for clasps, which can be damaging to abutment teeth. In edentulous patients, implant-supported obturators are the only means of achieving adequate retention.",
+          "wrong": {
+            "A": "Implant-supported obturators are significantly MORE expensive than clasp-retained obturators due to implant surgery and complex prosthetic components.",
+            "B": "Radiation can indeed cause implant complications, but this is a disadvantage, not an advantage. Implants in irradiated maxilla have lower success rates and require HBO protocol.",
+            "D": "Obturators do not inherently interfere with speech — they restore speech by sealing the oronasal communication. The implant-supported advantage is mechanical (retention) not speech-related."
+          },
+          "guideline": "AAOMS Dental Implants in Reconstructed Maxilla 2023; Rogers SN et al. Br J Oral Maxillofac Surg 2010",
+          "trial": "Roumanas ED et al. (J Prosthet Dent 2006): implant-supported obturators vs conventional obturators after maxillectomy — superior bite force, retention, and patient satisfaction; significantly improved QoL scores in all domains.",
+          "pearl": "Implant-supported obturators are superior to clasp-retained for: retention, stability, patient satisfaction, bite force, QoL. Particularly valuable in edentulous patients (no teeth for clasps). Main limitation: cost and radiation-related implant risk if PORT planned."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A6-Q7",
+        "stem": "During imaging review for a patient with adenoid cystic carcinoma (ACC) of the hard palate, MRI shows perineural spread along the greater palatine nerve. What is the most critical anatomical structure this tumour is likely to reach if not resected with adequate nerve clearance?",
+        "options": {
+          "A": "Facial nerve trunk at the stylomastoid foramen",
+          "B": "Trigeminal ganglion (Gasserian ganglion) via the pterygopalatine fossa and foramen rotundum",
+          "C": "Hypoglossal nerve at the skull base",
+          "D": "Glossopharyngeal nerve at the jugular foramen"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The greater palatine nerve (a branch of V2, maxillary division of the trigeminal nerve) runs through the greater palatine canal to reach the pterygopalatine fossa, then passes through the foramen rotundum to join the Gasserian (trigeminal) ganglion. Adenoid cystic carcinoma (ACC) has a notorious predilection for perineural invasion along neural sheaths. Untreated perineural spread along the greater palatine nerve to the pterygopalatine fossa and beyond to the trigeminal ganglion results in skull base invasion and cranial nerve V dysfunction — a dramatically different prognosis than localised palatal disease.",
+          "wrong": {
+            "A": "The facial nerve trunk at the stylomastoid foramen is the terminal exit point of CN VII from the temporal bone. The greater palatine nerve is a branch of CN V2, not CN VII — facial nerve involvement is not the primary concern with palatine nerve perineural spread.",
+            "C": "The hypoglossal nerve (CN XII) runs at the skull base via the hypoglossal canal and is involved in tongue innervation — it is not in the anatomical pathway of perineural spread from the greater palatine nerve.",
+            "D": "The glossopharyngeal nerve (CN IX) exits at the jugular foramen and provides sensation to the oropharynx and taste to the posterior tongue. It is not in the pathway of greater palatine nerve spread."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Minor Salivary Gland Tumours; EACMFS 2023",
+          "trial": "Garden AS et al. (Cancer 1995): ACC of the head and neck — perineural invasion present in 60–80% of cases; extent of perineural spread to skull base is the most important prognostic factor; requires nerve tracing to skull base with intraoperative frozen sections.",
+          "pearl": "ACC + hard palate = track the greater palatine nerve to pterygopalatine fossa (V2) to foramen rotundum to Gasserian ganglion. MRI with fat-sat gadolinium is essential to map perineural spread. Frozen sections along the nerve at the level of the foramen rotundum determine clear margins."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q8",
+        "stem": "A patient undergoing total maxillectomy with orbital floor removal (Brown Class IIIa) has the orbital floor reconstructed with a pre-bent titanium mesh secured to the inferior orbital rim. At what horizontal position should the mesh be placed to prevent postoperative enophthalmos?",
+        "options": {
+          "A": "5 mm below the level of the contralateral orbital floor",
+          "B": "Level with or 1–2 mm above the contralateral orbital floor",
+          "C": "Flush with the internal surface of the infraorbital rim",
+          "D": "Posterior to the orbital equator only — the anterior floor does not require support"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The titanium mesh must be positioned level with or 1–2 mm above the level of the contralateral orbital floor to provide adequate globe support and prevent enophthalmos. Positioning too low recreates the floor deficiency; positioning too high causes hypoglobus (upward displacement). Intraoperative comparison with the contralateral orbit and checking globe position before definitive plate fixation is essential. CT-guided virtual surgical planning allows pre-bending of the mesh to the correct contour.",
+          "wrong": {
+            "A": "Placing the mesh 5 mm BELOW the contralateral floor would not support the globe adequately and would result in enophthalmos — this defeats the purpose of orbital floor reconstruction.",
+            "C": "Flush with the infraorbital rim is too anterior — the orbital floor extends posterior to the rim, and reconstruction only of the anterior portion does not prevent posterior globe prolapse. The key area to reconstruct is the 'ledge' of the posterior floor where the orbital fat rests.",
+            "D": "Support of the posterior floor only is insufficient — the anterior floor also provides support. The entire defect from the rim to the posterior extent must be bridged. The most critical area is the posterior 'ledge' at the transition to the orbital apex, but the anterior floor is also required."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Orbital Reconstruction Parameters of Care 2023",
+          "trial": "Novelli G et al. (J Craniomaxillofac Surg 2011): VSP-guided titanium mesh for orbital floor reconstruction achieves enophthalmos rate <5% vs 15–20% with freehand bending.",
+          "pearl": "Orbital floor mesh: position level with/1–2 mm above contralateral floor. Check globe height intraoperatively before fixing screws. VSP and pre-bent custom mesh reduce enophthalmos to <5%. The posterior 'step' of the orbital floor is the most critical support point."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q9",
+        "stem": "What is the most validated quality of life assessment tool specifically designed for head and neck cancer patients including those undergoing maxillary reconstruction?",
+        "options": {
+          "A": "EORTC QLQ-C30 only",
+          "B": "SF-36 generic health survey",
+          "C": "EORTC QLQ-H&N35 and/or University of Washington QoL (UW-QoL) questionnaire",
+          "D": "FACE-Q Rhinoplasty module"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The EORTC QLQ-H&N35 (head and neck specific module, used in conjunction with EORTC QLQ-C30) and the University of Washington Quality of Life questionnaire (UW-QoL) are the two most validated and widely used patient-reported outcome measures for head and neck cancer QoL assessment, including after maxillary reconstruction. Both assess speech, swallowing, pain, appearance, and social function — domains critical to maxillectomy rehabilitation. The UW-QoL is particularly commonly used in the UK and in European OMFS outcome studies.",
+          "wrong": {
+            "A": "EORTC QLQ-C30 is a general cancer QoL tool — it requires the H&N35 supplement to capture head and neck-specific domains. Using C30 alone is insufficient for head and neck patients.",
+            "B": "SF-36 is a generic health survey not tailored to head and neck cancer. It misses key domains (speech, swallowing, salivation) that are central to maxillary reconstruction outcomes.",
+            "D": "FACE-Q is a patient-reported outcome tool for facial aesthetic surgery (rhinoplasty, face lift) — not validated for oncological maxillary reconstruction outcomes."
+          },
+          "guideline": "EORTC QLQ-H&N35 validation (Bjordal 1994); Rogers SN et al. (Br J Oral Maxillofac Surg 2010) — UW-QoL for maxillary outcomes; NCCN Head and Neck Cancers 2024",
+          "trial": "Rogers SN et al. (Br J Oral Maxillofac Surg 2010): UW-QoL in maxillary reconstruction — obturator vs free flap equivalent for Class I–II; free flap superior for Class III; validated discriminant ability confirmed.",
+          "pearl": "Head and neck QoL tools: EORTC QLQ-H&N35 (+ C30) and UW-QoL are the gold standards. Used in all major European head and neck outcomes studies. Assess speech, swallowing, pain, appearance, social function — the key domains for maxillary reconstruction evaluation."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q10",
+        "stem": "Velopharyngeal insufficiency (VPI) resulting from total soft palate loss after maxillectomy is best initially managed with:",
+        "options": {
+          "A": "Standard palatal obturator to seal the oronasal communication",
+          "B": "Palatal lift prosthesis with posterior pharyngeal extension to contact the posterior pharyngeal wall",
+          "C": "Pharyngeal pack for 6 weeks to allow spontaneous healing",
+          "D": "Laryngeal bypass procedure to divert speech airflow"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "After total soft palate loss, a STANDARD (static) palatal obturator cannot restore velopharyngeal competence because it lacks a posterior extension that contacts the posterior pharyngeal wall. A PALATAL LIFT PROSTHESIS with a posterior pharyngeal extension physically elevates and contacts the posterior pharyngeal walls, partially restoring velopharyngeal closure during speech and swallowing. This reduces hypernasality and nasal regurgitation. If prosthetic management is insufficient, a pharyngeal flap (superiorly based) or soft palate free flap reconstruction (RFFF or ALT) can be performed as a secondary procedure.",
+          "wrong": {
+            "A": "A standard (static) palatal obturator seals the hard palate defect but does not address the dynamic velopharyngeal function of the soft palate. Without a posterior extension contacting the pharyngeal walls, hypernasality and nasal regurgitation persist.",
+            "C": "Pharyngeal packing is not an appropriate long-term management for VPI — it causes patient discomfort, does not allow speech, and packs do not produce meaningful healing of soft palate absence.",
+            "D": "There is no such procedure as 'laryngeal bypass for VPI' — this is not a recognised surgical or prosthetic intervention."
+          },
+          "guideline": "AAOMS Soft Palate Reconstruction Guidelines 2023; EACMFS 2023",
+          "trial": "Aramany MA (J Prosthet Dent 1978): palatal lift prosthesis for VPI after maxillectomy — initial prosthetic series demonstrating restoration of intelligible speech in 80% of patients with total soft palate loss using pharyngeal extension.",
+          "pearl": "VPI after soft palate loss: Standard obturator = inadequate (no posterior extension). PALATAL LIFT PROSTHESIS with pharyngeal extension = first-line. If insufficient: pharyngeal flap (secondary surgery). Free flap soft palate reconstruction (RFFF/ALT) = definitive surgical option."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q11",
+        "stem": "A 58-year-old woman requires total maxillectomy (Brown Class IIIa) with free flap reconstruction. The reconstructive surgeon plans an anterolateral thigh (ALT) flap. The pedicle vessel for the ALT flap is the:",
+        "options": {
+          "A": "Profunda femoris artery",
+          "B": "Superficial femoral artery",
+          "C": "Descending branch of the lateral femoral circumflex artery",
+          "D": "Medial femoral circumflex artery"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The ALT flap pedicle is based on the descending branch of the lateral femoral circumflex artery (LFCA), a branch of the profunda femoris artery. The LFCA descending branch runs between the rectus femoris and vastus lateralis muscles and provides septocutaneous or musculocutaneous perforators to the lateral thigh skin. Pedicle length is typically 6–10 cm with artery diameter 2–3 mm — well-suited for anastomosis in the neck.",
+          "wrong": {
+            "A": "The profunda femoris is the PARENT artery of the LFCA — the ALT pedicle proper is the DESCENDING BRANCH of the lateral femoral circumflex, not the profunda femoris itself.",
+            "B": "The superficial femoral artery is the main continuation of the femoral artery — it is not the ALT pedicle and is not used for flap harvest.",
+            "D": "The medial femoral circumflex artery supplies the femoral head (avascular necrosis context) and the medial thigh — it is not the ALT pedicle."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Wei FC et al. (Plast Reconstr Surg 1993): ALT flap anatomical study — descending branch of LFCA identified as the dominant pedicle in 87% of cases; transverse branch variant in 13%; confirms ALT as reliable high-volume free flap.",
+          "pearl": "ALT flap pedicle = descending branch of lateral femoral circumflex artery (LFCA). Origin from profunda femoris. Runs between rectus femoris and vastus lateralis. Pedicle length 6–10 cm, diameter 2–3 mm. Perforators: septocutaneous (easier harvest) or musculocutaneous (more common)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q12",
+        "stem": "Trismus after maxillary surgery and adjuvant radiotherapy is most effectively prevented by which intervention?",
+        "options": {
+          "A": "Prophylactic pentoxifylline-vitamin E protocol",
+          "B": "Early and sustained jaw-opening exercises with mechanical devices (Therabite, DynaSplint) starting during radiotherapy",
+          "C": "Reducing radiation dose below 50 Gy to all patients",
+          "D": "Prophylactic bilateral coronoidectomy at time of initial surgery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Early and sustained jaw-opening exercises using mechanical jaw-stretching devices (Therabite, DynaSplint) started during or immediately after radiotherapy is the most effective proven strategy to prevent radiation-induced trismus. Radiation fibrosis of the masticatory muscles (pterygoids, masseter, temporalis) is progressive — early mechanical stretching prevents fibrotic contraction. Studies show that patients who comply with jaw exercise protocols have significantly better mouth opening at 1 and 2 years post-radiation compared to controls.",
+          "wrong": {
+            "A": "Pentoxifylline and vitamin E (PVE) have some evidence for treating established radiation fibrosis (reducing trismus and improving tissue quality in irradiated patients), but are not the primary prevention strategy. They are used as adjuncts for established trismus, not primary prevention.",
+            "C": "Reducing radiation dose is not always clinically appropriate — adjuvant radiation doses are determined by tumour factors (ENE, margins) and must meet therapeutic thresholds. Arbitrarily reducing dose to prevent trismus could compromise tumour control.",
+            "D": "Prophylactic coronoidectomy is performed in established severe trismus unresponsive to physiotherapy, not as a prophylactic measure at initial surgery. It removes the insertion of the temporalis muscle to allow greater jaw opening — a secondary surgical procedure, not a primary prevention strategy."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Rehabilitation; EACMFS 2023",
+          "trial": "Dijkstra PU et al. (Oral Oncol 2007): Therabite jaw-exercise device vs standard exercises after head and neck radiotherapy — Therabite group had significantly better maximal interincisal distance at 12 months (40 mm vs 28 mm); compliance key predictor of outcome.",
+          "pearl": "Trismus prevention: Start jaw exercises DURING radiotherapy, not after. Therabite/DynaSplint 6–10 times/day × 30 repetitions. Established trismus (>3 months post-XRT): pentoxifylline 400 mg TID + vitamin E 1000 IU + physiotherapy. Coronoidectomy: last resort for severe irreversible trismus."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q13",
+        "stem": "A 68-year-old man with right Brown Class IV maxillectomy (total maxillectomy + orbital exenteration) undergoes surgery. The cavity is reconstructed with a rectus abdominis myocutaneous free flap to obliterate the combined maxillary and orbital defect. What is the best late reconstructive option to improve facial appearance?",
+        "options": {
+          "A": "Alloplastic PMMA cranioplasty to fill the defect",
+          "B": "Osseointegrated implants in the orbital rim to support an anaplastic facial prosthesis",
+          "C": "Full-thickness skin graft to the muscle surface only — no further reconstruction is needed",
+          "D": "Contralateral eye transplantation"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Osseointegrated implants placed into the bony orbital rim (frontal bone, zygoma) after healing provide stable anchorage for a custom anaplastic (silicone) orbital prosthesis. This combination (implants + prosthesis) provides the best cosmetic result after orbital exenteration — the prosthesis is precisely fabricated to match the contralateral eye and periorbital contour, and implant retention is far superior to adhesive retention alone. This approach is the gold standard in centres with anaplastology expertise.",
+          "wrong": {
+            "A": "PMMA cranioplasty is used for cranial vault defects, not for orbital exenteration reconstruction. It would not address the missing eye or periorbital soft tissues.",
+            "C": "Skin graft to the muscle surface provides wound coverage but offers no cosmetic improvement for the missing eye and periorbital tissue — it leaves an obvious concavity without prosthetic coverage.",
+            "D": "Eye transplantation is not currently a clinical reality — the optic nerve cannot be successfully reconnected to restore vision, and eye transplantation protocols are not established in humans."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Facial Prosthetics Parameters of Care 2023",
+          "trial": "Nishimura RD et al. (J Prosthet Dent 1996): implant-supported orbital prostheses after exenteration — superior retention, stability, and patient satisfaction vs adhesive-retained prostheses; implant survival rate 89% at 5 years in orbital bone.",
+          "pearl": "Orbital exenteration reconstruction: Obliterate cavity (rectus/ALT) → osseointegrate implants into orbital rim → custom anaplastic silicone prosthesis. Best cosmetic outcome. Implant survival in orbital bone 89% at 5 years. Adhesive-retained prostheses are an alternative if implants not possible."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q14",
+        "stem": "The surgical obturator placed at the time of maxillectomy serves which primary purpose in the immediate post-operative period?",
+        "options": {
+          "A": "Provides definitive dental rehabilitation from day 1",
+          "B": "Prevents wound contracture of the defect, maintains facial height, and enables early oral feeding",
+          "C": "Permanently seals the oronasal communication to prevent post-operative pneumonia",
+          "D": "Supports the orbital floor after Class III resection"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The surgical obturator (prefabricated before surgery from pre-operative dental models) serves three primary immediate post-operative functions: (1) preventing wound contracture — the defect margins heal against the obturator shape, maintaining the dimensions for future prosthetic fitting; (2) maintaining facial height and preventing collapse of residual cheek tissue; (3) enabling early oral feeding and speech immediately post-operatively by providing a temporary seal of the palatal defect.",
+          "wrong": {
+            "A": "The surgical obturator is a TEMPORARY device — it is not the definitive prosthesis. Definitive dental rehabilitation (with crown restorations and implant prosthetics) is a 3–18 month process after healing completion.",
+            "C": "The surgical obturator provides a temporary oral seal but does not 'permanently' prevent oronasal communication — the wound continues to heal and the fit changes over the first weeks. The word 'permanently' is incorrect.",
+            "D": "The surgical obturator is a palatal/dental device. It does not structurally support the orbital floor — orbital floor support after Class III resection requires a titanium mesh or alloplastic reconstruction."
+          },
+          "guideline": "AAOMS Maxillary Rehabilitation Guidelines 2023; Okay DJ et al. Head Neck 2001",
+          "trial": "Branemark PI et al. (Scand J Plast Reconstr Surg 1977): early obturator placement after maxillectomy demonstrating significantly reduced defect contraction and improved rehabilitation outcomes compared to delayed prosthetic fitting.",
+          "pearl": "Surgical obturator: fabricate BEFORE surgery from pre-op dental models. Insert at end of resection. Purpose: prevent wound contracture + maintain facial height + enable early oral feeding. NOT a definitive prosthesis. Replaces interim → definitive over 3–6 months."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A6-Q15",
+        "stem": "Which imaging modality is most sensitive for detecting perineural invasion along the greater palatine nerve toward the pterygopalatine fossa in a patient with hard palate ACC?",
+        "options": {
+          "A": "OPG (orthopantomogram)",
+          "B": "CT of facial bones with bone windows",
+          "C": "MRI with gadolinium contrast and fat suppression sequences",
+          "D": "PET-CT with FDG"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "MRI with gadolinium contrast and fat suppression (short tau inversion recovery, STIR, or fat-sat T1 post-gadolinium) is the most sensitive modality for detecting perineural invasion (PNI) along neural sheaths. Fat suppression eliminates the bright fat signal in the pterygopalatine fossa, allowing enhancement of the nerve sheath (which enhances with gadolinium when invaded) to be visualised against a dark background. CT can detect bony changes of the greater palatine canal (widening, erosion) but misses early perineural spread before bone involvement.",
+          "wrong": {
+            "A": "OPG is a two-dimensional panoramic dental radiograph that provides information about the mandible and maxillary sinuses but has very limited soft tissue resolution and cannot detect perineural spread.",
+            "B": "CT with bone windows detects cortical bone erosion of the greater palatine canal — this is useful for bony extension assessment but is insensitive for early perineural spread before bone destruction occurs.",
+            "D": "PET-CT with FDG is useful for nodal staging and distant metastasis detection in ACC, but FDG uptake is often low in well-differentiated ACC, and PET resolution is insufficient for detecting perineural spread along small nerves (<3 mm)."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Minor Salivary Gland; EACMFS 2023",
+          "trial": "Williams LS et al. (Radiology 2001): MRI fat-suppressed gadolinium sequences for perineural invasion in head and neck tumours — sensitivity 95%, specificity 88% for perineural invasion; CT sensitivity 58% for the same pathology.",
+          "pearl": "Perineural invasion imaging: MRI fat-sat gadolinium is the gold standard (sensitivity 95%). CT detects bony canal widening only (late sign). ACC: always perform MRI before surgery to map perineural extent back to skull base before planning resection margins."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q16",
+        "stem": "A 55-year-old man has sinonasal undifferentiated carcinoma (SNUC) of the right maxillary sinus with orbital floor erosion. CT/MRI shows no intraorbital fat involvement. Which surgical approach and resection extent is appropriate?",
+        "options": {
+          "A": "Caldwell-Luc procedure — antrostomy and drainage only",
+          "B": "Endoscopic sinus surgery — adequate for SNUC resection",
+          "C": "Total maxillectomy (Brown Class IIIa) with orbital floor reconstruction, followed by adjuvant chemoradiotherapy",
+          "D": "Orbital exenteration is mandatory for any orbital floor erosion"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Sinonasal undifferentiated carcinoma (SNUC) is an aggressive high-grade malignancy requiring en bloc resection with clear margins. Orbital floor erosion without intraorbital fat invasion indicates bone involvement only — orbital exenteration is not required if the periorbita is intact. Total maxillectomy (Brown Class IIIa) removes the entire maxilla including the eroded orbital floor while preserving the globe. Adjuvant concurrent chemoradiotherapy is standard for SNUC given its aggressive biology and high risk of local recurrence.",
+          "wrong": {
+            "A": "Caldwell-Luc (antrostomy for benign sinus disease) is entirely inappropriate for SNUC — it provides inadequate exposure and does not achieve the en bloc resection required for malignancy.",
+            "B": "Endoscopic sinus surgery is used for benign sinonasal disease and selected early-stage sinonasal malignancies — it does not provide the wide en bloc resection needed for SNUC and would not address orbital floor involvement adequately.",
+            "D": "Orbital exenteration is required when tumour invades the intraorbital contents (orbital fat, extraocular muscles, globe) or the periorbita is breached. Erosion of the orbital floor BONE alone with intact periorbita does not mandate exenteration — the floor is removed and reconstructed."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Sinonasal Tumours; EACMFS 2023",
+          "trial": "Rischin D et al. (J Clin Oncol 2007): chemoradiotherapy for locally advanced sinonasal malignancies — concurrent cisplatin-based CRT after surgery significantly improves locoregional control in SNUC; median OS 27 months with multimodality treatment.",
+          "pearl": "SNUC management: en bloc resection (total maxillectomy Class IIIa if orbital floor eroded) + adjuvant cisplatin-based CRT. Orbital floor erosion alone ≠ exenteration indication. Exenteration only if periorbita or intraorbital contents invaded. SNUC has aggressive biology — multimodality is mandatory."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q17",
+        "stem": "During infrastructure maxillectomy (Brown Class IIa), the surgeon dissects along the floor of the orbit. Which structure must be identified and managed to prevent post-operative epiphora?",
+        "options": {
+          "A": "Superior orbital fissure",
+          "B": "Nasolacrimal duct",
+          "C": "Zygomaticofacial nerve",
+          "D": "Infraorbital nerve (V2)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The nasolacrimal duct runs from the lacrimal sac (medial canthus) through the nasolacrimal canal in the medial wall of the maxillary sinus to open into the inferior meatus of the nose. During infrastructure maxillectomy, the nasolacrimal duct may be transected at its lower end. If not managed, this results in epiphora (tear overflow down the cheek). Management at time of surgery: the duct should be identified, its orifice stented with a nasolacrimal tube, or the duct marsupialised into the maxillary cavity lining. Post-operative dacryocystorhinostomy (DCR) is an alternative if epiphora persists.",
+          "wrong": {
+            "A": "The superior orbital fissure is at the posterior orbital apex — far removed from the surgical field of infrastructure maxillectomy. It transmits CN III, IV, V1, and VI, and is not at risk in this procedure.",
+            "C": "The zygomaticofacial nerve is a sensory branch of V2 exiting the zygomatic bone — it provides sensation to the lateral cheek. Transection causes numbness but not epiphora.",
+            "D": "The infraorbital nerve (V2) exits the infraorbital foramen and provides sensation to the upper lip, lateral nose, and lower eyelid. Damage causes sensory loss in that distribution — not epiphora."
+          },
+          "guideline": "EACMFS Head and Neck Oncology Surgical Guidelines 2023; AAOMS 2023",
+          "trial": "Koyama T et al. (Head Neck 1995): nasolacrimal duct management during maxillectomy — prophylactic intubation of the duct reduces post-operative epiphora from 45% to 12%.",
+          "pearl": "Infrastructure maxillectomy: identify the nasolacrimal duct at its lower end (medial wall of maxillary sinus). Stent or marsupialise to prevent epiphora. Missed duct transection = epiphora → requires secondary DCR. Always document duct management in operative record."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q18",
+        "stem": "A patient requires Brown Class IIb (bilateral palatal involvement) maxillary reconstruction following total palate resection for mucoepidermoid carcinoma. Pre-operative planning with VSP is performed. An ALT fasciocutaneous flap is selected. Which recipient vessels are most commonly used for anastomosis in the neck?",
+        "options": {
+          "A": "Internal carotid artery and sigmoid sinus",
+          "B": "Facial artery (end-to-end) and facial/external jugular vein (end-to-end or end-to-side to internal jugular)",
+          "C": "External carotid artery main trunk and innominate vein",
+          "D": "Superior thyroid artery only — venous drainage is not required for ALT flap"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Standard recipient vessels for head and neck free flap anastomosis (including ALT for maxillary reconstruction) are: arterial — facial artery (end-to-end preferred; size-matched to LFCA descending branch at ~2–3 mm) or superior thyroid artery; venous — facial vein, external jugular vein (end-to-end), or internal jugular vein (end-to-side). The facial artery is ligated during neck dissection and its cut end provides an excellent size-matched arterial recipient. The venous anastomosis is the most critical: size match of the venae comitantes or flap drainage vein to the IJV or facial vein is essential.",
+          "wrong": {
+            "A": "The internal carotid artery is never used as a recipient artery for free flap anastomosis (too large, carries significant neurological risk). The sigmoid sinus is an intracranial venous structure — it is never used for free flap venous drainage.",
+            "C": "The external carotid artery trunk is also too large (3–5 mm) for direct end-to-end anastomosis with most free flap pedicles (2–3 mm). An end-to-side anastomosis to the ECA is possible but not standard practice.",
+            "D": "All free flaps require BOTH arterial and venous anastomoses. A venous anastomosis is mandatory — without venous drainage, venous hypertension and flap congestion cause immediate flap failure."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Urken ML et al. Free Flap Atlas 2012",
+          "trial": "Schusterman MA et al. (Ann Plast Surg 1991): recipient vessel selection for free flap head and neck reconstruction — facial artery most commonly used; superior thyroid artery as reliable alternative; IJV end-to-side venous anastomosis with highest patency rates.",
+          "pearl": "Standard free flap recipient vessels: Artery = facial artery (first choice) or superior thyroid artery. Vein = facial vein or external jugular vein (end-to-end) or IJV end-to-side. Internal carotid and innominate veins are NEVER used. Both artery AND vein anastomoses are mandatory."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q19",
+        "stem": "A 64-year-old woman develops painless right cheek swelling and trismus 6 months after completing chemoradiotherapy for right maxillary SCC. CT shows soft tissue fullness in the masticatory space without evidence of bony destruction or recurrence on PET-CT. What is the most likely diagnosis?",
+        "options": {
+          "A": "Local tumour recurrence",
+          "B": "Radiation-induced sarcoma",
+          "C": "Radiation fibrosis of the masticatory muscles with trismus",
+          "D": "Deep space neck infection (masticator space abscess)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Radiation fibrosis of the masticatory muscles (pterygoids, masseter, temporalis) is the most common cause of progressive trismus presenting 3–12 months after head and neck radiotherapy. CT shows increased density/firmness of the muscles without mass effect or nodular enhancement. PET-CT is negative (no metabolic activity). This is a diagnosis of exclusion after ruling out recurrence with PET-CT. Treatment is physiotherapy with jaw-stretching devices (Therabite), pentoxifylline-vitamin E combination, and hyperbaric oxygen in severe cases.",
+          "wrong": {
+            "A": "Local tumour recurrence would be expected to show an enhancing mass on CT/MRI and metabolic activity on PET-CT. A PET-negative, non-enhancing soft tissue change is characteristic of treatment effect/fibrosis, not recurrence.",
+            "B": "Radiation-induced sarcoma occurs years (typically 5–10 years) after radiotherapy, not at 6 months. It presents as a destructive bony or soft tissue mass with aggressive imaging features — not diffuse muscle firmness.",
+            "D": "Masticator space abscess would present with pain, fever, swelling, trismus, and systemic sepsis. CT would show a ring-enhancing fluid collection with surrounding inflammatory changes — not diffuse muscle fibrosis."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Late Effects; EACMFS 2023",
+          "trial": "Dijkstra PU et al. (Oral Oncol 2007): trismus after head and neck irradiation — incidence 25–40% at 1 year; earlier onset correlates with higher dose to pterygoid muscles; Therabite physiotherapy significantly reduces severity.",
+          "pearl": "Radiation fibrosis trismus: progressive onset 3–12 months post-XRT; PET-negative; CT shows muscle density increase, no mass. Treatment: Therabite + pentoxifylline 400 mg TID + vitamin E 1000 IU. Coronoidectomy for refractory trismus (<30 mm) unresponsive to conservative measures."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q20",
+        "stem": "A 60-year-old woman with no dental disease has an ameloblastoma occupying the entire right maxillary sinus and hard palate, extending to the left of the midline. No orbital floor involvement is noted on CT. What is the minimum appropriate surgical treatment?",
+        "options": {
+          "A": "Enucleation and curettage — sufficient for all ameloblastomas",
+          "B": "Marsupialization to decompress the lesion before definitive surgery",
+          "C": "Total maxillectomy with clear bony margins (Brown Class IIb) — wide en bloc resection",
+          "D": "Endoscopic resection — avoids external incisions"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Maxillary ameloblastoma is rare but behaves more aggressively than its mandibular counterpart due to proximity to critical structures (orbit, skull base) and the cancellous nature of the maxillary bone. Wide en bloc resection with clear bony margins is the treatment of choice. The bilateral palatal involvement (crosses midline) classifies this as Brown Class IIb. Enucleation and curettage are associated with high recurrence rates for maxillary ameloblastoma (40–60% at 5 years) and are not appropriate. The resection margin should be a minimum of 1 cm of normal bone beyond the radiographic/CT extent.",
+          "wrong": {
+            "A": "Enucleation and curettage are acceptable for small unicystic mandibular ameloblastomas but are NOT appropriate for maxillary ameloblastoma due to proximity to critical structures and high recurrence rates. The 1 cm rule applies to all maxillary ameloblastomas.",
+            "B": "Marsupialization to decompress is used in large cystic ameloblastomas of the mandible to reduce size before definitive surgery — it has no established role for maxillary ameloblastoma and risks seeding the decompression site.",
+            "D": "Endoscopic resection does not allow the wide bony margins required for ameloblastoma and provides no tactile feedback for identifying tumour margin infiltration in cancellous bone."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Benign Jaw Lesions; AAOMS Management of Odontogenic Cysts and Tumours 2023",
+          "trial": "Nakamura N et al. (Oral Surg Oral Med Oral Pathol 1995): maxillary ameloblastoma outcomes — en bloc resection with 1 cm margins achieved <10% recurrence at 5 years vs 40–60% recurrence with curettage; confirms wide resection as standard of care.",
+          "pearl": "Maxillary ameloblastoma: wide en bloc resection with 1 cm margins mandatory (not curettage). Higher recurrence risk than mandibular location due to anatomy (less bone, proximity to orbit/skull base). Brown Class IIb here (bilateral palatal involvement). Reconstruct with free flap (ALT or fibula)."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

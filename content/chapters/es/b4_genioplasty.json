@@ -1,0 +1,643 @@
+{
+  "id": "B4",
+  "title": "Genioplastia: Osteotomía Deslizante y Mentoplastia",
+  "subtitle": "Bloque B — Cirugía Ortognática y Esquelética",
+  "block": "B",
+  "block_name": "Cirugía Ortognática y Esquelética",
+  "level": "R2-4",
+  "reading_time_min": 32,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · AAOMS Parameters of Care 2023 · BAOMS Clinical Guidelines 2022",
+  "textbook_refs": [
+    "Trauner R, Obwegeser H. The surgical correction of mandibular prognathism and retrognenia. Oral Surg Oral Med Oral Pathol (1957)",
+    "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003)",
+    "Bell WH. Revascularization and bone healing after anterior mandibular osteotomy. J Oral Surg (1969)",
+    "Hofer O. Die Osteotomie der Unterkiefersymphyse. Österr Z Stomatol (1942)"
+  ],
+  "learning_objectives": [
+    "Describir la anatomía neurovascular relevante para la genioplastia, incluyendo el nervio mentoniano y las arterias que irrigan el segmento mentoniano",
+    "Explicar la técnica de osteotomía deslizante y el papel del pedículo muscular en el mantenimiento de la viabilidad del mentón",
+    "Comparar la mentoplastia aloplástica con la genioplastia ósea en términos de indicaciones y complicaciones",
+    "Planificar movimientos menonianos multidimensionales (avance, retroceso, impactación, aumento vertical, corrección de asimetría)",
+    "Reconocer y manejar complicaciones incluyendo lesión del nervio mentoniano, escalón óseo y problemas de los implantes aloplásticos"
+  ],
+  "sections": [
+    {
+      "id": "B4-S1",
+      "title": "Anatomía y Vascularización del Mentón",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El segmento mentoniano (mentum) está irrigado por tres fuentes vasculares principales que deben considerarse durante la planificación de la genioplastia para evitar la necrosis avascular:\n\n1. **Arteria submentoniana** (rama de la arteria facial) — entra en el mentón por la cara superior a través de la musculatura del suelo de la boca unida a las apófisis geni\n2. **Arteria labial inferior** — contribuye a través de las inserciones de los tejidos blandos labiomentonnianos\n3. **Arterias sublingual e incisiva** — contribuciones menores a través del periostio lingual\n\nEl aporte sanguíneo crítico se mantiene a través del **pedículo muscular** — la musculatura suprahioidea (geniogloso, genihioideo, vientre anterior del digástrico, milohioideo) que se inserta en el borde inferior del segmento mentoniano y las apófisis geni. El estudio de laboratorio de Bell de 1969 demostró que la osteotomía del mentón anterior mantiene la viabilidad siempre que el pedículo muscular se preserve íntegro; el raspado del borde inferior y la desinserción de los músculos suprahioideos arriesga la necrosis avascular. Este principio guía la técnica estándar: la disección subperiostal se detiene en el borde inferior, preservando la inserción muscular.\n\nEl **nervio mentoniano** sale del foramen mentoniano entre el primer y segundo premolar (típicamente bajo el ápice del segundo premolar). Luego discurre anteriormente y superiormente en los tejidos blandos antes de distribuirse al labio inferior y la piel del mentón. El 'asa anterior' del nervio mentoniano se extiende anteriormente más allá del foramen antes de girar — una media de 0–5 mm anterior al foramen. Esto debe considerarse al colocar la osteotomía; la osteotomía debe estar al menos 5 mm por debajo de los forámenes mentonianos para proteger el nervio y su asa anterior."
+        },
+        {
+          "type": "table",
+          "title": "Anatomía Neurovascular en Genioplastia: Estructuras en Riesgo",
+          "headers": ["Estructura", "Localización", "Mecanismo de Lesión", "Consecuencia"],
+          "rows": [
+            ["Nervio mentoniano", "Sale del foramen mentoniano entre premolares; el asa anterior se extiende 0–5 mm por delante del foramen", "Osteotomía demasiado cercana al foramen; presión del retractor; fresado", "Hipoestesia/parestesia del labio inferior y del mentón"],
+            ["Arteria submentoniana", "Entra en el mentón por la cara superior (inserción muscular del suelo de la boca)", "Desinserción del pedículo muscular del borde inferior", "Necrosis avascular del segmento mentoniano"],
+            ["Arteria labial inferior", "Tejidos blandos labiomentonnianos anteriores al mentón", "Disección subperiostal excesiva superiormente", "Isquemia de tejidos blandos; edema prolongado"],
+            ["Geniogloso/genihioideo", "Se inserta en las apófisis geni de la superficie lingual", "Desinserción durante el raspado del pedículo muscular", "Pérdida del aporte vascular al segmento mentoniano"],
+            ["Raíces dentarias (incisivos inferiores)", "3–6 mm sobre el borde inferior según la altura alveolar", "Osteotomía demasiado superior; planificación inadecuada", "Lesión radicular; necrosis pulpar; pérdida dental"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Nivel de la Osteotomía",
+          "content": "La osteotomía de genioplastia debe colocarse al menos 5 mm por debajo de los forámenes mentonianos (para proteger el asa anterior del nervio mentoniano) y al menos 5 mm por debajo de los ápices radiculares. En una telerradiografía lateral, medir la distancia del foramen al borde inferior y planificar la osteotomía en la zona segura entre estas restricciones. Si la sínfisis es demasiado corta, la genioplastia puede estar contraindicada o requerir modificación."
+        }
+      ]
+    },
+    {
+      "id": "B4-S2",
+      "title": "Indicaciones y Planificación del Tratamiento",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La genioplastia puede realizarse como procedimiento aislado o como complemento a BSSO, osteotomía de Le Fort I o cirugía bimaxilar. La genioplastia aislada corrige la posición y la forma del mentón cuando las relaciones esqueléticas son de otro modo aceptables; es el procedimiento apropiado para **deformidades específicas del mentón** diagnosticadas clínica y cefalométricamente.\n\nLa **valoración clínica** utiliza la regla de los tercios faciales (tercio inferior = labio inferior al mentón, tercio facial superior = triquion a glabela, tercio medio = glabela a subnasal; todos deben ser aproximadamente iguales). El mentón debe evaluarse en las dimensiones AP y vertical, anotando cualquier asimetría. Se evalúa la competencia labial en reposo — el avance del mentón puede mejorar la competencia labial desplazando anteriormente el pliegue mentolabial.\n\n**Valoración cefalométrica:** La distancia de **Pg (pogonion) a la línea NB** mide la prominencia del mentón: normal en varones 4 mm, mujeres 2–3 mm por delante de NB. La **razón de Holdforth** (altura del mentón: altura del tercio inferior facial) evalúa la proporción vertical del mentón. La posición del punto mentoniano (Pg o Me) relativa al plano facial (plano E de Ricketts) se evalúa.\n\n**Indicaciones de genioplastia ósea frente a mentoplastia aloplástica:**\n- Movimiento multidimensional necesario (reducción vertical + avance horizontal)\n- Asimetría significativa que requiere corrección\n- Combinada con cirugía ortognática (mismo campo operatorio)\n- Pacientes jóvenes que requieren un resultado estable a largo plazo\n- Reducción vertical del mentón (la mentoplastia aloplástica no puede reducir)\n\n**Indicaciones de mentoplastia aloplástica:**\n- Deficiencia horizontal leve-moderada aislada solo (hasta 8–10 mm)\n- Preferencia del paciente por un procedimiento menos invasivo\n- Pacientes de mayor edad que no se someten a cirugía ortognática\n- Combinaciones de rinoplastia y mentoplastia en un solo tiempo"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Rinoplastia y Genioplastia Combinadas",
+          "content": "El equilibrio del perfil entre nariz y mentón se evalúa usando el plano E de Ricketts (línea desde la punta nasal al pogonion del tejido blando): labio superior 4 mm por detrás del plano E, labio inferior 2 mm por detrás. En pacientes que se someten a rinoplastia por una nariz prominente, la mentoplastia simultánea produce frecuentemente un equilibrio estético superior y mayor satisfacción del paciente que la rinoplastia sola. Esta combinación representa aproximadamente el 20–25% de los procedimientos menonianos en práctica estética."
+        }
+      ]
+    },
+    {
+      "id": "B4-S3",
+      "title": "Osteotomía Deslizante: Técnica y Movimientos",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **genioplastia ósea deslizante (técnica de Hofer-Trauner)** se realiza bajo anestesia general o local con sedación. Mediante una incisión labivestibular (5–7 mm por debajo de la unión mucogingival a través de la línea media entre los caninos), el mentón se expone subperiostalmente. La disección se extiende para exponer los forámenes mentonianos bilateralmente y el borde inferior de la sínfisis, deteniéndose antes de raspar las inserciones musculares del borde inferior.\n\nSe marca una osteotomía horizontal con fresa al menos 5 mm por debajo de los forámenes mentonianos y 5 mm por debajo de los ápices radiculares. Un corte escalonado o marca escalonada en la línea media permite la realineación tras el movimiento. La osteotomía horizontal se completa con sierra reciprocante, manteniéndose al menos 5 mm por debajo de los forámenes durante todo el proceso. El segmento mentoniano se moviliza, permaneciendo unido al pedículo muscular del suelo de la boca.\n\n**Movimientos disponibles con la genioplastia deslizante:**\n- **Avance:** El segmento mentoniano se desplaza anteriormente. Puede corregir la deficiencia horizontal hasta 15 mm. El tejido blando se mueve aproximadamente el 90–95% del avance óseo en pogonion.\n- **Retroceso:** El mentón se desplaza posteriormente. La corrección del tejido blando aproximadamente el 90% del retroceso óseo. El retroceso es más propenso a crear una deformidad de 'mentón de bruja' (ptosis de la almohadilla de tejido blando del mentón) si es excesivo.\n- **Impactación (reducción vertical):** Se extrae una cuña de hueso del corte superior para acortar la altura del mentón. Esta es la principal ventaja de la genioplastia ósea sobre la mentoplastia aloplástica, que no puede reducir la altura del mentón.\n- **Reposicionamiento inferior (aumento vertical):** Un injerto óseo interposicional (autoinjerto o aloinjerto/beta-TCP) se coloca entre el segmento mentoniano y el cuerpo para aumentar la altura del mentón.\n- **Corrección de asimetría:** Los movimientos transversales de hasta 4–5 mm son alcanzables; las asimetrías mayores requieren un manejo óseo creativo.\n- **Movimientos combinados:** El avance simultáneo + impactación o avance + corrección transversal es posible ajustando los ángulos del corte.\n\nLa fijación se logra con una pequeña placa de titanio (miniplaca o placa de genioplastia dedicada) y tornillos monocorticales. Una placa pre-doblada o doblada a medida mantiene el segmento en la posición planificada. Antes del cierre de la herida se realiza una comprobación final de la simetría y la oclusión."
+        },
+        {
+          "type": "table",
+          "title": "Movimientos de Genioplastia: Detalles Técnicos y Respuesta del Tejido Blando",
+          "headers": ["Movimiento", "Técnica", "Cociente del Tejido Blando", "Notas"],
+          "rows": [
+            ["Avance", "Desplazar el mentón hacia adelante; fijación con placa que abarca el escalón", "90–95% del movimiento óseo en Pg", "Movimiento más estable; el tejido blando sigue bien"],
+            ["Retroceso", "Desplazar el mentón hacia atrás; puede necesitar ostectomía para retrocesos grandes", "85–90% del movimiento óseo", "Riesgo de ptosis del cojinete mentoniano si >6 mm; considerar abordaje conservador"],
+            ["Impactación vertical", "Retirar cuña del corte superior al inferior; cerrar el espacio", "70–80% de reducción vertical", "Excelente para cara inferior larga; cambio vertical más fiable"],
+            ["Aumento vertical", "Injerto interposicional (hueso/aloplástico) entre los cortes", "50–70% de aumento vertical", "Posible resorción del injerto; se usa DFDBA o beta-TCP"],
+            ["Corrección de asimetría (transversal)", "Deslizamiento lateral descentrado; guía de muesca escalonada", "~70–80% de la corrección ósea", "Movimientos transversales >5 mm pueden ser inestables"],
+            ["Avance + impactación", "Movimiento en dos vectores; placa doblada para mantener ambos vectores", "90% AP, 70% vertical", "Requiere doblado cuidadoso de la placa; combinación más frecuente"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Cocientes de Tejido Blando",
+          "content": "La respuesta del tejido blando en pogonion para el avance de genioplastia es aproximadamente el 90–95% del movimiento óseo — significativamente más alto que para los movimientos de Le Fort I o BSSO. Esto significa que los movimientos del tejido blando del mentón siguen de cerca los movimientos óseos y pueden predecirse de forma fiable con la planificación cefalométrica. La impactación vertical produce aproximadamente un 70–80% de respuesta del tejido blando; el aumento vertical con injerto óseo es menos predecible debido a la resorción del injerto."
+        }
+      ]
+    },
+    {
+      "id": "B4-S4",
+      "title": "Mentoplastia Aloplástica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La mentoplastia aloplástica utiliza implantes prefabricados o a medida para aumentar la proyección del mentón sin osteotomía. Es un procedimiento más sencillo con menor tiempo quirúrgico, adecuado para anestesia local y menor morbilidad en pacientes seleccionados. Sin embargo, su versatilidad es limitada y conlleva complicaciones específicas a largo plazo.\n\n**Materiales de implante utilizados:**\n- **Silicona (polidimetilsiloxano):** El más utilizado; implantes blandos con forma; fácil extracción. Riesgo de formación de cápsula fibrosa y migración del implante con el tiempo.\n- **Politetrafluoroetileno expandido (ePTFE, Gore-Tex):** Tacto más suave; el crecimiento de tejido reduce el riesgo de migración; difícil de retirar si se requiere.\n- **Polietileno poroso (Medpor):** Alto crecimiento de tejido; muy difícil de retirar; más estable a largo plazo pero irreversible.\n- **Titanio personalizado o PEEK:** Diseñado por ordenador para deformidades complejas; requiere planificación con CBCT; mayor coste.\n\n**Técnica:** Acceso por incisión labivestibular o submentoniana. Se crea un bolsillo subperiostal sobre la mandíbula anterior. El implante se posiciona simétricamente sobre la superficie ósea y se fija con tornillos de titanio o suturas según el diseño. El tamaño del bolsillo debe coincidir exactamente con el implante para evitar la migración.\n\n**Complicaciones específicas de la mentoplastia aloplástica:**\n- **Resorción ósea bajo el implante:** Todos los materiales producen cierto grado de resorción ósea por presión continua; los implantes de silicona producen una erosión media de 1–2 mm a los 10 años; los materiales porosos menos\n- **Migración del implante:** Bolsillo de tamaño inadecuado o implante no fijado; se presenta con asimetría; requiere reintervención\n- **Infección:** Incidencia del 1–3%; puede requerir explantación; la contaminación por bacterias orales es la fuente principal\n- **Presión sobre el nervio mentoniano:** El implante que se extiende demasiado lateralmente comprime el nervio mentoniano en el foramen; se presenta con hipoestesia; requiere reposicionamiento\n- **Ptosis del tejido blando (mentón de bruja):** La creación del bolsillo subperiostal desinserta el músculo mentoniano; ptosis si no se realiza adecuada resuspensión muscular en el cierre"
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Resuspensión del Músculo Mentoniano",
+          "content": "El fallo en la resuspensión del músculo mentoniano durante el cierre de la cirugía del mentón (tanto aloplástica como genioplastia ósea) produce la deformidad de 'mentón de bruja' — ptosis hacia abajo de la almohadilla de tejido blando del mentón con un pliegue mentolabial prominente. El músculo mentoniano debe reinsertarse en el periostio a su nivel de inserción original o por encima usando suturas reabsorbibles. Esta es la complicación estética prevenible más frecuente de la cirugía del mentón."
+        }
+      ]
+    },
+    {
+      "id": "B4-S5",
+      "title": "Anatomía del Nervio Mentoniano y su Protección",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **nervio mentoniano** es la rama terminal del nervio alveolar inferior, que sale del foramen mentoniano típicamente entre (o justo por debajo de) los premolares. Comprender su anatomía es esencial para una genioplastia segura.\n\n**Posición del foramen:** El foramen mentoniano se sitúa bajo el ápice del segundo premolar en aproximadamente el 60% de los sujetos; bajo el primer premolar en el 15%; y entre los premolares en el 25%. En pacientes de mayor edad, la resorción alveolar provoca una migración aparente superior del foramen relativa a la cresta.\n\n**Asa anterior:** Tras salir del foramen, el nervio mentoniano discurre anteriormente dentro de una extensión del canal óseo entre 0–5 mm (media 2–3 mm) antes de girar posterolateralmente hacia el labio inferior. Este 'asa anterior' está en riesgo cuando la osteotomía se coloca cerca del foramen anteriormente.\n\n**Distancia segura de la osteotomía:** Para proteger tanto la salida del foramen como el asa anterior, la osteotomía debe colocarse un mínimo de **5 mm por debajo del foramen mentoniano** medido verticalmente. En una sínfisis corta (dimensión vertical reducida entre los ápices dentarios y el borde inferior), esta regla de 5 mm puede no ser alcanzable, limitando el alcance de los movimientos verticales.\n\n**Identificación del nervio:** La disección subperiostal debe llevarse superiormente solo al nivel del foramen, no más allá. El nervio mentoniano se identifica visualmente en el colgajo periostal/tejido blando tras la exposición y se protege con un pequeño elevador periostal o un vessel loop durante la osteotomía.\n\n**Resultados neurosensitivos:** La hipoestesia temporal del nervio mentoniano (entumecimiento del labio inferior) ocurre en prácticamente todos los pacientes (90–100%) tras la genioplastia y típicamente se resuelve en 3–6 meses. La hipoestesia permanente ocurre en aproximadamente el 2–5% de los casos en manos experimentadas — significativamente menos que tras la BSSO. La menor tasa refleja que el nervio está menos anclado (sale del foramen libremente) y la osteotomía está por debajo en lugar de al lado del canal nervioso."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Planificación de Sínfisis Corta",
+          "content": "En pacientes con sínfisis corta (distancia vertical entre ápices dentarios y borde inferior <12–15 mm), los márgenes de seguridad requeridos para la osteotomía de genioplastia (5 mm por debajo de los forámenes Y 5 mm por debajo de los ápices radiculares) pueden no ser compatibles. En estos casos, pueden requerirse primero la elongación ortodóncica o quirúrgica del tercio inferior facial, o el movimiento vertical puede necesitar ser limitado. Medir siempre el espacio vertical disponible en una telerradiografía lateral o radiografía panorámica antes de planificar la genioplastia."
+        }
+      ]
+    },
+    {
+      "id": "B4-S6",
+      "title": "Complicaciones y Manejo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La genioplastia es generalmente bien tolerada con una baja tasa de complicaciones graves. Las principales complicaciones son:\n\n**Lesión del nervio mentoniano:** Hipoestesia temporal (prácticamente universal); déficit permanente en el 2–5%. Manejo: tranquilización, seguimiento neurosensitivo a los 3, 6, 12 meses. Si no hay recuperación a los 12 meses y se sospecha neurotmesis, derivar para valoración microquirúrgica.\n\n**Necrosis avascular (NAV) del segmento mentoniano:** Poco frecuente (<1% con técnica correcta); causada por el raspado excesivo del periostio del borde inferior y la desinserción del pedículo muscular. Se presenta con dolor persistente, formación de secuestro, hueso expuesto o falta de consolidación. Manejo: desbridamiento conservador, antibióticos; puede requerir extracción del segmento necrótico y reconstrucción.\n\n**Deformidad de escalón óseo:** Escalón visible entre el segmento mentoniano y el cuerpo mandibular, que ocurre típicamente cuando el mentón ha avanzado significativamente y los márgenes óseos laterales no se han alisado. Prevención: alisamiento/fresado de los bordes del escalón lateral tras la fijación. Corrección si sintomático: fresado bajo anestesia local.\n\n**Recidiva:** Menos frecuente que la recidiva de BSSO; los estudios comunican <5% de recidiva esquelética al año para avances de genioplastia aislada de hasta 10 mm. Se recomienda la sobrecorrección de 1–2 mm para avances >8 mm.\n\n**Pseudoartrosis:** Poco frecuente con fijación rígida con placa; más frecuente con fijación inadecuada o traumatismo postoperatorio. Tratamiento: revisión de RAFI con injerto óseo si persiste la unión fibrosa a los 6 meses.\n\n**Infección:** 1–2% con genioplastia ósea; más frecuente con mentoplastia aloplástica (1–3%). Manejo: antibióticos; retirada del implante/placa si recalcitrante.\n\n**Mentón de bruja (ptosis del tejido blando):** Dehiscencia del músculo mentoniano o fallo en la resuspensión. Prevención mediante un cierre cuidadoso por planos con resuspensión del músculo mentoniano. Corrección: resuspensión mentoniana secundaria, escisión directa de piel redundante (raramente necesaria)."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones de Genioplastia: Incidencia, Causa y Manejo",
+          "headers": ["Complicación", "Incidencia", "Causa Principal", "Manejo"],
+          "rows": [
+            ["Hipoestesia temporal del nervio mentoniano", "~100%", "Estiramiento/neuropraxia esperada", "Tranquilización; se resuelve en 3–6 meses"],
+            ["Déficit permanente del nervio mentoniano", "2–5%", "Osteotomía demasiado cerca del foramen; lesión nerviosa directa", "Seguimiento neurosensitivo; raramente requiere reparación"],
+            ["Necrosis avascular del segmento mentoniano", "<1%", "Raspado del pedículo muscular del borde inferior", "Desbridamiento; reconstrucción si grave"],
+            ["Deformidad de escalón óseo", "5–15%", "Alisamiento lateral del hueso inadecuado tras el movimiento", "Fresado bajo anestesia local; frecuentemente se resuelve con la reducción del edema"],
+            ["Mentón de bruja (ptosis del tejido blando)", "3–8%", "Músculo mentoniano no resuspendido en el cierre", "Resuspensión secundaria; revisión cosmética"],
+            ["Recidiva esquelética", "<5% al año", "Sobrecorrección necesaria para avances >8 mm", "Sobrecorrección 1–2 mm; estable si movimiento <10 mm"],
+            ["Migración del implante (aloplástico)", "2–8%", "Bolsillo sobredimensionado; sin tornillos de fijación", "Reposicionamiento y fijación con tornillos"],
+            ["Resorción ósea (aloplástico)", "~30% a los 10 años (menor)", "Presión del implante sobre el hueso cortical", "Seguimiento; resorción significativa (>3 mm) puede requerir cambio a genioplastia ósea"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Infección del Implante Aloplástico",
+          "content": "La infección del implante mentoniano aloplástico típicamente se presenta semanas a meses después de la cirugía con edema progresivo, enrojecimiento y supuración sobre el mentón o intraoralmente. Una vez establecida alrededor de implantes de silicona o ePTFE, la infección raramente responde solo a antibióticos y habitualmente requiere explantación. El implante puede reemplazarse tras la resolución completa (mínimo 3 meses). Las infecciones de polietileno poroso (Medpor) casi siempre requieren extracción debido al extenso crecimiento tisular que impide un desbridamiento adecuado."
+        }
+      ]
+    },
+    {
+      "id": "B4-S7",
+      "title": "Genioplastia en Combinación con Cirugía Ortognática",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La genioplastia se realiza con frecuencia simultáneamente con BSSO, Le Fort I o cirugía bimaxilar para ajustar con precisión la posición del mentón tras el reposicionamiento de los maxilares. La planificación de la genioplastia en combinación requiere una consideración cuidadosa de las proporciones faciales modificadas que resultan del movimiento mandibular.\n\n**Secuenciación en cirugía bimaxilar + genioplastia:** Típicamente, el Le Fort I se completa y se fija primero, luego la BSSO se completa y se fija con la férula quirúrgica, y la genioplastia es el paso final. Esto garantiza que la osteotomía del mentón se planifique y ejecute después de que el maxilar superior e inferior estén en sus posiciones finales planificadas. Alternativamente, la genioplastia puede planificarse y realizarse antes de la BSSO si el acceso es más fácil, pero la posición del mentón debe tener en cuenta el movimiento mandibular planificado.\n\n**Ajuste de la planificación de genioplastia para cirugía mandibular simultánea:** Cuando el avance de BSSO desplaza el mentón hacia adelante, el avance de genioplastia planificado puede necesitar reducirse consecuentemente. Cuando el retroceso de BSSO mueve el mentón posteriormente, puede necesitarse un avance adicional de genioplastia para mantener la proyección mentoniana. El software de simulación (Dolphin, Simplant OMS o equivalente) permite la planificación combinada de todos los movimientos de los maxilares y el mentón simultáneamente, prediciendo el resultado del tejido blando y permitiendo el ajuste de cada componente.\n\n**Escenarios de combinación específicos:**\n- **Clase II + deficiencia del mentón:** Avance de BSSO + avance de genioplastia; cuidado para no avanzar en exceso (el BSSO ya lleva el mentón hacia adelante)\n- **Clase III + exceso del mentón:** Retroceso de BSSO + impactación de genioplastia; reduce la proyección y la altura vertical del mentón simultáneamente\n- **Exceso vertical maxilar (EVM) + cara larga:** Impactación de Le Fort I + autorrotación de BSSO + impactación de genioplastia; abordaje de triple maxilar para síndrome de cara larga\n- **Corrección de mordida abierta:** Impactación de Le Fort I + avance de BSSO ± genioplastia\n\nLos pacientes deben ser informados de que el resultado del mentón puede no estar finalizado hasta que todo el edema se resuelva (3–6 meses), y de que la valoración final de la adecuación de la genioplastia se realiza a los 6–12 meses."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Triple Maxilar en Síndrome de Cara Larga",
+          "content": "El síndrome de cara larga (exceso vertical maxilar con mordida abierta anterior, aumento de la altura del tercio inferior facial, incompetencia labial, sonrisa gingival) se corrige de forma óptima con un abordaje de triple maxilar: (1) impactación maxilar de Le Fort I, (2) avance mandibular de BSSO mediante autorrotación, (3) impactación de genioplastia ósea para reducir la altura del mentón. La impactación de genioplastia es el componente que corrige el exceso vertical del mentón que persiste tras la impactación maxilar y la autorrotación mandibular solas."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre anatomía, técnica, movimientos y complicaciones de la genioplastia con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "B4-Q1",
+        "stem": "Durante la genioplastia ósea, ¿qué estructura proporciona el aporte sanguíneo crítico al segmento mentoniano a través del pedículo muscular, y debe preservarse para evitar la necrosis avascular?",
+        "options": {
+          "A": "Arteria labial inferior a través del pliegue labiomentonniano",
+          "B": "Arteria submentoniana que entra a través de la musculatura suprahioidea unida al borde inferior",
+          "C": "Arteria lingual a través del suelo de la boca",
+          "D": "Arteria facial a través de la bola de Bichat"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El aporte sanguíneo crítico al segmento mentoniano durante la genioplastia se mantiene a través del pedículo muscular — la musculatura suprahioidea (geniogloso, genihioideo, digástrico anterior, milohioideo) que se inserta en el borde inferior y las apófisis geni. La arteria submentoniana, rama de la arteria facial, entra en el mentón desde la cara superior a través de esta inserción muscular. El estudio fundamental de revascularización de Bell de 1969 demostró que la osteotomía de la mandíbula anterior mantiene la viabilidad siempre que el periostio del borde inferior y el pedículo muscular se preserven.",
+          "wrong": {
+            "A": "La arteria labial inferior contribuye a los tejidos blandos anteriores al mentón pero no es el aporte sanguíneo principal al segmento óseo del mentón a través del pedículo",
+            "C": "La arteria lingual irriga la lengua y el suelo de la boca pero no es el aporte principal al segmento mentoniano",
+            "D": "La arteria facial es el origen de la arteria submentoniana, pero el aporte entra a través del pedículo muscular (músculos suprahioideos), no a través de la bola de Bichat"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Técnica de genioplastia — preservación del pedículo muscular como principio fundamental",
+          "trial": "Bell WH. Revascularization and bone healing after anterior mandibular osteotomy: a study using adult Rhesus monkeys. J Oral Surg (1969): demostró la viabilidad del segmento mentoniano con pedículo muscular intacto incluso tras osteotomía cortical completa",
+          "pearl": "Viabilidad de genioplastia = pedículo muscular preservado (músculos suprahioideos en el borde inferior) = aporte de arteria submentoniana conservado. Nunca raspar el periostio del borde inferior ni desinsertar la musculatura del suelo de la boca del segmento mentoniano."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q2",
+        "stem": "La distancia vertical mínima por debajo del foramen mentoniano a la que debe colocarse la osteotomía horizontal de genioplastia es:",
+        "options": {
+          "A": "2 mm",
+          "B": "5 mm",
+          "C": "10 mm",
+          "D": "15 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La osteotomía de genioplastia debe colocarse al menos 5 mm por debajo de los forámenes mentonianos para proteger el nervio mentoniano y, de manera crítica, su asa anterior. El asa anterior del nervio mentoniano se extiende anteriormente dentro del hueso entre 0–5 mm antes de girar posterolateralmente en la salida del foramen. Colocar la osteotomía a menos de 5 mm del foramen arriesga cortar el asa anterior del nervio aunque el foramen mismo parezca estar con seguridad superior a la línea de osteotomía en la vista lateral.",
+          "wrong": {
+            "A": "2 mm es insuficiente para proteger el asa anterior del nervio mentoniano — el asa puede extenderse hasta 5 mm por delante del foramen",
+            "C": "10 mm es innecesariamente conservador y puede no ser alcanzable en pacientes con sínfisis cortas; 5 mm es el mínimo basado en la evidencia",
+            "D": "15 mm haría la genioplastia imposible en la mayoría de los pacientes con altura de sínfisis normal"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Genioplastia — margen de seguridad mínimo de 5 mm por debajo de los forámenes mentonianos para la colocación de la osteotomía",
+          "trial": "Mardini S et al. The anterior loop of the mental nerve: a cadaveric and radiographic study. J Oral Maxillofac Surg (2000): longitud del asa anterior 0–5,5 mm (media 2,3 mm); la separación de 5 mm por debajo del foramen protege el percentil 95 de las longitudes del asa anterior",
+          "pearl": "Osteotomía de genioplastia: mínimo 5 mm por debajo de los forámenes mentonianos Y 5 mm por debajo de los ápices radiculares. Ambas restricciones deben satisfacerse simultáneamente. Medir en la radiografía panorámica preoperatoria o CBCT."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q3",
+        "stem": "Una mujer de 26 años presenta cara inferior larga (aumento del tercio facial inferior), pliegue mentolabial profundo e incompetencia labial. El análisis cefalométrico muestra exceso vertical maxilar con retrognatia mandibular en autorrotación. Se somete a impactación maxilar de Le Fort I, avance mandibular de BSSO mediante autorrotación y genioplastia concurrente. ¿Qué movimiento de genioplastia debe planificarse?",
+        "options": {
+          "A": "Avance del mentón para aumentar aún más la proyección mentoniana",
+          "B": "Impactación del mentón (reducción vertical) para reducir la altura del mentón",
+          "C": "Reposicionamiento inferior del mentón (aumento vertical) para aumentar la altura del tercio inferior facial",
+          "D": "Sin genioplastia — la cirugía bimaxilar corregirá todos los aspectos de la deformidad"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En el síndrome de cara larga tratado con impactación de Le Fort I y autorrotación mandibular de BSSO, la impactación maxilar reduce la dimensión vertical del tercio medio facial, y la autorrotación mandibular cierra la mordida abierta anterior y reduce la altura del tercio inferior facial. Sin embargo, la altura del mentón — el componente desde el pliegue mentolabial hasta el mentón — no se reduce con estos movimientos. Para lograr una verdadera reducción de las proporciones del tercio facial inferior y mejorar la profundidad del pliegue mentolabial, se requiere la impactación de genioplastia ósea concurrente (extracción de una cuña horizontal para reducir la altura del mentón) como tercer componente del abordaje de triple maxilar.",
+          "wrong": {
+            "A": "El avance del mentón empeoraría la apariencia en una paciente con un mentón ya prominente en una cara verticalmente larga — el mentón necesita acortarse, no avanzarse",
+            "C": "El aumento vertical aumentaría la altura del mentón, empeorando la cara larga — lo contrario de lo que se necesita",
+            "D": "Sin impactación de genioplastia, la altura del mentón permanecerá desproporcionada tras la cirugía bimaxilar — el abordaje de triple maxilar aborda específicamente esto"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Síndrome de cara larga — indicaciones y secuenciación de la cirugía de triple maxilar",
+          "trial": "Proffit WR, Turvey TA, Phillips C. Orthognathic surgery: a hierarchy of stability. Int J Adult Orthod Orthognath Surg (1996): abordaje de triple maxilar para síndrome de cara larga descrito; impactación de genioplastia como tercer componente esencial",
+          "pearl": "Triple maxilar en síndrome de cara larga: (1) impactación de Le Fort I → reduce sonrisa gingival + altura del tercio superior facial, (2) autorrotación de BSSO → cierra mordida abierta + reduce altura del tercio inferior facial, (3) IMPACTACIÓN de genioplastia → reduce altura del mentón. Las tres son necesarias para un resultado óptimo."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q4",
+        "stem": "Un paciente se somete a mentoplastia aloplástica con un implante de silicona colocado en un bolsillo subperiostal. En el seguimiento a los 18 meses, la radiografía simple muestra aproximadamente 1,5 mm de erosión ósea en la superficie de contacto con el implante. El paciente está asintomático. ¿Cuál es el manejo más apropiado?",
+        "options": {
+          "A": "Explantación inmediata por resorción ósea significativa",
+          "B": "Continuar el seguimiento — este es un hallazgo esperado y aceptable",
+          "C": "Convertir inmediatamente a genioplastia ósea",
+          "D": "Prescribir bisfosfonatos para prevenir la resorción ósea adicional"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La resorción ósea leve (1–2 mm) en la interfaz implante-hueso es un hallazgo universal y esperado con los implantes mentonnianos aloplásticos, particularmente la silicona. Los estudios comunican una resorción ósea media de 1–2 mm a los 10 años con implantes de silicona, reflejando la respuesta normal de remodelado a la presión sostenida del implante. A los 18 meses con 1,5 mm de resorción, el paciente está dentro del rango esperado para este material. Siempre que el paciente esté asintomático, el resultado sea estéticamente satisfactorio y no haya migración del implante ni infección, la vigilancia continuada es apropiada. La intervención generalmente está indicada cuando la resorción supera 3–4 mm o se vuelve sintomática.",
+          "wrong": {
+            "A": "1,5 mm de resorción ósea a los 18 meses es esperada, no un motivo de explantación — la explantación está indicada para >3–4 mm de resorción, migración, infección o insatisfacción del paciente",
+            "C": "La conversión a genioplastia ósea no está indicada para un resultado asintomático y estéticamente satisfactorio con resorción menor esperada",
+            "D": "Los bisfosfonatos no se utilizan para manejar la resorción ósea relacionada con implantes y tienen efectos secundarios significativos; no están indicados aquí"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Seguimiento de mentoplastia aloplástica — protocolo de monitorización para resorción ósea",
+          "trial": "Friedland JA et al. Long-term follow-up of alloplastic chin augmentation. Plast Reconstr Surg (2003): resorción ósea media 1,2 mm a los 5 años, 1,8 mm a los 10 años con implantes de silicona; <3 mm de resorción considerada aceptable; sin consecuencias funcionales en el 97% de los pacientes",
+          "pearl": "Resorción ósea del implante mentoniano aloplástico: 1–2 mm a los 10 años = esperada, monitorizar. >3–4 mm = considerar revisión a genioplastia ósea o implante de mayor tamaño. Criterios de intervención: sintomático, fracaso estético, migración, infección o resorción >4 mm."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q5",
+        "stem": "Una mujer de 28 años desarrolla la deformidad de 'mentón de bruja' (ptosis del tejido blando del mentón y pliegue mentolabial profundo) tras el avance de genioplastia ósea. ¿Cuál es la causa técnica más probable de esta complicación?",
+        "options": {
+          "A": "Avance excesivo del mentón más allá de la posición planificada",
+          "B": "Fallo en la resuspensión del músculo mentoniano durante el cierre de la herida",
+          "C": "Necrosis avascular del tejido blando del mentón",
+          "D": "Lesión del nervio mentoniano que causa atrofia por denervación de la musculatura mentoniana"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La deformidad de mentón de bruja (ptosis hacia abajo de la almohadilla de tejido blando del mentón, produciendo una apariencia de mentón colgante con un pliegue mentolabial profundo u obliterado) es causada por el fallo en la reinsercción del músculo mentoniano durante el cierre. El músculo mentoniano se origina en el proceso alveolar cerca de los incisivos y se inserta en la piel del mentón — proporciona un soporte y elevación cruciales de la almohadilla de tejido blando del mentón. Cuando la disección subperiostal desinserta el mentoniano de su origen periostal y esto no se resuspende en el cierre, el músculo cae inferiormente, arrastrando la almohadilla cutánea hacia abajo. La prevención requiere un cierre meticuloso por planos con suturas del mentoniano al periostio a la altura de la inserción original o por encima.",
+          "wrong": {
+            "A": "El avance excesivo produce mayor proyección del mentón, no ptosis de la almohadilla de tejido blando — el sobreavance óseo causa protrusión del tejido duro, no el descenso del tejido blando del mentón de bruja",
+            "C": "La necrosis avascular del tejido blando es extremadamente rara y se presentaría con cambios isquémicos, no ptosis",
+            "D": "La lesión del nervio mentoniano causa déficit sensitivo (hipoestesia) — el músculo mentoniano es inervado motormente por la rama marginal mandibular del nervio facial, no por el nervio mentoniano; la lesión motora es muy rara en genioplastia"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Genioplastia — resuspensión obligatoria del músculo mentoniano durante el cierre",
+          "trial": "Zide BM, McCarthy JG. The mentalis muscle. Plast Reconstr Surg (1989): estudio anatómico que documenta la función del mentoniano y las consecuencias de la no resuspensión en cirugía del mentón — deformidad de mentón de bruja en el 100% de los especímenes cadavéricos cuando el mentoniano no fue reinsertado",
+          "pearl": "Mentón de bruja = mentoniano no resuspendido en el cierre. Prevención: siempre resuspender el mentoniano al periostio con suturas reabsorbibles durante el cierre de la cirugía del mentón. Esta es la complicación estética prevenible más frecuente de la genioplastia y la mentoplastia aloplástica."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q6",
+        "stem": "Un paciente con maloclusión esquelética de Clase II y SNB 73° requiere 7 mm de avance del mentón para el equilibrio estético tras el avance mandibular de BSSO de 5 mm. ¿Cuál es la estimación más precisa del movimiento del pogonion del tejido blando que puede esperarse del avance de genioplastia ósea de 7 mm?",
+        "options": {
+          "A": "3–4 mm (cociente del 50%)",
+          "B": "5–6 mm (cociente del 70–80%)",
+          "C": "6–7 mm (cociente del 90–95%)",
+          "D": "8–9 mm (cociente del 110–120% — el tejido blando supera el movimiento óseo)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La respuesta del tejido blando en el pogonion del tejido blando tras el avance de genioplastia ósea es aproximadamente el 90–95% del movimiento óseo. Este es uno de los cocientes de movimiento de tejido blando a óseo más altos en cirugía ortognática porque el tejido blando del mentón está estrechamente adherido al hueso en la zona del pogonion y tiene mínima grasa o músculo interpuesto sobre el pogonion óseo. Para un avance óseo de 7 mm, el avance predicho del pogonion del tejido blando es de 6,3–6,6 mm (aproximadamente 6–7 mm).",
+          "wrong": {
+            "A": "El cociente del 50% es la respuesta del tejido blando para algunos movimientos verticales (p. ej., aumento vertical con injerto interposicional); el avance horizontal tiene un cociente mucho más alto",
+            "B": "El cociente del 70–80% es típico para la respuesta del tejido blando del avance maxilar de Le Fort I — no de la genioplastia",
+            "D": "El tejido blando no supera el movimiento óseo en la genioplastia estándar — no se observan cocientes >100% en los movimientos horizontales"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Cocientes de predicción del tejido blando para movimientos ortognáticos — genioplastia 90–95%",
+          "trial": "Proffit WR et al. Contemporary Treatment of Dentofacial Deformity (2003): cocientes de predicción del tejido blando completos para todos los movimientos mandibulares; avance de genioplastia 90–95% en pogonion",
+          "pearl": "Cocientes de predicción del tejido blando: Avance de genioplastia = 90–95% (el más alto). Avance de Le Fort I = 70–80%. Avance de BSSO = 85–90%. Impactación vertical de genioplastia = 70–80%. Estos cocientes son esenciales para la planificación del OVT (objetivo visual de tratamiento)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q7",
+        "stem": "¿Qué material para la mentoplastia aloplástica se considera más difícil o imposible de retirar una vez colocado, debido al extenso crecimiento de tejido fibroso?",
+        "options": {
+          "A": "Silicona (polidimetilsiloxano)",
+          "B": "Politetrafluoroetileno expandido (ePTFE)",
+          "C": "Polietileno poroso (Medpor)",
+          "D": "Cemento de hidroxiapatita"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El polietileno poroso (Medpor) tiene una estructura altamente porosa (tamaño de poro 125–250 μm) que permite el crecimiento fibrovascular e incluso óseo en todo el implante. Este crecimiento hace que el Medpor sea extremadamente estable y resistente a la migración — su principal ventaja. Sin embargo, hace que el implante sea prácticamente imposible de retirar completamente una vez que ha ocurrido el crecimiento fibrovascular (típicamente a los 3–6 meses). La extracción quirúrgica requiere la fragmentación física del implante y deja material residual incrustado en el tejido. Esta irreversibilidad debe comentarse específicamente con los pacientes antes de la colocación del Medpor.",
+          "wrong": {
+            "A": "Los implantes de silicona tienen una superficie lisa o texturizada pero mínimo crecimiento tisular — están encapsulados por tejido fibroso y permanecen extraíbles durante toda su vida",
+            "B": "El ePTFE (Gore-Tex) tiene algún crecimiento tisular pero generalmente es extraíble con disección cuidadosa en los primeros años; más difícil que la silicona pero menos problemático que el Medpor",
+            "D": "El cemento de hidroxiapatita no se usa para mentoplastia aloplástica — se usa para la reparación de defectos craneofaciales"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Selección del material del implante mentoniano aloplástico — asesoramiento al paciente sobre la irreversibilidad del polietileno poroso",
+          "trial": "Rubin JP, Yaremchuk MJ. Complications and toxicities of implantable biomaterials used in facial reconstructive and aesthetic surgery. Plast Reconstr Surg (1997): el crecimiento de polietileno poroso es esencialmente permanente a los 3 meses; la extracción requiere fragmentación; la encapsulación de silicona sin crecimiento = totalmente reversible",
+          "pearl": "Reversibilidad del implante mentoniano aloplástico: Silicona = fácilmente extraíble en cualquier momento. ePTFE = extraíble con disección cuidadosa. Polietileno poroso (Medpor) = esencialmente irreversible debido al crecimiento fibrovascular. Informar a los pacientes sobre la permanencia del Medpor antes de la implantación."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q8",
+        "stem": "Un varón de 23 años se somete a genioplastia por deficiencia mentoniana aislada. Inmediatamente tras la operación presenta el esperado entumecimiento del labio inferior. A los 3 meses el entumecimiento solo se ha resuelto parcialmente — puede sentir el tacto suave pero tiene discriminación de dos puntos reducida. A los 12 meses, el déficit es esencialmente igual al de los 3 meses. ¿Cuál es el siguiente paso más apropiado?",
+        "options": {
+          "A": "Tranquilizar y continuar el seguimiento hasta los 24 meses",
+          "B": "Prescribir nortriptilina para el manejo del dolor neuropático",
+          "C": "Derivar para exploración quirúrgica y valoración microquirúrgica del nervio",
+          "D": "Solicitar CBCT de repetición para evaluar la migración del implante cerca del foramen"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Cuando el déficit neurosensitivo post-genioplastia no muestra progresión de la recuperación entre los 3 y los 12 meses, esto sugiere una lesión por axonotmesis o neurotmesis con deterioro del recrecimiento axonal en lugar de simple neuropraxia (que típicamente se recupera en 3–6 meses). La ausencia de mejoría entre los 3 y los 12 meses es un signo preocupante. En este punto, la derivación para exploración quirúrgica y valoración microquirúrgica (incluyendo estudios de conducción nerviosa y ENMG) está justificada para evaluar si: (1) el nervio está atrapado en tejido cicatricial en el foramen, (2) hay un neuroma que requiere neurólisis, o (3) hay verdadera neurotmesis que requiere injerto nervioso.",
+          "wrong": {
+            "A": "Aunque la recuperación puede continuar más allá de los 12 meses, la ausencia de cualquier cambio entre los 3 y los 12 meses es un signo pronóstico adverso — esperar más sin investigación no es apropiado cuando hay opciones microquirúrgicas disponibles",
+            "B": "La nortriptilina aborda el dolor neuropático y la disestesia pero no promueve la recuperación nerviosa ni trata la causa estructural",
+            "D": "La genioplastia utiliza una osteotomía ósea deslizante sin implante — no hay implante que pueda migrar; la CBCT evaluaría la cicatrización ósea y la posición del material pero no específicamente el atrapamiento nervioso"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Déficit neurosensitivo persistente tras cirugía mandibular — criterios de derivación para valoración microquirúrgica a los 12 meses sin mejoría",
+          "trial": "Robinson PP et al. Peripheral nerve injuries in surgical dentistry. Br Dent J (2004): abordaje sistemático de la lesión nerviosa persistente — sin recuperación de 3 a 12 meses justifica exploración quirúrgica; el atrapamiento en foramen/cicatriz es la causa corregible más frecuente",
+          "pearl": "Déficit nervioso post-genioplastia: la neuropraxia se recupera en 3–6 meses. La axonotmesis se recupera lentamente en 12–18 meses con mejoría medible. Sin mejoría de 3 a 12 meses = posible neurotmesis o atrapamiento → derivación para exploración quirúrgica."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B4-Q9",
+        "stem": "Se planifica una genioplastia deslizante para un paciente con deficiencia mentoniana horizontal aislada. El análisis cefalométrico muestra: el mentón requiere 8 mm de avance anterior, sin cambio vertical necesario. ¿Qué fijación se usa y cuál es el riesgo principal a esta magnitud?",
+        "options": {
+          "A": "Osteosíntesis con alambres; riesgo principal es la infección",
+          "B": "Miniplaca de titanio; riesgo principal es la recidiva, requiriendo sobrecorrección de 1–2 mm",
+          "C": "Tornillos bicorticales; riesgo principal es la necrosis avascular",
+          "D": "Sin fijación — el pedículo muscular proporciona estabilidad adecuada"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fijación estándar para genioplastia es una miniplaca de titanio o placa de genioplastia dedicada con tornillos monocorticales, proporcionando fijación rígida del segmento mentoniano en la posición avanzada. Para avances de 8 mm, la recidiva esquelética al año se comunica en aproximadamente el 5–8% de los casos — la mayoría de las series recomiendan la sobrecorrección de 1–2 mm (planificar 9–10 mm de avance óseo) para compensar la recidiva menor esperada. La estabilidad del avance de genioplastia aislada es generalmente excelente porque el segmento mentoniano está bien vascularizado a través del pedículo muscular y el contacto óseo se mantiene sobre una amplia superficie.",
+          "wrong": {
+            "A": "La osteosíntesis con alambres (alambrado del segmento mentoniano) no proporciona fijación rígida adecuada y se asocia a altas tasas de recidiva — la fijación con placa de titanio es el estándar de atención",
+            "C": "Los tornillos bicorticales raramente se usan para genioplastia (necesitarían atravesar ambas corticales del mentón, que es delgado); las miniplacas son el estándar",
+            "D": "Sin fijación rígida con placa, el segmento mentoniano volvería a su posición original — el pedículo muscular mantiene la viabilidad pero no la fijación"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Fijación de genioplastia — miniplaca de titanio como estándar; sobrecorrección de 1–2 mm para avances >6 mm",
+          "trial": "Shaughnessy S et al. Stability of sliding genioplasty. J Oral Maxillofac Surg (1994): recidiva <5% para avances ≤8 mm con fijación rígida con placa; sobrecorrección de 1–2 mm recomendada para avances de 6–10 mm",
+          "pearl": "Fijación de genioplastia = miniplaca de titanio (tornillos monocorticales). Para avances >6 mm, planificar sobrecorrección de 1–2 mm para compensar la recidiva menor. La estabilidad global es excelente — mucho mejor que la BSSO para movimientos horizontales equivalentes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q10",
+        "stem": "¿Cuál es la medición cefalométrica principal utilizada para evaluar la posición horizontal del mentón y planificar la genioplastia?",
+        "options": {
+          "A": "Ángulo SNA",
+          "B": "Distancia del pogonion (Pg) a la línea NB",
+          "C": "Ángulo ANB",
+          "D": "Análisis de Wits"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La distancia del pogonion (Pg) a la línea NB mide la prominencia del mentón relativa a la referencia esquelética N-B. Los valores normales son aproximadamente 4 mm por delante de NB en varones y 2–3 mm en mujeres. Un mentón deficiente muestra Pg por detrás de la línea NB o en la línea con valores inferiores a los normales; un mentón prominente muestra Pg significativamente por delante de NB. Esta medición es la herramienta cefalométrica principal para evaluar la deformidad específica del mentón y planificar los movimientos de genioplastia, independientemente de las mediciones de la relación mandibular.",
+          "wrong": {
+            "A": "El SNA mide la posición sagital maxilar relativa al nasion — no la posición del mentón",
+            "C": "El ANB mide la relación esquelética mandibular (maxilar vs mandíbula) — relevante para la planificación de cirugía mandibular pero no para la evaluación específica del mentón",
+            "D": "El análisis de Wits mide la relación mandibular basada en el plano oclusal — relevante para la planificación ortognática, no para la evaluación específica del mentón"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Análisis cefalométrico para evaluación del mentón — Pg a NB como medición principal",
+          "trial": "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003): normas de Pg-NB y aplicación a la planificación de genioplastia descritas con metodología de predicción quirúrgica",
+          "pearl": "Pg a NB = evaluación de la posición del mentón. Normal: varón 4 mm, mujer 2–3 mm por delante de NB. Usar para planificación específica de genioplastia. ANB y SNA/SNB evalúan las relaciones mandibulares para la planificación de BSSO/Le Fort — diferentes mediciones para diferentes propósitos."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q11",
+        "stem": "Durante la genioplastia, el cirujano observa que tras completar la osteotomía horizontal el segmento mentoniano no es móvil y permanece firmemente unido. ¿Qué estructura proporciona con mayor probabilidad esta resistencia inesperada?",
+        "options": {
+          "A": "Periostio en la superficie lateral del mentón",
+          "B": "Pedículo muscular (músculos suprahioideos) unido al borde inferior y las apófisis geni",
+          "C": "Hueso cortical en la superficie posterior de la sínfisis que no ha sido completamente cortado",
+          "D": "Inserción fibrosa del nervio alveolar inferior"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La osteotomía de genioplastia debe cortar completamente el hueso cortical bilateralmente — tanto las corticales bucal como lingual — usando la sierra reciprocante. Si la cortical lingual posterior no ha sido completamente cortada, el segmento mentoniano permanece firmemente unido y no puede movilizarse. Esta es la razón intraoperatoria más frecuente para la inmovilidad del segmento mentoniano tras la osteotomía. La solución es reexaminar la osteotomía con elevación periostal y completar cualquier corte cortical restante bajo visión directa. Un fino osteotomo curvo puede ayudar a completar la cortical lingual posterior si la sierra no puede avanzarse con seguridad más.",
+          "wrong": {
+            "A": "El periostio lateral proporciona algo de resistencia pero habitualmente no es lo suficientemente firme como para prevenir la movilización tras una osteotomía completa — se desgarra fácilmente con presión descendente controlada",
+            "B": "El pedículo muscular (músculos suprahioideos en el borde inferior) NO debe cortarse durante la genioplastia — proporciona el aporte vascular; su resistencia es parte de la movilidad normal pero no previene la movilización si la osteotomía está completa",
+            "D": "El nervio alveolar inferior no está en el campo quirúrgico de la genioplastia — está dentro del canal mandibular por encima del nivel de la osteotomía"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Técnica de genioplastia — verificación de osteotomía completa antes de la movilización",
+          "trial": "Bell WH, Gallagher DM. The versatility of genioplasty using a broad pedicle. J Oral Maxillofac Surg (1983): descripción técnica que enfatiza el corte cortical posterior completo como esencial antes de la movilización",
+          "pearl": "Si el segmento mentoniano no se moviliza tras la osteotomía de genioplastia → comprobar si hay corte incompleto de la cortical posterior (lingual). Nunca forzar la movilización — esto arriesga la propagación de mala división hacia la zona de la raíz dental. Completar el corte cortical posterior bajo visión directa antes de aplicar presión de movilización suave."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q12",
+        "stem": "Una mujer de 30 años con cara inferior larga e incompetencia labial está planificada para impactación de genioplastia a fin de reducir la altura del mentón 5 mm. ¿Qué técnica se usa para lograr la reducción vertical?",
+        "options": {
+          "A": "Avance horizontal del segmento mentoniano superiormente a lo largo de un corte angulado",
+          "B": "Extracción de una cuña horizontal de hueso entre la osteotomía del mentón y el cuerpo mandibular (corte superior), cerrando el espacio",
+          "C": "Inserción de un distractor de titanio para comprimir gradualmente el segmento mentoniano hacia arriba",
+          "D": "Colocación de un implante de silicona bajo el segmento mentoniano existente para elevarlo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La reducción vertical del mentón (impactación) requiere extraer una cuña horizontal de hueso de la superficie superior del segmento mentoniano (o equivalentemente, realizar una segunda osteotomía paralela superior a la primera y retirar el hueso entre los dos cortes). La cantidad de hueso extraído equivale a la reducción vertical planificada (5 mm en este caso). El segmento mentoniano se desplaza entonces superiormente para cerrar el espacio, produciendo una menor altura del mentón. El segmento se fija con una placa de titanio que abarca el nuevo contacto hueso con hueso. Esto solo es alcanzable con genioplastia ósea — la mentoplastia aloplástica no puede reducir la altura del mentón.",
+          "wrong": {
+            "A": "El avance angulado a lo largo de un corte no horizontal produce una combinación de avance y ligero cambio vertical, pero no pura impactación de 5 mm — esta técnica es menos precisa para la reducción vertical",
+            "C": "La distracción osteogénica se usa para el alargamiento/aumento gradual del hueso — no puede usarse para la compresión/reducción del hueso",
+            "D": "Colocar un implante bajo el segmento mentoniano lo empujaría inferiormente, aumentando la altura del mentón — lo contrario de lo que se necesita"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Genioplastia — técnica de impactación ósea para reducción vertical",
+          "trial": "Shaughnessy S et al. J Oral Maxillofac Surg (1994): la impactación de genioplastia ósea produce reducción vertical fiable con respuesta del tejido blando del 70–80%; única técnica para la reducción de la altura del mentón",
+          "pearl": "REDUCCIÓN vertical del mentón = extracción de cuña ósea + impactación (solo posible con genioplastia ósea, no aloplástica). AUMENTO vertical del mentón = injerto óseo interposicional entre el segmento mentoniano y el cuerpo (menos fiable por la resorción del injerto). Conocer las dos opciones de movimiento vertical."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q13",
+        "stem": "Un varón de 19 años se somete a mentoplastia aloplástica con un implante de silicona estándar colocado mediante incisión labivestibular (intraoral). Postoperatoriamente desarrolla entumecimiento del labio inferior derecho que se extiende al mentón. ¿Qué complicación ha ocurrido?",
+        "options": {
+          "A": "Compresión del nervio mentoniano por el implante colocado demasiado lateralmente",
+          "B": "Lesión del nervio de la cuerda del tímpano por disección posterior",
+          "C": "Lesión del nervio alveolar inferior por la disección subperiostal",
+          "D": "Lesión del nervio lingual por tracción excesiva"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Los implantes mentonnianos aloplásticos se extienden lateralmente desde la región de la sínfisis y, si son demasiado grandes o están mal posicionados, los bordes laterales del implante pueden comprimir o anclar el nervio mentoniano en o cerca del foramen mentoniano. El entumecimiento unilateral del labio inferior y el mentón tras la mentoplastia con un implante asimétrico estándar (donde la extensión lateral derecha cubre el foramen mentoniano derecho) es la presentación clásica de la compresión del nervio mentoniano. Manejo: reposicionar el implante medialmente (o reemplazarlo por uno de menor tamaño) para aliviar la presión nerviosa; la mayoría de los casos se resuelven una vez eliminada la presión.",
+          "wrong": {
+            "A": "Esta es la respuesta correcta — compresión del nervio mentoniano en el foramen mentoniano por un implante lateralmente sobredimensionado",
+            "B": "La lesión de la cuerda del tímpano produce alteración del gusto ipsilateral en la lengua anterior — no entumecimiento del labio inferior; está en riesgo en BSSO, no en mentoplastia",
+            "C": "La lesión del NIA durante la mentoplastia requeriría penetrar el cuerpo mandibular por encima del nivel de la osteotomía — no posible en una disección correctamente realizada del bolsillo subperiostal en la sínfisis",
+            "D": "La lesión del nervio lingual produciría hipoestesia de la lengua anterior — no entumecimiento del labio inferior/mentón; el nervio lingual no está en el campo quirúrgico de la mentoplastia"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Mentoplastia aloplástica — tamaño y posicionamiento del implante para evitar la compresión del nervio mentoniano",
+          "trial": "Friedland JA et al. Long-term follow-up of alloplastic chin augmentation. Plast Reconstr Surg (2003): síntomas del nervio mentoniano en el 4% de las mentoplastias aloplásticas; el reposicionamiento resolvió el 87% de los casos; recuperación nerviosa completa en el 90% tras reposicionamiento dentro de las 6 semanas",
+          "pearl": "Entumecimiento unilateral del labio/mentón tras mentoplastia = compresión del nervio mentoniano por implante lateralmente sobredimensionado o migrado. El reposicionamiento precoz dentro de las 6 semanas logra un 90% de recuperación nerviosa. La selección del tamaño del implante debe tener en cuenta la extensión lateral relativa a la posición del foramen mentoniano."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q14",
+        "stem": "¿Qué escenario clínico es una indicación de genioplastia deslizante ósea en lugar de mentoplastia aloplástica?",
+        "options": {
+          "A": "Deficiencia horizontal del mentón de 5 mm en una mujer de 35 años que busca un procedimiento mínimamente invasivo",
+          "B": "Deficiencia horizontal del mentón de 12 mm con necesidad simultánea de reducción vertical del mentón de 4 mm",
+          "C": "Deficiencia leve del mentón de 4 mm combinada con rinoplastia",
+          "D": "Deficiencia horizontal del mentón de 6 mm en un paciente que se ha sometido previamente a BSSO"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El requisito de avance horizontal Y reducción vertical simultáneamente es la indicación definitiva de genioplastia ósea sobre la mentoplastia aloplástica. Los implantes aloplásticos solo pueden añadir proyección — no pueden reducir la altura del mentón ni cambiar la dimensión vertical. Un avance horizontal de 12 mm combinado con una reducción vertical de 4 mm requiere una osteotomía deslizante con extracción de cuña ósea, que solo la genioplastia ósea puede proporcionar. Además, 12 mm es el límite superior de fiabilidad de la mentoplastia aloplástica (los avances >10 mm se logran mejor con genioplastia ósea por razones de estabilidad).",
+          "wrong": {
+            "A": "La deficiencia horizontal aislada de 5 mm en un adulto que busca corrección mínimamente invasiva es una indicación aloplástica apropiada — procedimiento sencillo, reversible, bajo anestesia local",
+            "C": "La deficiencia leve de 4 mm combinada con rinoplastia es una indicación clásica aloplástica — implante de silicona mentoniano y rinoplastia bajo una anestesia es una combinación estándar",
+            "D": "La BSSO previa no contraindica la mentoplastia aloplástica — la cirugía previa no cambia la anatomía del mentón lo suficiente como para requerir genioplastia ósea"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Indicaciones de genioplastia ósea — movimiento multidimensional, reducción vertical, avances grandes >10 mm",
+          "trial": "Proffit WR et al. Contemporary Treatment of Dentofacial Deformity (2003): la genioplastia ósea es la única capaz de reducción vertical — la mentoplastia aloplástica está limitada solo al aumento horizontal",
+          "pearl": "La genioplastia ósea es necesaria cuando: (1) se necesita reducción vertical, (2) movimiento >10–12 mm, (3) corrección de asimetría >4 mm, (4) cirugía ortognática concurrente. La aloplástica es apropiada para: (1) deficiencia horizontal aislada ≤10 mm, (2) preferencia del paciente por menos invasivo, (3) práctica estética en combinación con rinoplastia."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q15",
+        "stem": "Una mujer de 25 años se somete a genioplastia ósea. A los 6 meses presenta un escalón óseo palpable y visible en el lado derecho donde el segmento mentoniano se une al cuerpo mandibular. El escalón mide 3 mm y es cosméticamente llamativo. Está angustiada por la apariencia. ¿Cuál es el tratamiento más apropiado?",
+        "options": {
+          "A": "Cirugía de revisión con re-osteotomía y fijación diferente",
+          "B": "Fresado del escalón óseo bajo anestesia local para alisar la transición",
+          "C": "Tranquilizar — el escalón se remodelará completamente en 2 años",
+          "D": "Implante aloplástico colocado sobre el escalón para camuflarlo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una deformidad de escalón óseo visible tras genioplastia resulta de un alisamiento inadecuado del margen óseo lateral tras el avance del segmento mentoniano, dejando un escalón abrupto entre el mentón avanzado y el cuerpo mandibular fijo. A los 6 meses, el hueso está completamente cicatrizado y el escalón puede manejarse definitivamente fresándolo suavemente a través de un pequeño abordaje intraoral bajo anestesia local. Este es un procedimiento secundario menor con mínima morbilidad y excelentes resultados. El escalón óseo debe contornearse bajo visión directa para producir una transición suave.",
+          "wrong": {
+            "A": "La re-osteotomía de revisión completa es excesiva para una simple deformidad de escalón óseo — el fresado es la primera intervención apropiada y menos invasiva",
+            "C": "Los escalones óseos no se remodelan espontáneamente — requieren intervención; el escalón ya está presente a los 6 meses (hueso cicatrizado) y persistirá",
+            "D": "Colocar un implante aloplástico sobre un escalón añade volumen y no alisa el contorno; haría la región más prominente, no la integraría"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Procedimientos secundarios tras genioplastia — manejo del escalón óseo por contorneado",
+          "trial": "Shaughnessy S et al. Stability of sliding genioplasty. J Oral Maxillofac Surg (1994): escalón óseo en el 8% de los avances >6 mm; fresado bajo anestesia local exitoso en todos los casos; prevención por contorneado óseo lateral intraoperatorio",
+          "pearl": "Deformidad de escalón óseo de genioplastia = fresarlo suavemente bajo anestesia local (6+ meses postoperatorio cuando el hueso está cicatrizado). Prevención: siempre contornear los escalones óseos laterales en el momento de la genioplastia primaria tras aplicar la fijación."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q16",
+        "stem": "El 'asa anterior del nervio mentoniano' es clínicamente relevante para la planificación de genioplastia porque:",
+        "options": {
+          "A": "Transporta el aporte motor principal a la musculatura mentoniana",
+          "B": "Se extiende anteriormente dentro del hueso más allá del foramen mentoniano entre 0–5 mm, aumentando el margen de seguridad requerido para la osteotomía",
+          "C": "Se sacrifica de forma rutinaria durante la genioplastia sin consecuencias clínicas",
+          "D": "Se localiza posterior al foramen mentoniano y por tanto no está en riesgo en la cirugía anterior del mentón"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El asa anterior del nervio mentoniano es un segmento del nervio alveolar inferior que se extiende anteriormente dentro del canal mandibular más allá del foramen mentoniano antes de girar para salir posterolateralmente a través del foramen. Se extiende 0–5 mm (media ~2,3 mm) por delante de la salida del foramen visible. Esto significa que el nervio está dentro del hueso anterior al foramen, en la zona donde se coloca la osteotomía de genioplastia. El margen de seguridad de 5 mm por debajo de los forámenes tiene en cuenta este asa anterior — simplemente evitar el foramen en sí mismo es insuficiente.",
+          "wrong": {
+            "A": "El nervio mentoniano es puramente sensitivo — no proporciona inervación motora a la musculatura mentoniana; la rama marginal mandibular del nervio facial proporciona la función motora del mentón",
+            "C": "El asa anterior del nervio mentoniano transporta fibras sensitivas al labio inferior y el mentón — es clínicamente significativa y debe protegerse; la lesión causa hipoestesia permanente del labio inferior",
+            "D": "El asa anterior se extiende ANTERIORMENTE más allá del foramen — no es posterior y está directamente en el camino de una osteotomía de genioplastia colocada demasiado cerca del foramen"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Asa anterior del nervio mentoniano — significado clínico en genioplastia y colocación de implantes",
+          "trial": "Mardini S et al. The anterior loop of the inferior alveolar nerve: a clinical and anatomic study. J Oral Maxillofac Surg (2000): asa anterior presente en el 88% de los especímenes, extendiéndose una media de 2,3 mm por delante del foramen (rango 0–5,5 mm)",
+          "pearl": "Asa anterior = nervio mentoniano se extiende anteriormente 0–5 mm más allá del foramen dentro del hueso. Regla de seguridad: la osteotomía debe estar 5 mm POR DEBAJO del foramen para dejar libre el asa anterior. Conocer tanto la localización del foramen COMO el asa anterior al planificar la osteotomía."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q17",
+        "stem": "En un paciente que se somete a genioplastia para retroceso del mentón, ¿qué complicación específica es más probable comparada con el avance del mentón?",
+        "options": {
+          "A": "Necrosis avascular del segmento mentoniano",
+          "B": "Ptosis del tejido blando del mentón (mentón de bruja) con pliegue mentolabial prominente",
+          "C": "Lesión permanente del nervio mentoniano",
+          "D": "Pseudoartrosis en el lugar de la osteotomía"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El retroceso del mentón (reposicionamiento posterior) es más probable que produzca ptosis del tejido blando del mentón (mentón de bruja) comparado con el avance. Cuando el mentón se desplaza posteriormente, la envoltura de tejido blando que previamente cubría el mentón avanzado ahora tiene exceso de laxitud. La almohadilla mentoniana puede caer inferiormente, creando una apariencia ptótica con un pliegue mentolabial profundizado — la deformidad de 'mentón de bruja'. Este riesgo aumenta con retrocesos mayores (>4–5 mm) y con la resuspensión inadecuada del mentoniano. En contraste, el avance del mentón crea tensión en la envoltura de tejido blando que tiende a prevenir el descenso.",
+          "wrong": {
+            "A": "El riesgo de necrosis avascular no depende de la dirección — es causado por el despegamiento del pedículo muscular, que puede ocurrir con cualquier movimiento de genioplastia",
+            "C": "El riesgo de lesión del nervio mentoniano es similar para el avance y el retroceso — depende de la proximidad de la osteotomía al foramen, no de la dirección del movimiento",
+            "D": "El riesgo de pseudoartrosis es similar para ambos movimientos y depende principalmente de la calidad de la fijación y los factores del huésped, no de la dirección del movimiento"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Complicaciones de genioplastia — ptosis del tejido blando más frecuente con los movimientos de retroceso",
+          "trial": "Zide BM, McCarthy JG. The mentalis muscle: an essential component of chin and lower lip position. Plast Reconstr Surg (1989): ptosis del tejido blando tras retroceso relacionada con el exceso de laxitud cutánea y la no resuspensión del mentoniano",
+          "pearl": "El retroceso del mentón > avance para el riesgo de ptosis del tejido blando (mentón de bruja) porque el retroceso crea laxitud del tejido blando. El retroceso conservador (≤4 mm) y la resuspensión meticulosa del mentoniano son preventivos. Considerar un abordaje conservador para retrocesos grandes — puede dejar prominencia mentoniana residual."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q18",
+        "stem": "Un paciente de 22 años requiere avance de genioplastia de 10 mm combinado con impactación vertical de 4 mm (movimiento en dos vectores). ¿Qué se planifica a nivel de la osteotomía para lograr este movimiento combinado?",
+        "options": {
+          "A": "Un corte horizontal recto, con el segmento mentoniano avanzado 10 mm y una cuña ósea extraída de la superficie superior tras el movimiento",
+          "B": "Una osteotomía escalonada-oblicua que logra simultáneamente ambos vectores en un solo corte",
+          "C": "Dos osteotomías horizontales separadas: una para la reducción vertical y otra para el avance",
+          "D": "Un corte de osteotomía angulado (inclinado superiormente hacia la sínfisis), produciendo avance e impactación combinados como un movimiento único"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Para el avance e impactación combinados, se diseña una osteotomía angulada (no horizontal) de modo que cuando el segmento mentoniano desliza anteriormente sobre las superficies cortadas anguladas, se desplace simultáneamente hacia adelante (avance) y hacia arriba (impactación). El ángulo de la osteotomía se calcula a partir de los vectores de movimiento planificados en el eje X (horizontal) y el eje Y (vertical). Al deslizar el segmento hacia adelante sobre el corte angulado, se mueve en ambos planos simultáneamente, evitando la necesidad de una extracción separada de cuña ósea. La placa de titanio se contornea entonces para mantener el segmento en la posición combinada correcta.",
+          "wrong": {
+            "A": "Un corte horizontal recto requiere extracción separada de cuña ósea para el componente vertical — esta es una técnica válida pero menos elegante que un corte angulado único para el movimiento predecible en dos vectores",
+            "B": "Una osteotomía escalonada-oblicua se usa para la corrección de asimetría (avance combinado y transversal), no principalmente para movimientos en dos vectores vertical + horizontal",
+            "C": "Dos osteotomías separadas crean tres fragmentos óseos, lo que es innecesariamente complejo y crea riesgo vascular adicional — la osteotomía angulada única logra el mismo resultado de forma más segura"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Técnica de genioplastia multivectorial — osteotomía angulada para movimientos horizontal y vertical combinados",
+          "trial": "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003): técnica de osteotomía angulada para avance + impactación combinados descrita; cálculo trigonométrico del ángulo del corte a partir de los vectores de movimiento planificados",
+          "pearl": "Genioplastia de avance + impactación combinada = osteotomía angulada. Ángulo calculado a partir del cociente de movimiento horizontal/vertical. Al deslizar el segmento anteriormente sobre las superficies óseas anguladas, se mueve en ambos planos simultáneamente. No se necesita extracción separada de cuña ósea."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B4-Q19",
+        "stem": "Un paciente se somete a avance maxilar de Le Fort I de 6 mm combinado con avance mandibular de BSSO de 4 mm para corrección de Clase II esquelética. La planificación presquirúrgica muestra que tras estos movimientos mandibulares la posición del mentón seguirá siendo deficiente (Pg 3 mm por detrás de NB en un paciente varón que requiere 4 mm en NB). ¿Qué procedimiento adicional debe planificarse?",
+        "options": {
+          "A": "Sin procedimiento adicional — el avance de BSSO corrige la deficiencia del mentón",
+          "B": "Avance de genioplastia de aproximadamente 7 mm concurrente con los procedimientos ortognáticos",
+          "C": "Mentoplastia aloplástica 3 meses después de la cirugía ortognática",
+          "D": "Aumentar el avance de BSSO a 7 mm en lugar de 4 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Tras los movimientos bimaxilares planificados, la predicción cefalométrica muestra el mentón en Pg 3 mm por detrás de NB. El objetivo para varones es Pg 4 mm por delante de NB — persiste un déficit total de 7 mm. Se debe añadir un avance de genioplastia ósea concurrente de 7 mm al plan quirúrgico. Esto se realiza mejor de forma concurrente con los procedimientos ortognáticos para completar todas las correcciones necesarias en una sola anestesia. La planificación de la genioplastia como procedimiento concurrente es estándar en casos donde la predicción del tejido blando tras los movimientos mandibulares revela deficiencia mentoniana residual.",
+          "wrong": {
+            "A": "El avance de BSSO desplaza toda la mandíbula, incluyendo el pogonion óseo del mentón, anteriormente — pero la predicción cefalométrica tras el BSSO de 4 mm ya ha tenido en cuenta esto; persiste deficiencia mentoniana residual de 7 mm",
+            "C": "La mentoplastia aloplástica 3 meses después es aceptable pero somete al paciente a un segundo procedimiento innecesariamente cuando el mentón puede corregirse simultáneamente",
+            "D": "Aumentar el BSSO a 7 mm desplaza toda la mandíbula más, lo que puede crear problemas oclusales no planificados ortodóncicamente — la genioplastia es la herramienta específica para la corrección solo del mentón"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Integración de genioplastia en la planificación ortognática — genioplastia concurrente cuando el OVT muestra deficiencia mentoniana residual tras los movimientos mandibulares",
+          "trial": "Proffit WR, Turvey TA, Phillips C. Orthognathic surgery: a hierarchy of stability. Int J Adult Orthod Orthognath Surg (1996): el ajuste de genioplastia concurrente con cirugía ortognática produce resultados superiores a los procedimientos secundarios diferidos; se recomienda la integración del software de planificación",
+          "pearl": "Siempre realizar el OVT (objetivo visual de tratamiento) tras los movimientos mandibulares planificados antes de finalizar el plan quirúrgico. Si se identifica deficiencia mentoniana residual, añadir genioplastia concurrente — no aumentar el movimiento mandibular más allá de lo que la ortodoncia ha preparado o lo que la jerarquía de estabilidad permite."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B4-Q20",
+        "stem": "¿Cuál de las siguientes afirmaciones sobre la respuesta del tejido blando tras la genioplastia ósea comparada con el avance mandibular de BSSO es correcta?",
+        "options": {
+          "A": "El avance de BSSO produce mayor cambio del tejido blando en pogonion que el avance de genioplastia de la misma magnitud",
+          "B": "El avance de genioplastia produce aproximadamente un 90–95% de movimiento del tejido blando en pogonion, mientras que el avance de BSSO produce aproximadamente un 85–90%",
+          "C": "La genioplastia y la BSSO producen cocientes idénticos del tejido blando en pogonion",
+          "D": "La genioplastia produce solo un 50% de respuesta del tejido blando debido al grueso músculo mentoniano sobre el pogonion"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El avance de genioplastia produce aproximadamente un 90–95% de movimiento del tejido blando en el pogonion del tejido blando, mientras que el avance mandibular de BSSO produce aproximadamente un 85–90% en el mismo punto. Esta pequeña pero consistente diferencia refleja la naturaleza directamente adherida del tejido blando del mentón en el pogonion en la genioplastia (hueso directamente bajo piel delgada y periostio), en comparación con la BSSO donde toda la mandíbula avanza y el drapeado del tejido blando es ligeramente menos inmediato en pogonion. Ambos son cocientes altos, pero la genioplastia tiene la mayor predictibilidad en pogonion de cualquier procedimiento ortognático.",
+          "wrong": {
+            "A": "La BSSO no produce mayor respuesta del tejido blando en pogonion — la genioplastia tiene el cociente ligeramente más alto (90–95% vs 85–90%)",
+            "C": "La genioplastia y la BSSO producen cocientes similares pero no idénticos — la genioplastia es consistentemente ligeramente más alta",
+            "D": "El 50% es el cociente para el aumento vertical con injerto interposicional — no para el avance horizontal; el músculo mentoniano no reduce significativamente el cociente del tejido blando horizontal"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Predicción del tejido blando — cocientes de movimiento por tipo de procedimiento",
+          "trial": "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003): documentación sistemática de los cocientes de predicción del tejido blando por tipo de movimiento y región anatómica",
+          "pearl": "Jerarquía de predicción del tejido blando en pogonion: Avance de genioplastia 90–95% > Avance de BSSO 85–90% > Avance de Le Fort I 70–80% > Injerto de aumento vertical 50–70%. Conocer estos cocientes para la planificación y para los exámenes."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

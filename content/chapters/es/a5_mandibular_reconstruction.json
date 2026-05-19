@@ -1,0 +1,664 @@
+{
+  "id": "A5",
+  "title": "Reconstrucción Mandibular",
+  "subtitle": "Bloque A — Oncología de Cabeza y Cuello: Colgajos Libres, Planificación Virtual y Rehabilitación",
+  "block": "A",
+  "block_name": "Oncología de Cabeza y Cuello",
+  "level": "R3-5",
+  "reading_time_min": 45,
+  "guidelines_version": "EACMFS Reconstruction Guidelines 2023 · AAOMS 2023 · NCCN Head and Neck Cancers 2024",
+  "textbook_refs": [
+    "Urken ML et al. Atlas of Regional and Free Flaps for Head and Neck Reconstruction, 2nd ed. (Lippincott 2012)",
+    "Hidalgo DA. Fibula Free Flap: A New Method of Mandible Reconstruction (Plast Reconstr Surg 1989)",
+    "Brown JS et al. Classification of Mandibulectomy Defects (Head Neck 2016)",
+    "Roser SM et al. The Accuracy of Virtual Surgical Planning in Free Fibula Mandibular Reconstruction (J Oral Maxillofac Surg 2010)",
+    "Shen Y et al. Virtual Surgical Planning and CAD/CAM Splints in Fibula Free Flap Reconstruction (Oral Oncol 2020)"
+  ],
+  "learning_objectives": [
+    "Aplicar la clasificación de Brown de los defectos de mandibulectomía para orientar la toma de decisiones reconstructivas",
+    "Describir la anatomía del colgajo libre de peroné (CLP) incluyendo el pedículo vascular, la planificación de las osteotomías y los componentes de tejidos blandos",
+    "Explicar el papel de la planificación quirúrgica virtual (PQV) y las guías de corte CAD/CAM para lograr una reconstrucción mandibular precisa",
+    "Comparar las opciones de colgajos libres para la reconstrucción mandibular (peroné, ACIL, escápula, antebrazo radial) y seleccionar el colgajo apropiado según el tipo de defecto",
+    "Reconocer y manejar las complicaciones precoces y tardías de la reconstrucción mandibular microvascular, incluyendo el fracaso del colgajo, la exposición del material de osteosíntesis y la osteorradionecrosis"
+  ],
+  "sections": [
+    {
+      "id": "A5-S1",
+      "title": "Clasificación de los Defectos de Mandibulectomía",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La clasificación sistemática de los defectos de mandibulectomía es esencial para planificar la reconstrucción y comparar los resultados entre centros. La **clasificación de Brown y Shaw** (2010, actualizada en 2016) es el sistema más utilizado en cirugía oral y maxilofacial. Describe los defectos en dos dimensiones: la extensión vertical de la pérdida ósea (clases I–IV) y la presencia y extensión del déficit de tejidos blandos (clases a–e). Los defectos de **Clase I** preservan la continuidad de la mandíbula e incluyen las resecciones marginales (alveolares). Los defectos de **Clase II** incluyen la hemimandibulectomía sin resección del punto mentoniano (desde el cóndilo hasta la región del canino contralateral); los defectos de **Clase III** incluyen el punto mentoniano (cruzando la línea media). Los defectos de **Clase IV** incluyen la condilectomía (con o sin desarticulación). El componente de tejidos blandos se clasifica como: 'a' = sin defecto de tejidos blandos; 'b' = solo mucosa oral; 'c' = solo piel facial; 'd' = mucosa oral y piel facial; 'e' = defecto transfixiante (piel + mucosa). Los defectos más difíciles desde el punto de vista funcional y estético son los que afectan a la región mentoniana (clase III), ya que producen la deformidad 'Andy Gump' — pérdida de la sínfisis mandibular con ptosis del labio inferior, incompetencia oral y sialorrea."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Brown de los Defectos de Mandibulectomía",
+          "headers": ["Clase", "Defecto Óseo", "Punto Clave", "Prioridad Reconstructiva"],
+          "rows": [
+            ["I", "Marginal/alveolar — continuidad preservada", "Sin pérdida de sínfisis ni cóndilo", "Implantes dentales; no se precisa colgajo óseo"],
+            ["II", "Hemimandibulectomía — cóndilo intacto; mentón preservado", "Hasta canino contralateral", "CLP peroné (2–3 osteotomías); preservar cóndilo"],
+            ["III", "Incluye sínfisis/punto mentoniano", "Cruza la línea media", "CLP peroné (3–4 osteotomías); crítico para el contorno facial"],
+            ["IV", "Condilectomía/desarticulación", "Incluye cóndilo", "CLP + reconstrucción condilar; prótesis articular total"],
+            ["a", "Sin tejidos blandos", "Solo hueso", "Colgajo óseo únicamente"],
+            ["b", "Defecto de mucosa oral", "Se precisa revestimiento mucoso", "Paleta cutánea del CLP o CLAA para revestimiento"],
+            ["c", "Defecto de piel facial", "Se precisa cobertura externa", "CLP + segunda paleta cutánea para cobertura externa"],
+            ["d", "Mucosa oral + piel facial", "Se precisan ambas superficies", "CLP + paleta cutánea doble; colgajo quimérico"],
+            ["e", "Transfixiante", "Mejilla de espesor completo", "CLP + colgajo plegado/quimérico; reconstrucción compleja"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Deformidad Andy Gump",
+          "content": "La mandibulectomía de Clase III (que incluye la sínfisis) sin reconstrucción causa la deformidad 'Andy Gump': retracción de la parte inferior de la cara, ptosis del labio inferior, incompetencia oral, sialorrea y grave deterioro del habla y la deglución. La reconstrucción con un colgajo libre de peroné multisegmentario mediante 3–4 osteotomías y planificación guiada por CAD/CAM es el estándar de oro para evitar este resultado."
+        }
+      ]
+    },
+    {
+      "id": "A5-S2",
+      "title": "Colgajo Libre de Peroné — Anatomía y Diseño del Colgajo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **colgajo libre de peroné (CLP)** fue descrito por primera vez para la reconstrucción mandibular por David Hidalgo en 1989 (Plast Reconstr Surg) y se ha convertido en el donante estándar de oro para la mayoría de los defectos mandibulares. El peroné es un hueso no portador de peso con una longitud de 22–27 cm, que proporciona reserva ósea suficiente incluso para los defectos más extensos de hemimandibulectomía o sinfisarios que requieren 4 osteotomías. Su irrigación principal es la **arteria peronea (fibular)**, que penetra en el hueso a través de perforantes periósticas aproximadamente en el tercio medio, y proporciona un pedículo largo (6–8 cm) de calibre adecuado (arteria peronea 2–2,5 mm, venas concomitantes 2–4 mm). La paleta cutánea suprayacente de la pierna lateral se irriga mediante perforantes septocutáneas o musculocutáneas de la arteria peronea, y puede obtenerse como colgajo compuesto (osteomusculocutáneo) cuando se necesita revestimiento mucoso o cutáneo. La paleta cutánea típica mide 7 × 15 cm. Es fundamental preservar un **segmento mínimo de 6 cm** en el peroné distal para proteger la mortaja del tobillo. El **cuello del peroné proximal** también debe preservarse para proteger el nervio peroneo común (que rodea el cuello del peroné). La planificación preoperatoria debe incluir la evaluación de la anatomía vascular del miembro inferior — debe confirmarse el **flujo trifásico** (arterias tibial anterior, tibial posterior y peronea). Si la arteria peronea es el vaso dominante del pie (arteria tibial posterior ausente, es decir, peronea magna), la obtención del CLP de esa pierna está contraindicada."
+        },
+        {
+          "type": "table",
+          "title": "Colgajo Libre de Peroné — Parámetros Anatómicos Clave",
+          "headers": ["Parámetro", "Detalle", "Relevancia Clínica"],
+          "rows": [
+            ["Arteria del pedículo", "Arteria peronea (fibular)", "Longitud del pedículo 6–8 cm; diámetro 2–2,5 mm"],
+            ["Drenaje venoso", "Venas concomitantes (2) → vena peronea", "Diámetro 2–4 mm; apto para anastomosis"],
+            ["Longitud ósea disponible", "22–27 cm (utilizable ~14–18 cm)", "Preserva 6 cm distales + cuello proximal"],
+            ["Irrigación de la paleta cutánea", "Perforantes septocutáneas / musculocutáneas", "Mapeo preoperatorio de perforantes con Doppler"],
+            ["Componente muscular", "Flexor largo del hallux (opcional)", "Aporta volumen para espacio muerto; aumenta longitud del pedículo"],
+            ["Contraindicaciones", "Peronea magna; EVP grave; traumatismo previo de peroné", "Confirmar flujo trifásico preoperatoriamente"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Peronea Magna",
+          "content": "La peronea magna (arteria peronea dominante con arteria tibial posterior ausente o hipoplásica hacia el pie) está presente en aproximadamente el 5% de los pacientes. La obtención del CLP en esta situación produce isquemia del pie. Realizar siempre angioTC o angioRM de las arterias del miembro inferior antes de obtener el peroné para excluir esta variante anatómica. El examen Doppler solo es insuficiente."
+        }
+      ]
+    },
+    {
+      "id": "A5-S3",
+      "title": "Planificación Quirúrgica Virtual y Guías de Corte CAD/CAM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La planificación quirúrgica virtual (PQV) ha transformado la precisión y reproducibilidad de la reconstrucción mandibular con colgajo libre de peroné. La PQV incluye: (1) TC de alta resolución de la mandíbula/defecto y del peroné; (2) segmentación digital de ambos modelos óseos; (3) simulación 3D de la mandibulectomía y el plan de osteotomías en software de planificación quirúrgica (Materialise ProPlan CMF, DeltaMed u similar); (4) diseño de guías de corte específicas para el paciente (jigs) y placas de posicionamiento mediante tecnología CAD/CAM; y (5) fabricación de guías de corte de titanio y placas de reconstrucción personalizadas. Las guías de corte se aplican intraoperatoriamente para garantizar osteotomías precisas en las posiciones planificadas con los ángulos previstos, mientras que la placa de titanio personalizada está preadaptada al modelo de reconstrucción digital. Roser et al. (J Oral Maxillofac Surg 2010) demostraron que la PQV con dispositivos CAD/CAM mejoró significativamente la precisión del posicionamiento de los segmentos del peroné en comparación con la cirugía en modelos convencional. Shen et al. (Oral Oncol 2020) mostraron que la PQV redujo el tiempo quirúrgico una media de 85 minutos en reconstrucciones complejas con peroné. Las principales ventajas de la PQV sobre la cirugía en modelos convencional son: (a) resección y obtención del peroné simultáneas (en lugar de secuenciales), ya que las guías de corte permiten la preparación en paralelo por dos equipos; (b) mayor precisión de los ángulos de osteotomía para los segmentos curvos de la mandíbula; (c) relación oclusal más precisa cuando se planifica la rehabilitación dental primaria; (d) la fabricación de placas personalizadas elimina la adaptación intraoperatoria de la placa, reduciendo el riesgo de contaminación y fatiga del material. La colocación primaria de implantes en el momento de la reconstrucción se realiza cada vez más en pacientes sin tumor, con casquillos guía incorporados al diseño de la guía de corte."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Cuándo Utilizar la PQV",
+          "content": "La PQV es más valiosa para: (1) defectos de Clase III (sinfisarios — se requieren 3–4 osteotomías); (2) casos con colocación primaria de implantes planificada; (3) reconstrucción condilar que requiere posicionamiento condilar preciso; (4) mandibulectomía bilateral. Para los defectos simples de Clase II (2 osteotomías, sin afectación del mentón), las técnicas convencionales con cirugía en modelos pueden ser igualmente precisas y más coste-efectivas. El coste adicional de la PQV (3.000–8.000 € por caso) se compensa con la reducción del tiempo quirúrgico y la mayor precisión en los casos complejos."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Datos de Precisión de la PQV",
+          "content": "PQV + CAD/CAM reduce el error medio de posicionamiento de los segmentos del peroné a <2 mm frente a 4–8 mm con la cirugía en modelos convencional. Reducción media del tiempo quirúrgico de 85 minutos en casos complejos (Shen et al., Oral Oncol 2020). Permite el enfoque simultáneo de dos equipos: equipo ablativo + equipo reconstructivo trabajan en paralelo, no secuencialmente."
+        }
+      ]
+    },
+    {
+      "id": "A5-S4",
+      "title": "Colgajos Libres Alternativos para la Reconstrucción Mandibular",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Aunque el colgajo libre de peroné (CLP) es el estándar de oro para la mayoría de las reconstrucciones mandibulares, los sitios donantes alternativos son valiosos en situaciones clínicas específicas. El **colgajo de arteria circunfleja ilíaca profunda (ACIP)** (colgajo libre de cresta ilíaca) proporciona la mayor sección transversal de hueso cortical de todos los colgajos libres, aproximándose estrechamente a la altura de una mandíbula nativa portadora de molares sin necesidad de distracción vertical. El pedículo emerge de la arteria ilíaca externa 1–2 cm por encima del ligamento inguinal. La desventaja es la longitud limitada del pedículo (3–5 cm), la capacidad restringida para crear múltiples osteotomías debido al denso hueso cortical y la importante morbilidad del sitio donante (hernia 5–15%, alteración de la marcha). Es particularmente adecuado para los defectos de Clase II que requieren una gran altura de sección transversal para la colocación inmediata de implantes sin distracción vertical. El **colgajo libre de escápula** (borde lateral de la escápula, sistema subescapular) proporciona un excelente volumen de tejidos blandos de la rama del serrato y la rama toracodorsal, siendo ideal para los defectos 3D complejos con pérdida significativa de tejidos blandos y ósea (clase II–IIId/e). El sistema subescapular permite múltiples componentes compuestos (punta escapular, borde lateral, colgajo fasciocutáneo paraescapular, músculo dorsal ancho) sobre un único pedículo vascular — un colgajo «quimérico». Su principal limitación es que el paciente debe reposicionarse desde el decúbito lateral durante la obtención, lo que impide un enfoque simultáneo de dos equipos. El **colgajo libre de antebrazo radial (CLAA)** es el caballo de batalla para la reconstrucción de **solo tejidos blandos** o para pequeños defectos óseos del arco anterior. El radio proporciona aproximadamente 10 cm de hueso, pero con una altura de sección transversal limitada y un alto riesgo de fractura del radio en el sitio donante (10–25%). Para los grandes defectos mandibulares, el CLAA es insuficiente y no está recomendado."
+        },
+        {
+          "type": "table",
+          "title": "Opciones de Colgajos Libres para la Reconstrucción Mandibular — Comparación",
+          "headers": ["Colgajo", "Hueso Disponible", "Tejidos Blandos", "Longitud del Pedículo", "Mejor Para", "Limitación Clave"],
+          "rows": [
+            ["Peroné (CLP)", "14–18 cm, múltiples osteotomías", "Paleta septocutánea hasta 7×15 cm", "6–8 cm", "Todas las clases; estándar de oro", "Baja altura (12–14 mm); puede necesitar distracción para implantes"],
+            ["ACIP (cresta ilíaca)", "Gran sección transversal; 6–10 cm", "Solo músculo oblicuo interno limitado", "3–5 cm", "Clase II; gran sección transversal para implantes", "Osteotomías limitadas; longitud del pedículo; hernia donante"],
+            ["Escápula", "Borde lateral 10–14 cm", "Excelente: quimérico con DAmay y serrato", "6–10 cm", "Defectos 3D complejos IId/e; vasos inadecuados en otro lugar", "Sin dos equipos simultáneos; reposicionamiento del paciente"],
+            ["CLAA (osteomusculocutáneo)", "Radio hasta 10 cm", "Excelente piel fina y plegable", "15–20 cm", "Pequeños defectos anteriores; revestimiento de tejidos blandos", "Riesgo de fractura 10–25%; altura ósea limitada"],
+            ["Peroné vascularizado + DO", "Peroné + distracción vertical", "Paleta cutánea disponible", "6–8 cm", "Clase II/III con rehabilitación implantológica", "Procedimiento en dos tiempos; requiere colaboración"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Algoritmo de Selección del Colgajo",
+          "content": "Peroné CLP como primera elección para >90% de las reconstrucciones mandibulares. Elegir ACIP cuando se necesita gran altura ósea de sección transversal para la colocación inmediata de implantes en la mandíbula posterior. Elegir escápula para defectos 3D complejos con pérdida masiva de tejidos blandos (transfixiante, clase IId/e), especialmente cuando los vasos del peroné son inadecuados. Hueso CLAA = raramente utilizado para reconstrucción mandibular por riesgo de fractura."
+        }
+      ]
+    },
+    {
+      "id": "A5-S5",
+      "title": "Anastomosis Microvascular y Monitorización del Colgajo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El éxito de la reconstrucción mandibular con colgajo libre depende críticamente de la técnica de anastomosis microvascular y de la monitorización postoperatoria. Los vasos receptores estándar en el cuello son la arteria facial (término a término con la arteria peronea) o la arteria tiroidea superior (término a término), y la vena yugular interna o externa (término a lado o término a término con las venas concomitantes o una vena de drenaje). Cuando los vasos receptores estándar no están disponibles (disección cervical previa, radiación, colgajo previo), las alternativas incluyen: arteria cervical transversa, arteria lingual o vasos contralaterales con extensión mediante injerto venoso. La anastomosis venosa es la más crítica de las dos — la trombosis venosa es responsable de la mayoría de los fracasos del colgajo (60% venosos frente a 20% arteriales). Los protocolos de anticoagulación sistemática varían según el centro, pero típicamente incluyen ácido acetilsalicílico (75 mg diarios) y heparina de bajo peso molecular durante 5–7 días. La monitorización clínica de la paleta cutánea es el método estándar: color, relleno capilar, turgencia y temperatura cada 1–2 horas durante las primeras 48 horas, y luego cada 4 horas hasta los 5 días. Una paleta pálida, fría y que no sangra sugiere fracaso arterial; una paleta oscura, congestionada y con sangrado rápido sugiere trombosis venosa. La **sonda Doppler implantable** (dispositivo Cook-Swartz) proporciona una señal auditiva continua de la anastomosis o del perforante de la paleta cutánea, mejorando el tiempo de detección de la trombosis de varias horas a minutos. El retorno precoz al quirófano (en las 2–4 horas siguientes a la detección del fracaso) logra tasas de rescate del 40–60%. Más allá de las 8 horas, las tasas de rescate caen por debajo del 10%."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Trombosis Venosa frente a Oclusión Arterial",
+          "content": "Trombosis venosa (congestión del colgajo): color oscuro/violáceo, sangrado rápido y abundante al pinchazo, turgencia aumentada. Oclusión arterial: color pálido/blanco, sin relleno capilar, sin sangrado al pinchazo. Confundir la trombosis venosa con la oclusión arterial retrasará la exploración quirúrgica. Ante la duda, volver al quirófano inmediatamente — la diferencia entre un colgajo salvado y uno perdido es el tiempo."
+        }
+      ]
+    },
+    {
+      "id": "A5-S6",
+      "title": "Complicaciones y Procedimientos Secundarios",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones de la reconstrucción mandibular con colgajo libre de peroné se clasifican por el momento de aparición y la localización anatómica. El **fracaso del colgajo** ocurre en el 2–5% de los casos en centros con experiencia. El fracaso precoz (<72 horas, habitualmente trombótico) requiere reexploración quirúrgica inmediata; el fracaso tardío (>72 horas) tiene una tasa de rescate menor y puede requerir una reconstrucción secundaria con un colgajo diferente. La **exposición de la placa** es la complicación tardía más frecuente (10–20% a los 5 años), presentándose como dolor y dehiscencia mucosa sobre las placas de titanio. Los factores contribuyentes incluyen: cierre mucoso tenso, deficiente estado nutricional, lesión por radiación y placas de mal ajuste. El manejo oscila entre conservador (desbridamiento, antibióticos profilácticos, higiene oral) y quirúrgico (avance mucoso, cobertura con colgajo de isla palatina o retirada de la placa si el peroné está totalmente integrado). La **osteorradionecrosis (ORN)** del segmento de peroné reconstruido es infrecuente, pero puede producirse cuando se aplica radioterapia adyuvante tras la reconstrucción — el peroné tiene hueso cortical con irrigación intrínseca limitada y es susceptible a la lesión por radiación. La **rehabilitación dental** es el objetivo funcional último de la reconstrucción mandibular. Los implantes endoóseos pueden colocarse en el peroné (de forma primaria en el momento de la reconstrucción, o secundariamente 6–12 meses después de completar el tratamiento adyuvante). La altura del peroné es típicamente de 12–14 mm, suficiente para implantes estándar de 4,0 mm de diámetro. Cuando la altura del peroné es insuficiente para el perfil de emergencia protésico, la distracción osteogénica vertical (DO) puede aumentar la altura 8–12 mm antes de la colocación de los implantes. Las tasas de osteointegración en los colgajos de peroné son del 85–95% a los 5 años, comparables al hueso mandibular nativo."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones de la Reconstrucción Mandibular con Colgajo Libre de Peroné",
+          "headers": ["Complicación", "Incidencia", "Momento", "Manejo"],
+          "rows": [
+            ["Fracaso del colgajo (trombosis)", "2–5%", "<72h (precoz); >72h (tardío)", "Reexploración inmediata; rescate 40–60% si <4h"],
+            ["Exposición de placa", "10–20% a los 5 años", "Meses–años", "Conservador hasta colgajo mucoso; retirada de placa si hueso fusionado"],
+            ["Infección/dehiscencia de herida", "5–10%", "Días–semanas", "Antibióticos IV; desbridamiento; recierrede vs cicatrización secundaria"],
+            ["Herida en sitio donante", "5–15%", "Semanas", "Injerto de piel parcial en el donante del peroné; proteger tendones tibiales/peroneos"],
+            ["Inestabilidad del tobillo", "1–3%", "Meses", "Preservar 6 cm distal del peroné y ligamento interóseo"],
+            ["Fracaso del material (fractura de placa)", "3–8%", "Meses–años", "Revisión de la placa; asegurar la unión ósea antes de retirar el material"],
+            ["Pérdida de implante en peroné", "5–15%", "Meses–años postimplante", "Reimplantación; DO vertical si altura insuficiente"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Momento de la Colocación de Implantes Dentales",
+          "content": "La colocación primaria de implantes en el momento de la reconstrucción con CLP reduce el tiempo total de tratamiento y las intervenciones quirúrgicas. Sin embargo, los implantes primarios están contraindicados en: (1) alto riesgo de recidiva tumoral (los implantes complican la vigilancia); (2) radioterapia postoperatoria planificada (riesgo de infección del implante en el hueso irradiado); (3) márgenes quirúrgicos inciertos en el momento del cierre. La colocación secundaria de implantes 12–18 meses después de la reconstrucción y la finalización del tratamiento adyuvante es el enfoque más seguro para la mayoría de los pacientes oncológicos. Se recomienda oxigenoterapia hiperbárica (OHB) antes y después de la colocación de implantes en pacientes con implantes en peroné previamente irradiado (>50 Gy)."
+        }
+      ]
+    },
+    {
+      "id": "A5-S7",
+      "title": "Reconstrucción Condilar y Reemplazo Articular Total",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los defectos de mandibulectomía de Clase IV que implican condilectomía requieren la reconstrucción de la unidad condilar. Las opciones incluyen: neocóndilo del peroné (modelado del extremo proximal del peroné), prótesis condilar convencional (Biomet Lorenz, Zimmer Biomet) o reemplazo articular temporomandibular (ATM) total con prótesis articulares totales estándar o personalizadas. El **neocóndilo** formado a partir del peroné es el enfoque preferido en pacientes jóvenes y no irradiados: el extremo proximal del peroné se modela para aproximar la forma condilar y se posiciona en la fosa glenoidea, apoyándose en el disco articular. Los resultados a largo plazo son variables — se producen reabsorción y remodelación, pero los resultados funcionales son generalmente aceptables. El **reemplazo articular total personalizado (RAT)** está indicado para la reconstrucción condilar en pacientes previamente irradiados, pacientes ancianos con capacidad de cicatrización limitada, o cuando el peroné es demasiado delgado para sostener un neocóndilo. Los RAT específicos para el paciente (sistemas personalizados Biomet Lorenz o Stryker) se fabrican a partir de datos de TC y proporcionan componentes precisos de cabeza condilar y fosa. Para las reconstrucciones de Clase IV con colgajo de peroné combinadas con RAT personalizado, la PQV es esencial para garantizar el posicionamiento espacial preciso de la prótesis condilar en la fosa glenoidea, preservando la oclusión y la altura facial correctas. La reconstrucción bilateral de condilectomía es especialmente desafiante y requiere una planificación prequirúrgica precisa para evitar la mordida abierta anterior, que resulta de una altura vertical posterior insuficiente."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Opciones de Reconstrucción Condilar",
+          "content": "Mandibulectomía de Clase IV (condilectomía): tres opciones — (1) Neocóndilo de peroné: extremo del peroné modelado y posicionado en la fosa glenoidea; preferido en pacientes jóvenes no irradiados; (2) Prótesis condilar estándar; (3) Prótesis articular total personalizada: mejor para casos irradiados o complejos. La PQV es esencial para todas las reconstrucciones de Clase IV para lograr la altura facial vertical y la oclusión correctas."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Pon a prueba tus conocimientos sobre reconstrucción mandibular — clasificación, anatomía del colgajo, PQV y complicaciones — con 20 preguntas tipo examen de residencia.",
+    "questions": [
+      {
+        "id": "A5-Q1",
+        "stem": "Un varón de 58 años se somete a mandibulectomía segmentaria por carcinoma epidermoide T4a de la encía mandibular derecha. La resección se extiende desde el segundo molar derecho hasta el canino derecho, preservando el punto mentoniano. No hay afectación de la piel facial, pero toda la mucosa del suelo de boca derecho requiere resección. Usando la clasificación de Brown, ¿qué clase es este defecto?",
+        "options": {
+          "A": "Clase Ia",
+          "B": "Clase IIb",
+          "C": "Clase IIIa",
+          "D": "Clase IVd"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Clase II de Brown describe la hemimandibulectomía que se extiende hasta el mentón pero sin incluirlo (sínfisis/canino contralateral). Aquí la resección va del segundo molar derecho al canino derecho — el punto mentoniano está preservado. El componente mucoso (mucosa del suelo de boca resecada, sin piel facial) = 'b' (defecto de mucosa oral solo). Por tanto: Clase IIb.",
+          "wrong": {
+            "A": "La Clase I es una mandibulectomía marginal (sin discontinuidad). Esta es una resección segmentaria que crea un defecto de discontinuidad — no es Clase I.",
+            "C": "La Clase III requeriría que la resección incluyera la sínfisis/el punto mentoniano (cruzando la línea media para involucrar el lado contralateral). Aquí el mentón está preservado.",
+            "D": "La Clase IV implica condilectomía (resección del cóndilo). Esta resección se detiene en el canino derecho — el cóndilo está intacto."
+          },
+          "guideline": "Brown JS y Shaw RJ. Reconstruction of the mandible following tumour surgery (Int J Oral Maxillofac Surg 2010); clasificación de Brown actualizada (Head Neck 2016)",
+          "trial": "Brown JS et al. (Head Neck 2016): clasificación actualizada que demuestra correlación entre la clase del defecto y la complejidad reconstructiva, los resultados funcionales y los patrones de selección del colgajo.",
+          "pearl": "Clasificación de Brown: Clase I = marginal (continuidad preservada); II = hemimandibulectomía (mentón preservado); III = incluye mentón/sínfisis; IV = condilectomía. Tejidos blandos: a = ninguno; b = mucosa; c = piel; d = ambos; e = transfixiante. Combinar: p. ej., Clase IIb = hemimandibulectomía con defecto mucoso."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q2",
+        "stem": "El pedículo del colgajo libre de peroné se basa en la arteria peronea. ¿Cuál es la longitud aproximada del pedículo que puede obtenerse con la extracción estándar del peroné?",
+        "options": {
+          "A": "2–3 cm",
+          "B": "6–8 cm",
+          "C": "12–15 cm",
+          "D": "18–22 cm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El pedículo de la arteria peronea proporciona una longitud de aproximadamente 6–8 cm con el colgajo libre de peroné. Esto es generalmente suficiente para la anastomosis con los vasos faciales, tiroideos superiores o linguales en el cuello sin necesidad de injerto venoso. El diámetro de la arteria peronea es de 2–2,5 mm, bien adecuado para la anastomosis término a término o término a lado.",
+          "wrong": {
+            "A": "Un pedículo de 2–3 cm sería demasiado corto para una anastomosis cómoda en el cuello y no alcanzaría desde el peroné hasta los vasos receptores del cuello.",
+            "C": "Un pedículo de 12–15 cm es característico del colgajo libre de antebrazo radial (arteria radial), que tiene un pedículo excepcionalmente largo — una característica distintiva del CLAA.",
+            "D": "Una longitud de pedículo de 18–22 cm no está disponible en ningún pedículo estándar de colgajo libre. Esta longitud requeriría extensión con injerto y no es una medida estándar de pedículo."
+          },
+          "guideline": "Urken ML et al. Atlas of Regional and Free Flaps for Head and Neck Reconstruction, 2nd ed. (Lippincott 2012)",
+          "trial": "Hidalgo DA (Plast Reconstr Surg 1989): descripción original del colgajo libre de peroné confirmando la longitud del pedículo de la arteria peronea de 6–8 cm y el diámetro de 2–2,5 mm.",
+          "pearl": "CLP peroné: pedículo = arteria peronea, longitud 6–8 cm, diámetro 2–2,5 mm. Longitud ósea disponible 14–18 cm (preservando 6 cm distales + cuello proximal). Mejor compatible con arteria facial o arteria tiroidea superior en el cuello."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q3",
+        "stem": "Una mujer de 64 años requiere la obtención de un colgajo libre de peroné para reconstrucción mandibular. La angioTC preoperatoria del miembro inferior revela que la arteria peronea izquierda es dominante y proporciona el único aporte arterial al pie (arteria tibial posterior ausente). ¿Cuál es el manejo correcto?",
+        "options": {
+          "A": "Proceder con la obtención del peroné izquierdo con preservación cuidadosa de la arteria peronea distal",
+          "B": "Obtener solo los dos tercios proximales del peroné izquierdo para evitar la irrigación dominante del pie",
+          "C": "La obtención del peroné izquierdo está contraindicada; usar el peroné derecho o un colgajo alternativo",
+          "D": "Realizar embolización preoperatoria de los colaterales de la tibial posterior para mejorar la perfusión antes de la obtención"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La peronea magna (arteria peronea dominante, arteria tibial posterior ausente) está presente en aproximadamente el 5% de los pacientes. En esta variante anatómica, la arteria peronea es el único aporte sanguíneo al pie. La obtención del peroné con su pedículo de arteria peronea desvascularizaría el pie, arriesgando isquemia crítica y amputación. Debe evaluarse el peroné contralateral — si la pierna derecha tiene un flujo trifásico normal, la obtención del peroné derecho es apropiada. Si hay peronea magna bilateral, debe utilizarse una reconstrucción alternativa (ACIP, escápula).",
+          "wrong": {
+            "A": "No existe forma segura de obtener el peroné con su pedículo de arteria peronea cuando hay peronea magna. Preservar la arteria peronea distalmente no es una opción porque el pedículo debe seccionarse para la transferencia del colgajo libre.",
+            "B": "Obtener un peroné acortado no resuelve el problema — el pedículo de la arteria peronea debe seccionarse igualmente para la anastomosis microvascular, lo que desvascularizaría el pie independientemente de cuánto peroné se tome.",
+            "D": "La embolización de los colaterales no crearía un aporte arterial alternativo adecuado al pie y podría causar complicaciones isquémicas — no es una maniobra preoperatoria apropiada."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Urken ML et al. Free Flap Atlas 2012",
+          "trial": "Hölzle F et al. (J Craniomaxillofac Surg 2007): angioTC/angioRM preoperatoria en la planificación del CLP identifica peronea magna en el 3–7% de los candidatos; el no cribado resultó en isquemia del pie en reportes históricos de casos.",
+          "pearl": "Peronea magna = contraindicación absoluta para la obtención del peroné en esa pierna. Realizar siempre angioTC o angioRM — NO solo Doppler — para excluir esta variante preoperatoriamente. Incidencia 3–7%. Si está presente bilateralmente, usar colgajo ACIP o escápula."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q4",
+        "stem": "¿Cuál de las siguientes opciones describe mejor el aspecto clínico de la trombosis venosa precoz de la paleta cutánea de un colgajo libre?",
+        "options": {
+          "A": "Pálida, fría, sin relleno capilar, sangrado mínimo al pinchazo",
+          "B": "Oscura/violácea, congestionada, sangrado rápido y oscuro al pinchazo, turgencia aumentada",
+          "C": "Eritematosa, caliente, pus en la herida, leucocitosis",
+          "D": "Blanca, edematosa, firme, con ampollas en la piel"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La trombosis venosa causa obstrucción del flujo de salida: la sangre se acumula en el colgajo, produciendo una decoloración oscura o violácea, congestión y turgencia aumentada, y sangrado rápido de sangre oscura (desoxigenada) al pinchazo. Esta presentación contrasta directamente con el fracaso arterial. Se requiere retorno inmediato al quirófano para trombectomía venosa y revisión anastomótica.",
+          "wrong": {
+            "A": "Pálida, fría, sin relleno capilar, sin sangrado al pinchazo describe el fracaso ARTERIAL (aflujo insuficiente). El colgajo se vuelve blanquecino y frío al faltar la sangre oxigenada.",
+            "C": "El eritema, el calor, el pus y la leucocitosis elevada describen una infección de la herida — no una trombosis microvascular. La infección suele presentarse más tarde (3–5 días postoperatorios), no de forma aguda.",
+            "D": "Piel blanca, edematosa y firme con ampollas sugiere congestión venosa grave o edema que ha progresado a necrosis cutánea — una fase más tardía del compromiso venoso, no la trombosis venosa precoz. Las ampollas son un signo de isquemia crítica."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Free Flap Monitoring Protocols 2023",
+          "trial": "Smit JM et al. (J Plast Reconstr Aesthet Surg 2010): la monitorización con Doppler implantable reduce el tiempo de detección de la trombosis venosa una media de 4,5 horas en comparación con la monitorización clínica sola; tasa de rescate 57% frente a 36%.",
+          "pearl": "Trombosis venosa = oscura, congestionada, sangrado rápido y oscuro al pinchazo. Oclusión arterial = pálida, fría, sin sangrado. Volver al quirófano en las 2–4 horas siguientes al reconocimiento para tasas de rescate significativas. El tiempo es la variable crítica."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q5",
+        "stem": "La planificación quirúrgica virtual (PQV) con guías de corte CAD/CAM se utiliza para una reconstrucción mandibular compleja de Clase III que requiere 4 osteotomías en el peroné. En comparación con la cirugía en modelos convencional, ¿cuál es la ventaja principal demostrada de la PQV en este contexto?",
+        "options": {
+          "A": "Riesgo de trombosis del colgajo significativamente reducido",
+          "B": "Mayor precisión en el posicionamiento de los segmentos del peroné (error <2 mm frente a 4–8 mm) y habilitación de la cirugía simultánea de dos equipos",
+          "C": "Eliminación de la necesidad de radioterapia postoperatoria en todos los casos",
+          "D": "Osteointegración garantizada de los implantes dentales colocados en el momento de la reconstrucción"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La PQV con CAD/CAM reduce el error de posicionamiento de los segmentos del peroné a <2 mm frente a 4–8 mm con la cirugía en modelos convencional (Roser et al., J Oral Maxillofac Surg 2010). Además, las guías de corte prefabricadas permiten la resección y la obtención del peroné simultáneas (en paralelo) por dos equipos quirúrgicos, reduciendo el tiempo quirúrgico total una media de 85 minutos en los casos complejos (Shen et al., Oral Oncol 2020). Estas son las dos principales ventajas demostradas de la PQV.",
+          "wrong": {
+            "A": "La PQV no reduce el riesgo de trombosis del colgajo — esto está determinado por la técnica de anastomosis, la calidad del vaso receptor y la geometría del pedículo, no por el método de planificación quirúrgica.",
+            "C": "La PQV no tiene ningún efecto sobre las indicaciones del tratamiento adyuvante — la radioterapia postoperatoria está determinada por la estadificación patológica (márgenes, EEC, enfermedad ganglionar), independientemente de la técnica de reconstrucción.",
+            "D": "La PQV puede mejorar la precisión del posicionamiento de los implantes cuando se colocan implantes primarios, pero las tasas de osteointegración dependen de la calidad ósea, el diseño del implante y el protocolo de carga postoperatoria — no del sistema de planificación."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Roser SM et al. (J Oral Maxillofac Surg 2010); Shen Y et al. (Oral Oncol 2020)",
+          "trial": "Roser SM et al. (J Oral Maxillofac Surg 2010): PQV frente a cirugía en modelos convencional en reconstrucción CLP; error medio <2 mm (PQV) frente a 4–8 mm (convencional); el 95% de los casos de PQV dentro de los 2 mm de la posición planificada.",
+          "pearl": "Beneficios clave de la PQV: (1) precisión <2 mm; (2) cirugía simultánea de dos equipos ahorrando ~85 min; (3) las placas personalizadas preadaptadas eliminan la adaptación intraoperatoria. Más valiosa para los defectos de Clase III (sinfisarios) que requieren ≥3 osteotomías."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q6",
+        "stem": "Un paciente de 45 años requiere reconstrucción mandibular tras la resección de un defecto de Clase II (rama mandibular derecha hasta cuerpo mandibular derecho, anterior al agujero mentoniano). El cirujano ablativo confirma que el cóndilo está intacto y será preservado. El paciente desea la colocación primaria de implantes dentales en el momento de la reconstrucción y no ha recibido radioterapia. ¿Qué colgajo es la primera elección más apropiada?",
+        "options": {
+          "A": "Colgajo libre de antebrazo radial (osteomusculocutáneo) — el pedículo más largo facilita la anastomosis",
+          "B": "Colgajo libre de escápula — los componentes quiméricos proporcionan excelente volumen de tejidos blandos",
+          "C": "Colgajo libre de peroné — estándar de oro para la mayoría de los defectos mandibulares",
+          "D": "Colgajo de arteria circunfleja ilíaca profunda (ACIP) — superior altura ósea para implantes inmediatos en mandíbula posterior"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El colgajo libre de peroné es el estándar de oro para la mayoría de los defectos de reconstrucción mandibular, incluyendo este defecto de Clase II. Proporciona longitud ósea suficiente (14–18 cm), permite múltiples osteotomías para el modelado, tiene un pedículo vascular fiable y puede obtenerse simultáneamente con la ablación. Los implantes primarios pueden colocarse en el peroné en el momento de la reconstrucción. El CLP debe ser la primera consideración antes de las alternativas en >90% de los casos.",
+          "wrong": {
+            "A": "El colgajo libre de antebrazo radial osteomusculocutáneo está limitado por la escasa altura ósea (radio cortical delgado) y un riesgo del 10–25% de fractura del radio en el sitio donante. No está recomendado para la reconstrucción del cuerpo mandibular que requiere soporte implantológico.",
+            "B": "El colgajo libre de escápula se reserva para los defectos 3D complejos con pérdida masiva de tejidos blandos (Clase IId/e) o cuando el peroné no es adecuado. No puede obtenerse simultáneamente (requiere reposicionamiento del paciente), impidiendo el enfoque de dos equipos.",
+            "D": "El colgajo ACIP es una alternativa razonable para este defecto (especialmente para la gran altura de la mandíbula posterior), pero su longitud limitada del pedículo, la flexibilidad de osteotomía restringida y la mayor morbilidad del sitio donante (hernia) lo convierten en segunda elección después del CLP peroné en un paciente no irradiado."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS 2023; NCCN Head and Neck Cancers 2024",
+          "trial": "Hidalgo DA y Rekow A (Plast Reconstr Surg 1995): revisión sistemática del colgajo libre de peroné para la reconstrucción mandibular confirmando que es el estándar de oro con una tasa de éxito >95% en centros con experiencia.",
+          "pearl": "CLP peroné = primera elección para >90% de las reconstrucciones mandibulares. Considerar ACIP para requerimientos de gran altura ósea posterior. Escápula para pérdida masiva 3D/tejidos blandos. Hueso CLAA = evitar para reconstrucción mandibular (riesgo de fractura, altura limitada)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q7",
+        "stem": "¿Qué segmento del peroné debe preservarse en el tobillo para proteger la mortaja del tobillo y evitar la inestabilidad tibioperonea distal durante la obtención del colgajo libre de peroné?",
+        "options": {
+          "A": "2 cm distales",
+          "B": "6 cm distales",
+          "C": "10 cm distales",
+          "D": "La mitad distal completa del peroné"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Debe preservarse un mínimo de 6 cm del peroné distal para proteger la mortaja del tobillo (sindesmosis tibioperonea distal y maléolo lateral). El maléolo lateral es esencial para la estabilidad del tobillo — su resección resultaría en inestabilidad lateral del tobillo y deterioro de la deambulación. El ligamento tibioperóneo inferior y la sindesmosis mantienen la mortaja; si el peroné se corta demasiado distalmente, se interrumpe este complejo ligamentoso y su inserción ósea.",
+          "wrong": {
+            "A": "Preservar solo 2 cm dejaría la mortaja del tobillo sin soporte óseo adecuado y arriesgaría la lesión del maléolo lateral y los ligamentos tibioperoneos distales.",
+            "C": "Preservar 10 cm en el extremo distal es excesivamente conservador y reduciría significativamente la longitud de hueso disponible para la reconstrucción — especialmente problemático para los grandes defectos de Clase III que necesitan 3–4 osteotomías.",
+            "D": "Preservar la mitad distal completa también reduciría de forma inaceptable la longitud ósea disponible y está muy por encima de lo necesario para la protección del tobillo."
+          },
+          "guideline": "Urken ML et al. Atlas of Regional and Free Flaps for Head and Neck Reconstruction, 2nd ed. (Lippincott 2012); EACMFS Reconstruction Guidelines 2023",
+          "trial": "Hidalgo DA (Plast Reconstr Surg 1989): descripción original del colgajo de peroné que establece la preservación de 6 cm distales y del cuello del peroné proximal (protección del nervio peroneo común) como reglas de seguridad anatómica.",
+          "pearl": "Dos reglas no negociables del CLP peroné: (1) Preservar 6 cm distales (mortaja del tobillo); (2) Preservar el cuello del peroné proximal (nervio peroneo común). Entre estos límites, están disponibles hasta 14–18 cm de hueso. Marcar estos límites antes de las osteotomías."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q8",
+        "stem": "Un paciente se somete a reconstrucción mandibular con colgajo libre de peroné seguida de radioterapia postoperatoria (60 Gy) en el cuello y la mandíbula. Tres años después, consulta por exposición de la placa de titanio, dolor en el cuerpo mandibular derecho y una pequeña zona de hueso del peroné expuesto con mucositis perilesional. La TC no muestra reabsorción del colgajo pero sí aflojamiento de la placa de titanio sin fractura ósea. ¿Cuál es el manejo más apropiado?",
+        "options": {
+          "A": "Observación con instrucciones de higiene oral — la exposición ósea reepitelizará espontáneamente",
+          "B": "Manejo conservador: desbridamiento, antibióticos y colgajo de avance mucoso si es posible",
+          "C": "Retirada inmediata de la placa — la placa está causando la exposición ósea",
+          "D": "Terapia sistémica con bifosfonatos para aumentar la densidad ósea en el peroné"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La exposición de placa tras la reconstrucción mandibular irradiada es una complicación tardía frecuente (10–20% a los 5 años). El manejo inicial es conservador: desbridamiento de la herida, antibióticos sistémicos, irrigación con clorhexidina y optimización del estado nutricional. Si el área expuesta es pequeña y el hueso parece vital, el avance mucoso o un colgajo de rotación local para cubrir la placa es el tratamiento definitivo preferido. La retirada de la placa se considera únicamente si el peroné está totalmente integrado y la placa ya no proporciona soporte estructural, o si hay infección del implante que no responde a las medidas conservadoras.",
+          "wrong": {
+            "A": "La reepitelización espontánea es poco probable en un campo irradiado — la radiación ha comprometido la capacidad de cicatrización mucosa. La observación sin intervención arriesga la progresión hacia la dehiscencia de herida, osteonecrosis y fractura de la placa.",
+            "C": "La retirada prematura de la placa cuando el peroné no está totalmente consolidado (unión ósea no confirmada) arriesga la fractura mandibular. La retirada de la placa es la opción definitiva solo tras confirmar la integración del peroné y si las medidas conservadoras/con colgajo fracasan.",
+            "D": "Los bifosfonatos se utilizan en el contexto de la osteoporosis relacionada con el tratamiento del cáncer, pero la OSTEONECROSIS del hueso irradiado es en realidad una complicación conocida de la terapia con bifosfonatos (MRONJ). Los bifosfonatos deben evitarse en pacientes con hueso mandibular irradiado o exposición de placa, no añadirse."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Position Paper on Medication-Related Osteonecrosis of the Jaw 2022",
+          "trial": "Kanatas AN et al. (Br J Oral Maxillofac Surg 2012): revisión sistemática de la exposición de placa tras reconstrucción mandibular con colgajo libre — el manejo conservador con cobertura mediante colgajo local tuvo éxito en el 60–75%; se necesitó retirada de placa en el 25–30%.",
+          "pearl": "Algoritmo de exposición de placa: Conservador primero (desbridamiento, antibióticos, colgajo mucoso). Retirar la placa solo si: (1) el hueso está totalmente integrado; (2) las medidas conservadoras han fracasado; (3) la infección de la placa es persistente. Los bifosfonatos están contraindicados en la mandíbula irradiada — riesgo de MRONJ."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q9",
+        "stem": "¿En qué consiste la deformidad 'Andy Gump' y qué clase de defecto de mandibulectomía la causa cuando se deja sin reconstruir?",
+        "options": {
+          "A": "Trismo y apertura oral limitada — causados por defectos de Clase I que preservan el cóndilo",
+          "B": "Reducción de la altura facial posterior y mordida abierta — causados por condilectomía bilateral (Clase IV)",
+          "C": "Retracción de la parte inferior de la cara, ptosis del labio inferior e incompetencia oral — causados por los defectos de Clase III que incluyen la sínfisis",
+          "D": "Fístula entre la cavidad oral y la piel — causada por los defectos transfixiantes de Clase IIe"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La deformidad Andy Gump resulta de la pérdida de la sínfisis mandibular (mentón) y del arco mandibular anterior sin reconstrucción — un defecto de Clase III. El resultado es: pérdida de la proyección mandibular anterior, retracción de la parte inferior de la cara, ptosis del labio inferior (falta de soporte óseo), incompetencia oral (incapacidad para cerrar la boca), sialorrea y grave deterioro del habla y la deglución. El nombre proviene del personaje de cómic Andy Gump, que no tenía mentón. La reconstrucción con un colgajo libre de peroné multisegmentario es esencial.",
+          "wrong": {
+            "A": "El trismo y la apertura oral limitada tras mandibulectomía están relacionados con la contractura cicatricial y la fibrosis por radiación, no específicamente con los defectos de Clase I. La Clase I (resección marginal) raramente causa trismo significativo.",
+            "B": "La reducción de la altura facial posterior y la mordida abierta anterior son características de la condilectomía bilateral (Clase IV) sin reconstrucción condilar — no es la deformidad 'Andy Gump', que implica específicamente la pérdida sinfisaria.",
+            "D": "La fístula orocutánea (comunicación entre la cavidad oral y la piel) puede producirse con cualquier defecto transfixiante (clase e), pero esto no es la deformidad 'Andy Gump'."
+          },
+          "guideline": "Brown JS et al. (Head Neck 2016); EACMFS Reconstruction Guidelines 2023",
+          "trial": "Boyd JB et al. (Head Neck 1995): resultados funcionales tras reconstrucción mandibular — los defectos de Clase III sin reconstruir mostraron las peores puntuaciones funcionales (habla, deglución, cosmética); la reconstrucción con CLP restauró una función casi normal.",
+          "pearl": "'Andy Gump' = mandibulectomía de Clase III (pérdida de sínfisis) sin reconstrucción. Características clave: incompetencia oral, ptosis del labio inferior, sialorrea, grave deterioro del habla y la deglución. Requiere CLP peroné de 3–4 osteotomías con CAD/CAM para la restauración precisa del contorno facial."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q10",
+        "stem": "Se está monitorizando clínicamente la paleta cutánea de un colgajo libre de peroné. Seis horas después de la cirugía, el personal de enfermería observa que la paleta está pálida y fría, sin relleno capilar y sin sangrado al pinchazo. ¿Cuál es la causa más probable y el paso siguiente?",
+        "options": {
+          "A": "Trombosis venosa — retornar al quirófano para trombectomía venosa",
+          "B": "Edema postoperatorio normal — observar durante 12 horas",
+          "C": "Trombosis arterial — retorno inmediato al quirófano para revisión arterial",
+          "D": "Necrosis de la paleta cutánea — aplicar apósitos húmedos y esperar a la demarcación"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Una paleta cutánea pálida y fría con ausencia de relleno capilar y sin sangrado al pinchazo indica fracaso arterial (aflujo arterial insuficiente). El colgajo está isquémico. Se requiere retorno inmediato al quirófano para exploración de la anastomosis arterial, trombectomía y revisión. A las 6 horas del inicio, el rescate todavía es posible — la ventana crítica es de aproximadamente 4–8 horas. Más allá de las 8–10 horas de isquemia caliente, se produce necrosis irreversible del colgajo.",
+          "wrong": {
+            "A": "La trombosis venosa produce el cuadro clínico OPUESTO: una paleta oscura/violácea congestionada con sangrado rápido y oscuro al pinchazo — no pálida y sin sangrado.",
+            "B": "El edema postoperatorio causaría tumefacción y ligero eritema, no palidez y ausencia de relleno capilar. Observar una paleta pálida sin sangrado durante 12 horas permitiría la necrosis irreversible.",
+            "D": "Aplicar apósitos húmedos y esperar la demarcación es apropiado para áreas de necrosis establecida que ya han sufrido cambios irreversibles — no para el fracaso arterial agudo a las 6 horas donde el rescate todavía es alcanzable con cirugía inmediata."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Free Flap Monitoring Protocols 2023",
+          "trial": "Rozen WM et al. (Microsurgery 2010): revisión sistemática — tasa de rescate de la trombosis arterial del 40–60% cuando se explora dentro de las 4 horas; <10% después de las 8 horas. El tiempo hasta el reconocimiento es la variable modificable clave.",
+          "pearl": "Pálida + fría + sin relleno capilar + sin sangrado = fracaso ARTERIAL. Oscura + congestionada + sangrado rápido y oscuro = trombosis VENOSA. Ambas requieren retorno inmediato al quirófano. Ventana de rescate = 4–6 horas. Nunca observar un colgajo pálido — volver al quirófano."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A5-Q11",
+        "stem": "¿Qué característica del colgajo de arteria circunfleja ilíaca profunda (ACIP) hace que se seleccione preferentemente frente al peroné para la reconstrucción mandibular posterior cuando se planifica la colocación inmediata de implantes osteointegrados?",
+        "options": {
+          "A": "Mayor longitud del pedículo que facilita el alcance a los vasos del cuello",
+          "B": "Mayor altura de sección transversal ósea que se aproxima a la mandíbula nativa portadora de molares sin distracción vertical",
+          "C": "Mayor capacidad para crear múltiples osteotomías para modelado complejo del arco",
+          "D": "Menor morbilidad del sitio donante y recuperación más rápida del paciente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El colgajo ACIP (cresta ilíaca) proporciona la mayor altura de hueso cortical de sección transversal de cualquier sitio donante de colgajo libre, aproximándose estrechamente a la altura de 25–35 mm de una mandíbula posterior nativa portadora de molares sin requerir posterior distracción osteogénica vertical. El peroné proporciona solo 12–14 mm de altura ósea — insuficiente para el perfil de emergencia protésico estándar de implantes en la mandíbula posterior sin aumento. Cuando la colocación de implantes de alta calidad inmediata es la prioridad en los defectos de Clase II posteriores, puede preferirse el ACIP.",
+          "wrong": {
+            "A": "El ACIP tiene un pedículo CORTO (3–5 cm), que es en realidad su principal desventaja en comparación con el peroné (pedículo 6–8 cm). El peroné tiene la mejor longitud de pedículo.",
+            "C": "El ACIP tiene hueso ilíaco cortical denso que es más difícil de osteotomizar que el peroné. Las múltiples osteotomías se realizan mejor en el peroné, que es un hueso largo con canal medular.",
+            "D": "La morbilidad del sitio donante del ACIP es significativamente mayor que la del peroné — tasa de hernia del 5–15%, alteración de la marcha, dolor de cadera. El sitio donante del peroné tiene menor morbilidad y recuperación más rápida."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Shpitzer T et al. (Head Neck 1997): ACIP frente a peroné para reconstrucción mandibular — el ACIP es superior en altura ósea en la mandíbula posterior; el peroné es superior para múltiples osteotomías y longitud del pedículo.",
+          "pearl": "Ventaja del ACIP: altura ósea 25–35 mm que coincide con la mandíbula nativa = ideal para implantes inmediatos sin DO vertical. Desventaja del ACIP: pedículo corto (3–5 cm), flexibilidad limitada de osteotomías, mayor morbilidad del sitio donante (hernia). Elegir ACIP cuando la altura ósea es la prioridad."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q12",
+        "stem": "La colocación primaria de implantes en el momento de la reconstrucción mandibular con colgajo libre de peroné está contraindicada en cuál de los siguientes escenarios clínicos:",
+        "options": {
+          "A": "Edad del paciente mayor de 65 años",
+          "B": "Quimiorradioterapia postoperatoria planificada en la mandíbula ≥50 Gy",
+          "C": "Ausencia de restauración de corona dental en el momento de la reconstrucción",
+          "D": "Disección cervical bilateral realizada en la misma intervención"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La radioterapia postoperatoria planificada a dosis ≥50 Gy en la mandíbula/peroné es una contraindicación para la colocación primaria de implantes. La radiación deteriora significativamente la osteointegración, aumenta el riesgo de infección peri-implantaria y eleva el riesgo de osteonecrosis relacionada con medicamentos o inducida por radiación (MRONJ/ORNJ) alrededor de los implantes en hueso irradiado. La colocación secundaria de implantes 12–18 meses después de completar el tratamiento adyuvante (con oxigenoterapia hiperbárica si está indicada) es el enfoque más seguro para los pacientes que requieren radioterapia postoperatoria.",
+          "wrong": {
+            "A": "La edad por sí sola no es una contraindicación para la colocación primaria de implantes. Los pacientes ancianos pueden someterse con éxito a la implantación primaria si otros factores (calidad ósea, estado médico, pronóstico tumoral) son favorables.",
+            "C": "Los implantes no requieren restauraciones de corona en el momento de la colocación — la fase de cicatrización (período de osteointegración de 3–6 meses) típicamente precede a la restauración protésica definitiva. Esto es una parte normal de la secuencia de tratamiento.",
+            "D": "La disección cervical bilateral en la misma intervención no contraindica la colocación de implantes en el peroné — los implantes están en la reconstrucción mandibular, y las complicaciones de la disección cervical (compromiso vascular, lesión nerviosa) no están relacionadas con la osteointegración de los implantes."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Principios de Radioterapia; AAOMS Position Paper on MRONJ 2022; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Schoen PJ et al. (J Dent Res 2004): ensayo aleatorizado de colocación primaria frente a secundaria de implantes en reconstrucción con peroné — la colocación secundaria tras radioterapia tuvo menores tasas de fracaso de implantes; los implantes primarios pre-radiación tuvieron resultados aceptables solo si se dejaron pasar >5 meses antes de la radiación.",
+          "pearl": "Implantes primarios: correcto si no se planifica radiación adyuvante. Contraindicados si se planifica RTP ≥50 Gy (riesgo de fracaso + ORNJ). Si se colocan implantes primarios pero después se requiere radiación: ideal retrasar la radiación ≥5 meses para permitir la osteointegración. Implantes secundarios = 12–18 meses posradiación ± OHB."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q13",
+        "stem": "Durante la obtención del colgajo libre de peroné, ¿qué nervio corre riesgo si el cuello del peroné proximal y el periostio no se preservan cuidadosamente durante la osteotomía superior?",
+        "options": {
+          "A": "Nervio tibial",
+          "B": "Nervio sural",
+          "C": "Nervio peroneo común",
+          "D": "Nervio safeno"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El nervio peroneo común (nervio poplíteo lateral) rodea el cuello del peroné (peroné proximal) justo distal a la cabeza del peroné. Luego se divide en los nervios peroneos superficial y profundo. Su lesión a este nivel causa pie caído (pérdida de dorsiflexión), incapacidad para evertir el pie y pérdida de sensibilidad en el dorso del pie y la parte lateral de la pierna. La osteotomía superior del peroné debe realizarse al menos 6 cm distal a la cabeza del peroné para evitar este nervio.",
+          "wrong": {
+            "A": "El nervio tibial discurre posterior a la fosa poplítea y medialmente en la pierna — no está en riesgo durante la obtención lateral del peroné.",
+            "B": "El nervio sural (solo sensitivo) discurre a lo largo del borde lateral del tendón de Aquiles y está en riesgo durante la obtención del peroné distal y durante la elevación de la paleta cutánea, no durante la osteotomía proximal.",
+            "D": "El nervio safeno es una rama terminal del nervio femoral que discurre medialmente a lo largo de la pierna — no es adyacente al cuello del peroné proximal."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; Hidalgo DA (Plast Reconstr Surg 1989)",
+          "trial": "Hidalgo DA (Plast Reconstr Surg 1989): técnica original del CLP especificando la preservación de 6 cm en el peroné proximal (cuello del peroné) para proteger el nervio peroneo común, y 6 cm distales para la mortaja del tobillo.",
+          "pearl": "Dos reglas del peroné proximal: (1) Osteotomía superior ≥6 cm por debajo de la cabeza del peroné para proteger el nervio peroneo común; (2) Preservar el periostio del cuello del peroné proximal. Lesión del nervio peroneo común = pie caído. Es la complicación neurológica más devastadora del sitio donante."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q14",
+        "stem": "El colgajo libre de escápula (sistema subescapular) se prefiere frente al peroné para ¿qué tipo de defecto de reconstrucción mandibular?",
+        "options": {
+          "A": "Clase IIa — hemimandibulectomía sin defecto de tejidos blandos",
+          "B": "Clase IIIa — defecto sinfisario sin pérdida de tejidos blandos",
+          "C": "Clase IId/e — hemimandibulectomía con defecto transfixiante de mejilla y vasos del miembro inferior inadecuados",
+          "D": "Clase Ib — defecto alveolar marginal con pérdida de mucosa"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El colgajo libre de escápula (borde lateral de la escápula en el sistema subescapular) se prefiere específicamente para los defectos 3D complejos que requieren grandes volúmenes de tejidos blandos además de hueso — como la Clase IId/e (defecto transfixiante de mejilla con pérdida de mucosa oral y piel externa). Su naturaleza quimérica (múltiples componentes tisulares de un solo pedículo: hueso escapular lateral, colgajo fasciocutáneo paraescapular, fascia del serrato, músculo dorsal ancho) permite la reconstrucción de defectos compuestos complejos que requerirían dos colgajos separados con el peroné. También se elige cuando los vasos del miembro inferior son inadecuados para la obtención del peroné.",
+          "wrong": {
+            "A": "La Clase IIa (hemimandibulectomía, sin tejidos blandos) es la reconstrucción ósea más simple — un CLP peroné con componente óseo únicamente es el estándar. La escápula es innecesaria y añade complejidad de obtención.",
+            "B": "La Clase IIIa (defecto sinfisario, sin tejidos blandos) se maneja mejor con CLP peroné usando 3–4 osteotomías y planificación CAD/CAM — la escápula proporciona longitud ósea insuficiente para la reconstrucción del arco.",
+            "D": "La Clase Ib es una resección marginal (sin discontinuidad) con solo pérdida mucosa — puede reconstruirse con un colgajo mucoso local o regional; no se necesita un colgajo libre complejo."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Coleman JJ y Sultan MR (Plast Reconstr Surg 1991): colgajo escapular quimérico para defectos mandibulares complejos con pérdida masiva de tejidos blandos — un solo pedículo proporciona múltiples tipos de tejido, evitando la necesidad de dos colgajos libres separados.",
+          "pearl": "CLP escápula = defectos 3D complejos (Clase IId/e transfixiante); colgajo quimérico sobre pedículo subescapular permite múltiples tipos de tejido con una sola anastomosis. Limitación principal: no hay enfoque simultáneo de dos equipos — el paciente debe reposicionarse desde decúbito lateral."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q15",
+        "stem": "Una mujer de 52 años se somete a reconstrucción mandibular con colgajo libre de peroné por un defecto de Clase III. La obtención e inserción del colgajo duran 8 horas. Cuatro semanas después de la cirugía, desarrolla una fístula orocutánea persistente con filtración de saliva a través de la piel del cuello. Esta complicación resulta más probablemente de:",
+        "options": {
+          "A": "Trombosis venosa de la vena peronea",
+          "B": "Fallo del cierre mucoso intraoral o tensión en la reparación intraoral, agravado por contaminación salival",
+          "C": "Sobreanticoagulación que causa dehiscencia del hematoma de herida",
+          "D": "Infección de la placa de titanio que causa formación de trayecto fistuloso"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fístula orocutánea tras la reconstrucción mandibular resulta de la dehiscencia de la reparación mucosa intraoral — típicamente debida al cierre bajo tensión, escasa vascularización (especialmente en tejido previamente irradiado), contaminación salival que compromete la cicatrización de la herida o tejido insuficiente para la cobertura mucosa. La elevada carga bacteriana de la saliva perpetúa la dehiscencia de la herida una vez que se desarrolla una pequeña fuga. Los defectos de Clase III son especialmente vulnerables ya que la reparación mucosa debe cubrir una gran reconstrucción anterior del suelo de boca, a menudo con tejido local limitado.",
+          "wrong": {
+            "A": "La trombosis venosa de la vena peronea (sitio donante) causaría síntomas en la pierna — edema, dolor — no una fístula orocutánea en el cuello. La trombosis de la anastomosis del colgajo causaría fracaso del colgajo, no una fístula tardía.",
+            "C": "La sobreanticoagulación que causa dehiscencia del hematoma es una causa posible pero mucho menos frecuente. Típicamente se presentaría más temprano (1–2 semanas) y no crearía específicamente una comunicación orocutánea.",
+            "D": "La infección de la placa de titanio que causa un trayecto fistuloso es una complicación tardía, que típicamente se presenta meses a años después de la cirugía con un trayecto indurado suprayacente a la placa. Una fístula a las 4 semanas es más compatible con la dehiscencia mucosa y la fuga salival."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS 2023",
+          "trial": "Genden EM et al. (Arch Otolaryngol Head Neck Surg 2003): fístula orocutánea tras reconstrucción con colgajo libre de cabeza y cuello — incidencia 5–10%; asociada a radiación previa, cierre intraoral bajo tensión y desnutrición.",
+          "pearl": "Factores de riesgo de fístula orocutánea: radiación previa, cierre mucoso bajo tensión, desnutrición, diabetes. Prevención: cierre mucoso sin tensión con paleta cutánea suficiente del colgajo; alimentación por SNG ×10–14 días; profilaxis antibiótica. Manejo: cuidado de herida ± cierre quirúrgico con tejido adicional (isla palatina o segundo colgajo)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q16",
+        "stem": "Un paciente con un defecto de mandibulectomía de Clase IVb (condilectomía con defecto mucoso, desarticulación condilar) requiere reconstrucción. ¿Qué afirmación describe correctamente un enfoque aceptable para la unidad condilar?",
+        "options": {
+          "A": "El cóndilo debe reconstruirse únicamente con una prótesis articular total de titanio — los neocóndilos de peroné son siempre inferiores",
+          "B": "El extremo del peroné se deja libre — no se necesita reconstrucción condilar ya que la fosa glenoidea remodela naturalmente",
+          "C": "Tanto un neocóndilo (extremo del peroné modelado) como una prótesis articular total personalizada son opciones aceptables dependiendo de los factores del paciente",
+          "D": "La reconstrucción condilar siempre se difiere a un procedimiento secundario, nunca se realiza simultáneamente con la reconstrucción mandibular"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Tanto un neocóndilo (modelado del extremo proximal del peroné para aproximar la morfología condilar) como una prótesis de articulación temporomandibular (ATM) total personalizada son opciones aceptables para la reconstrucción de Clase IV. La elección depende de los factores del paciente: el neocóndilo es preferido en pacientes jóvenes no irradiados; la RAT personalizada es mejor en pacientes previamente irradiados, pacientes ancianos o cuando el peroné es demasiado delgado. La PQV es esencial para ambos enfoques para lograr la altura vertical y la oclusión correctas.",
+          "wrong": {
+            "A": "Los neocóndilos de peroné no son 'siempre inferiores' — proporcionan función aceptable en pacientes jóvenes no irradiados y tienen la ventaja de ser autólogos, sin riesgo de infección relacionada con implante.",
+            "B": "Dejar el extremo del peroné libre sin reconstrucción condilar resulta en desviación lateral de la mandíbula (desviación ipsilateral sin fulcro condilar), oclusión deteriorada y dolor. La fosa glenoidea no remodela para acomodar un extremo de peroné sin restricción.",
+            "D": "La reconstrucción condilar se realiza de forma sistemática simultáneamente con la reconstrucción mandibular con colgajo libre. La reconstrucción escalonada del cóndilo se reserva para circunstancias excepcionales (datos de planificación inadecuados, infección grave)."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS TMJ Prostheses Parameters of Care 2023",
+          "trial": "Geltzeiler M et al. (J Oral Maxillofac Surg 2019): neocóndilo de peroné frente a prótesis articular total para reconstrucción de Clase IV — resultados funcionales comparables; RAT mejor para pacientes irradiados; PQV esencial para ambos.",
+          "pearl": "Clase IV = condilectomía: Reconstruir el cóndilo simultáneamente. Opciones: (1) Neocóndilo (peroné modelado) — pacientes jóvenes, no irradiados; (2) RAT personalizada — pacientes irradiados, ancianos, peroné delgado. PQV esencial para el posicionamiento preciso del cóndilo. Nunca dejar el extremo del peroné libre en la fosa glenoidea."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q17",
+        "stem": "En el contexto de la rehabilitación dental implantosoportada tras la reconstrucción mandibular con colgajo libre de peroné, ¿cuál es la principal limitación del hueso del peroné que puede requerir una intervención quirúrgica secundaria antes de la colocación de los implantes?",
+        "options": {
+          "A": "Densidad ósea insuficiente — el peroné es cortical y no soporta la osteointegración",
+          "B": "Altura ósea insuficiente (12–14 mm) para el perfil de emergencia protésico estándar de implantes, que requiere distracción osteogénica vertical",
+          "C": "La tasa de infección en el hueso del peroné es demasiado alta para la colocación de implantes",
+          "D": "El hueso del peroné remodela demasiado rápido tras el trasplante para soportar la osteointegración a largo plazo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El peroné proporciona solo 12–14 mm de altura ósea tras la transposición, mientras que la mandíbula nativa portadora de molares tiene típicamente 25–30 mm de altura. Esta altura limitada puede crear una discrepancia en el perfil de emergencia de las restauraciones implantosoportadas. La distracción osteogénica vertical (DO) puede aumentar la altura del peroné 8–12 mm a lo largo de un período de 3–4 meses antes de la colocación de los implantes, cerrando la brecha con la altura del arco opuesto. Esto es más relevante para la reconstrucción mandibular posterior donde la correspondencia de altura de los molares es crítica para la rehabilitación protésica.",
+          "wrong": {
+            "A": "El hueso cortical del peroné soporta la osteointegración — las tasas reportadas del 85–95% a los 5 años son comparables a la mandíbula nativa. El hueso cortical es en realidad ventajoso para la estabilidad primaria del implante.",
+            "C": "Las tasas de infección de implantes en el peroné son comparables a las de los implantes en el hueso mandibular nativo y no son una limitación primaria. El riesgo de infección aumenta con la radiación, no por el propio peroné.",
+            "D": "El hueso del peroné permanece viable como colgajo libre vascularizado y no remodela excesivamente — los estudios de seguimiento a largo plazo confirman la osteointegración mantenida de los implantes a más de 10 años."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Dental Implants in Reconstructed Mandible 2023",
+          "trial": "Goh BT et al. (Br J Oral Maxillofac Surg 2008): distracción osteogénica vertical del colgajo libre de peroné tras reconstrucción mandibular logra una ganancia de altura de 8–12 mm; supervivencia posterior del implante del 90% a los 5 años.",
+          "pearl": "Altura del peroné = 12–14 mm. Mandíbula molar nativa = 25–30 mm. La distracción osteogénica vertical (DO) añade 8–12 mm antes de la colocación de implantes. Enfoque en dos tiempos: CLP peroné → (terapia adyuvante si es necesaria) → DO vertical → implantes. Alternativamente: el colgajo ACIP proporciona la altura nativa sin DO."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q18",
+        "stem": "La anticoagulación postoperatoria tras la anastomosis microvascular con colgajo libre incluye típicamente ¿qué agentes según los protocolos estándar EACMFS/AAOMS?",
+        "options": {
+          "A": "Anticoagulación sistémica completa con infusión de heparina no fraccionada terapéutica durante 5 días",
+          "B": "Ácido acetilsalicílico 75 mg/día más heparina de bajo peso molecular (dosis profiláctica) durante 5–7 días",
+          "C": "Warfarina con objetivo de INR 2,5–3,5 durante 3 meses",
+          "D": "Sin anticoagulación — solo profilaxis mecánica de trombosis venosa"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El protocolo estándar de anticoagulación del colgajo libre incluye ácido acetilsalicílico 75 mg/día (antiagregante) y heparina de bajo peso molecular (HBPM) a dosis profiláctica para la profilaxis del tromboembolismo venoso durante 5–7 días. Esta combinación reduce el riesgo de trombosis microvascular sin anticoagulación excesiva en la anastomosis o el pedículo del colgajo. La anticoagulación terapéutica completa (infusión de heparina o warfarina) se reserva para situaciones específicas de alto riesgo (estado de hipercoagulabilidad, trombosis previa, anastomosis complicada que requiere revisión).",
+          "wrong": {
+            "A": "La infusión de heparina terapéutica completa no es estándar — aumenta el riesgo de hematoma en el pedículo del colgajo y la herida, lo que puede comprimir la anastomosis por sí mismo o causar dehiscencia de la herida.",
+            "C": "La warfarina con INR 2,5–3,5 no se usa sistemáticamente tras colgajo libre — el inicio de acción es lento (3–5 días), la monitorización es compleja en el período perioperatorio y el riesgo de sangrado en la herida y el pedículo es significativo.",
+            "D": "La profilaxis mecánica del TEV sola sin agentes farmacológicos es insuficiente en la reconstrucción mayor de cabeza y cuello — estos pacientes tienen cáncer (hipercoagulables), cirugía prolongada e inmovilidad. La profilaxis con HBPM es el estándar de atención."
+          },
+          "guideline": "EACMFS Free Flap Anticoagulation Protocols 2023; AAOMS 2023",
+          "trial": "Ashjian P et al. (Plast Reconstr Surg 2007): metaanálisis de anticoagulación en cirugía de colgajo libre — AAS + HBPM profiláctica asociada con las menores tasas de trombosis (2–4%) y riesgo de sangrado aceptable; la infusión de heparina completa no es superior y aumentó el hematoma.",
+          "pearl": "Anticoagulación del colgajo libre: AAS 75 mg/día + HBPM profiláctica durante 5–7 días. Heparina terapéutica completa solo para indicaciones específicas de alto riesgo. La inhibición plaquetaria del AAS reduce el trombo blanco en la anastomosis arterial; la HBPM reduce el riesgo de trombosis venosa."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A5-Q19",
+        "stem": "Un varón de 66 años se somete a reconstrucción mandibular con colgajo libre de peroné. Durante el cierre, el cirujano observa que la paleta cutánea recibe perfusión adecuada (perforantes septocutáneas confirmadas por Doppler). Cuarenta minutos después de la cirugía, en la sala de recuperación, se observa que la paleta cutánea está oscura y no pulsátil en el Doppler implantable. El cirujano regresa al quirófano y encuentra congestión venosa en la anastomosis. Tras trombectomía venosa y reanastomosis, la paleta cutánea reperfunde. ¿Cuánto tiempo después de la reperfusión del colgajo debe permanecer el paciente en monitorización intensiva?",
+        "options": {
+          "A": "6 horas — el colgajo ha sido rescatado; la observación estándar en planta es suficiente",
+          "B": "24 horas — el riesgo de retrombosis es mayor en las primeras 24 horas tras el rescate",
+          "C": "Mínimo 48–72 horas — los colgajos postrescate tienen un riesgo prolongado y elevado de retrombosis",
+          "D": "Sin monitorización específica más allá de los cuidados de enfermería postoperatorios rutinarios"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Tras el rescate exitoso de la trombosis venosa y la reanastomosis, el colgajo permanece con un riesgo significativamente elevado de retrombosis durante 48–72 horas. La lesión endotelial del evento trombótico original, el edema en las paredes vasculares y la lesión por isquemia-reperfusión aumentan el riesgo de trombosis recurrente. La monitorización intensiva (controles clínicos cada 30–60 minutos, Doppler implantable continuo) durante un mínimo de 48–72 horas postrescate es el estándar de atención. Muchas unidades extenderían la monitorización a 5–7 días en los colgajos rescatados.",
+          "wrong": {
+            "A": "Seis horas es completamente insuficiente tras un procedimiento de rescate — la retrombosis ocurre más comúnmente dentro de las primeras 24–72 horas y requiere detección precoz.",
+            "B": "24 horas es mejor pero todavía insuficiente — el período de 48–72 horas es el período de riesgo elevado reconocido para la retrombosis tras el rescate. Muchos protocolos extienden la monitorización a 5 días.",
+            "D": "Los cuidados de enfermería rutinarios en planta sin mayor frecuencia de monitorización del colgajo libre tras un procedimiento de rescate son inadecuados y peligrosos. Estos pacientes requieren controles clínicos cada 1–2 horas como mínimo."
+          },
+          "guideline": "EACMFS Free Flap Monitoring Protocols 2023; AAOMS Microvascular Surgery Standards 2023",
+          "trial": "Smit JM et al. (J Plast Reconstr Aesthet Surg 2010): monitorización del colgajo postrescate — la retrombosis ocurrió en el 30% de los colgajos rescatados dentro de las 72 horas; la monitorización intensiva (c/30 min) con Doppler implantable logró una tasa de segundo rescate del 85%.",
+          "pearl": "Colgajo libre rescatado = alto riesgo de retrombosis. Monitorizar cada 30–60 minutos durante mínimo 48–72 horas. El Doppler implantable es esencial en los colgajos rescatados — detecta la retrombosis 4,5 horas antes que la monitorización clínica sola. Considerar el aumento antitrombótico (dextrano, heparina) postrescate."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A5-Q20",
+        "stem": "Una mujer de 55 años se somete a reconstrucción mandibular con colgajo libre de peroné por un defecto de Clase IIb. La estadificación patológica revela T4aN2b con extensión extracapsular. Se recomienda quimiorradioterapia postoperatoria (60 Gy) en el cuello y la mandíbula. A los 18 meses del final de la radioterapia, la paciente está en remisión completa y desea implantes dentales. ¿Cuál es el protocolo pre-implante recomendado?",
+        "options": {
+          "A": "Colocación inmediata de implantes sin intervención adicional — el hueso del peroné es resistente al daño por radiación",
+          "B": "Terapia con bifosfonatos durante 3 meses para aumentar la densidad ósea antes de la colocación de implantes",
+          "C": "Oxigenoterapia hiperbárica (OHB) antes y después de la colocación de implantes, con inserción de implantes ≥12 meses tras completar la radiación",
+          "D": "La distracción osteogénica vertical debe preceder a los implantes en todas las reconstrucciones de peroné irradiado"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Para los implantes dentales en peroné mandibular previamente irradiado (≥50 Gy), el protocolo recomendado incluye: (1) esperar ≥12–18 meses después de completar la radiación; (2) oxigenoterapia hiperbárica (OHB) — típicamente 20 sesiones pre-implante y 10 sesiones post-implante — para mejorar la vascularización y reducir el riesgo de osteorradionecrosis; (3) selección cuidadosa del paciente; (4) higiene oral rigurosa post-implante. El protocolo OHB de Marx (20/10 pre/post) es ampliamente utilizado, aunque la evidencia de revisiones sistemáticas es mixta — la OHB sigue siendo recomendada por AAOMS y EACMFS para implantes en mandíbula irradiada a alta dosis (>50 Gy).",
+          "wrong": {
+            "A": "El hueso del peroné NO es resistente al daño por radiación — el peroné irradiado tiene vascularización reducida, cicatrización deteriorada y mayor riesgo de osteorradionecrosis (ORNJ) alrededor de los implantes. La colocación inmediata de implantes sin OHB en hueso irradiado a 60 Gy se asocia con tasas significativamente más altas de fracaso y ORNJ.",
+            "B": "Los bifosfonatos están específicamente CONTRAINDICADOS en pacientes con hueso mandibular irradiado porque aumentan significativamente el riesgo de osteonecrosis relacionada con medicamentos de los maxilares (MRONJ). Esta es una de las contraindicaciones más importantes en la reconstrucción mandibular.",
+            "D": "La distracción osteogénica vertical solo se necesita cuando la altura del peroné es insuficiente para el perfil de emergencia implantoprotetico — no es universalmente necesaria en todas las reconstrucciones de peroné irradiado. La evaluación de la altura se realiza individualmente."
+          },
+          "guideline": "AAOMS Position Paper on MRONJ 2022; AAOMS Dental Implants in Irradiated Mandible 2023; Marx RE (J Oral Maxillofac Surg 1983)",
+          "trial": "Marx RE (J Oral Maxillofac Surg 1983): protocolo OHB para mandíbula irradiada — 20 sesiones pre- y 10 sesiones post-implante reducen la ORNJ del 35% al 5% en el hueso irradiado a alta dosis.",
+          "pearl": "Implantes en peroné irradiado (≥50 Gy): esperar ≥12–18 meses post-RDT + OHB (20 pre / 10 post, protocolo Marx). NUNCA usar bifosfonatos en mandíbula irradiada — riesgo de MRONJ. Bifosfonatos + radiación = combinación de mayor riesgo para osteonecrosis."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

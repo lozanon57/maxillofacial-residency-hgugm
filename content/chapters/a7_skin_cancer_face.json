@@ -1,0 +1,670 @@
+{
+  "id": "A7",
+  "title": "Facial Skin Cancer",
+  "subtitle": "Block A — Head & Neck Oncology: BCC, SCC, Melanoma, and Merkel Cell Carcinoma",
+  "block": "A",
+  "block_name": "Head & Neck Oncology",
+  "level": "R1-3",
+  "reading_time_min": 35,
+  "guidelines_version": "BAD/BSSD Skin Cancer Guidelines 2021 · NCCN Cutaneous SCC 2024 · NCCN Basal Cell Carcinoma 2024 · NCCN Melanoma 2024 · EACMFS 2023",
+  "textbook_refs": [
+    "NCCN Clinical Practice Guidelines in Oncology — Basal Cell Carcinoma v2.2024",
+    "NCCN Clinical Practice Guidelines in Oncology — Squamous Cell Carcinoma v2.2024",
+    "NCCN Clinical Practice Guidelines in Oncology — Melanoma v3.2024",
+    "Swetter SM et al. Guidelines of Care for the Management of Primary Cutaneous Melanoma (J Am Acad Dermatol 2019)",
+    "Motley R et al. Multiprofessional Guidelines for the Management of the Patient with Primary Cutaneous SCC (Br J Dermatol 2009)"
+          ],
+  "learning_objectives": [
+    "Classify basal cell carcinoma (BCC) by subtype and risk level, and select appropriate treatment (excision, Mohs, radiotherapy, hedgehog pathway inhibitor)",
+    "Apply NCCN risk stratification for cutaneous SCC to guide surgical margins and sentinel lymph node biopsy decisions",
+    "Stage facial melanoma using AJCC 8th edition and describe the role of sentinel lymph node biopsy (SLNB) and adjuvant therapy",
+    "Describe reconstructive options for facial skin cancer defects (primary closure, flaps, skin grafts) relevant to cosmetic subunit principles",
+    "Identify clinical and histopathological features that indicate Mohs micrographic surgery over standard excision for facial skin cancers"
+  ],
+  "sections": [
+    {
+      "id": "A7-S1",
+      "title": "Basal Cell Carcinoma — Classification, Risk Stratification, and Treatment",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Basal cell carcinoma (BCC) is the most common malignancy in Caucasian populations, accounting for approximately 75–80% of all non-melanoma skin cancers. In the head and neck, BCC most commonly affects the periocular region, nasal tip, nasal ala, preauricular area, and scalp. The principal histological subtypes differ markedly in biologic behaviour and treatment requirements. **Nodular BCC** is the most common (60–70%), presenting as a pearly, rolled-border papule with telangiectasia; it is well-circumscribed and amenable to standard surgical excision. **Superficial BCC** appears as an erythematous scaly plaque, often large, and is managed with curettage and electrodessication, photodynamic therapy, or topical imiquimod for very superficial lesions. **Morphoeic (sclerosing) BCC** is the highest-risk subtype: it presents as an ill-defined indurated plaque mimicking a scar, has finger-like subclinical extensions, and is at high risk for incomplete excision with standard margins. **Infiltrating, micronodular, and basosquamous** subtypes also have aggressive behaviour and subclinical extension. NCCN 2024 stratifies BCCs into **low-risk** (primary, well-defined borders, nodular/superficial subtype, not in H-zone, no PNI, immunocompetent) and **high-risk** (recurrent, high-risk location, aggressive subtype, large, PNI, immunosuppressed). The **H-zone** of the face (eyelids, eyebrows, periorbital area, nose, lips, ears, temples, chin, jaw) carries the highest risk of incomplete excision and recurrence due to complex anatomy and functional importance."
+        },
+        {
+          "type": "table",
+          "title": "BCC Treatment — Selection by Risk Category",
+          "headers": ["Risk Category", "Features", "Preferred Treatment", "Margin"],
+          "rows": [
+            ["Low-risk", "Primary, well-defined, nodular/superficial, non-H-zone, no PNI, immunocompetent", "Standard excision", "4 mm"],
+            ["High-risk", "H-zone, recurrent, aggressive subtype, large (>2 cm trunk; >1 cm H-zone), PNI, immunosuppressed", "Mohs micrographic surgery", "Margin control by frozen section"],
+            ["High-risk (surgery not feasible)", "Elderly, comorbidities, unresectable", "Radiotherapy (EXT-RT or IMRT)", "N/A — RT field margin"],
+            ["Advanced/metastatic", "Locally advanced unresectable; distant metastasis", "Hedgehog pathway inhibitor (vismodegib/sonidegib)", "N/A — systemic"],
+            ["Superficial BCC", "Thin, non-H-zone superficial", "PDT, imiquimod 5%, curettage + ED", "N/A — field treatment"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Hedgehog Pathway Inhibitors for Advanced BCC",
+          "content": "Vismodegib (GDC-0449) inhibits Smoothened (SMO) in the sonic hedgehog pathway — the pathway constitutively activated in BCC by PTCH1 loss-of-function mutation. ERIVANCE trial (Sekulic, NEJM 2012): response rate 30% metastatic BCC, 43% locally advanced BCC. Used for unresectable or metastatic BCC where surgery and radiotherapy are not appropriate. Significant adverse effects: muscle cramps (67%), alopecia (64%), dysgeusia (55%) — quality of life impact is significant."
+        }
+      ]
+    },
+    {
+      "id": "A7-S2",
+      "title": "Cutaneous Squamous Cell Carcinoma — Risk Factors and NCCN Stratification",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Cutaneous squamous cell carcinoma (cSCC) is the second most common skin cancer (15–20% of non-melanoma skin cancers) and carries a significant risk of regional metastasis (2–5% overall; up to 30% for high-risk tumours). Risk factors for adverse outcomes include: **tumour size >2 cm**, **depth >2 mm** or Clark level IV–V (>6 mm), **location on the ear or vermilion lip**, **poorly differentiated histology**, **perineural invasion (PNI)**, **lymphovascular invasion**, **recurrent tumour**, and **immunosuppression**. NCCN 2024 classifies cSCC as **low-risk** or **high-risk** based on these features. High-risk tumours require wider margins (>4 mm for standard excision or Mohs MMS) and consideration of sentinel lymph node biopsy (SLNB). The **Brigham and Women's Hospital (BWH) staging system** (Karia, JAMA Dermatol 2013) is the most validated staging system for cSCC risk stratification: BWH T1 (no high-risk features) carries <1% recurrence risk; BWH T2a (1 high-risk feature) carries 4% risk; BWH T2b (2–3 high-risk features) 12%; BWH T3 (any of: perineural invasion of named nerve, bone invasion, tumour diameter ≥4 cm) carries 20–30% nodal metastasis risk. SLNB is increasingly used for BWH T2b–T3 lesions, although its precise role in cSCC management is still being defined by prospective trials (SENTINEL SCC trial ongoing)."
+        },
+        {
+          "type": "table",
+          "title": "NCCN High-Risk Features for Cutaneous SCC",
+          "headers": ["Feature", "Threshold", "Clinical Implication"],
+          "rows": [
+            ["Tumour size", ">2 cm", "High-risk; wide excision or Mohs"],
+            ["Depth", ">2 mm; Clark IV–V", "High-risk; sentinel node consideration"],
+            ["Location", "Ear, lip, H-zone", "High-risk regardless of size"],
+            ["Differentiation", "Poorly differentiated", "Higher metastatic potential"],
+            ["Perineural invasion", "Named nerve or extensive", "Adjuvant radiotherapy; imaging"],
+            ["Lymphovascular invasion", "Present", "Higher metastatic potential"],
+            ["Recurrence", "Recurrent tumour", "Mohs preferred; wider margins"],
+            ["Immunosuppression", "OTR, haematological malignancy, HIV", "More aggressive behaviour; closer surveillance"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Organ Transplant Recipients and cSCC",
+          "content": "Organ transplant recipients (OTRs) on long-term immunosuppression have a 100-fold increased risk of cSCC compared to the general population. cSCC in OTRs is more aggressive, arises earlier, and has a higher rate of multiple primaries and metastases. All OTRs with cSCC should be considered high-risk regardless of tumour size. Consider switching from calcineurin inhibitors (ciclosporin) to mTOR inhibitors (sirolimus) in consultation with transplant team — mTOR inhibitors have anti-tumour properties and may reduce cSCC incidence."
+        }
+      ]
+    },
+    {
+      "id": "A7-S3",
+      "title": "Mohs Micrographic Surgery — Indications and Technique",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Mohs micrographic surgery (MMS) achieves the lowest recurrence rates for skin cancers in critical anatomical locations by examining 100% of the surgical margin intraoperatively using horizontal (en face) frozen sections. Standard excision typically examines only 0.1–1% of the specimen margin by vertical bread-loaf sectioning. The Mohs technique: (1) Visible tumour is debulked; (2) A thin horizontal tissue layer (Mohs stage) is excised at 45°; (3) The tissue is mapped, divided into segments, colour-coded, and processed as horizontal frozen sections; (4) The surgeon reads the slides and maps any residual tumour; (5) Targeted re-excision of positive areas is performed as further stages; (6) The process repeats until all margins are clear. **Indications for MMS in facial skin cancer** (NCCN 2024): (1) all BCCs in the H-zone of the face; (2) recurrent BCC or cSCC; (3) aggressive BCC subtype (morphoeic, infiltrating, basosquamous); (4) high-risk cSCC (perineural invasion, >2 cm, poorly differentiated); (5) tumours with clinically ill-defined borders; (6) skin cancers arising in scars or chronically inflamed tissue; (7) skin cancers in immunosuppressed patients. MMS achieves **5-year cure rates of 99% for primary BCC** and 97% for recurrent BCC — significantly superior to standard excision (92% primary, 83% recurrent). The tissue-sparing property of MMS is particularly valuable in cosmetically and functionally critical areas (eyelids, nasal tip, lips)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Mohs vs Standard Excision Cure Rates",
+          "content": "BCC 5-year cure rates: MMS 99% (primary), 97% (recurrent). Standard excision 92% (primary), 83% (recurrent). The superiority of MMS is greatest for high-risk tumours (morphoeic, H-zone, recurrent). NCCN designates MMS as the preferred treatment for ALL high-risk facial BCCs and cSCCs."
+        }
+      ]
+    },
+    {
+      "id": "A7-S4",
+      "title": "Cutaneous Melanoma — AJCC 8th Staging and Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Cutaneous melanoma of the head and neck carries a worse prognosis than melanoma at other body sites, attributed to rich lymphatic drainage and proximity to regional nodes. **AJCC 8th edition staging** (2017) classifies melanoma by Breslow thickness (mm), ulceration, and mitotic rate. **T stage**: T1a <0.8 mm without ulceration; T1b <0.8 mm with ulceration, or 0.8–1.0 mm; T2a 1.01–2.0 mm without ulceration; T2b 1.01–2.0 mm with ulceration; T3a 2.01–4.0 mm without ulceration; T3b 2.01–4.0 mm with ulceration; T4a >4.0 mm without ulceration; T4b >4.0 mm with ulceration. **N stage** accounts for the number and type of regional nodes: N1a = 1 occult node (sentinel); N1b = 1 clinical node; N2a = 2–3 occult nodes; N2b = 2–3 clinical nodes; N2c = in-transit/satellite metastases; N3 = 4+ nodes, matted nodes, or in-transit with positive nodes. **M stage**: M1a = distant skin/subcutaneous/non-regional nodes; M1b = pulmonary; M1c = non-CNS visceral; M1d = CNS. LDH level (normal/elevated) further modifies M stage. **Sentinel lymph node biopsy (SLNB)** is recommended for T1b and all T2–T4 melanomas — it is the most important prognostic staging tool and guides adjuvant therapy decisions. The **MSLT-1 trial** (Morton DL, NEJM 2006) showed that SLNB provides accurate staging (SLN positivity is the strongest independent prognostic factor) and enables immediate completion lymphadenectomy (CLND) when positive, improving melanoma-specific survival in node-positive patients. **MSLT-2 trial** (Faries MB, NEJM 2017) demonstrated that in SLN-positive patients, immediate CLND does not improve melanoma-specific survival compared to nodal observation with ultrasound, but CLND improves disease-free survival and regional disease control."
+        },
+        {
+          "type": "table",
+          "title": "Melanoma Surgical Margins — Breslow Thickness Guidelines",
+          "headers": ["Breslow Thickness", "Recommended Excision Margin", "SLNB Recommended?"],
+          "rows": [
+            ["In situ (lentigo maligna)", "5–10 mm (Mohs or staged excision)", "No"],
+            ["T1a (<0.8 mm, no ulceration)", "1 cm", "Consider for T1b; not routine T1a"],
+            ["T1b (0.8–1.0 mm or ulceration)", "1 cm", "Yes"],
+            ["T2a–T2b (1.01–2.0 mm)", "1–2 cm", "Yes"],
+            ["T3a–T3b (2.01–4.0 mm)", "2 cm", "Yes"],
+            ["T4a–T4b (>4.0 mm)", "2 cm", "Yes"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Lentigo Maligna on the Face",
+          "content": "Lentigo maligna (melanoma in situ) is particularly common on the face of elderly patients and presents as an irregular brown/tan macule that has been slowly enlarging over years. Margins are clinically and histologically difficult to define. Standard 5 mm excision margins are often insufficient — Mohs micrographic surgery or staged margin-controlled excision with delayed reconstruction after margin confirmation is strongly recommended. High subclinical extension makes standard excision with 5 mm margin inadequate in 50% of cases."
+        }
+      ]
+    },
+    {
+      "id": "A7-S5",
+      "title": "Adjuvant Therapy for Advanced Melanoma",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The management of regional and distant melanoma has been transformed by immune checkpoint inhibitors and BRAF-targeted therapy. **Adjuvant therapy** is indicated for stage III (node-positive) and selected high-risk stage IIb–IIc melanoma after surgical resection. **Anti-PD-1 immunotherapy**: pembrolizumab (KEYNOTE-054 trial, Eggermont et al. NEJM 2018) and nivolumab (CheckMate 238, Weber et al. Lancet Oncol 2017) are approved adjuvant treatments for resected stage III melanoma. KEYNOTE-054 demonstrated pembrolizumab improved recurrence-free survival (RFS) vs placebo (HR 0.57, p<0.001 at 1 year) in BRAF wild-type and BRAF-mutant stage III. **BRAF/MEK inhibition**: for BRAF V600E/K-mutant stage III melanoma, adjuvant dabrafenib + trametinib (COMBI-AD trial, Long GV, NEJM 2017) showed superior RFS vs placebo (HR 0.47, p<0.001); 5-year relapse-free rate 52% vs 36%. **Anti-CTLA-4**: ipilimumab 10 mg/kg (EORTC 18071) showed improved RFS but significant toxicity; largely replaced by anti-PD-1 agents in current practice. For **stage IV (metastatic) melanoma**, first-line options are anti-PD-1 ± ipilimumab (CheckMate 067: nivolumab + ipilimumab vs monotherapy; 5-year OS 52% with combination) or BRAF+MEK inhibitors for BRAF-mutant disease. **Biomarker testing for BRAF V600** is mandatory before adjuvant or palliative systemic treatment planning."
+        },
+        {
+          "type": "table",
+          "title": "Landmark Trials in Adjuvant Melanoma Therapy",
+          "headers": ["Trial", "Treatment", "Stage", "Key Result"],
+          "rows": [
+            ["MSLT-1 (Morton NEJM 2006)", "SLNB vs observation", "T1b–T4", "SLNB = most important prognostic staging tool"],
+            ["MSLT-2 (Faries NEJM 2017)", "CLND vs US surveillance after +SLNB", "Stage IIIA–IIIB", "CLND no OS benefit; observation + US acceptable"],
+            ["KEYNOTE-054 (Eggermont NEJM 2018)", "Pembrolizumab vs placebo adjuvant", "Stage III", "HR 0.57 for RFS; adjuvant standard of care"],
+            ["CheckMate 238 (Weber Lancet Oncol 2017)", "Nivolumab vs ipilimumab adjuvant", "Stage IIIC/IV resected", "Nivolumab superior RFS, lower toxicity"],
+            ["COMBI-AD (Long NEJM 2017)", "Dabrafenib + trametinib adjuvant", "Stage III BRAF V600", "HR 0.47 for RFS; 5-year RFS 52% vs 36%"],
+            ["CheckMate 067 (Larkin NEJM 2015)", "Nivo + ipi vs monotherapy", "Stage IV", "5-year OS 52% (combination) vs 44%/26%"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — BRAF Testing Before Adjuvant/Palliative Therapy",
+          "content": "BRAF V600 mutation testing is MANDATORY before systemic therapy in stage III–IV melanoma. ~50% of melanomas carry BRAF V600E/K mutation. BRAF-mutant patients can receive either anti-PD-1 OR BRAF/MEK inhibitors as adjuvant therapy. Anti-PD-1 (pembrolizumab or nivolumab) is used regardless of BRAF status. Sequential strategy for stage IV: anti-PD-1 first for durable response; BRAF/MEK for rapid debulking in high-volume BRAF-mutant disease."
+        }
+      ]
+    },
+    {
+      "id": "A7-S6",
+      "title": "Merkel Cell Carcinoma",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Merkel cell carcinoma (MCC) is a rare but highly aggressive neuroendocrine carcinoma of the skin, with a predilection for the head and neck (50% of cases). It carries a higher mortality rate than melanoma at equivalent stage. Risk factors include: sun exposure, Merkel cell polyomavirus (MCPyV, present in ~80% of tumours in Western populations), immunosuppression (OTR, HIV, haematological malignancy). MCPyV-positive tumours have a more favourable prognosis than MCPyV-negative. Clinical presentation: a rapidly enlarging, painless, firm, reddish-violet nodule in an elderly sun-damaged skin patient. It is frequently misdiagnosed initially as a benign lesion. **Histopathology**: small round blue cells with neuroendocrine morphology; immunostaining positive for CK20 (paranuclear dot pattern), synaptophysin, chromogranin; negative for TTF-1 (distinguishing from small cell lung cancer metastasis). **Staging** (AJCC 8th): T1 <2 cm; T2 2–5 cm; T3 >5 cm; T4 bone/muscle/cartilage invasion. N staging by clinical vs pathological node status. **Treatment**: wide local excision (1–2 cm margins) + SLNB. SLNB is positive in 25–30% of clinically N0 patients. Adjuvant radiotherapy to the primary site reduces local recurrence. For metastatic/unresectable MCC, **avelumab** (anti-PD-L1, JAVELIN Merkel 200 trial, Kaufman NEJM 2016) and **pembrolizumab** (KEYNOTE-017) are approved first-line systemic agents, achieving durable responses in 30–40% of patients."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — CK20 Pattern in MCC vs Other Small Round Blue Cell Tumours",
+          "content": "MCC: CK20 positive with characteristic paranuclear dot pattern; synaptophysin and chromogranin positive; TTF-1 negative. Metastatic small cell lung cancer (SCLC) to skin: TTF-1 positive; CK20 negative. CK20 positive with cytoplasmic (not paranuclear dot) pattern = other carcinomas. Always order TTF-1 to exclude SCLC — misdiagnosis dramatically changes treatment and prognosis."
+        }
+      ]
+    },
+    {
+      "id": "A7-S7",
+      "title": "Reconstruction of Facial Skin Cancer Defects",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Reconstruction of facial skin cancer defects requires integration of oncological priorities (clear margins first) with cosmetic unit principles and patient-specific factors. The **facial cosmetic subunit principle** (Burget and Menick) states that reconstruction of a subunit (nose, lip, eyelid, cheek, forehead, ear) should ideally replace the entire subunit when >50% is involved, as this produces better aesthetic outcomes than patching within a subunit. **Reconstruction ladder**: (1) secondary intention — for concave surfaces (medial canthus, nasal ala, posterior auricle); (2) primary closure — when possible without distortion; (3) skin graft (full-thickness preferred for face — donor: preauricular, supraclavicular, retroauricular skin); (4) local flaps — rotation, transposition, advancement, rhomboid, bilobed; (5) regional flaps — nasolabial, forehead, cervicofacial; (6) free flap — for very large defects. **Nasal reconstruction**: for large alar/tip defects (>1.5 cm), the **paramedian forehead flap** (based on supratrochlear artery) is the gold standard, providing skin colour and texture match. For smaller alar defects, the **nasolabial flap** (interpolated or transposition) is appropriate. **Eyelid reconstruction**: upper lid defects <25% close primarily; 25–50% require advancement flaps; >50% require full-thickness grafting or switch flap (Cutler-Beard). Lower lid defects: Tenzel rotation-advancement flap for <50%; tarsoconjunctival flap + skin graft for larger defects. **Auricular reconstruction**: full-thickness skin grafts to the conchal bowl; cartilage grafts for framework support; prosthetic reconstruction for total auricular loss."
+        },
+        {
+          "type": "table",
+          "title": "Reconstruction Options by Facial Subunit",
+          "headers": ["Subunit", "Small Defect (<1 cm)", "Medium Defect (1–3 cm)", "Large Defect (>3 cm)"],
+          "rows": [
+            ["Nose (alar/tip)", "Secondary intention or FTSG", "Nasolabial flap or bilobed", "Paramedian forehead flap"],
+            ["Upper eyelid", "Primary closure <25%", "Advancement flap 25–50%", "Cutler-Beard switch flap >50%"],
+            ["Lower eyelid", "Primary closure <25%", "Tenzel flap 25–50%", "Tarsoconjunctival + FTSG >50%"],
+            ["Cheek", "Primary closure or FTSG", "Rotation/V-Y advancement", "Cervicofacial rotation; free flap"],
+            ["Lip (upper)", "Primary closure <1/3", "Abbe flap (vermilion transfer)", "Karapandzic rotation-advancement"],
+            ["Ear/auricle", "FTSG to conchal bowl", "FTSG + cartilage graft", "Prosthetic; Nagata reconstruction"],
+            ["Forehead", "Primary closure or FTSG", "Advancement/rotation", "Tissue expander or free flap"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Paramedian Forehead Flap",
+          "content": "Paramedian forehead flap: gold standard for nasal reconstruction defects >1.5 cm involving the alar/tip subunit. Pedicle = supratrochlear artery (identified 1.7–2.2 cm from midline). Two-stage procedure: stage 1 (flap inset), stage 2 at 3 weeks (pedicle division and insetting). Excellent colour and texture match. Alternative for smaller alar defects: nasolabial (melolabial) interpolated flap."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of facial skin cancers — BCC, cSCC, melanoma, MCC, and reconstruction — with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "A7-Q1",
+        "stem": "A 72-year-old man presents with a 1.5 cm ill-defined pearly plaque on the right nasal ala that has been present for 3 years, with scar-like central induration. Biopsy shows morphoeic (sclerosing) BCC with positive deep margin. According to NCCN 2024, what is the most appropriate treatment?",
+        "options": {
+          "A": "Standard excision with 4 mm margins and delayed reconstruction",
+          "B": "Mohs micrographic surgery until clear margins, then reconstruction",
+          "C": "Curettage and electrodessication",
+          "D": "Radiotherapy — surgery contraindicated in the H-zone"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Morphoeic (sclerosing) BCC on the nasal ala (H-zone of the face) is a high-risk BCC by NCCN 2024 criteria on two counts: (1) aggressive subtype (morphoeic) with finger-like subclinical extensions, and (2) H-zone location (nose). Mohs micrographic surgery, which examines 100% of surgical margins intraoperatively, is the treatment of choice, achieving 5-year cure rates of 99% for primary BCC while maximally sparing tissue in a functionally and cosmetically critical area.",
+          "wrong": {
+            "A": "Standard excision with 4 mm margins is appropriate for LOW-risk BCCs but not for morphoeic BCC — subclinical extension in morphoeic subtype frequently exceeds 4 mm, and the nasal ala H-zone location mandates margin-controlled surgery.",
+            "C": "Curettage and electrodessication is appropriate only for SUPERFICIAL BCC in low-risk locations (trunk, extremities) — never for morphoeic BCC or H-zone lesions where subclinical extension and recurrence risk are high.",
+            "D": "Surgery is not contraindicated in the H-zone — rather, the H-zone is a HIGH-RISK INDICATION for Mohs surgery. Radiotherapy is an alternative for patients who cannot undergo surgery, not a preferred primary treatment over Mohs."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024; BAD/BSSD Skin Cancer Guidelines 2021",
+          "trial": "Rowe DE et al. (J Dermatol Surg Oncol 1989): Mohs MMS for BCC — 5-year cure rate 99% primary, 97% recurrent vs 92% primary, 83% recurrent with standard excision; largest comparative analysis establishing Mohs superiority for high-risk BCC.",
+          "pearl": "Morphoeic BCC + H-zone = Mohs MMS mandatory. Morphoeic subtype has subclinical extensions often >10 mm from visible edge. Standard 4 mm margins inadequate — positive margin rate 48% for morphoeic with standard excision. Mohs reduces tissue removal while ensuring complete excision."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q2",
+        "stem": "The ERIVANCE trial (Sekulic et al., NEJM 2012) demonstrated the efficacy of vismodegib for advanced BCC. Vismodegib acts by inhibiting which molecular target?",
+        "options": {
+          "A": "EGFR (epidermal growth factor receptor) — HER1",
+          "B": "VEGFR (vascular endothelial growth factor receptor)",
+          "C": "Smoothened (SMO) in the sonic hedgehog (SHH) signalling pathway",
+          "D": "BRAF V600E kinase"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Vismodegib is a Smoothened (SMO) inhibitor. In BCC, loss-of-function mutations in PTCH1 (patched homologue 1, a tumour suppressor gene) lead to constitutive activation of SMO, which activates downstream transcription factors (GLI1, GLI2) driving BCC proliferation. Vismodegib blocks SMO, shutting down the SHH pathway. ERIVANCE showed response rates of 30% for metastatic BCC and 43% for locally advanced BCC. Sonidegib is a similar SMO inhibitor with comparable efficacy.",
+          "wrong": {
+            "A": "EGFR inhibition (cetuximab, erlotinib) is used in head and neck SCC, not BCC. BCC pathogenesis does not primarily involve EGFR signalling.",
+            "B": "VEGFR inhibitors (bevacizumab, sorafenib) target angiogenesis and are not the mechanism of vismodegib. Anti-angiogenic therapy is not a primary approach in BCC.",
+            "D": "BRAF V600E inhibitors (vemurafenib, dabrafenib) are used in BRAF-mutant melanoma, not BCC. BRAF mutation is not a driver in BCC — PTCH1 mutation is."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024; ERIVANCE trial (Sekulic 2012)",
+          "trial": "ERIVANCE BCC trial (Sekulic A et al., NEJM 2012): vismodegib vs placebo in locally advanced or metastatic BCC; ORR 43% locally advanced, 30% metastatic; approved by FDA 2012 as first hedgehog inhibitor.",
+          "pearl": "BCC molecular target: PTCH1 loss → SMO constitutively active → GLI transcription. Vismodegib = SMO inhibitor. ERIVANCE trial results: ORR 43% (locally advanced), 30% (metastatic). Side effects: muscle cramps 67%, alopecia 64%, dysgeusia 55%."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q3",
+        "stem": "A 65-year-old immunocompetent man presents with a 2.5 cm cSCC on the right helix of the ear. Histopathology shows: moderately differentiated, depth 3 mm, perineural invasion of small unnamed nerves, no named nerve involvement, no lymphovascular invasion. Using BWH staging, what is the classification and appropriate management?",
+        "options": {
+          "A": "BWH T1 — standard excision 4 mm margins; no further investigation",
+          "B": "BWH T2a — wide excision; consider SLNB",
+          "C": "BWH T2b — wide excision with Mohs/margin control; SLNB and imaging of regional nodes",
+          "D": "BWH T3 — mandatory orbital exenteration"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "BWH T2b is defined as 2–3 high-risk features. This tumour has: (1) size >2 cm (2.5 cm = high-risk), (2) H-zone location (ear = H-zone), (3) perineural invasion. Three high-risk features = BWH T2b. Management for T2b: margin-controlled excision (Mohs or staged excision); SLNB is recommended given 12% nodal metastasis risk at T2b; CT/ultrasound imaging of regional nodes is appropriate.",
+          "wrong": {
+            "A": "BWH T1 = no high-risk features. This tumour has three high-risk features (size, H-zone, PNI) — T1 is incorrect.",
+            "B": "BWH T2a = 1 high-risk feature. This tumour has 3 features — T2a significantly understages this lesion.",
+            "D": "BWH T3 is defined as any of: perineural invasion of a NAMED nerve (not small unnamed nerves), bone invasion, or tumour ≥4 cm. This tumour has PNI of unnamed nerves only (not a named nerve), is 2.5 cm, and has no bone involvement — T3 criteria are not met. Orbital exenteration is not relevant to auricular SCC."
+          },
+          "guideline": "NCCN Cutaneous Squamous Cell Carcinoma v2.2024; BWH staging (Karia PS, JAMA Dermatol 2013)",
+          "trial": "Karia PS et al. (JAMA Dermatol 2013): BWH staging system validation — T2b nodal metastasis rate 12% vs <1% for T1; BWH outperforms AJCC for cSCC prognostication.",
+          "pearl": "BWH T staging: T1 = 0 features; T2a = 1 feature; T2b = 2–3 features; T3 = NAMED nerve PNI, bone invasion, or ≥4 cm. High-risk features: >2 cm, H-zone, depth >2 mm, poor differentiation, PNI (named or extensive), LVI, recurrence, immunosuppression. T2b and T3 → SLNB consideration."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q4",
+        "stem": "A 58-year-old woman presents with a 1.2 mm Breslow thickness melanoma on the right cheek with no ulceration. What are the recommended surgical margin and SLNB management?",
+        "options": {
+          "A": "5 mm margin; no SLNB required",
+          "B": "1 cm margin; no SLNB required",
+          "C": "1 cm margin; SLNB recommended",
+          "D": "2 cm margin; SLNB required"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "AJCC 8th edition classifies 1.2 mm Breslow thickness without ulceration as T2a melanoma. Recommended surgical margin for T2 (1.01–2.0 mm) melanoma is 1–2 cm. A 1 cm margin is appropriate for T2a on the face where anatomical constraints may limit wider margins. SLNB is recommended for all T1b and T2–T4 melanomas — T2a is a clear SLNB indication. MSLT-1 (Morton, NEJM 2006) established SLNB as the most important staging procedure for intermediate-thickness melanoma.",
+          "wrong": {
+            "A": "5 mm margin is appropriate for melanoma in situ — not for T2a invasive melanoma at 1.2 mm. A 1 cm minimum margin is required.",
+            "B": "1 cm margin is correct for T2a on the face, but SLNB IS recommended for T2 melanoma — omitting SLNB would understate regional staging.",
+            "D": "2 cm margins are recommended for T3–T4 melanoma (>2 mm Breslow). T2a (1.01–2.0 mm) requires 1–2 cm — 2 cm is acceptable but 1 cm is standard for facial T2 where anatomical margins are limiting. SLNB is correct."
+          },
+          "guideline": "NCCN Melanoma v3.2024; Swetter SM et al. (J Am Acad Dermatol 2019); MSLT-1 (Morton NEJM 2006)",
+          "trial": "MSLT-1 (Morton DL et al., NEJM 2006): SLNB in intermediate-thickness melanoma — SLN positivity the most important independent prognostic factor; CLND in SLN+ improved melanoma-specific survival (72% vs 52% at 5 years in T2–T4).",
+          "pearl": "Melanoma margin-SLNB guide: In situ: 5–10 mm margin, no SLNB. T1a (<0.8 mm): 1 cm, SLNB optional. T1b (0.8–1.0 mm or ulceration): 1 cm, SLNB YES. T2 (1.01–2.0 mm): 1–2 cm, SLNB YES. T3–T4 (>2 mm): 2 cm, SLNB YES."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q5",
+        "stem": "The MSLT-2 trial (Faries et al., NEJM 2017) addressed management of patients with positive sentinel lymph node biopsy (SLNB) in melanoma. What was the key finding regarding completion lymph node dissection (CLND)?",
+        "options": {
+          "A": "CLND significantly improved melanoma-specific survival compared to nodal observation with ultrasound",
+          "B": "CLND did not improve melanoma-specific survival but improved disease-free survival and regional node control",
+          "C": "CLND is contraindicated in all SLNB-positive patients due to high morbidity",
+          "D": "Observation with ultrasound alone led to inferior overall survival compared to CLND"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "MSLT-2 (Faries MB, NEJM 2017) randomised 1,939 patients with positive SLNB to immediate CLND vs nodal observation with high-frequency ultrasound. The primary endpoint, melanoma-specific survival, was NOT significantly different (86% vs 86% at 3 years). CLND did improve disease-free survival (68% vs 63%, p=0.05) and significantly reduced regional nodal recurrence rate. The trial established nodal observation with ultrasound as an acceptable alternative to routine CLND in SLNB-positive patients.",
+          "wrong": {
+            "A": "MSLT-2 showed NO significant improvement in melanoma-specific survival with CLND — this is the key negative result. CLND was abandoned as a routine procedure based on this trial.",
+            "C": "CLND is not contraindicated — it remains appropriate in selected patients (high-volume nodal disease, palpable nodes, clinical stage IIIC) and when ultrasound surveillance is not feasible.",
+            "D": "Overall survival was also not significantly different between groups — observation with ultrasound did not lead to inferior overall survival."
+          },
+          "guideline": "NCCN Melanoma v3.2024; MSLT-2 (Faries MB, NEJM 2017)",
+          "trial": "MSLT-2 (Faries MB et al., NEJM 2017): CLND vs observation after positive SLNB; melanoma-specific survival equivalent (86% vs 86%); CLND improved DFS (68% vs 63%); regional recurrence reduced with CLND. Changed standard of care: observation acceptable alternative to routine CLND.",
+          "pearl": "MSLT-2 = end of routine CLND for SLNB-positive melanoma. Nodal observation with high-frequency ultrasound every 4–6 months is acceptable. CLND improves regional control and DFS but not melanoma-specific survival or OS. Consider CLND for high-volume SLNB disease or if surveillance not feasible."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q6",
+        "stem": "Which adjuvant therapy is recommended for a patient with stage IIIA resected BRAF V600E-mutant cutaneous melanoma?",
+        "options": {
+          "A": "No adjuvant therapy — stage IIIA has a good prognosis",
+          "B": "Adjuvant pembrolizumab (anti-PD-1) OR adjuvant dabrafenib + trametinib (BRAF/MEK inhibition)",
+          "C": "Adjuvant ipilimumab 10 mg/kg — the only approved option for BRAF-mutant disease",
+          "D": "Adjuvant vemurafenib monotherapy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For resected stage III BRAF V600E-mutant melanoma, both anti-PD-1 therapy (pembrolizumab per KEYNOTE-054, or nivolumab per CheckMate 238) and BRAF/MEK inhibition (dabrafenib + trametinib per COMBI-AD) are approved adjuvant options. The choice between them depends on: expected toxicity profile, patient preference, and likelihood of future treatment needs. Anti-PD-1 produces durable responses even after stopping treatment; BRAF/MEK inhibitors have high initial response rates but resistance develops over time. For BRAF wild-type stage III, only anti-PD-1 is available.",
+          "wrong": {
+            "A": "Stage IIIA melanoma has a meaningful recurrence risk (5-year survival ~78%) — adjuvant therapy is indicated to reduce recurrence risk. NCCN 2024 recommends adjuvant therapy for stage IIIA and above.",
+            "C": "Ipilimumab 10 mg/kg (EORTC 18071) is an older adjuvant regimen with significant toxicity that has been largely replaced by anti-PD-1 agents. It is no longer the preferred option for stage III melanoma.",
+            "D": "Vemurafenib is a BRAF inhibitor monotherapy — it is used in metastatic melanoma and was studied in adjuvant setting (BRIM8 trial) but is NOT approved for adjuvant use. The approved BRAF-targeted adjuvant regimen is the COMBINATION of dabrafenib + trametinib, not BRAF monotherapy."
+          },
+          "guideline": "NCCN Melanoma v3.2024; KEYNOTE-054 (Eggermont NEJM 2018); COMBI-AD (Long NEJM 2017)",
+          "trial": "COMBI-AD (Long GV et al., NEJM 2017): adjuvant dabrafenib + trametinib vs placebo in stage III BRAF V600E/K melanoma; RFS HR 0.47 (p<0.001); 5-year RFS 52% vs 36%; approved FDA/EMA for adjuvant stage III BRAF-mutant melanoma.",
+          "pearl": "Stage III melanoma adjuvant: BRAF-mutant → anti-PD-1 OR dabrafenib + trametinib. BRAF wild-type → anti-PD-1 (pembrolizumab or nivolumab). Test BRAF BEFORE starting any systemic therapy. Ipilimumab 10 mg/kg largely replaced due to high toxicity."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q7",
+        "stem": "A 68-year-old man presents with a rapidly enlarging, painless, 1.8 cm reddish-violet nodule on the left cheek that appeared over 3 months. He is on long-term immunosuppression after a kidney transplant 5 years ago. Biopsy shows small round blue cells with paranuclear CK20 dot staining, synaptophysin positive, TTF-1 negative. What is the diagnosis?",
+        "options": {
+          "A": "Metastatic small cell lung cancer to skin",
+          "B": "Merkel cell carcinoma (MCC)",
+          "C": "Primary cutaneous neuroendocrine carcinoma not otherwise specified",
+          "D": "Poorly differentiated squamous cell carcinoma"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The combination of: (1) rapidly enlarging reddish-violet nodule on sun-exposed skin; (2) immunosuppressed organ transplant recipient; (3) CK20 positive with paranuclear dot pattern; (4) synaptophysin positive (neuroendocrine marker); (5) TTF-1 NEGATIVE (excludes SCLC) = Merkel cell carcinoma. The paranuclear dot pattern of CK20 is pathognomonic for MCC. TTF-1 negativity excludes metastatic SCLC, which is the key differential.",
+          "wrong": {
+            "A": "Metastatic SCLC would be: CK20 NEGATIVE and TTF-1 POSITIVE. TTF-1 negativity here excludes SCLC — this is the critical discriminating immunostain.",
+            "C": "'Primary cutaneous neuroendocrine carcinoma NOS' is not a distinct WHO entity — Merkel cell carcinoma is the specific diagnosis for this immunophenotype. CK20 paranuclear dot pattern is pathognomonic and confirms MCC.",
+            "D": "Poorly differentiated SCC would show squamous differentiation markers (CK5/6, p40, p63) — not paranuclear CK20 or neuroendocrine markers like synaptophysin."
+          },
+          "guideline": "NCCN Merkel Cell Carcinoma v2.2024; WHO Classification of Skin Tumours 2022",
+          "trial": "Kaufman HL et al. JAVELIN Merkel 200 (Lancet Oncol 2016): avelumab (anti-PD-L1) for metastatic MCC; ORR 33%; durable responses; first FDA-approved therapy for metastatic MCC.",
+          "pearl": "MCC immunophenotype: CK20+ paranuclear dot (pathognomonic), synaptophysin+, chromogranin+, TTF-1 NEGATIVE. Distinguish from SCLC metastasis: SCLC = TTF-1+, CK20−. MCC = rapidly enlarging, reddish-violet, OTR or elderly patient, sun-exposed site. Management: wide excision + SLNB + adjuvant RT; metastatic = avelumab or pembrolizumab."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q8",
+        "stem": "A 55-year-old woman has a 2 cm defect of the right nasal ala and soft tissue triangle following Mohs MMS for cSCC. The defect involves the full thickness of the alar subunit. What is the gold standard reconstructive option?",
+        "options": {
+          "A": "Full-thickness skin graft from the post-auricular area",
+          "B": "Secondary intention healing — alar concavity heals well by secondary intention",
+          "C": "Paramedian forehead flap (supratrochlear artery based)",
+          "D": "Direct primary closure with wide undermining"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The paramedian forehead flap (supratrochlear artery pedicle, 1.7–2.2 cm from midline) is the gold standard for reconstruction of nasal alar/tip defects >1.5 cm requiring full-thickness replacement. It provides an excellent match of colour and texture to the nasal skin, with reliable vascular supply. It is a two-stage procedure: stage 1 (flap elevation and inset); stage 2 (pedicle division and insetting at 3 weeks). Burget and Menick established the cosmetic subunit principle — a 2 cm alar defect representing >50% of the alar subunit is best reconstructed by replacing the entire subunit with the forehead flap.",
+          "wrong": {
+            "A": "FTSG from post-auricular skin provides reasonable colour match but insufficient thickness and lack of structural support for a full-thickness 2 cm alar defect. FTSG is appropriate for smaller, shallower defects or as a resurfacing component.",
+            "B": "Secondary intention healing is appropriate for CONCAVE facial surfaces (medial canthus, nasal sidewall concavity). The nasal ala is a CONVEX, structurally important surface — healing by secondary intention results in retraction, notching, and alar collapse in full-thickness defects.",
+            "D": "Direct primary closure is not feasible for a 2 cm full-thickness alar defect — insufficient laxity is available without causing significant alar retraction and nostril distortion."
+          },
+          "guideline": "NCCN Cutaneous SCC 2024; Burget GC and Menick FJ. Aesthetic Reconstruction of the Nose (Mosby 1994)",
+          "trial": "Burget GC and Menick FJ (Plast Reconstr Surg 1985): cosmetic subunit principle and paramedian forehead flap for nasal reconstruction — established the two-stage forehead flap as the gold standard for alar/tip defects, with superior long-term outcomes to skin grafts.",
+          "pearl": "Nasal alar defect >1.5 cm: paramedian forehead flap (supratrochlear artery, 2-stage). For smaller alar defects: nasolabial (melolabial) interpolated flap. Cosmetic subunit rule: if >50% of a subunit is involved, replace the entire subunit. Secondary intention: only for nasal sidewall concavity — never alar convexity."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q9",
+        "stem": "Which of the following represents the H-zone of the face, which determines high-risk status for BCC management?",
+        "options": {
+          "A": "Forehead, temples, and scalp",
+          "B": "Eyelids, eyebrows, periorbital area, nose, lips, ears, and preauricular/postauricular areas",
+          "C": "Cheeks, chin, and neck",
+          "D": "Only the nose and medial canthus"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The H-zone (so named because its outline roughly resembles the letter H) includes the eyelids, eyebrows, periorbital area, nose, lips (vermilion), ears (including preauricular and postauricular skin), chin, and jaw. BCCs in this zone are classified as high-risk by NCCN 2024 regardless of size, because of: complex anatomy, proximity to critical structures (eye, nose, ear canal), increased risk of subclinical extension, and high functional and cosmetic impact of incomplete excision.",
+          "wrong": {
+            "A": "The forehead and temples are not classic H-zone sites — they are lower risk than the central face and periorbital regions. Scalp BCCs are managed by standard criteria.",
+            "C": "The cheeks, chin, and neck are generally lower-risk areas not included in the H-zone definition. Chin and jaw ARE included (often under the 'lower H' of the face).",
+            "D": "The H-zone is much broader than just the nose and medial canthus — it encompasses all the periocular, nasal, auricular, perioral, and mandibular regions listed in option B."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024 — Risk Stratification",
+          "trial": "Rowe DE et al. (J Dermatol Surg Oncol 1989): BCC recurrence by anatomical location — highest recurrence rates for BCCs on nose, eyelids, ears, and lips (H-zone) — established the anatomical basis for H-zone high-risk classification.",
+          "pearl": "H-zone = periorbital (lids, brows), nose, lips, ears (pre/postauricular), chin/jaw. Any BCC here = HIGH RISK → Mohs MMS preferred. Central face BCCs have the highest subclinical extension, complex anatomy, and worst functional consequences if undertreated."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q10",
+        "stem": "A 70-year-old man presents with a slowly expanding tan-brown macule on his left cheek that has been present for 8 years and has been enlarging for 2 years. Biopsy confirms lentigo maligna (melanoma in situ). Standard 5 mm excision margins are used. At what rate does standard 5 mm excision result in incomplete excision for lentigo maligna?",
+        "options": {
+          "A": "<5%",
+          "B": "10–15%",
+          "C": "~50%",
+          "D": "~90%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Standard 5 mm excision margins for lentigo maligna (LM, melanoma in situ) result in incomplete excision in approximately 50% of cases. This is because LM has extensive subclinical spread beyond the visible margin — often extending as isolated melanocytes or as early proliferation not detectable clinically or by standard histopathological bread-loaf sectioning. Mohs micrographic surgery, staged excision with rush permanent sections (slow Mohs), or mapping biopsies with wide staged excision are preferred for LM to ensure complete margin clearance before reconstruction.",
+          "wrong": {
+            "A": "<5% incomplete excision would indicate an adequate margin — not the case for LM with standard 5 mm. This figure dramatically underestimates the problem.",
+            "B": "10–15% is too low — the published incomplete excision rate for LM with standard 5 mm margins is approximately 40–50% in multiple series.",
+            "D": "~90% would be an overestimation — though subclinical extent is extensive, 50% is the most commonly cited figure from staged excision series."
+          },
+          "guideline": "NCCN Melanoma v3.2024; BAD Melanoma Guidelines 2021; Swetter SM et al. J Am Acad Dermatol 2019",
+          "trial": "Bub JL et al. (J Am Acad Dermatol 2004): staged mapping excision of LM — incomplete excision with standard 5 mm margins in 47% of cases; staged excision to clear margins eliminated recurrence at 5 years.",
+          "pearl": "Lentigo maligna (MIS): 5 mm standard margin fails in ~50% of cases. ALWAYS use staged margin-controlled excision (slow Mohs, Mohs, or mapping biopsies). Reconstruct only AFTER margins confirmed clear. Larger margins (≥1 cm) improve but do not guarantee clearance."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q11",
+        "stem": "A 45-year-old immunocompromised patient (renal transplant) presents with a 3 cm cSCC on the left preauricular area. CT neck shows a suspicious 1.5 cm ipsilateral level II node. Fine needle aspiration confirms metastatic SCC. What is the most appropriate management?",
+        "options": {
+          "A": "Wide local excision of the primary only — neck disease is too small to treat",
+          "B": "Wide local excision of primary + left levels I–V modified radical neck dissection + adjuvant chemoradiotherapy",
+          "C": "Radiotherapy to the primary and neck alone — surgery is contraindicated in immunosuppressed patients",
+          "D": "Systemic cetuximab without surgery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "This patient has clinically node-positive (cN1) cutaneous SCC — confirmed by FNA. Management requires treatment of both the primary and regional disease: wide local excision of the primary (with Mohs or wide margins) AND regional lymphadenectomy (modified radical neck dissection levels I–V for preauricular primary draining to parotid and level II first). Adjuvant cisplatin-based chemoradiotherapy is indicated given the presence of confirmed nodal metastasis and immunosuppression (high-risk factors for recurrence). NCCN 2024 recommends adjuvant CRT for positive nodes with ENE or high-risk features.",
+          "wrong": {
+            "A": "Confirmed nodal metastasis (cN1) mandates regional treatment — leaving confirmed nodal disease untreated is not acceptable.",
+            "C": "Immunosuppression is not a contraindication to surgery. These patients need aggressive treatment — their disease is more aggressive and tends to spread faster.",
+            "D": "Cetuximab (anti-EGFR) is an option for recurrent/metastatic cSCC (based on small series) but is not the standard primary treatment — surgery and adjuvant radiotherapy are preferred for operable disease."
+          },
+          "guideline": "NCCN Cutaneous SCC v2.2024; EACMFS Head and Neck Oncology Guidelines 2023",
+          "trial": "Jennings L and Schmults CD (Dermatol Surg 2010): management of cSCC in organ transplant recipients — aggressive multimodality treatment (surgery + adjuvant RT) significantly reduces recurrence compared to surgery alone; immunosuppression modification also recommended.",
+          "pearl": "cSCC in OTR + confirmed cN1: Wide excision primary + MRND + adjuvant CRT. Consider switching calcineurin inhibitor (ciclosporin) to mTOR inhibitor (sirolimus) with transplant team — mTOR inhibitors reduce cSCC incidence by 40–50% in OTRs."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q12",
+        "stem": "A patient undergoes Mohs MMS for a high-risk cSCC of the left lower eyelid. The resulting defect involves 40% of the lower eyelid full thickness (lid margin, tarsus, and conjunctiva). Which reconstructive technique is most appropriate?",
+        "options": {
+          "A": "Full-thickness skin graft from the upper eyelid",
+          "B": "Tenzel rotation-advancement flap",
+          "C": "Direct primary closure with medial canthopexy",
+          "D": "Cutler-Beard switch flap from the upper lid"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Tenzel rotation-advancement flap is the standard reconstruction for lower eyelid defects involving 25–50% of the lid width (full thickness). The Tenzel flap is a semicircular rotation-advancement flap from the lateral canthal area that provides lid margin reconstruction for defects of this size. It uses lateral canthotomy and cantholysis to provide adequate tissue advancement. For defects <25%: primary closure. For defects >50%: tarsoconjunctival flap (posterior lamella, Hughes flap) + skin graft (anterior lamella) or other bi-lamellar reconstruction.",
+          "wrong": {
+            "A": "Upper eyelid FTSG is used as an anterior lamellar (skin only) replacement — it does not reconstruct the posterior lamella (tarsus and conjunctiva) or the lid margin. Full-thickness lower lid defects require both lamellae reconstruction.",
+            "C": "Direct primary closure with medial canthopexy would create tension on the closure of a 40% defect and result in ectropion or lid shortening — not appropriate for a 40% full-thickness defect.",
+            "D": "The Cutler-Beard switch flap (upper lid switch flap) is used for UPPER eyelid defects >50%, not lower eyelid. It is a two-stage flap borrowing upper lid tissue to reconstruct large upper lid defects — not the standard for lower lid reconstruction."
+          },
+          "guideline": "NCCN Cutaneous SCC 2024; EACMFS Eyelid Reconstruction Guidelines 2023",
+          "trial": "Tenzel RR and Stewart WB (Arch Ophthalmol 1978): semicircular rotation-advancement flap for lower eyelid reconstruction — reliable reconstruction for 25–50% lower lid defects; minimal donor site morbidity.",
+          "pearl": "Lower eyelid reconstruction by defect size: <25% = primary closure. 25–50% = Tenzel flap. >50% = Hughes tarsoconjunctival flap (posterior lamella) + FTSG (anterior lamella). Upper eyelid: >50% = Cutler-Beard switch flap. Never confuse upper and lower lid techniques."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q13",
+        "stem": "Which of the following is the most important prognostic factor in primary cutaneous melanoma according to AJCC 8th edition staging?",
+        "options": {
+          "A": "Mitotic rate",
+          "B": "Breslow thickness",
+          "C": "Clark level",
+          "D": "Tumour-infiltrating lymphocyte (TIL) density"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Breslow thickness (depth of invasion in mm from the granular cell layer of the epidermis to the deepest tumour cell) is the single most important prognostic factor in primary cutaneous melanoma. It directly determines T-stage in AJCC 8th edition and is the primary determinant of surgical margin and SLNB recommendations. Ulceration is the second most important T-stage factor. Mitotic rate was included in AJCC 7th edition T1 staging but removed from T-stage in AJCC 8th, though it retains prognostic significance.",
+          "wrong": {
+            "A": "Mitotic rate was an important factor in AJCC 7th edition (used to distinguish T1a from T1b) but was removed from T-stage in AJCC 8th edition. It still has prognostic significance but is no longer the primary staging factor.",
+            "C": "Clark level (anatomical depth — I–V) was used in older staging systems but has been replaced by Breslow thickness in AJCC 8th edition because Breslow is more reproducible and more prognostically accurate.",
+            "D": "TIL density is a prognostic biomarker being studied in melanoma research but is not incorporated into current AJCC staging or standard clinical management guidelines."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — Melanoma; NCCN Melanoma v3.2024",
+          "trial": "Breslow A (Ann Surg 1970): original description of tumour thickness measurement in melanoma — Breslow thickness proved to be the single most important prognostic factor, superseding Clark level. Validated in multiple international cohorts.",
+          "pearl": "Melanoma AJCC 8th T-stage is determined by: (1) Breslow thickness (primary factor) and (2) Ulceration. Clark level is no longer used in staging. Mitotic rate removed from T1 staging (7th → 8th edition change). Know the Breslow thresholds: 0.8 mm (T1a/T1b), 1.0 mm (T1b), 2.0 mm (T2/T3), 4.0 mm (T3/T4)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q14",
+        "stem": "For adjuvant systemic therapy of resected stage IIIA–C melanoma in a BRAF V600E-mutant patient, what is the recommended approach?",
+        "options": {
+          "A": "Ipilimumab 3 mg/kg — first approved adjuvant agent; remains first-line",
+          "B": "Pembrolizumab OR nivolumab (anti-PD-1) OR dabrafenib + trametinib — all are approved; choice individualized",
+          "C": "Vemurafenib monotherapy — most effective for BRAF-mutant disease",
+          "D": "Observation — systemic adjuvant therapy has not been shown to benefit stage IIIA melanoma"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For BRAF V600E-mutant resected stage III melanoma, three approved adjuvant options exist: (1) pembrolizumab (KEYNOTE-054, RFS benefit HR 0.57); (2) nivolumab (CheckMate 238, superior to ipilimumab); (3) dabrafenib + trametinib (COMBI-AD, RFS benefit HR 0.47). The choice between anti-PD-1 and BRAF/MEK combination is individualized based on toxicity profile, patient preference, and future treatment strategy considerations. Anti-PD-1 produces durable immune memory; BRAF/MEK provides rapid disease control.",
+          "wrong": {
+            "A": "Ipilimumab 3 mg/kg was not the initial approved adjuvant dose — ipilimumab 10 mg/kg (EORTC 18071) was used, with significant grade 3–4 toxicity. More importantly, ipilimumab adjuvant has been replaced by anti-PD-1 agents as preferred first-line options due to superior efficacy and lower toxicity.",
+            "C": "Vemurafenib monotherapy is NOT approved for adjuvant use — BRIM8 trial studied adjuvant vemurafenib without improvement in relapse-free survival in stage IIC–IIIA. The approved BRAF-targeted adjuvant regimen is the COMBINATION dabrafenib + trametinib.",
+            "D": "Stage IIIA (SLN-positive, node <2 mm) does have lower risk than IIIB/IIIC, but NCCN 2024 recommends consideration of adjuvant therapy for all stage III patients based on recurrence risk analysis."
+          },
+          "guideline": "NCCN Melanoma v3.2024; KEYNOTE-054 (Eggermont NEJM 2018); COMBI-AD (Long NEJM 2017); CheckMate 238 (Weber Lancet Oncol 2017)",
+          "trial": "COMBI-AD (Long GV et al., NEJM 2017): dabrafenib + trametinib adjuvant for BRAF V600E/K stage III melanoma; 5-year RFS 52% vs 36% placebo (HR 0.47); alongside anti-PD-1, established as standard adjuvant option.",
+          "pearl": "Stage III BRAF-mutant melanoma adjuvant: Three options: anti-PD-1 (pembrolizumab/nivolumab) OR BRAF+MEK (dabrafenib+trametinib). NOT ipilimumab alone; NOT BRAF monotherapy. Must test BRAF V600 before starting. Duration: 12 months for both approaches."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q15",
+        "stem": "A 62-year-old man presents with Merkel cell carcinoma (MCC) of the left temple, measuring 2.5 cm, clinically N0. Following wide excision (2 cm margins) and SLNB (negative), adjuvant radiotherapy is planned. What is the evidence basis for adjuvant radiotherapy to the primary site in MCC?",
+        "options": {
+          "A": "Randomised controlled trial showing >30% reduction in recurrence with adjuvant RT",
+          "B": "Retrospective series and national database analyses showing significantly lower local recurrence with adjuvant RT (50–70% risk reduction)",
+          "C": "Adjuvant RT is not recommended — it does not reduce recurrence in MCC",
+          "D": "Single RCT showing adjuvant RT superior to adjuvant pembrolizumab"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Evidence for adjuvant radiotherapy in MCC comes from large retrospective series and national database studies (no RCT has been performed given the rarity of MCC). These consistently show significantly reduced local recurrence rates with adjuvant RT — multiple series demonstrate 50–70% reduction in local/regional recurrence. NCCN 2024 recommends adjuvant RT to the primary site for all MCC regardless of margin status, and to the regional nodes in SLN-positive patients or those not undergoing SLNB.",
+          "wrong": {
+            "A": "No RCT has been performed for adjuvant RT in MCC — the disease is too rare. Evidence is from retrospective analyses and database studies, which consistently support adjuvant RT.",
+            "C": "Adjuvant RT IS recommended by NCCN 2024 and EACMFS for all MCC — it significantly reduces recurrence in observational data.",
+            "D": "No trial has directly compared adjuvant RT to pembrolizumab in the adjuvant setting. Pembrolizumab is approved for METASTATIC MCC; the adjuvant role of immunotherapy in localised MCC is being investigated (STAMP trial ongoing)."
+          },
+          "guideline": "NCCN Merkel Cell Carcinoma v2.2024; EACMFS 2023",
+          "trial": "Mojica P et al. (J Clin Oncol 2007): SEER database analysis of 1,187 MCC patients — adjuvant radiation reduced disease-specific mortality HR 0.73; Poulsen M et al. (Radiother Oncol 2003): reduced locoregional recurrence from 55% to 25% with adjuvant RT.",
+          "pearl": "MCC adjuvant RT: always recommended to the primary site (reduces local recurrence ~50–70%). Also to regional nodes if SLN+. Evidence = retrospective; no RCT possible due to rarity. JAVELIN Merkel 200 (avelumab) and KEYNOTE-017 (pembrolizumab) = metastatic MCC immunotherapy, not adjuvant."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q16",
+        "stem": "A full-thickness skin graft (FTSG) for facial reconstruction after skin cancer excision is preferred over a split-thickness skin graft (STSG) because:",
+        "options": {
+          "A": "FTSG has a higher graft take rate due to thicker dermal vascular layer",
+          "B": "FTSG provides better colour match, less secondary contraction, and more durable texture for the face",
+          "C": "FTSG can be harvested from any body site without donor site morbidity",
+          "D": "FTSG is easier to harvest and requires less operative time"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "FTSG (full dermis + epidermis) is preferred for facial reconstruction because: (1) it provides a closer colour and texture match to facial skin (especially from preauricular, retroauricular, or supraclavicular donor sites); (2) it undergoes significantly less secondary contraction than STSG (which contracts markedly due to partial dermis), preserving facial subunit contour; (3) durability and sensation recovery are superior. The cosmetically superior result justifies the more complex harvest and primary donor site closure required for FTSG.",
+          "wrong": {
+            "A": "FTSG actually has a LOWER take rate than STSG — the thicker dermis requires more robust recipient bed vascularity and has a higher risk of partial take. STSG is more reliable in compromised beds.",
+            "C": "FTSG donor sites are limited by the need for primary closure — the donor area cannot be too large. Preauricular, retroauricular, and supraclavicular skin are the preferred facial colour-matched donor sites.",
+            "D": "FTSG harvest is typically more technically demanding than STSG — STSG can be harvested with a dermatome from larger areas rapidly. FTSG requires careful elliptical excision and primary donor closure."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Burget GC and Menick FJ. Aesthetic Reconstruction of the Nose 1994",
+          "trial": "Brown J et al. (Br J Plast Surg 2004): FTSG vs STSG in facial reconstruction — FTSG produced significantly superior cosmetic outcomes (colour match, contraction, texture) at 1 year; recommended for all facial reconstruction over STSG.",
+          "pearl": "FTSG vs STSG for face: FTSG = better colour match, less secondary contraction, more durable. Best donor sites for facial FTSG: preauricular (best match to nose/cheek), retroauricular, supraclavicular, upper eyelid (for eyelid reconstruction). STSG: better take rate, more contraction — not ideal for face."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q17",
+        "stem": "Organ transplant recipients (OTRs) have a dramatically elevated risk of cutaneous SCC. What is the approximate magnitude of this risk increase compared to the general population?",
+        "options": {
+          "A": "2-fold increase",
+          "B": "10-fold increase",
+          "C": "50-fold increase",
+          "D": "100-fold increase"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "OTRs on long-term calcineurin inhibitor immunosuppression (ciclosporin, tacrolimus) have approximately a 100-fold increased risk of cSCC compared to the general population. The risk is especially high in cardiac transplant recipients (highest cumulative immunosuppression). At 20 years post-transplant, >80% of patients on ciclosporin will have developed cSCC. The mechanism involves impaired immune surveillance of UV-damaged and HPV-infected keratinocytes. cSCC in OTRs is more aggressive (higher metastasis rate, multiple primaries, faster growth).",
+          "wrong": {
+            "A": "A 2-fold increase would be trivial and comparable to non-immunosuppressed high-risk groups (fair skin, excessive sun exposure). The actual increase in OTRs is dramatically greater.",
+            "B": "10-fold captures increased risk seen with less intensive immunosuppression — OTRs on calcineurin inhibitors have a 65–100-fold risk increase.",
+            "C": "50-fold is within the range of some estimates but the most commonly cited figure for OTRs on calcineurin inhibitors is 65–100-fold."
+          },
+          "guideline": "BAD/BSSD Skin Cancer Guidelines 2021; NCCN Cutaneous SCC v2.2024 — Immunosuppressed Patients",
+          "trial": "Harwood CA et al. (Br J Cancer 1996): skin cancer after transplantation — cSCC incidence 65–100× greater in OTRs; highest in cardiac transplants; switching from calcineurin inhibitors to mTOR inhibitors reduces cSCC incidence by ~40–50%.",
+          "pearl": "OTR + cSCC: 100× risk increase. Multiple primaries common. More aggressive than immunocompetent cSCC. Management: aggressive treatment (surgery + adjuvant RT for high-risk), regular dermatology surveillance, sun protection education. Consider mTOR inhibitor switch with transplant team."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A7-Q18",
+        "stem": "A 75-year-old woman presents with a large defect of the upper lip affecting two-thirds of the lip width following wide excision of a lip SCC. Which reconstructive technique allows restoration of functional vermilion using a full-thickness flap from the contralateral lip?",
+        "options": {
+          "A": "Karapandzic rotation-advancement flap",
+          "B": "Abbe cross-lip flap",
+          "C": "Estlander flap",
+          "D": "Bernard-Burow cheek advancement flap"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Abbe cross-lip flap transfers a full-thickness segment of the contralateral lip (including vermilion, mucosa, and orbicularis oris muscle) on a labial artery pedicle. It is the optimal technique for reconstructing defects of one-third to two-thirds of the lip when vermilion restoration is critical, as it provides identically matched tissue from the opposite lip. It is a two-stage procedure: stage 1 (flap inset while pedicle attached), stage 2 (pedicle division at 2–3 weeks). The Abbe flap is particularly used for the upper lip (central defects) where the philtrum restoration is cosmetically essential.",
+          "wrong": {
+            "A": "Karapandzic is a rotation-advancement flap of bilateral full-thickness cheek-lip tissue with preservation of neurovascular supply — used for large (>two-thirds) central lip defects. It does not transfer vermilion from the contralateral lip.",
+            "C": "Estlander flap is a variant of the Abbe flap used for COMMISSURE defects — it rotates lower lip tissue to reconstruct the commissure of the upper lip. It creates a rounded commissure that may require secondary commissuroplasty.",
+            "D": "Bernard-Burow (Burow triangles) is a large bilateral cheek advancement with wedge excisions at the nasolabial folds — used for near-total lip reconstruction but does not transfer functional vermilion from the contralateral lip."
+          },
+          "guideline": "NCCN Cutaneous SCC 2024; EACMFS Lip Reconstruction Guidelines 2023",
+          "trial": "Abbe R (Med Rec 1898): original description; modern series by Johanson B et al. (Scand J Plast Reconstr Surg 1974) validating the cross-lip flap for functional vermilion reconstruction.",
+          "pearl": "Abbe flap = full-thickness cross-lip transfer for 1/3–2/3 lip defects. Two-stage: pedicle divided at 2–3 weeks. Best for upper lip central defects (vermilion reconstruction). Estlander = commissure variant. Karapandzic = large central defects (>2/3). Bernard-Burow = near-total lip."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A7-Q19",
+        "stem": "A 55-year-old woman has a superficial BCC of the right forearm measuring 3 cm × 2 cm. There are no high-risk features. Which treatment is appropriate according to NCCN 2024?",
+        "options": {
+          "A": "Mohs micrographic surgery — all BCCs require Mohs",
+          "B": "Curettage and electrodessication OR topical imiquimod OR photodynamic therapy",
+          "C": "Wide local excision with 10 mm margins",
+          "D": "Systemic vismodegib — superficial BCCs are treatment-resistant to local therapies"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Superficial BCC in a low-risk location (trunk/extremity, not H-zone) is appropriately managed with field treatments: curettage and electrodessication (C&E), topical 5% imiquimod cream (apply 5 days/week × 6 weeks), or photodynamic therapy (PDT with aminolevulinic acid/methyl aminolevulinate). These approaches achieve >90% cure rates for superficial BCC in non-facial locations and avoid surgical morbidity. They are not appropriate for H-zone, nodular, or aggressive-subtype BCCs.",
+          "wrong": {
+            "A": "Mohs MMS is not indicated for all BCCs — it is reserved for high-risk BCCs (H-zone, recurrent, aggressive subtype, immunosuppressed). Using Mohs for a superficial forearm BCC is unnecessary and resource-wasteful.",
+            "C": "10 mm margins are excessive for a superficial forearm BCC — 4 mm is the standard for low-risk excision. However, field treatments (C&E, imiquimod, PDT) are preferred over surgery for superficial subtype in non-critical locations.",
+            "D": "Vismodegib (hedgehog inhibitor) is reserved for ADVANCED (locally advanced or metastatic) BCC that cannot be treated with surgery or radiotherapy — not for superficial BCC amenable to simple field treatment."
+          },
+          "guideline": "NCCN Basal Cell Carcinoma v2.2024 — Low-Risk BCC Treatment",
+          "trial": "Szeimies RM et al. (Br J Dermatol 2002): PDT vs cryotherapy for superficial BCC — equivalent efficacy (91% vs 86% at 3 months); PDT superior cosmetic outcome; validated field treatment for superficial subtype.",
+          "pearl": "Superficial BCC in non-H-zone: C&E, topical imiquimod, or PDT are appropriate. Nodular BCC in non-H-zone: standard excision 4 mm. ANY BCC in H-zone or aggressive subtype: Mohs MMS. Vismodegib: advanced/metastatic BCC only. Do not overtreat superficial BCCs."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A7-Q20",
+        "stem": "KEYNOTE-054 (Eggermont et al., NEJM 2018) studied pembrolizumab as adjuvant therapy for resected stage III melanoma. What was the primary endpoint result?",
+        "options": {
+          "A": "Pembrolizumab improved overall survival (OS) vs placebo (HR 0.70, p=0.01)",
+          "B": "Pembrolizumab improved recurrence-free survival (RFS) vs placebo (HR 0.57, p<0.001)",
+          "C": "Pembrolizumab showed no benefit vs placebo in BRAF-mutant patients",
+          "D": "Pembrolizumab had inferior outcomes compared to ipilimumab in stage IIIA"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "KEYNOTE-054 (Eggermont AM, NEJM 2018) randomised 1,019 patients with resected stage III melanoma to adjuvant pembrolizumab (200 mg q3w × 18 doses, 1 year) vs placebo. The primary endpoint was recurrence-free survival (RFS): pembrolizumab improved RFS with HR 0.57 (98.4% CI 0.43–0.74; p<0.001). The 1-year RFS was 75.4% vs 61.0% (pembrolizumab vs placebo). Benefit was seen in both BRAF-mutant and BRAF wild-type patients, and in all stage III subgroups.",
+          "wrong": {
+            "A": "Overall survival was not the primary endpoint and was not significantly different at the primary analysis — OS data is immature at initial publication. RFS is the primary endpoint for adjuvant melanoma trials.",
+            "C": "KEYNOTE-054 showed benefit in BOTH BRAF-mutant and BRAF wild-type patients — there was no differential efficacy by BRAF status for pembrolizumab.",
+            "D": "KEYNOTE-054 was a placebo-controlled trial — it did not directly compare pembrolizumab to ipilimumab. The comparison of nivolumab vs ipilimumab was done in CheckMate 238 (nivolumab superior)."
+          },
+          "guideline": "NCCN Melanoma v3.2024; KEYNOTE-054 (Eggermont AM, NEJM 2018)",
+          "trial": "KEYNOTE-054 (Eggermont AM et al., NEJM 2018): pembrolizumab vs placebo adjuvant in resected stage III melanoma; RFS HR 0.57 (p<0.001); 1-year RFS 75.4% vs 61.0%; benefit in all subgroups; established pembrolizumab as standard adjuvant therapy.",
+          "pearl": "KEYNOTE-054: pembrolizumab adjuvant stage III melanoma. Primary endpoint: RFS HR 0.57. Benefit in all stage III subgroups and all BRAF status. Duration: 12 months (18 doses). CheckMate 238: nivolumab vs ipilimumab adjuvant — nivolumab superior, lower toxicity. Both anti-PD-1 agents are approved."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "id": "A4",
+  "title": "Disección Cervical",
+  "subtitle": "Bloque A — Oncología de Cabeza y Cuello: Clasificación, Técnica y Complicaciones",
+  "block": "A",
+  "block_name": "Oncología de Cabeza y Cuello",
+  "level": "R2-4",
+  "reading_time_min": 42,
+  "guidelines_version": "AAOMS Neck Dissection Guidelines 2023 · EACMFS 2023 · NCCN Head and Neck Cancers 2024",
+  "textbook_refs": [
+    "Robbins KT et al. Consensus Statement on the Classification and Terminology of Neck Dissection (Arch Otolaryngol Head Neck Surg 2008)",
+    "Shah JP. Patterns of cervical lymph node metastasis from squamous cell carcinoma of the upper aerodigestive tract (Am J Surg 1990)",
+    "D'Cruz AK et al. Elective versus Therapeutic Neck Dissection in Node-Negative Oral Cancer — SENTI-MELA (NEJM 2015)",
+    "Mehanna H et al. PET-CT Surveillance versus Neck Dissection in Advanced Head and Neck Cancer — PET-NECK (NEJM 2016)",
+    "Flint PW et al. Cummings Otolaryngology: Head and Neck Surgery, 7th ed. (Elsevier 2021)"
+  ],
+  "learning_objectives": [
+    "Aplicar la clasificación de disecciones cervicales de la Academia/AHNS 2008 (radical, radical modificada, selectiva, ampliada) y describir los niveles ganglionares cervicales I–VI con sus límites",
+    "Determinar el tipo de disección cervical apropiado para enfermedad cN0 y cN+ según la localización del tumor primario y las guías NCCN 2024",
+    "Describir la anatomía quirúrgica del cuello relevante para la disección cervical, incluyendo las estructuras en riesgo (nervio espinal accesorio, vena yugular interna, arteria carótida común, rama marginal mandibular del facial, nervio frénico, conducto torácico)",
+    "Interpretar los resultados de los ensayos SENTI-MELA y PET-NECK y aplicarlos a las decisiones de manejo cervical electivo",
+    "Reconocer y manejar las principales complicaciones de la disección cervical: fístula quilosa, hematoma, dehiscencia de herida, lesión del nervio espinal accesorio, exposición de la arteria carótida"
+  ],
+  "sections": [
+    {
+      "id": "A4-S1",
+      "title": "Clasificación de Niveles Ganglionares Cervicales y Límites",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La Academia de Otolaringología–Cirugía de Cabeza y Cuello (AAO-HNS) y la Sociedad Americana de Cabeza y Cuello (AHNS) publicaron una clasificación de consenso de la disección cervical en 2002 y la actualizaron en 2008 (Robbins et al., Arch Otolaryngol Head Neck Surg 2008). Este sistema divide los ganglios linfáticos cervicales en seis niveles principales (I–VI) y designa subgrupos adicionales. El **Nivel I** engloba los triángulos submentoniano (IA) y submandibular (IB). El IA está delimitado por los vientres anteriores del digástrico y el hueso hioides; el IB se sitúa entre los vientres anterior y posterior del digástrico. El **Nivel II** corresponde al grupo yugular superior, que se extiende desde la base del cráneo hasta el borde inferior del hioides. El subgrupo IIA se encuentra anterior al nervio espinal accesorio; el IIB posterior a él. El **Nivel III** es el grupo yugular medio, situado entre el hioides y el borde inferior del cartílago cricoides. El **Nivel IV** es el grupo yugular inferior, desde el cricoides hasta la clavícula. El **Nivel V** es el triángulo posterior, dividido en VA (ganglios del nervio espinal accesorio, por encima del vientre inferior del omohioideo) y VB (ganglios cervicales transversos y supraclaviculares, por debajo). El **Nivel VI** es el compartimento central: ganglios pretraqueales, paratraqueales y peritiroideos entre las vainas carotídeas, desde el hioides hasta la horquilla esternal. El nivel VI se diseca sistemáticamente en el carcinoma de tiroides y los tumores primarios subglóticos, pero no en el carcinoma epidermoide de cabeza y cuello (CEHC) estándar. Algunos autores designan además el Nivel VII (ganglios mediastínicos superiores por debajo de la horquilla esternal) para la patología tiroidea y esofágica."
+        },
+        {
+          "type": "table",
+          "title": "Niveles Ganglionares Cervicales — Límites y Territorios de Drenaje Primario",
+          "headers": ["Nivel", "Subniveles", "Límites Anatómicos", "Drenaje Primario"],
+          "rows": [
+            ["I", "IA, IB", "IA: digástrico ant.–hioides; IB: triángulo digástrico", "Cavidad oral, labio, suelo de boca anterior"],
+            ["II", "IIA, IIB", "Base cráneo al hioides; anterior a VYI (IIA), posterior al NC XI (IIB)", "Cavidad oral, orofaringe, hipofaringe, laringe, parótida"],
+            ["III", "—", "Hioides al cricoides inferior, a lo largo de VYI", "Cavidad oral, orofaringe, laringe, hipofaringe"],
+            ["IV", "—", "Cricoides inferior a clavícula, a lo largo de VYI", "Laringe, hipofaringe, esófago, tiroides"],
+            ["V", "VA, VB", "Triángulo posterior; VA arriba, VB abajo del omohioideo", "Cuero cabelludo, piel, nasofaringe"],
+            ["VI", "—", "Entre arterias carótidas, hioides hasta horquilla esternal", "Tiroides, paratiroides, subglotis, esófago cervical"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Ganglio IIB y Metástasis en Salto",
+          "content": "Los ganglios IIB tienen bajo riesgo de metástasis en tumores primarios de cavidad oral y laringe cuando el IIA es negativo. La preservación selectiva del IIB puede evitar la disección del nervio espinal accesorio en esa zona y reducir la morbilidad del hombro. Sin embargo, los tumores primarios de orofaringe (especialmente amígdala palatina) tienen mayor riesgo de afectación del IIB y no deben preservarse."
+        }
+      ]
+    },
+    {
+      "id": "A4-S2",
+      "title": "Clasificación de los Tipos de Disección Cervical",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El consenso Academia/AHNS 2008 define cuatro tipos de disección cervical según los niveles ganglionares extirpados y las estructuras preservadas. La **Disección Cervical Radical (DCR)** extirpa los niveles I–V en bloque con sacrificio del músculo esternocleidomastoideo (ECM), la vena yugular interna (VYI) y el nervio espinal accesorio (NC XI). Fue el estándar histórico (Crile 1906) pero actualmente se reserva para la enfermedad que invade directamente estas estructuras. La **Disección Cervical Radical Modificada (DCRM)** extirpa los niveles I–V pero preserva una o más de las tres estructuras no linfáticas (ECM, VYI, NC XI). Se reconocen tres tipos: el Tipo I preserva el NC XI; el Tipo II preserva el NC XI y la VYI; el Tipo III (disección de Bocca) preserva las tres estructuras. La DCRM Tipo III tiene resultados oncológicos esencialmente equivalentes a la DCR para la mayoría de los CEHC, con una reducción drástica de la morbilidad del hombro. La **Disección Cervical Selectiva (DCS)** extirpa únicamente los niveles con mayor riesgo según el tumor primario. Las variantes más comunes incluyen la DCS supraomohioidea (niveles I–III para cavidad oral), la DCS lateral (niveles II–IV para orofaringe, laringe, hipofaringe), la DCS posterolateral (niveles II–V y ganglios retroauriculares/suboccipitales para melanomas del cuero cabelludo y tumores malignos parotídeos) y la disección del compartimento central (nivel VI). La **Disección Cervical Ampliada** extirpa estructuras adicionales más allá de los niveles estándar, como el nervio hipogloso, la arteria carótida o los ganglios parafaríngeos."
+        },
+        {
+          "type": "table",
+          "title": "Tipos de Disección Cervical — Resumen de Clasificación",
+          "headers": ["Tipo", "Niveles Extirpados", "Estructuras Preservadas/Sacrificadas", "Indicación"],
+          "rows": [
+            ["Radical (DCR)", "I–V", "ECM, VYI, NC XI todos sacrificados", "Invasión directa de estas estructuras"],
+            ["DCRM Tipo I", "I–V", "ECM + VYI preservados; NC XI sacrificado", "Infrecuente: NC XI englobado por ganglio"],
+            ["DCRM Tipo II", "I–V", "NC XI + VYI preservados; ECM sacrificado", "Enfermedad voluminosa en IIB/posterior"],
+            ["DCRM Tipo III (Bocca)", "I–V", "ECM + VYI + NC XI todos preservados", "cN+ sin invasión estructural"],
+            ["DCS Supraomohioidea", "I–III", "ECM, VYI, NC XI preservados", "cN0 cavidad oral"],
+            ["DCS Lateral", "II–IV", "ECM, VYI, NC XI preservados", "cN0/cN+ laringe, hipofaringe, orofaringe"],
+            ["DCS Central", "VI", "Preserva estructuras laterales", "Ca. de tiroides, tumores primarios subglóticos"],
+            ["DC Ampliada", "I–V + extra", "Variable; puede sacrificar carótida, NC XII", "Enfermedad más allá de los niveles estándar"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Elección del Tipo de Disección",
+          "content": "Para un tumor primario de cavidad oral cN0 que requiere tratamiento cervical electivo, la DCS supraomohioidea (niveles I–III) es el estándar de tratamiento según NCCN 2024. Si la biopsia intraoperatoria por congelación o la histología definitiva muestran extensión extracapsular (EEC) o múltiples ganglios positivos, está indicada la quimiorradioterapia adyuvante con cisplatino (RTOG 9501/EORTC 22931). Para la enfermedad cN+, la DCRM Tipo III logra un control regional equivalente a la DCR con una morbilidad del hombro significativamente menor."
+        }
+      ]
+    },
+    {
+      "id": "A4-S3",
+      "title": "Disección Cervical Electiva — Evidencia y Toma de Decisiones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La decisión de realizar una disección cervical electiva (DCE) en el cuello clínicamente negativo (cN0) se basa en el riesgo estimado de metástasis ganglionar oculta. Un umbral de **≥20% de riesgo de metástasis oculta** es la indicación ampliamente aceptada para el tratamiento cervical electivo, ya que este riesgo supera la morbilidad de la enfermedad microscópica no tratada. El carcinoma epidermoide de cavidad oral con profundidad de invasión (PI) ≥4 mm conlleva un riesgo suficiente para indicar DCE. El ensayo fundamental **SENTI-MELA** (D'Cruz AK et al., NEJM 2015) aleatorizó a 596 pacientes con carcinoma epidermoide de cavidad oral lateralizado cT1–T2 cN0 entre DCE inmediata y DC terapéutica (si se producía recidiva cervical). La DCE inmediata demostró una mejora significativa en la **supervivencia global** (80,0% frente a 67,5% a los 3 años, HR 0,64; IC 95%: 0,45–0,92; p=0,01) y en la **supervivencia libre de enfermedad** (69,5% frente a 45,9%). Este ensayo estableció de forma definitiva la DCE como estándar de tratamiento para el carcinoma epidermoide de cavidad oral cN0, sustituyendo el anterior enfoque de «vigilancia activa». A pesar de que la DCE es el estándar, la biopsia del ganglio centinela (BGC) es una alternativa emergente para el carcinoma epidermoide de cavidad oral T1–T2 cN0. El estudio **SENT** (Schilling C et al., Lancet Oncology 2015) demostró que la BGC tiene una sensibilidad del 86% y un valor predictivo negativo del 95% para la detección de metástasis ocultas, con una morbilidad menor que la DCE. La BGC está siendo adoptada en centros de alto volumen como procedimiento de estadificación que evita una DCE completa cuando el ganglio centinela es negativo."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Resultado Clave del SENTI-MELA",
+          "content": "SENTI-MELA (D'Cruz, NEJM 2015): la DCE inmediata mejoró la SG del 67,5% al 80,0% a los 3 años (HR 0,64; p=0,01) en el carcinoma epidermoide de cavidad oral cT1–T2 cN0. Este ensayo cerró el debate sobre la disección cervical electiva frente a la terapéutica — la DCE es ahora el estándar de tratamiento. El número necesario a tratar para salvar una vida fue de aproximadamente 8."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Profundidad de Invasión frente a Grosor Tumoral",
+          "content": "La profundidad de invasión (PI) y el grosor tumoral NO son lo mismo. La PI se mide desde la membrana basal de la mucosa normal adyacente hasta el punto más profundo de invasión, y no desde la superficie del tumor. Un tumor exofítico puede tener una PI mínima a pesar de un grosor considerable. La 8.ª edición del AJCC utiliza la PI para la subclasificación del T: PI >5 mm → T2; PI >10 mm → T3 (independientemente del tamaño)."
+        }
+      ]
+    },
+    {
+      "id": "A4-S4",
+      "title": "PET-TC y el Cuello cN+: Ensayo PET-NECK",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "En pacientes con carcinoma epidermoide de cabeza y cuello avanzado (T3–T4 o cN+) tratados con quimiorradioterapia (QRT) primaria, el manejo de la enfermedad cervical residual ha requerido históricamente una disección cervical planificada (DCP) tras la QRT. El ensayo **PET-NECK** (Mehanna H et al., NEJM 2016) evaluó si la vigilancia mediante PET-TC postcirugía podía sustituir con seguridad a la DCP. Este ensayo clínico aleatorizado multicéntrico aleatorizó a 564 pacientes con CEHC N2–N3 tratados con QRT primaria basada en platino, bien a vigilancia con PET-TC a las 12 semanas postratamiento (con disección cervical solo en caso de PET positivo) o bien a disección cervical planificada. El grupo de PET-TC tuvo una **supervivencia global a 2 años** equivalente (84,9% frente a 81,5%; p=0,42) con significativamente menos disecciones cervicales realizadas (54 frente a 221 intervenciones). El grupo de PET-TC también presentó menores tasas de complicaciones y calidad de vida equivalente. Es importante destacar que la respuesta metabólica completa en PET-TC (Deauville 1–3) predijo la respuesta patológica completa con un valor predictivo negativo del 93%. Estos resultados establecieron la vigilancia con PET-TC como el enfoque preferido tras la QRT primaria para la enfermedad N2–N3, evitando disecciones cervicales innecesarias en la mayoría de los pacientes que logran una respuesta completa."
+        },
+        {
+          "type": "table",
+          "title": "Ensayo PET-NECK — Resumen de Resultados Clave",
+          "headers": ["Resultado", "Vigilancia PET-TC", "Disección Cervical Planificada", "Valor p"],
+          "rows": [
+            ["SG a 2 años", "84,9%", "81,5%", "0,42 (NS)"],
+            ["Disecciones cervicales realizadas", "54/282", "221/282", "< 0,001"],
+            ["Tasa de complicaciones mayores", "Menor", "Mayor", "< 0,05"],
+            ["Coste medio por paciente", "£1.521 menos", "Referencia", "< 0,001"],
+            ["VPN del PET negativo", "93%", "N/A", "—"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Aplicación del PET-NECK",
+          "content": "PET-NECK demostró que en el CEHC N2–N3 tratado con QRT primaria, el PET-TC a las 12 semanas puede sustituir con seguridad a la disección cervical planificada. Respuesta metabólica completa (Deauville 1–3) = no se necesita cirugía en >93% de los casos. La cirugía se reserva únicamente para la enfermedad residual PET-positiva (Deauville 4–5)."
+        }
+      ]
+    },
+    {
+      "id": "A4-S5",
+      "title": "Anatomía Quirúrgica y Técnica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Una disección cervical segura requiere un conocimiento detallado de las estructuras en riesgo. El **nervio espinal accesorio (NC XI)** emerge por el borde posterior del ECM aproximadamente 1 cm por encima del punto de Erb (unión del nervio auricular mayor con el borde posterior del ECM). A continuación, atraviesa el triángulo posterior para entrar en el trapecio. Su lesión provoca caída del hombro, limitación de la abducción y dolor crónico. Su preservación requiere una disección cuidadosa de los niveles IIB y VA. La **vena yugular interna (VYI)** se encuentra dentro de la vaina carotídea; su ligadura es necesaria en la DC radical y conlleva el riesgo de hipertensión venosa cerebral si se sacrifica bilateralmente de forma simultánea (debe realizarse de forma diferida). El **nervio frénico** discurre por la superficie anterior del músculo escaleno anterior; está en riesgo durante la disección de los niveles IV y supraclavicular. Su lesión causa parálisis ipsilateral del hemidiafragma. El **conducto torácico** desemboca en el sistema venoso en la unión de la VYI izquierda y la vena subclavia; está en riesgo durante la disección izquierda del nivel IV. La **rama marginal mandibular del nervio facial (NC VII)** discurre profunda al platisma a lo largo del borde inferior de la mandíbula, en riesgo durante la disección del nivel I. El **nervio hipogloso (NC XII)** rodea la arteria carótida externa por encima de la arteria lingual, en riesgo durante la disección del nivel II. Las incisiones estándar para la disección cervical incluyen la incisión de MacFee de doble horizontal (mejor vascularización para cuellos previamente irradiados), la incisión en «palo de hockey» (componente vertical en el borde anterior del ECM con extensión horizontal a lo largo de la mastoides) y la incisión de Schobinger modificada."
+        },
+        {
+          "type": "table",
+          "title": "Estructuras en Riesgo Durante la Disección Cervical — Localización Anatómica y Consecuencia Clínica de su Lesión",
+          "headers": ["Estructura", "Localización / Nivel de Riesgo", "Consecuencia de la Lesión", "Prevención"],
+          "rows": [
+            ["Nervio espinal accesorio (NC XI)", "Posterior al ECM, triángulo posterior", "Caída del hombro, abducción limitada, dolor crónico", "Identificar en el punto de Erb; disección cuidadosa de IIB/VA"],
+            ["Rama marginal mandibular", "Profunda al platisma, bajo la mandíbula", "Debilidad/asimetría del labio inferior", "Incidir platisma bajo el ángulo mandibular; ligar vena facial en posición baja"],
+            ["Nervio frénico", "Superficie del escaleno anterior", "Parálisis ipsilateral del hemidiafragma", "Mantenerse superficial a la fascia prevertebral en el Nivel IV"],
+            ["Nervio hipogloso (NC XII)", "Rodea la ACE por encima de la a. lingual", "Desviación/atrofia ipsilateral de la lengua", "Identificar antes de ligar arterias facial/lingual"],
+            ["Conducto torácico", "Unión VYI izquierda-subclavia", "Fístula quilosa", "Nivel IV izquierdo: ligar todos los pequeños vasos, comprobar con Valsalva"],
+            ["Tronco simpático", "Fascia prevertebral, profundo a vaina carotídea", "Síndrome de Horner (ptosis, miosis, anhidrosis)", "Preservar la fascia prevertebral"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Cuello Previamente Irradiado",
+          "content": "En el cuello previamente irradiado, los planos tisulares están obliterados, la vascularización está reducida y la cicatrización está deteriorada. La incisión de MacFee de doble horizontal proporciona una vascularización superior en comparación con las incisiones en delantal, al evitar cortes verticales a través del tejido irradiado. Debe considerarse la reconstrucción con colgajo libre vascularizado con piel si el cierre de la herida queda bajo tensión. La rotura de la arteria carótida es una complicación infrecuente pero catastrófica en cuellos previamente irradiados con dehiscencia de herida."
+        }
+      ]
+    },
+    {
+      "id": "A4-S6",
+      "title": "Complicaciones de la Disección Cervical",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones de la disección cervical se clasifican como intraoperatorias, postoperatorias precoces y tardías. La **fístula quilosa** es la complicación seria más frecuente de la disección cervical izquierda (y ocasionalmente derecha), con una incidencia del 1–2,5%. Se presenta como un aumento del débito del drenaje con líquido lechoso tras la alimentación enteral; se confirma con un nivel de triglicéridos en el líquido del drenaje >110 mg/dL o tinción positiva con rojo Sudan. El manejo inicial es conservador: dieta hipolipídica (triglicéridos de cadena media), presión negativa sobre la herida y octreótido (análogo de somatostatina) para reducir el flujo linfático. El drenaje persistente (>500 mL/día durante >5 días) requiere reexploración quirúrgica y ligadura del conducto torácico o del punto de fuga. El quilotórax es una secuela infrecuente pero grave. El **hematoma** suele presentarse en las 4–6 horas siguientes a la cirugía con tumefacción cervical expansiva y posible compromiso de vía aérea; requiere reintervención quirúrgica inmediata. La **dehiscencia de herida** es más frecuente en cuellos irradiados y previamente intervenidos; debe considerarse la reconstrucción con colgajo libre de forma profiláctica. La **lesión del nervio espinal accesorio** produce el síndrome del hombro: abducción limitada del hombro (<90°), caída del hombro, alamiento escapular y dolor crónico. La fisioterapia puede compensar parcialmente; en los casos de sección completa, puede intentarse la neurorrafia primaria o el injerto nervioso (nervio auricular mayor). **Lesión de la arteria carótida**: la arteriotomía inadvertida intraoperatoria requiere reparación inmediata; la rotura arterial carotídea tardía (síndrome de rotura carotídea) es una complicación potencialmente mortal, típicamente en una herida previamente irradiada o infectada, que se presenta con un sangrado de aviso («heraald bleed») seguido de hemorragia catastrófica. Manejo: compresión digital, embolización inmediata o ligadura quirúrgica."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones de la Disección Cervical — Reconocimiento y Manejo",
+          "headers": ["Complicación", "Incidencia", "Diagnóstico", "Manejo"],
+          "rows": [
+            ["Fístula quilosa", "1–2,5%", "Líquido lechoso en drenaje postingesta; TG >110 mg/dL", "Dieta hipolipídica con TCM, octreótido, PNS; cirugía si >500 mL/día ×5 días"],
+            ["Hematoma", "1–3%", "Masa cervical expansiva, compromiso de vía aérea, dentro de las 6 h", "Reintervención quirúrgica inmediata para evacuación"],
+            ["Lesión NC XI (hombro)", "5–25%", "Caída del hombro, abducción <90°, alamiento escapular", "Fisioterapia; neurorrafia/injerto si sección completa"],
+            ["Dehiscencia de herida", "2–5%", "Dehiscencia de herida, carótida expuesta", "Desbridamiento + reconstrucción con colgajo libre"],
+            ["Rotura carotídea", "<1% global, mayor post-RDT", "Sangrado de aviso seguido de hemorragia", "Compresión digital; embolización de urgencia o ligadura"],
+            ["Paresia del nervio frénico", "0,5–1%", "Hemidiafragma elevado en Rx tórax; disnea", "Conservador (habitualmente transitorio); plicatura del diafragma si permanente"],
+            ["Síndrome de Horner", "<1%", "Ptosis, miosis, anhidrosis ipsilaterales", "Sin tratamiento; informar al paciente (permanente si se secciona el tronco simpático)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Manejo de la Fístula Quilosa",
+          "content": "NO dejar al paciente en ayunas por una fístula quilosa — la dieta con triglicéridos de cadena media (TCM) es la estrategia conservadora preferida, ya que los TCM eluden el conducto torácico. La nutrición parenteral total (NPT) estándar no suele ser necesaria salvo que el débito sea muy elevado. Debe monitorizarse el recuento total de linfocitos, ya que una fístula importante causa linfopenia e inmunosupresión."
+        }
+      ]
+    },
+    {
+      "id": "A4-S7",
+      "title": "Informe Patológico y Factores Pronósticos",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La evaluación patológica de la pieza de disección cervical proporciona información crítica de estadificación y pronóstica. El conjunto mínimo de datos patológicos (según los protocolos CAP/RCPath) incluye: número total de ganglios extraídos, número de ganglios positivos, presencia y extensión de la **extensión extracapsular (EEC)**, nivel ganglionar de los ganglios positivos y tamaño del depósito metastásico mayor. La **extensión extracapsular** se define como el tumor que se extiende más allá de la cápsula ganglionar hacia el tejido blando circundante, con o sin reacción estromal desmoplásica. La EEC es el hallazgo patológico adverso más importante: es una indicación para quimiorradioterapia adyuvante basada en cisplatino (según RTOG 9501 y EORTC 22931) y representa una reducción significativa del pronóstico. La 8.ª edición del AJCC incluye ahora la EEC como modificador del estadio N: N+EEC se clasifica como N3b independientemente del tamaño o el número de ganglios en la enfermedad negativa para VPH. El **rendimiento del espécimen** (número de ganglios extraídos) es un importante indicador de calidad. Se recomienda un mínimo de **18 ganglios** de una disección completa de niveles I–V. Un muestreo inadecuado puede infraestadificar al paciente. La revisión patológica también debe documentar los depósitos de tejido blando, el tamaño del ganglio mayor y la distancia del tumor a los márgenes quirúrgicos. Para el carcinoma epidermoide de orofaringe asociado a VPH, se aplican los mismos criterios anatómicos pero con tablas de estadificación separadas de la 8.ª edición del AJCC que reflejan el pronóstico notablemente mejor de esta entidad (el N3 en el CEOP VPH-positivo tiene mejor pronóstico que el N2b en el CEHC VPH-negativo)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — EEC como Indicación de Quimiorradioterapia",
+          "content": "La extensión extracapsular (EEC) es el hallazgo patológico clave que cambia el tratamiento adyuvante de radioterapia sola a quimiorradioterapia concurrente con cisplatino. RTOG 9501 (Cooper, NEJM 2004) demostró que el beneficio en supervivencia de añadir cisplatino a la radioterapia postoperatoria se limitaba a los pacientes con EEC y/o márgenes quirúrgicos positivos. La EEC también sube de estadio los tumores primarios de cavidad oral, orofaringe, laringe e hipofaringe a N3b en la 8.ª edición del AJCC."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Pon a prueba tus conocimientos sobre la clasificación de la disección cervical, la técnica quirúrgica, el manejo basado en la evidencia y las complicaciones con 20 preguntas tipo examen de residencia.",
+    "questions": [
+      {
+        "id": "A4-Q1",
+        "stem": "Un varón de 45 años se somete a una disección cervical selectiva supraomohioidea derecha (niveles I–III) por un carcinoma epidermoide de lengua lateral derecha cT2 cN0 con profundidad de invasión de 7 mm. La histología definitiva muestra 2/18 ganglios positivos en el nivel II sin extensión extracapsular. Los márgenes de resección quirúrgica son libres (>5 mm). Según las guías actuales, ¿cuál es el tratamiento adyuvante recomendado?",
+        "options": {
+          "A": "Observación únicamente — márgenes libres y sin EEC",
+          "B": "Radioterapia adyuvante en el cuello ipsilateral",
+          "C": "Quimiorradioterapia concurrente adyuvante con cisplatino",
+          "D": "Completar la disección cervical con los niveles IV–V seguido de observación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La radioterapia adyuvante (sin cisplatino) está indicada en la enfermedad pN+ (2 o más ganglios positivos) cuando los márgenes quirúrgicos son libres y no hay extensión extracapsular. Las indicaciones para añadir cisplatino (quimiorradioterapia concurrente) según RTOG 9501/EORTC 22931 son la EEC y/o los márgenes quirúrgicos positivos. Con márgenes libres y sin EEC, la radioterapia sola en el cuello es adecuada. NCCN 2024 Cánceres de Cabeza y Cuello recomienda RTP postoperatoria para ≥2 ganglios positivos sin EEC.",
+          "wrong": {
+            "A": "La observación no es adecuada en la enfermedad pN+ — incluso sin EEC, 2 ganglios positivos en el nivel II justifican radioterapia adyuvante para reducir el riesgo de recidiva regional.",
+            "C": "La quimiorradioterapia concurrente con cisplatino se reserva para los casos con extensión extracapsular (EEC) y/o márgenes quirúrgicos positivos, ninguno de los cuales está presente aquí. Añadir cisplatino sin estas indicaciones aumenta la toxicidad sin beneficio demostrado en supervivencia.",
+            "D": "La disección complementaria de los niveles IV–V estaría indicada si la disección primaria fue inadvertidamente incompleta o si las imágenes mostraban ganglios sospechosos adicionales, no como tratamiento adyuvante sistemático tras enfermedad pN+ con márgenes libres."
+          },
+          "guideline": "NCCN Cánceres de Cabeza y Cuello v1.2024 — Principios de Radioterapia y Tratamiento Sistémico; RTOG 9501 (Cooper NEJM 2004); EORTC 22931 (Bernier NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004): QRT postoperatoria frente a RTP sola — el beneficio de añadir cisplatino se limitó a los pacientes con EEC y/o márgenes positivos; sin beneficio para enfermedad pN+ con márgenes libres y sin EEC.",
+          "pearl": "Las dos indicaciones para cisplatino adyuvante en el CEHC son: (1) extensión extracapsular y (2) márgenes quirúrgicos positivos. Dos o más ganglios positivos sin EEC = RTP sola, no QRT."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q2",
+        "stem": "¿Cuál de las siguientes opciones define correctamente el 'Nivel IIB' de la clasificación ganglionar cervical?",
+        "options": {
+          "A": "Ganglios inferiores al vientre posterior del digástrico y superiores al hioides",
+          "B": "Ganglios del triángulo posterior entre la base del cráneo y el vientre inferior del omohioideo",
+          "C": "Ganglios yugulares superiores posteriores al nervio espinal accesorio (NC XI), desde la base del cráneo al hioides",
+          "D": "Ganglios yugulares superiores anteriores a la vena yugular interna, desde la base del cráneo al hioides"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El Nivel IIB se define como el grupo de ganglios yugulares superiores situados posterior al nervio espinal accesorio (NC XI), extendiéndose desde la base del cráneo hasta el borde inferior del hueso hioides. El límite entre IIA e IIB es el nervio espinal accesorio, no la vena yugular interna. El IIA se sitúa anterior al NC XI; el IIB posterior a él.",
+          "wrong": {
+            "A": "Esta descripción se aproxima al Nivel IB (triángulo submandibular), no al Nivel IIB. El límite entre I y II es el vientre posterior del digástrico.",
+            "B": "Esto describe el Nivel VA (ganglios del triángulo posterior por encima del omohioideo), no el Nivel IIB. El Nivel V pertenece íntegramente al triángulo posterior; el Nivel II es yugular superior.",
+            "D": "El Nivel IIA (no el IIB) contiene los ganglios anteriores al nervio espinal accesorio. La distinción IIA/IIB se hace por el nervio, no por la vena."
+          },
+          "guideline": "Robbins KT et al. Consensus Statement on the Classification and Terminology of Neck Dissection (AAO-HNS/AHNS, Arch Otolaryngol Head Neck Surg 2008)",
+          "trial": "Shah JP (Am J Surg 1990): los patrones de metástasis ganglionares cervicales mostraron que el Nivel II es la estación de drenaje de primer orden más frecuente para los tumores primarios de cavidad oral, orofaringe y laringe.",
+          "pearl": "El nervio espinal accesorio (NC XI) es la línea divisoria anatómica entre el Nivel IIA (anterior) y el Nivel IIB (posterior). Para los tumores primarios amigdalinos, el IIB tiene un riesgo significativo y no debe preservarse."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q3",
+        "stem": "El ensayo SENTI-MELA (D'Cruz AK et al., NEJM 2015) aleatorizó a 596 pacientes con carcinoma epidermoide de cavidad oral cT1–T2 cN0 entre disección cervical electiva (DCE) inmediata y disección cervical terapéutica (DCT). ¿Cuál fue el hallazgo principal respecto a la supervivencia global?",
+        "options": {
+          "A": "Sin diferencia significativa en SG entre DCE y DCT (HR 1,02; p=0,87)",
+          "B": "La DCE mejoró la SG a 3 años del 67,5% al 80,0% (HR 0,64; p=0,01)",
+          "C": "La DCT mejoró la SG al evitar cirugía innecesaria en el 70% de los pacientes sin ganglios",
+          "D": "La DCE mejoró la supervivencia libre de enfermedad pero no la supervivencia global"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "SENTI-MELA demostró una mejora significativa en la supervivencia global con DCE inmediata: 80,0% frente a 67,5% a los 3 años (HR 0,64; IC 95%: 0,45–0,92; p=0,01). La supervivencia libre de enfermedad también mejoró significativamente (69,5% frente a 45,9%). Este ensayo estableció de forma definitiva la DCE como estándar de tratamiento para el carcinoma epidermoide de cavidad oral cT1–T2 cN0, cerrando el debate sobre la vigilancia activa.",
+          "wrong": {
+            "A": "Esto representaría un resultado nulo — el ensayo demostró un beneficio en supervivencia significativo para la DCE. Esta opción es incorrecta.",
+            "C": "El argumento a favor de la vigilancia activa (DCT) era que solo ~30% de los pacientes cN0 tienen metástasis ocultas, ahorrando cirugía innecesaria al 70%. Sin embargo, SENTI-MELA demostró que este enfoque resulta en una supervivencia significativamente inferior, convirtiéndolo en una estrategia inaceptable.",
+            "D": "SENTI-MELA demostró mejora tanto en la supervivencia libre de enfermedad COMO en la supervivencia global con DCE, no solo en la SLE. El beneficio en SG (HR 0,64) es el resultado del objetivo principal."
+          },
+          "guideline": "NCCN Cánceres de Cabeza y Cuello v1.2024 — Labio y Cavidad Oral; EACMFS Head and Neck Oncology Guidelines 2023",
+          "trial": "SENTI-MELA (D'Cruz AK et al., NEJM 2015): DCE inmediata frente a DC terapéutica en 596 carcinomas epidermoides de cavidad oral cT1–T2 cN0; SG a 3 años 80,0% frente a 67,5% (HR 0,64; p=0,01); estableció la DCE como estándar de tratamiento.",
+          "pearl": "SENTI-MELA es el ensayo más importante en el manejo del cáncer de cavidad oral. Memoriza las cifras clave: beneficio en SG a 3 años 80% frente a 67,5%, HR 0,64, p=0,01. La DCE es ahora obligatoria para el carcinoma epidermoide de cavidad oral cN0 independientemente del estadio T."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q4",
+        "stem": "Una mujer de 58 años con carcinoma epidermoide de base de lengua T3N2bM0 (VPH-negativo) completa quimiorradioterapia concurrente primaria. La PET-TC a las 12 semanas postratamiento muestra respuesta metabólica completa (puntuación Deauville 2) en el tumor primario y el cuello. ¿Cuál es el siguiente paso recomendado según la evidencia del ensayo PET-NECK?",
+        "options": {
+          "A": "Disección cervical planificada inmediata independientemente del resultado de la PET-TC",
+          "B": "Disección cervical planificada porque la paciente es VPH-negativa",
+          "C": "Vigilancia con exploración clínica y repetición de las pruebas de imagen — sin disección cervical",
+          "D": "Cirugía robótica transoral de rescate en la base de la lengua"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "PET-NECK (Mehanna, NEJM 2016) demostró que la vigilancia con PET-TC a las 12 semanas puede sustituir con seguridad a la disección cervical planificada para el CEHC N2–N3 tratado con QRT primaria. Una puntuación Deauville de 1–3 (respuesta metabólica completa o casi completa) tiene un valor predictivo negativo del 93% para enfermedad patológica residual. En este escenario, una respuesta metabólica completa Deauville 2 indica que no se necesita cirugía y la paciente debe continuar con vigilancia.",
+          "wrong": {
+            "A": "La disección cervical planificada independientemente del resultado de la PET era el estándar histórico, pero actualmente ha sido superado por la vigilancia con PET-TC según PET-NECK. Realizar DC en todos los pacientes cN+ sometería a la mayoría (que alcanzan respuesta completa) a cirugía innecesaria.",
+            "B": "El estatus de VPH no fue un modificador significativo del resultado del PET-NECK — la equivalencia en supervivencia de la vigilancia con PET frente a la DC planificada se aplicó independientemente del estatus de VPH. Aunque la enfermedad VPH-negativa tiene peor pronóstico, una respuesta metabólica completa en PET predice la respuesta patológica completa con alto VPN.",
+            "D": "La TORS de rescate estaría indicada para enfermedad residual o recidivante en el tumor primario, no para una respuesta metabólica completa. La cirugía de rescate es de alto riesgo y se reserva para el fracaso local/regional definitivo."
+          },
+          "guideline": "NCCN Cánceres de Cabeza y Cuello v1.2024 — Orofaringe (VPH-Negativo); EACMFS Head and Neck Oncology Guidelines 2023",
+          "trial": "PET-NECK (Mehanna H et al., NEJM 2016): vigilancia con PET-TC frente a DC planificada en 564 CEHC N2–N3; SG equivalente a 2 años (84,9% frente a 81,5%); significativamente menos disecciones cervicales (54 frente a 221); estableció la vigilancia con PET como estándar de tratamiento.",
+          "pearl": "PET-NECK: Respuesta metabólica completa (Deauville 1–3) = no se necesita disección cervical, VPN 93%. La disección cervical es solo para la enfermedad residual PET-positiva (Deauville 4–5). Esto se aplica independientemente del estatus de VPH."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q5",
+        "stem": "Durante una disección cervical radical modificada tipo III izquierda (disección de Bocca) por carcinoma epidermoide N2b del seno piriforme, el cirujano observa líquido lechoso en el drenaje en el segundo día postoperatorio tras iniciar la alimentación enteral. El nivel de triglicéridos en el líquido del drenaje es de 180 mg/dL. ¿Cuál es el manejo inicial más apropiado?",
+        "options": {
+          "A": "Reintervención quirúrgica inmediata para ligadura del conducto torácico",
+          "B": "Cambiar a dieta absoluta y nutrición parenteral total (NPT)",
+          "C": "Dieta hipolipídica con triglicéridos de cadena media (TCM) y octreótido subcutáneo",
+          "D": "Inserción de drenaje torácico y pleurodesis"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El diagnóstico es una fístula quilosa (TG en drenaje >110 mg/dL confirma líquido quiloso). El manejo inicial es conservador: cambiar a una dieta hipolipídica con triglicéridos de cadena media (TCM) que elude el conducto torácico, reduciendo drásticamente el flujo de quilo. El octreótido subcutáneo (análogo de somatostatina) reduce adicionalmente el débito linfático. Mantener la nutrición enteral con fórmula de TCM es preferible a la dieta absoluta + NPT, ya que preserva la integridad intestinal y es igualmente eficaz para reducir el débito. La cirugía se reserva para el fracaso del manejo conservador (>500 mL/día durante >5 días, o débito en aumento).",
+          "wrong": {
+            "A": "La reintervención quirúrgica inmediata es prematura — el manejo conservador con dieta baja en grasas con TCM y octreótido resuelve con éxito el 70–80% de las fístulas quilosas. La cirugía se reserva para fístulas de alto débito refractarias (>500 mL/día durante más de 5 días a pesar de las medidas conservadoras).",
+            "B": "La dieta absoluta + NPT es un enfoque más antiguo. La fórmula enteral de TCM es preferible porque es igualmente eficaz para reducir el débito quiloso, preserva la función de la barrera mucosa intestinal y evita las complicaciones de la NPT. La dieta absoluta sola sin sustitución por TCM no reduce significativamente el flujo del conducto torácico.",
+            "D": "El drenaje torácico y la pleurodesis son tratamientos para el quilotórax (colección pleural de quilo), no para una fístula quilosa cervical del drenaje de una herida cervical. En la fístula quilosa cervical, generalmente no hay componente pleural que requiera drenaje torácico."
+          },
+          "guideline": "AAOMS Neck Dissection Guidelines 2023; EACMFS 2023 — Complicaciones de la Disección Cervical",
+          "trial": "Mra ZC et al. (Head Neck 1999): el manejo conservador con dieta baja en grasas/TCM resuelve la mayoría de las fístulas quilosas cervicales; el octreótido añadido reduce significativamente el débito en fístulas de alto flujo. La reexploración quirúrgica se reserva para débito >500 mL/día después de 5 días.",
+          "pearl": "Fístula quilosa: TG >110 mg/dL en líquido de drenaje confirma el diagnóstico. Primera línea = fórmula de TCM (NO dieta absoluta/NPT) + octreótido. Cirugía si débito >500 mL/día durante >5 días. La disección cervical izquierda = mayor riesgo (término del conducto torácico)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q6",
+        "stem": "Una cirujana realiza una disección cervical selectiva derecha (niveles I–III) por un carcinoma epidermoide cT2N0 de mucosa yugal derecha. Durante la disección del nivel IB, identifica un nervio que discurre profundo al platisma a lo largo del borde inferior de la mandíbula. La lesión de este nervio causaría con mayor probabilidad:",
+        "options": {
+          "A": "Desviación y atrofia ipsilateral de la lengua",
+          "B": "Pérdida de sensibilidad en los dos tercios anteriores de la lengua",
+          "C": "Debilidad del labio inferior ipsilateral y asimetría en la sonrisa",
+          "D": "Caída del hombro ipsilateral y limitación de la abducción del brazo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El nervio descrito es la rama marginal mandibular del nervio facial (NC VII). Discurre profundo al platisma a lo largo del borde inferior de la mandíbula, típicamente 1–2 cm por debajo del borde mandibular. Su lesión produce debilidad ipsilateral del labio inferior y asimetría, con caída de la comisura bucal al sonreír o mostrar los dientes — una secuela estética y funcional significativa.",
+          "wrong": {
+            "A": "La desviación y atrofia de la lengua son consecuencia de la lesión del nervio hipogloso (NC XII). El NC XII rodea la arteria carótida externa a nivel del asta mayor del hioides, por encima de la localización descrita de la rama marginal mandibular.",
+            "B": "La pérdida de sensibilidad en los dos tercios anteriores de la lengua es consecuencia de la lesión del nervio lingual. El nervio lingual está en riesgo durante la exéresis de la glándula submandibular (pasando entre la superficie medial de la mandíbula y el músculo hipogloso), no típicamente durante la disección del nivel IB cerca del borde mandibular inferior.",
+            "D": "La caída del hombro y la limitación de la abducción del brazo son consecuencia de la lesión del nervio espinal accesorio (NC XI). El NC XI está en riesgo en el triángulo posterior (niveles IIB y VA), no durante la disección submandibular del nivel IB."
+          },
+          "guideline": "AAOMS Neck Dissection Guidelines 2023; Robbins KT et al. (Arch Otolaryngol Head Neck Surg 2008)",
+          "trial": "Upile T et al. (Head Neck 2007): la identificación y preservación de la rama marginal mandibular reduce la parálisis cosméticamente significativa del labio inferior tras la disección cervical del 14% a menos del 2%.",
+          "pearl": "Rama marginal mandibular = asimetría del labio inferior. Discurre profunda al platisma, 1–2 cm por debajo del borde mandibular en el nivel IB. Proteger incidiendo el platisma por debajo del ángulo y ligando la vena facial en posición baja antes de elevar el colgajo superiormente."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q7",
+        "stem": "La disección cervical radical (DCR) se diferencia de la disección cervical radical modificada Tipo III (DCRM Tipo III, disección de Bocca) en que la DCR sacrifica adicionalmente tres estructuras. ¿Cuáles son?",
+        "options": {
+          "A": "Glándula submandibular, glándula parótida y apófisis estiloides",
+          "B": "Músculo esternocleidomastoideo, vena yugular interna y nervio espinal accesorio",
+          "C": "Músculo digástrico, músculo omohioideo y vena subclavia",
+          "D": "Músculo esternocleidomastoideo, vena yugular externa y nervio frénico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La disección cervical radical (DCR) extirpa los niveles I–V en bloque con sacrificio del músculo esternocleidomastoideo (ECM), la vena yugular interna (VYI) y el nervio espinal accesorio (NC XI). La disección cervical radical modificada Tipo III (DCRM Tipo III, denominada también disección de Bocca) extirpa los mismos niveles ganglionares I–V pero preserva las tres estructuras: ECM, VYI y NC XI. La DCRM Tipo III tiene resultados oncológicos equivalentes a la DCR para la mayoría de los CEHC con una reducción significativa de la morbilidad del hombro.",
+          "wrong": {
+            "A": "La glándula submandibular se extirpa tanto en la DCR como en la DCRM (forma parte de la disección del nivel IB). La cola parotídea y la apófisis estiloides no se extirpan de forma sistemática en ninguna de las dos disecciones salvo que estén específicamente afectadas.",
+            "C": "El vientre anterior del digástrico y el omohioideo no se sacrifican típicamente en ninguno de los dos procedimientos salvo que estén directamente afectados. La vena subclavia no forma parte del espécimen estándar en la disección cervical.",
+            "D": "La vena yugular externa se liga de forma sistemática en la disección cervical, pero esto no es lo que distingue la DCR de la DCRM. El nervio frénico está en riesgo pero no se sacrifica de forma sistemática. Los rasgos distintivos de la DCR son el sacrificio del ECM, la VYI y el NC XI."
+          },
+          "guideline": "Robbins KT et al. Consensus Statement on the Classification and Terminology of Neck Dissection (AAO-HNS/AHNS, Arch Otolaryngol Head Neck Surg 2008)",
+          "trial": "Bocca E et al. (Ann Otol Rhinol Laryngol 1984): la disección cervical funcional con preservación del ECM, la VYI y el NC XI mostró un control regional equivalente a la disección cervical radical con una morbilidad del hombro significativamente reducida — estableció la base para la DCRM Tipo III.",
+          "pearl": "La DCR sacrifica las 3 estructuras no linfáticas: ECM + VYI + NC XI. La DCRM preserva una o más: Tipo I preserva el NC XI; Tipo II preserva NC XI + VYI; Tipo III (Bocca) preserva las tres. La equivalencia oncológica de la DCRM III frente a la DCR para la mayoría de la enfermedad cN+ está establecida."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q8",
+        "stem": "Un varón de 62 años con carcinoma epidermoide de laringe pT2 N2b (VPH-negativo) se somete a laringectomía total y disección cervical radical modificada derecha. La anatomía patológica demuestra 4 ganglios positivos en los niveles II–IV con extensión extracapsular presente. Los márgenes quirúrgicos del tumor primario son libres (>5 mm). ¿Qué tratamiento adyuvante está recomendado?",
+        "options": {
+          "A": "Observación — la cirugía logró márgenes libres",
+          "B": "Radioterapia adyuvante sola en el cuello",
+          "C": "Quimiorradioterapia concurrente adyuvante con cisplatino",
+          "D": "Quimiorradioterapia adyuvante con carboplatino — cisplatino contraindicado tras laringectomía"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La extensión extracapsular (EEC) es un hallazgo patológico de alto riesgo que obliga a la quimiorradioterapia concurrente adyuvante con cisplatino (QRT) independientemente del estado de los márgenes. Tanto RTOG 9501 (Cooper, NEJM 2004) como EORTC 22931 (Bernier, NEJM 2004) demostraron que el beneficio en supervivencia de añadir cisplatino a la radioterapia postoperatoria se limitaba a los pacientes con EEC y/o márgenes quirúrgicos positivos. La EEC está presente aquí, estableciendo la indicación de QRT aunque los márgenes sean libres.",
+          "wrong": {
+            "A": "La observación no es adecuada en presencia de EEC, que es un predictor independiente de recidiva locorregional y constituye una indicación basada en guías para tratamiento adyuvante independientemente del estado de los márgenes.",
+            "B": "La radioterapia sola es insuficiente cuando hay EEC. Tanto RTOG 9501 como EORTC 22931 demostraron que el beneficio en SG de añadir cisplatino a la radioterapia fue impulsado específicamente por el subgrupo con EEC.",
+            "D": "El cisplatino no está contraindicado tras la laringectomía total. La referencia al carboplatino refleja un error conceptual frecuente — el carboplatino se utiliza como sustituto del cisplatino solo en pacientes con contraindicaciones al cisplatino (hipoacusia, disfunción renal, neuropatía), no de forma sistemática tras laringectomía."
+          },
+          "guideline": "NCCN Cánceres de Cabeza y Cuello v1.2024 — Laringe; RTOG 9501 (Cooper NEJM 2004); EORTC 22931 (Bernier NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004): QRT postoperatoria con cisplatino 100 mg/m² c/3 sem frente a RTP sola; control locorregional a 2 años 82% frente a 72% (p=0,01); beneficio en SG limitado al subgrupo con EEC/márgenes positivos.",
+          "pearl": "EEC = QRT adyuvante con cisplatino. Este es el hallazgo patológico más importante para indicar quimiorradioterapia concurrente postoperatoria. RTOG 9501 y EORTC 22931 son los dos ensayos que definieron este estándar."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q9",
+        "stem": "¿Qué variante de disección cervical selectiva es la más adecuada para el tratamiento electivo de un cuello cN0 en un paciente con carcinoma epidermoide T2 de la laringe supraglótica?",
+        "options": {
+          "A": "DCS supraomohioidea (niveles I–III)",
+          "B": "DCS lateral (niveles II–IV)",
+          "C": "DCS posterolateral (niveles II–V)",
+          "D": "Disección del compartimento central (nivel VI)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La disección cervical selectiva lateral (niveles II–IV) es la disección electiva adecuada para los tumores primarios laríngeos, hipofaríngeos y orofaríngeos. La laringe supraglótica drena principalmente a los niveles II, III y IV a lo largo de la cadena yugular. El Nivel I no está en riesgo significativo para los tumores primarios laríngeos (el Nivel I drena principalmente la cavidad oral y el suelo de boca). El Nivel V no se incluye sistemáticamente salvo que haya afectación del triángulo posterior.",
+          "wrong": {
+            "A": "La DCS supraomohioidea (niveles I–III) es la disección electiva correcta para los tumores primarios de CAVIDAD ORAL (suelo de boca, lengua, mucosa yugal). Los tumores primarios laríngeos no drenan al Nivel I, por lo que esta variante es inapropiada para la laringe supraglótica.",
+            "C": "La DCS posterolateral (niveles II–V más ganglios retroauriculares/suboccipitales) está indicada para el melanoma del cuero cabelludo, los tumores malignos parotídeos y los cánceres de piel de la nuca — no para los tumores primarios laríngeos. Incluir el Nivel V añade morbilidad sin beneficio para la enfermedad laríngea.",
+            "D": "La disección del compartimento central (nivel VI) es la disección electiva para el carcinoma de tiroides, la laringe subglótica (no supraglótica) y los tumores primarios del esófago cervical. Los ganglios del Nivel VI drenan el tiroides y la subglotis, no la laringe supraglótica."
+          },
+          "guideline": "NCCN Cánceres de Cabeza y Cuello v1.2024 — Laringe Supraglótica; AAOMS/AHNS Neck Dissection Guidelines 2023",
+          "trial": "Shah JP (Am J Surg 1990): el mapeo anatómico de los patrones de metástasis cervicales mostró que los tumores primarios laríngeos drenan predominantemente a los niveles II–IV, estableciendo la base anatómica para la DCS lateral en el manejo electivo del carcinoma epidermoide de laringe.",
+          "pearl": "Patrones de disección cervical electiva según tumor primario: Cavidad oral → Supraomohioidea (I–III); Laringe/Hipofaringe/Orofaringe → Lateral (II–IV); Cuero cabelludo/Parótida → Posterolateral (II–V); Tiroides/Subglotis → Central (VI). Memorizar estas relaciones para el examen."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q10",
+        "stem": "Durante una disección cervical radical modificada izquierda, el cirujano incide inadvertidamente la fascia prevertebral en el nivel IV. Al cerrar, la maniobra de Valsalva no confirma ninguna fuga identificable. En el postoperatorio, el drenaje produce 200 mL de líquido claro el día 1, luego 150 mL el día 2, antes de que el paciente inicie alimentación oral, tras lo cual el débito se vuelve lechoso y alcanza los 400 mL/día. El nivel de triglicéridos en el líquido del drenaje es de 210 mg/dL. ¿Cuál es el mejor paso siguiente?",
+        "options": {
+          "A": "Reexploración quirúrgica inmediata y ligadura",
+          "B": "Continuar el manejo actual 48 horas antes de reevaluar",
+          "C": "Iniciar fórmula de TCM, añadir octreótido subcutáneo, mantener el drenaje",
+          "D": "Retirar el drenaje y aplicar vendaje compresivo cervical"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El cuadro clínico es compatible con una fístula quilosa (débito lechoso tras alimentación, TG 210 mg/dL > umbral de 110 mg/dL). Con un débito de 400 mL/día, esta es una fístula de débito moderado que debe manejarse inicialmente de forma conservadora: cambiar a fórmula de TCM para reducir la entrada de quilomicrones en el conducto torácico, añadir octreótido subcutáneo (50–100 mcg c/8 h) para reducir la secreción linfática y mantener la succión del drenaje. La reexploración quirúrgica se reserva para débitos >500 mL/día durante más de 5 días consecutivos a pesar del manejo conservador.",
+          "wrong": {
+            "A": "La reexploración quirúrgica inmediata no está justificada con un débito de 400 mL/día. El umbral para la cirugía es >500 mL/día durante >5 días (o débito en rápido aumento que amenace el equilibrio electrolítico). El manejo conservador es el enfoque de primera línea y resuelve el 70–80% de las fístulas.",
+            "B": "Continuar el manejo actual sin modificación dietética es incorrecto — si el paciente sigue recibiendo fórmula enteral estándar, cambiar a fórmula de TCM es la primera intervención más efectiva para reducir inmediatamente el débito quiloso.",
+            "D": "Retirar el drenaje conlleva el riesgo de acumulación de quilo en el cuello (quiloma), dehiscencia de herida y pérdida de la monitorización de la tendencia del débito. El drenaje debe permanecer in situ para descomprimir el punto de fuga y monitorizar la respuesta al tratamiento."
+          },
+          "guideline": "EACMFS Head and Neck Surgery Guidelines 2023; AAOMS Neck Dissection Complications 2023",
+          "trial": "Mra ZC et al. (Head Neck 1999): el manejo conservador de las fístulas quilosas con modificación dietética resuelve >70% de los casos; el octreótido reduce significativamente el débito cuando se añade a la dieta de TCM.",
+          "pearl": "Umbral para cirugía en la fístula quilosa: >500 mL/día durante >5 días de manejo conservador. Comenzar siempre con fórmula de TCM + octreótido. Controlar el recuento linfocitario — las fístulas de alto débito causan linfopenia e inmunosupresión."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q11",
+        "stem": "Una mujer de 54 años, 6 meses después de una disección cervical radical modificada derecha por carcinoma epidermoide amigdalino N2b, refiere incapacidad para elevar el brazo derecho por encima del nivel del hombro y dolor al alcanzar objetos por encima de la cabeza. En la exploración se observa caída del hombro derecho, alamiento escapular y debilidad del trapecio derecho. ¿Qué estructura fue lesionada con mayor probabilidad durante la cirugía?",
+        "options": {
+          "A": "Nervio frénico",
+          "B": "Plexo braquial",
+          "C": "Nervio espinal accesorio (NC XI)",
+          "D": "Nervio supraescapular"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El cuadro clínico — caída del hombro, alamiento escapular e incapacidad para abducir el brazo más de 90° — es la presentación clásica de la lesión del nervio espinal accesorio (NC XI) tras disección cervical. El NC XI inerva el trapecio (y el ECM) y está en mayor riesgo durante la disección del nivel IIB (donde emerge del ECM) y del nivel VA (triángulo posterior). En la DCRM Tipo III, el nervio debe preservarse pero puede sufrir lesión por tracción o desvascularización que conduce a parálisis tardía.",
+          "wrong": {
+            "A": "La lesión del nervio frénico causa parálisis ipsilateral del diafragma con disnea y hemidiafragma elevado en la radiografía de tórax, no disfunción del hombro o del brazo.",
+            "B": "La lesión del plexo braquial causaría debilidad más difusa de la extremidad superior, déficits sensitivos y potencialmente síndrome de Horner. No suele lesionarse en la disección cervical estándar.",
+            "D": "La lesión del nervio supraescapular causaría debilidad específica del supraespinoso e infraespinoso y déficit de rotación externa, no el síndrome global del hombro con alamiento descrito aquí."
+          },
+          "guideline": "AAOMS Neck Dissection Complications 2023; EACMFS 2023",
+          "trial": "van Wilgen CP et al. (Head Neck 2004): la morbilidad del hombro tras la disección cervical se correlaciona con la preservación del NC XI; la DCRM con NC XI preservado sigue teniendo una tasa de disfunción del hombro del 25–40% por lesión por tracción.",
+          "pearl": "Lesión del NC XI = síndrome del hombro: caída, abducción limitada <90°, alamiento. En la DCRM Tipo III, la preservación del nervio no garantiza su función — la lesión por tracción es frecuente. La fisioterapia intensa debe comenzar 6 semanas tras la cirugía. No sacrificar el NC XI innecesariamente."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A4-Q12",
+        "stem": "Un informe anatomopatológico tras una disección cervical radical modificada izquierda niveles I–V por carcinoma epidermoide de cavidad oral T4aN2c muestra: 16 ganglios extraídos; 5 ganglios positivos; EEC presente en 2 ganglios; ganglio mayor de 3,2 cm. Según la 8.ª edición del AJCC, ¿cuál es la clasificación N patológica (pN) correcta?",
+        "options": {
+          "A": "pN2b",
+          "B": "pN2c",
+          "C": "pN3a",
+          "D": "pN3b"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "La 8.ª edición del AJCC introdujo la extensión extracapsular (EEC) como modificador del estadio N para el CEHC no asociado a VPH. Cualquier ganglio con extensión extracapsular se clasifica como N3b, independientemente del número de ganglios, el tamaño o la lateralidad. La presencia de EEC en 2 ganglios clasifica automáticamente este caso como pN3b. Este es uno de los cambios clínicamente más importantes de la estadificación de la 8.ª edición del AJCC.",
+          "wrong": {
+            "A": "El pN2b se aplicaría a múltiples ganglios ipsilaterales, ninguno >6 cm, sin EEC. La presencia de EEC anula la clasificación N2 y obliga a N3b.",
+            "B": "El pN2c se aplicaría a ganglios bilaterales o contralaterales ≤6 cm sin EEC. La EEC sigue anulando esta clasificación a pN3b.",
+            "C": "El pN3a se aplica a un único ganglio >6 cm (sin EEC). El ganglio mayor aquí es de 3,2 cm, por lo que N3a por tamaño no es aplicable. Además, la EEC tiene prioridad y resulta en N3b independientemente."
+          },
+          "guideline": "Manual de Estadificación del Cáncer AJCC 8.ª Edición (2017) — Capítulo de Cabeza y Cuello; NCCN Cánceres de Cabeza y Cuello v1.2024",
+          "trial": "Wreesmann VB et al. (Cancer 2016): la EEC como predictor independiente de recidiva regional y supervivencia global; su inclusión en la 8.ª edición del AJCC refleja su importancia pronóstica.",
+          "pearl": "AJCC 8.ª edición: EEC = N3b en el CEHC VPH-negativo. Esto es automático independientemente del tamaño, número o lateralidad del ganglio. Las únicas excepciones son el tiroides (estadificación diferente) y la orofaringe VPH+ (sistema de estadificación separado). Verificar siempre la EEC en todos los informes anatomopatológicos."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q13",
+        "stem": "Se está considerando la biopsia del ganglio centinela (BGC) para un paciente de 48 años con carcinoma epidermoide cT1N0 de lengua lateral derecha (profundidad de invasión 5 mm). ¿Qué afirmación refleja con mayor precisión la evidencia del estudio SENT (Schilling et al., Lancet Oncology 2015)?",
+        "options": {
+          "A": "La BGC tiene una sensibilidad del 96% y un VPN del 99% — ha reemplazado a la DCE estándar como tratamiento preferido",
+          "B": "La BGC tiene una sensibilidad del 86% y un VPN del 95% — es un procedimiento de estadificación válido en centros de alto volumen, pero no ha reemplazado globalmente a la DCE",
+          "C": "La BGC solo es válida para tumores T1; las lesiones T2 tienen una tasa de falsos negativos demasiado alta",
+          "D": "La BGC está contraindicada en los tumores del suelo de boca por el artefacto de desbordamiento"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El estudio SENT (Schilling C et al., Lancet Oncology 2015) — un estudio europeo prospectivo multicéntrico de 415 pacientes con carcinoma epidermoide de cavidad oral/orofaringe cT1–T2 cN0 — reportó una sensibilidad del 86% y un valor predictivo negativo del 95% para la BGC en la detección de metástasis ganglionares ocultas. Estos resultados apoyan la BGC como procedimiento de estadificación válido en centros con experiencia, pero no establecen su superioridad sobre la DCE. Sigue siendo una herramienta de estadificación que evita la DCE completa cuando el ganglio centinela es negativo, con la salvedad de que existe una tasa de falsos negativos de ~14%.",
+          "wrong": {
+            "A": "La sensibilidad y el VPN reportados en SENT fueron del 86% y el 95%, no del 96% y el 99%. Más importante aún, la BGC no ha reemplazado a la DCE a nivel global — está adoptada en centros europeos de alto volumen como enfoque de estadificación alternativo, pero NCCN sigue recomendando la DCE u observación según el riesgo, no la BGC, como estándar principal.",
+            "C": "SENT incluyó tumores tanto T1 como T2 (cT1–T2) con resultados comparables. Los tumores T2 no están contraindicados para la BGC en el protocolo SENT, aunque el rendimiento puede ser ligeramente inferior con tumores primarios de mayor tamaño.",
+            "D": "El artefacto de desbordamiento (señal del ganglio linfático oscurecida por la captación intensa del tumor primario) es un desafío técnico reconocido en los tumores primarios del suelo de boca, no una contraindicación. La SPECT-TC y la sonda gamma intraoperatoria pueden superar esta limitación en la mayoría de los casos."
+          },
+          "guideline": "EACMFS Head and Neck Oncology Guidelines 2023; NCCN Head and Neck v1.2024 (BGC discutida como alternativa emergente)",
+          "trial": "Estudio SENT (Schilling C et al., Lancet Oncol 2015): 415 pacientes, carcinoma epidermoide oral/orofaríngeo cT1–T2 cN0; sensibilidad BGC 86%, VPN 95%; apoya la BGC como herramienta de estadificación válida en centros con experiencia.",
+          "pearl": "Estudio SENT: sensibilidad BGC 86%, VPN 95%. Válida en centros de alto volumen para el carcinoma epidermoide de cavidad oral cT1–T2 cN0. Principal limitación: tasa de falsos negativos del 14%. El artefacto de desbordamiento es un desafío técnico para los tumores primarios del suelo de boca — utilizar SPECT-TC."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q14",
+        "stem": "Un varón de 67 años desarrolla una masa cervical derecha de crecimiento lento tras radioterapia por carcinoma nasofaríngeo hace 8 años. La PET-TC muestra un ganglio nivel V ávido para FDG (Deauville 4). La punción-aspiración con aguja fina confirma carcinoma epidermoide. No se identifica ningún tumor primario en la exploración clínica, la nasofibroscopia ni la PET-TC. ¿Cuál es el manejo adecuado?",
+        "options": {
+          "A": "Observación con repetición de PET-TC en 3 meses",
+          "B": "Disección cervical radical modificada ipsilateral niveles I–V, seguida de radioterapia postoperatoria en el cuello y orofaringe bilateral",
+          "C": "Radioterapia primaria solo en el cuello — la cirugía está contraindicada en el paciente previamente irradiado",
+          "D": "Amigdalectomía bilateral + mucosectomía de base de lengua (TORS) + disección cervical para investigar el tumor primario"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Esta es una presentación de tumor primario desconocido (carcinoma de primario desconocido, CPD). En la era del carcinoma epidermoide de orofaringe asociado a VPH, el estudio estándar incluye biopsia profunda de amígdala (o amigdalectomía si la PAAF es negativa) y mucosectomía/biopsia de base de lengua (mediante TORS o cirugía transoral) para identificar un tumor primario oculto de orofaringe. Identificar el tumor primario permite un tratamiento dirigido y evita la irradiación bilateral extensa del cuello. La amígdala (especialmente en pacientes en los que no fue irradiada previamente por el CNF) debe resecarse quirúrgicamente ya que el tumor primario oculto se identifica en el 40–60% de los casos de CPD con este abordaje.",
+          "wrong": {
+            "A": "La observación es inadecuada — se trata de un carcinoma epidermoide confirmado en un ganglio cervical sin evidencia de metástasis a distancia. El retraso en el tratamiento conlleva el riesgo de progresión.",
+            "B": "Este enfoque trata el cuello sin investigar el tumor primario. Si el tumor primario se encuentra posteriormente (orofaringe, base de lengua), el tratamiento sería incompleto. Las guías NCCN obligan a un estudio sistemático para identificar el tumor primario antes del tratamiento definitivo del cuello.",
+            "C": "La cirugía no está absolutamente contraindicada en pacientes previamente irradiados, aunque conlleva mayores riesgos de complicaciones en la herida. Para la enfermedad cervical aislada con riesgo manejable, la disección cervical sigue siendo una opción válida. Sin embargo, la primera prioridad es identificar el tumor primario."
+          },
+          "guideline": "NCCN Cánceres de Cabeza y Cuello v1.2024 — Tumor Primario Desconocido (CPD); EACMFS 2023",
+          "trial": "Friesland S et al. (Acta Oncol 2001) y Mehanna H et al. (NEJM 2016 — subanálisis PET-NECK): el estudio sistemático del CPD incluyendo amigdalectomía TORS/mucosectomía de base de lengua identifica el tumor primario en el 40–70% de los casos, permitiendo un tratamiento dirigido.",
+          "pearl": "Estudio de carcinoma epidermoide cervical de primario desconocido: determinación VPH/p16 + PET-TC + amigdalectomía TORS + mucosectomía de base de lengua. Se identifica el tumor primario en el 40–70% de los casos. Encontrar un tumor primario orofaríngeo VPH+ cambia radicalmente el pronóstico (excelente) y la planificación del tratamiento."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q15",
+        "stem": "¿Cuál es el punto de referencia anatómico utilizado para identificar el nervio espinal accesorio (NC XI) en el borde posterior del músculo esternocleidomastoideo (ECM) durante la disección cervical?",
+        "options": {
+          "A": "El punto donde el nervio auricular mayor cruza el ECM (punto de Erb), aproximadamente 6 cm por debajo de la punta de la mastoides",
+          "B": "La unión del tercio medio con el tercio inferior del borde posterior del ECM",
+          "C": "El punto 1 cm por encima del cruce del nervio auricular mayor con el borde posterior del ECM (punto de Erb)",
+          "D": "El borde superior del músculo omohioideo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El nervio espinal accesorio (NC XI) emerge por el borde posterior del ECM aproximadamente 1 cm POR ENCIMA del punto de Erb. El punto de Erb se define como la unión del nervio auricular mayor y el borde posterior del ECM, aproximadamente 6 cm por debajo de la punta de la mastoides (o el punto medio del borde posterior del ECM). El NC XI emerge 1 cm craneal a este punto de referencia y luego atraviesa el triángulo posterior para entrar en el trapecio.",
+          "wrong": {
+            "A": "El punto de Erb en sí es el lugar donde el nervio auricular mayor cruza el ECM, pero el NC XI emerge 1 cm POR ENCIMA (cefálico) del punto de Erb, no en el propio punto de Erb.",
+            "B": "La unión del tercio medio con el tercio inferior del borde posterior del ECM no es un punto de referencia anatómico reconocido para la localización del NC XI y situaría la referencia demasiado caudalmente.",
+            "D": "El vientre inferior del músculo omohioideo es un punto de referencia para el límite entre los niveles III y IV, no para la identificación del NC XI. Se sitúa por debajo del punto de salida típico del NC XI del ECM."
+          },
+          "guideline": "Robbins KT et al. (Arch Otolaryngol Head Neck Surg 2008); Flint PW et al. Cummings Otolaryngology 7.ª ed. 2021",
+          "trial": "Kierner AC et al. (Arch Otolaryngol Head Neck Surg 2000): estudio morfométrico que confirma que el NC XI sale del ECM 0,8–1,2 cm por encima del punto de Erb en el 95% de los cadáveres.",
+          "pearl": "El NC XI sale del ECM 1 cm por encima del punto de Erb. Punto de Erb = cruce del nervio auricular mayor con el borde posterior del ECM = 6 cm por debajo de la punta de la mastoides. Tras salir del ECM, el NC XI cruza el triángulo posterior a una profundidad de 1–2 cm antes de entrar en el trapecio."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q16",
+        "stem": "Se elige una incisión de MacFee doble horizontal para una disección cervical izquierda en un paciente que recibió previamente 66 Gy de radioterapia en el cuello izquierdo por carcinoma epidermoide de laringe. ¿Cuál es la ventaja principal de esta incisión sobre una incisión en delantal simple o en «palo de hockey» en este contexto clínico?",
+        "options": {
+          "A": "Proporciona un mejor resultado estético al evitar cicatrices visibles",
+          "B": "Evita los componentes cutáneos verticales que cruzan tejido irradiado, preservando así la vascularización de los colgajos cutáneos",
+          "C": "Permite el acceso a los niveles cervicales I y VI sin reposicionar al paciente",
+          "D": "Requiere menos tiempo quirúrgico debido a una longitud total de incisión menor"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La incisión de MacFee doble horizontal (dos incisiones transversales paralelas) evita los componentes verticales que cruzan el cuello irradiado, que son propensos a la necrosis isquémica y la dehiscencia en un campo previamente irradiado. El daño por radiación deteriora la vascularización microvascular; las cicatrices verticales que cruzan entre áreas de dosis de irradiación diferentes crean zonas de isquemia en el puente cutáneo entre las dos incisiones transversales. El puente cutáneo intermedio conserva una perfusión adecuada al discurrir paralelo al aporte vascular del plexo subdérmico. Esto reduce el riesgo de dehiscencia de herida, exposición de la arteria carótida e infección de la herida.",
+          "wrong": {
+            "A": "La ventaja estética no es la razón principal de la incisión de MacFee en pacientes previamente irradiados. La incisión tiene un acceso más limitado en comparación con las incisiones en delantal y se elige por la preservación vascular, no por la estética.",
+            "C": "Ninguna incisión de disección cervical única proporciona acceso simultáneo a todos los niveles I–VI sin reposicionar al paciente. El acceso con MacFee es más limitado que con las incisiones en delantal/«palo de hockey» — se elige por razones de cicatrización, no de acceso anatómico.",
+            "D": "La incisión de MacFee tiene una longitud total comparable a otras incisiones y no ofrece ventaja en tiempo; el puente cutáneo entre las dos incisiones requiere un manejo más cuidadoso."
+          },
+          "guideline": "EACMFS Head and Neck Surgery Guidelines 2023; AAOMS Neck Dissection Technical Standards 2023",
+          "trial": "MacFee WF (Ann Surg 1960): descripción original de la incisión doble horizontal para la disección cervical en el cuello irradiado, demostrando una cicatrización superior en comparación con las incisiones con componentes verticales.",
+          "pearl": "Incisión de MacFee = dos incisiones horizontales para cuellos previamente irradiados. Preserva la vascularización evitando los componentes verticales en la piel irradiada. Se utiliza cuando la dehiscencia de la herida podría exponer la arteria carótida — una complicación potencialmente mortal en tejido previamente irradiado."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q17",
+        "stem": "Un varón de 71 años se somete a una disección cervical planificada (niveles II–IV derechos) 6 semanas después de completar quimiorradioterapia primaria por carcinoma epidermoide N2b de la vallécula derecha. Dos semanas después de la intervención, consulta por una masa cervical pulsátil que no estaba presente en su primera visita postoperatoria. En la exploración se observa una masa pulsátil en el ángulo mandibular derecho con eritema perilesional leve y una pequeña área de necrosis cutánea suprayacente a la bifurcación carotídea. Refiere un episodio de sangre roja brillante por la herida cervical hace 3 días que se resolvió espontáneamente. ¿Cuál es el diagnóstico más probable y el paso inmediato a seguir?",
+        "options": {
+          "A": "Hematoma postoperatorio — drenar con anestesia local en consulta",
+          "B": "Rotura de la arteria carótida (síndrome de rotura carotídea) — embolización arterial inmediata o ligadura quirúrgica",
+          "C": "Absceso cervical — antibióticos intravenosos y drenaje quirúrgico",
+          "D": "Fístula salival — vendaje compresivo y observación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El cuadro clínico es el clásico de rotura de la arteria carótida (síndrome de rotura carotídea, SRC): masa cervical pulsátil, necrosis cutánea suprayacente a la bifurcación carotídea y un previo «sangrado de aviso» (pequeño episodio de sangrado espontáneo hace 3 días). Se trata de una urgencia quirúrgica. El SRC ocurre en cuellos previamente irradiados con dehiscencia de herida, típicamente 4–6 semanas tras la disección cervical. El sangrado de aviso es patognomónico y presagia una hemorragia catastrófica. Manejo inmediato: compresión digital si hay sangrado activo, angioTC urgente para localizar el punto, y luego embolización endovascular o stent cubierto como tratamiento de primera línea. La ligadura quirúrgica abierta es una alternativa si el tratamiento endovascular no está disponible.",
+          "wrong": {
+            "A": "Una masa pulsátil con necrosis cutánea y un sangrado de aviso previo no es un hematoma. Intentar drenarlo en consulta podría precipitar una hemorragia arterial catastrófica.",
+            "C": "Aunque las infecciones tras disección cervical ocurren, una masa pulsátil con necrosis cutánea suprayacente y un sangrado de aviso hemorrágico no es compatible con un simple absceso. Incidir sobre la carótida en este contexto sería extremadamente peligroso.",
+            "D": "Una fístula salival se presentaría con líquido salival por la herida, no con una masa pulsátil con sangrado de aviso hemorrágico y necrosis cutánea."
+          },
+          "guideline": "EACMFS Head and Neck Surgery Guidelines 2023; AAOMS Neck Dissection Complications 2023",
+          "trial": "Citardi MJ et al. (Ann Otol Rhinol Laryngol 1995): síndrome de rotura carotídea en la disección cervical del cuello irradiado; la embolización endovascular como tratamiento de primera línea preferido; mortalidad del 40% sin tratamiento.",
+          "pearl": "Sangrado de aviso + masa cervical pulsátil + necrosis cutánea sobre la carótida = síndrome de rotura carotídea. Es un signo preterminal. Acción inmediata: compresión digital + angioTC urgente + embolización endovascular. NO incidir en consulta."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A4-Q18",
+        "stem": "¿Cuántos ganglios linfáticos como mínimo deben extraerse de una disección cervical radical modificada completa de niveles I–V para garantizar una estadificación patológica adecuada según los estándares de calidad?",
+        "options": {
+          "A": "6 ganglios",
+          "B": "10 ganglios",
+          "C": "18 ganglios",
+          "D": "25 ganglios"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Un mínimo de 18 ganglios linfáticos es el estándar de calidad aceptado para una estadificación patológica adecuada en una disección cervical completa de niveles I–V. Este umbral se basa en estudios que demuestran que un número menor de ganglios puede indicar una disección incompleta o un muestreo patológico inadecuado, lo que conduce a una infraestadificación. Una disección completa de niveles I–V debería obtener típicamente 20–35 ganglios. Los protocolos del CAP (Colegio Americano de Patólogos) y RCPath utilizan 18 ganglios como umbral mínimo de adecuación.",
+          "wrong": {
+            "A": "Seis ganglios está muy por debajo del mínimo aceptado y sugeriría una cirugía incompleta, un muestreo patológico inadecuado, o ambos. Esto no sería aceptable para fines de estadificación.",
+            "B": "Diez ganglios, aunque más que 6, sigue estando por debajo del umbral de 18 ganglios para la disección completa de niveles I–V y puede dar lugar a una infraestadificación.",
+            "D": "Aunque 25 ganglios sería aceptable (y de hecho esperado de una disección exhaustiva de niveles I–V en un campo no irradiado), el requisito mínimo es de 18 ganglios. La extracción de 25 o más ganglios no indica una disección mejor a partir de cierto umbral."
+          },
+          "guideline": "Protocolo CAP para el Examen de Especímenes de Pacientes con Cánceres del Labio y la Cavidad Oral 2023; RCPath Dataset for Histopathological Reporting of Mucosal Malignancies of the Head and Neck 2023",
+          "trial": "Goldstein DP et al. (Arch Otolaryngol Head Neck Surg 2011): la extracción de <18 ganglios en la disección cervical de niveles I–V se asocia con tasas significativamente más altas de estadificación falsamente negativa y peores resultados en el control regional.",
+          "pearl": "Mínimo 18 ganglios en una disección cervical de niveles I–V = estándar de calidad para una estadificación adecuada. Por debajo de este umbral, el riesgo de infraestadificación es significativo. Documentar siempre el recuento ganglionar en la nota operatoria y solicitar muestreo patológico ampliado si el recuento preliminar es bajo."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q19",
+        "stem": "Durante una disección cervical selectiva derecha de niveles II–IV, el cirujano observa que el hemidiafragma derecho está elevado en la fluoroscopia intraoperatoria. ¿Qué nervio fue lesionado con mayor probabilidad y en qué localización anatómica suele producirse esta lesión?",
+        "options": {
+          "A": "Nervio vago (NC X) — en la bifurcación carotídea",
+          "B": "Nervio frénico — en la superficie anterior del músculo escaleno anterior en el nivel IV",
+          "C": "Plexo braquial — en el triángulo posterior cerca del nivel V",
+          "D": "Nervio hipogloso (NC XII) — al rodear la arteria carótida externa"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio frénico (C3–C5) discurre por la superficie anterior del músculo escaleno anterior, cubierto por la fascia prevertebral. Pasa de lateral a medial sobre el escaleno, entrando en el tórax por detrás de la articulación esternoclavicular. Está en mayor riesgo durante la disección del nivel IV y la disección supraclavicular. Su lesión produce parálisis ipsilateral del hemidiafragma, visible como hemidiafragma elevado en la radiografía de tórax o en la fluoroscopia. La lesión se previene manteniéndose superficial a la fascia prevertebral durante la disección del nivel IV.",
+          "wrong": {
+            "A": "La lesión del nervio vago en la bifurcación carotídea causaría disfonía (consecuencias del nervio laríngeo recurrente), disfagia y efectos cardíacos, no parálisis del diafragma. El nervio vago discurre dentro de la vaina carotídea.",
+            "C": "La lesión del plexo braquial causaría déficits motores y sensitivos en la extremidad superior, no parálisis del diafragma. El plexo braquial emerge entre los escalenos anterior y medio en el nivel V — una localización diferente a la del nervio frénico.",
+            "D": "La lesión del nervio hipogloso causa desviación y atrofia de la lengua. El NC XII rodea la arteria carótida externa cerca del límite entre los niveles II y III — no en el territorio del nivel IV donde ocurre la lesión del nervio frénico."
+          },
+          "guideline": "Robbins KT et al. (Arch Otolaryngol Head Neck Surg 2008); Flint PW. Cummings Otolaryngology 7.ª ed. 2021",
+          "trial": "Kriesel D et al. (Eur J Cardiothorac Surg 1999): lesión del nervio frénico durante cirugía cervical — incidencia 0,5–1%; más frecuentemente no reconocida intraoperatoriamente; confirmada por hemidiafragma elevado en imagen.",
+          "pearl": "Nervio frénico = superficie anterior del escaleno anterior en el nivel IV. Mantenerse superficial a la fascia prevertebral en el nivel IV para evitar la lesión. Resultado: hemidiafragma elevado, disnea de esfuerzo. Raramente sintomático si el diafragma contralateral es normal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A4-Q20",
+        "stem": "Una mujer de 50 años con carcinoma epidermoide de orofaringe VPH-positivo estadio clínico T2N1 (base de lengua, izquierda) recibe quimiorradioterapia definitiva. La PET-TC a las 12 semanas muestra un ganglio Deauville 4 (actividad residual ávida para FDG) en el nivel II izquierdo de 1,8 cm. La punción-aspiración con aguja fina confirma carcinoma epidermoide viable. ¿Cuál es el siguiente paso recomendado?",
+        "options": {
+          "A": "Repetir la PET-TC en 6 semanas — la enfermedad VPH-positiva tiene una alta tasa de respuesta completa tardía",
+          "B": "Disección cervical radical modificada izquierda (niveles I–V)",
+          "C": "Cirugía robótica transoral de rescate en la base de la lengua",
+          "D": "Reirradiación del cuello izquierdo hasta 60 Gy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un ganglio residual PET-positivo (Deauville 4–5) con confirmación por PAAF de carcinoma epidermoide viable tras QRT primaria es una indicación de disección cervical de rescate. Según la metodología del ensayo PET-NECK, la disección cervical se realiza para la enfermedad residual PET-positiva tras QRT. En el carcinoma epidermoide de orofaringe VPH-positivo, la alta tasa de respuesta completa hace apropiada la vigilancia con PET, pero cuando la enfermedad residual se confirma por PAAF, la cirugía de rescate (no la reirradiación ni la vigilancia adicional) es el enfoque estándar. Es adecuada una disección cervical radical modificada o selectiva que cubra los niveles I–V.",
+          "wrong": {
+            "A": "La respuesta tardía es un fenómeno reconocido en el CEOP VPH+, pero un ganglio Deauville 4 confirmado por PAAF positiva para carcinoma epidermoide viable no es candidato a vigilancia adicional. La positividad de la PAAF cambia el manejo de la vigilancia a la cirugía.",
+            "C": "La TORS de rescate trata el tumor primario en la base de la lengua, no el ganglio cervical. La PET-TC mostró respuesta metabólica completa en el tumor primario (el enunciado especifica únicamente el ganglio de nivel II). Si el tumor primario también tuviera enfermedad residual, se consideraría TORS para eso, pero la enfermedad cervical residual se trata con disección cervical.",
+            "D": "La reirradiación hasta 60 Gy en un campo previamente irradiado conlleva riesgos significativos de toxicidad grave (osteorradionecrosis mandibular, rotura carotídea, necrosis mucosa) y no es el enfoque estándar para un ganglio cervical residual resecable. La cirugía es preferible para la enfermedad ganglionar residual aislada."
+          },
+          "guideline": "NCCN Cánceres de Cabeza y Cuello v1.2024 — Orofaringe (VPH-Positivo); Ensayo PET-NECK (Mehanna NEJM 2016)",
+          "trial": "PET-NECK (Mehanna H et al., NEJM 2016): en el grupo de vigilancia con PET-TC, todos los pacientes con Deauville 4–5 o enfermedad residual confirmada por PAAF pasaron a disección cervical; la tasa de respuesta patológica completa en el grupo Deauville 1–3 fue del 93%.",
+          "pearl": "Algoritmo PET-NECK: Respuesta metabólica completa (Deauville 1–3) = vigilancia. Deauville 4–5 o carcinoma epidermoide viable confirmado por PAAF = disección cervical. La confirmación por PAAF de carcinoma epidermoide viable hace inapropiada la vigilancia activa, incluso en la enfermedad VPH-positiva."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

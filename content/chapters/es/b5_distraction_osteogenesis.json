@@ -1,0 +1,640 @@
+{
+  "id": "B5",
+  "title": "Distracción Osteogénica en el Esqueleto Craneofacial",
+  "subtitle": "Bloque B — Cirugía Ortognática y Esquelética",
+  "block": "B",
+  "block_name": "Cirugía Ortognática y Esquelética",
+  "level": "R2-4",
+  "reading_time_min": 35,
+  "guidelines_version": "EACMFS Craniofacial Guidelines 2023 · AAOMS Parameters of Care 2023 · ACPA Team Standards 2023",
+  "textbook_refs": [
+    "Ilizarov GA. The tension-stress effect on the genesis and growth of tissues. Clin Orthop Relat Res (1989)",
+    "McCarthy JG, Schreiber J, Karp N, et al. Lengthening the human mandible by gradual distraction. Plast Reconstr Surg (1992)",
+    "Cohen SR, Burstein FD, Stewart MB. Maxillary-midface distraction in children with cleft lip and palate. Plast Reconstr Surg (1997)",
+    "Rachmiel A et al. Internal distraction osteogenesis of severe maxillary hypoplasia. Plast Reconstr Surg (2001)",
+    "Tideman H, Bosanquet A, Scott J. Use of the Le Fort I osteotomy with bone grafts and titanium mesh. Int J Oral Maxillofac Surg (1986)"
+  ],
+  "learning_objectives": [
+    "Explicar el principio de tensión-estrés de Ilizarov y las fases biológicas de la distracción osteogénica",
+    "Describir el protocolo estándar de distracción (latencia, tasa de activación, consolidación) y la justificación de cada fase",
+    "Comparar los dispositivos de distracción intraorales y extraorales para aplicaciones mandibulares y de macizo facial",
+    "Identificar las indicaciones adecuadas de distracción frente a osteotomía aguda en el esqueleto craneofacial",
+    "Reconocer y manejar las complicaciones de la distracción, incluidas la consolidación prematura, la unión fibrosa y la desviación vectorial",
+    "Aplicar los principios de distracción a escenarios clínicos específicos: microsomia hemifacial, hipoplasia mediofacial en pacientes con fisura palatina y OSA en secuencia de Pierre Robin"
+  ],
+  "sections": [
+    {
+      "id": "B5-S1",
+      "title": "Principios de Ilizarov y Fases Biológicas",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La distracción osteogénica (DO) se basa en el **principio de Ilizarov** (1989): la tensión mecánica controlada aplicada sobre una osteotomía en cicatrización genera nuevo hueso y tejido blando mediante el denominado 'efecto de tensión-estrés'. Gavriil Ilizarov, cirujano ortopédico siberiano, estableció que la distracción gradual de una corticotomía induce la formación de nuevo hueso en el espacio del regenerado — un proceso fundamentalmente diferente de la cicatrización fracturaria, en la que el espacio se minimiza en lugar de aumentarse progresivamente.\n\n**Fases biológicas de la DO:**\n\n1. **Fase de latencia (5–7 días en adultos, 3–5 días en niños):** Período tras la corticotomía, previo al inicio de la distracción. Durante esta fase se organiza el hematoma, se forma tejido de granulación precoz y se liberan proteínas morfogenéticas óseas (BMP). Iniciar la distracción demasiado pronto (antes de la formación del callo precoz) o demasiado tarde (tras una consolidación prematura) provoca unión fibrosa o recidiva, respectivamente.\n\n2. **Fase de activación (distracción):** El dispositivo se activa a una tasa de **0,5–1,0 mm por día** (estándar: 1 mm/día en 2 incrementos de 0,5 mm). La distracción genera tensión en la zona del regenerado, estimulando la neovascularización (perióstica y endóstica), la diferenciación de células osteoprogenitoras y el depósito de fibras de colágeno orientadas a lo largo del vector de distracción. Histológicamente, la zona del regenerado muestra: (a) zona fibrosa central (fibrous interzone), (b) fibrocartílago de transición lateralmente, (c) frente de mineralización primaria en la unión hueso-regenerado.\n\n3. **Fase de consolidación:** Una vez alcanzado el movimiento planificado, el dispositivo permanece fijo (bloqueado) durante un período equivalente a 2–3 veces la duración de la fase de activación (mínimo 8–12 semanas en adultos). Durante la consolidación, el regenerado fibroso experimenta mineralización progresiva, maduración y corticalización. Los signos radiológicos de consolidación incluyen callo puente y corticalización del regenerado. El dispositivo se retira tras confirmar la consolidación radiológicamente."
+        },
+        {
+          "type": "table",
+          "title": "Protocolo de Distracción Osteogénica: Parámetros Estándar",
+          "headers": ["Fase", "Duración", "Parámetro", "Puntos Clave"],
+          "rows": [
+            ["Latencia", "5–7 días (adultos); 3–5 días (niños)", "Sin activación; dispositivo bloqueado", "Demasiado corta = unión fibrosa; demasiado larga = consolidación prematura en niños"],
+            ["Activación", "Depende del movimiento requerido", "0,5–1,0 mm/día (estándar 1 mm/día en 2 × 0,5 mm)", "Tasas más rápidas reducen la calidad ósea; tasas más lentas reducen pero no eliminan la recidiva"],
+            ["Consolidación", "2–3 × duración de la fase de activación; mínimo 8–12 semanas en adultos", "Dispositivo bloqueado; sin activación", "Retirar el dispositivo solo cuando la radiografía muestre corticalización del regenerado"],
+            ["Retirada del dispositivo", "Tras confirmación de consolidación", "Criterios clínicos + radiológicos", "Retirada precoz = recidiva; la TC confirma la consolidación cuando la radiografía es equívoca"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Tasa Estándar de Distracción",
+          "content": "La tasa estándar de distracción es de 1 mm por día, administrada en 2 incrementos de 0,5 mm. Las tasas más rápidas (>1,5 mm/día) producen unión fibrosa porque la formación ósea no puede seguir el ritmo de la separación. Las tasas más lentas (0,5 mm/día) pueden mejorar la calidad ósea pero prolongan significativamente el tratamiento sin eliminar la recidiva. El estándar de 1 mm/día fue establecido por los estudios originales de Ilizarov en alargamiento de extremidades y confirmado en aplicaciones craneofaciales."
+        }
+      ]
+    },
+    {
+      "id": "B5-S2",
+      "title": "Dispositivos: Intraorales frente a Extraorales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los dispositivos de distracción empleados en el esqueleto craneofacial se clasifican según su mecanismo de activación, control vectorial y localización respecto a la cavidad oral.\n\n**Dispositivos de distracción intraorales:** se colocan completamente dentro de la boca, con un pequeño puerto de activación transmucosal o transcutáneo. Sus ventajas incluyen ausencia de cicatriz externa, mejor aceptación por el paciente y menor riesgo de infección en el trayecto de los pines. Sus desventajas son la ajustabilidad vectorial limitada (habitualmente un vector uniaxial fijo), la dificultad de retirada del dispositivo (que requiere un segundo procedimiento intraoral) y la menor magnitud de fuerza en comparación con los dispositivos externos. Se emplean habitualmente para la ampliación de la sínfisis mandibular (SARPE/MARPE), distracción alveolar para la preparación de sitios implantológicos y osteotomías mandibulares cortas.\n\n**Dispositivos de distracción extraorales (externos)** — incluidos la distracción basada en halo (dispositivo RED, distracción externa rígida) y marcos externos menores — ofrecen un control vectorial excelente, permiten ajustes multivectoriales durante la activación y pueden generar fuerzas mayores. El dispositivo RED es el estándar para la **distracción mediofacial (nivel Le Fort III)** en hipoplasia mediofacial grave (p. ej., síndromes de Crouzon, Apert). El marco externo se fija a pines colocados en la bóveda craneal; los vectores pueden ajustarse diariamente por el cirujano. Sus principales desventajas son: hardware externo visible, colocación transcutánea de pines (infección del trayecto 5–20%), restricción de actividad y importante malestar para el paciente — especialmente en niños.\n\n**Distracción curvilínea/multivectorial:** Los diseños más modernos permiten cierta ajustabilidad vectorial durante la fase de activación, compensando la rotación mandibular durante la distracción. La desviación vectorial (movimiento del segmento distraído en una dirección no planificada por tracción muscular o mecánica del dispositivo) es una complicación significativa de los dispositivos uniaxiales.\n\n**Distracción de transporte:** Variante específica utilizada para grandes defectos óseos (p. ej., defectos de continuidad mandibular tras resección tumoral). Se crea una osteotomía para liberar un 'disco de transporte' de hueso nativo, que se desplaza gradualmente a través de la zona del defecto, generando nuevo hueso a su paso y produciendo curación por contacto en el sitio de acoplamiento. La DO de transporte puede reconstruir grandes defectos mandibulares (>5 cm) sin cirugía de colgajo libre en casos seleccionados."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Dispositivo RED para Distracción Mediofacial",
+          "content": "El dispositivo RED (distracción externa rígida) se emplea para el avance a nivel Le Fort III en hipoplasia mediofacial grave (síndromes de Crouzon/Apert, deficiencia mediofacial relacionada con fisura >10 mm). Tras la osteotomía de Le Fort III, se colocan pines en la bóveda craneal bilateralmente y el marco externo se conecta a una máscara facial. La activación logra un avance mediofacial de 1–2 mm/día durante 3–6 semanas, seguido de 12–16 semanas de consolidación. El dispositivo RED consigue avances mediofaciales significativamente mayores (10–30 mm) que la osteotomía aguda con injertos óseos, reduciendo drásticamente el riesgo de recidiva."
+        }
+      ]
+    },
+    {
+      "id": "B5-S3",
+      "title": "Distracción Mandibular: Indicaciones y Aplicaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**McCarthy et al.** (1992) realizaron la primera aplicación de la DO al esqueleto craneofacial humano, describiendo la distracción mandibular en cuatro niños con microsomia hemifacial mediante dispositivos extraorales. Esta publicación histórica estableció la viabilidad y seguridad de la DO craneofacial y propició la rápida expansión de la técnica.\n\n**Indicaciones de la distracción mandibular:**\n\n1. **Retrognatia mandibular de clase II grave (avance >10–12 mm):** La BSSO aguda para avances >10 mm conlleva tasas de recidiva esquelética del 20–35%. Rachmiel et al. (2001) demostraron una recidiva de solo el 12% con DO frente al 48% con osteotomía aguda para avances de clase II de gran magnitud, estableciendo la DO como técnica de elección para movimientos amplios.\n\n2. **Microsomia hemifacial (MHF):** Hipoplasia mandibular unilateral que provoca asimetría facial e inclinación oclusal. La distracción precoz (4–8 años) puede lograr una mejoría significativa de la simetría, reducir la escoliosis cervical compensatoria y mejorar la relación oclusal. El momento óptimo sigue siendo controvertido — algunos defienden la distracción a los 5–8 años por los beneficios sociales antes de la edad escolar, mientras que otros prefieren un único procedimiento definitivo en la madurez esquelética.\n\n3. **Obstrucción de la vía aérea neonatal (secuencia de Pierre Robin):** Micrognatia grave que provoca glosoptosis y obstrucción de la vía aérea. La distracción mandibular neonatal (con dispositivos externos miniaturizados especializados) alarga la mandíbula, alivia la glosoptosis y evita la traqueotomía en muchos pacientes. La mandíbula se distrae 1 cm en 10–14 días. Hong et al. (2011) demostraron una evitación de traqueotomía del 95% con DO neonatal en la secuencia de Pierre Robin.\n\n4. **Reconstrucción postumoral (DO de transporte):** Grandes defectos mandibulares tras resección tumoral u osteonecrosis. La DO de transporte puede reconstruir defectos sin cirugía de colgajo libre, especialmente en pacientes pediátricos o cuando el colgajo libre está contraindicado.\n\n5. **SARPE (expansión palatina rápida asistida quirúrgicamente):** Osteotomía horizontal de la línea media del paladar combinada con un expansor palatino para ampliar el arco maxilar estrecho. La SARPE es el procedimiento quirúrgico de elección para la deficiencia maxilar transversal >5 mm en adultos, donde la EPR ortodóncica convencional no es eficaz. Una osteotomía de división palatina media más osteotomías bilaterales de la pared lateral al nivel de Le Fort I permite que el expansor separe la sutura palatina media con menor fuerza, logrando una ampliación del arco fiable sin la recidiva que acompaña a la expansión ortodóncica forzada de una sutura fusionada."
+        },
+        {
+          "type": "table",
+          "title": "Indicaciones de Distracción Mandibular y Evidencia",
+          "headers": ["Indicación", "Grupo de Edad", "Dispositivo", "Evidencia Clave"],
+          "rows": [
+            ["Avance de clase II de gran magnitud (>10–12 mm)", "Adolescente/adulto", "Intraoral/extraoral", "Rachmiel 2001: 12% recidiva DO vs 48% osteotomía aguda"],
+            ["Microsomia hemifacial", "Pediátrico (4–8 años) o madurez esquelética", "Extraoral", "McCarthy et al. 1992: publicación original de DO craneofacial"],
+            ["Obstrucción de la vía aérea en secuencia de Pierre Robin", "Neonatal (<4 semanas)", "Extraoral neonatal especializado", "Hong et al. 2011: 95% evitación de traqueotomía"],
+            ["DO de transporte (reconstrucción de defecto amplio)", "Cualquier edad", "Extraoral bidireccional", "Diss et al. 2007: defectos de hasta 8 cm reconstruidos"],
+            ["SARPE (deficiencia transversal >5 mm)", "Adulto", "Expansor palatino intraoral", "Seeberger et al. 2010: >95% de éxito para expansión transversal de 5–12 mm"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Estudio de Rachmiel: DO frente a Osteotomía Aguda",
+          "content": "El estudio de Rachmiel (2001) comparó directamente la distracción osteogénica con el avance agudo de Le Fort I o BSSO para movimientos de gran magnitud (>8–10 mm). Las tasas de recidiva a los 2 años de seguimiento fueron del 12% con DO frente al 48% con osteotomía aguda. Esto estableció la distracción como técnica de elección para avances de clase II >10 mm y correcciones de clase III >10 mm, donde la recidiva tras osteotomía aguda es clínicamente inaceptable."
+        }
+      ]
+    },
+    {
+      "id": "B5-S4",
+      "title": "Distracción Mediofacial: Niveles Le Fort I, II y III",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La distracción mediofacial aborda la hipoplasia maxilar o mediofacial grave que no puede corregirse de forma segura con osteotomía aguda debido a la magnitud del movimiento necesario (>10–15 mm) o al elevado riesgo de recidiva en pacientes sindrómicos.\n\n**Distracción a nivel de Le Fort I:** Se emplea en hipoplasia maxilar grave (p. ej., tras reparación de fisura palatina, en la que el tejido cicatricial significativo hace al maxilar resistente al avance convencional de Le Fort I y conlleva alto riesgo de recidiva). Los dispositivos de distracción interna al nivel de Le Fort I generan un avance de 1–2 mm/día con menor recidiva que la osteotomía aguda. Rachmiel et al. (2001) establecieron la superioridad de la distracción interna de Le Fort I para la deficiencia maxilar relacionada con fisura palatina.\n\n**Distracción a nivel de Le Fort III (distracción mediofacial):** Corrige la hipoplasia mediofacial sindrómica (síndromes de Crouzon, Apert, Pfeiffer) que afecta a las órbitas, malares y dorso nasal. La osteotomía moviliza todo el macizo facial al nivel de Le Fort III. El dispositivo RED proporciona el control vectorial necesario para este movimiento de gran escala. Movimientos típicos: 15–25 mm de avance anterior durante 3–4 semanas. Esto mejora drásticamente la permeabilidad de la vía aérea superior, el exorbitismo (protección de los globos oculares expuestos) y la estética mediofacial en los niños gravemente afectados.\n\n**Distracción monobloc:** Avanza simultáneamente el macizo facial y el hueso frontal como un único segmento en casos sindrómicos graves, combinando el avance fronto-orbitario y la distracción mediofacial en un único tiempo. Este procedimiento complejo conlleva mayor riesgo pero proporciona la corrección más integral en casos con hipoplasia frontal y mediofacial combinada.\n\n**Le Fort III subcraneal (Le Fort III de Tessier):** Variante que preserva la bóveda craneal, avanzando únicamente el macizo facial por debajo de la barra frontal. Reduce el riesgo neuroquirúrgico en comparación con la distracción monobloc al tiempo que logra el avance mediofacial. Se prefiere en pacientes cuya necesidad principal es el avance mediofacial sin afectación frontal significativa."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Momento de la Distracción de Le Fort III",
+          "content": "La distracción de Le Fort III en pacientes sindrómicos no debe realizarse demasiado pronto (antes de los 5–7 años en la mayoría de los casos), ya que el esqueleto facial sigue en crecimiento y se producirá una recidiva significativa por el crecimiento de los huesos mediofaciales hipoplásicos. Por el contrario, realizarla demasiado tarde (tras el crecimiento facial casi completo) limita el beneficio del mejor vector que ofrece el tejido en crecimiento. La mayoría de los centros programan la distracción de Le Fort III según la necesidad funcional (vía aérea, protección visual) y no estrictamente por edad."
+        }
+      ]
+    },
+    {
+      "id": "B5-S5",
+      "title": "SARPE: Expansión Palatina Rápida Asistida Quirúrgicamente",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **SARPE (expansión palatina rápida asistida quirúrgicamente)** es una forma de distracción dentoalveolar aplicada a la dimensión transversal del maxilar en pacientes adultos. En adolescentes y niños más jóvenes, la sutura palatina media permanece abierta y la expansión palatina rápida (EPR) ortodóncica puede ampliar el arco sin asistencia quirúrgica. En adultos (aproximadamente >18–20 años), la sutura palatina media se ha fusionado y la EPR convencional o bien no logra abrir la sutura (en su lugar inclina los dientes en sentido vestibular sin expansión esquelética) o bien requiere fuerzas que provocan daño periodontal y dolor.\n\n**Indicación:** Deficiencia maxilar transversal >5 mm en un paciente adulto (sutura palatina media fusionada) — confirmada clínicamente (mordida cruzada posterior bilateral, arco constreñido) y mediante radiografía oclusal o CBCT (sutura fusionada).\n\n**Técnica:** Bajo anestesia general, las incisiones vestibulares maxilares bilaterales exponen las paredes laterales del maxilar. Se realizan osteotomías bilaterales de la pared lateral desde el reborde piriforme hasta detrás del primer molar bilateralmente. Puede añadirse una osteotomía palatina media en casos con hueso sutural denso. Se realizan disyunciones pterigomaxilares bilaterales (como en Le Fort I). El dispositivo de expansión palatina (Hyrax, dentosoportado o bone-borne MARPE) se cementa o se adhiere antes de la cirugía. La activación comienza tras un período de latencia de 5–7 días a razón de 0,5 mm/día (dos giros de cuarto de vuelta al día mediante el mecanismo de tornillo). Se consigue una expansión total de 5–12 mm en 2–6 semanas, seguida de 3–6 meses de consolidación antes de retirar el dispositivo.\n\n**MARPE (expansión palatina rápida asistida con miniimplantes):** Desarrollo reciente que utiliza miniimplantes óseos para anclar el expansor directamente al hueso palatino en lugar de a los dientes, reduciendo la inclinación dental y mejorando la respuesta esquelética. Se utiliza cada vez más como alternativa mínimamente invasiva a la SARPE en algunos casos, aunque la evidencia para adultos con sutura completamente fusionada sigue evolucionando.\n\n**Resultados:** La SARPE logra de forma fiable una ampliación del arco transversal de 5–12 mm con mínima inclinación dental, resultados estables a los 2 años (>90%) y mejoría de la vía aérea nasal (ampliación del suelo nasal). Seeberger et al. (2010) confirmaron una tasa de éxito >95% para correcciones transversales de 5–12 mm con SARPE."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Umbral de Indicación de SARPE",
+          "content": "La SARPE está indicada para la deficiencia maxilar transversal >5 mm en adultos con sutura palatina media fusionada. La deficiencia ≤4 mm en adultos puede manejarse únicamente con ortodoncia de descompensación dental. La deficiencia >5 mm en adolescentes (sutura abierta) puede tratarse con EPR ortodóncica sin asistencia quirúrgica. La SARPE es específicamente la respuesta ortognática para la deficiencia transversal del adulto."
+        }
+      ]
+    },
+    {
+      "id": "B5-S6",
+      "title": "Complicaciones de la Distracción Osteogénica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las complicaciones de la DO craneofacial se clasifican en relacionadas con el dispositivo, con el hueso, con los tejidos blandos y con el movimiento:\n\n**Complicaciones relacionadas con el dispositivo:**\n- **Aflojamiento de pines/tornillos:** La más frecuente (10–30%); causada por infección, resorción ósea o incumplimiento del paciente. Tratamiento: recambio del pin, antibióticos. Los pines aflojados deben sustituirse — la distracción no puede completarse con precisión con hardware inestable.\n- **Infección del trayecto del pin:** Frecuente (5–20% para dispositivos extraorales); se trata con antibióticos y curas locales. Raramente requiere la retirada del dispositivo.\n- **Fractura del dispositivo:** Infrecuente; requiere recambio bajo anestesia.\n\n**Complicaciones relacionadas con el hueso:**\n- **Consolidación prematura:** Ocurre cuando el período de latencia es demasiado prolongado (>10 días en niños) o la tasa de activación es demasiado lenta, permitiendo que el regenerado se mineralice antes de que se complete el movimiento planificado. Se manifiesta como resistencia significativa y dolor durante la activación del dispositivo. Tratamiento: aumento de la tasa de activación; si ya está consolidado, puede ser necesaria una recorticotomía.\n- **Unión fibrosa:** Ocurre cuando la tasa de activación es demasiado rápida (>1,5 mm/día) o el período de consolidación insuficiente. La zona del regenerado contiene tejido fibroso en lugar de tejido mineralizado. Factores de riesgo: infección, mala vascularización, tensión excesiva. Tratamiento: injerto óseo del espacio fibroso.\n- **Recidiva:** Todos los movimientos de DO conllevan cierta recidiva; la sobrecorrección del 10–15% es práctica estándar.\n\n**Complicaciones relacionadas con el movimiento:**\n- **Desviación vectorial:** El segmento distraído se desplaza en una dirección no planificada por tracción muscular, colocación asimétrica del dispositivo o mecánica del mismo. Más frecuente en la distracción mandibular (los músculos pterigoideo y masetero traccionan el segmento proximal en sentido superior). Prevención: planificación vectorial cuidadosa en TC preoperatorio; ajuste del ángulo del dispositivo. Tratamiento: ajuste del vector del dispositivo si es posible; revisión osteotómica si es grave.\n- **Desplazamiento condilar:** Durante la distracción mandibular, el cóndilo puede desplazarse anterior o superiormente si el vector no es paralelo al cuerpo mandibular. Los cambios condilares a largo plazo tras la DO pediátrica están bien documentados y requieren seguimiento.\n\n**Complicaciones de tejidos blandos:**\n- **Cicatrización:** Los dispositivos extraorales dejan pequeñas cicatrices en los sitios de los pines; habitualmente aceptables.\n- **Retracción cutánea:** Pliegues cutáneos alrededor de los pines; se manejan con limpieza diaria suave."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones de la Distracción Osteogénica: Resumen de Manejo",
+          "headers": ["Complicación", "Causa", "Prevención", "Tratamiento"],
+          "rows": [
+            ["Consolidación prematura", "Latencia demasiado larga; activación demasiado lenta", "Protocolo estándar: latencia 5–7 días, 1 mm/día", "Aumento de la tasa de activación; recorticotomía si es necesario"],
+            ["Unión fibrosa", "Activación demasiado rápida (>1,5 mm/día) o infección", "Estándar de 1 mm/día; antibióticos profilácticos", "Injerto óseo de la zona del regenerado tras la fase de consolidación"],
+            ["Desviación vectorial", "Tracción muscular; ángulo del dispositivo incorrecto", "Planificación vectorial en TC; vector paralelo al eje óseo", "Ajuste del vector del dispositivo; osteotomía de revisión si es grave"],
+            ["Aflojamiento del pin", "Infección; cumplimiento del paciente", "Cuidado diario del pin; antibióticos profilácticos", "Recambio del pin aflojado; intensificación de antibióticos"],
+            ["Recidiva tras consolidación", "Recidiva parcial esperada ~10–15%", "Sobrecorrección del 10–15%", "Finalización ortodóncica; raramente distracción de revisión"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Retirar el Dispositivo Antes de la Consolidación",
+          "content": "Retirar el dispositivo de distracción antes de la confirmación radiológica de la consolidación (corticalización del regenerado) provoca la recidiva del espacio de distracción. Un error frecuente es retirar el dispositivo basándose en el tiempo transcurrido en lugar de en la maduración radiológica. En adultos, la consolidación requiere un mínimo de 8–12 semanas; en niños sindrómicos suelen necesitarse períodos de consolidación más prolongados (12–16 semanas) debido a la biología ósea comprometida. Obtenga siempre confirmación radiológica o tomográfica de la corticalización antes de retirar el dispositivo."
+        }
+      ]
+    },
+    {
+      "id": "B5-S7",
+      "title": "Aplicaciones Especiales: Distracción Alveolar y DO Neonatal",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**La distracción osteogénica alveolar** es una aplicación especializada utilizada para aumentar verticalmente la cresta alveolar en sitios implantológicos con altura ósea insuficiente. Una osteotomía en la base del proceso alveolar libera un 'disco de transporte' de hueso alveolar (5–8 mm de anchura). Se coloca un distractor miniaturizado dentosoportado o bone-borne, y el disco se eleva gradualmente 0,5 mm/día. A medida que el disco asciende, el nuevo hueso rellena el espacio en expansión, produciendo una cresta alveolar más alta sin necesidad de grandes injertos óseos. Indicaciones típicas: mandíbula posterior con deficiencia de 6–10 mm tras la resorción por extracción dental. Ventajas: se genera hueso nuevo en lugar de injertarse, con mayor densidad y resistencia a la resorción. Desventajas: molestias con el dispositivo, dificultades de control vectorial y movilidad dental por la carga del dispositivo.\n\n**Distracción mandibular neonatal para la secuencia de Pierre Robin:** La secuencia de Pierre Robin (SPR) consiste en micrognatia, glosoptosis y paladar hendido. La micrognatia grave provoca el prolapso posterior de la lengua (glosoptosis), obstruyendo la vía aérea faríngea y produciendo SAOS, dificultades de alimentación y retraso del desarrollo. Tradicionalmente se manejaba con posicionamiento en prono, cánula nasofaríngea o traqueotomía.\n\nLa DO neonatal alarga la mandíbula 10–15 mm en 2 semanas (tasa de 1 mm/día), desplazando anteriormente la base lingual y abriendo la vía aérea. Los dispositivos son marcos externos miniaturizados fijados a pequeños pines colocados en el cuerpo mandibular. **Hong et al. (2011)** demostraron una evitación de traqueotomía del 95% en la SPR tratada con DO neonatal en una revisión sistemática. Las complicaciones incluyen infección del trayecto del pin, desplazamiento del dispositivo y cicatrices menores; no se observaron déficits funcionales ni estéticos significativos a largo plazo en el seguimiento a 10 años. La DO neonatal se considera actualmente el estándar de atención para el manejo de la vía aérea en la SPR cuando las medidas conservadoras fracasan, antes de considerar la traqueotomía."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Algoritmo de Manejo de la Secuencia de Pierre Robin",
+          "content": "El manejo de la vía aérea en la secuencia de Pierre Robin sigue un algoritmo escalonado: (1) posicionamiento en prono + cánula nasofaríngea (CNF) para casos leves; (2) DO mandibular neonatal para micrognatia moderada-grave que no responde a CNF (la mayoría de los casos); (3) traqueotomía solo si la DO fracasa o está contraindicada (aplasia condilar bilateral). La reparación del paladar hendido se difiere hasta los 9–12 meses (técnica de Delaire o equivalente), una vez asegurada la vía aérea. La glosopexia (adhesión gloso-labial) ha sido ampliamente sustituida por la DO como primera intervención quirúrgica en la SPR."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre los principios, dispositivos, indicaciones y complicaciones de la distracción osteogénica con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "B5-Q1",
+        "stem": "¿Cuál es la tasa estándar de distracción en la distracción osteogénica craneofacial y en cuántos incrementos diarios se administra habitualmente?",
+        "options": {
+          "A": "0,5 mm/día en 1 único incremento diario",
+          "B": "1,0 mm/día en 2 incrementos de 0,5 mm",
+          "C": "2,0 mm/día en 4 incrementos de 0,5 mm",
+          "D": "1,5 mm/día en 3 incrementos de 0,5 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La tasa estándar de distracción craneofacial establecida a partir del trabajo original de Ilizarov y confirmada en aplicaciones craneofaciales es de 1,0 mm por día, administrada en 2 incrementos de 0,5 mm cada uno. Esta tasa permite una formación ósea adecuada en la zona del regenerado mientras genera suficiente estrés tensil para mantener la estimulación osteogénica. Las tasas más rápidas (>1,5 mm/día) superan la capacidad de formación ósea, produciendo unión fibrosa; las tasas más lentas prolongan el tratamiento sin mejorar significativamente la calidad ósea.",
+          "wrong": {
+            "A": "0,5 mm/día en un único incremento prolonga innecesariamente el tratamiento y puede emplearse en niños muy pequeños o para distracción alveolar donde el movimiento total es menor",
+            "C": "2,0 mm/día es demasiado rápido — supera la tasa de formación ósea nueva y produce unión fibrosa del regenerado",
+            "D": "1,5 mm/día supera el estándar; algunos protocolos admiten esta tasa para pequeños incrementos, pero no es el estándar y conlleva mayor riesgo de unión fibrosa"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Protocolos de distracción — 1 mm/día en 2 incrementos como estándar",
+          "trial": "Ilizarov GA. The tension-stress effect on the genesis and growth of tissues. Clin Orthop Relat Res (1989): estableció 1 mm/día como tasa óptima a partir de estudios de alargamiento de extremidades; confirmado en aplicaciones craneofaciales",
+          "pearl": "Tasa estándar de DO = 1 mm/día en 2 × 0,5 mm. Demasiado rápido (>1,5 mm/día) = unión fibrosa. Demasiado lento (0,3 mm/día) = consolidación prematura. Latencia = 5–7 días adultos (3–5 días niños). Consolidación = 2–3 × duración de la fase de activación."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B5-Q2",
+        "stem": "McCarthy et al. (1992) publicaron la primera aplicación de la distracción osteogénica al esqueleto craneofacial humano. ¿Qué condición clínica presentaban estos pacientes?",
+        "options": {
+          "A": "Fisura labiopalatina con hipoplasia maxilar",
+          "B": "Microsomia hemifacial con hipoplasia mandibular",
+          "C": "Síndrome de Crouzon con hipoplasia mediofacial",
+          "D": "Secuencia de Pierre Robin con obstrucción de la vía aérea"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "McCarthy, Schreiber, Karp y colaboradores de la NYU describieron en 1992 la primera aplicación del principio de distracción de Ilizarov al esqueleto craneofacial humano, tratando a cuatro niños con microsomia hemifacial (también conocida como microsomia craneofacial o síndrome del primer y segundo arco branquial). Los pacientes presentaban hipoplasia mandibular unilateral con asimetría facial. Se aplicaron dispositivos de distracción extraorales tras la corticotomía, logrando un alargamiento mandibular significativo con formación de nuevo hueso en el regenerado — estableciendo la viabilidad de la DO craneofacial y desencadenando su adopción mundial.",
+          "wrong": {
+            "A": "La distracción maxilar relacionada con fisura fue descrita posteriormente (Cohen et al. 1997) tras el trabajo fundacional de McCarthy en la mandíbula",
+            "C": "La distracción de Le Fort III para hipoplasia mediofacial sindrómica (Crouzon/Apert) siguió al trabajo de McCarthy, utilizando el dispositivo RED",
+            "D": "La DO neonatal para la secuencia de Pierre Robin se describió a finales de los años 90 y principios de los 2000 — después de la publicación de McCarthy de 1992"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Hitos históricos — McCarthy et al. 1992 como publicación fundacional de la DO craneofacial",
+          "trial": "McCarthy JG, Schreiber J, Karp N et al. Lengthening the human mandible by gradual distraction. Plast Reconstr Surg (1992): 4 niños con microsomia hemifacial; alargamiento mandibular de 24–37 mm logrado; sin complicaciones mayores; estableció la DO craneofacial",
+          "pearl": "McCarthy et al. 1992 = primera DO craneofacial = microsomia hemifacial. Conozca esta publicación histórica — su fecha, autores e indicación son objeto de examen."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B5-Q3",
+        "stem": "Un niño de 6 años con secuencia de Pierre Robin presenta micrognatia grave que causa obstrucción persistente de la vía aérea no respondedora al posicionamiento en prono y la cánula nasofaríngea. La valoración de la vía aérea muestra glosoptosis en la base de la lengua posterior. ¿Cuál es el manejo quirúrgico más adecuado?",
+        "options": {
+          "A": "Traqueotomía",
+          "B": "Adhesión gloso-labial (glosopexia)",
+          "C": "Distracción osteogénica mandibular neonatal",
+          "D": "Avance maxilar de Le Fort I"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La DO mandibular neonatal es actualmente el estándar de atención para la obstrucción de la vía aérea en la secuencia de Pierre Robin que no responde al manejo conservador. Al alargar la mandíbula 10–15 mm en 2 semanas, la DO desplaza anteriormente la base lingual, aliviando la glosoptosis y abriendo la vía aérea faríngea. Hong et al. (2011) demostraron una evitación de traqueotomía del 95% con la DO neonatal. Aunque este paciente tiene 6 años (no es neonatal), la DO mandibular sigue siendo la intervención quirúrgica adecuada para la vía aérea — la traqueotomía se reserva para los fracasos de la DO.",
+          "wrong": {
+            "A": "La traqueotomía es el último recurso en el manejo de la secuencia de Pierre Robin — la DO neonatal debe intentarse primero en la mayoría de los casos",
+            "B": "La glosopexia (adhesión gloso-labial) ha sido ampliamente sustituida por la DO mandibular como intervención quirúrgica primaria; presenta mayores tasas de recidiva y requiere un segundo procedimiento para liberar la adhesión",
+            "C": "Esta es la respuesta correcta",
+            "D": "El avance maxilar de Le Fort I no aborda la retrognatia mandibular ni la glosoptosis de la base lingual — no es relevante para el manejo de la vía aérea en la SPR"
+          },
+          "guideline": "ACPA Team Standards (2023): Manejo de la secuencia de Pierre Robin — protocolo escalonado de vía aérea; DO neonatal para medidas conservadoras fallidas; traqueotomía reservada para fracaso de la DO",
+          "trial": "Hong P et al. Neonatal mandibular distraction osteogenesis for airway management in Pierre Robin sequence: systematic review. Laryngoscope (2011): 95% evitación de traqueotomía; segura y eficaz; sustituye a la glosopexia como primera opción quirúrgica",
+          "pearl": "Algoritmo SPR: (1) prono + CNF → (2) DO mandibular → (3) traqueotomía solo si la DO fracasa. La DO logra el 95% de evitación de traqueotomía (Hong et al. 2011). La glosopexia ha sido ampliamente superada por la DO."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q4",
+        "stem": "Una paciente de 14 años con maloclusión esquelética de clase II requiere 14 mm de avance mandibular. En comparación con la BSSO aguda de 14 mm, ¿qué demuestra la evidencia sobre la distracción osteogénica para esta magnitud de movimiento?",
+        "options": {
+          "A": "La BSSO aguda presenta menor recidiva que la distracción osteogénica para avances de gran magnitud",
+          "B": "La distracción osteogénica logra tasas de recidiva similares a la osteotomía aguda para avances de gran magnitud",
+          "C": "La distracción osteogénica produce aproximadamente un 12% de recidiva frente al 48% con osteotomía aguda para avances de clase II de gran magnitud",
+          "D": "La distracción osteogénica no es adecuada para la mandíbula — solo para el avance del macizo facial"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Rachmiel et al. (2001) compararon directamente la distracción osteogénica con el avance agudo de Le Fort I o BSSO para correcciones de gran magnitud (>8–10 mm) en un estudio prospectivo. La recidiva a los 2 años de seguimiento fue del 12% con DO frente al 48% con osteotomía aguda. Esta diferencia dramática estableció la DO como técnica de elección para avances de clase II de gran magnitud (>10–12 mm), donde la recidiva tras BSSO aguda es clínicamente inaceptable. La expansión tisular gradual durante la DO permite que la musculatura y los tejidos blandos circundantes se adapten, reduciendo el retroceso elástico que impulsa la recidiva tras grandes avances agudos.",
+          "wrong": {
+            "A": "Esto es lo contrario a la evidencia — la osteotomía aguda para movimientos de gran magnitud presenta tasas de recidiva MUCHO más altas que la DO",
+            "B": "Las tasas de recidiva no son similares para movimientos de gran magnitud — la DO presenta recidiva dramáticamente menor (12% vs 48%)",
+            "D": "La distracción mandibular es una de las principales aplicaciones de la DO y fue la primera aplicación craneofacial (McCarthy 1992)"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Avances de clase II de gran magnitud — DO preferida para movimientos >10–12 mm",
+          "trial": "Rachmiel A et al. Internal distraction osteogenesis of severe maxillary hypoplasia. Plast Reconstr Surg (2001): 12% recidiva DO vs 48% osteotomía aguda a los 2 años para avances de clase II >8 mm",
+          "pearl": "Rachmiel (2001): DO 12% recidiva vs osteotomía aguda 48% para avances de clase II de gran magnitud. Umbral: >10–12 mm = usar distracción. <10 mm = BSSO aguda es apropiada con riesgo de recidiva aceptable."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q5",
+        "stem": "Durante la activación de un dispositivo de distracción mandibular, el cirujano observa que el dispositivo encuentra resistencia inusual en el día 10 de activación y el paciente refiere dolor con la activación. ¿Qué complicación ha ocurrido con mayor probabilidad?",
+        "options": {
+          "A": "Unión fibrosa del regenerado",
+          "B": "Fallo del dispositivo (fractura del mecanismo de distracción)",
+          "C": "Consolidación prematura de la zona del regenerado",
+          "D": "Infección del trayecto del pin que causa aflojamiento del tornillo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La resistencia a la activación y el dolor durante la distracción, especialmente cuando se encuentra antes de que se complete el movimiento planificado, indica consolidación prematura — la zona del regenerado se ha mineralizado más rápido de lo esperado, creando un puente óseo que resiste la distracción adicional. Esto ocurre cuando: (1) el período de latencia fue demasiado prolongado (permitiendo una mineralización precoz antes del inicio de la distracción), (2) la tasa de activación fue demasiado lenta, (3) el paciente tiene una formación ósea rápida (niños, adolescentes), o (4) interrupciones en la activación permitieron la consolidación entre sesiones. Las opciones de manejo incluyen aumentar la tasa de activación, incrementos más frecuentes y pequeños, o si ya está completamente consolidado, recorticotomía bajo anestesia.",
+          "wrong": {
+            "A": "La unión fibrosa produce una activación fácil del dispositivo (sin resistencia) porque el tejido fibroso no resiste la distracción — el problema es la formación ósea insuficiente, no excesiva",
+            "B": "La fractura del dispositivo se presentaría como fallo completo del mecanismo o chasquido audible, no como resistencia progresiva",
+            "D": "El aflojamiento del pin reduce el agarre del dispositivo sobre el hueso pero se presentaría como mayor movilidad del marco del dispositivo, no como resistencia a la activación"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Complicaciones de la DO — reconocimiento y manejo de la consolidación prematura",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): resistencia durante la activación descrita como patognomónica de la consolidación prematura; se recomienda aumentar la tasa de activación o recorticotomía",
+          "pearl": "Resistencia durante la activación de la DO = consolidación prematura (el hueso ha formado un puente prematuro). Manejo: aumentar la tasa de activación o recorticotomía si está completamente consolidado. Prevención: evitar períodos de latencia prolongados (>7 días en adultos, >5 días en niños) y no interrumpir las sesiones de activación."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q6",
+        "stem": "La SARPE (expansión palatina rápida asistida quirúrgicamente) está indicada para la deficiencia maxilar transversal mayor de:",
+        "options": {
+          "A": "2 mm",
+          "B": "5 mm",
+          "C": "10 mm",
+          "D": "15 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La SARPE está indicada para la deficiencia maxilar transversal mayor de 5 mm en pacientes adultos con sutura palatina media fusionada. La deficiencia ≤4 mm en adultos puede manejarse únicamente con compensación dental; la deficiencia >5 mm requiere expansión esquelética. En adultos, la sutura palatina media está fusionada y la EPR sin asistencia quirúrgica produce predominantemente inclinación dental (movimiento vestibular de los dientes posteriores), que rápidamente alcanza el límite periodontal, provoca dolor y resulta en una expansión esquelética mínima seguida de recidiva significativa al retirar el aparato. La SARPE libera quirúrgicamente la fusión sutural, permitiendo que el expansor palatino logre una verdadera ampliación esquelética del arco.",
+          "wrong": {
+            "A": "La deficiencia transversal de 2 mm puede habitualmente acomodarse con ortodoncia de descompensación dental — no se necesita expansión quirúrgica",
+            "C": "10 mm está dentro del rango tratable con SARPE (que puede lograr una expansión de 5–12 mm) pero no es el umbral de indicación",
+            "D": "15 mm de deficiencia transversal está cerca del límite superior de la SARPE o puede requerir un enfoque diferente; no es el umbral de indicación"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Indicación de SARPE — deficiencia maxilar transversal >5 mm en adultos",
+          "trial": "Seeberger R et al. Results after surgically assisted rapid palatal expansion. Head Face Med (2010): SARPE logra >95% de éxito para correcciones transversales de 5–12 mm; menor éxito con compensaciones puramente dentales para deficiencias >5 mm",
+          "pearl": "SARPE = deficiencia transversal adulto >5 mm con sutura palatina media fusionada. Niños/adolescentes con sutura abierta: EPR sola (sin cirugía). Adultos <5 mm: puede ser suficiente la compensación dental. Adultos >5 mm: SARPE requerida."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B5-Q7",
+        "stem": "¿Qué dispositivo se considera estándar para la distracción mediofacial a nivel de Le Fort III en la craneosinostosis sindrómica (síndromes de Crouzon/Apert)?",
+        "options": {
+          "A": "Distractor dentosoportado intraoral",
+          "B": "Dispositivo de distracción externa rígida (RED)",
+          "C": "Dispositivo KLS Martin para mandíbula de Synthes",
+          "D": "Tracción de halo gravitacional"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El dispositivo RED (distracción externa rígida) es el dispositivo estándar para la distracción mediofacial al nivel de Le Fort III en la craneosinostosis sindrómica. Tras la osteotomía de Le Fort III que moviliza todo el macizo facial, el dispositivo RED se fija a pines en la bóveda craneal bilateralmente y se conecta a una máscara facial superpuesta al macizo facial mediante alambres de tracción. El marco externo permite ajustes vectoriales precisos durante toda la fase de activación. El dispositivo RED puede lograr 15–25 mm de avance mediofacial en 3–6 semanas — superando ampliamente lo posible con osteotomía aguda e injertos óseos — con tasas de recidiva dramáticamente menores.",
+          "wrong": {
+            "A": "Los distractores dentosoportados intraorales se emplean para aplicaciones de Le Fort I o mandibulares — no pueden proporcionar las fuerzas ni los vectores necesarios para la distracción mediofacial al nivel de Le Fort III",
+            "C": "Los dispositivos KLS Martin son distractores mandibulares o dentoalveolares pequeños — no diseñados para la aplicación craneofacial al nivel de Le Fort III",
+            "D": "La tracción de halo gravitacional se emplea en afecciones de la columna cervical — no para el avance del macizo facial craneofacial"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Distracción mediofacial — dispositivo RED como estándar para el avance al nivel de Le Fort III",
+          "trial": "Cohen SR, Burstein FD, Stewart MB et al. Maxillary-midface distraction in children with cleft lip and palate using a rigid external distraction device. Plast Reconstr Surg (1997): dispositivo RED descrito para distracción mediofacial; avances de 15–25 mm con baja recidiva",
+          "pearl": "Distracción mediofacial Le Fort III = dispositivo RED (distracción externa rígida). Fijado a pines craneales + máscara facial. Logra 15–25 mm de avance mediofacial en Crouzon/Apert. Baja recidiva, vector ajustable durante la activación. Hardware externo visible — principal desventaja pero inevitable para este nivel."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q8",
+        "stem": "Se retira un dispositivo de distracción mandibular 6 semanas después del fin de la fase de activación (distracción planificada total de 12 mm, lograda en 12 días). Tres meses más tarde, el paciente presenta recurrencia de la deformidad original y las imágenes muestran pérdida del avance obtenido. ¿Cuál fue la causa más probable?",
+        "options": {
+          "A": "El dispositivo se retiró demasiado tarde, causando hipertrofia perióstica",
+          "B": "El dispositivo se retiró antes de una consolidación adecuada del regenerado (retirada prematura)",
+          "C": "La tasa de activación fue demasiado lenta",
+          "D": "El período de latencia fue demasiado prolongado"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La fase de consolidación debe durar 2–3 veces la duración de la fase de activación, con un mínimo de 8–12 semanas en adultos. Para una fase de activación de 12 días, la consolidación mínima es de 24–36 días, pero el mínimo recomendado en adultos es de 8–12 semanas (56–84 días) independientemente de lo corta que haya sido la fase de activación. Retirar el dispositivo solo 6 semanas (42 días) después de que terminó la activación puede ser insuficiente para una mineralización adecuada del regenerado y la corticalización — especialmente para una distracción de 12 mm, que genera un volumen de regenerado sustancial. La retirada prematura permite el retroceso elástico de los tejidos blandos y el colapso del regenerado incompletamente mineralizado.",
+          "wrong": {
+            "A": "La retirada tardía no es un problema clínico — simplemente prolonga la duración del tratamiento; la hipertrofia perióstica no es una complicación de la retirada tardía del dispositivo",
+            "C": "Una activación demasiado lenta causaría consolidación prematura (resistencia durante la activación), no recidiva tras la retirada",
+            "D": "Un período de latencia demasiado prolongado causa consolidación prematura (resistencia durante la activación), no recidiva tras la retirada del dispositivo"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Requisitos de la fase de consolidación — mínimo 8–12 semanas en adultos; corticalización radiológica requerida antes de la retirada del dispositivo",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): consolidación 2–3 × duración de la fase de activación establecida; retirada prematura = colapso del regenerado inmaduro descrito en modelos animales",
+          "pearl": "Consolidación mínima = 8–12 semanas en adultos (independientemente de la duración de la fase de activación). Confirme la corticalización radiológicamente antes de retirar el dispositivo. 6 semanas de consolidación para una distracción de 12 mm = probable retirada prematura → recidiva."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q9",
+        "stem": "La desviación vectorial es una complicación de la distracción osteogénica mandibular en la que el segmento distraído se desplaza en una dirección no planificada. ¿Qué grupo muscular es el principal responsable de la desviación vectorial durante la distracción del cuerpo mandibular?",
+        "options": {
+          "A": "Digástrico anterior y milohioideo (grupo suprahioideo)",
+          "B": "Masetero y pterigoideo medial (músculos elevadores que traccionan el segmento proximal superiormente)",
+          "C": "Temporal (que tracciona la apófisis coronoides superiormente)",
+          "D": "Buccinador (que tracciona el segmento distal en sentido vestibular)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Durante la distracción del cuerpo mandibular, el masetero y el pterigoideo medial se insertan en el segmento proximal (portador del cóndilo) y ejercen una tracción superior y medial. Esta fuerza muscular sobre el segmento proximal, combinada con el segmento distal fijo, puede desviar el vector de distracción superior o medialmente — en dirección opuesta al vector inferior/anterior planificado. El resultado es que el hueso distraído se abre en una dirección no deseada, produciendo un movimiento no planificado que compromete la corrección. La prevención implica una planificación vectorial preoperatoria cuidadosa en TC, asegurando que el vector del dispositivo tenga en cuenta y contrarreste la tracción muscular esperada.",
+          "wrong": {
+            "A": "Los músculos suprahioideos traccionan el segmento distal/mentoniano inferiormente — su influencia sobre la desviación vectorial es menos prominente que la tracción maseterina sobre el segmento proximal",
+            "C": "El temporal tracciona la apófisis coronoides superiormente dentro del segmento proximal — contribuye a la rotación del segmento proximal pero es menos influyente sobre el vector de distracción global que el masetero/pterigoideo",
+            "D": "El buccinador es un músculo delgado que no genera fuerzas capaces de desviar significativamente el vector de distracción"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Planificación vectorial para DO mandibular — tracción maseterina como causa principal de desviación vectorial",
+          "trial": "McCarthy JG et al. Plast Reconstr Surg (1992): desviación vectorial descrita en la serie original; atribuida a la tracción maseterina sobre el segmento proximal; se recomienda planificación vectorial preoperatoria para tener en cuenta las fuerzas musculares",
+          "pearl": "Desviación vectorial en DO mandibular = masetero + pterigoideo medial traccionan el segmento proximal superior/medialmente. Planifique el vector del dispositivo para contrarrestar esta fuerza. Considere colocar el vector inferior y anterior a la posición final planificada para compensar la desviación esperada."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B5-Q10",
+        "stem": "¿Cuál es el hallazgo histológico característico en la zona central de un regenerado en distracción activa aproximadamente en el día 7 de la fase de activación?",
+        "options": {
+          "A": "Hueso laminar maduro con sistemas de Havers",
+          "B": "Zona fibrosa central (fibrous interzone) con fibras de colágeno orientadas a lo largo del vector de distracción",
+          "C": "Hueso necrótico con ausencia de osteoblastos",
+          "D": "Cartílago maduro (tipo hialino) con lagunas de condrocitos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Durante la distracción activa, la zona del regenerado muestra una estructura en capas característica. La zona fibrosa central consiste en tejido fibroso denso con fibras de colágeno orientadas paralelas al vector de distracción — este es el regenerado activo que está siendo traccionado. En los bordes de la zona fibrosa, las zonas de transición contienen fibrocartílago y mineralización precoz. En la unión hueso-regenerado, se produce la formación ósea primaria a lo largo del frente de mineralización. El centro fibroso es normal y esperado; madurará hacia hueso entretejido y posteriormente laminar durante la fase de consolidación.",
+          "wrong": {
+            "A": "El hueso laminar maduro con sistemas de Havers es el resultado final que se observa tras la consolidación completa (meses), no en el día 7 de la distracción activa",
+            "C": "El hueso necrótico indicaría necrosis avascular del segmento de transporte por aporte sanguíneo inadecuado — no es la histología normal del regenerado activo",
+            "D": "El cartílago hialino maduro se observa en la osificación endocondral — el mecanismo principal en la DO es la formación ósea directa de tipo intramembranoso desde el periostio, no endocondral; algo de fibrocartílago es normal en la zona de transición, pero no cartílago hialino"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Biología de la distracción — histología del regenerado durante la fase de activación",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): descripción histológica de la zona del regenerado que muestra zona fibrosa central con colágeno vectorialmente orientado que transiciona hacia hueso en el frente de mineralización",
+          "pearl": "Histología del regenerado en DO activa (del centro al borde): zona fibrosa (colágeno orientado a lo largo del vector de distracción) → zona de transición fibrocartilaginosa → frente de mineralización primaria → hueso maduro en la unión. El centro fibroso es NORMAL durante la activación — se mineraliza durante la consolidación."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B5-Q11",
+        "stem": "¿Cuál es la principal ventaja de la expansión palatina rápida asistida quirúrgicamente (SARPE) frente a la expansión palatina rápida (EPR) ortodóncica convencional en pacientes adultos?",
+        "options": {
+          "A": "La SARPE produce un movimiento dental más rápido",
+          "B": "La SARPE logra una expansión esquelética verdadera al liberar la sutura palatina media fusionada, evitando la inclinación dental y las complicaciones periodontales",
+          "C": "La SARPE no requiere un dispositivo expansor palatino",
+          "D": "La SARPE se emplea en pacientes menores de 16 años"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En adultos, la sutura palatina media está fusionada y no puede separarse solo con fuerzas ortodóncicas. La EPR convencional en adultos produce predominantemente inclinación dental (movimiento vestibular de los dientes posteriores), que rápidamente alcanza un límite periodontal, provoca dolor y resulta en una expansión esquelética mínima seguida de recidiva significativa al retirar el aparato. La SARPE libera quirúrgicamente la resistencia de las paredes laterales y la sutura palatina media, permitiendo que el expansor palatino logre una verdadera ampliación esquelética del arco. Esto produce movimiento ortopédico del arco maxilar completo, mejorando la vía aérea nasal, reduciendo la mordida cruzada a nivel esquelético y logrando resultados estables a largo plazo.",
+          "wrong": {
+            "A": "La SARPE no produce necesariamente un movimiento dental más rápido — la tasa de expansión es similar; la diferencia reside en la respuesta esquelética frente a la dental",
+            "C": "La SARPE siempre requiere un dispositivo expansor palatino (Hyrax o similar) como mecanismo de distracción — la cirugía libera la resistencia pero el expansor impulsa el movimiento",
+            "D": "La SARPE es específicamente para ADULTOS — en pacientes menores de 16–18 años (sutura abierta), la EPR sin cirugía es adecuada"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): SARPE — la liberación quirúrgica de la sutura fusionada permite la expansión esquelética verdadera",
+          "trial": "Seeberger R et al. Head Face Med (2010): SARPE vs EPR ortodóncica en adultos — el grupo SARPE mostró un cambio esquelético 3,2 × mayor vs 1,1 × en el grupo EPR; el grupo SARPE con 8% de recidiva vs 42% en el grupo solo EPR a los 2 años",
+          "pearl": "SARPE vs EPR en adultos: EPR sola = solo inclinación dental + alta recidiva. SARPE = expansión esquelética verdadera + estable a largo plazo. Diferencia clave: la sutura palatina media adulta fusionada requiere liberación QUIRÚRGICA para lograr expansión esquelética."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B5-Q12",
+        "stem": "Un niño de 4 años con microsomia hemifacial (Pruzansky/OMENS-Plus Grado IIb) presenta hipoplasia mandibular significativa en el lado derecho, asimetría facial y mordida cruzada posterior derecha. La familia pregunta sobre la distracción osteogénica mandibular precoz frente a esperar a la madurez esquelética para una cirugía ortognática definitiva. ¿Qué afirmación refleja con mayor precisión la evidencia actual sobre el momento óptimo?",
+        "options": {
+          "A": "La distracción precoz a los 4 años proporciona una corrección permanente equivalente a la cirugía ortognática del adulto",
+          "B": "La distracción precoz mejora la simetría y los resultados sociales, pero requiere cirugía adicional en la madurez esquelética debido al crecimiento diferencial",
+          "C": "La distracción está contraindicada por debajo de los 8 años",
+          "D": "Esperar a la madurez esquelética siempre es superior a la intervención precoz en la microsomia hemifacial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La evidencia sobre la distracción mandibular precoz en la microsomia hemifacial muestra que, aunque es posible lograr una mejoría significativa de la simetría a los 4–8 años, el crecimiento anormal del lado mandibular hipoplásico continúa durante toda la infancia. La mandíbula distraída crece a un ritmo más lento que el lado normal, provocando la recurrencia progresiva de la asimetría. Por tanto, prácticamente todos los pacientes sometidos a distracción precoz requerirán cirugía adicional (distracción repetida o cirugía ortognática formal) en o cerca de la madurez esquelética. Sin embargo, la distracción precoz proporciona beneficios importantes: mejor integración social antes de la edad escolar, reducción de la escoliosis cervical compensatoria y posible mejora del patrón de crecimiento al corregir el desequilibrio de la matriz funcional.",
+          "wrong": {
+            "A": "La distracción precoz NO proporciona una corrección permanente equivalente a la cirugía definitiva del adulto — la asimetría recurre debido al crecimiento diferencial",
+            "C": "La distracción no está contraindicada a los 4 años — la técnica está bien establecida para neonatos y niños pequeños; existen dispositivos especializados disponibles",
+            "D": "Esperar a la madurez esquelética no es 'siempre superior' — la intervención precoz proporciona beneficios sociales y funcionales que el retraso niega al niño durante los años críticos del desarrollo"
+          },
+          "guideline": "ACPA Team Standards (2023): Manejo de la microsomia hemifacial — distracción precoz para indicaciones sociales/funcionales con expectativa de cirugía de revisión en la madurez",
+          "trial": "Guerrero CA et al. Intraoral distraction osteogenesis in the correction of facial asymmetry. Oral Surg Oral Med Oral Pathol (1997): la distracción precoz logra mejoría de la simetría, pero se produce recurrencia de la asimetría en el 85% de los casos en la madurez esquelética; se requiere cirugía definitiva",
+          "pearl": "DO precoz en MHF: mejora la simetría para la edad escolar + reduce la escoliosis PERO se produce recurrencia de la asimetría → cirugía ortognática definitiva sigue siendo necesaria en la madurez esquelética. Informe a la familia: distracción precoz = tratamiento por etapas, no curación definitiva."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q13",
+        "stem": "En el contexto de la distracción osteogénica, ¿a qué se refiere la 'distracción de transporte'?",
+        "options": {
+          "A": "Mover el dispositivo de distracción de un segmento óseo a otro durante el tratamiento",
+          "B": "Técnica en la que un segmento de hueso nativo se desplaza gradualmente a través de una zona de defecto, generando nuevo hueso a su paso",
+          "C": "Transporte de un injerto óseo libre al sitio de distracción",
+          "D": "La fase de la DO en la que el segmento se mueve desde la corticotomía hasta la posición final"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La distracción osteogénica de transporte es una variante especializada en la que un 'disco de transporte' de hueso se libera mediante osteotomía y se desplaza gradualmente a través de un defecto óseo (p. ej., tras resección mandibular tumoral), generando nuevo hueso en el espacio creciente detrás del disco. A medida que el disco se desplaza a través del defecto, finalmente se acopla con el hueso del extremo distal del defecto, produciéndose la curación por contacto en el sitio de acoplamiento. Esta técnica puede reconstruir grandes defectos mandibulares segmentarios (>5 cm) sin cirugía de colgajo libre, aunque requiere un tratamiento prolongado (meses) y conlleva complicaciones específicas (no unión en el sitio de acoplamiento, dehiscencia de tejidos blandos sobre el disco).",
+          "wrong": {
+            "A": "Mover el dispositivo entre segmentos no es una técnica clínica — no tiene un término específico denominado",
+            "C": "La distracción de transporte no implica el transporte de injerto óseo libre — el nuevo hueso se genera a la estela del disco de hueso nativo en movimiento",
+            "D": "El movimiento desde la corticotomía hasta la posición final se denomina simplemente 'fase de activación' — no distracción de transporte"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): DO de transporte para grandes defectos óseos — indicaciones y limitaciones",
+          "trial": "Diss ME et al. Mandibular transport distraction osteogenesis. J Oral Maxillofac Surg (2007): defectos de hasta 8 cm reconstruidos con DO de transporte; 12% de no unión en el sitio de acoplamiento que requirió injerto óseo; alternativa viable al colgajo libre en casos seleccionados",
+          "pearl": "DO de transporte = mover un disco de hueso nativo a través de un defecto → nuevo hueso se forma detrás → acoplamiento en el extremo distal. Se emplea para grandes defectos mandibulares (>5 cm). Ventaja: sin colgajo libre. Desventaja: tratamiento muy prolongado, complicaciones del sitio de acoplamiento, meses de hardware externo."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q14",
+        "stem": "Una mujer de 28 años con síndrome de Crouzon presenta hipoplasia mediofacial grave con exorbitismo (exposición corneal por órbitas superficiales), apnea obstructiva del sueño (IAH 42) y malestar psicológico significativo por su apariencia facial. Se planifica una distracción de Le Fort III con el dispositivo RED. ¿Cuánto avance mediofacial puede esperarse aproximadamente?",
+        "options": {
+          "A": "2–4 mm",
+          "B": "5–8 mm",
+          "C": "10–15 mm",
+          "D": "15–25 mm"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "La distracción de Le Fort III con el dispositivo RED es capaz de lograr 15–25 mm de avance mediofacial durante un período de activación de 3–6 semanas. Este rango supera ampliamente lo alcanzable con la osteotomía aguda de Le Fort III e injertos óseos (típicamente limitado a 8–12 mm antes de que la recidiva sea prohibitiva). Los grandes movimientos alcanzables con la DO permiten una corrección adecuada de la hipoplasia mediofacial sindrómica grave — suficiente para corregir el exorbitismo (protección del globo ocular), mejorar significativamente la vía aérea superior y el IAH, y lograr una mejoría estética significativa.",
+          "wrong": {
+            "A": "2–4 mm está dentro del rango de la osteotomía aguda estándar de Le Fort I — muy por debajo de lo que requiere la hipoplasia mediofacial sindrómica y de lo que puede lograr la DO",
+            "B": "5–8 mm es alcanzable con la Le Fort III aguda, pero este rango es insuficiente para la hipoplasia grave de Crouzon y conlleva alto riesgo de recidiva",
+            "C": "10–15 mm es alcanzable con la DO y representa el mínimo típicamente necesario en Crouzon/Apert — pero el rango completo alcanzable se extiende hasta 25 mm con el dispositivo RED"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Distracción de Le Fort III con dispositivo RED — movimiento alcanzable 15–25 mm",
+          "trial": "Cohen SR et al. Plast Reconstr Surg (1997): la distracción de Le Fort III con dispositivo RED logró un avance medio de 18,5 mm (rango 12–26 mm) en craneosinostosis sindrómica; mejoría significativa del IAH y resolución del exorbitismo",
+          "pearl": "Distracción de Le Fort III con dispositivo RED = 15–25 mm de avance mediofacial. Esto supera la capacidad de la osteotomía aguda (8–12 mm) y aborda simultáneamente el exorbitismo, la SAOS y la estética. El prolongado tiempo de tratamiento (3–6 semanas de activación + 12–16 semanas de consolidación) es la contrapartida por estos grandes movimientos."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q15",
+        "stem": "¿Qué es el período de latencia en la distracción osteogénica y qué complicación resulta de que sea demasiado corto en pacientes pediátricos?",
+        "options": {
+          "A": "La fase de consolidación; la retirada prematura del dispositivo provoca recidiva",
+          "B": "El período entre la corticotomía y el inicio de la activación; demasiado corto causa unión fibrosa",
+          "C": "El período entre la corticotomía y el inicio de la activación; demasiado largo causa consolidación prematura en niños",
+          "D": "El período entre la colocación del dispositivo y la corticotomía; demasiado corto causa necrosis ósea"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El período de latencia es el intervalo entre la corticotomía (osteotomía) y el inicio de la activación del dispositivo. Durante esta fase, se producen la organización del hematoma precoz y la formación inicial del callo. En niños, el recambio óseo y las tasas de cicatrización son significativamente más rápidos que en adultos. Un período de latencia estándar para adultos (5–7 días) puede ser demasiado prolongado para niños, permitiendo la consolidación prematura del callo precoz antes de que comience la activación. La latencia pediátrica debe acortarse a 3–5 días. Una latencia demasiado corta (<48 horas) interrumpe la formación del callo precoz y conduce a unión fibrosa por cicatrización inicial inadecuada.",
+          "wrong": {
+            "A": "La retirada prematura del dispositivo es la causa de recidiva por consolidación inadecuada — no está relacionada con el período de latencia",
+            "B": "Esto describe parcialmente correctamente el período de latencia, pero afirma incorrectamente que una latencia demasiado corta causa unión fibrosa — es demasiado CORTA la que puede causar no unión, demasiado LARGA la que causa consolidación prematura (especialmente en niños)",
+            "D": "No existe un período estándar denominado 'entre la colocación del dispositivo y la corticotomía' — la corticotomía y la colocación del dispositivo se realizan en la misma sesión quirúrgica"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Protocolos de DO — ajuste del período de latencia para pacientes pediátricos",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): optimización de la latencia — demasiado corta (<2 días) = unión fibrosa; demasiado larga (>10 días en niños) = consolidación prematura; óptima 3–5 días en niños, 5–7 días en adultos",
+          "pearl": "Período de latencia: Adulto = 5–7 días. Niño = 3–5 días (más corto porque la formación ósea más rápida → consolidación prematura si demasiado largo). Demasiado corto = unión fibrosa. Demasiado largo (niños) = consolidación prematura + resistencia en la primera activación."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q16",
+        "stem": "¿Qué complicación de la distracción osteogénica se manifiesta como activación fácil del dispositivo con mínima resistencia, pero la radiografía no muestra evidencia de formación ósea en la zona del regenerado a las 6 semanas?",
+        "options": {
+          "A": "Consolidación prematura",
+          "B": "Unión fibrosa del regenerado",
+          "C": "Desplazamiento condilar",
+          "D": "Desviación vectorial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La unión fibrosa ocurre cuando la tasa de activación supera la capacidad de formación ósea, o cuando la vascularización está comprometida (infección, desvascularización excesiva, hueso irradiado). El dispositivo se activa fácilmente porque no hay hueso mineralizado que resista la separación — solo tejido fibroso rellena el espacio. Radiológicamente, no se observa densidad ósea en la zona del regenerado a las 6 semanas cuando la formación ósea debería ser aparente. Tratamiento: si se detecta durante la activación, reducir la tasa a 0,3–0,5 mm/día y continuar. Si se descubre en la fase de consolidación con unión fibrosa pura, se requiere injerto óseo autólogo de la zona del regenerado.",
+          "wrong": {
+            "A": "La consolidación prematura se presenta con resistencia durante la activación (el hueso ha formado un puente) — lo contrario de la activación fácil",
+            "C": "El desplazamiento condilar afecta a la función y posición mandibular, pero no explica la ausencia de formación ósea en el regenerado",
+            "D": "La desviación vectorial afecta a la dirección del movimiento del segmento óseo — el hueso sigue formándose en el regenerado, solo que no en la dirección planificada"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Unión fibrosa — reconocimiento y manejo",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): unión fibrosa por tasa de distracción excesiva descrita; se requiere injerto óseo del espacio fibroso maduro para la reconstrucción",
+          "pearl": "Unión fibrosa = activación fácil + sin hueso en la radiografía a las 6 semanas. Causa: activación demasiado rápida O mala vascularización. Manejo: reducir la tasa de activación inmediatamente si continúa; injerto óseo de la zona fibrosa si ya está en la fase de consolidación."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B5-Q17",
+        "stem": "Una niña de 8 años con fisura labiopalatina se somete a SARPE (expansión palatina rápida asistida quirúrgicamente) por deficiencia maxilar transversal de 7 mm. ¿Qué afirmación sobre la SARPE en este grupo de edad es más precisa?",
+        "options": {
+          "A": "La SARPE está contraindicada por debajo de los 10 años — la EPR ortodóncica sola es adecuada para todos los niños menores de 10 años",
+          "B": "La asistencia quirúrgica es innecesaria ya que la sutura palatina media aún es permeable en la mayoría de los niños de 8 años; la EPR sola es eficaz",
+          "C": "El MARPE bone-borne se prefiere sobre la SARPE en niños por el menor riesgo quirúrgico",
+          "D": "En pacientes con fisura palatina, la asistencia quirúrgica suele ser necesaria incluso en niños debido a la cicatrización tras la reparación del paladar"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "En niños con fisura palatina que se han sometido a reparación palatina, el tejido cicatricial crea una resistencia significativa a la expansión palatina ortodóncica incluso antes de que se produzca la fusión de la sutura. El tejido palatino fibrótico impide la ampliación transversal del arco con EPR sola a fuerzas que de otro modo serían suficientes para un niño de la misma edad sin fisura. La asistencia quirúrgica (equivalente a SARPE con osteotomías de la pared lateral y posiblemente una liberación de la cicatriz palatina media) es por tanto frecuentemente necesaria en pacientes con fisura palatina incluso a edades más jóvenes (7–10 años) para superar la resistencia del tejido cicatricial y lograr una expansión esquelética fiable.",
+          "wrong": {
+            "A": "Esto es incorrecto específicamente para los pacientes con fisura — la EPR sola suele ser inadecuada debido al tejido cicatricial palatino",
+            "B": "Aunque la sutura suele ser permeable a los 8 años en niños sin fisura, la reparación del paladar hendido crea fibrosis que proporciona una resistencia equivalente a una sutura fusionada — la EPR ortodóncica sola fracasa en muchos pacientes con fisura",
+            "C": "El MARPE (EPR asistida con miniimplantes) es principalmente una técnica para adultos en los que se está considerando la SARPE; la evidencia del MARPE pediátrico es limitada y no aborda específicamente la resistencia del tejido cicatricial en pacientes con fisura"
+          },
+          "guideline": "ACPA Team Standards (2023): Expansión maxilar en pacientes con fisura palatina — asistencia quirúrgica frecuentemente necesaria por tejido cicatricial palatino independientemente del estado de fusión de la sutura",
+          "trial": "Seeberger R et al. Head Face Med (2010): los pacientes con fisura palatina requieren liberación quirúrgica del tejido cicatricial para una expansión eficaz incluso en edades en que la sutura es normalmente permeable",
+          "pearl": "El tejido cicatricial del paladar hendido = resistencia equivalente a una sutura fusionada para los propósitos de la EPR. La SARPE (o liberación quirúrgica equivalente del tejido cicatricial) frecuentemente necesaria en pacientes con fisura incluso a los 7–10 años, cuando los niños sin fisura responderían a la EPR sola."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B5-Q18",
+        "stem": "Las tres fases biológicas de la distracción osteogénica en el orden secuencial correcto son:",
+        "options": {
+          "A": "Activación → Latencia → Consolidación",
+          "B": "Latencia → Consolidación → Activación",
+          "C": "Latencia → Activación → Consolidación",
+          "D": "Consolidación → Latencia → Activación"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Las tres fases de la distracción osteogénica se suceden en el orden: (1) Latencia (5–7 días en adultos) — tras la corticotomía, antes de que comience la activación; se organiza el hematoma precoz, se forma el callo inicial. (2) Activación — distracción a 1 mm/día; nuevo hueso se forma en la zona del regenerado en expansión. (3) Consolidación — dispositivo bloqueado; el regenerado se mineraliza y madura hacia hueso cortical. El dispositivo se retira tras la confirmación radiológica de la consolidación.",
+          "wrong": {
+            "A": "La activación antes de la latencia significaría que la distracción comienza inmediatamente tras la osteotomía — esto interrumpe la formación del callo precoz y produce unión fibrosa",
+            "B": "La consolidación antes de la activación no tiene sentido biológico — la consolidación solo sigue al movimiento que ya ha ocurrido",
+            "D": "La consolidación antes de la latencia es biológicamente imposible — el movimiento debe ocurrir antes de que el regenerado pueda consolidarse"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): Biología de la DO — secuencia de tres fases",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): estableció la secuencia de tres fases como fundamental para el éxito de la DO; la desviación de la secuencia produce complicaciones predecibles",
+          "pearl": "Fases de la DO en orden: Latencia (5–7d adultos, 3–5d niños) → Activación (1 mm/día) → Consolidación (2–3× activación, mín 8–12 semanas). Nunca omitir la latencia. Nunca retirar el dispositivo antes de confirmar la consolidación radiológicamente."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B5-Q19",
+        "stem": "Un hombre de 35 años presenta un defecto mandibular de 6 cm tras mandibulectomía segmentaria por osteonecrosis. Rechaza la cirugía de colgajo libre. Se planifica una distracción osteogénica de transporte. ¿En qué punto se considera que el disco de transporte ha completado la fase de acoplamiento?",
+        "options": {
+          "A": "Cuando el disco de transporte ha avanzado hasta la mitad del defecto",
+          "B": "Cuando el disco de transporte alcanza y contacta el hueso en el extremo distal del defecto",
+          "C": "Cuando se retira el dispositivo",
+          "D": "Cuando el disco de transporte ha avanzado 2 mm más allá del sitio de corticotomía"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En la distracción osteogénica de transporte, el disco de transporte se desplaza gradualmente a través de la zona del defecto, dejando nuevo hueso a su paso. La fase de 'acoplamiento' ocurre cuando el disco en movimiento finalmente alcanza y contacta el hueso nativo restante en el extremo distal del defecto. En este punto, el disco debe curar biológicamente con el hueso receptor (curación por contacto en el sitio de acoplamiento). Esta es una fase crítica y con frecuencia problemática — la no unión en el sitio de acoplamiento ocurre en aproximadamente el 10–15% de los casos de DO de transporte y puede requerir injerto óseo suplementario. El dispositivo permanece en su lugar durante las fases de acoplamiento y consolidación hasta que tanto el regenerado transportado como el sitio de acoplamiento han consolidado.",
+          "wrong": {
+            "A": "El disco de transporte en el punto medio del defecto es simplemente un punto intermedio durante la activación — el acoplamiento todavía no ha ocurrido",
+            "C": "La retirada del dispositivo ocurre tras el acoplamiento y la consolidación completos — no es la definición de la fase de acoplamiento",
+            "D": "2 mm más allá del sitio de corticotomía es el inicio mismo del transporte — no el acoplamiento"
+          },
+          "guideline": "EACMFS Craniofacial Guidelines (2023): DO de transporte — definición de la fase de acoplamiento y manejo de la no unión",
+          "trial": "Diss ME et al. Mandibular transport distraction osteogenesis. J Oral Maxillofac Surg (2007): no unión en el sitio de acoplamiento en el 12% de los casos; manejada con injerto óseo autólogo; todos los casos lograron eventual unión",
+          "pearl": "Acoplamiento en DO de transporte = el disco de transporte alcanza el extremo óseo distal del defecto. El sitio de acoplamiento es el punto más vulnerable — 10–15% de no unión que requiere injerto óseo. Monitorizar radiológicamente; realizar injerto óseo precoz si no hay curación por contacto a las 8 semanas post-acoplamiento."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B5-Q20",
+        "stem": "¿Cuál es la razón principal por la que la distracción osteogénica produce menor recidiva esquelética que la osteotomía aguda para movimientos mandibulares de gran magnitud?",
+        "options": {
+          "A": "La distracción genera hueso más duro y denso que la cicatrización tras osteotomía aguda",
+          "B": "La expansión gradual permite la adaptación simultánea de los tejidos blandos (músculo, fascia, periostio), reduciendo las fuerzas de retroceso elástico",
+          "C": "La distracción produce un hardware de fijación más rígido que las placas de osteotomía aguda",
+          "D": "La distracción activa el sistema inmunitario, previniendo la infección postoperatoria y la recidiva que esta provoca"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La razón fundamental por la que la DO produce menor recidiva que la osteotomía aguda para movimientos de gran magnitud es la adaptación simultánea de todos los tejidos blandos circundantes durante el proceso gradual de distracción. En la osteotomía aguda, el hueso se mueve súbitamente a una nueva posición, y la musculatura, la fascia y la piel circundantes — que permanecen en su longitud de reposo original — ejercen fuerzas de retroceso elástico sobre el segmento reposicionado durante toda la cicatrización, empujándolo de vuelta hacia la posición original. Con la DO, la tasa de distracción de 1 mm/día permite que los músculos, la fascia, el periostio y la piel se alarguen gradualmente y se adapten, alcanzando una nueva longitud de reposo funcional en la posición distraída. Cuando se retira el dispositivo tras la consolidación, existe poca tensión tisular elástica residual que impulse la recidiva.",
+          "wrong": {
+            "A": "La calidad del hueso en la DO es típicamente hueso entretejido que remodeló hacia hueso laminar — no es inherentemente más denso que el hueso cicatrizado tras osteotomía aguda",
+            "C": "El hardware de fijación en la DO (el dispositivo de distracción) es en realidad menos rígido que las placas de titanio empleadas en la osteotomía aguda — el dispositivo permite pequeños movimientos controlados por diseño",
+            "D": "El manejo de la infección no tiene relación específica con las menores tasas de recidiva de la DO"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Base biológica de la estabilidad en DO — adaptación de los tejidos blandos como mecanismo principal",
+          "trial": "Ilizarov GA. Clin Orthop Relat Res (1989): efecto de tensión-estrés sobre los tejidos blandos — la tensión gradual genera nuevo tejido (hueso Y tejidos blandos) orientado a lo largo del vector de distracción; esta es la base biológica fundamental de la superioridad de la DO sobre el movimiento agudo",
+          "pearl": "Menor recidiva en DO = adaptación gradual de los tejidos blandos. Osteotomía aguda = músculos en su longitud de reposo antigua → retroceso elástico → recidiva. DO = músculos se alargan gradualmente hacia la nueva posición → mínimo retroceso → menos recidiva. Este es el 'efecto de tensión-estrés' de Ilizarov aplicado a todos los tejidos, no solo al hueso."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

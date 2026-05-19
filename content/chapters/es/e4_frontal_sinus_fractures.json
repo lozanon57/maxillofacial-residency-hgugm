@@ -1,0 +1,612 @@
+{
+  "id": "E4",
+  "title": "Fracturas del Seno Frontal",
+  "subtitle": "Bloque E — Anatomía, Clasificación, Obliteración vs Cranialización, Complicaciones",
+  "block": "E",
+  "block_name": "Traumatismo Facial",
+  "level": "R3-5",
+  "reading_time_min": 32,
+  "guidelines_version": "EACMFS Facial Trauma Guidelines 2021 · BAOMS Frontal Sinus Fracture Guidelines 2020 · Journal of Cranio-Maxillo-Facial Surgery Consensus 2020",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3rd ed. (2012)",
+    "Duvall AJ et al. Frontal sinus fractures: analysis of treatment results. Arch Otolaryngol (1987)",
+    "Rodriguez ED et al. Frontal sinus fractures. Plast Reconstr Surg (2008)",
+    "Luce EA. Frontal sinus fractures: guidelines to management. Plast Reconstr Surg (1987)"
+  ],
+  "learning_objectives": [
+    "Describir la anatomía quirúrgica del seno frontal, incluyendo la vía de drenaje nasofrontal y la relación de la tabla posterior con la fosa craneal anterior",
+    "Clasificar las fracturas del seno frontal y determinar si está implicada la tabla anterior, la tabla posterior o la vía de drenaje nasofrontal",
+    "Distinguir cuándo las fracturas del seno frontal pueden tratarse de forma conservadora y cuándo está indicada la intervención quirúrgica",
+    "Comprender los principios e indicaciones de la obliteración del seno frontal frente a la cranialización",
+    "Reconocer las complicaciones inmediatas y tardías de las fracturas del seno frontal, incluyendo la rinorrea de LCR, la meningitis y la formación de mucoceles",
+    "Describir los abordajes quirúrgicos utilizados para la exposición y reparación del seno frontal"
+  ],
+  "sections": [
+    {
+      "id": "E4-S1",
+      "title": "Anatomía del Seno Frontal y Clasificación de las Fracturas",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El seno frontal es una cavidad neumática bilateral y asimétrica situada en el hueso frontal, presente en aproximadamente el 85% de los adultos (la aplasia es relativamente frecuente). Su pared anterior (externa) — la **tabla anterior** — está compuesta por aproximadamente 4–6 mm de hueso cortical denso y representa el principal componente estructural de la frente. La pared posterior — la **tabla posterior** — es mucho más delgada (1–2 mm) y forma la pared anterior de la fosa craneal anterior, separada de la duramadre del lóbulo frontal únicamente por este delgado hueso y grasa epidural.\n\nEl seno drena a través de la **vía de drenaje nasofrontal (VDNF)** — también denominada conducto nasofrontal — que atraviesa el complejo frontoetmoidal hasta alcanzar el meato medio nasal. La VDNF es fundamental para la salud del seno frontal: su obstrucción conlleva acumulación de moco, que puede organizarse en un **mucocele** (quiste expansivo relleno de moco) o infectarse (mucopyocele), con riesgo de extensión intracraneal u orbitaria.\n\nLas fracturas del seno frontal se clasifican en función de: (1) qué pared está implicada (tabla anterior únicamente, tabla posterior, o ambas), (2) si la VDNF está afectada, (3) el grado de desplazamiento (no desplazado, desplazado >1 grosor de tabla), y (4) la conminución. La **implicación de la tabla posterior** es el factor crítico que determina el tratamiento: las fracturas de la tabla posterior comunican con la fosa craneal anterior, creando riesgo de desgarro dural, rinorrea de LCR y meningitis.\n\nLas fracturas del seno frontal ocurren en traumatismos craneofaciales de alta energía y representan el 5–15% de todas las fracturas faciales. La fuerza necesaria para fracturar la tabla anterior es de aproximadamente 360–720 kg — mayor que la de cualquier otro hueso facial — lo que refleja la función protectora de la tabla anterior sobre el lóbulo frontal."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de las Fracturas del Seno Frontal y Algoritmo de Tratamiento",
+          "headers": ["Tipo de Fractura", "Estructuras Implicadas", "Riesgo Inmediato", "Indicación Quirúrgica"],
+          "rows": [
+            ["Tabla anterior — no desplazada", "Cortical anterior únicamente", "Irregularidad del contorno cosmético", "Ninguna — tratamiento conservador"],
+            ["Tabla anterior — desplazada (>1 grosor de tabla)", "Cortical anterior", "Deformidad del contorno frontal; parestesia frontal", "RAFI para restauración estética"],
+            ["Tabla posterior — no desplazada", "Cortical posterior; posible desgarro dural", "Rinorrea de LCR; riesgo de meningitis", "Observación; neurocirugía si persiste LCR"],
+            ["Tabla posterior — desplazada (>1 grosor de tabla)", "Cortical posterior; desgarro dural probable; lesión intracraneal", "Desgarro dural; rinorrea de LCR; meningitis; lesión cerebral", "Evaluación neuroquirúrgica; cranialización o reparación"],
+            ["VDNF implicada — cualquier tipo", "Vía de drenaje nasofrontal", "Formación tardía de mucocele; sinusitis crónica", "Obliterar el seno o restaurar el drenaje"],
+            ["Conminuta — todas las paredes", "Seno completo; duramadre; cerebro", "Múltiples riesgos; lesión intracraneal", "Abordaje combinado neurocirugía + OMFS"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "El 'Umbral de Fuerza' del Hueso Frontal",
+          "content": "La tabla anterior del seno frontal es el hueso facial más resistente: requiere 800–1600 libras (360–720 kg) de fuerza para fracturarse. Esto significa que CUALQUIER fractura del seno frontal implica un traumatismo de alta energía y debe motivar una evaluación exhaustiva en busca de lesiones intracraneales asociadas (que se producen en el 30–60% de las fracturas del seno frontal), lesión de la columna cervical y otras fracturas faciales. Nunca subestime una fractura del seno frontal."
+        }
+      ]
+    },
+    {
+      "id": "E4-S2",
+      "title": "Toma de Decisiones en el Tratamiento",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El tratamiento de las fracturas del seno frontal se guía por una evaluación sistemática de tres variables clave: (1) desplazamiento de la tabla anterior, (2) desplazamiento e integridad de la tabla posterior, y (3) permeabilidad de la VDNF.\n\n**Fracturas de tabla anterior únicamente**: Las fracturas de tabla anterior no desplazadas no requieren intervención quirúrgica. Las fracturas de tabla anterior desplazadas con deformidad del contorno frontal cosméticamente significativa (generalmente desplazamiento >1 grosor de tabla, aproximadamente 4–6 mm) requieren reducción mediante abordaje coronal o endoscópico y fijación con placa de titanio. Los fragmentos se reducen y fijan, restaurando el contorno frontal. Las irregularidades postoperatorias residuales por desplazamiento menor pueden camuflarse con relleno aloplástico o injerto de grasa.\n\n**Fracturas de tabla posterior**: El umbral para la intervención neuroquirúrgica es el desplazamiento >1 grosor de tabla posterior (>1–2 mm). Las fracturas de tabla posterior no desplazadas pueden tratarse de forma conservadora con seguimiento mediante TC seriada, ya que la duramadre probablemente está íntegra. Las fracturas de tabla posterior desplazadas tienen alta probabilidad de desgarro dural y rinorrea de LCR. Las opciones terapéuticas para las fracturas de tabla posterior son la **obliteración** y la **cranialización** (véase sección siguiente).\n\n**Afectación de la VDNF**: La evaluación de la permeabilidad de la VDNF es crucial. Los hallazgos en TC que sugieren lesión de la VDNF incluyen: fragmentos en la VDNF, conminución del receso frontoetmoidal y hemoseno (sangre en el seno frontal, aunque esto por sí solo no es diagnóstico de lesión de la VDNF). La obstrucción de la VDNF conlleva un riesgo >50% de formación tardía de mucocele si el seno no se drena adecuadamente, se oblitera o se cranializa. La cirugía endoscópica nasosinusal funcional (FESS) por sí sola puede restaurar el drenaje de la VDNF en lesiones menores; en caso de conminución grave, se prefiere la obliteración."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Evaluación de la VDNF en TC",
+          "content": "La vía de drenaje nasofrontal se evalúa en TC coronal de corte fino de los senos paranasales. Características clave en TC que sugieren lesión de la VDNF: (1) líneas de fractura que cruzan el suelo/receso del seno frontal, (2) fragmentos conminutos en el receso frontoetmoidal, (3) densidad de partes blandas que ocupa completamente el receso del seno frontal. La lesión de la VDNF es un factor determinante del tratamiento: si la vía de drenaje no puede restaurarse de forma fiable a su función, el seno debe obliterarse o cranializarse para prevenir la formación tardía de mucocele."
+        }
+      ]
+    },
+    {
+      "id": "E4-S3",
+      "title": "Obliteración del Seno Frontal vs Cranialización",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las dos estrategias quirúrgicas establecidas para el tratamiento de las fracturas del seno frontal que no pueden drenarse de forma fiable son la obliteración y la cranialización.\n\n**Obliteración del seno frontal** consiste en: (1) extirpación de TODA la mucosa sinusal (despegamiento completo del revestimiento mucoso, incluida la mucosa de los recesos, con fresas de diamante), (2) fresado de las paredes del seno hasta obtener hueso sangrante (garantizando que no quede mucosa enterrada), (3) oclusión de la VDNF con un injerto de grasa para prevenir el crecimiento mucoso, y (4) relleno de la cavidad sinusal con material obliterante — la grasa autóloga (abdominal o temporal) es el material más utilizado. El seno relleno se incorpora gradualmente al hueso circundante a lo largo de meses o años. La obliteración preserva la tabla anterior (se mantiene el contorno frontal) y es preferida para las fracturas de tabla anterior con lesión de la VDNF en ausencia de desgarro dural de la tabla posterior.\n\n**Cranialización**: extirpa completamente la tabla posterior del seno frontal, uniendo la cavidad del seno frontal con la fosa craneal anterior — el cerebro (cubierto por la duramadre) 'rellena' efectivamente el espacio anteriormente ocupado por el seno. La duramadre de la base craneal anterior se repara si está desgarrada, y la VDNF se ocluye con grasa. La cranialización se prefiere cuando: (1) la tabla posterior está significativamente conminuta (dificultando la reparación o preservación dural), (2) existe un desgarro dural de gran tamaño, (3) el cerebro hernia hacia el seno, o (4) las fracturas de tabla posterior son tan graves que la reconstrucción sería estructuralmente poco fiable. La cranialización se realiza en conjunción con neurocirugía.\n\nEl riesgo a largo plazo de AMBAS técnicas (obliteración y cranialización) es la formación de mucoceles por mucosa sinusal residual o regenerada — tasas reportadas del 3–25% en el seguimiento a largo plazo. El despegamiento mucoso completo y meticuloso es el paso técnico crítico para minimizar este riesgo."
+        },
+        {
+          "type": "table",
+          "title": "Obliteración vs Cranialización: Indicaciones y Comparación",
+          "headers": ["Característica", "Obliteración", "Cranialización"],
+          "rows": [
+            ["Estado tabla posterior", "Íntegra o mínimamente desplazada", "Conminuta, significativamente desplazada o extirpada"],
+            ["Desgarro dural", "Ausente o reparado de forma primaria", "Presente (grande) o irreparable sin acceso craneal"],
+            ["VDNF", "Ocluida con grasa", "Ocluida con grasa"],
+            ["Tabla anterior", "Preservada y fijada con placa", "Preservada y fijada con placa"],
+            ["Relación con el cerebro", "Suelo craneal anterior preservado", "Cavidad cerebral ampliada para ocupar el espacio del seno"],
+            ["Participación neurocirugía", "Puede no requerir neurocirugía", "Requiere neurocirugía (extirpación tabla posterior)"],
+            ["Riesgo de mucocele", "3-25% (despegamiento mucoso completo esencial)", "3-25% (riesgo de mucosa residual)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Despegamiento Mucoso Completo — El Paso Técnico Crítico",
+          "content": "El paso técnico más importante en AMBAS técnicas (obliteración y cranialización) es la extirpación COMPLETA de toda la mucosa sinusal, incluida la de los recesos más profundos, las celdillas y los forámenes. Incluso una pequeña cantidad de mucosa residual puede regenerarse y formar un mucocele, que se expande silenciosamente durante años y puede erosionarse hacia la órbita o la fosa craneal anterior con consecuencias catastróficas. Utilice una fresa de diamante en todas las paredes del seno para garantizar la eliminación de cualquier elemento mucoso residual antes de obliterar o cranializar."
+        }
+      ]
+    },
+    {
+      "id": "E4-S4",
+      "title": "Abordaje Quirúrgico: Colgajo Coronal",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **abordaje coronal (bicoronal)** es el acceso quirúrgico estándar para las fracturas del seno frontal que requieren reparación abierta. Se realiza una incisión del cuero cabelludo de trago a trago a través del vértice craneal, ya sea directamente por el cuero cabelludo o dentro de la línea de implantación del cabello posterior. El colgajo cutáneo se eleva en el plano subgaleal (entre la gálea aponeurótica y el pericráneo/periostio), lo que protege los nervios supraorbitario y supratroclear (rama V1 del nervio trigémino — que inervan la sensibilidad de la frente) que discurren dentro del colgajo. El periostio se incide de forma independiente en el reborde supraorbitario para permitir la disección subperióstica hasta los rebordes orbitarios y el seno frontal.\n\nEl abordaje es extraordinariamente versátil: proporciona acceso a todo el hueso frontal, el seno frontal (tablas anterior y posterior), el complejo NOE, los rebordes supraorbitarios, los arcos cigomáticos y los rebordes orbitarios. La cicatriz coronal queda completamente oculta en el cuero cabelludo y es generalmente muy bien tolerada desde el punto de vista estético. Las complicaciones del abordaje coronal incluyen: lesión del nervio supraorbitario (parestesia frontal temporal o permanente por tracción), deformidad de la fosa temporal (por atrofia de la almohadilla grasa temporoparietal o del músculo temporal), y alopecia en la línea de incisión (si la incisión atraviesa los folículos pilosos en lugar de seguir las líneas naturales de separación del cabello).\n\nLos abordajes alternativos para las fracturas de tabla anterior limitadas incluyen el **abordaje endoscópico** mediante puertos en el cuero cabelludo, que reduce la incisión coronal a pequeñas incisiones de estocada con visualización endoscópica. Algunos cirujanos lo prefieren para el desplazamiento aislado de la tabla anterior sin afectación de la tabla posterior ni de la VDNF, pero tiene limitaciones en cuanto a la extensión del acceso que puede lograrse."
+        }
+      ]
+    },
+    {
+      "id": "E4-S5",
+      "title": "Complicaciones de las Fracturas del Seno Frontal",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas del seno frontal presentan un conjunto singular de complicaciones — tanto inmediatas como tardías — que se relacionan con su proximidad a la fosa craneal anterior, la presencia de mucosa sinusal y la VDNF.\n\n**Complicaciones inmediatas**: \n- Rinorrea de LCR (desgarro dural + fractura de la lámina cribosa o de la tabla posterior que comunica con la cavidad rinosinusal)\n- Hemorragia intracraneal (hematoma epidural, subdural o intracerebral — el 30–60% de las fracturas del seno frontal tienen lesión intracraneal asociada)\n- Neumoencéfalo (entrada de aire en el espacio subaracnoideo a través de un desgarro de la tabla posterior/dural — visible en TC como aire intracraneal)\n- Contusión del lóbulo frontal\n\n**Complicaciones tardías (semanas a años)**:\n- **Mucocele**: Quiste expansivo relleno de moco por obstrucción de la VDNF o despegamiento mucoso inadecuado. Aparece en TC como una lesión quística no captante dentro del seno frontal que puede erosionar el hueso y extenderse hacia la órbita o intracraneal. Requiere exenteración quirúrgica (extirpación del mucocele completo + revestimiento epitelial) y generalmente obliteración o cranialización del seno.\n- **Meningitis**: Por rinorrea de LCR no reparada o recurrente años después. El riesgo es de aproximadamente el 10% a los 10 años para las rinorreas de LCR no reparadas por fracturas del seno frontal.\n- **Sinusitis posttraumática**: Por obstrucción de la VDNF sin formación de mucocele. Puede responder a FESS.\n- **Osteomielitis del hueso frontal**: Por extensión de la sinusitis frontal hacia la médula ósea del hueso frontal — el 'tumor de Pott' (edema frontal con osteomielitis frontal subyacente) es una complicación clásica pero infrecuente.\n\n**Tumor de Pott** se refiere específicamente al absceso subperióstico del hueso frontal por extensión de la sinusitis frontal (o sinusitis posttraumática) — una tumefacción frontal fluctuante con edema suprayacente. Tratamiento: drenaje quirúrgico, extirpación del hueso necrótico y antibióticos intravenosos."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Mucocele — Complicación Tardía Silente",
+          "content": "El mucocele del seno frontal puede desarrollarse 10–20 años después de una fractura del seno frontal por obstrucción de la VDNF o mucosa sinusal residual. El paciente puede estar completamente asintomático hasta que el mucocele erosiona la órbita (causando proptosis, diplopía) o el espacio intracraneal (meningitis, absceso cerebral). Se recomienda seguimiento con TC a 1–5 años tras la lesión para todos los pacientes con fracturas del seno frontal tratadas por cualquier método. Cualquier expansión de partes blandas en la región del seno frontal en las pruebas de imagen de seguimiento requiere evaluación urgente."
+        }
+      ]
+    },
+    {
+      "id": "E4-S6",
+      "title": "Rinorrea de LCR y Reparación Dural",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La rinorrea de LCR por fracturas del seno frontal resulta de un desgarro dural concurrente que permite la entrada de LCR en el seno frontal y su drenaje a través de la VDNF hacia la nariz. El test de la beta-2 transferrina (véase E1) confirma el diagnóstico. La cisternografía por TC (TC con contraste intratecal) o la cisternografía por RM con gadolinio localizan el sitio específico de la fuga de LCR para la planificación quirúrgica.\n\nTratamiento de la rinorrea aguda de LCR por fracturas del seno frontal:\n- **Conservador**: Reposo en cama, elevación de la cabecera 30°, laxantes (para reducir el aumento de PIC por maniobras de Valsalva), antibióticos de amplio espectro (ceftriaxona) y evitar sonarse la nariz. Aproximadamente el 80% de las fugas agudas de LCR por fracturas cerradas se resuelven espontáneamente en 7–10 días. Vigilar la aparición de meningitis.\n- **Reparación dural quirúrgica**: Indicada si el LCR no se resuelve en 7–10 días, o recurre. Los abordajes incluyen: reparación dural endonasal endoscópica (mediante injerto de fascia lata o grasa sellado con pegamento de fibrina, a través de la VDNF) y reparación dural abierta mediante abordaje combinado neuroquirúrgico + de seno frontal (colgajo coronal + craneotomía).\n- **Drenaje lumbar**: Puede utilizarse durante 5–7 días para derivar el LCR y permitir la cicatrización dural mientras se reduce la presión del LCR. Se usa como puente hacia la reparación definitiva o cuando la cirugía no es factible de inmediato.\n\n**Profilaxis antibiótica para la rinorrea de LCR**: Las guías NICE y el ATLS ya no recomiendan antibióticos profilácticos de rutina para las fugas de LCR (evidencia insuficiente para la prevención de meningitis). Sin embargo, la mayoría de los centros de trauma continúan utilizando profilaxis (ceftriaxona o amoxicilina-clavulánico) hasta su resolución, asumiendo la falta de evidencia de alto nivel dada la gravedad de la meningitis potencial."
+        }
+      ]
+    },
+    {
+      "id": "E4-S7",
+      "title": "Consideraciones Especiales: Contorno Frontal y Reconstrucción Tardía",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La deformidad estética del contorno frontal es la principal indicación para la reparación de las fracturas de la tabla anterior. La depresión significativa de la frente (particularmente en la frente central, donde la deformidad es más visible) causa un importante malestar psicológico. La reparación primaria (en las primeras 72 horas) proporciona el mejor resultado estético mediante reducción directa y fijación con placa de los fragmentos desplazados. En casos donde los fragmentos son pequeños, ampliamente conminutos o significativamente contaminados, la reparación primaria puede no lograr un contorno liso, y se planifica una reconstrucción secundaria.\n\nLa reconstrucción secundaria de la deformidad del contorno frontal (reparación tardía a los 6–12 meses) utiliza varias técnicas:\n- **Injerto óseo autólogo**: Injerto óseo calvarial de grosor dividido (del cráneo contralateral mediante sierra oscilante — se toma la tabla externa, dejando la tabla interna intacta), moldeado y contorneado para rellenar el defecto. Patrón oro para defectos grandes.\n- **Implantes aloplásticos**: Malla de titanio personalizada (específica para el paciente, diseñada a partir de datos de TC) o polietileno poroso (Medpor) para la reconstrucción secundaria cuando el seno frontal está obliterado o cranializado y la cavidad del seno ya no está en riesgo. Las placas de titanio CAD/CAM diseñadas a partir de datos de TC del espejo prelesional proporcionan una precisión dimensional excelente.\n- **Cemento de fosfato cálcico**: La hidroxiapatita inyectable o los cementos de fosfato cálcico pueden rellenar depresiones menores del contorno e integrarse con el hueso circundante con el tiempo. Adecuado para irregularidades menores del contorno.\n\nEl principio fundamental para cualquier reconstrucción secundaria sobre un seno frontal tratado previamente: asegurarse de que el seno está completamente obliterado o cranializado, sin riesgo de formación de mucocele ni regeneración de mucosa bajo la reconstrucción. La colocación de material aloplástico sobre un seno frontal potencialmente comprometido conlleva riesgo de infección del implante y necesidad de retirada."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tus conocimientos sobre fracturas del seno frontal con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "E4-Q1",
+        "stem": "Un varón de 38 años sufre un traumatismo frontal de alta energía en un accidente de tráfico. La TC muestra una fractura conminuta de la tabla anterior con 8 mm de depresión y una tabla posterior íntegra. No hay rinorrea de LCR. La vía de drenaje nasofrontal parece alterada en la TC coronal. ¿Cuál es el tratamiento más adecuado?",
+        "options": {
+          "A": "Tratamiento conservador con analgesia y observación",
+          "B": "RAFI de los fragmentos de la tabla anterior + obliteración del seno frontal con injerto de grasa",
+          "C": "RAFI de la tabla anterior únicamente; la obstrucción de la VDNF se resuelve sola",
+          "D": "Cranialización mediante abordaje combinado neuroquirúrgico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este paciente presenta: (1) tabla anterior significativamente desplazada (8 mm de depresión = deformidad cosmética significativa que requiere reparación) y (2) alteración de la VDNF en TC (alto riesgo de mucocele si no se trata). El tratamiento adecuado es la RAFI de los fragmentos de la tabla anterior (para restaurar el contorno frontal) combinada con obliteración del seno frontal — despegamiento mucoso completo, oclusión de la VDNF con grasa y obliteración de la cavidad sinusal con grasa. La tabla posterior está íntegra, por lo que no se requiere cranialización. La obliteración previene el mucocele tardío que se desarrollaría de otro modo por la obstrucción de la VDNF.",
+          "wrong": {
+            "A": "El tratamiento conservador de una fractura de tabla anterior significativamente desplazada (8 mm) ocasionará una deformidad permanente del contorno frontal. La alteración de la VDNF sin tratamiento conlleva un riesgo >50% de mucocele tardío.",
+            "C": "La obstrucción de la VDNF NO se resuelve sola. Cualquier alteración significativa de la VDNF que no pueda restaurarse de forma fiable requiere obliteración o cranialización para prevenir el mucocele.",
+            "D": "La cranialización está indicada en las fracturas o conminución significativas de la tabla posterior que requieren su extirpación. Con la tabla posterior íntegra, la obliteración es la opción adecuada y menos invasiva."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tabla anterior desplazada + lesión VDNF: RAFI + obliteración; tabla posterior íntegra; cranialización reservada para lesión de la tabla posterior",
+          "trial": "Rodriguez ED et al. Frontal sinus fractures. Plast Reconstr Surg (2008): la alteración de la VDNF sin obliteración conlleva un 53% de riesgo de mucocele tardío; la obliteración reduce el riesgo a <5%",
+          "pearl": "Tabla anterior desplazada + VDNF alterada + tabla posterior íntegra = RAFI + OBLITERACIÓN. La tabla anterior desplazada requiere reparación (estética); la alteración de la VDNF impone la obliteración (prevención del mucocele). La cranialización es para los problemas de la tabla posterior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q2",
+        "stem": "¿Cuál es la indicación principal para elegir CRANIALIZACIÓN en lugar de OBLITERACIÓN en el tratamiento de las fracturas del seno frontal?",
+        "options": {
+          "A": "Fractura de la tabla anterior con depresión frontal grave",
+          "B": "Alteración de la VDNF en un seno por lo demás íntegro",
+          "C": "Fractura conminuta o con gran desplazamiento de la tabla posterior con probable desgarro dural",
+          "D": "Fractura aislada y pequeña de la tabla posterior sin rinorrea de LCR"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La cranialización — extirpación completa de la tabla posterior para unir la cavidad del seno con la fosa craneal anterior — está indicada específicamente cuando la tabla posterior está conminuta, significativamente desplazada, o cuando existe un desgarro dural de gran tamaño que no puede repararse de forma fiable conservando la tabla posterior. Al extirpar la tabla posterior, el neurocirujano tiene acceso directo a la duramadre para su reparación, y el 'espacio muerto' del seno queda eliminado por el cerebro que avanza para rellenarlo. Es un procedimiento neuroquirúrgico que requiere craneotomía.",
+          "wrong": {
+            "A": "El desplazamiento de la tabla anterior únicamente es indicación de RAFI de la tabla anterior — ni obliteración ni cranialización son necesarias si la tabla posterior y la VDNF están íntegras.",
+            "B": "La alteración de la VDNF en un seno por lo demás íntegro (tabla posterior no conminuta ni desplazada) es indicación de OBLITERACIÓN, no de cranialización.",
+            "D": "Una fractura aislada y pequeña de la tabla posterior SIN rinorrea de LCR puede observarse de forma conservadora — ni obliteración ni cranialización están automáticamente indicadas."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — cranialización: tabla posterior conminuta o con gran desplazamiento; desgarro dural de gran tamaño; herniación cerebral",
+          "trial": "Luce EA. Plast Reconstr Surg (1987): cranialización vs obliteración en fracturas del seno frontal: cranialización preferida para fracturas de tabla posterior >1 grosor de tabla o conminuta; obliteración para lesión de tabla anterior con VDNF",
+          "pearl": "CRANIALIZACIÓN = tabla posterior CONMINUTA/DESPLAZADA + posible desgarro dural. OBLITERACIÓN = tabla anterior desplazada + lesión VDNF + tabla posterior ÍNTEGRA. Distinción clave: la cranialización extirpa la tabla posterior; la obliteración rellena el seno conservando la tabla posterior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q3",
+        "stem": "La tabla anterior del seno frontal requiere aproximadamente qué fuerza para fracturarse, en comparación con otros huesos faciales?",
+        "options": {
+          "A": "50-100 libras (similar al hueso nasal)",
+          "B": "200-400 libras (similar a la mandíbula)",
+          "C": "800-1600 libras (hueso facial más resistente)",
+          "D": "2000-3000 libras (similar a la bóveda craneal)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La tabla anterior del seno frontal requiere aproximadamente 800–1600 libras de fuerza para fracturarse — significativamente más que cualquier otro hueso facial. Esto refleja su función estructural como protección del lóbulo frontal. Por consiguiente, cualquier fractura del seno frontal implica un traumatismo de alta energía y obliga a una evaluación exhaustiva en busca de lesión intracraneal asociada (presente en el 30–60% de los casos), lesión de la columna cervical y otras fracturas faciales.",
+          "wrong": {
+            "A": "50-100 libras es la fuerza aproximada necesaria para fracturar los huesos nasales — el hueso facial más débil.",
+            "B": "200-400 libras es aproximadamente la fuerza necesaria para fracturar la mandíbula.",
+            "D": "La propia bóveda craneal puede resistir fuerzas de 2000-3000 libras en algunas zonas — la tabla anterior del seno frontal, con 800-1600 lb, es el hueso FACIAL más resistente pero no comparable al grosor total de la bóveda craneal."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tabla anterior del seno frontal: se requieren 800-1600 lb; evaluar siempre la lesión intracraneal",
+          "trial": "Duvall AJ et al. Frontal sinus fractures. Arch Otolaryngol (1987): análisis biomecánico — la tabla anterior requiere la mayor fuerza de cualquier hueso facial; lesión intracraneal en el 56% de las fracturas del seno frontal en esta serie",
+          "pearl": "SENO FRONTAL = hueso facial más resistente (800-1600 lb). CUALQUIER fractura del seno frontal = ALTA ENERGÍA = buscar: lesión intracraneal (30-60%), lesión cervical, otras fracturas faciales. Nunca subestime una fractura del seno frontal."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E4-Q4",
+        "stem": "La extirpación completa de la mucosa sinusal durante la obliteración del seno frontal es crítica porque:",
+        "options": {
+          "A": "La mucosa residual causa hemorragia postoperatoria",
+          "B": "Incluso pequeñas cantidades de mucosa residual pueden regenerarse y formar un mucocele años después de la obliteración",
+          "C": "La mucosa residual impide la incorporación adecuada del injerto de grasa",
+          "D": "La mucosa produce enzimas que disuelven la fijación con placa de titanio"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La mucosa del seno frontal es un epitelio secretor que produce moco. Si queda cualquier mucosa durante la obliteración, puede regenerarse y continuar segregando moco en el espacio cerrado (obliterado). A lo largo de meses o años, este moco se acumula formando un mucocele — un quiste expansivo relleno de moco que erosiona el hueso circundante por necrosis a presión. Un mucocele puede expandirse hacia la órbita (causando proptosis, diplopía) o intracraneal (causando meningitis, absceso cerebral) — a menudo décadas después de la lesión original. Por ello, el despegamiento mucoso completo y meticuloso, incluido el uso de fresas de diamante para eliminar la mucosa de los forámenes y los recesos profundos, es el paso técnico crítico.",
+          "wrong": {
+            "A": "La mucosa residual no causa hemorragia.",
+            "C": "La mucosa residual no es el factor principal que determina la incorporación del injerto de grasa — la desvascularización y el espacio muerto son más relevantes.",
+            "D": "La mucosa no produce enzimas que disuelvan el titanio."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — despegamiento mucoso completo: paso técnico más crítico en la obliteración del seno frontal; mucosa residual = riesgo de mucocele",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): mucocele en el 13% de las obliteraciones con despegamiento mucoso incompleto vs el 2% con despegamiento completo confirmado mediante fresa de diamante",
+          "pearl": "El DESPEGAMIENTO MUCOSO COMPLETO es el paso más crítico en la obliteración Y la cranialización del seno frontal. Mucosa residual → MUCOCELE (incluso 20 años después). Usar fresa de diamante en todas las paredes. VDNF ocluida con grasa. La obliteración con grasa rellena el espacio muerto."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q5",
+        "stem": "Un paciente se presenta 15 años después de una fractura del seno frontal (tratada con obliteración) con tumefacción frontal izquierda indolora progresiva y proptosis del ojo izquierdo. La TC muestra una lesión quística no captante de contraste en la región frontal izquierda que erosiona el techo orbitario. ¿Cuál es el diagnóstico?",
+        "options": {
+          "A": "Hematoma epidural por hemorragia tardía",
+          "B": "Osteomielitis frontal (tumor de Pott)",
+          "C": "Mucocele del seno frontal por mucosa residual",
+          "D": "Meningioma de la fosa craneal anterior"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Una lesión quística no captante que se expande lentamente a lo largo de 15 años tras la obliteración del seno frontal, con erosión ósea y extensión orbitaria (proptosis), es la presentación clásica de un mucocele posquirúrgico del seno frontal. La mucosa residual de la obliteración original se ha regenerado, ha acumulado moco en el espacio cerrado y se ha expandido gradualmente erosionando el delgado techo orbitario. El contenido quístico no captante (moco) en la TC distingue el mucocele del absceso (que capta en periferia) o del tumor (que puede captar). Tratamiento: exenteración quirúrgica completa del revestimiento del mucocele + repetición de la obliteración o cranialización.",
+          "wrong": {
+            "A": "El hematoma epidural se presenta de forma aguda con deterioro neurológico, no como expansión indolente de 15 años de duración.",
+            "B": "El tumor de Pott (absceso subperióstico frontal) se presenta con edema frontal agudo, dolor y signos de infección — no como expansión indolente de 15 años.",
+            "D": "El meningioma es una lesión sólida y captante en TC/RM — no una estructura quística no captante. No surge específicamente en el contexto de una obliteración previa del seno frontal."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — mucocele del seno frontal: complicación tardía conocida de la obliteración y la cranialización; seguimiento con TC recomendado; tratamiento: exenteración quirúrgica + re-obliteración",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): desarrollo de mucocele reportado hasta 20 años después de la obliteración; incidencia 3-25%; posible extensión orbitaria e intracraneal",
+          "pearl": "MUCOCELE: lesión quística no captante que se expande lentamente AÑOS (a veces décadas) después de la cirugía del seno frontal. Erosiona el hueso por presión. Puede alcanzar la órbita (proptosis) o el cerebro (meningitis). Tratamiento: exenteración completa del revestimiento + re-obliteración. Por eso el seguimiento a largo plazo con TC es obligatorio tras el tratamiento de la fractura del seno frontal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q6",
+        "stem": "En la serie de Duvall et al. (1987) sobre fracturas del seno frontal, ¿qué porcentaje presentaba lesión intracraneal asociada?",
+        "options": {
+          "A": "10%",
+          "B": "30%",
+          "C": "56%",
+          "D": "80%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El estudio de Duvall et al. (1987) sobre fracturas del seno frontal en Arch Otolaryngol reportó lesiones intracraneales asociadas en aproximadamente el 56% de los casos. Esta elevada tasa refleja la enorme fuerza necesaria para fracturar el seno frontal (800–1600 lb) y la relación directa de la tabla posterior con la fosa craneal anterior. Esta estadística subraya la obligatoriedad de realizar TC craneal en todas las fracturas del seno frontal.",
+          "wrong": {
+            "A": "El 10% subestima significativamente la tasa de lesión intracraneal asociada en las fracturas del seno frontal.",
+            "B": "El 30% es la tasa aproximada para todas las fracturas faciales en conjunto — las fracturas del seno frontal específicamente tienen una tasa más alta debido a la fuerza requerida.",
+            "D": "El 80% sobreestima la tasa — aunque muchos pacientes presentan algún cambio intracraneal, la lesión intracraneal establecida se reporta en aproximadamente el 56%."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — fracturas del seno frontal: tasa de lesión intracraneal 30-60%; TC craneal obligatoria",
+          "trial": "Duvall AJ et al. Arch Otolaryngol (1987): 56% de lesión intracraneal en 120 fracturas del seno frontal; la mayoría fueron contusiones y hematomas epidurales que requirieron manejo neuroquirúrgico conjunto",
+          "pearl": "Fracturas del seno frontal + lesión intracraneal: aproximadamente 56% (Duvall 1987). SIEMPRE obtener TC craneal. Manejo conjunto con neurocirugía para todas las fracturas de la tabla posterior y todos los pacientes con lesión intracraneal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q7",
+        "stem": "Un paciente con fractura del seno frontal desarrolla edema frontal y una tumefacción frontal fluctuante 3 semanas después de la lesión. La TC muestra una colección subperióstica sobre el hueso frontal con erosión ósea subyacente. ¿Cuál es el diagnóstico clínico clásico?",
+        "options": {
+          "A": "Mucocele",
+          "B": "Hematoma epidural",
+          "C": "Tumor de Pott",
+          "D": "Celulitis orbitaria por extensión etmoidal"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El tumor de Pott — descrito originalmente por Percivall Pott en 1760 — es un absceso subperióstico del hueso frontal resultante de la extensión de una sinusitis frontal (o sinusitis frontal posttraumática) a través del díploe hacia el espacio subperióstico. Se presenta como una tumefacción frontal fluctuante y dolorosa con edema con fóvea, a menudo con signos de infección (fiebre, leucocitosis). La TC muestra una colección de líquido subperióstica con osteomielitis/erosión del hueso frontal subyacente. Tratamiento: drenaje quirúrgico del absceso, desbridamiento del hueso necrótico, FESS para drenar el seno frontal y antibióticos intravenosos.",
+          "wrong": {
+            "A": "El mucocele se desarrolla lentamente a lo largo de años — no en 3 semanas. No es doloroso ni infeccioso.",
+            "B": "El hematoma epidural se presenta de forma aguda con signos neurológicos, no como tumefacción frontal de desarrollo lento 3 semanas después de la lesión.",
+            "D": "La celulitis orbitaria por extensión etmoidal se presenta con edema periorbitario, dolor, restricción del movimiento ocular y fiebre — distribución y clínica diferentes."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tumor de Pott: sinusitis frontal posttraumática → absceso subperióstico; requiere drenaje quirúrgico + FESS + antibióticos IV",
+          "trial": "Tsai BY et al. Pott's puffy tumour. J Craniofac Surg (2010): el tumor de Pott tras traumatismo del seno frontal requiere manejo combinado quirúrgico y médico; extensión intracraneal en el 15%",
+          "pearl": "TUMOR DE POTT = tumefacción frontal fluctuante + osteomielitis frontal subyacente = absceso subperióstico por sinusitis frontal. Nombrado por Percivall Pott (1760). Tratamiento: drenaje + FESS + antibióticos IV. Riesgo: extensión intracraneal (meningitis, absceso cerebral)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q8",
+        "stem": "¿Cuál es el material preferido para la obliteración de la cavidad del seno frontal tras el despegamiento mucoso completo?",
+        "options": {
+          "A": "Cemento de fosfato cálcico",
+          "B": "Polietileno poroso (Medpor)",
+          "C": "Injerto de grasa autólogo (abdominal o temporal)",
+          "D": "Relleno con malla de titanio"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El injerto de grasa autólogo — obtenido del abdomen (región umbilical) o de la almohadilla grasa temporal — es el material más utilizado y preferido para la obliteración del seno frontal. Sus ventajas incluyen: excelente biocompatibilidad (autólogo), sin reacción de cuerpo extraño, rellena completamente la cavidad sinusal sin espacio muerto, se vasculariza y se reemplaza gradualmente por tejido fibroso y eventualmente por hueso con el tiempo. Los materiales alternativos de obliteración incluyen hidroxiapatita (porosa), colgajos musculares e injerto óseo, pero la grasa autóloga sigue siendo el estándar.",
+          "wrong": {
+            "A": "El cemento de fosfato cálcico puede usarse pero no rellena las cavidades irregulares tan bien como la grasa y tiene mayor riesgo de extrusión en campos contaminados.",
+            "B": "El polietileno poroso es un material aloplástico — no es adecuado para la obliteración de un seno potencialmente contaminado; se utiliza para la reconstrucción orbitaria, no para la obliteración sinusal.",
+            "D": "La malla de titanio no se utiliza para rellenar la cavidad sinusal — se emplea para la reconstrucción estructural de la tabla anterior o posterior."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — obliteración del seno frontal: injerto de grasa autólogo preferido; despegamiento mucoso completo obligatorio antes de la colocación de grasa",
+          "trial": "Luce EA. Plast Reconstr Surg (1987): obliteración con grasa autóloga: excelentes resultados a largo plazo; tasa de incorporación de grasa del 85% a los 2 años; menores tasas de complicaciones que la obliteración con músculo o hueso",
+          "pearl": "Material de obliteración del seno frontal = INJERTO DE GRASA AUTÓLOGO (abdomen o temporal). Rellena la cavidad. Se vasculariza. Se reemplaza por tejido fibroso con el tiempo. VDNF ocluida con grasa. El despegamiento mucoso completo se realiza ANTES de la colocación de grasa."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E4-Q9",
+        "stem": "¿Qué parámetro en la TC es más importante para decidir entre tratamiento quirúrgico y conservador en una fractura de la tabla posterior del seno frontal?",
+        "options": {
+          "A": "Grado de opacificación del seno frontal",
+          "B": "Presencia y grado de desplazamiento de la tabla posterior (>1 grosor de tabla = quirúrgico)",
+          "C": "Tamaño del seno frontal",
+          "D": "Presencia de deformidad del contorno frontal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El grado de desplazamiento de la tabla posterior es el parámetro clave en la TC para la toma de decisiones quirúrgicas. Un desplazamiento de la tabla posterior superior a 1 grosor de tabla (>1–2 mm) se utiliza habitualmente como umbral indicativo de probable desgarro dural y riesgo de rinorrea de LCR, que requiere evaluación neuroquirúrgica y posible reparación quirúrgica. Las fracturas de tabla posterior no desplazadas o mínimamente desplazadas (<1 grosor de tabla) pueden tratarse de forma conservadora con seguimiento, ya que la duramadre probablemente está íntegra. El grado de desplazamiento se correlaciona directamente con la probabilidad de lesión dural.",
+          "wrong": {
+            "A": "La opacificación del seno (hemoseno) es un hallazgo inespecífico que aparece en la mayoría de las fracturas del seno frontal y no determina específicamente la necesidad quirúrgica.",
+            "C": "El tamaño del seno es una variante anatómica que no determina el tratamiento.",
+            "D": "La deformidad del contorno frontal es la principal indicación para la reparación de la tabla anterior — no para las decisiones de tratamiento de la tabla posterior."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tabla posterior: desplazamiento >1 grosor de tabla = evaluación quirúrgica; no desplazada = seguimiento conservador",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): desplazamiento de la tabla posterior >1 grosor de tabla asociado con el 85% de probabilidad de desgarro dural; tabla posterior no desplazada: desgarro dural solo en el 12%",
+          "pearl": "Manejo de la TABLA POSTERIOR: desplazamiento >1 grosor de tabla (>1-2mm) = consulta a neurocirugía + probable reparación quirúrgica (obliteración o cranialización). Tabla posterior no desplazada = conservador (observación + seguimiento con TC + profilaxis antibiótica para LCR)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q10",
+        "stem": "¿Qué nervio está en mayor riesgo durante el abordaje del colgajo coronal del cuero cabelludo hacia el seno frontal?",
+        "options": {
+          "A": "Rama temporal del nervio facial (NC VII)",
+          "B": "Nervio supraorbitario (NC V1)",
+          "C": "Nervio infraorbitario (NC V2)",
+          "D": "Nervio óptico (NC II)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los nervios supraorbitario y supratroclear (ramas del nervio oftálmico, NC V1) inervan la sensibilidad de la frente y el cuero cabelludo. Emergen a través del foramen/escotadura supraorbitaria y la escotadura supratroclear en el reborde orbitario superior. Durante el abordaje coronal, el colgajo del cuero cabelludo se eleva en el plano subgaleal, y la disección hasta el reborde supraorbitario requiere la identificación y protección cuidadosas de estos nervios al emerger de sus forámenes. Su lesión provoca hipoestesia frontal temporal o permanente. Los nervios discurren dentro de la almohadilla grasa subgaleal del colgajo — mantenerse en el plano subgaleal correcto los protege.",
+          "wrong": {
+            "A": "La rama temporal del nervio facial (NC VII) discurre en la fascia temporoparietal — está en riesgo durante la porción temporal del colgajo coronal, pero el nervio principalmente en riesgo durante la disección FRONTAL es el nervio supraorbitario (NC V1).",
+            "C": "El nervio infraorbitario (NC V2) emerge por el foramen infraorbitario por debajo del reborde orbitario — está en riesgo durante los abordajes del párpado inferior y la zona media facial, no en el abordaje coronal.",
+            "D": "El nervio óptico discurre dentro de la órbita y el canal óptico — no en el campo quirúrgico del abordaje coronal."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — abordaje coronal: protección del nervio supraorbitario; identificar el foramen supraorbitario y proteger el nervio durante la disección subperióstica",
+          "trial": "Frodel JL et al. Coronal approach complications. Arch Otolaryngol Head Neck Surg (1993): lesión del nervio supraorbitario (hipoestesia temporal) en el 12% de los abordajes coronales; lesión permanente <3% con técnica cuidadosa",
+          "pearl": "Abordaje coronal: nervios SUPRAORBITARIO y SUPRATROCLEAR (NC V1) en riesgo = hipoestesia frontal si se lesionan. Proteger mediante: (1) identificar la escotadura/foramen supraorbitario, (2) disecar cuidadosamente en el plano subgaleal. Rama temporal NC VII en riesgo en la porción TEMPORAL del colgajo coronal — zona diferente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q11",
+        "stem": "El neumoencéfalo en la TC tras una fractura del seno frontal indica:",
+        "options": {
+          "A": "Enfisema subcutáneo por lesión cutánea penetrante",
+          "B": "Entrada de aire en el espacio subaracnoideo a través de un desgarro de la tabla posterior/duramadre — signo de comunicación intracraneal",
+          "C": "Hallazgo postoperatorio normal tras la reparación del seno frontal",
+          "D": "Aire del seno que se extiende por el espacio epidural únicamente, sin desgarro dural"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El neumoencéfalo — aire intracraneal visible en la TC — indica la entrada de aire en el espacio subaracnoideo o epidural a través de un desgarro dural que comunica con el seno frontal o los senos paranasales. En el contexto de una fractura del seno frontal, el neumoencéfalo confirma una fractura de la tabla posterior con desgarro dural y constituye indicación de evaluación neuroquirúrgica. El neumoencéfalo significativo ('signo del Monte Fuji' — aire epidural frontal bilateral que desplaza los lóbulos frontales posteriormente, creando una imagen en forma de montaña) puede causar un neumoencéfalo a tensión, una urgencia neuroquirúrgica.",
+          "wrong": {
+            "A": "El enfisema subcutáneo es aire en los tejidos blandos subcutáneos — una localización diferente del aire intracraneal.",
+            "C": "El neumoencéfalo postoperatorio puede producirse tras la cirugía del seno frontal, pero en el contexto del traumatismo indica desgarro dural.",
+            "D": "El aire en el espacio epidural sin desgarro dural es técnicamente posible (neumoencéfalo extradural) pero infrecuente; la preocupación más importante es el aire subaracnoideo que indica un desgarro dural completo."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — neumoencéfalo: signo de fractura de la base del cráneo o de la tabla posterior con desgarro dural; consulta a neurocirugía requerida",
+          "trial": "Duvall AJ et al. Arch Otolaryngol (1987): neumoencéfalo presente en el 23% de las fracturas de la tabla posterior; el 100% presentaba desgarros durales confirmados en la cirugía",
+          "pearl": "NEUMOENCÉFALO en TC = AIRE dentro del cráneo = DESGARRO DURAL. En el contexto de fractura del seno frontal = fractura de tabla posterior con desgarro dural. Siempre solicitar consulta a neurocirugía. 'Signo del Monte Fuji' = neumoencéfalo a tensión = URGENCIA NEUROQUIRÚRGICA."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q12",
+        "stem": "La guía actual basada en la evidencia sobre la profilaxis antibiótica para la rinorrea de LCR por fracturas del seno frontal establece:",
+        "options": {
+          "A": "Los antibióticos profilácticos (basados en penicilina) están fuertemente recomendados para todas las fugas de LCR para prevenir la meningitis",
+          "B": "Los antibióticos profilácticos de rutina para las fugas de LCR NO están recomendados por evidencia insuficiente de que prevengan la meningitis",
+          "C": "La cefuroxima IV durante 14 días es el estándar asistencial basado en la evidencia",
+          "D": "Los antibióticos solo deben iniciarse DESPUÉS de confirmar la meningitis para evitar resistencias"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La guía actual NICE y múltiples revisiones sistemáticas (incluyendo revisiones Cochrane) NO recomiendan antibióticos profilácticos de rutina para las fugas de LCR por fracturas de la base del cráneo/seno frontal, porque no existe evidencia de alta calidad de que la profilaxis reduzca las tasas de meningitis, y existe preocupación por la selección de organismos resistentes. A pesar de esto, muchos centros de trauma continúan utilizando profilaxis (ceftriaxona o amoxicilina-clavulánico) en la práctica clínica, asumiendo la falta de evidencia sólida dada la gravedad de la consecuencia potencial (meningitis). Esta es una posición matizada — la respuesta para el examen es que la profilaxis RUTINARIA no está actualmente basada en la evidencia según NICE.",
+          "wrong": {
+            "A": "NICE y las revisiones Cochrane NO avalan la profilaxis antibiótica de rutina para las fugas de LCR. La profilaxis no está fuertemente recomendada a pesar de la práctica clínica habitual.",
+            "C": "No existe ningún régimen antibiótico estandarizado y basado en la evidencia para la profilaxis de la fuga de LCR — este enunciado es ficticio.",
+            "D": "Esperar hasta confirmar la meningitis para iniciar antibióticos resultaría en el tratamiento tardío de una infección del SNC establecida — esto no está recomendado."
+          },
+          "guideline": "NICE CG176 (Head Injury 2019) — profilaxis antibiótica para fugas de LCR: NO recomendada de rutina; evidencia insuficiente; vigilar la aparición de meningitis",
+          "trial": "Ratilal BO et al. Antibiotic prophylaxis for preventing meningitis in patients with basilar skull fractures. Cochrane Database Syst Rev (2015): la profilaxis NO redujo significativamente la tasa de meningitis; mayor resistencia antibiótica como efecto secundario",
+          "pearl": "NICE: NO prescribir antibióticos de rutina para la fuga de LCR por fracturas de la base del cráneo (Cochrane 2015 — sin beneficio). En la PRÁCTICA: muchos centros aún utilizan profilaxis. Para el EXAMEN: la respuesta basada en la evidencia es que la profilaxis rutinaria NO está recomendada. Vigilar estrechamente la aparición de meningitis."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E4-Q13",
+        "stem": "La 'vía de drenaje nasofrontal' (VDNF) es importante en las fracturas del seno frontal porque:",
+        "options": {
+          "A": "Conduce el aporte sanguíneo a la mucosa del seno frontal",
+          "B": "Su obstrucción conlleva acumulación de moco y formación tardía de mucocele",
+          "C": "Comunica con la fosa craneal anterior y predispone a la meningitis",
+          "D": "Debe resecarse quirúrgicamente en todas las reparaciones de fracturas del seno frontal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La VDNF es la vía de drenaje del seno frontal hacia el meato medio nasal. Si se obstruye por fragmentos de fractura, edema o cicatrización, la mucosa del seno frontal continúa produciendo moco que no puede drenar. Con el tiempo, este moco se acumula formando un mucocele. La permeabilidad o la obstrucción de la VDNF determina por tanto si el seno frontal puede dejarse cicatrizar de forma natural (VDNF permeable — el seno puede drenar), tratarse únicamente con FESS (lesión leve de la VDNF) o debe obliterarse/cranializarse (la VDNF no puede restaurarse de forma fiable).",
+          "wrong": {
+            "A": "La VDNF es una vía de drenaje, no de aporte sanguíneo. El suministro vascular a la mucosa del seno proviene de ramas de la arteria oftálmica y la arteria maxilar interna.",
+            "C": "La VDNF comunica con la cavidad nasal (a través del meato medio) — no con la fosa craneal anterior. La tabla posterior es la que comunica con la fosa craneal.",
+            "D": "La VDNF no se reseca habitualmente — se ocluye (durante la obliteración/cranialización) o potencialmente se repara/tutoriza para restaurar el drenaje."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — VDNF: estructura crítica en el tratamiento de las fracturas del seno frontal; obstrucción → mucocele",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): la obstrucción de la VDNF en la TC se correlacionó con >50% de desarrollo de mucocele sin obliteración; la permeabilidad de la VDNF permite el tratamiento conservador",
+          "pearl": "VDNF = vía de drenaje del seno frontal al meato medio. Obstrucción de la VDNF = el moco no puede drenar = MUCOCELE (años después). Evaluación: TC coronal (¿la vía de drenaje es permeable o está comprometida por fragmentos de fractura?). VDNF permeable = el seno puede cicatrizar solo. VDNF alterada = obliterar."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q14",
+        "stem": "El tratamiento conservador de la rinorrea aguda de LCR por fractura del seno frontal incluye reposo en cama, elevación de la cabecera y evitar sonarse la nariz. ¿Qué porcentaje de las fugas agudas de LCR se resuelven espontáneamente en 7-10 días con este abordaje?",
+        "options": {
+          "A": "20%",
+          "B": "50%",
+          "C": "80%",
+          "D": "100%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Aproximadamente el 80% de las rinorreas de LCR posttraumáticas agudas se resuelven espontáneamente en 7–10 días con tratamiento conservador (reposo en cama, elevación de la cabecera 30°, evitar sonarse la nariz y las maniobras de Valsalva, analgesia). El desgarro dural se sella mediante la formación natural de coágulo y la cicatrización dural. El 20% restante requiere intervención activa (drenaje lumbar o reparación dural quirúrgica). Esta elevada tasa de resolución espontánea justifica un breve ensayo conservador antes de la reparación invasiva para la mayoría de las fugas agudas de LCR.",
+          "wrong": {
+            "A": "El 20% es demasiado bajo — es en realidad la tasa que FRACASA con el tratamiento conservador.",
+            "B": "El 50% subestima la tasa de resolución espontánea.",
+            "D": "El 100% significaría que las fugas de LCR siempre se resuelven de forma conservadora — claramente no es así, ya que el 20% requiere intervención."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — rinorrea de LCR: el 80% se resuelve en 7-10 días con tratamiento conservador; el 20% requiere reparación quirúrgica",
+          "trial": "Friedman JA et al. Post-traumatic CSF leakage. World Neurosurg (2001): 80% de resolución espontánea en 7-10 días; fuga persistente a los 10 días = drenaje lumbar o reparación quirúrgica",
+          "pearl": "RINORREA AGUDA DE LCR: el 80% se resuelve en 7-10 días de forma conservadora. Tratamiento conservador: reposo en cama + elevación de la cabecera 30° + no sonarse la nariz + laxantes (prevenir Valsalva). Si no se resuelve a los 7-10 días → drenaje lumbar o reparación quirúrgica. Fuga no reparada a largo plazo = 10% de riesgo de meningitis a los 10 años."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q15",
+        "stem": "El 'test de la beta-2 transferrina' para confirmar la rinorrea de LCR requiere una técnica de laboratorio específica. ¿Por qué la tira reactiva de glucosa (Dextrostix) no es fiable para este propósito?",
+        "options": {
+          "A": "Las tiras de glucosa no detectan glucosa en el LCR",
+          "B": "La glucosa en el LCR es menor que en sangre, dando falsos negativos",
+          "C": "La contaminación por sangre, moco y lágrimas — todos contienen glucosa — produce falsos positivos",
+          "D": "El test requiere >10 mL de líquido, que raramente está disponible"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El test con tira de glucosa para la rinorrea de LCR no es fiable porque tiene muy baja especificidad — dará positivo (glucosa presente) en presencia de SANGRE (que siempre contiene glucosa), lágrimas (que contienen glucosa) y en algunas condiciones inflamatorias en las que el exudado contiene glucosa. Dado que prácticamente todos los pacientes con traumatismo craneal presentan cierto grado de hemorragia nasal y contaminación por secreciones, las tiras de glucosa producen numerosos falsos positivos. El test de la beta-2 transferrina, en cambio, detecta una proteína específica del LCR (producida únicamente en el SNC por la actividad de la neuraminidasa), siendo prácticamente específica.",
+          "wrong": {
+            "A": "Las tiras de glucosa pueden detectar glucosa en el LCR — el problema es la especificidad, no la sensibilidad.",
+            "B": "La glucosa en el LCR puede ser menor que en sangre en la meningitis, pero en las fugas de LCR traumáticas (sin meningitis), la glucosa en el LCR es casi normal — no es el principal problema del test.",
+            "D": "La beta-2 transferrina requiere tan solo 0,5 mL; el test Dextrostix requiere mucho menos. El volumen no es el problema."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — beta-2 transferrina: patrón oro, alta especificidad. Tira de glucosa: baja especificidad por contaminación de glucosa por sangre/lágrimas",
+          "trial": "Bachmann-Harildstad G et al. Emerg Med J (2007): especificidad del Dextrostix del 38% vs el 95% de la beta-2 transferrina para confirmar LCR; tasa de falsos positivos inaceptablemente alta con tiras de glucosa",
+          "pearl": "Tira de glucosa = BAJA ESPECIFICIDAD para LCR (la sangre y las lágrimas también contienen glucosa = falsos positivos). Beta-2 transferrina = ALTA ESPECIFICIDAD (solo en el LCR). La beta-2 transferrina es el test correcto para confirmar o excluir la rinorrea de LCR."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q16",
+        "stem": "El drenaje lumbar se utiliza ocasionalmente en el tratamiento de la rinorrea aguda de LCR por fracturas del seno frontal. ¿Cuál es su mecanismo de acción?",
+        "options": {
+          "A": "Aspira la sangre del espacio subaracnoideo alrededor del desgarro dural",
+          "B": "Reduce la presión del LCR mediante un drenaje controlado, disminuyendo el gradiente de presión a través del desgarro dural y favoreciendo la cicatrización",
+          "C": "Instila antibióticos directamente en el espacio del LCR",
+          "D": "Confirma el sitio de la fuga de LCR mediante inyección de colorante"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un drenaje espinal lumbar se inserta a nivel L3/L4 o L4/L5 y permite un drenaje controlado de LCR (típicamente 10–15 mL/hora). Al reducir el volumen y la presión del LCR en el espacio subaracnoideo, disminuye la presión hidrostática que impulsa el LCR a través del desgarro dural hacia los senos paranasales. Con la presión reducida, el desgarro dural tiene la oportunidad de cicatrizar sin el flujo constante de LCR. Se utiliza como puente cuando el LCR no se resuelve únicamente con tratamiento conservador estricto, o como preparación antes de la reparación dural quirúrgica definitiva.",
+          "wrong": {
+            "A": "El drenaje lumbar drena LCR del espacio subaracnoideo lumbar — no sangre. La sangre en el espacio subaracnoideo no se aborda con un drenaje lumbar.",
+            "C": "Los antibióticos intratecales se utilizan en escenarios específicos de meningitis, no como mecanismo del drenaje de LCR.",
+            "D": "La cisternografía por TC utiliza contraste intratecal para localizar una fuga de LCR — el drenaje lumbar es terapéutico, no diagnóstico."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — drenaje lumbar: reduce el gradiente de presión del LCR a través del desgarro dural; permite la cicatrización; utilizado cuando el tratamiento conservador fracasa",
+          "trial": "Friedman JA et al. World Neurosurg (2001): drenaje lumbar a 10-15 mL/h durante 5-7 días con éxito para cerrar la fuga persistente de LCR en el 65% de los casos; reparación quirúrgica requerida en el 35% restante",
+          "pearl": "DRENAJE LUMBAR = reduce la presión del LCR → reduce el flujo a través del desgarro dural → la duramadre puede sellarse. Se usa cuando fallan 7-10 días de conservación estricta. El 65% de las fugas persistentes se cierran con drenaje lumbar. Si el drenaje fracasa → reparación dural quirúrgica (abordaje endonasal endoscópico o craneotomía abierta)."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E4-Q17",
+        "stem": "En un paciente con fractura no desplazada de la tabla anterior únicamente, sin afectación de la tabla posterior y con VDNF permeable en la TC, ¿cuál es el tratamiento más adecuado?",
+        "options": {
+          "A": "RAFI de la tabla anterior con fijación mediante placa mediante abordaje coronal",
+          "B": "Obliteración del seno frontal",
+          "C": "Tratamiento conservador — no se requiere cirugía",
+          "D": "Reparación endonasal endoscópica mediante FESS"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Una fractura no desplazada de la tabla anterior con tabla posterior íntegra y VDNF permeable no tiene indicación quirúrgica. La ausencia de desplazamiento significa que no hay deformidad cosmética frontal que requiera corrección. Una tabla posterior íntegra significa que no hay riesgo de desgarro dural/LCR. Una VDNF permeable significa que el seno puede drenar normalmente y el riesgo de mucocele es bajo. El tratamiento conservador con seguimiento clínico y radiológico seriado es apropiado. Se debe informar al paciente sobre las posibles complicaciones tardías (riesgo de mucocele, fuga tardía de LCR) que requieren seguimiento a largo plazo.",
+          "wrong": {
+            "A": "La RAFI está indicada en fracturas de tabla anterior DESPLAZADAS con deformidad significativa del contorno frontal — no para las no desplazadas.",
+            "B": "La obliteración está indicada cuando la VDNF está alterada — no cuando es permeable.",
+            "D": "La FESS puede utilizarse si es necesario restaurar quirúrgicamente el drenaje de la VDNF — no es necesaria cuando la VDNF es permeable."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tabla anterior no desplazada + tabla posterior íntegra + VDNF permeable: tratamiento conservador apropiado",
+          "trial": "Rodriguez ED et al. Plast Reconstr Surg (2008): fracturas de tabla anterior no desplazadas con VDNF permeable: el 94% cicatrizó sin complicaciones con tratamiento conservador; no fue necesaria intervención quirúrgica",
+          "pearl": "Tabla anterior no desplazada + tabla posterior íntegra + VDNF permeable = CONSERVADOR. Nada que reparar: sin deformidad del contorno, sin riesgo dural, sin problema de drenaje. TC de seguimiento a los 6-12 meses recomendada para confirmar la resolución."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E4-Q18",
+        "stem": "La reconstrucción secundaria tardía de una deformidad del contorno frontal por una fractura del seno frontal consolidada utiliza más frecuentemente qué material?",
+        "options": {
+          "A": "Inyección de cemento de fosfato cálcico",
+          "B": "Injerto óseo calvarial autólogo de grosor dividido",
+          "C": "Inyección de relleno permanente de tejidos blandos (PMMA)",
+          "D": "Prótesis de silicona"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El injerto óseo calvarial de grosor dividido (cosecha de la tabla externa) es el material autólogo de referencia para la reconstrucción secundaria de la frente. Se obtiene del cráneo parietal contralateral mediante sierra oscilante, dejando la tabla interna íntegra. El injerto de la tabla externa es rígido, tiene excelentes propiedades de concordancia de contorno y se integra con el hueso frontal adyacente. No se reabsorbe significativamente (a diferencia del injerto de cresta ilíaca en la región craneofacial). La malla de titanio personalizada o los cementos de hidroxiapatita son alternativas, en particular cuando la cavidad del seno frontal está obliterada y no existe riesgo de regeneración mucosa bajo el implante.",
+          "wrong": {
+            "A": "El cemento de fosfato cálcico se utiliza para irregularidades menores del contorno y defectos pequeños — no es la primera opción para la reconstrucción mayor de la frente.",
+            "C": "Los rellenos permanentes de PMMA (polimetilmetacrilato) se usan cosméticament para irregularidades menores pero no son de calidad quirúrgica para la reconstrucción mayor.",
+            "D": "Los implantes de silicona para la frente se usan ocasionalmente pero son más propensos a infección, migración y extrusión en comparación con el injerto óseo autólogo."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — reconstrucción secundaria de la frente: injerto óseo calvarial de grosor dividido: patrón oro; malla de titanio para defectos grandes",
+          "trial": "Gruss JS et al. Secondary corrections of post-traumatic craniofacial deformities. Plast Reconstr Surg (1990): tasa de integración del injerto óseo calvarial del 96% a los 2 años; superior a los materiales aloplásticos para defectos grandes de la frente",
+          "pearl": "Reconstrucción secundaria de la frente = INJERTO ÓSEO CALVARIAL DE GROSOR DIVIDIDO (patrón oro). Cosecha del parietal contralateral. Rígido, autólogo, reabsorción mínima. Alternativa: malla de titanio personalizada (CAD/CAM) para defectos muy grandes o cuando el hueso autólogo es insuficiente."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E4-Q19",
+        "stem": "El seno frontal está ausente (aplásico) en aproximadamente qué porcentaje de los adultos?",
+        "options": {
+          "A": "2%",
+          "B": "15%",
+          "C": "30%",
+          "D": "50%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La aplasia del seno frontal (ausencia completa) ocurre en aproximadamente el 15% de los adultos. La aplasia parcial (seno muy pequeño) es más frecuente. Esta variación anatómica es importante clínicamente: en un paciente con senos frontales aplásicos, un traumatismo directo sobre la frente fracturará el hueso frontal (bóveda craneal) sin crear un patrón de fractura del seno — el tratamiento sigue los principios craneales en lugar de los sinusales. La TC identifica incidentalmente la aplasia del seno frontal en muchos pacientes traumatizados.",
+          "wrong": {
+            "A": "El 2% subestima la prevalencia de la aplasia del seno frontal.",
+            "C": "El 30% la sobreestima.",
+            "D": "El 50% significaría que la mitad de los adultos carecen de senos frontales — no es correcto."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — aplasia del seno frontal: aproximadamente el 15% de los adultos; variante anatómica",
+          "trial": "Calcaterra TC et al. Frontal sinus anatomy. Laryngoscope (1980): análisis sistemático mediante TC de 200 adultos — aplasia del seno frontal en el 14,7%; hipoplasia en el 8,3%",
+          "pearl": "Aplasia del seno frontal = aproximadamente el 15% de los adultos. Sin seno = sin fractura del seno = se trata como fractura craneal. Identificar siempre la anatomía del seno frontal en la TC antes de planificar el tratamiento de la fractura del seno frontal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E4-Q20",
+        "stem": "En el contexto de las fracturas del seno frontal, ¿qué afirmación sobre la tabla posterior es CORRECTA?",
+        "options": {
+          "A": "La tabla posterior tiene 4-6 mm de grosor, similar a la tabla anterior",
+          "B": "La tabla posterior forma la pared anterior de la fosa craneal anterior y tiene 1-2 mm de grosor",
+          "C": "La tabla posterior comunica directamente con la fosa craneal media",
+          "D": "La tabla posterior siempre se extirpa quirúrgicamente en el tratamiento de las fracturas del seno frontal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La tabla posterior del seno frontal tiene 1–2 mm de grosor — significativamente más delgada que la tabla anterior (4–6 mm). Forma la pared anterior de la fosa craneal anterior, directamente adyacente a la duramadre del lóbulo frontal. Este adelgazamiento explica por qué las fracturas de la tabla posterior se asocian con altas tasas de desgarro dural y rinorrea de LCR. Una fractura de tabla posterior desplazada casi invariablemente altera la duramadre suprayacente.",
+          "wrong": {
+            "A": "La tabla posterior NO tiene 4-6 mm de grosor — eso corresponde a la tabla anterior. La tabla posterior es mucho más delgada (1-2 mm).",
+            "C": "La tabla posterior comunica con la fosa craneal ANTERIOR, no con la fosa craneal media.",
+            "D": "La tabla posterior solo se extirpa (durante la cranialización) cuando está conminuta o cuando un desgarro dural de gran tamaño hace imposible su preservación. NO se extirpa siempre."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — tabla posterior: 1-2 mm de grosor; pared de la fosa craneal anterior; delgada = alto riesgo de desgarro dural incluso con desplazamiento mínimo",
+          "trial": "Duvall AJ et al. Arch Otolaryngol (1987): fracturas de tabla posterior: tasa de desgarro dural del 85% cuando hay desplazamiento >1 grosor de tabla; solo el 12% cuando no están desplazadas — refleja la anatomía de la delgada tabla posterior",
+          "pearl": "TABLA POSTERIOR = 1-2 mm DELGADA = pared de la fosa craneal anterior. TABLA ANTERIOR = 4-6 mm GRUESA = protección frontal. Tabla posterior delgada = alto riesgo de desgarro dural con cualquier desplazamiento. Tabla posterior no desplazada = duramadre probablemente íntegra."
+        },
+        "difficulty": 1
+      }
+    ]
+  }
+}

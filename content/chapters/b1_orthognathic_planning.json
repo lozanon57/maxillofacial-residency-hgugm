@@ -1,0 +1,657 @@
+{
+  "id": "B1",
+  "title": "Orthognathic Surgery Planning",
+  "subtitle": "Block B — Orthognathic & Skeletal Surgery: Cephalometry, VSP, and Patient Selection",
+  "block": "B",
+  "block_name": "Orthognathic & Skeletal Surgery",
+  "level": "R2-4",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · BAOMS Orthognathic Surgery Standards 2022 · BOS/BOPA Orthodontic-Orthognathic Guidelines 2023",
+  "textbook_refs": [
+    "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics, 6th ed. (Mosby 2018)",
+    "Arnett GW and Bergman RT. Facial Keys to Orthodontic Diagnosis and Treatment Planning (Am J Orthod Dentofacial Orthop 1993)",
+    "Steinhuber T et al. Virtual Surgical Planning in Orthognathic Surgery — Systematic Review (J Oral Maxillofac Surg 2018)",
+    "Baan F et al. Accuracy of Virtual Surgical Planning for Orthognathic Surgery (J Craniomaxillofac Surg 2016)",
+    "Nadjmi N. Fully Personalized Orthognathic Surgery Planning (J Craniomaxillofac Surg 2015)"
+          ],
+  "learning_objectives": [
+    "Interpret a lateral cephalometric radiograph, identify key cephalometric landmarks, and perform standard angular and linear measurements (SNA, SNB, ANB, Wits appraisal)",
+    "Classify skeletal discrepancies (Class I, II, III) and vertical pattern (hyperdivergent, hypodivergent) based on cephalometric analysis",
+    "Describe the phases of orthognathic treatment (pre-surgical orthodontics, surgery, post-surgical orthodontics) and the rationale for each",
+    "Explain the role of virtual surgical planning (VSP) and its advantages over traditional model surgery and facebow transfer",
+    "Determine patient selection criteria for orthognathic surgery and describe the combined orthodontic-surgical team approach"
+  ],
+  "sections": [
+    {
+      "id": "B1-S1",
+      "title": "Indications and Patient Selection for Orthognathic Surgery",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Orthognathic surgery is indicated when significant skeletal discrepancies cannot be corrected by orthodontics alone. The primary indications are: (1) **Dentofacial deformity** with functional or aesthetic compromise, including class III (mandibular prognathism or maxillary hypoplasia), class II (mandibular retrognathia), open bite, and asymmetry; (2) **Obstructive sleep apnoea (OSA)** — maxillomandibular advancement (MMA) is the most effective surgical treatment for severe OSA (AHI reduction >80% in meta-analyses); (3) **Cleft lip and palate sequelae** with maxillary hypoplasia; (4) **Syndromic craniofacial deformities** (hemifacial microsomia, Treacher Collins, Crouzon, Apert). Patient selection requires: functional impairment (malocclusion impacting mastication, speech, or TMJ), skeletal maturity (girls >16 years; boys >18 years — cessation of jaw growth confirmed by serial cephalometric tracings), reasonable patient expectations and understanding of the process, and good oral hygiene. The gold standard for confirming skeletal maturity is stable serial cephalometric measurements at 6-month intervals with no progression. The **treatment duration** is typically 18–30 months total: 9–18 months pre-surgical orthodontics, surgery, and 6–12 months post-surgical orthodontics."
+        },
+        {
+          "type": "table",
+          "title": "Indications for Orthognathic Surgery by Skeletal Deformity Type",
+          "headers": ["Deformity", "Definition", "Surgery", "Indication"],
+          "rows": [
+            ["Skeletal Class III", "ANB <0°; mandibular prognathism or maxillary hypoplasia", "BSSO setback ± Le Fort I advancement", "ANB < −3°; functional malocclusion; aesthetics"],
+            ["Skeletal Class II", "ANB >4°; mandibular retrognathia", "BSSO advancement ± genioplasty", "ANB >6°; deep bite; chin deficiency"],
+            ["Anterior open bite", "Lack of anterior occlusion; hyperdivergent", "Le Fort I impact + BSSO ± genioplasty", "AOB >3 mm; skeletal etiology; failed orthodontics"],
+            ["Vertical maxillary excess", "Excessive gingival show (>2 mm at repose)", "Le Fort I impaction", "Gingival show >3–4 mm; lower face height excess"],
+            ["Asymmetry", "Dental midline deviation; cant of occlusal plane", "Le Fort I ± unilateral BSSO ± genioplasty", "Facial midline deviation >3 mm; functional asymmetry"],
+            ["OSA (severe)", "AHI >30; refractory to CPAP", "Maxillomandibular advancement (MMA)", "AHI >30; CPAP failure; skeletal deficiency"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Skeletal Maturity Assessment",
+          "content": "Orthognathic surgery must not be performed until skeletal maturity. Assessment: serial lateral cephalograms at 6-month intervals — no significant change (≤0.5 mm/year in lower face height) confirms stability. Girls typically mature at 16–17 years; boys 18–19 years. Surgery before maturity risks post-operative skeletal relapse as growth continues."
+        }
+      ]
+    },
+    {
+      "id": "B1-S2",
+      "title": "Cephalometric Analysis — Landmarks and Key Measurements",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Cephalometric analysis remains the foundation of orthognathic surgery planning, providing quantitative assessment of skeletal and dental relationships. The **lateral cephalogram** is a standardised radiograph with the head in natural head position (NHP) or Frankfort horizontal plane (FH) horizontal. Key cephalometric landmarks: **S** (Sella — centre of pituitary fossa), **N** (Nasion — nasofrontal suture), **A** (Subspinale — deepest point on anterior maxillary contour), **B** (Supramentale — deepest point on anterior mandibular contour), **Pog** (Pogonion — most anterior point on chin), **Gn** (Gnathion — most anteroinferior point on chin), **Me** (Menton — lowest point of mandibular symphysis), **Go** (Gonion — posterior-inferior point of mandibular angle). Critical angular measurements: **SNA** (82° ± 2°) — maxillary position relative to cranial base; increased = maxillary prognathism; decreased = maxillary retrognathia. **SNB** (80° ± 2°) — mandibular position relative to cranial base. **ANB** (2° ± 2°) — sagittal relationship between maxilla and mandible; ANB >4° = Class II; ANB <0° = Class III. **Wits appraisal** (perpendicular from A and B to functional occlusal plane; 0 mm for females, -1 mm for males) is used as a complement to ANB, particularly when cranial base morphology is abnormal. Vertical assessment: **FMA** (Frankfort-mandibular plane angle; 25° ± 4°) — increased = hyperdivergent; **SN-MP** (32° ± 4°). **IMPA** (90° ± 5°) — lower incisor inclination. **U1-SN** (102° ± 2°) — upper incisor inclination."
+        },
+        {
+          "type": "table",
+          "title": "Key Cephalometric Values and Clinical Interpretation",
+          "headers": ["Measurement", "Normal Value", "Increased", "Decreased"],
+          "rows": [
+            ["SNA", "82° ± 2°", "Maxillary prognathism", "Maxillary retrognathia"],
+            ["SNB", "80° ± 2°", "Mandibular prognathism", "Mandibular retrognathia (Class II)"],
+            ["ANB", "2° ± 2°", ">4° = Class II skeletal", "<0° = Class III skeletal"],
+            ["Wits appraisal", "0 mm (F); −1 mm (M)", "Class II", "Class III"],
+            ["FMA", "25° ± 4°", "Hyperdivergent (open bite risk)", "Hypodivergent (deep bite)"],
+            ["IMPA", "90° ± 5°", "Lower incisor proclined", "Lower incisor retroclined"],
+            ["U1-SN", "102° ± 2°", "Upper incisor proclined", "Upper incisor retroclined"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — ANB Limitation with Cranial Base Abnormalities",
+          "content": "ANB angle is influenced by cranial base angle and Nasion position. In patients with cranial base abnormalities (platybasia, brachycephaly) or Nasion positioned unusually, ANB may not accurately reflect the true sagittal skeletal relationship. In these cases, Wits appraisal (functional occlusal plane perpendiculars) is more reliable. Always use both measurements together for accurate skeletal classification."
+        }
+      ]
+    },
+    {
+      "id": "B1-S3",
+      "title": "Pre-Surgical Orthodontics — Goals and Principles",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Pre-surgical orthodontic preparation is a critical phase that typically lasts 9–18 months before surgery. The goals of pre-surgical orthodontics are the opposite of camouflage orthodontics: rather than masking the skeletal discrepancy with dental compensation, pre-surgical orthodontics **decompensates** the dentition, aligning the teeth to the underlying skeletal base. This intentionally worsens the appearance of the malocclusion (making a Class III patient's bite look worse) to allow the subsequent surgical movement to achieve ideal occlusion when the jaws are moved. Specific pre-surgical orthodontic goals: (1) **Levelling and aligning** within each arch, eliminating curves of Spee; (2) **Decompensation** — removing dental compensations for the skeletal discrepancy. For a Class III patient, the upper incisors are typically retroclined (compensated — leaning toward the maxilla) and lower incisors proclined. Decompensation proclines the upper incisors and retrolines the lower incisors, worsening the Class III incisor relationship; (3) **Coordination of arches** — ensuring the upper and lower arch forms match so that the jaws will have coordinated occlusion when surgically repositioned; (4) **Arch expansion** when there is maxillary constriction (surgically assisted rapid palatal expansion, SARPE, may be performed as a preliminary procedure if constriction is significant); (5) **Presurgical records** — final cephalogram, dental models, and facial photographs taken 2–4 weeks before surgery for VSP planning. The readiness criterion for surgery: when the arch forms are coordinated and dental decompensation is complete, confirmed by fitting the upper and lower dental models together in the planned surgical position to preview occlusion."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Decompensation in Class III",
+          "content": "In a skeletal Class III patient, upper incisors are typically proclined (compensated to maintain incisor contact) and lower incisors are retroclined. Pre-surgical orthodontics RETROLINES the upper incisors and PROCLINES the lower incisors — this makes the bite temporarily worse (more Class III) but is necessary so that after surgical advancement of the maxilla and setback of the mandible, the incisors will meet in correct incisor relationship. If decompensation is inadequate, surgery cannot achieve the planned dental result."
+        }
+      ]
+    },
+    {
+      "id": "B1-S4",
+      "title": "Virtual Surgical Planning — Principles and Evidence",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Virtual surgical planning (VSP) has become the standard of care for orthognathic surgery at most centres, replacing traditional model surgery and facebow transfer. The VSP workflow: (1) **Pre-surgical imaging** — high-resolution CBCT (cone beam CT) of the skull and CBCT or intraoral scan of the dental arches; (2) **3D reconstruction** — segmentation of the skull, maxilla, mandible, teeth, and soft tissue envelope; (3) **Simulation of osteotomies** — Le Fort I, bilateral sagittal split osteotomy (BSSO), genioplasty, simulated virtually with precise control of movement in all six axes; (4) **Occlusal analysis** — virtual placement of dental models in planned occlusion; (5) **Soft tissue prediction** — algorithms predict the soft tissue response to skeletal movement (ratios: upper lip responds 50–60% of maxillary advancement; chin soft tissue 100% of genioplasty advancement); (6) **Manufacturing** of patient-specific intermediate and final surgical splints (occlusal wafers) using CAD/CAM technology to guide jaw positioning during surgery; (7) **Custom titanium plate fabrication** — optional; pre-bent plates manufactured from the 3D plan. The evidence for VSP accuracy: **Baan et al.** (J Craniomaxillofac Surg 2016) showed VSP achieves mean surgical position error of 1.0 mm vs 2.4 mm with conventional model surgery. **Steinhuber et al.** systematic review (J Oral Maxillofac Surg 2018) confirmed VSP superior to model surgery in accuracy and reducing operating time (mean 35–45 minutes shorter). VSP also enables simultaneous 3D visualisation of the airway, which is critical for OSA surgery planning (measuring nasopharyngeal, oropharyngeal, and hypopharyngeal dimensions before and after planned movements)."
+        },
+        {
+          "type": "table",
+          "title": "VSP vs Conventional Model Surgery — Comparative Summary",
+          "headers": ["Parameter", "VSP", "Conventional Model Surgery"],
+          "rows": [
+            ["Mean position error", "~1.0 mm", "~2.4 mm"],
+            ["Operating time", "35–45 min shorter", "Reference"],
+            ["Splint fabrication", "CAD/CAM (accurate)", "Manual facebow + articulator"],
+            ["Soft tissue prediction", "Built-in algorithm", "Manual estimation"],
+            ["Airway visualisation", "3D volumetric", "Not available"],
+            ["Cost", "Higher (software + CAD/CAM)", "Lower (lab fees)"],
+            ["Radiation exposure", "CBCT required", "Conventional cephalogram"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — VSP Accuracy and Soft Tissue Ratios",
+          "content": "VSP error ~1.0 mm vs 2.4 mm conventional. Soft tissue response ratios for surgical planning: upper lip = 50–60% of maxillary advancement; lower lip = 80% of mandibular movement; chin = 100% of genioplasty. These ratios are programmed into VSP software and allow patient consultation showing predicted post-operative facial appearance."
+        }
+      ]
+    },
+    {
+      "id": "B1-S5",
+      "title": "Surgical Splints and Jaw Positioning",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Surgical splints (occlusal wafers) are acrylic devices that temporarily fix the upper and lower teeth in a predetermined relationship during surgery, guiding jaw positioning to the planned occlusion. In two-jaw surgery (Le Fort I + BSSO), two splints are used: (1) an **intermediate splint** (used after completing the Le Fort I osteotomy, before performing the BSSO) — this positions the maxilla in its new surgical position relative to the unchanged mandible, allowing the surgeon to set the maxilla and then fix it; (2) a **final splint** (used after completing both osteotomies) — this positions both jaws in the planned final occlusion and is kept in place during fixation and for 6–8 weeks post-operatively during healing. The intermediate splint is the more technically critical of the two — any error in the intermediate splint will propagate as an error in maxillary positioning that cannot be corrected later. Traditional fabrication of splints involves facebow transfer, articulator mounting, and model surgery (manual repositioning of dental stone casts to the planned position). VSP fabrication uses digital workflow: dental scans registered to CBCT, virtual osteotomies performed, planned occlusion programmed, and splints milled from PMMA (polymethylmethacrylate) by CAD/CAM. The digital workflow eliminates the facebow transfer error and articulator mounting variability, producing more accurate and reproducible splints."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Intermediate Splint Errors",
+          "content": "The intermediate splint positions the maxilla RELATIVE TO THE UNCHANGED MANDIBLE after Le Fort I. If the intermediate splint is inaccurate, the maxilla is fixed in the wrong position, and the subsequent BSSO then has a wrong starting point for mandibular positioning. The final splint can only correct errors within the mandibular BSSO range of movement — it cannot compensate for a mis-set maxilla. Always test-fit both splints on dental models before surgery."
+        }
+      ]
+    },
+    {
+      "id": "B1-S6",
+      "title": "Soft Tissue Analysis and Aesthetic Goals",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Modern orthognathic surgery planning is driven as much by soft tissue analysis as by cephalometric skeletal measurements. The goal of surgery is a harmonious facial appearance, not simply achieving 'normal' cephalometric values. **Arnett and Bergman's soft tissue cephalometric analysis** (1993) and the **STCA (soft tissue cephalometric analysis)** evaluate facial proportions directly from soft tissue landmarks. Key soft tissue assessments: (1) **Facial thirds** — upper (hairline to glabella), middle (glabella to subnasale), and lower (subnasale to menton) should be approximately equal (each ~1/3 of facial height); (2) **Lip position and competence** — lips should rest apart by <2 mm at rest; upper lip to E-plane (Ricketts) −4 mm; lower lip to E-plane 0 mm; (3) **Gingival show** — at repose, upper gingiva should not be visible; on full smile, 0–2 mm gingival display is acceptable; >3 mm = 'gummy smile' from vertical maxillary excess; (4) **Chin position** — pogonion to zero meridian (Gonzalez-Ulloa) should be on or behind (no more than 2 mm anterior) the zero meridian line; (5) **Nasolabial angle** — 90–100° for males, 100–110° for females; (6) **Facial convexity** — G-Sn-Pog (should be approximately 168–175°, i.e., nearly straight profile). Photographic records (frontal, lateral, three-quarter views, smile) and facial proportional analysis complement the cephalometric data. Software prediction of post-operative soft tissue appearance (Dolphin Imaging, Maxilim) allows patient consultation showing the expected surgical outcome."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Gummy Smile",
+          "content": "Vertical maxillary excess (VME) causes excessive gingival display (>3 mm on smile). The Le Fort I impaction procedure reduces lower face height and gingival show. For mild VME (<3 mm gingival show), Botox injection to the levator labii superioris (temporary effect) or lip repositioning surgery are alternatives to full orthognathic surgery. For severe VME with malocclusion, Le Fort I impaction is the definitive treatment."
+        }
+      ]
+    },
+    {
+      "id": "B1-S7",
+      "title": "Post-Surgical Orthodontics and Long-Term Stability",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Post-surgical orthodontics begins 4–8 weeks after surgery, when initial bone healing allows light orthodontic forces. Its goals are: fine-tuning of occlusal contacts, closing residual spaces, achieving ideal root paralleling, and ensuring stable intercuspation. Duration: typically 6–12 months. **Skeletal stability** is the critical long-term concern after orthognathic surgery. Relapse is multifactorial and movement-specific. The most stable orthognathic movements (in order): (1) mandibular superior repositioning (least relapse); (2) mandibular advancement; (3) maxillary advancement; (4) maxillary impaction; (5) mandibular setback (most relapse, particularly for large movements >8 mm). Factors affecting stability: magnitude of movement (larger = more relapse), surgical fixation (rigid internal fixation with titanium plates and screws has dramatically reduced relapse compared to wire fixation), post-operative elastics, and post-surgical orthodontic cooperation. **Relapse mechanisms**: for mandibular advancements, the primary relapse mechanism is condylar torque/clockwise rotation of the proximal segments; for maxillary impactions, relapse is driven by soft tissue forces. Rigid skeletal fixation (titanium plates, screws, and for Le Fort I: 4-point fixation at the piriform rim and zygomatic buttress) is essential. Long-term retention: fixed retainers and removable retainers indefinitely for dental stability; skeletal movements are maintained by bone remodelling at osteotomy sites."
+        },
+        {
+          "type": "table",
+          "title": "Skeletal Stability of Orthognathic Movements (Most to Least Stable)",
+          "headers": ["Movement", "Stability", "Relapse Rate", "Key Factor"],
+          "rows": [
+            ["Mandibular superior repositioning", "Very stable", "<5%", "Gravity supports bone contact"],
+            ["Maxillary impaction", "Stable", "5–10%", "Soft tissue forces; 4-point fixation"],
+            ["Mandibular advancement (<8 mm)", "Stable", "10–15%", "Rigid fixation; condylar torque minimisation"],
+            ["Maxillary advancement", "Moderately stable", "10–20%", "Magnitude-dependent; plate fixation"],
+            ["Mandibular setback (large)", "Least stable", "20–40% for >8 mm", "Muscle tension; condylar positioning"],
+            ["Vertical lengthening of mandible", "Least stable", "High", "Bone grafts needed; distraction preferred"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Stability Hierarchy",
+          "content": "Most stable orthognathic movements: (1) mandibular superior repositioning; (2) mandibular advancement; (3) maxillary impaction/advancement. Least stable: mandibular setback (>8 mm) and inferior repositioning. Large mandibular setbacks have the highest relapse rates — consider combining with advancement genioplasty and rigid fixation."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of orthognathic surgery planning — cephalometry, VSP, patient selection, and stability — with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "B1-Q1",
+        "stem": "A 19-year-old man presents with a skeletal Class III discrepancy. Cephalometric analysis shows: SNA 82°, SNB 86°, ANB −4°. What is the primary skeletal deformity?",
+        "options": {
+          "A": "Maxillary retrognathia (SNA reduced)",
+          "B": "Mandibular prognathism (SNB increased)",
+          "C": "Bimaxillary prognathism",
+          "D": "Vertical maxillary excess"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "SNA is 82° (normal). SNB is 86° (normal is 80° ± 2°, so 86° is increased, indicating mandibular prognathism). ANB is −4° (normal 2° ± 2°, negative ANB confirms Class III). The combination of normal SNA and elevated SNB indicates the Class III discrepancy is caused by mandibular prognathism, not maxillary retrognathia.",
+          "wrong": {
+            "A": "Maxillary retrognathia would be indicated by a reduced SNA (<80°). Here SNA is 82° — normal. The maxilla is in normal position.",
+            "C": "Bimaxillary prognathism would show BOTH elevated SNA and elevated SNB, with normal or near-normal ANB. Here ANB is −4°, indicating relative skeletal Class III, not bimaxillary prognathism.",
+            "D": "Vertical maxillary excess is assessed from vertical measurements (FMA, lower face height, gingival show) — not from the AP measurements SNA/SNB/ANB presented here."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 6th ed. 2018",
+          "trial": "Arnett GW and Bergman RT (Am J Orthod Dentofacial Orthop 1993): cephalometric analysis validation — confirmed ANB, SNA, SNB as the primary diagnostic measurements for skeletal classification.",
+          "pearl": "Skeletal Class III: ANB <0°. Caused by: (1) Mandibular prognathism (SNB elevated, SNA normal); (2) Maxillary retrognathia (SNA reduced, SNB normal); (3) Combination. Distinguishing the cause determines the surgical plan: BSSO setback vs Le Fort I advancement vs bimaxillary surgery."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q2",
+        "stem": "During pre-surgical orthodontic preparation for a skeletal Class III patient, the orthodontist prolines the lower incisors and retrolines the upper incisors, making the bite temporarily worse. What is the rationale for this approach?",
+        "options": {
+          "A": "To create space in the upper arch for impacted teeth",
+          "B": "Dental decompensation — removing dental compensations to allow surgical correction to achieve ideal incisor relationship post-operatively",
+          "C": "To improve mandibular arch width before surgery",
+          "D": "To induce mandibular growth retardation in the remaining growth period"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In a skeletal Class III patient, teeth naturally compensate for the skeletal discrepancy: upper incisors procline (lean forward to maintain contact with the lower incisors) and lower incisors retrocline. Pre-surgical orthodontics reverses this — decompensation retrolines the upper incisors and prolines the lower incisors, intentionally worsening the apparent malocclusion. When the jaws are then surgically repositioned (maxilla advanced/mandible set back), the previously decompensated incisors will meet in correct edge-to-edge or ideal overjet/overbite relationship.",
+          "wrong": {
+            "A": "Creating space for impacted teeth is a separate orthodontic objective not related to decompensation. Class III decompensation does not primarily address space for impacted teeth.",
+            "C": "Arch width coordination (matching upper and lower arch forms) is also performed during pre-surgical orthodontics but is separate from incisor decompensation. Mandibular arch width is typically not altered by proclining/retroclining incisors.",
+            "D": "Pre-surgical orthodontics does not affect jaw growth — growth potential is determined by the patient's skeletal maturity. This is why surgery is deferred until growth completion."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 6th ed.",
+          "trial": "Luther F et al. (Cochrane Database Syst Rev 2010): systematic review of pre-surgical orthodontics — decompensation is essential for achieving ideal surgical occlusion; inadequate decompensation is a primary cause of suboptimal surgical outcomes.",
+          "pearl": "Pre-surgical ortho = DECOMPENSATION, not camouflage. Class III decompensation: procline LOWER incisors, recline UPPER incisors. Class II decompensation: procline UPPER incisors, recline LOWER incisors. This temporarily worsens the bite to allow surgery to achieve ideal occlusion."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q3",
+        "stem": "In a VSP workflow for orthognathic surgery, what is the purpose of the INTERMEDIATE surgical splint?",
+        "options": {
+          "A": "To fix the mandible in the planned final position after Le Fort I is completed",
+          "B": "To position the maxilla in its new surgical position relative to the unchanged mandible after Le Fort I, before the mandibular BSSO is performed",
+          "C": "To retain the dental occlusion during the post-surgical orthodontic phase",
+          "D": "To guide the genioplasty cut position"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In two-jaw surgery (Le Fort I + BSSO), the maxilla is osteotomised first. The intermediate splint positions the newly mobilised maxilla relative to the UNCHANGED (not yet osteotomised) mandible, allowing the surgeon to set the maxilla in its planned new position and apply fixation plates. After the Le Fort I is completed and fixed, the BSSO is performed, and the FINAL splint positions both jaws together in planned final occlusion.",
+          "wrong": {
+            "A": "The intermediate splint positions the MAXILLA, not the mandible. The mandible has not yet been osteotomised at the intermediate splint stage.",
+            "C": "Post-surgical orthodontic retention uses orthodontic appliances and retainers, not the surgical splint. The final surgical splint is kept 6–8 weeks post-operatively during healing but is then removed.",
+            "D": "Genioplasty positioning is guided by its own template or by the VSP cutting guide, not the intermediate splint."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Baan F et al. J Craniomaxillofac Surg 2016",
+          "trial": "Baan F et al. (J Craniomaxillofac Surg 2016): VSP accuracy study — intermediate splint accuracy is the most critical determinant of final maxillary position; VSP-fabricated intermediate splints superior to conventional model surgery (1.0 mm vs 2.4 mm mean error).",
+          "pearl": "Two-jaw surgery sequence: (1) Le Fort I mobilise maxilla; (2) INTERMEDIATE splint positions maxilla relative to unchanged mandible; (3) Fix maxilla; (4) BSSO; (5) FINAL splint positions both jaws. Intermediate splint error propagates as maxillary malposition that cannot be corrected."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q4",
+        "stem": "According to the stability hierarchy for orthognathic movements, which procedure has the highest long-term skeletal relapse rate?",
+        "options": {
+          "A": "Mandibular superior repositioning",
+          "B": "Maxillary impaction",
+          "C": "Mandibular advancement of 6 mm",
+          "D": "Mandibular setback of 12 mm"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Large mandibular setbacks (>8 mm) have the highest relapse rates in orthognathic surgery, with 20–40% of the movement relapsing over time. The primary mechanism is tension from the suprahyoid and pterygoid musculature pulling the mandible anteriorly, combined with condylar torque during rigid fixation. Large setbacks are the least stable orthognathic movement.",
+          "wrong": {
+            "A": "Mandibular superior repositioning (impaction — most commonly performed in conjunction with Le Fort I for bite closure) is the MOST stable orthognathic movement, with <5% relapse, because gravity supports contact at the osteotomy site.",
+            "B": "Maxillary impaction is highly stable (5–10% relapse) — one of the most stable maxillary movements, particularly with 4-point fixation.",
+            "C": "Mandibular advancement of 6 mm has moderate stability (10–15% relapse) — significantly more stable than large setbacks."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR. A Summary of Orthognathic Surgery Stability (Semin Orthod 2007)",
+          "trial": "Proffit WR et al. (Semin Orthod 2007): systematic review of orthognathic stability — mandibular setbacks >8 mm have 20–40% relapse rates; mandibular superior repositioning <5% relapse; established the stability hierarchy.",
+          "pearl": "Stability hierarchy (best to worst): (1) Mandibular superior repositioning; (2) Mandibular advancement; (3) Maxillary impaction; (4) Maxillary advancement; (5) Mandibular setback (WORST — especially >8 mm). For large setbacks: rigid fixation + consider genioplasty + patient counselling about relapse risk."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q5",
+        "stem": "A 22-year-old woman with vertical maxillary excess has 5 mm of gingival show at rest and an ANB of 3° (Class I skeleton). What is the most appropriate surgical treatment?",
+        "options": {
+          "A": "BSSO mandibular advancement to increase lower face height",
+          "B": "Le Fort I maxillary impaction to reduce lower face height and gingival show",
+          "C": "Genioplasty — reduction to shorten lower face",
+          "D": "Orthodontic extrusion of the lower incisors to compensate"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Vertical maxillary excess (VME) with >3 mm gingival display at rest is treated with Le Fort I maxillary impaction. The impaction reduces lower face height, diminishes gingival show, and improves lip seal. ANB 3° indicates a Class I skeletal relationship — the mandible is correctly positioned; surgery should address the maxillary vertical excess only. Le Fort I impaction is the gold standard for VME.",
+          "wrong": {
+            "A": "Mandibular advancement would INCREASE lower face height and would not address the gingival show — it is the opposite of what is needed.",
+            "C": "Genioplasty reductions reduce chin height and projection but do not affect the maxillary position or gingival show. The problem here is maxillary excess, not chin excess.",
+            "D": "Orthodontic extrusion of lower incisors would increase overjet/overbite but cannot resolve 5 mm of gingival show, which is a skeletal VME requiring surgical correction."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Nadjmi N. J Craniomaxillofac Surg 2015",
+          "trial": "Stec M et al. (Int J Oral Maxillofac Surg 2007): Le Fort I impaction for VME — reduction of gingival show from mean 5.2 mm to 1.1 mm; stable at 2-year follow-up; confirmed as gold standard treatment.",
+          "pearl": "VME (gummy smile) treatment: Le Fort I impaction. Reduces gingival show 1:1 with amount of impaction. >3 mm gingival show at rest = surgical indication. Mild VME (<3 mm): consider Botox to levator labii or lip repositioning as non-surgical alternatives."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q6",
+        "stem": "When is orthognathic surgery considered safe to perform based on skeletal maturity criteria?",
+        "options": {
+          "A": "At age 16 for all patients regardless of sex",
+          "B": "After a minimum of two serial lateral cephalograms 6 months apart showing <0.5 mm/year change in key measurements; typically girls ≥16–17 years, boys ≥18–19 years",
+          "C": "Any time after the permanent dentition has fully erupted",
+          "D": "After the third molar eruption is complete"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Skeletal maturity is confirmed by serial lateral cephalograms at 6-month intervals showing stable measurements (typically defined as <0.5 mm change in vertical facial height per year). Girls generally achieve skeletal maturity at 16–17 years; boys at 18–19 years. Age alone is insufficient — serial cephalometric stability must be demonstrated. Performing surgery before growth completion risks post-operative relapse as continued jaw growth undoes the surgical correction.",
+          "wrong": {
+            "A": "A fixed age of 16 is insufficient — boys continue mandibular growth significantly longer than girls. Age must be combined with demonstrated cephalometric stability.",
+            "C": "Permanent dentition eruption is complete by approximately 12–14 years — this occurs several years before skeletal maturity and is not a reliable indicator of jaw growth completion.",
+            "D": "Third molar eruption is highly variable (16–25 years) and does not correlate reliably with mandibular growth cessation. It is not a valid skeletal maturity criterion."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; BAOMS Standards for Orthognathic Surgery 2022",
+          "trial": "Fudalej P et al. (J Oral Maxillofac Surg 2007): orthognathic surgery before vs after skeletal maturity — premature surgery associated with significantly higher skeletal relapse rates (32% vs 8%); confirmed importance of maturity assessment.",
+          "pearl": "Skeletal maturity: serial cephalograms q6 months, stable for 12 months before surgery. Girls ≥16–17 years; boys ≥18–19 years. Always confirm radiographically — age is a guide only. Premature surgery → relapse as growth continues."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q7",
+        "stem": "In a patient with skeletal Class III and significant maxillary constriction (transverse discrepancy >5 mm), what preliminary surgical procedure may be required before definitive Le Fort I osteotomy?",
+        "options": {
+          "A": "Vertical alveolar bone distraction",
+          "B": "Surgically assisted rapid palatal expansion (SARPE)",
+          "C": "Corticotomy-assisted orthodontics (PAOO)",
+          "D": "Bilateral Le Fort II osteotomies"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "After skeletal maturity, the midpalatal suture fuses and orthodontic rapid palatal expansion (RPE) alone is insufficient to expand the transverse maxillary dimension. Surgically assisted rapid palatal expansion (SARPE) involves releasing the midpalatal suture, pterygomaxillary junction, and lateral nasal wall osteotomies to allow gradual expansion with a palatal expander device. SARPE is indicated for transverse maxillary constrictions >5 mm in skeletally mature patients before definitive Le Fort I osteotomy.",
+          "wrong": {
+            "A": "Vertical alveolar distraction is used to increase alveolar bone height (e.g., for implant placement) — not for transverse expansion.",
+            "C": "Periodontally accelerated osteogenic orthodontics (PAOO/Wilckodontics) uses corticotomies to accelerate tooth movement — it is used for rapid dental alignment but has limited effect on true skeletal transverse discrepancies in mature patients.",
+            "D": "Le Fort II osteotomies involve mobilisation of the midface including the nasal bones — they are not the standard for transverse expansion in Class III orthognathic surgery."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Betts NJ et al. (Int J Adult Orthod Orthognath Surg 1995)",
+          "trial": "Betts NJ et al. (Int J Adult Orthod Orthognath Surg 1995): SARPE for transverse maxillary deficiency — mean expansion 7.2 mm; stable at 2 years post-Le Fort I; confirmed as the standard approach for transverse correction >5 mm in skeletally mature patients.",
+          "pearl": "Transverse maxillary deficiency >5 mm in skeletally mature patient = SARPE before Le Fort I. SARPE releases fused midpalatal suture + pterygomaxillary + lateral nasal walls. Expansion rate: 0.25 mm/day. Retention 3–6 months before Le Fort I. Do not attempt RPE without surgery in adults — the suture will not open."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q8",
+        "stem": "Soft tissue prediction in VSP estimates that the upper lip will advance by what proportion of maxillary advancement?",
+        "options": {
+          "A": "100% (1:1 ratio)",
+          "B": "70–80%",
+          "C": "50–60%",
+          "D": "25–30%"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The upper lip responds to maxillary advancement at approximately 50–60% of the skeletal movement (i.e., 1 mm of maxillary advancement produces approximately 0.5–0.6 mm of upper lip advancement). The chin soft tissue responds 100% to genioplasty advancement. The lower lip responds approximately 80% to mandibular movement. These ratios are built into VSP software to generate soft tissue predictions for patient consultation.",
+          "wrong": {
+            "A": "100% response (1:1) is the ratio for CHIN SOFT TISSUE to genioplasty advancement — not the upper lip to maxillary advancement.",
+            "B": "70–80% is the ratio for LOWER LIP response to mandibular movement — not the upper lip.",
+            "D": "25–30% significantly underestimates the upper lip response. This would result in predictions that underestimate facial change from maxillary surgery."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Arnett GW and Bergman RT (Am J Orthod Dentofacial Orthop 1993): soft tissue cephalometric analysis — established the soft tissue response ratios: upper lip 50–60% of maxillary movement; lower lip 80% of mandibular; chin 100% of genioplasty.",
+          "pearl": "Soft tissue response ratios: Upper lip = 50–60% of maxillary advancement. Lower lip = 80% of mandibular movement. Chin (soft tissue pogonion) = 100% of genioplasty advancement. Nasal tip: ~25% of maxillary advancement. These ratios are programmed into Dolphin Imaging and Maxilim VSP software."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q9",
+        "stem": "Wits appraisal is used as a complement to ANB angle in cephalometric analysis. In which situation is the Wits appraisal MOST useful compared to ANB alone?",
+        "options": {
+          "A": "When the patient has severe Class III with very large ANB",
+          "B": "When cranial base morphology is abnormal (platybasia, brachycephaly, prognathic Nasion), causing ANB to be unreliable",
+          "C": "When only a periapical radiograph is available",
+          "D": "For assessing vertical (FMA) discrepancies"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Wits appraisal measures the sagittal jaw relationship using perpendiculars from A and B points to the functional occlusal plane, avoiding the Nasion and cranial base points that are used in ANB. When cranial base morphology is abnormal (platybasia, brachycephaly) or Nasion is positioned unusually (very posterior or very anterior), the ANB angle does not accurately reflect the true A-B jaw relationship. Wits appraisal is independent of the cranial base and provides a more reliable assessment in these cases.",
+          "wrong": {
+            "A": "Wits is not specifically needed for severe Class III — ANB clearly reflects large skeletal discrepancies. The limitation of ANB is in MILD discrepancies where cranial base variation could shift the reading.",
+            "C": "Wits appraisal requires a lateral cephalogram — it cannot be performed from periapical radiographs.",
+            "D": "Wits appraisal is a SAGITTAL measurement — it has no role in assessing vertical patterns. FMA and SN-MP are the vertical measurements."
+          },
+          "guideline": "Jacobson A. The Wits Appraisal of Jaw Disharmony (Am J Orthod 1975); Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Jacobson A (Am J Orthod 1975): original Wits description — showed that ANB was significantly affected by cranial base angle and Nasion position; Wits appraisal of 0 mm (female)/−1 mm (male) on functional occlusal plane perpendiculars is independent of cranial base.",
+          "pearl": "Wits appraisal: AO (A-point perpendicular to occlusal plane) and BO (B-point perpendicular to occlusal plane). Normal: AO ahead of BO by 0 mm (female) / −1 mm (male). Class II: AO significantly ahead; Class III: BO ahead of AO. Use Wits when ANB is misleading due to unusual cranial base."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q10",
+        "stem": "Maxillomandibular advancement (MMA) surgery for obstructive sleep apnoea achieves its therapeutic effect by which primary mechanism?",
+        "options": {
+          "A": "Reducing nasal airway resistance by correcting a deviated nasal septum",
+          "B": "Advancing the maxilla and mandible simultaneously, which advances the tongue base, soft palate, and suprahyoid musculature to increase retroglossal and velopharyngeal airway dimensions",
+          "C": "Repositioning the hyoid bone superiorly to reduce oropharyngeal obstruction",
+          "D": "Reducing the weight of soft tissue in the pharyngeal wall via liposuction"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "MMA advances both the maxilla (Le Fort I) and mandible (BSSO) simultaneously, typically 10–12 mm forward. This advancement carries the tongue base, genioglossus, geniohyoid, and suprahyoid muscles anteriorly, as well as stretching the soft palate anteriorly via the tensor veli palatini. The result is significant enlargement of the retroglossal (posterior tongue to posterior pharyngeal wall) and velopharyngeal airway dimensions. Meta-analyses show AHI reduction >80% with MMA, comparable to tracheostomy for severe OSA.",
+          "wrong": {
+            "A": "Nasal septum surgery addresses nasal airway resistance but does not significantly affect retroglossal or velopharyngeal obstruction, which are the primary sites of collapse in severe OSA. MMA acts at the level of the oropharynx, not the nasal cavity.",
+            "C": "Hyoid suspension (hyoid myotomy and suspension) is a separate procedure that can complement MMA, but MMA itself does not primarily reposition the hyoid — it repositions the entire mandibular complex with attached musculature.",
+            "D": "Pharyngeal liposuction is not part of MMA — fat reduction in the pharyngeal wall is not a component of MMA surgery. This describes a different (rarely performed) procedure."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; AASM (American Academy of Sleep Medicine) OSA Treatment Guidelines 2019",
+          "trial": "Holty JE and Guilleminault C (Sleep Med Rev 2010): systematic review of MMA for OSA — mean AHI reduction 86% (from 63 to 9 events/hour); success rate (AHI <20) 86%; most effective surgical procedure for OSA short of tracheostomy.",
+          "pearl": "MMA for OSA: advances both jaws 10–12 mm, carrying tongue base and suprahyoid muscles anteriorly. AHI reduction 86% in meta-analysis. Most effective surgical OSA treatment. Indication: AHI >30 with CPAP failure or intolerance. Requires orthodontic preparation."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q11",
+        "stem": "A 25-year-old man has cephalometric measurements: SNA 76°, SNB 78°, ANB −2°. What is the primary skeletal diagnosis and appropriate surgical treatment?",
+        "options": {
+          "A": "Mandibular prognathism — BSSO setback",
+          "B": "Maxillary retrognathia — Le Fort I maxillary advancement",
+          "C": "Bimaxillary retrognathia — bimaxillary advancement (Le Fort I + BSSO)",
+          "D": "Normal skeletal pattern — orthodontic treatment only"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "SNA 76° (normal 82° ± 2°) = REDUCED = maxillary retrognathia. SNB 78° (normal 80° ± 2°) = reduced = mandibular retrognathia. ANB −2° = Class III. Both the maxilla and mandible are positioned posteriorly (retrognathic), but the mandible is relatively more forward than the maxilla (negative ANB). Treatment is bimaxillary advancement: Le Fort I to advance the maxilla + BSSO to advance the mandible, restoring both jaws to their correct sagittal positions.",
+          "wrong": {
+            "A": "Mandibular prognathism (BSSO setback) would be indicated for an elevated SNB with normal SNA. Here SNB is reduced (78°) — the mandible is retrognathic, not prognathic.",
+            "B": "Le Fort I advancement alone would be appropriate if only SNA were reduced with normal SNB. Here BOTH SNA and SNB are reduced, requiring bimaxillary surgery.",
+            "D": "SNA 76° and SNB 78° represent significant deviations from normal — 6° and 2° below normal respectively. This is a surgically significant skeletal discrepancy not amenable to orthodontic treatment alone."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Posnick JC (J Oral Maxillofac Surg 2014): bimaxillary surgery outcomes in retrognathic patients — superior functional and aesthetic outcomes compared to single-jaw surgery; essential when both SNA and SNB are abnormal.",
+          "pearl": "Bimaxillary retrognathia: BOTH SNA and SNB reduced. Treatment = Le Fort I advancement + BSSO advancement. ANB may appear Class III (negative) even with bimaxillary retrognathia because both jaws are posterior but the mandible less so than the maxilla."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q12",
+        "stem": "Which facial proportion is described by the 'rule of thirds' in facial aesthetic analysis?",
+        "options": {
+          "A": "The nose should be one-third of total facial width",
+          "B": "The vertical facial height should be divided into three approximately equal segments: upper (hairline to glabella), middle (glabella to subnasale), and lower (subnasale to menton)",
+          "C": "The lip height should be one-third of lower face height",
+          "D": "Facial width should be exactly three times the intercanthal distance"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The 'rule of thirds' in facial proportion analysis divides the vertical facial height into three approximately equal segments: (1) upper third — from hairline (trichion) to glabella; (2) middle third — from glabella to subnasale; (3) lower third — from subnasale to menton. Ideally, each third should represent approximately one-third of total facial height. Vertical maxillary excess increases the lower third; mandibular deficiency reduces the lower third projection but may increase or decrease its height depending on associated vertical changes.",
+          "wrong": {
+            "A": "Nasal width relative to facial width is a separate facial proportion analysis — ideally the nasal base width approximates the intercanthal distance. This is not the 'rule of thirds'.",
+            "C": "Lip height as one-third of lower face height is a vertical proportion within the lower third, not the 'rule of thirds' defining overall facial vertical thirds.",
+            "D": "Facial width relative to intercanthal distance is the 'rule of fifths' (facial width divided into 5 equal parts, each equal to intercanthal distance) — not the 'rule of thirds'."
+          },
+          "guideline": "Arnett GW and Bergman RT. Am J Orthod Dentofacial Orthop 1993; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Farkas LG et al. (Plast Reconstr Surg 1985): anthropometric study of facial proportions — confirmed the rule of thirds as a valid aesthetic proportion standard; deviations from one-third proportions correlated with perceived facial disharmony.",
+          "pearl": "Facial thirds: upper (hairline–glabella), middle (glabella–subnasale), lower (subnasale–menton) — approximately equal. VME increases lower third. Lower third subdivided: upper lip 1/3 (subnasale to stomion), lower lip + chin 2/3 (stomion to menton). Useful for surgical planning discussions."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B1-Q13",
+        "stem": "In the context of orthognathic surgery, what is the FMA (Frankfort-Mandibular plane Angle) and what does an elevated FMA indicate?",
+        "options": {
+          "A": "The angle between the SN plane and mandibular plane; elevated = mandibular prognathism",
+          "B": "The angle between the Frankfort horizontal plane and the mandibular plane; elevated (>30°) = hyperdivergent facial pattern with anterior open bite tendency",
+          "C": "The angle between the upper and lower incisor long axes; elevated = deep bite",
+          "D": "The angle between the facial plane and the occlusal plane; elevated = class III skeletal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "FMA (Frankfort-Mandibular plane Angle) is the angle formed between the Frankfort horizontal plane (from porion to orbitale) and the mandibular plane (from gonion to menton). Normal FMA is 25° ± 4°. An elevated FMA (>30°) indicates a hyperdivergent facial pattern — the mandibular plane is steeper than normal, creating a long lower face height with a tendency to anterior open bite. Hyperdivergent patients often have skeletal anterior open bites and are at higher risk of open bite relapse after orthognathic surgery.",
+          "wrong": {
+            "A": "The angle between SN and mandibular plane is SN-MP (SN-mandibular plane angle), not FMA. Both assess vertical pattern but use different reference planes.",
+            "C": "The angle between upper and lower incisor long axes is the interincisal angle — used to assess incisor inclination relationship. Decreased interincisal angle indicates proclined incisors (deep curve of Spee compensation), not vertical pattern.",
+            "D": "The facial plane to occlusal plane angle is not FMA. Facial plane angle (N-Pog to FH) is used in sagittal profile analysis."
+          },
+          "guideline": "Proffit WR Contemporary Orthodontics 6th ed. 2018; EACMFS Orthognathic Guidelines 2023",
+          "trial": "Proffit WR et al. (Am J Orthod Dentofacial Orthop 1992): FMA as predictor of orthognathic stability — hyperdivergent patients (FMA >30°) have higher relapse rates for open bite correction; FMA incorporated into surgical planning and stability counselling.",
+          "pearl": "FMA = Frankfort horizontal to mandibular plane angle. Normal 25° ± 4°. FMA >30° = hyperdivergent = anterior open bite tendency, longer lower face. FMA <20° = hypodivergent = deep bite tendency, short lower face. Hyperdivergent patients have higher open bite relapse rates after surgery."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q14",
+        "stem": "A CBCT scan is acquired for VSP planning of a Le Fort I + BSSO. Compared to a conventional lateral cephalogram, what additional information does CBCT provide for orthognathic surgery planning?",
+        "options": {
+          "A": "Better 2D measurement of ANB and SNB angles",
+          "B": "3D volumetric assessment of the jaws, teeth, and airway, enabling simulation of all six axes of movement simultaneously",
+          "C": "Lower radiation dose for equivalent diagnostic information",
+          "D": "Colour information about soft tissue"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "CBCT provides three-dimensional volumetric imaging allowing: 3D assessment of skeletal and dental anatomy (not limited to 2D projections), identification of asymmetries invisible on lateral cephalogram, simulation of osteotomies in all six axes (x, y, z translation and pitch, roll, yaw rotation), 3D airway volumetric assessment (critical for OSA planning), and digital dental model registration for virtual occlusion planning. The combination of CBCT and intraoral scans enables complete VSP workflow.",
+          "wrong": {
+            "A": "2D cephalometric measurements (ANB, SNA, SNB) are MORE accurately performed from conventional cephalograms than from CBCT-derived 2D reconstructions because CBCT introduces magnification variability depending on head position. CBCT's advantage is 3D, not 2D measurement accuracy.",
+            "C": "CBCT radiation dose is typically HIGHER than a conventional lateral cephalogram alone. The CBCT dose ranges from 0.01–0.5 mSv depending on field of view — comparable to or higher than a conventional ceph (0.005–0.01 mSv). The 3D information justifies the higher dose for surgical planning.",
+            "D": "CBCT provides no colour information — it is a greyscale volumetric dataset. 3D photogrammetry or stereophotogrammetry (separate imaging) provides colour surface data."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Steinhuber T et al. J Oral Maxillofac Surg 2018",
+          "trial": "Steinhuber T et al. (J Oral Maxillofac Surg 2018): systematic review — CBCT-based VSP superior to 2D cephalogram planning for 3D asymmetry assessment, simultaneous multi-movement simulation, and airway analysis.",
+          "pearl": "CBCT in orthognathic VSP: 3D skeletal/dental anatomy, all-axes simulation, airway volumetric assessment, facial asymmetry quantification. Higher radiation than 2D ceph — justified by surgical planning benefit. Standard field of view: whole skull (15×17 cm or 15×15 cm) including TMJs for orthognathic."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q15",
+        "stem": "A 28-year-old woman has a facial asymmetry with 5 mm mandibular midline deviation to the right. Cephalometric analysis shows a canted occlusal plane (right side 3 mm lower than left). Which surgical approach best corrects both the midline deviation and the occlusal plane cant?",
+        "options": {
+          "A": "BSSO alone — differential bilateral sagittal split movements can correct asymmetry",
+          "B": "Le Fort I alone — maxillary repositioning and cant correction",
+          "C": "Combined Le Fort I (to level the occlusal plane) + BSSO (to correct midline and sagittal discrepancy) with asymmetric movements",
+          "D": "Genioplasty with diagonal cut to correct chin asymmetry only"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Occlusal plane cant is primarily a maxillary problem — it requires Le Fort I osteotomy with differential impaction (more impaction on the lower side) to level the plane. Mandibular midline deviation is corrected with asymmetric BSSO movements (different amounts on each side). For combined occlusal plane cant and midline deviation, the standard approach is bimaxillary surgery: Le Fort I to level the occlusal plane + BSSO to correct midline and sagittal discrepancy. VSP with asymmetric movement simulation is essential for planning these complex three-dimensional movements.",
+          "wrong": {
+            "A": "BSSO alone cannot reliably correct an occlusal plane cant — the cant is determined by the maxillary position. Attempting to use asymmetric BSSO to compensate for a maxillary cant creates further asymmetric forces on the condyles.",
+            "B": "Le Fort I alone can correct the cant but would leave the mandibular midline deviation unaddressed.",
+            "D": "Genioplasty with a diagonal cut can correct chin asymmetry but does not correct occlusal plane cant or dental midline deviation — it addresses the chin only."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery (Saunders 2014)",
+          "trial": "Nadjmi N (J Craniomaxillofac Surg 2015): fully personalised VSP for asymmetric bimaxillary surgery — 3D planning achieves mean residual asymmetry of 1.1 mm vs 3.2 mm with 2D planning; confirms bimaxillary approach as standard for combined cant + midline correction.",
+          "pearl": "Occlusal plane cant: primarily corrected by Le Fort I (differential impaction). Midline deviation: corrected by BSSO. Complex asymmetry = bimaxillary surgery with asymmetric 3D movements — essential to use VSP to plan and simulate all axes simultaneously."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q16",
+        "stem": "Which of the following is a contraindication to proceeding with orthognathic surgery?",
+        "options": {
+          "A": "Pre-existing mild temporomandibular joint (TMJ) sounds (clicking) without pain",
+          "B": "Active periodontal disease with bone loss and mobile teeth",
+          "C": "Mild skeletal Class II discrepancy (ANB 5°) with normal dental health",
+          "D": "Patient aged 20 years with stable cephalometric measurements for 12 months"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Active periodontal disease is a contraindication to orthognathic surgery because: (1) tooth mobility reduces the reliability of surgical splints and occlusal seating; (2) periodontal pathogens increase post-operative infection risk at osteotomy sites; (3) orthodontic movement in the presence of active periodontitis causes further alveolar bone loss. Periodontal disease must be fully treated and stabilised before orthognathic surgery is planned.",
+          "wrong": {
+            "A": "Mild TMJ clicking without pain is common in the general population and is not a contraindication to orthognathic surgery. In fact, Class II correction by mandibular advancement may improve TMJ symptoms in some patients. Severe TMJ pathology (ankylosis, active arthritis, significant internal derangement) requires treatment before orthognathic surgery.",
+            "C": "ANB 5° represents a mild Class II skeletal discrepancy that is within the range of surgical correction — it is an indication for orthognathic surgery if functional or aesthetic concerns exist, not a contraindication.",
+            "D": "Age 20 with 12 months of cephalometric stability meets maturity criteria — this is appropriate timing for surgery."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; BAOMS Standards 2022",
+          "trial": "Proffit WR et al. Contemporary Orthodontics (Mosby 2018): contraindications to orthognathic surgery — active periodontitis, skeletal immaturity, unrealistic patient expectations, psychiatric instability listed as primary contraindications.",
+          "pearl": "Orthognathic surgery contraindications: Active periodontal disease (treat first), skeletal immaturity (wait), psychiatric instability/unrealistic expectations, uncontrolled medical conditions. Mild TMJ clicking = NOT a contraindication. Severe TMJ disease = needs assessment before surgery."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q17",
+        "stem": "What nasolabial angle range is considered aesthetically ideal for females in soft tissue facial analysis?",
+        "options": {
+          "A": "75–85°",
+          "B": "90–100°",
+          "C": "100–110°",
+          "D": "115–125°"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The nasolabial angle (angle between the columella of the nose and the upper lip at subnasale) should be 100–110° for females and 90–100° for males. This gender difference reflects the tendency for feminine facial aesthetics to have a slightly more upturned nasal tip (greater nasolabial angle). An angle <90° appears drooping (ptotic nasal tip); >115° appears excessively upturned. Maxillary advancement tends to rotate the nasal tip upward, increasing the nasolabial angle — this must be accounted for in surgical planning.",
+          "wrong": {
+            "A": "75–85° would indicate a severely drooping nasal tip — aesthetically undesirable and not the normal range.",
+            "B": "90–100° is the ideal nasolabial angle for MALES, not females. Females are aesthetically better served by a slightly more upturned tip (100–110°).",
+            "D": "115–125° would indicate an excessively upturned nasal tip — the 'piggy nose' appearance, which is aesthetically unfavourable."
+          },
+          "guideline": "Arnett GW and Bergman RT. Am J Orthod Dentofacial Orthop 1993; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Farkas LG and Munro IR (Am J Orthod Dentofacial Orthop 1987): anthropometric study confirming gender-specific nasolabial angle norms; females 100–110°, males 90–100°; incorporated into standard facial aesthetic analysis protocols.",
+          "pearl": "Nasolabial angle: Male ideal 90–100°; Female ideal 100–110°. Maxillary advancement rotates nasal tip superiorly (increases nasolabial angle by ~1° per mm advancement). Plan this into Le Fort I movements to avoid over-upturning the nasal tip in female patients with Class III Class receiving maxillary advancement."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q18",
+        "stem": "A 21-year-old man with severe OSA (AHI 65 events/hour) has been intolerant of CPAP therapy for 2 years. His cephalometry shows SNB 74° (mandibular retrognathia) with Class II relationship. He is referred for maxillomandibular advancement (MMA). What is the expected AHI reduction with MMA according to meta-analysis?",
+        "options": {
+          "A": "~30% AHI reduction",
+          "B": "~50% AHI reduction",
+          "C": "~70% AHI reduction",
+          "D": "~85% AHI reduction"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Meta-analyses of maxillomandibular advancement (MMA) for severe OSA consistently report approximately 85–86% reduction in AHI (from mean 63 to 9 events/hour). Holty and Guilleminault (Sleep Med Rev 2010) systematic review of 627 patients showed mean AHI reduction of 86% with success rate (AHI <20) of 86%. MMA is the most effective surgical treatment for OSA short of tracheostomy.",
+          "wrong": {
+            "A": "30% AHI reduction is comparable to uvulopalatopharyngoplasty (UPPP) in meta-analyses — significantly inferior to MMA for severe OSA.",
+            "B": "50% reduction is insufficient to characterise MMA outcome — this level of response would leave an AHI of 32.5 in this patient, still in the severe range.",
+            "C": "70% is within the range of some single-centre MMA series but below the meta-analytic mean of ~85%."
+          },
+          "guideline": "AASM OSA Treatment Guidelines 2019; EACMFS Orthognathic Guidelines 2023",
+          "trial": "Holty JE and Guilleminault C (Sleep Med Rev 2010): systematic review of MMA for OSA (627 patients, 22 studies); mean AHI reduction 86% (from 63.9 to 9.0); success rate (AHI <20) 86%; cure rate (AHI <5) 43%; established MMA as most effective surgical OSA treatment.",
+          "pearl": "MMA for OSA: AHI reduction ~86%, success rate 86%. Indicate for AHI >30 with CPAP intolerance/failure. Advancement of 10–12 mm required for optimal effect. Long-term (5-year) stability of AHI improvement confirmed. Inferior only to tracheostomy for severe OSA."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B1-Q19",
+        "stem": "In planning a Le Fort I osteotomy for a patient with 4 mm of gingival show at rest (vertical maxillary excess), by how much should the maxilla be impacted (superiorly repositioned) to achieve 1 mm of gingival show at rest post-operatively?",
+        "options": {
+          "A": "1 mm impaction",
+          "B": "3 mm impaction",
+          "C": "5 mm impaction",
+          "D": "8 mm impaction"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The patient has 4 mm gingival show and the goal is 1 mm post-operatively — a reduction of 3 mm. Le Fort I impaction has an approximately 1:1 relationship with reduction of gingival show (each 1 mm of superior movement reduces gingival show by approximately 1 mm). Therefore, 3 mm of impaction is planned to achieve a 3 mm reduction in gingival show (from 4 mm to 1 mm).",
+          "wrong": {
+            "A": "1 mm impaction would only reduce gingival show by 1 mm — from 4 mm to 3 mm. This would not achieve the target of 1 mm gingival show.",
+            "C": "5 mm impaction would over-correct — reducing gingival show from 4 mm to −1 mm (1 mm of lip covering the teeth at rest, creating an 'edentulous' appearance). This would be aesthetically undesirable.",
+            "D": "8 mm impaction would dramatically over-impacted — resulting in 4 mm of incisor coverage and loss of the tooth/smile display. This level of impaction is not appropriate for VME correction alone."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Stec M et al. (Int J Oral Maxillofac Surg 2007): Le Fort I impaction for VME — 1:1 ratio of impaction to gingival show reduction confirmed; 3 mm mean impaction for 3 mm mean gingival show reduction; stable at 2 years.",
+          "pearl": "Le Fort I impaction: 1 mm impaction = ~1 mm reduction in gingival show (1:1 ratio). Target gingival show = 0–2 mm. If current show is 4 mm and target is 1 mm: plan 3 mm impaction. Always consider: upper incisor show changes (incisors descend with impaction), nasal base widening (alar cinch suture prevents this), and nasolabial angle change."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B1-Q20",
+        "stem": "A lateral cephalometric radiograph is analysed and shows: SNA 80°, SNB 80°, ANB 0°, FMA 32°, IMPA 96°. What is the most accurate skeletal diagnosis?",
+        "options": {
+          "A": "Class I skeleton, hypodivergent, lower incisor within normal limits",
+          "B": "Class III skeleton, hyperdivergent, lower incisor proclined",
+          "C": "Class I skeleton (ANB 0° borderline), hyperdivergent (FMA 32°), lower incisor mildly proclined (IMPA 96°)",
+          "D": "Class II skeleton with normal vertical"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Analysis: SNA 80° (normal 82°, slightly reduced but within 2° range — borderline), SNB 80° (normal), ANB 0° (borderline Class III — normal range 2° ± 2°, so 0° is at the Class I/III border), FMA 32° (normal 25° ± 4°, so 32° = mildly elevated = HYPERDIVERGENT), IMPA 96° (normal 90° ± 5°, so 96° = mildly proclined lower incisor). The correct composite diagnosis is: borderline Class I/Class III skeleton, hyperdivergent vertical pattern, lower incisor mildly proclined.",
+          "wrong": {
+            "A": "FMA 32° is NOT hypodivergent — it is mildly hyperdivergent (>29°). IMPA 96° is mildly outside the normal range (>95° is proclined).",
+            "B": "ANB 0° is borderline — not clearly Class III. Class III is typically defined as ANB <0°; borderline 0°–1° could be Class I or III depending on other measurements. The other values do not confirm a definitive Class III diagnosis.",
+            "D": "ANB is 0° — this is not Class II (ANB >4°). Class II diagnosis is incorrect."
+          },
+          "guideline": "Proffit WR Contemporary Orthodontics 2018; EACMFS Orthognathic Guidelines 2023",
+          "trial": "Jacobson A. Am J Orthod 1975; Proffit WR Am J Orthod Dentofacial Orthop 1992 — established reference values and interpretation frameworks for standard cephalometric measurements.",
+          "pearl": "Cephalometric interpretation checklist: (1) Sagittal: SNA, SNB, ANB, Wits; (2) Vertical: FMA, SN-MP; (3) Dental: IMPA, U1-SN, interincisal angle. Always interpret all three domains together. A borderline ANB near 0° requires clinical correlation and possibly Wits appraisal to determine true sagittal classification."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

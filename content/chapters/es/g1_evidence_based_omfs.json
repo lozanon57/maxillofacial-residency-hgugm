@@ -1,0 +1,629 @@
+{
+  "id": "G1",
+  "title": "CMF Basada en la Evidencia: GRADE, Jerarquía de Estudios y Lectura Crítica",
+  "subtitle": "Bloque G — Investigación y Desarrollo Académico",
+  "block": "G",
+  "block_name": "Investigación y Desarrollo Académico",
+  "level": "R1-5",
+  "reading_time_min": 28,
+  "guidelines_version": "GRADE Working Group 2011 · OCEBM Levels of Evidence 2011 · Cochrane Handbook v6.3 (2022)",
+  "textbook_refs": [
+    "Guyatt GH et al. 'GRADE: an emerging consensus on rating quality of evidence and strength of recommendations.' BMJ (2008)",
+    "Sackett DL et al. Evidence-Based Medicine: How to Practice and Teach EBM (Churchill Livingstone 2000)",
+    "Higgins JPT et al. Cochrane Handbook for Systematic Reviews of Interventions v6.3 (Cochrane 2022)",
+    "OCEBM Levels of Evidence Working Group. 'The Oxford Levels of Evidence 2.' CEBM (2011)",
+    "Schünemann HJ et al. 'GRADE guidelines: 3. Rating the quality of evidence.' J Clin Epidemiol (2011)"
+  ],
+  "learning_objectives": [
+    "Definir la medicina basada en la evidencia (MBE) y describir su aplicación en la toma de decisiones clínicas en CMF",
+    "Clasificar los diseños de estudio mediante la jerarquía OCEBM e identificar el tipo de estudio adecuado para cada pregunta clínica",
+    "Aplicar el marco GRADE para evaluar la calidad de la evidencia y la solidez de las recomendaciones",
+    "Realizar una lectura crítica de una revisión sistemática o un ECA mediante una lista de verificación estructurada",
+    "Identificar los sesgos más frecuentes en la investigación en CMF y describir métodos para minimizarlos"
+  ],
+  "sections": [
+    {
+      "id": "G1-S1",
+      "title": "Principios de la Medicina Basada en la Evidencia en CMF",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **medicina basada en la evidencia (MBE)** es la integración consciente, explícita y juiciosa de la mejor evidencia científica disponible con la experiencia clínica y los valores del paciente en la toma de decisiones sobre el cuidado de pacientes individuales (Sackett et al. 1996). En cirugía oral y maxilofacial, la MBE es esencial para: (1) seleccionar técnicas quirúrgicas basándose en datos de eficacia comparativa y no en la tradición; (2) informar a los pacientes sobre resultados realistas con la incertidumbre adecuada; (3) identificar lagunas de conocimiento que requieren investigación; y (4) elaborar y actualizar guías de práctica clínica.\n\nEl proceso de MBE comprende cinco pasos: (1) **Preguntar** — formular una pregunta clínica estructurada (PICO: Población, Intervención, Comparación, Resultado); (2) **Adquirir** — buscar la literatura de forma sistemática; (3) **Evaluar** — valorar críticamente la calidad y relevancia de la evidencia recuperada; (4) **Aplicar** — integrar la evidencia con la experiencia clínica y los valores del paciente; (5) **Analizar** — evaluar el resultado y actualizar la práctica en consecuencia.\n\nEl **marco PICO** es fundamental en la MBE y determina directamente el diseño de estudio adecuado para responder la pregunta. Una pregunta de tratamiento (¿funciona este tratamiento?) se responde mejor con un ensayo clínico aleatorizado (ECA). Una pregunta de pronóstico (¿qué le ocurrirá a este paciente?) se responde mejor con un estudio de cohortes. Una pregunta de diagnóstico (¿detecta esta prueba la afección?) se responde mejor con un estudio de precisión diagnóstica. Una pregunta de daño (¿causa este factor de exposición este resultado?) puede responderse mejor con un estudio de casos y controles cuando el resultado es poco frecuente."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Marco PICO",
+          "content": "PICO = Población, Intervención, Comparación, Resultado (Outcome). Toda pregunta clínica puede estructurarse así. PICO determina el diseño de estudio necesario. Pregunta de tratamiento → ECA. Pregunta de diagnóstico → estudio de precisión diagnóstica. Pregunta de pronóstico → estudio de cohortes. Pregunta de daño (resultado poco frecuente) → estudio de casos y controles."
+        }
+      ]
+    },
+    {
+      "id": "G1-S2",
+      "title": "Jerarquía de Diseños de Estudio: Niveles de Evidencia OCEBM",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "No toda la evidencia es equivalente. Los diseños de estudio se clasifican jerárquicamente según su capacidad para minimizar el sesgo y responder preguntas clínicas específicas. El **Oxford Centre for Evidence-Based Medicine (OCEBM) Levels of Evidence (2011)** proporciona el marco más ampliamente adoptado, con cinco niveles del 1 (más alto) al 5 (más bajo) para cada tipo de pregunta.\n\nPara las **preguntas de tratamiento**, la jerarquía de mayor a menor es: (1) Revisiones sistemáticas de ECA; (2) ECA individuales; (3) Estudios controlados no aleatorizados (estudios de cohortes); (4) Series de casos; (5) Opinión de expertos. Para las **preguntas de diagnóstico**: (1) Revisiones sistemáticas de estudios de precisión diagnóstica; (2) Estudios transversales individuales con pacientes consecutivos; (3) Series de pacientes no consecutivos; (4) Estudios de casos y controles; (5) Razonamiento basado en mecanismos.\n\nDeben comprenderse las limitaciones de la jerarquía simple: (1) Un estudio observacional grande y bien realizado puede proporcionar evidencia más fiable que un ECA pequeño y mal conducido; (2) Algunas intervenciones en CMF no pueden aleatorizarse por razones éticas o prácticas (por ejemplo, comparar vías de acceso quirúrgico para tumores poco frecuentes); (3) Las series de casos, pese a su baja posición jerárquica, pueden ser la única evidencia disponible para afecciones infrecuentes en CMF; (4) La opinión de expertos, aunque de Nivel 5, no debe desestimarse — sintetiza la experiencia clínica más allá de lo que captura la evidencia científica. El sistema GRADE aborda estos matices evaluando directamente la calidad de la evidencia en lugar de basarse únicamente en el diseño del estudio."
+        },
+        {
+          "type": "table",
+          "title": "Niveles de Evidencia OCEBM para Preguntas de Tratamiento",
+          "headers": ["Nivel", "Diseño de Estudio", "Características", "Sesgos Limitados"],
+          "rows": [
+            ["1a", "Revisión sistemática de ECA", "Análisis agrupado de múltiples ECA; metaanálisis", "Selección, confusión, azar"],
+            ["1b", "ECA individual (con IC estrecho)", "Asignación aleatoria; enmascaramiento si es posible", "Selección, confusión"],
+            ["2a", "Revisión sistemática de estudios de cohortes", "Estudios comparativos prospectivos agrupados", "Confusión parcialmente"],
+            ["2b", "Estudio de cohortes individual", "Prospectivo; grupo de comparación presente", "Confusión parcialmente"],
+            ["3a/3b", "Revisión sistemática / casos y controles individual", "Retrospectivo; casos frente a controles", "Limitado; sesgo de recuerdo, selección"],
+            ["4", "Serie de casos", "Sin grupo de comparación; solo descriptivo", "Mínimo — alto riesgo de sesgo"],
+            ["5", "Opinión de expertos/razonamiento mecanicista", "No sistemático; consenso o teoría", "No controlado"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Equiparar Tipo de Estudio con Calidad de la Evidencia",
+          "content": "El tipo de estudio determina el POTENCIAL para evidencia de alta calidad, pero el diseño por sí solo no la garantiza. Un ECA mal realizado (ocultación de la asignación inadecuada, elevada tasa de abandono, escasa potencia estadística) proporciona evidencia de menor calidad que un gran estudio de cohortes prospectivo bien conducido. Siempre evalúe la calidad metodológica del estudio, no solo su etiqueta de diseño."
+        }
+      ]
+    },
+    {
+      "id": "G1-S3",
+      "title": "GRADE: Evaluación de la Calidad de la Evidencia y Solidez de las Recomendaciones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El marco **GRADE (Grading of Recommendations Assessment, Development, and Evaluation)** es el estándar internacional para clasificar la calidad de la evidencia y la solidez de las recomendaciones clínicas. Es utilizado por los principales organismos de guías clínicas, incluidos NICE, OMS, Cochrane y las principales sociedades quirúrgicas.\n\nEn GRADE, la calidad de la evidencia puede clasificarse como: **Alta** (es muy improbable que investigación adicional cambie la estimación — típicamente ECA bien realizados con resultados consistentes); **Moderada** (es probable que investigación adicional tenga un impacto importante); **Baja** (es muy probable que investigación adicional tenga un impacto importante); o **Muy baja** (estimación muy incierta).\n\nCrucialmente, GRADE permite **aumentar o reducir** la calidad de la evidencia desde la clasificación inicial. La evidencia procedente de ECA comienza en Alta, pero puede disminuirse por: (1) **Riesgo de sesgo** — deficiencias metodológicas; (2) **Inconsistencia** — heterogeneidad no explicada entre estudios; (3) **Indirección** — la población, la intervención o el resultado en los estudios difiere de la pregunta clínica; (4) **Imprecisión** — intervalos de confianza amplios por muestras pequeñas; (5) **Sesgo de publicación** — comunicación selectiva de resultados positivos. Los estudios observacionales comienzan en Baja, pero pueden ascender por: grandes tamaños del efecto (OR >2), gradiente dosis-respuesta o cuando toda la confusión residual reduciría en lugar de aumentar el efecto.\n\nLa **Solidez de la Recomendación** en GRADE es Fuerte (la mayoría de los pacientes debería recibir esta intervención — los efectos deseables superan claramente los indeseables) o Débil/Condicional (pueden ser apropiadas diferentes opciones para diferentes pacientes — la toma de decisiones compartida es importante). Una recomendación fuerte puede realizarse incluso sobre evidencia de baja calidad si los efectos deseables superan claramente los daños (por ejemplo, vía aérea quirúrgica en asfixia inminente — no se necesita un ECA)."
+        },
+        {
+          "type": "table",
+          "title": "Calidad de la Evidencia en GRADE — Puntos de Partida y Factores Modificadores",
+          "headers": ["Calidad Inicial", "Factores de Reducción (cada uno -1 o -2)", "Factores de Aumento (cada uno +1 o +2)", "Calidad Final"],
+          "rows": [
+            ["ECA → ALTA", "Riesgo de sesgo: grave o muy grave", "Efecto grande (OR >2 o >5)", "ALTA / MODERADA / BAJA"],
+            ["ECA → ALTA", "Inconsistencia: heterogeneidad no explicada", "Gradiente dosis-respuesta", "Como arriba"],
+            ["ECA → ALTA", "Indirección: diferencias de población/contexto", "Toda confusión residual reduce el efecto", "Como arriba"],
+            ["ECA → ALTA", "Imprecisión: pocos eventos, IC amplio", "—", "Como arriba"],
+            ["ECA → ALTA", "Sesgo de publicación: gráfico de embudo asimétrico", "—", "Como arriba"],
+            ["Observacional → BAJA", "Se aplican los mismos factores", "Efecto grande o gradiente dosis-respuesta", "MODERADA (si asciende)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G1-S4",
+      "title": "Sesgo en la Investigación en CMF: Tipos y Minimización",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El sesgo es un error sistemático que produce resultados que difieren del efecto verdadero. Comprender los tipos de sesgo y su minimización es esencial para la lectura crítica de la literatura en CMF y para el diseño de estudios rigurosos.\n\nEl **sesgo de selección** se produce cuando los participantes asignados a los grupos difieren sistemáticamente en aspectos que afectan al resultado. En los ECA, el sesgo de selección se controla mediante la **aleatorización** — la asignación aleatoria oculta garantiza que los grupos sean comparables en la línea de base. En CMF, la ocultación inadecuada de la asignación (mediante sobres transparentes, números de paciente pares/impares) permite el sesgo de selección incluso en ensayos 'aleatorizados'.\n\nEl **sesgo de realización** se produce cuando los participantes e investigadores conocen la asignación al tratamiento y ese conocimiento influye en los cuidados. Se minimiza mediante el **enmascaramiento** — aunque el enmascaramiento de los participantes en ensayos quirúrgicos suele ser imposible. El enmascaramiento de los evaluadores de resultados (enmascaramiento del evaluador del resultado) suele ser factible e importante.\n\nEl **sesgo de detección** se produce cuando los resultados se valoran de forma diferente entre los grupos. Se controla mediante la evaluación enmascarada del resultado.\n\nEl **sesgo de desgaste** se produce cuando el número o las razones de los datos faltantes difieren entre los grupos. Se minimiza mediante el análisis por intención de tratar (todos los pacientes aleatorizados se analizan en su grupo asignado, independientemente de la adherencia al protocolo).\n\nEl **sesgo de publicación** se produce cuando ciertos resultados se publican selectivamente en función de sus resultados. Se minimiza mediante el registro prospectivo del ensayo (ISRCTN, ClinicalTrials.gov) — que compromete a los investigadores con su resultado primario preespecificado antes de conocer los resultados. La herramienta Cochrane Risk of Bias 2 (RoB 2) evalúa estos dominios de forma sistemática en la lectura crítica de ECA."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Análisis por Intención de Tratar",
+          "content": "El análisis por intención de tratar (ITT) incluye a TODOS los pacientes aleatorizados en su grupo asignado para el análisis principal, independientemente de la adherencia, el cruce o el abandono. El ITT preserva los beneficios de la aleatorización e impide el sesgo por exclusión selectiva de participantes. El análisis por protocolo (solo los que completaron el tratamiento) está en riesgo de sesgo de selección y debe comunicarse únicamente como análisis secundario."
+        }
+      ]
+    },
+    {
+      "id": "G1-S5",
+      "title": "Lectura Crítica de Revisiones Sistemáticas en CMF",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Una **revisión sistemática** es una síntesis estructurada de toda la evidencia disponible sobre una pregunta clínica específica, utilizando criterios de elegibilidad predefinidos y estrategias de búsqueda sistemática para minimizar el sesgo. Un **metaanálisis** es una técnica estadística para combinar los resultados cuantitativos de múltiples estudios dentro de una revisión sistemática, produciendo una estimación del efecto agrupada con mayor potencia estadística.\n\nLa lectura crítica de las revisiones sistemáticas utiliza la lista de verificación **AMSTAR-2 (A Measurement Tool to Assess Systematic Reviews-2)**, que evalúa: (1) ¿La revisión realizó una búsqueda bibliográfica exhaustiva? (2) ¿La selección de estudios fue por duplicado? (3) ¿La extracción de datos fue por duplicado? (4) ¿Se evaluó el riesgo de sesgo? (5) ¿Se utilizaron métodos estadísticos apropiados? (6) ¿Se evaluó el sesgo de publicación? (7) ¿Se consideró la fuente de financiación de los estudios incluidos?\n\nConceptos estadísticos clave en el metaanálisis: **Heterogeneidad** (estadístico I² — mide la proporción de variabilidad atribuible a las diferencias entre estudios en lugar del azar; I² >75% = heterogeneidad alta, lo que sugiere que la agrupación puede ser inapropiada); **Gráfico de bosque** (representación visual de las estimaciones del efecto de los estudios individuales y agrupados con intervalos de confianza — el 'diamante' en la parte inferior representa la estimación agrupada); **Gráfico de embudo** (gráfico de dispersión del efecto del estudio frente a la precisión — la asimetría sugiere sesgo de publicación); **Riesgo relativo (RR)** frente a **odds ratio (OR)** — el OR sobreestima el RR cuando el resultado es frecuente (>10%); **Número necesario a tratar (NNT)** — la medida de tamaño del efecto clínicamente interpretable."
+        },
+        {
+          "type": "table",
+          "title": "Heterogeneidad en Metaanálisis: Interpretación del I²",
+          "headers": ["Valor I²", "Nivel de Heterogeneidad", "Interpretación", "Acción"],
+          "rows": [
+            ["0–25%", "Baja", "Los estudios son consistentes; la agrupación es apropiada", "Modelo de efectos fijos o aleatorios"],
+            ["25–50%", "Moderada", "Cierta inconsistencia; explorar fuentes", "Modelo de efectos aleatorios preferido; análisis de subgrupos"],
+            ["50–75%", "Sustancial", "Inconsistencia marcada — explorar causas", "Análisis de subgrupos; considerar no agrupar"],
+            [">75%", "Alta/Considerable", "Agrupación probablemente inapropiada", "Síntesis narrativa; investigar heterogeneidad clínica/metodológica"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Aplicación de la Evidencia en CMF",
+          "content": "La mayoría de las intervenciones quirúrgicas en CMF cuentan con evidencia limitada de ECA de alta calidad. El ensayo de Eckelt 2006 sobre fracturas condíleas sigue siendo el ECA más citado en CMF. Al enfrentarse a una decisión clínica con evidencia solo de Nivel 3–4, reconozca claramente la incertidumbre al paciente durante el consentimiento informado y documente tanto la evidencia utilizada como sus limitaciones. Esto no es un fracaso — refleja la realidad de la evidencia quirúrgica."
+        }
+      ]
+    },
+    {
+      "id": "G1-S6",
+      "title": "Guías de Práctica Clínica y Recomendaciones del NICE",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las **guías de práctica clínica** sintetizan la evidencia para producir recomendaciones para la práctica clínica. En el Reino Unido, el NICE (National Institute for Health and Care Excellence) elabora evaluaciones tecnológicas, guías clínicas y guías de procedimientos intervencionistas que orientan la contratación del NHS y la práctica médico-legal. Comprender cómo se elaboran las guías y sus limitaciones es importante para los residentes de CMF.\n\nLas guías tienen limitaciones: (1) **Lagunas de evidencia** — las recomendaciones se basan con frecuencia en extrapolaciones a partir de evidencia indirecta cuando falta evidencia directa en CMF; (2) **Conflicto de intereses** — los miembros del grupo elaborador de la guía pueden tener vínculos económicos con la industria; (3) **Retraso en la actualización** — las guías pueden no reflejar la evidencia más reciente; (4) **Aplicabilidad** — las recomendaciones elaboradas en un sistema sanitario pueden no trasladarse directamente a otro. Las guías deben interpretarse como orientación experta sintetizada, no como reglas absolutas que anulan el juicio clínico en pacientes individuales.\n\nLa herramienta **AGREE II (Appraisal of Guidelines for Research and Evaluation)** se utiliza para evaluar críticamente la calidad de las guías de práctica clínica en seis dominios: alcance y objetivo, participación de las partes interesadas, rigor del desarrollo, claridad de presentación, aplicabilidad e independencia editorial. Las puntuaciones AGREE II ayudan a determinar si una guía debe seguirse en la práctica clínica."
+        }
+      ]
+    },
+    {
+      "id": "G1-S7",
+      "title": "Número Necesario a Tratar (NNT) y Significación Clínica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **significación estadística** y la **significación clínica** son conceptos distintos que se confunden con frecuencia en la literatura quirúrgica. Un resultado estadísticamente significativo (p <0,05) simplemente significa que la diferencia observada probablemente no se debe al azar — no indica que la diferencia sea clínicamente importante. Un ensayo de gran tamaño puede detectar una diferencia estadísticamente significativa pero clínicamente trivial (por ejemplo, 1 mm de diferencia en la apertura bucal tras artrocentesis de ATM — estadísticamente significativa con n=500, pero clínicamente irrelevante).\n\nEl **Número Necesario a Tratar (NNT)** es la medida de efecto del tratamiento clínicamente más interpretable: NNT = 1 / Reducción Absoluta del Riesgo (RAR). Representa el número de pacientes que deben recibir el tratamiento para que un paciente adicional se beneficie. Un NNT más bajo indica mayor efecto del tratamiento. Para contextualizar: un NNT de 2–5 es muy eficaz (comparable a la aspirina en el IAM agudo); un NNT de 10–20 es moderadamente eficaz; un NNT >50 indica un efecto pequeño.\n\nLos **intervalos de confianza (IC)** transmiten tanto la precisión de la estimación como su significación clínica. Un IC amplio indica imprecisión por el pequeño tamaño muestral. Cuando el IC cruza el valor nulo (RR = 1,0 u OR = 1,0 o diferencia = 0), el resultado no es estadísticamente significativo. Más importante aún, si el IC completo se encuentra dentro de la región de equivalencia clínica (la diferencia clínicamente importante mínima — DCIM), el resultado es tanto clínica como estadísticamente equivalente.\n\nLa **Diferencia Clínicamente Importante Mínima (DCIM)** es la diferencia más pequeña en el resultado que los pacientes considerarían significativa. En CMF, las DCIM publicadas incluyen: apertura bucal — 5 mm; EVA de dolor — 1,5/10 (en una escala de 0–10); puntuación OHIP-14 — 9 puntos. Si dos tratamientos difieren en menos de la DCIM aunque sea de forma estadísticamente significativa, esa diferencia carece de relevancia clínica."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Cálculo del NNT",
+          "content": "NNT = 1 / Reducción Absoluta del Riesgo. Si el Tratamiento A reduce la tasa de complicaciones del 20% al 10%: RAR = 10% = 0,10. NNT = 1/0,10 = 10. Por cada 10 pacientes tratados con A en lugar de B, se previene una complicación. El NNT siempre es clínicamente más significativo que el riesgo relativo o el valor p solos."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tus conocimientos de CMF basada en la evidencia con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "G1-Q1",
+        "stem": "El marco PICO estructura las preguntas clínicas para la MBE. En la pregunta 'En pacientes adultos con bloqueo cerrado agudo de la ATM (P), ¿la artrocentesis (I) comparada con fisioterapia conservadora (C) produce mejor apertura bucal a los 6 meses (O)?', ¿qué diseño de estudio respondería mejor a esta pregunta?",
+        "options": {
+          "A": "Estudio de casos y controles",
+          "B": "Revisión sistemática de ensayos clínicos aleatorizados",
+          "C": "Estudio transversal de prevalencia",
+          "D": "Serie de casos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Esta es una pregunta de tratamiento (comparación de dos intervenciones para un resultado). El nivel de evidencia más alto para las preguntas de tratamiento es una revisión sistemática de ECA (Nivel OCEBM 1a). Una revisión sistemática agrupa todos los ECA que comparan artrocentesis con el manejo conservador del bloqueo cerrado de la ATM, produciendo una estimación del efecto agrupada con mayor potencia estadística que cualquier ensayo individual. En ausencia de revisión sistemática, la mejor evidencia siguiente es un ECA individual (Nivel 1b).",
+          "wrong": {
+            "A": "Los estudios de casos y controles son más adecuados para preguntas de daño con resultados poco frecuentes (por ejemplo, ¿causa la cirugía CMF una complicación rara?) — no pueden responder preguntas de tratamiento con comparación directa.",
+            "C": "Los estudios transversales de prevalencia responden a preguntas de frecuencia (¿qué tan frecuente es una afección?) — no a preguntas de eficacia comparativa.",
+            "D": "Las series de casos describen resultados sin un grupo de comparación — no pueden determinar si la artrocentesis es mejor que la fisioterapia."
+          },
+          "guideline": "OCEBM Levels of Evidence 2011 — Jerarquía para preguntas de tratamiento: revisión sistemática de ECA = Nivel 1a",
+          "trial": "Cochrane Database Syst Rev: múltiples revisiones sistemáticas sobre intervenciones en la ATM confirman que las preguntas de tratamiento requieren evidencia de nivel ECA para respuestas definitivas.",
+          "pearl": "Pregunta de TRATAMIENTO → REVISIÓN SISTEMÁTICA de ECA (más alta). Pronóstico → cohortes. Diagnóstico → estudio de precisión diagnóstica. Daño (poco frecuente) → casos y controles. PICO determina el diseño.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q2",
+        "stem": "En un metaanálisis de ECA que examina los resultados de la cirugía ortognática, el estadístico I² se informa como 82%. ¿Qué significa esto para la interpretación del resultado agrupado?",
+        "options": {
+          "A": "El 82% de la variabilidad de los resultados se debe al azar — la estimación agrupada es muy fiable",
+          "B": "El 82% de la variabilidad es atribuible a diferencias entre estudios en lugar del azar — la agrupación puede ser inapropiada",
+          "C": "El 82% de los pacientes del metaanálisis alcanzó el resultado principal",
+          "D": "El intervalo de confianza abarca el 82% del rango de efectos posibles"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El estadístico I² mide la heterogeneidad: estima la proporción de variabilidad total en los resultados atribuible a las diferencias entre estudios (en lugar del azar). Un I² del 82% se considera heterogeneidad alta (umbral >75%). Esto significa que los estudios incluidos en el metaanálisis no miden el mismo efecto subyacente — difieren en poblaciones de pacientes, intervenciones, definiciones de resultados u otros factores. Agrupar resultados en presencia de alta heterogeneidad puede producir una estimación engañosa. La respuesta apropiada es un análisis de subgrupos para identificar las fuentes de heterogeneidad, o la presentación de una síntesis narrativa sin estimación agrupada.",
+          "wrong": {
+            "A": "El I² NO mide la fiabilidad debida al azar — mide la variabilidad entre estudios. Un I² alto significa BAJA fiabilidad de la estimación agrupada, no alta.",
+            "C": "El I² es una medida estadística de variabilidad — no tiene nada que ver con la proporción de pacientes que alcanzan resultados.",
+            "D": "El I² no está relacionado con la cobertura del intervalo de confianza — el IC refleja la precisión (tamaño muestral), no la heterogeneidad."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 10: Heterogeneidad e interpretación del estadístico I²",
+          "trial": "Higgins JPT et al. BMJ (2003): artículo original del I² — I² >75% definido como heterogeneidad 'considerable'; la agrupación debe abordarse con precaución.",
+          "pearl": "Interpretación del I²: 0–25% = baja; 25–50% = moderada; 50–75% = sustancial; >75% = alta/considerable. I² ALTO = los estudios son muy diferentes = estimación agrupada potencialmente engañosa = investigar fuentes de heterogeneidad.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q3",
+        "stem": "Un ECA quirúrgico compara dos métodos de fijación para fracturas condíleas. El resultado principal (maloclusión funcional a los 6 meses) se produce en el 15% del Grupo A (RAFI) y en el 25% del Grupo B (tratamiento cerrado). ¿Cuál es el Número Necesario a Tratar (NNT) de la RAFI para prevenir un caso de maloclusión?",
+        "options": {
+          "A": "2",
+          "B": "5",
+          "C": "10",
+          "D": "15"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "NNT = 1 / Reducción Absoluta del Riesgo. RAR = Tasa de eventos en el grupo control - Tasa de eventos en el grupo de tratamiento = 25% - 15% = 10% = 0,10. NNT = 1/0,10 = 10. Por cada 10 pacientes tratados con RAFI en lugar de tratamiento cerrado, se previene un caso adicional de maloclusión a los 6 meses.",
+          "wrong": {
+            "A": "Un NNT de 2 requeriría una RAR del 50% — no es coherente con la RAR del 10% de este ejemplo.",
+            "B": "Un NNT de 5 requeriría una RAR del 20% — no es coherente con la RAR del 10% (25% - 15% = 10%).",
+            "D": "Un NNT de 15 requeriría una RAR del 6,7% — no es coherente con la RAR del 10% calculada anteriormente."
+          },
+          "guideline": "GRADE Working Group 2011 — NNT como medida preferida de significación clínica para efectos del tratamiento",
+          "trial": "Eckelt U et al. J Craniomaxillofac Surg (2006): ECA sobre fractura condílea — el cálculo del NNT a partir de las tasas de eventos publicadas demuestra cómo la reducción del riesgo absoluto se traduce a la práctica clínica.",
+          "pearl": "NNT = 1/RAR. RAR = tasa de control − tasa de tratamiento = 25% − 15% = 10% = 0,10. NNT = 1/0,10 = 10. Calcule siempre el NNT a partir de las tasas de eventos publicadas — los valores p y los riesgos relativos solos no transmiten la magnitud clínica.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q4",
+        "stem": "En el sistema GRADE, ¿en qué nivel de calidad comienza la evidencia de los ECA y qué hallazgo haría que se redujera a 'Baja'?",
+        "options": {
+          "A": "Comienza en Moderada; se reduce a Baja por el pequeño tamaño muestral",
+          "B": "Comienza en Alta; se reduce dos niveles a Baja por riesgo de sesgo grave Y imprecisión grave",
+          "C": "Comienza en Alta; se reduce a Baja por cualquier defecto metodológico",
+          "D": "Comienza en Baja para ECA quirúrgicos porque el enmascaramiento siempre es imposible"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En GRADE, la evidencia de los ECA comienza en calidad ALTA. Cada dominio (riesgo de sesgo, inconsistencia, indirección, imprecisión, sesgo de publicación) puede disminuirse en -1 (grave) o -2 (muy grave). Partiendo de Alta, dos descensos graves separados (-1 -1) producirían calidad Moderada; dos problemas muy graves (-2) reducirían dos niveles a Baja. Descender -2 en un único dominio O -1 en dos dominios separados produce evidencia de calidad Baja a partir del inicio en ECA.",
+          "wrong": {
+            "A": "Los ECA comienzan en calidad ALTA en GRADE — no Moderada. Los estudios observacionales comienzan en Baja.",
+            "C": "Un único descenso metodológico de -1 produce Moderada, no Baja — se necesitan dos descensos separados de -1 o uno de -2 para llegar a Baja desde Alta.",
+            "D": "Los ensayos quirúrgicos no pueden enmascarar a los participantes, pero esto está aceptado — la ausencia de enmascaramiento del participante no reduce automáticamente la calidad de la evidencia si los resultados son objetivos y los evaluadores están enmascarados. El enmascaramiento imposible en cirugía no hace que la evidencia comience en Baja."
+          },
+          "guideline": "Guyatt GH et al. BMJ (2008) — Marco GRADE: los ECA comienzan en Alta; criterios de reducción",
+          "trial": "Schünemann HJ et al. J Clin Epidemiol (2011): GRADE guidelines Artículo 3 — descripción detallada de los criterios y umbrales de reducción.",
+          "pearl": "GRADE: ECA comienzan en ALTA. Estudios observacionales comienzan en BAJA. Cada factor de reducción grave = -1. Muy grave = -2. Alta → Moderada: un factor grave. Alta → Baja: dos factores graves (o uno muy grave). Alta → Muy Baja: reducción extrema.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q5",
+        "stem": "Un gran ECA que compara dos técnicas de reparación del paladar hendido encuentra una diferencia estadísticamente significativa (p = 0,04) en las tasas de IVF a los 5 años, favoreciendo la Técnica A. La diferencia de riesgo absoluto es del 2% (IVF: 16% frente a 18%). La DCIM para la diferencia en IVF en cirugía del paladar se considera del 5%. ¿Cómo debe interpretarse este resultado?",
+        "options": {
+          "A": "La Técnica A es claramente superior — un resultado estadísticamente significativo siempre indica superioridad clínica",
+          "B": "El resultado es estadísticamente significativo pero no clínicamente significativo — la diferencia del 2% está por debajo de la DCIM del 5%",
+          "C": "El resultado es no concluyente porque el valor p está por encima de 0,01",
+          "D": "La diferencia del 2% es clínicamente significativa porque afecta a miles de pacientes en todo el mundo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La significación estadística (p=0,04) indica que es improbable que el resultado se deba al azar — pero no dice nada sobre la importancia clínica. La DCIM para este resultado es del 5%, lo que significa que una diferencia menor del 5% no sería percibida como significativa por los pacientes o los clínicos. Una diferencia absoluta del 2% es inferior a la DCIM — es estadísticamente significativa pero NO clínicamente significativa. Los pacientes y los clínicos no deberían cambiar la práctica en base a una diferencia del 2% cuando la DCIM es del 5%. Esto ilustra la distinción crítica entre significación estadística y clínica.",
+          "wrong": {
+            "A": "La significación estadística NUNCA implica automáticamente superioridad clínica. Un ensayo de gran tamaño puede detectar cualquier diferencia trivialmente pequeña como estadísticamente significativa — pero la magnitud clínica puede ser irrelevante.",
+            "C": "El umbral de p=0,04 (menor que 0,05) se acepta convencionalmente como estadísticamente significativo — no existe ningún estándar que exija p<0,01 para toda la investigación.",
+            "D": "La significación clínica de una diferencia se determina por la DCIM por paciente, no por proyecciones a nivel de población. Una diferencia del 2% por debajo de la DCIM sigue siendo clínicamente insignificante independientemente de cuántos pacientes reciban el tratamiento."
+          },
+          "guideline": "GRADE Working Group 2011 — Distinción entre significación estadística y clínica; concepto de DCIM",
+          "trial": "Estudio Eurocleft (Shaw WC et al. Cleft Palate Craniofac J 1992): demostró que las diferencias clínicamente significativas en los resultados del habla requieren al menos diferencias del 5% en las tasas de IVF para ser detectadas como relevantes clínicamente por las familias y los clínicos.",
+          "pearl": "p < 0,05 = significación ESTADÍSTICA (improbable por azar). Diferencia > DCIM = significación CLÍNICA (significativa para los pacientes). Una diferencia del 2% por debajo de la DCIM del 5% = estadísticamente significativa pero NO clínicamente relevante. Compruebe siempre la DCIM.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G1-Q6",
+        "stem": "¿Qué herramienta se utiliza para evaluar el riesgo de sesgo en un ensayo clínico aleatorizado para su inclusión en una revisión sistemática Cochrane?",
+        "options": {
+          "A": "AMSTAR-2",
+          "B": "AGREE II",
+          "C": "Cochrane Risk of Bias 2 (RoB 2)",
+          "D": "Escala Newcastle-Ottawa"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La herramienta Cochrane Risk of Bias 2 (RoB 2) es el instrumento estándar para evaluar el sesgo en los ensayos clínicos aleatorizados en las revisiones sistemáticas Cochrane. Evalúa cinco dominios: (1) sesgo derivado del proceso de aleatorización; (2) sesgo por desviaciones de las intervenciones previstas; (3) sesgo por datos de resultado faltantes; (4) sesgo en la medición de los resultados; y (5) sesgo en la selección de los resultados comunicados. Cada dominio se califica como 'riesgo bajo', 'algunas preocupaciones' o 'riesgo alto'. Se realiza un juicio global del riesgo de sesgo basándose en el dominio peor puntuado.",
+          "wrong": {
+            "A": "AMSTAR-2 se utiliza para evaluar la calidad de las REVISIONES SISTEMÁTICAS — no los ECA individuales.",
+            "B": "AGREE II se utiliza para evaluar las GUÍAS DE PRÁCTICA CLÍNICA — no los estudios individuales.",
+            "D": "La Escala Newcastle-Ottawa evalúa el sesgo en ESTUDIOS OBSERVACIONALES (cohortes y casos y controles) — no en ECA."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 8: herramienta RoB 2 para ensayos aleatorizados",
+          "trial": "Sterne JAC et al. BMJ (2019): artículo de validación del RoB 2 — estructura de 5 dominios descrita y validada en múltiples áreas de enfermedad.",
+          "pearl": "Herramientas de evaluación del sesgo: RoB 2 = ENSAYOS ALEATORIZADOS. Newcastle-Ottawa = estudios OBSERVACIONALES. AMSTAR-2 = REVISIONES SISTEMÁTICAS. AGREE II = GUÍAS CLÍNICAS. Use la herramienta correcta para el tipo de estudio correcto.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q7",
+        "stem": "El análisis por intención de tratar (ITT) en los ECA implica:",
+        "options": {
+          "A": "Analizar solo los pacientes que completaron el protocolo de tratamiento completo",
+          "B": "Analizar todos los pacientes aleatorizados en su grupo asignado independientemente de la adherencia o el abandono",
+          "C": "Excluir del análisis principal a los pacientes que experimentaron eventos adversos",
+          "D": "Restringir el análisis a los pacientes que cumplieron todos los criterios de elegibilidad tras la aleatorización"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El análisis por intención de tratar incluye a TODOS los pacientes aleatorizados en su grupo asignado para el análisis principal, independientemente de si: recibieron el tratamiento, siguieron el protocolo, se retiraron, se perdieron en el seguimiento o cruzaron al otro grupo. El ITT preserva los beneficios de la aleatorización (grupos comparables en la línea de base) y refleja la efectividad en el mundo real en lugar de la eficacia en condiciones ideales. Es el análisis principal requerido para los ECA quirúrgicos.",
+          "wrong": {
+            "A": "Analizar solo los que completaron el protocolo se denomina 'análisis por protocolo' — está en riesgo de sesgo de selección y solo debe comunicarse como análisis secundario.",
+            "C": "Excluir a los pacientes con eventos adversos introduce sesgo de selección y puede inflar la seguridad aparente — esto viola los principios del ITT.",
+            "D": "Excluir a los pacientes en base a criterios post-aleatorización (incluso criterios de elegibilidad) introduce sesgo — una vez aleatorizados, los pacientes deben permanecer en el análisis."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 8: Principio de intención de tratar en el análisis de ECA",
+          "trial": "Moher D et al. Lancet (1998): publicación original de la Declaración CONSORT — ITT como análisis principal obligatorio para todos los ECA.",
+          "pearl": "ITT = analizar a TODOS los pacientes aleatorizados en su GRUPO ASIGNADO independientemente de lo que ocurrió realmente. Preserva los beneficios de la aleatorización. Refleja la efectividad real. Por protocolo = solo los que completaron = análisis secundario sesgado.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q8",
+        "stem": "¿Qué evalúa un gráfico de embudo en un metaanálisis?",
+        "options": {
+          "A": "La relación dosis-respuesta entre el tratamiento y el resultado",
+          "B": "La heterogeneidad entre los estudios incluidos mediante el estadístico I²",
+          "C": "El sesgo de publicación — la asimetría sugiere que estudios más pequeños con resultados negativos pueden no haberse publicado",
+          "D": "La calidad de los métodos de aleatorización de los estudios individuales"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Un gráfico de embudo representa la estimación del efecto de cada estudio (eje x) frente a una medida de precisión del estudio, típicamente el tamaño muestral o el error estándar (eje y). En ausencia de sesgo, los estudios deberían dispersarse simétricamente alrededor del efecto agrupado — los estudios más grandes tienen mayor precisión y se agrupan cerca de la parte superior; los estudios más pequeños se dispersan más ampliamente en la parte inferior, formando la forma de embudo. La asimetría del embudo sugiere sesgo de publicación: si los estudios más pequeños con resultados negativos o nulos no se publican, la parte inferior del embudo estará vacía en el lado de resultados negativos, produciendo un gráfico asimétrico.",
+          "wrong": {
+            "A": "Las relaciones dosis-respuesta se evalúan mediante análisis separados (por ejemplo, metarregresión) — no con gráficos de embudo.",
+            "B": "La heterogeneidad se mide con el estadístico I² y la prueba chi-cuadrado — no con el gráfico de embudo.",
+            "D": "La calidad de la aleatorización de los estudios individuales se evalúa con la herramienta RoB 2 — no con el gráfico de embudo."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 13: Gráficos de embudo y sesgo de publicación",
+          "trial": "Egger M et al. BMJ (1997): validación de la asimetría del gráfico de embudo como prueba del sesgo de publicación — estableció la metodología estándar para detectar el sesgo de comunicación en los metaanálisis.",
+          "pearl": "GRÁFICO DE EMBUDO = evalúa el SESGO DE PUBLICACIÓN. Embudo simétrico = sin sesgo de publicación. Asimétrico (falta parte inferior derecha) = faltan estudios negativos pequeños = probable sesgo de publicación. La prueba de Egger comprueba formalmente la asimetría del gráfico de embudo.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q9",
+        "stem": "Según GRADE, una recomendación 'Débil' (Condicional) significa:",
+        "options": {
+          "A": "La intervención es perjudicial y solo debe usarse con precaución",
+          "B": "Pueden ser apropiadas diferentes opciones para diferentes pacientes — la toma de decisiones compartida es importante",
+          "C": "La evidencia es de muy baja calidad y la recomendación no debe seguirse",
+          "D": "La recomendación se aplica solo en contextos de investigación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En GRADE, una recomendación Débil (Condicional) no significa que la intervención sea ineficaz o perjudicial — significa que el equilibrio entre los efectos deseables e indeseables es menos claro, o que los valores y preferencias de los pacientes varían sustancialmente respecto a las compensaciones. Diferentes pacientes pueden tomar diferentes decisiones en función de sus circunstancias y preferencias individuales. Los clínicos deben participar en la toma de decisiones compartida en lugar de aplicar la intervención uniformemente. Por el contrario, una recomendación Fuerte significa 'la mayoría de los pacientes en esta situación debería recibir este tratamiento' y puede aplicarse sin una discusión individual extensa.",
+          "wrong": {
+            "A": "Una recomendación GRADE que indica específicamente daño utilizaría un lenguaje diferente (por ejemplo, 'recomendación fuerte en contra'). Una recomendación débil no implica daño.",
+            "C": "Una baja calidad de la evidencia puede llevar a una recomendación débil, pero una recomendación débil basada en evidencia de baja calidad puede seguir orientando la práctica clínica — no es un consejo para ignorar la recomendación.",
+            "D": "Las recomendaciones GRADE se aplican en la práctica clínica — no están restringidas a contextos de investigación."
+          },
+          "guideline": "Guyatt GH et al. BMJ (2008) — Sistema GRADE: recomendaciones fuertes frente a débiles explicadas",
+          "trial": "Guyatt GH et al. J Clin Epidemiol (2011): GRADE guidelines Artículo 2 — interpretación de la recomendación débil: 'sugerimos' frente a recomendación fuerte: 'recomendamos'.",
+          "pearl": "Recomendación FUERTE = 'RECOMENDAMOS' = la mayoría de los pacientes debería recibir esto. Recomendación DÉBIL = 'SUGERIMOS' = existen alternativas razonables, las preferencias del paciente importan, se requiere toma de decisiones compartida.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q10",
+        "stem": "En la jerarquía de evidencia para preguntas de DIAGNÓSTICO, ¿cuál es el nivel de evidencia más alto?",
+        "options": {
+          "A": "Revisión sistemática de ensayos clínicos aleatorizados",
+          "B": "Revisión sistemática de estudios de precisión diagnóstica transversales con pacientes consecutivos",
+          "C": "Estudio de cohortes prospectivo",
+          "D": "Opinión de consenso de expertos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para las preguntas de DIAGNÓSTICO, el diseño de estudio apropiado es un estudio de precisión diagnóstica transversal (a veces denominado estudio de validación) — comparando la prueba índice con un estándar de referencia en pacientes consecutivos con sospecha de la afección. El nivel de evidencia más alto para el diagnóstico es una revisión sistemática de dichos estudios de precisión diagnóstica transversales (Nivel OCEBM 1a para diagnóstico). Esto difiere de las preguntas de tratamiento, donde el nivel más alto es una revisión sistemática de ECA.",
+          "wrong": {
+            "A": "Las revisiones sistemáticas de ECA son el nivel más alto para las preguntas de TRATAMIENTO — los ECA generalmente no son el diseño de estudio para la evaluación de la precisión diagnóstica.",
+            "C": "Un estudio de cohortes prospectivo se usa para preguntas de pronóstico — responde '¿qué ocurrirá?' en lugar de '¿identifica correctamente esta prueba la afección?'",
+            "D": "La opinión de consenso de expertos es OCEBM Nivel 5 — el nivel de evidencia más bajo para todos los tipos de preguntas."
+          },
+          "guideline": "OCEBM Levels of Evidence 2011 — Diferentes tipos de preguntas requieren diferentes diseños de estudio en la cima de su jerarquía",
+          "trial": "OCEBM Working Group. Oxford CEBM (2011): tabla explícita de niveles de evidencia por tipo de pregunta — revisiones sistemáticas de estudios de precisión diagnóstica = Nivel 1a para diagnóstico.",
+          "pearl": "DIAGNÓSTICO, jerarquía SUPERIOR = revisión sistemática de estudios de precisión diagnóstica TRANSVERSALES. NO ECA. TRATAMIENTO SUPERIOR = revisión sistemática de ECA. Diferentes preguntas = diferentes diseños de estudio en la cima.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q11",
+        "stem": "La ocultación de la asignación en un ensayo clínico aleatorizado previene qué tipo de sesgo:",
+        "options": {
+          "A": "Sesgo de detección",
+          "B": "Sesgo de desgaste",
+          "C": "Sesgo de selección durante la asignación de participantes",
+          "D": "Sesgo de comunicación"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La ocultación de la asignación previene el sesgo de selección durante el proceso de aleatorización. Sin ocultación, los investigadores que conocen la asignación próxima pueden incluir o excluir selectivamente participantes — de forma consciente o inconsciente — en función de su asignación de tratamiento prevista. Por ejemplo, si la próxima asignación es 'cirugía', un investigador podría diferir la inclusión de un paciente más frágil para evitar un mal resultado quirúrgico. Los métodos de ocultación adecuada de la asignación incluyen: aleatorización centralizada por teléfono o web, sobres sellados opacos numerados secuencialmente y asignación de fármacos controlada por farmacia. La ocultación inadecuada (sobres transparentes, asignación por fecha de nacimiento, alternancia) es una de las fuentes de sesgo más comunes en los ECA quirúrgicos.",
+          "wrong": {
+            "A": "El sesgo de detección se previene con el enmascaramiento de los evaluadores del resultado — no con la ocultación de la asignación.",
+            "B": "El sesgo de desgaste se minimiza mediante el análisis por intención de tratar y estrategias para minimizar el abandono — no mediante la ocultación de la asignación.",
+            "D": "El sesgo de comunicación se previene mediante el registro prospectivo del ensayo — no mediante la ocultación de la asignación."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 8: ocultación de la asignación y sesgo de selección",
+          "trial": "Schulz KF et al. JAMA (1995): estudio metaepidemiológico — los ensayos con ocultación inadecuada de la asignación exageraron los efectos del tratamiento en un 37% de media en comparación con los ensayos con ocultación adecuada.",
+          "pearl": "OCULTACIÓN DE LA ASIGNACIÓN = previene el SESGO DE SELECCIÓN. Sin ella, los investigadores pueden manipular la asignación para incluir pacientes mejores/peores en los grupos preferidos. Estándar de oro: aleatorización centralizada o sobres sellados opacos.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q12",
+        "stem": "La definición de MBE de Sackett enfatiza la integración de tres elementos. ¿Cuál falta en lo siguiente: 'mejor evidencia científica disponible + experiencia clínica = decisión basada en la evidencia'?",
+        "options": {
+          "A": "Coste-efectividad de la intervención",
+          "B": "Valores y preferencias del paciente",
+          "C": "Recomendaciones de las guías de la sociedad profesional pertinente",
+          "D": "Evidencia de laboratorio procedente de estudios en animales"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La definición de MBE de Sackett (2000) requiere la integración de TRES elementos: (1) mejor evidencia científica disponible; (2) experiencia clínica; Y (3) valores y preferencias del paciente. El tercer elemento se omite frecuentemente en presentaciones simplificadas. Los valores y preferencias del paciente son esenciales — incluso la evidencia de la más alta calidad para una intervención es irrelevante si el paciente no valora el resultado o no está dispuesto a aceptar los riesgos del tratamiento. La MBE no es dictadura de la evidencia, sino toma de decisiones compartida informada por la evidencia.",
+          "wrong": {
+            "A": "La coste-efectividad es un factor en la política sanitaria y en las decisiones del NICE, pero no es uno de los tres elementos centrales de la MBE de Sackett para las decisiones individuales del paciente.",
+            "C": "Las guías de las sociedades profesionales son una fuente de evidencia sintetizada, pero no son un pilar separado de la tríada de MBE en la definición de Sackett.",
+            "D": "La evidencia de estudios en animales no es uno de los tres pilares de la MBE — contribuye a la base de evidencia pero no se sitúa junto a la experiencia clínica y los valores del paciente en la definición de Sackett."
+          },
+          "guideline": "Sackett DL et al. Evidence-Based Medicine (Churchill Livingstone 2000): la definición de MBE en tres partes",
+          "trial": "Sackett DL et al. BMJ (1996): artículo de definición original de la MBE — 'la medicina basada en la evidencia es el uso consciente, explícito y juicioso de la mejor evidencia actual en la toma de decisiones sobre el cuidado de pacientes individuales.' La tríada de tres elementos es fundamental.",
+          "pearl": "MBE = tres elementos: EVIDENCIA CIENTÍFICA + EXPERIENCIA CLÍNICA + VALORES DEL PACIENTE. Los tres son necesarios. Ignorar los valores del paciente = no es MBE. Conocer la evidencia pero ignorar la experiencia o las preferencias = no es MBE.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q13",
+        "stem": "El sesgo de publicación en la literatura quirúrgica se refiere a:",
+        "options": {
+          "A": "La tendencia de las revistas a publicar artículos con técnicas novedosas en lugar de estudios confirmatorios",
+          "B": "La publicación selectiva de estudios con resultados estadísticamente significativos (positivos), que lleva a la sobreestimación de los efectos del tratamiento en las revisiones sistemáticas",
+          "C": "El sesgo introducido cuando los autores publican múltiples artículos del mismo conjunto de datos",
+          "D": "La tendencia de los ensayos financiados por la industria a utilizar criterios de valoración compuestos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El sesgo de publicación se produce porque los estudios con resultados estadísticamente significativos (positivos) tienen mayor probabilidad de ser enviados y aceptados para publicación que los estudios con resultados nulos o negativos. Esto crea una literatura sesgada donde el registro publicado sobreestima los efectos del tratamiento. Cuando se realiza un metaanálisis utilizando solo estudios publicados, la estimación agrupada puede estar inflada. Los métodos de detección incluyen la asimetría del gráfico de embudo y la prueba de Egger. Prevención: el registro prospectivo del ensayo compromete a los investigadores a publicar independientemente del resultado.",
+          "wrong": {
+            "A": "El sesgo de novedad (preferencia por técnicas novedosas) es una tendencia editorial real, pero no es la definición estándar de 'sesgo de publicación' — que se refiere específicamente a la publicación selectiva por dirección del resultado.",
+            "C": "Las publicaciones múltiples del mismo conjunto de datos son 'publicación duplicada' o 'salami slicing' — un problema separado del sesgo de publicación.",
+            "D": "El uso de criterios de valoración compuestos en ensayos financiados por la industria es una forma de sesgo en la comunicación de resultados — relacionado pero distinto del sesgo de publicación."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 13: Sesgo de publicación y comunicación selectiva",
+          "trial": "Egger M et al. BMJ (1997): prueba de asimetría del gráfico de embudo para el sesgo de publicación — demostró que el 41% de los ensayos incluidos en un metaanálisis no estaban publicados, sesgando la estimación agrupada en un 30%.",
+          "pearl": "SESGO DE PUBLICACIÓN = resultados positivos publicados, negativos no = sobreestimación de los efectos del tratamiento en el metaanálisis. El gráfico de embudo lo detecta. El registro del ensayo lo previene. El sesgo sistemático más importante en la literatura médica.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q14",
+        "stem": "La Escala Newcastle-Ottawa se utiliza para evaluar la calidad de qué tipo de estudio:",
+        "options": {
+          "A": "Ensayos clínicos aleatorizados",
+          "B": "Revisiones sistemáticas",
+          "C": "Guías de práctica clínica",
+          "D": "Estudios de cohortes y de casos y controles (estudios observacionales)"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "La Escala Newcastle-Ottawa (ENO) es una herramienta validada para evaluar la calidad metodológica de los estudios no aleatorizados (observacionales) — específicamente estudios de cohortes y estudios de casos y controles. Evalúa tres dominios: (1) selección de los grupos de estudio; (2) comparabilidad de los grupos; y (3) evaluación de la exposición o el resultado. Cada dominio se califica con estrellas (máximo 9 estrellas). La ENO se utiliza ampliamente en revisiones sistemáticas que incluyen estudios observacionales (por ejemplo, revisiones sistemáticas de preguntas de pronóstico o daño en CMF).",
+          "wrong": {
+            "A": "La calidad de los ECA se evalúa con la herramienta Cochrane RoB 2 — no con Newcastle-Ottawa.",
+            "B": "La calidad de las revisiones sistemáticas se evalúa con AMSTAR-2 — no con Newcastle-Ottawa.",
+            "C": "La calidad de las guías de práctica clínica se evalúa con AGREE II — no con Newcastle-Ottawa."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Herramientas de evaluación de la calidad de estudios no aleatorizados",
+          "trial": "Wells GA et al. Newcastle-Ottawa Scale (Ottawa Hospital Research Institute 2013): la herramienta estándar para la calidad de estudios observacionales en revisiones sistemáticas.",
+          "pearl": "Escala Newcastle-Ottawa = ESTUDIOS OBSERVACIONALES (cohortes + casos y controles). RoB 2 = ECA. AMSTAR-2 = revisiones sistemáticas. AGREE II = guías. Adapte la herramienta al tipo de estudio.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q15",
+        "stem": "¿Cuál de las siguientes describe mejor la indirección como razón para reducir la calidad de la evidencia en GRADE?",
+        "options": {
+          "A": "El resultado principal no estaba preespecificado en el registro del ensayo",
+          "B": "La población, la intervención, la comparación o el resultado en los estudios disponibles difieren significativamente de la pregunta clínica que se responde",
+          "C": "Los intervalos de confianza son amplios debido a un tamaño muestral pequeño",
+          "D": "Múltiples estudios muestran resultados inconsistentes en diferentes direcciones"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La indirección en GRADE se produce cuando la evidencia disponible no aborda directamente la pregunta clínica que se responde. Formas comunes de indirección en CMF: (1) Indirección de POBLACIÓN — evidencia de pacientes adultos aplicada a pacientes pediátricos; (2) Indirección de INTERVENCIÓN — evidencia para una técnica similar pero no idéntica; (3) Indirección de COMPARACIÓN — los estudios utilizaron un comparador diferente a la alternativa clínica; (4) Indirección de RESULTADO — el estudio midió resultados subrogados (por ejemplo, nivel óseo radiológico) cuando la pregunta clínica es sobre dolor o función. La indirección se califica como grave (-1) o muy grave (-2) dependiendo de cuánto difiera la evidencia de la pregunta.",
+          "wrong": {
+            "A": "Resultado no preespecificado = comunicación selectiva de resultados = riesgo de sesgo de comunicación — no indirección.",
+            "C": "Intervalos de confianza amplios por muestras pequeñas = IMPRECISIÓN — un criterio de reducción GRADE separado.",
+            "D": "Estudios que muestran resultados inconsistentes en diferentes direcciones = INCONSISTENCIA — otro criterio de reducción GRADE separado."
+          },
+          "guideline": "Guyatt GH et al. J Clin Epidemiol (2011): GRADE guidelines Artículo 5 — indirección como criterio de reducción",
+          "trial": "Schünemann HJ et al. J Clin Epidemiol (2011): serie de artículos de metodología GRADE — la indirección definida e ilustrada en múltiples escenarios clínicos.",
+          "pearl": "Razones de REDUCCIÓN en GRADE (5): Riesgo de Sesgo / Inconsistencia / INDIRECCIÓN (evidencia que no aborda directamente la pregunta clínica) / Imprecisión / Sesgo de Publicación. Mnemotecnia: 'RIIIP'. Indirección = desajuste de población/intervención/comparación/resultado.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G1-Q16",
+        "stem": "El enmascaramiento de los evaluadores del resultado en un ECA quirúrgico que compara dos técnicas de fijación de fracturas mandibulares previene qué sesgo:",
+        "options": {
+          "A": "Sesgo de selección",
+          "B": "Sesgo de desgaste",
+          "C": "Sesgo de detección (ascertainment bias)",
+          "D": "Sesgo de asignación"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El sesgo de detección (sesgo de ascertamiento) se produce cuando los resultados se miden de forma diferente entre los grupos — el conocimiento del evaluador sobre la asignación al tratamiento influye en su medición de los resultados. Por ejemplo, un evaluador que sabe que un paciente recibió RAFI podría calificar su resultado oclusal de forma más favorable (consciente o inconscientemente) que un evaluador enmascarado. Enmascarar a los evaluadores del resultado respecto a la asignación al tratamiento elimina esta medición diferencial. En los ensayos quirúrgicos donde el enmascaramiento de los participantes es imposible, el enmascaramiento del evaluador es la forma de enmascaramiento más factible e importante.",
+          "wrong": {
+            "A": "El sesgo de selección se previene mediante la ocultación de la asignación — no mediante el enmascaramiento del evaluador.",
+            "B": "El sesgo de desgaste se minimiza mediante el análisis ITT y la minimización del abandono — no mediante el enmascaramiento del evaluador.",
+            "D": "El sesgo de asignación es otro término para el sesgo de selección durante la aleatorización — se previene mediante la ocultación de la asignación, no mediante el enmascaramiento del evaluador."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 8: Sesgo de detección y enmascaramiento del evaluador del resultado",
+          "trial": "Schulz KF et al. JAMA (1995): estudio metaepidemiológico — la falta de enmascaramiento del evaluador se asoció a una exageración del 27% de los efectos del tratamiento en los ensayos quirúrgicos.",
+          "pearl": "ENMASCARAMIENTO DEL EVALUADOR = previene el SESGO DE DETECCIÓN. A menudo los participantes no pueden ser enmascarados en los ensayos quirúrgicos — pero los evaluadores del resultado (radiólogos, logopedas, evaluadores de CVR) pueden y deben estar siempre enmascarados respecto a la asignación al tratamiento.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q17",
+        "stem": "Una serie de casos se clasifica como qué nivel de evidencia OCEBM para una pregunta de tratamiento:",
+        "options": {
+          "A": "Nivel 1",
+          "B": "Nivel 2",
+          "C": "Nivel 3",
+          "D": "Nivel 4"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "Las series de casos son evidencia OCEBM de Nivel 4 para preguntas de tratamiento. Una serie de casos describe los resultados en un grupo de pacientes que recibieron un tratamiento, sin un grupo de comparación. No puede determinar si los resultados difieren de lo que habría ocurrido sin tratamiento. A pesar de ser Nivel 4, las series de casos siguen siendo importantes en CMF para describir los resultados de técnicas nuevas o poco frecuentes donde los estudios comparativos aún no son viables. El Nivel 5 es la opinión de expertos/razonamiento mecanicista — el nivel más bajo.",
+          "wrong": {
+            "A": "Nivel 1 = revisión sistemática de ECA o ECA individual — no series de casos.",
+            "B": "Nivel 2 = revisión sistemática o estudio de cohortes individual — no series de casos.",
+            "C": "Nivel 3 = revisión sistemática o estudio de casos y controles individual — no series de casos."
+          },
+          "guideline": "OCEBM Levels of Evidence 2011 — Jerarquía para preguntas de tratamiento",
+          "trial": "OCEBM Working Group. Oxford CEBM (2011): tabla explícita — series de casos = Nivel 4 para tratamiento; opinión de expertos = Nivel 5.",
+          "pearl": "Niveles OCEBM: 1 = RS de ECA / ECA; 2 = RS / cohortes; 3 = RS / casos y controles; 4 = SERIES DE CASOS; 5 = opinión de expertos. La mayoría de la evidencia en CMF es de Nivel 3–4 — reconózcalo siempre al aplicar la evidencia a la práctica.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G1-Q18",
+        "stem": "¿Qué medida cuantifica mejor la precisión de una estimación en un ensayo clínico o metaanálisis?",
+        "options": {
+          "A": "Valor p",
+          "B": "Desviación estándar",
+          "C": "Intervalo de confianza (IC)",
+          "D": "Estadístico I²"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El intervalo de confianza (IC) cuantifica la precisión de una estimación puntual. Un IC del 95% significa que si el estudio se repitiera 100 veces, el 95% de los IC resultantes contendría el verdadero valor poblacional. Los IC estrechos indican alta precisión (muestra grande, baja variabilidad); los IC amplios indican baja precisión (muestra pequeña, alta variabilidad). El IC también transmite la significación estadística: si el IC excluye el valor nulo (1,0 para razones, 0 para diferencias), el resultado es estadísticamente significativo al nivel alfa correspondiente al ancho del IC. Los IC proporcionan más información que los valores p — transmiten tanto la significación estadística como el rango de valores plausibles.",
+          "wrong": {
+            "A": "El valor p responde a la pregunta '¿si no hubiera ningún efecto verdadero, qué probabilidad habría de obtener este resultado por azar?' — no cuantifica la precisión ni la magnitud del efecto.",
+            "B": "La desviación estándar describe la dispersión de las observaciones individuales alrededor de la media — no la precisión de la estimación de la media. El ERROR ESTÁNDAR (desviación estándar / √n) es la medida de precisión para la media.",
+            "D": "El I² mide la heterogeneidad entre estudios en un metaanálisis — no mide la precisión de una estimación única."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 15: Intervalos de confianza como medidas de precisión",
+          "trial": "Gardner MJ & Altman DG. BMJ (1986): artículo seminal que promueve los intervalos de confianza sobre los valores p — 'Confidence intervals rather than p values: estimation rather than hypothesis testing.'",
+          "pearl": "INTERVALO DE CONFIANZA = precisión. IC estrecho = alta precisión = muestra grande. IC amplio = baja precisión = muestra pequeña. IC que cruza el valor nulo = no significativo. IC completamente por encima/debajo del nulo = significativo. Comunique siempre los IC junto a los valores p.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G1-Q19",
+        "stem": "Al diseñar un estudio clínico en CMF, el registro prospectivo en un registro público de ensayos (por ejemplo, ISRCTN, ClinicalTrials.gov) previene principalmente qué problema metodológico:",
+        "options": {
+          "A": "Sesgo de selección por aleatorización inadecuada",
+          "B": "Comunicación selectiva de resultados (sesgo de comunicación)",
+          "C": "Elevada tasa de abandono en el período de seguimiento",
+          "D": "Métodos estadísticos inapropiados"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El registro prospectivo del ensayo antes de la inclusión de pacientes compromete a los investigadores con sus resultados primarios y secundarios, planes de análisis y criterios de valoración preespecificados. Esto previene la comunicación selectiva de resultados (sesgo de comunicación): la práctica de analizar múltiples resultados y comunicar solo los que tienen resultados favorables (estadísticamente significativos). Al comparar lo que estaba preespecificado con lo que se publicó, los revisores pueden identificar si los resultados primarios fueron cambiados, los secundarios fueron promovidos o los desfavorables fueron omitidos. El registro también facilita la identificación de estudios no publicados para abordar el sesgo de publicación en las revisiones sistemáticas.",
+          "wrong": {
+            "A": "El sesgo de selección por aleatorización inadecuada se previene mediante una técnica de aleatorización adecuada y la ocultación de la asignación — no mediante el registro del ensayo.",
+            "C": "La elevada tasa de abandono se minimiza mediante características del diseño del estudio (sistemas de seguimiento, compromiso del paciente) — no mediante el registro.",
+            "D": "Los métodos estadísticos inapropiados se abordan mediante planes de análisis estadístico preespecificados (también incluidos en el registro), pero el propósito preventivo principal del registro es la comunicación de resultados."
+          },
+          "guideline": "Declaración CONSORT 2010 — Registro prospectivo del ensayo como requisito obligatorio; Cochrane Handbook v6.3",
+          "trial": "Chan AW et al. JAMA (2004): comparación de los resultados registrados frente a los publicados en 102 ECA — el 62% tenía al menos un resultado primario que difería entre el registro y la publicación; estableció la necesidad del registro obligatorio.",
+          "pearl": "REGISTRO DEL ENSAYO = previene el SESGO DE COMUNICACIÓN DE RESULTADOS. Registrar ANTES de la inclusión. Comparar los resultados registrados frente a los publicados para detectar el sesgo. Todos los ECA enviados a las principales revistas deben estar registrados como condición de publicación.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G1-Q20",
+        "stem": "La herramienta AMSTAR-2 se utiliza para evaluar la calidad de qué tipo de estudio:",
+        "options": {
+          "A": "Ensayos clínicos aleatorizados",
+          "B": "Estudios de cohortes observacionales",
+          "C": "Revisiones sistemáticas",
+          "D": "Estudios de precisión diagnóstica"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "AMSTAR-2 (A Measurement Tool to Assess Systematic Reviews, Version 2) es el instrumento estándar para evaluar críticamente la calidad metodológica de las revisiones sistemáticas y los metaanálisis, incluidos los que incorporan estudios no aleatorizados. Tiene 16 ítems que evalúan: componentes PICO, exhaustividad de la estrategia de búsqueda, selección de estudios y extracción de datos por duplicado, evaluación del riesgo de sesgo, métodos estadísticos, investigación de la heterogeneidad y evaluación de la fuente de financiación. La calidad global se califica como Alta, Moderada, Baja o Críticamente Baja.",
+          "wrong": {
+            "A": "Calidad del ECA = herramienta Cochrane RoB 2.",
+            "B": "Calidad del estudio de cohortes observacional = Escala Newcastle-Ottawa.",
+            "D": "Calidad del estudio de precisión diagnóstica = QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies, versión 2)."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — AMSTAR-2 para la evaluación de la calidad de las revisiones sistemáticas",
+          "trial": "Shea BJ et al. BMJ (2017): artículo de desarrollo y validación del AMSTAR-2 — herramienta de 16 ítems; las revisiones sistemáticas de alta calidad deben puntuar 'Baja preocupación' en todos los dominios críticos.",
+          "pearl": "AMSTAR-2 = REVISIONES SISTEMÁTICAS. RoB 2 = ECA. Newcastle-Ottawa = OBSERVACIONALES. QUADAS-2 = PRECISIÓN DIAGNÓSTICA. AGREE II = GUÍAS. Cinco herramientas, cinco tipos de estudio — conocimiento esencial de examen.",
+          "difficulty": 1
+        }
+      }
+    ]
+  }
+}

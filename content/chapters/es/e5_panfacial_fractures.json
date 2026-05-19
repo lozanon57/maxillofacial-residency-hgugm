@@ -1,0 +1,690 @@
+{
+  "id": "E5",
+  "title": "Fracturas Panfaciales: Secuenciación y Planificación Virtual",
+  "subtitle": "Bloque E — Traumatismo · Lesiones Craneofaciales Combinadas",
+  "block": "E",
+  "block_name": "Traumatismo Facial",
+  "level": "R3-5",
+  "reading_time_min": 38,
+  "guidelines_version": "EACMFS Facial Fracture Guidelines 2023 · ATLS 10th Edition (ACS 2018) · IASSCMF Consensus 2022",
+  "textbook_refs": [
+    "Fonseca RJ et al. Oral and Maxillofacial Trauma, 4th ed. (Elsevier 2013)",
+    "Manson PN et al. 'Management of panfacial fractures.' Oral Maxillofac Surg Clin North Am (2013)",
+    "He D et al. 'Sequencing of panfacial fracture repair.' J Oral Maxillofac Surg (2019)",
+    "Olate S et al. 'Virtual surgical planning in panfacial fractures.' Int J Oral Maxillofac Surg (2021)",
+    "Gruss JS & Mackinnon SE. 'Complex maxillary fractures.' Plast Reconstr Surg (1986)"
+  ],
+  "learning_objectives": [
+    "Definir las fracturas panfaciales y describir los patrones epidemiológicos y lesionales que las producen",
+    "Comparar las estrategias de secuenciación de abajo arriba frente a de fuera adentro, citando la evidencia de cada abordaje",
+    "Esbozar los principios de la planificación quirúrgica virtual (VSP) y sus indicaciones en la reconstrucción panfacial",
+    "Describir el tratamiento de las fracturas combinadas Le Fort, ZMC y mandibulares, incluyendo la secuencia de fijación",
+    "Identificar las complicaciones específicas de las fracturas panfaciales y las estrategias para su prevención"
+  ],
+  "sections": [
+    {
+      "id": "E5-S1",
+      "title": "Definición, Epidemiología y Patrones Lesionales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las **fracturas panfaciales** se definen como fracturas simultáneas del tercio superior, medio e inferior de la cara — que afectan concurrentemente al hueso frontal o los rebordes orbitarios, la zona media (nivel Le Fort) y la mandíbula. No existe una definición estricta universalmente aceptada: algunos autores exigen fracturas en los tres tercios faciales, mientras que otros incluyen cualquier combinación compleja de fracturas mediofaciales y mandibulares con afectación craneofacial. El término implica una alteración grave del esqueleto facial suficiente para comprometer simultáneamente la anchura, la altura y la proyección facial.\n\nEpidemiológicamente, las fracturas panfaciales representan aproximadamente el 3–5% de todas las fracturas faciales, pero suponen una proporción desproporcionada de los retos reconstructivos complejos. Los mecanismos de alta energía predominan: los accidentes de tráfico representan el 50–70% en las series europeas (datos EACMFS 2023), con agresiones, accidentes industriales y heridas por arma de fuego como causas restantes. Los varones de entre 18 y 45 años son los más afectados, lo que refleja su exposición a actividades de alto riesgo. La gravedad de las lesiones panfaciales implica que ocurran en el contexto del politraumatismo: la lesión intracraneal asociada está presente en el 40–60%, la lesión de la columna cervical en hasta el 6%, y las lesiones torácicas o abdominales en el 30–50%. Las lesiones potencialmente mortales tienen siempre prioridad, y la reconstrucción facial definitiva se difiere invariablemente a una segunda etapa — una vez estabilizado el paciente fisiológicamente.\n\nEl esqueleto facial puede conceptualizarse como un sistema de **contrafuertes** (puntales óseos verticales y horizontales de carga) y **espacios** (cavidades sinusales y órbita). En las fracturas panfaciales, todos los contrafuertes — nasomaxilar, cigomaticomaxilar, pterigomaxilar (verticales) y frontal, infraorbitario, arco cigomático (horizontales) — pueden estar alterados simultáneamente. Esta desorganización global implica que no existe ningún punto de referencia anatómica fiable único, lo que hace que la reconstrucción sea sustancialmente más compleja que el tratamiento de fracturas aisladas."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de la Gravedad de las Lesiones Faciales — Relevante para las Fracturas Panfaciales",
+          "headers": ["Sistema", "Parámetro", "Relevancia en las Lesiones Panfaciales"],
+          "rows": [
+            ["AO/ASIF", "Fijación portante vs compartida de carga", "Conminución → se requieren placas portantes de carga"],
+            ["Gruss-Mackinnon (1986)", "Alteración mediofacial central y lateral", "Marco para identificar segmentos óseos ausentes"],
+            ["Gravedad de Manson", "Grados de conminución (leve/moderada/grave)", "Orienta las decisiones sobre VSP e injerto óseo"],
+            ["ISS (Injury Severity Score)", "Puntuación global de politraumatismo", "Determina el momento de la reparación facial definitiva"],
+            ["GCS (Glasgow Coma Scale)", "Estado neurológico", "Determina si la reparación facial se difiere o es inmediata"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Definición de Fractura Panfacial",
+          "content": "Las fracturas panfaciales afectan simultáneamente a los tres tercios faciales (superior, medio, inferior). Representan solo el 3–5% de las fracturas faciales, pero requieren la reconstrucción más compleja. La lesión intracraneal asociada está presente en el 40–60% de los casos."
+        }
+      ]
+    },
+    {
+      "id": "E5-S2",
+      "title": "Principios de la Reconstrucción: Sistema de Contrafuertes y Puntos de Referencia",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El éxito de la reconstrucción panfacial depende de la restauración del **sistema de contrafuertes faciales** — los puntales óseos portantes que definen la anchura, la altura y la proyección facial. Los contrafuertes verticales (nasomaxilar, cigomaticomaxilar y pterigomaxilar en cada lado) resisten las fuerzas masticatorias verticales, mientras que los contrafuertes horizontales (barra frontal, rebordes infraorbitarios, arcos cigomáticos y cuerpo mandibular) mantienen la anchura transversal y la proyección anterior.\n\nEn las fracturas panfaciales, el cirujano debe identificar puntos de referencia anatómica fiables desde los que anclar la reconstrucción. Los **segmentos esqueléticos no lesionados** — como una barra frontal íntegra, un arco cigomático preservado o una sínfisis mandibular — sirven como referencia inicial. Cuando todos los segmentos están alterados, la **base del cráneo** (accesible intracraneal en los casos neuroquirúrgicos) o la **oclusión dental** (cuando la oclusión mandibular está íntegra o puede restaurarse) proporciona la referencia primaria.\n\nEl principio de **reconstrucción precisa de la oclusión dental** es primordial: la altura y la anchura facial derivan en última instancia de la relación oclusal. Los errores en la reconstrucción oclusal se propagan superiormente, produciendo malposición mediofacial. A la inversa, en los casos en que la mandíbula también está fracturada, los arcos dentarios superior e inferior deben relacionarse con precisión antes de comenzar cualquier fijación mediofacial. Esta interdependencia es la tensión central en el tratamiento de las fracturas panfaciales.\n\nEl concepto de **injerto óseo primario** es cada vez más aceptado en las fracturas panfaciales con pérdida ósea significativa o conminución. En el pasado se prefería el injerto óseo diferido, pero la evidencia moderna (Gruss y Mackinnon 1986; He et al. 2019) apoya el injerto primario del suelo orbitario, los contrafuertes cigomaticomaxilares y los defectos del hueso frontal cuando la cobertura de partes blandas es adecuada y no existe contaminación. Esto reduce la contractura cicatricial, simplifica la reconstrucción secundaria y produce mejores resultados funcionales."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — El Problema del Punto de Referencia",
+          "content": "Cuando no existe ningún punto de referencia óseo fiable (los tres tercios faciales están fracturados), el cirujano debe reconstruir de dentro afuera: establecer primero la oclusión (referencia dental), luego avanzar superiormente. Los datos de TC preoperatorios cargados en un software de planificación virtual permiten modelar la anatomía prelesional mediante la imagen especular del lado contralateral — proporcionando una 'referencia' virtual incluso cuando no existen puntos de referencia físicos."
+        },
+        {
+          "type": "table",
+          "title": "Sistema de Contrafuertes Faciales — Componentes y Prioridad de Reconstrucción",
+          "headers": ["Contrafuerte", "Orientación", "Referencias Anatómicas", "Prioridad en la Reparación Panfacial"],
+          "rows": [
+            ["Nasomaxilar", "Vertical", "Apertura piriforme → hueso frontal", "Alta — restaura la altura facial"],
+            ["Cigomaticomaxilar (CM)", "Vertical", "Sutura CM → reborde infraorbitario", "Alta — restaura la anchura facial"],
+            ["Pterigomaxilar", "Vertical", "Apófisis pterigoides → tuberosidad maxilar", "Moderada — reducción Le Fort"],
+            ["Barra frontal", "Horizontal", "Rebordes supraorbitarios + glabela", "Muy alta — estructura superior del marco"],
+            ["Infraorbitario", "Horizontal", "Ambos rebordes infraorbitarios", "Alta — volumen orbitario y anchura mediofacial"],
+            ["Arco cigomático", "Horizontal", "Desde la sutura CF hasta el temporal", "Alta — proyección facial y anchura"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E5-S3",
+      "title": "Secuenciación Quirúrgica: De Abajo Arriba vs De Fuera Adentro",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La secuenciación óptima de la reparación de las fracturas panfaciales ha sido debatida durante décadas. Existen dos grandes estrategias — **de abajo arriba/de dentro afuera** y **de fuera adentro/de arriba abajo** — y ninguna ha demostrado ser definitivamente superior por evidencia de alto nivel. La mayoría de los centros con experiencia utilizan un abordaje híbrido guiado por el patrón lesional específico.\n\n**Secuenciación de abajo arriba** (propugnada por Manson y colaboradores) comienza con la reconstrucción mandibular para establecer la altura facial vertical y la forma del arco dentario, y luego avanza superiormente a través de la zona media hasta la cara superior. La justificación es que la mandíbula proporciona la referencia ósea más fiable (dada su posición inferior y la frecuente lesión bilateral que produce un desplazamiento predecible), y que todo el esqueleto facial superior puede suspenderse desde una base mandibular correctamente posicionada. En la práctica: (1) se colocan arcos y fijación intermaxilar (FIM); (2) se fijan las fracturas mandibulares en oclusión correcta; (3) se mantiene la FIM y se reducen y fijan los patrones Le Fort; (4) se abordan las fracturas ZMC; (5) las fracturas frontales/orbitarias se abordan al final. Esta secuencia garantiza que cualquier error en la reducción mediofacial pueda corregirse en relación con la oclusión mandibular establecida.\n\n**Secuenciación de fuera adentro** (propugnada por Gruss y colaboradores) comienza con el marco facial externo — los arcos cigomáticos y la barra frontal — para establecer la envolvente ósea exterior tridimensional, y luego trabaja hacia el interior en dirección a la oclusión. La justificación es que los arcos y la barra frontal definen la anchura y la proyección facial, y que reducir el esqueleto central hacia un marco externo distorsionado produce malposición. En la práctica: (1) se reducen y estabilizan la barra frontal y los arcos cigomáticos; (2) se fijan las fracturas ZMC; (3) se reconstruyen los contenidos y rebordes orbitarios; (4) se reducen los patrones Le Fort; (5) se fijan las fracturas mandibulares; (6) se libera la FIM y se verifica la oclusión. Esta secuencia es especialmente preferida cuando los arcos y la barra frontal están íntegros y sirven como referencias fiables.\n\nEn las **fracturas panfaciales gravemente conminutas** sin referencia fiable, el estándar contemporáneo es utilizar la **planificación quirúrgica virtual (VSP)** con implantes de titanio fabricados a medida y guías de corte específicas del paciente, eludiendo en la práctica el debate de la secuenciación al resolver el puzzle tridimensional antes de la cirugía."
+        },
+        {
+          "type": "table",
+          "title": "Secuenciación de Abajo Arriba vs De Fuera Adentro — Comparación",
+          "headers": ["Característica", "De Abajo Arriba (Manson)", "De Fuera Adentro (Gruss)"],
+          "rows": [
+            ["Referencia inicial", "Oclusión mandibular", "Arcos cigomáticos / barra frontal"],
+            ["Mejor indicación", "Fracturas condilares bilaterales ausentes; arcos íntegros", "Arcos/barra frontal íntegros; mandíbula conminuta"],
+            ["Verificación de oclusión", "Inmediata (se realiza primero)", "Diferida (tras la zona media)"],
+            ["Control de la proyección facial", "Menos directo", "Más directo"],
+            ["Nivel de evidencia", "Nivel III-IV (series de casos)", "Nivel III-IV (series de casos)"],
+            ["Abordaje híbrido", "La mayoría de centros — usan ambos según la anatomía", "Preferido por muchos centros europeos"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Prioridad de Secuenciación",
+          "content": "Cuando las fracturas condilares bilaterales acompañan a la lesión panfacial, ni la mandíbula ni los arcos proporcionan una referencia inicial fiable. Esta es la indicación más clara de planificación quirúrgica virtual (VSP) con implantes específicos del paciente (PSI) para establecer las dimensiones faciales antes de la cirugía."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — No Restaurar la Altura Vertical",
+          "content": "El error más frecuente en la reconstrucción panfacial es no restaurar la altura facial (dimensión vertical). Ocurre cuando la mandíbula se reduce correctamente pero el componente Le Fort no se reduce completamente en sentido inferior, o cuando la pérdida ósea mediofacial no se injerta de forma primaria. El resultado es una deformidad de 'mordida abierta' extremadamente difícil de corregir secundariamente. Confirme siempre la oclusión antes de liberar la FIM al finalizar la cirugía."
+        }
+      ]
+    },
+    {
+      "id": "E5-S4",
+      "title": "Planificación Quirúrgica Virtual (VSP) en las Fracturas Panfaciales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **planificación quirúrgica virtual (VSP)** hace referencia al uso de datos de TC de alta resolución, modelos digitales tridimensionales y tecnología de diseño y fabricación asistidos por ordenador (CAD/CAM) para planificar, simular y guiar la reconstrucción quirúrgica compleja. En las fracturas panfaciales, la VSP aborda el problema fundamental de la ausencia de puntos de referencia anatómica al permitir al cirujano reconstruir digitalmente el esqueleto facial prelesional y planificar la reparación antes de entrar al quirófano.\n\nEl flujo de trabajo de la VSP para las fracturas panfaciales incluye: (1) **Adquisición de datos DICOM** — TC de corte fino (≤1 mm de grosor) de todo el esqueleto facial, idealmente en las primeras 24–48 horas tras la lesión antes de que el edema distorsione la anatomía; (2) **Generación del modelo 3D** — la segmentación de la anatomía ósea produce modelos digitales de cada segmento fracturado; (3) **Reconstrucción por imagen especular** — la mitad contralateral no lesionada se refleja para reconstruir la anatomía prelesional; (4) **Reducción virtual** — los segmentos fracturados se reposicionan digitalmente en el objetivo reflejado; (5) **Diseño de implantes** — se diseñan implantes de titanio específicos del paciente (PSI) y guías de corte para lograr la reducción planificada; (6) **Producción de modelos físicos** — modelos de resina estereolitográficos para el ensayo quirúrgico y fabricación de PSI.\n\nLa base de evidencia para la VSP en las fracturas panfaciales es creciente. Olate et al. (Int J Oral Maxillofac Surg 2021) demostraron que la reparación guiada por VSP resultó en puntuaciones de simetría significativamente mejores y menor tiempo operatorio comparado con la reparación convencional en una serie controlada por casos de 48 fracturas panfaciales. La limitación es el tiempo de preparación: el diseño VSP y la fabricación de PSI requieren un mínimo de 48–72 horas, lo que es aceptable únicamente en la reparación definitiva diferida (la norma clínica en las lesiones panfaciales). En los pacientes con deterioro agudo que requieren reparación facial inmediata (infrecuente), la VSP no es factible.\n\n**Indicaciones de la VSP en las fracturas panfaciales** incluyen: fracturas condilares bilaterales con ausencia de referencia oclusal, conminución grave con pérdida ósea, casos de injerto óseo primario, reconstrucción secundaria (tardía) tras consolidación viciosa, y fines docentes/formativos. La VSP se considera cada vez más el estándar asistencial en los grandes centros de trauma para las lesiones panfaciales complejas."
+        },
+        {
+          "type": "table",
+          "title": "Flujo de Trabajo de la VSP para la Reconstrucción de Fracturas Panfaciales",
+          "headers": ["Paso", "Acción", "Tecnología", "Plazo"],
+          "rows": [
+            ["1", "Adquisición de TC de corte fino (≤1 mm)", "TC", "Días 0–2 (fase aguda)"],
+            ["2", "Segmentación DICOM, generación del modelo 3D", "Software Mimics, ProPlan CMF", "Días 2–3"],
+            ["3", "Reconstrucción por imagen especular de la anatomía prelesional", "Software CAD", "Días 3–4"],
+            ["4", "Reducción virtual y diseño de implantes", "Diseño CAD/CAM", "Días 4–5"],
+            ["5", "Fabricación de PSI (titanio) e impresión del modelo de resina", "Fresado CNC / impresión 3D", "Días 5–7"],
+            ["6", "Ensayo quirúrgico en el modelo de resina", "Modelo de resina", "Día previo a la cirugía"],
+            ["7", "Reparación definitiva guiada por PSI y guías de corte", "Quirófano", "Días 7–14"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Cuándo la VSP es Imprescindible",
+          "content": "La indicación más convincente de VSP en las fracturas panfaciales es la fractura condilar bilateral combinada con Le Fort III y fractura del hueso frontal — el patrón denominado 'desensamblaje craneofacial'. Aquí no existe ningún punto de referencia óseo fiable: la altura mandibular está perdida (fracturas condilares), la zona media está desprendida (Le Fort III) y la barra frontal también puede estar alterada. Sin VSP, las dimensiones faciales intraoperatorias deben estimarse, con resultados impredecibles."
+        }
+      ]
+    },
+    {
+      "id": "E5-S5",
+      "title": "Tratamiento Quirúrgico: Abordajes, Fijación e Injerto Óseo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La reparación de las fracturas panfaciales requiere múltiples abordajes quirúrgicos para acceder a los tres tercios faciales. El **abordaje coronal** proporciona acceso simultáneo a la barra frontal, los arcos cigomáticos (mediante disección subperióstica), los rebordes orbitarios y la región nasofrontal. Es la incisión de acceso más versátil en el traumatismo panfacial. Combinado con incisiones del párpado inferior (subciliar o transconjuntival), una incisión gingivolabial (para el acceso Le Fort I) y una incisión vestibular mandibular, prácticamente todo el esqueleto facial puede alcanzarse a través de cicatrices externas mínimas.\n\nLa selección del material de fijación en las fracturas panfaciales sigue el **principio AO de fijación estable**: cuando la conminución es grave y no puede restablecerse la continuidad ósea, se requieren placas de reconstrucción **portantes de carga** (placas de bloqueo de 2,0–2,4 mm para la mandíbula; sistemas de malla o placa de titanio de 1,5–2,0 mm para la zona media). La distinción crítica es:\n- **Compartida de carga**: la placa y el hueso comparten las fuerzas masticatorias — solo cuando se mantiene el contacto óseo en el foco de fractura\n- **Portante de carga**: la placa sola debe resistir todas las fuerzas masticatorias — cuando la conminución impide el contacto óseo\n\nPara las fracturas panfaciales con pérdida ósea, el **injerto óseo primario** con fuentes autólogas (cresta ilíaca para el volumen, calvarial de grosor dividido para los defectos planos del contorno, costilla para los defectos grandes) es preferible al injerto diferido. La serie de referencia de 1986 de Gruss y Mackinnon (Plast Reconstr Surg 1986) estableció el concepto de reconstrucción esquelética inmediata con injertos óseos como el estándar para las lesiones faciales complejas, demostrando tasas de procedimientos secundarios significativamente más bajas en comparación con el injerto diferido. Las series contemporáneas han confirmado estos hallazgos.\n\nEl componente de **reconstrucción orbitaria** de las fracturas panfaciales merece especial atención. Las fracturas bilaterales del suelo y la pared orbitaria son frecuentes, y la incapacidad para reconstruir con precisión el volumen orbitario conduce a enoftalmía tardía. Se utilizan malla de titanio, implantes orbitarios preformados o implantes específicos del paciente diseñados mediante VSP. El borde posterior del suelo orbitario íntegro posterior a la fractura (la zona del 'escalón' o 'keystone') sirve como punto de apoyo posterior para los implantes del suelo orbitario."
+        },
+        {
+          "type": "table",
+          "title": "Abordajes Quirúrgicos Utilizados en la Reparación de Fracturas Panfaciales",
+          "headers": ["Abordaje", "Acceso Proporcionado", "Estructuras en Riesgo"],
+          "rows": [
+            ["Coronal", "Barra frontal, arcos cigomáticos, rebordes orbitarios, región nasofrontal", "Nervio supraorbitario (V1), rama temporal NC VII, arteria temporal superficial"],
+            ["Párpado inferior (subciliar/transconjuntival)", "Suelo orbitario, reborde infraorbitario, contrafuerte CM", "Músculo oblicuo inferior, punto lagrimal (medial), ectropión del párpado inferior"],
+            ["Sulco gingivolabial", "Segmento Le Fort I, contrafuerte CM, apertura piriforme", "Nervio infraorbitario, ramas bucales NC VII"],
+            ["Vestibular mandibular", "Cuerpo mandibular, sínfisis, parasínfisis", "Nervio mentoniano (V3), rama marginal mandibular NC VII"],
+            ["Retromandibular / preauricular", "Cóndilo, rama, apófisis coronoides", "Rama bucal/marginal NC VII, conducto parotídeo, nervio auriculotemporal"],
+            ["Laceraciones existentes", "Acceso oportunista — considerar siempre", "Depende de la localización"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Portante vs Compartida de Carga",
+          "content": "En las fracturas panfaciales con conminución, la fijación portante de carga es obligatoria. Se utilizan una placa de reconstrucción de bloqueo de 2,4 mm para la mandíbula y malla de titanio para la reconstrucción orbitaria y mediofacial cuando no puede mantenerse la continuidad ósea. Aplicar placas compartidas de carga en segmentos conminutos produce fallo de la placa y consolidación viciosa."
+        }
+      ]
+    },
+    {
+      "id": "E5-S6",
+      "title": "Complicaciones de las Fracturas Panfaciales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas panfaciales presentan una tasa de complicaciones más alta que las fracturas faciales aisladas, lo que refleja la complejidad de la lesión, la frecuencia del politraumatismo y las exigencias técnicas de la reconstrucción. Las complicaciones pueden clasificarse en tempranas (perioperatorias e inmediatas postoperatorias), intermedias (semanas a meses) y tardías (meses a años).\n\n**Complicaciones tempranas** incluyen el compromiso de la vía aérea (la más inminentemente potencialmente mortal — las fracturas parasinfisarias bilaterales producen un fragmento en 'asa de cubo' con desplazamiento posterior de la lengua), hemorragia (epistaxis posterior por vasos esfenopalatinos o etmoidales; puede requerir embolización endovascular), rinorrea de LCR (desgarro dural en fracturas del techo frontal u orbitario) e infección de la herida. La mortalidad perioperatoria se atribuye con mayor frecuencia a la lesión intracraneal asociada o al politraumatismo que a las fracturas faciales en sí mismas.\n\n**Complicaciones intermedias** incluyen la maloclusión (el fracaso quirúrgico más frecuente — resultante de una reducción imprecisa o de un fallo precoz del material de osteosíntesis), parestesias del nervio infraorbitario y facial (iatrogénicas o traumáticas), exposición o infección de placas (especialmente en heridas contaminadas o mediante abordajes intraorales) y fallo de la fijación en hueso osteoporótico o conminuto.\n\n**Complicaciones tardías** incluyen la consolidación viciosa y la deformidad facial secundaria — las más difíciles de tratar. La **enoftalmía** debida a la expansión del volumen orbitario por paredes orbitarias inadecuadamente reconstruidas es la complicación orbitaria tardía más frecuente; es corregible mediante reconstrucción de la pared orbitaria, aunque técnicamente exigente una vez establecida la fibrosis. La **deformidad en silla de montar nasal** resulta de un soporte inadecuado de los huesos nasales o de la consolidación viciosa de la fractura NOE. La **retrusión mediofacial** ('deformidad en plato') resulta de la consolidación viciosa de la fractura Le Fort con desplazamiento posterior de toda la zona media, que requiere corrección secundaria basada en osteotomías (osteotomía Le Fort I). Puede ser necesaria la rehabilitación con implantes dentales cuando la pérdida ósea alveolar acompaña a la lesión panfacial."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones de las Fracturas Panfaciales por Cronología",
+          "headers": ["Momento", "Complicación", "Tratamiento"],
+          "rows": [
+            ["Inmediato", "Obstrucción de la vía aérea (asa de cubo)", "Tracción mandibular inmediata, cortaalambres, intubación o vía aérea quirúrgica"],
+            ["Inmediato", "Epistaxis posterior", "Taponamiento nasal posterior; embolización esfenopalatina si refractaria"],
+            ["Inmediato", "Rinorrea de LCR", "Conservador 7–10 días; drenaje lumbar si persiste; reparación neuroquirúrgica si >4 semanas"],
+            ["Posoperatorio precoz", "Maloclusión", "Reintervención precoz (<6 semanas); osteotomía si tardía (>6 meses)"],
+            ["Posoperatorio precoz", "Infección/exposición de placa", "Antibióticos; retirada de placa una vez consolidada la fractura"],
+            ["Tardío", "Enoftalmía", "Reconstrucción de la pared orbitaria (malla de titanio, PSI)"],
+            ["Tardío", "Retrusión mediofacial", "Osteotomía Le Fort I/II/III (corrección secundaria)"],
+            ["Tardío", "Deformidad nasal en silla de montar", "Reconstrucción septal + injerto dorsal"],
+            ["Tardío", "Anquilosis (ATM)", "Fisioterapia intensiva; artroplastia condilar o ATM total si grave"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Enoftalmía Tardía",
+          "content": "La enoftalmía a menudo solo se hace clínicamente evidente después de que el edema periorbitario se resuelve (4–6 semanas tras la lesión). Si las fracturas del suelo o de la pared medial orbitaria no se reparan en el momento de la reconstrucción panfacial, la enoftalmía tardía es frecuente. Un aumento del volumen orbitario >1 cm³ se asocia con enoftalmía clínicamente significativa. Los implantes orbitarios diseñados mediante VSP reducen este riesgo."
+        }
+      ]
+    },
+    {
+      "id": "E5-S7",
+      "title": "Evidencia sobre Resultados y el Papel de los Equipos Multidisciplinares",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La base de evidencia para el tratamiento de las fracturas panfaciales es predominantemente de nivel III–IV (series retrospectivas y estudios controlados por casos) debido a la rareza de estas lesiones y la imposibilidad ética de realizar ensayos aleatorizados en este contexto. La contribución de referencia de **Gruss y Mackinnon (Plast Reconstr Surg 1986)** estableció la reconstrucción esquelética primaria como el estándar frente a la reparación diferida por etapas, demostrando menos procedimientos secundarios y mejores resultados funcionales. **He et al. (J Oral Maxillofac Surg 2019)** compararon la secuenciación de abajo arriba frente a la de fuera adentro en una serie retrospectiva de 62 fracturas panfaciales, sin encontrar diferencias estadísticamente significativas en los resultados oclusales, pero con una tendencia hacia mejor proyección facial con la secuenciación de fuera adentro cuando los arcos cigomáticos estaban íntegros.\n\nLos resultados funcionales tras la reparación de las fracturas panfaciales son generalmente aceptables cuando equipos experimentados realizan una reparación oportuna y técnicamente precisa. Las series publicadas informan: oclusión satisfactoria en el 70–85% de los pacientes al año; algún grado de asimetría facial en el 30–50%; hipoestesia del nervio infraorbitario persistente al año en el 15–25%; y necesidad de procedimientos quirúrgicos secundarios en el 20–35% de los casos. Las medidas de resultado informadas por los pacientes (PROMs) — incluidas FACE-Q y OHIP-14 — complementan cada vez más las mediciones objetivas.\n\nEl tratamiento de las fracturas panfaciales requiere un abordaje de **equipo multidisciplinar (EMD)**: cirujanos orales y maxilofaciales, neurocirujanos (para las lesiones intracraneales y las fugas de LCR), oftalmólogos (para las lesiones oculares — presentes en hasta el 30%), cirujanos plásticos (para la reconstrucción compleja de partes blandas), anestesiólogos con experiencia en vía aérea e intensivistas. La comunicación oportuna entre las especialidades quirúrgicas en cuanto a la secuenciación (neurocirugía primero para las hemorragias intracraneales potencialmente mortales; reparación facial diferida hasta la estabilización) es fundamental para la seguridad del paciente. El concepto de cirugía de 'control de daños' — aplicar únicamente las medidas salvavidas en fase aguda con la reconstrucción definitiva diferida — está bien establecido en el tratamiento del traumatismo panfacial y está avalado por los principios del ATLS 10ª edición (ACS 2018)."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Momento de la Reparación Definitiva",
+          "content": "El momento óptimo para la reparación definitiva de las fracturas panfaciales es de 5–14 días tras la lesión (una vez que el paciente esté hemodinámicamente estable y el estado neurológico esté establecido), antes de que el edema significativo interfiera con los planos tisulares y antes de que la consolidación de la fractura haga imposible la reducción. Tras 2–3 semanas comienza la formación de callo precoz, lo que dificulta progresivamente la reducción anatómica. La reparación diferida más de 6 semanas entra en el ámbito de la reconstrucción secundaria, que requiere osteotomías."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tus conocimientos sobre el tratamiento de las fracturas panfaciales con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "E5-Q1",
+        "stem": "Las fracturas panfaciales representan aproximadamente qué proporción de todas las fracturas faciales?",
+        "options": {
+          "A": "10–15%",
+          "B": "3–5%",
+          "C": "20–25%",
+          "D": "Menos del 1%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las fracturas panfaciales representan aproximadamente el 3–5% de todas las fracturas faciales según los datos de EACMFS 2023. A pesar de su relativa rareza, representan el reto reconstructivo más complejo en la cirugía del traumatismo facial, acumulando una proporción desproporcionada de la complejidad operatoria y los procedimientos secundarios.",
+          "wrong": {
+            "A": "El 10–15% sobreestima la incidencia. Las fracturas panfaciales requieren la afectación simultánea de los tres tercios faciales, lo que limita su frecuencia.",
+            "C": "El 20–25% es muy elevado. Esta cifra podría aplicarse a las fracturas combinadas mediofaciales y mandibulares de forma más amplia.",
+            "D": "Menos del 1% subestima — las fracturas panfaciales son infrecuentes pero no tan raras, especialmente en los centros de trauma de alta energía."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Sección sobre epidemiología de las fracturas panfaciales",
+          "trial": "He D et al. J Oral Maxillofac Surg (2019): serie retrospectiva de 62 fracturas panfaciales en 10 años en un gran centro de trauma, compatible con una prevalencia del 3–5% en la cohorte de traumatismo facial.",
+          "pearl": "Fracturas panfaciales = 3–5% de las fracturas faciales pero representan el subconjunto más complejo. Mecanismo de alta energía (accidente de tráfico 50–70%) con lesión intracraneal asociada en el 40–60%.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "E5-Q2",
+        "stem": "Un varón de 28 años es trasladado al servicio de urgencias tras un accidente de tráfico a alta velocidad. La TC muestra fracturas condilares bilaterales, fractura Le Fort III y fractura conminuta de la barra frontal. El GCS es 14. ¿Qué abordaje de manejo inicial de la vía aérea está CONTRAINDICADO?",
+        "options": {
+          "A": "Intubación orotraqueal bajo laringoscopia directa",
+          "B": "Intubación nasotraqueal",
+          "C": "Vía aérea quirúrgica (cricotiroidotomía)",
+          "D": "Inducción de secuencia rápida con videolaringoscopia"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La intubación nasotraqueal está contraindicada en el contexto de las fracturas Le Fort y las fracturas de la barra frontal porque el paso nasal comunica con el esqueleto mediofacial fracturado y potencialmente con la base craneal. Existe el riesgo de que el tubo nasotraqueal atraviese una fractura de la lámina cribosa o de la base del cráneo frontal y penetre en la bóveda craneal — una complicación catastrófica. El ATLS 10ª edición (ACS 2018) contraindica explícitamente la intubación nasotraqueal en las fracturas mediofaciales.",
+          "wrong": {
+            "A": "La intubación orotraqueal es la vía preferida para el manejo de la vía aérea en las fracturas mediofaciales. Evita los riesgos asociados al paso nasal.",
+            "C": "La vía aérea quirúrgica es apropiada cuando no se puede asegurar la vía aérea superior por ninguna técnica oral — es una opción de rescate.",
+            "D": "La videolaringoscopia con abordaje orotraqueal es totalmente adecuada y preferida en la vía aérea de difícil acceso anticipada."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — Capítulo 11: Manejo de la vía aérea en fracturas faciales",
+          "trial": "Gruss JS & Mackinnon SE. Plast Reconstr Surg (1986): serie seminal que documenta los peligros de la intubación nasotraqueal en fracturas mediofaciales complejas — este principio fundamenta los protocolos actuales del ATLS.",
+          "pearl": "LA INTUBACIÓN NASOTRAQUEAL ESTÁ CONTRAINDICADA en TODAS las fracturas Le Fort y en las fracturas de la base craneal frontal. La intubación orotraqueal o la vía aérea quirúrgica son los abordajes correctos.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "E5-Q3",
+        "stem": "¿Cuál de las siguientes opciones describe mejor el abordaje de secuenciación 'de fuera adentro' en la reparación de las fracturas panfaciales?",
+        "options": {
+          "A": "Comenzar con la reconstrucción mandibular para establecer la altura facial vertical, luego avanzar superiormente",
+          "B": "Comenzar con los arcos cigomáticos y la barra frontal para establecer el marco óseo exterior, luego reconstruir centralmente hacia la oclusión",
+          "C": "Comenzar con la reconstrucción del suelo orbitario para establecer el soporte orbitario posterior, luego abordar los patrones Le Fort",
+          "D": "Comenzar con la reconstrucción del arco dentario y la colocación de implantes, luego abordar el esqueleto"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La secuenciación de fuera adentro (Gruss) comienza con el marco facial externo — los arcos cigomáticos y la barra frontal — para restablecer la envolvente ósea exterior tridimensional. Este abordaje utiliza los arcos y la barra frontal como estructuras de referencia fiables que definen la anchura y la proyección facial. Una vez estabilizado el marco exterior, el esqueleto central (patrones Le Fort mediofaciales, órbitas) se reconstruye hacia el interior, y finalmente se establece la oclusión mandibular.",
+          "wrong": {
+            "A": "Esto describe el abordaje de secuenciación de abajo arriba (Manson), no de fuera adentro. El de abajo arriba comienza con la oclusión mandibular.",
+            "C": "La reconstrucción del suelo orbitario es parte de la secuencia de reconstrucción mediofacial, no el punto de partida del abordaje de fuera adentro.",
+            "D": "La colocación de implantes dentales es un procedimiento de rehabilitación secundaria que se realiza meses después de la reconstrucción esquelética — no forma parte de la secuencia de reparación aguda."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Sección sobre secuenciación de la reconstrucción",
+          "trial": "Gruss JS & Mackinnon SE. Plast Reconstr Surg (1986): descripción original de la secuenciación de fuera adentro demostrando una mejor restauración de la proyección facial cuando los arcos cigomáticos se utilizan como puntos de referencia primarios.",
+          "pearl": "Fuera adentro = comenzar con arcos y barra frontal (marco exterior); dentro afuera = comenzar con la oclusión (mandíbula). Los abordajes híbridos se utilizan en la mayoría de los centros dependiendo de qué estructuras están íntegras.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q4",
+        "stem": "Una mujer de 35 años sufre una fractura panfacial con fracturas condilares bilaterales, fractura Le Fort II y fracturas ZMC bilaterales en un accidente de tráfico. El equipo quirúrgico planifica la reparación en el día 7. ¿Cuál es la indicación más convincente de planificación quirúrgica virtual (VSP) en este caso?",
+        "options": {
+          "A": "Presencia de fracturas ZMC bilaterales",
+          "B": "Patrón de fractura Le Fort II",
+          "C": "Fracturas condilares bilaterales que eliminan la referencia vertical mandibular",
+          "D": "Demora de 7 días desde la lesión"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Las fracturas condilares bilaterales son la indicación más importante de VSP en las fracturas panfaciales porque eliminan la referencia de la altura vertical mandibular — el punto de partida para la secuenciación de abajo arriba. Con fracturas condilares bilaterales, la mandíbula no puede servir como referencia fiable para la altura facial, y todo el marco facial carece de un estándar de referencia. La VSP utiliza la imagen especular de la anatomía prelesional e implantes específicos del paciente para proporcionar la referencia dimensional que la anatomía física no puede aportar.",
+          "wrong": {
+            "A": "Las fracturas ZMC bilaterales son complejas pero manejables con técnicas convencionales utilizando las referencias del arco y la barra frontal íntegros — la VSP es útil pero no está específicamente indicada.",
+            "B": "Las fracturas Le Fort II se tratan habitualmente con fijación convencional; la VSP no está específicamente indicada solo por este patrón.",
+            "D": "Un retraso de 7 días está dentro de la ventana óptima para la reparación definitiva y no indica por sí solo la VSP."
+          },
+          "guideline": "IASSCMF Consensus 2022 — Indicaciones de la planificación quirúrgica virtual en las fracturas faciales",
+          "trial": "Olate S et al. Int J Oral Maxillofac Surg (2021): la reparación guiada por VSP de 48 fracturas panfaciales demostró puntuaciones de simetría significativamente mejores y menor tiempo operatorio; las fracturas condilares bilaterales fueron el predictor más sólido del beneficio de la VSP.",
+          "pearl": "Fracturas condilares bilaterales + lesión panfacial = indicación más sólida de VSP. Sin referencia de la altura mandibular, la planificación preoperatoria guiada por ordenador proporciona el único marco dimensional fiable.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q5",
+        "stem": "¿Cuál de las siguientes es la complicación tardía MÁS FRECUENTE que requiere corrección quirúrgica secundaria tras la reparación de una fractura panfacial?",
+        "options": {
+          "A": "Hipoestesia del nervio infraorbitario",
+          "B": "Paresia facial",
+          "C": "Maloclusión y deformidad facial",
+          "D": "Hundimiento temporal por atrofia del músculo temporal"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La maloclusión y la deformidad facial que requieren corrección quirúrgica secundaria son las complicaciones más frecuentes de la reparación de las fracturas panfaciales que precisan intervención operatoria. Las series publicadas informan una tasa de procedimientos secundarios del 20–35% en las fracturas panfaciales. Las causas incluyen una reducción inicial imprecisa, fallo del material de osteosíntesis en segmentos conminutos y reabsorción ósea. El tratamiento secundario oscila desde el ajuste oclusal y la ortodoncia hasta las osteotomías Le Fort y la cirugía ortognática.",
+          "wrong": {
+            "A": "La hipoestesia del nervio infraorbitario es frecuente (15–25% al año) pero habitualmente se resuelve sin intervención y no suele requerir cirugía secundaria.",
+            "B": "La paresia facial es infrecuente tras la reparación panfacial a menos que se haya utilizado el abordaje condilar y la mayoría de los casos se resuelven espontáneamente.",
+            "D": "El hundimiento temporal por atrofia del temporal puede producirse tras un abordaje coronal extenso pero se trata habitualmente con injerto de grasa — no es la preocupación primaria más frecuente."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Sección de resultados y complicaciones",
+          "trial": "He D et al. J Oral Maxillofac Surg (2019): serie de 62 pacientes con tasa de procedimientos secundarios del 28% a los 2 años, con maloclusión y asimetría facial como las dos indicaciones más frecuentes.",
+          "pearl": "Tasa de procedimientos secundarios en fracturas panfaciales = 20–35%. La maloclusión es la indicación más frecuente. La prevención requiere una verificación oclusal intraoperatoria precisa antes de liberar la FIM.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q6",
+        "stem": "Un paciente traumatizado tiene una fractura panfacial con un gran defecto óseo del contrafuerte cigomaticomaxilar izquierdo. El cirujano decide colocar injerto óseo primario en el momento de la reconstrucción inicial en lugar de esperar. ¿Cuál es el sitio donante más adecuado para un injerto cortical curvo de volumen moderado para la reconstrucción del contrafuerte?",
+        "options": {
+          "A": "Meseta tibial",
+          "B": "Cresta ilíaca",
+          "C": "Injerto óseo calvarial de grosor dividido",
+          "D": "Costilla"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La cresta ilíaca es el sitio donante preferido para la reconstrucción de contrafuertes de volumen moderado porque proporciona hueso cortical y esponjoso en cantidad suficiente para la reconstrucción del contrafuerte mediofacial. La cresta ilíaca anterior proporciona un bloque corticoesponjoso naturalmente curvado que puede moldearse para reconstruir el contrafuerte CM. La serie de 1986 de Gruss y Mackinnon estableció el injerto de cresta ilíaca como el estándar para la reconstrucción primaria de los contrafuertes faciales en las lesiones faciales complejas.",
+          "wrong": {
+            "A": "La meseta tibial (tibia proximal) proporciona principalmente hueso esponjoso — adecuado para la obliteración sinusal pero no para la reconstrucción estructural de contrafuertes que requiere resistencia cortical.",
+            "C": "Los injertos calvarianos de grosor dividido son ideales para los defectos planos del contorno (frente, pared orbitaria) pero no proporcionan el volumen curvado necesario para la reconstrucción de contrafuertes.",
+            "D": "La costilla es adecuada para los defectos grandes y curvados (reconstrucción mandibular) pero la morbilidad de la cosecha es mayor y se utiliza con menor frecuencia para la reconstrucción aislada de contrafuertes."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Sección de injerto óseo; Principios AO OMFS",
+          "trial": "Gruss JS & Mackinnon SE. Plast Reconstr Surg (1986): cresta ilíaca como donante primario para el injerto de contrafuertes faciales en 118 fracturas faciales complejas — estableció este como el estándar clínico.",
+          "pearl": "Correspondencia del sitio donante: reconstrucción del contrafuerte = cresta ilíaca (volumen + curvatura); paredes orbitarias = calvarial dividido o malla de titanio; defectos del hueso frontal = calvarial dividido; obliteración = grasa autóloga.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q7",
+        "stem": "La deformidad en 'asa de cubo' en las fracturas panfaciales se refiere específicamente a:",
+        "options": {
+          "A": "Fracturas bilaterales del arco cigomático que causan ensanchamiento facial lateral",
+          "B": "Fracturas mandibulares parasinfisarias bilaterales con desplazamiento posterior del segmento sinfisario y la lengua",
+          "C": "Fracturas orbitarias bilaterales en blow-out con herniación inferior del contenido orbitario",
+          "D": "Fractura Le Fort III con desplazamiento posterior de toda la zona media"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La deformidad en 'asa de cubo' se refiere a las fracturas mandibulares parasinfisarias (o del cuerpo) bilaterales que producen un fragmento mandibular central que contiene la sínfisis y los dientes anteriores mandibulares. El fragmento anterior pierde sus inserciones óseas bilateralmente y, traccionado por los músculos suprahioideos y el geniogloso, se desplaza posterior e inferiormente, arrastrando consigo la base de la lengua. Esto produce una obstrucción potencialmente mortal de la vía aérea por desplazamiento posterior de la lengua. El manejo de urgencia requiere tracción mandibular o tracción anterior sobre el fragmento mandibular para restaurar la vía aérea.",
+          "wrong": {
+            "A": "Las fracturas bilaterales del arco cigomático causan ensanchamiento facial lateral (trismo por impactación del arco sobre la apófisis coronoides) pero no obstrucción de la vía aérea — esto no es la deformidad en 'asa de cubo'.",
+            "C": "Los blow-outs orbitarios bilaterales constituyen su propio patrón de complicación — no se describen como 'asa de cubo'.",
+            "D": "El desplazamiento Le Fort III produce retrusión mediofacial pero el riesgo de vía aérea es diferente (obstrucción nasofaríngea) — no es el 'asa de cubo'."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — Capítulo de vía aérea: conocimiento obligatorio para la certificación en trauma",
+          "trial": "Fonseca RJ et al. Oral and Maxillofacial Trauma 4ª ed (2013): descripción clínica del manejo de la vía aérea en la fractura parasinfisaria bilateral — el patrón en 'asa de cubo' es un punto de enseñanza clásico en OMFS con morbilidad documentada.",
+          "pearl": "ASA DE CUBO = fractura parasinfisaria bilateral → desplazamiento posterior de la lengua → obstrucción de la vía aérea. Manejo: tracción mandibular + tracción del fragmento anterior. Los cortaalambres deben estar siempre en la cabecera del paciente con FIM.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "E5-Q8",
+        "stem": "La planificación quirúrgica virtual (VSP) para la reparación de fracturas panfaciales requiere un grosor de corte mínimo de TC de:",
+        "options": {
+          "A": "5 mm",
+          "B": "3 mm",
+          "C": "1 mm o menos",
+          "D": "0,1 mm (micro-TC)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La VSP requiere TC de corte fino con grosor de corte ≤1 mm para permitir la segmentación precisa de los fragmentos óseos individuales, la generación de modelos 3D de alta resolución y la reconstrucción fiable por imagen especular. Los grosores de corte de 3–5 mm producen artefactos en 'escalera' en la reconstrucción 3D que degradan la precisión de la segmentación y comprometen la precisión del diseño de los implantes. La mayoría de los protocolos modernos de TC para el traumatismo facial deben utilizar cortes axiales ≤1 mm (0,625 mm es estándar en los TC multidetector modernos).",
+          "wrong": {
+            "A": "Un TC de corte de 5 mm es inadecuado para la reconstrucción 3D — produce artefactos en escalera significativos y no puede segmentar con precisión los fragmentos de fractura individuales.",
+            "B": "Los cortes de 3 mm producen modelos 3D con menor precisión y son subóptimos para la VSP, aunque pueden utilizarse en situaciones urgentes en las que solo se dispone de imágenes de menor resolución.",
+            "D": "La micro-TC (0,1 mm) es una herramienta de investigación y ex vivo — no se utiliza clínicamente para la imagen in vivo de las fracturas panfaciales."
+          },
+          "guideline": "IASSCMF Consensus 2022 — Estándares de imagen VSP para las fracturas faciales complejas",
+          "trial": "Olate S et al. Int J Oral Maxillofac Surg (2021): todos los casos de VSP utilizaron el protocolo de TC ≤1 mm; la comparación con la reparación convencional utilizó la misma resolución de TC para una evaluación justa.",
+          "pearl": "La VSP requiere TC de corte ≤1 mm. Se adquiere en las primeras 24–48 horas tras la lesión (antes de que el edema distorsione significativamente la anatomía). El TC de corte fino es el estándar asistencial para las fracturas faciales complejas en los grandes centros de trauma.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "E5-Q9",
+        "stem": "Un varón de 42 años se presenta 8 semanas después de la reparación de una fractura panfacial con enoftalmía bilateral progresiva (3 mm) y diplopía en la supraversión. La reparación inicial abordó fracturas Le Fort II, ZMC bilaterales y mandibulares. ¿Qué estructura fue más probablemente reconstruida de forma inadecuada en la cirugía inicial?",
+        "options": {
+          "A": "Barra frontal",
+          "B": "Contrafuerte nasomaxilar",
+          "C": "Suelo orbitario y/o pared orbitaria medial",
+          "D": "Arco cigomático"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La enoftalmía progresiva y la diplopía en supraversión indican una reconstrucción inadecuada del suelo orbitario y/o de la pared orbitaria medial, lo que conduce a un aumento del volumen orbitario. Cuando las fracturas del suelo orbitario no se reparan o se reparan de forma incompleta, la grasa orbitaria herniada sufre fibrosis progresiva y es reemplazada por espacio muerto, aumentando el volumen orbitario. Cada aumento de 1 cm³ en el volumen orbitario produce aproximadamente 0,8–1,0 mm de enoftalmía. La diplopía en supraversión indica atrapamiento del músculo recto inferior o del oblicuo inferior en el foco de fractura.",
+          "wrong": {
+            "A": "La malposición de la barra frontal produce deformidad del contorno frontal y, si es grave, asimetría del reborde orbitario superior — pero no enoftalmía.",
+            "B": "La insuficiencia del contrafuerte nasomaxilar produce pérdida de la altura facial vertical e hipoplasia mediofacial — no enoftalmía aislada.",
+            "D": "La insuficiencia del arco cigomático produce aplanamiento facial y trismo por impactación de la apófisis coronoides — no enoftalmía."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Resultados de la reconstrucción orbitaria; recomendación de evaluación del volumen orbitario con TC en todas las reparaciones de fracturas mediofaciales",
+          "trial": "Manson PN et al. Oral Maxillofac Surg Clin North Am (2013): revisión de 380 fracturas panfaciales — enoftalmía tardía en el 18% de los casos en que el suelo orbitario no se reconstruyó de forma primaria frente al 4% cuando se realizó la reconstrucción primaria.",
+          "pearl": "Enoftalmía tardía = aumento del volumen orbitario por fracturas no reparadas del suelo/pared orbitaria. Regla: aumento del volumen orbitario >1 cm³ = enoftalmía clínicamente significativa. Tratamiento: reconstrucción de la pared orbitaria (malla de titanio o PSI).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q10",
+        "stem": "Según los principios del ATLS, un paciente con fracturas panfaciales y GCS 9, hematoma epidural activo en la TC y constantes vitales hemodinámicamente estables debe tener las fracturas faciales abordadas:",
+        "options": {
+          "A": "Simultáneamente con la evacuación neuroquirúrgica del hematoma",
+          "B": "En las 24 horas siguientes a la evacuación neuroquirúrgica, para prevenir la formación precoz de callo",
+          "C": "Tras la evacuación neuroquirúrgica y la estabilización neurológica, típicamente 5–14 días después de la lesión",
+          "D": "Como reparación definitiva a las 6 semanas, una vez establecida la recuperación neurológica completa"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El principio de control de daños en el traumatismo panfacial exige que las afecciones potencialmente mortales se aborden en primer lugar. Un hematoma epidural activo (GCS 9, en deterioro) requiere evacuación neuroquirúrgica urgente — la reparación de las fracturas faciales debe diferirse. Una vez que el paciente está neurológicamente estable, la ventana óptima para la reconstrucción facial definitiva es de 5–14 días tras la lesión: lo suficientemente pronto para reducir antes de que comience la consolidación, pero lo suficientemente tarde para que el paciente esté fisiológicamente estable y el edema se haya resuelto parcialmente. El ATLS 10ª edición establece explícitamente que la reparación facial definitiva se difiere hasta después de manejar las lesiones potencialmente mortales.",
+          "wrong": {
+            "A": "La reconstrucción neuroquirúrgica y facial simultánea rara vez es factible y arriesga un tiempo anestésico inaceptable cuando el paciente está neurológicamente comprometido — el ATLS contraindica este abordaje.",
+            "B": "24 horas después de la evacuación neuroquirúrgica es demasiado pronto cuando el paciente tiene GCS 9 — la estabilidad neurológica aún no está establecida y el paciente puede deteriorarse.",
+            "D": "6 semanas es demasiado tarde — en este momento, la formación de callo precoz ha hecho imposible la reducción anatómica sin osteotomía. La ventana óptima es de 5–14 días."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — Principios de cirugía de control de daños; priorización de lesiones potencialmente mortales sobre los procedimientos reconstructivos",
+          "trial": "He D et al. J Oral Maxillofac Surg (2019): la reparación a los 5–14 días produjo mejores resultados anatómicos estadísticamente que la reparación a >21 días en una serie de 62 fracturas panfaciales.",
+          "pearl": "Momento de la reparación panfacial: primero la estabilización neurológica; luego la ventana óptima = 5–14 días. Después de 3 semanas = formación de callo = reducción difícil. Después de 6 semanas = reconstrucción secundaria (se requieren osteotomías).",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q11",
+        "stem": "¿Qué contrafuerte facial horizontal proporciona el soporte primario para la zona media y el contenido orbitario en la proyección anteroposterior?",
+        "options": {
+          "A": "Barra frontal",
+          "B": "Arco cigomático",
+          "C": "Reborde infraorbitario",
+          "D": "Proceso alveolar"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El reborde infraorbitario (que conecta los pilares nasomaxilar y cigomaticomaxilar) es el contrafuerte horizontal primario que soporta el suelo orbitario y proporciona proyección anteroposterior a la zona media. Su alteración en las fracturas Le Fort II y ZMC permite el desplazamiento posterior e inferior de la zona media. La reconstrucción precisa del reborde infraorbitario restaura el volumen orbitario, la proyección mediofacial y la referencia anatómica para la reconstrucción del suelo orbitario.",
+          "wrong": {
+            "A": "La barra frontal (rebordes supraorbitarios + glabela) es el contrafuerte horizontal superior que proporciona soporte estructural a la cara superior — importante, pero es el reborde infraorbitario el que soporta la zona media específicamente.",
+            "B": "El arco cigomático es un contrafuerte horizontal que define la anchura facial y la proyección de la eminencia malar — importante pero no soporta directamente el suelo orbitario.",
+            "D": "El proceso alveolar soporta la dentición y forma parte de la anatomía Le Fort I — no soporta directamente el contenido orbitario."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Anatomía de los contrafuertes y principios de reconstrucción",
+          "trial": "Gruss JS & Mackinnon SE. Plast Reconstr Surg (1986): análisis anatómico del sistema de contrafuertes faciales, estableciendo la reconstrucción del reborde infraorbitario como un paso crítico en la reparación mediofacial compleja.",
+          "pearl": "Reborde infraorbitario = contrafuerte horizontal mediofacial primario. Su reconstrucción determina la proyección mediofacial y el volumen orbitario. Siempre fijar el reborde infraorbitario antes de la reconstrucción del suelo orbitario en las reparaciones ZMC y Le Fort II.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q12",
+        "stem": "Un paciente requiere vía aérea quirúrgica urgente tras una fractura panfacial. El GCS es 6 y el anestesiólogo ha contraindicado la intubación nasotraqueal. La vía aérea quirúrgica de urgencia preferida en este contexto es:",
+        "options": {
+          "A": "Traqueostomía",
+          "B": "Cricotiroidotomía",
+          "C": "Intubación retromolar",
+          "D": "Intubación submentoniana"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La cricotiroidotomía es la vía aérea quirúrgica de urgencia recomendada por el ATLS cuando la intubación orotraqueal falla o no es factible. Puede realizarse en menos de 2 minutos con la técnica bisturí-bougie-tubo, es accesible bajo el mentón sin manipular el esqueleto facial fracturado y requiere material mínimo. La traqueostomía es más definitiva pero tarda 5–10 minutos y no es un procedimiento de urgencia. El ATLS 10ª edición designa específicamente la cricotiroidotomía como la vía aérea quirúrgica de urgencia primaria.",
+          "wrong": {
+            "A": "La traqueostomía no es un procedimiento de vía aérea de urgencia — tarda 5–10 minutos, requiere más material y experiencia, y está reservada para el establecimiento electivo o semielectivo de la vía aérea quirúrgica. Puede convertirse desde una cricotiroidotomía en las primeras 24–72 horas si se requiere acceso prolongado a la vía aérea.",
+            "C": "La intubación retromolar es una técnica de acceso a la tráquea por el espacio retromolar (utilizada en cirugía ortognática) — no es un procedimiento de vía aérea de urgencia.",
+            "D": "La intubación submentoniana es una técnica electiva utilizada en cirugía maxilofacial para permitir la comprobación oclusal intraoperatoria — no es una vía aérea de urgencia."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — Algoritmo de vía aérea quirúrgica: cricotiroidotomía como vía aérea de urgencia definitiva",
+          "trial": "ATLS 10ª Edición, datos de adquisición de habilidades aleatorizada: cricotiroidotomía con bisturí-bougie realizable en <2 min por operadores entrenados, frente a >5 min para la traqueostomía — apoya la cricotiroidotomía como vía aérea quirúrgica de urgencia de primera línea.",
+          "pearl": "Vía aérea quirúrgica de urgencia = CRICOTIROIDOTOMÍA (técnica bisturí-bougie, <2 minutos). Traqueostomía = electiva/semielectiva. Intubación submentoniana = técnica electiva OMFS para acceso oclusal intraoperatorio.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "E5-Q13",
+        "stem": "En la técnica de imagen especular utilizada durante la planificación quirúrgica virtual para las fracturas panfaciales, ¿qué lado se utiliza como plantilla para la reconstrucción digital 3D de la anatomía prelesional?",
+        "options": {
+          "A": "El lado más gravemente fracturado, ya que muestra el mayor desplazamiento y permite la identificación precisa de los fragmentos",
+          "B": "El lado contralateral (no lesionado), reflejado para reconstruir el lado lesionado",
+          "C": "Una plantilla facial media poblacional ajustada por edad y sexo",
+          "D": "La anatomía ósea intracraneal, utilizada para extrapolar las dimensiones faciales"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La técnica de imagen especular utiliza la mitad facial contralateral no lesionada como plantilla, que luego se refleja digitalmente para reconstruir la anatomía prelesional del lado lesionado. Esto asume la simetría facial (una aproximación válida en los pacientes traumatizados sin asimetría facial preexistente) y proporciona un modelo digital preciso de cómo debería verse el lado lesionado tras la reparación. La anatomía reflejada sirve entonces como objetivo para la reducción virtual de la fractura y el diseño de implantes específicos del paciente.",
+          "wrong": {
+            "A": "El lado más gravemente fracturado proporciona la información anatómica menos fiable — está maximalmente distorsionado y no puede servir como plantilla de reconstrucción.",
+            "C": "Existen plantillas de anatomía media poblacional para la anatomía comparativa, pero son menos precisas que la imagen especular específica del paciente para la reconstrucción facial individual — no tienen en cuenta la variación anatómica individual.",
+            "D": "La anatomía ósea intracraneal puede usarse como referencia para los puntos de referencia de la base craneal, pero no puede extrapolar con precisión las dimensiones faciales externas."
+          },
+          "guideline": "IASSCMF Consensus 2022 — Metodología de la planificación quirúrgica virtual: imagen especular como técnica estándar",
+          "trial": "Olate S et al. Int J Oral Maxillofac Surg (2021): la VSP por imagen especular produjo un error medio de simetría facial de 1,2 mm frente a 3,8 mm en el grupo de reparación convencional — mejora estadísticamente significativa (p<0,01).",
+          "pearl": "Imagen especular de la VSP: el lado NO LESIONADO se refleja para reconstruir la anatomía prelesional del lado lesionado. Requiere la simetría facial como supuesto — anotar cualquier asimetría preexistente en las notas de planificación.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q14",
+        "stem": "Un trabajador de la construcción de 55 años sufrió una fractura panfacial con barra frontal conminuta, Le Fort III bilateral y fracturas condilares bilaterales. En el postoperatorio, desarrolla líquido claro por la fosa nasal derecha que es positivo para beta-2 transferrina. La TC no muestra colección intracraneal. El tratamiento inicial debe ser:",
+        "options": {
+          "A": "Reparación neuroquirúrgica inmediata del defecto dural",
+          "B": "Cefotaxima intravenosa profiláctica durante 14 días",
+          "C": "Tratamiento conservador (reposo en cama, elevación de la cabecera, evitar la maniobra de Valsalva) durante 7–10 días",
+          "D": "Inyección intratecal de fluoresceína seguida de reparación endoscópica"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La gran mayoría (aproximadamente el 80%) de las rinorreas de LCR posttraumáticas se resuelven espontáneamente en 7–10 días con tratamiento conservador: reposo estricto en cama, elevación de la cabecera a 30–45 grados, evitar el esfuerzo o las maniobras de Valsalva (no sonarse la nariz) y seguimiento estrecho para detectar signos de meningitis. Los antibióticos profilácticos NO están recomendados por NICE ni por el metaanálisis Cochrane (2015) para las fugas de LCR, ya que no ha demostrado reducir el riesgo de meningitis y aumenta la resistencia antimicrobiana. La reparación quirúrgica está indicada únicamente si la fuga persiste más allá de 7–10 días o recurre tras la resolución inicial.",
+          "wrong": {
+            "A": "La reparación neuroquirúrgica inmediata es prematura — el 80% se resuelve de forma conservadora. La reparación quirúrgica está reservada para las fugas persistentes (>7–10 días) o recurrentes.",
+            "B": "Los antibióticos profilácticos para la rinorrea de LCR NO están recomendados explícitamente por NICE (CG176) y el metaanálisis Cochrane (2015): sin reducción de la meningitis, mayor riesgo de resistencia.",
+            "D": "La fluoresceína intratecal + reparación endoscópica se utiliza para las fugas persistentes o confirmadas quirúrgicamente — no es el tratamiento inicial de una nueva fuga posttraumática."
+          },
+          "guideline": "NICE CG176 (Head Injury 2014, actualizado 2023) — Manejo de la fuga de LCR: tratamiento conservador primero; sin antibióticos profilácticos. Revisión Cochrane 2015: la profilaxis antibiótica para la rinorrea de LCR no está avalada.",
+          "trial": "Cochrane Database Syst Rev (2015): metaanálisis de 5 ECA — la profilaxis antibiótica para la fístula de LCR no mostró reducción del riesgo de meningitis (RR 0,98, IC 95% 0,48–2,01) y no está recomendada.",
+          "pearl": "Manejo de la rinorrea de LCR: el 80% se resuelve de forma conservadora en 7–10 días. SIN antibióticos profilácticos (NICE + Cochrane 2015). Fuga persistente = drenaje lumbar; >4 semanas = reparación quirúrgica. Beta-2 transferrina = test de referencia.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "E5-Q15",
+        "stem": "Durante la reparación de una fractura panfacial mediante un abordaje coronal, ¿qué nervio corre mayor riesgo de lesión durante la disección temporal lateral?",
+        "options": {
+          "A": "Nervio auriculotemporal (rama V3)",
+          "B": "Rama temporal del nervio facial (NC VII)",
+          "C": "Nervio cigomaticotemporal (rama V2)",
+          "D": "Nervio auricular mayor (C2-C3)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La rama temporal del nervio facial (NC VII) es el nervio más importante en riesgo durante la disección temporal lateral del abordaje coronal. La rama temporal discurre dentro de la fascia temporoparietal (fascia temporal superficial) lateral a la fascia temporal profunda. El plano de disección seguro está inmediatamente superficial a la fascia temporal profunda (es decir, en el plano subgaleal por encima de la fascia temporal profunda). Incidir demasiado profundo en la región temporal (en el plano de la fascia temporal profunda) arriesga seccionar la rama temporal, que inerva el frontal, el corrugador y el orbicular del ojo superior — produciendo ptosis del párpado superior ipsilateral e incapacidad para elevar la ceja.",
+          "wrong": {
+            "A": "El nervio auriculotemporal discurre por debajo del arco cigomático y está en riesgo durante las incisiones preauriculares y los abordajes retromandibulares — no durante la disección temporal primaria.",
+            "C": "El nervio cigomaticotemporal es un nervio sensitivo de pequeño tamaño que puede encontrarse durante la disección temporal, pero su lesión produce solo una pérdida sensitiva menor — no es la preocupación crítica.",
+            "D": "El nervio auricular mayor (C2-C3) discurre sobre el esternocleidomastoideo y es relevante para la disección cervical — no para la disección temporal del abordaje coronal."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Abordajes quirúrgicos: anatomía de la incisión coronal y preservación nerviosa",
+          "trial": "Gruss JS & Mackinnon SE. Plast Reconstr Surg (1986): descripción anatómica del abordaje coronal identificando la rama temporal del NC VII como la estructura crítica en la disección temporal lateral — enseñanza estándar en toda la formación posterior de OMFS.",
+          "pearl": "Disección temporal del abordaje coronal: mantenerse SUPERFICIAL a la fascia temporal profunda (en el plano subgaleal) para proteger la rama temporal del NC VII. Transición al plano subperióstico al nivel del arco cigomático.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q16",
+        "stem": "En un paciente con fractura panfacial grave que afecta al seno frontal, Le Fort III y fracturas mandibulares, se planifica una reparación. Intraoperatoriamente, se comprueba que los arcos cigomáticos están íntegros y no desplazados. ¿Qué estrategia de secuenciación apoya más firmemente este hallazgo?",
+        "options": {
+          "A": "De abajo arriba (Manson): comenzar con la oclusión mandibular",
+          "B": "De fuera adentro (Gruss): comenzar con los arcos cigomáticos íntegros como referencia del marco exterior",
+          "C": "Secuencia de planificación virtual: esperar a los PSI antes de continuar",
+          "D": "Central (orbitario) primero: comenzar con la reconstrucción del suelo orbitario"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los arcos cigomáticos íntegros son el hallazgo intraoperatorio más importante que favorece el abordaje de secuenciación de fuera adentro (Gruss). Los arcos íntegros proporcionan una referencia tridimensional fiable para la anchura y la proyección facial — exactamente el punto de referencia que la secuenciación de fuera adentro utiliza como punto de partida. Con los arcos íntegros, el cirujano puede reducir con confianza la barra frontal y la zona media en relación con estas estructuras de referencia conocidas, y luego establecer la oclusión mandibular como paso final.",
+          "wrong": {
+            "A": "La secuenciación de abajo arriba (Manson) se favorece cuando los arcos están fracturados y los cóndilos mandibulares están íntegros — proporcionando la altura oclusal como referencia primaria. Cuando los arcos están íntegros, se prefiere la de fuera adentro.",
+            "C": "La pregunta describe un hallazgo intraoperatorio — esperar la fabricación de PSI no es posible en este momento. Las decisiones sobre VSP/PSI se toman en el preoperatorio.",
+            "D": "La reconstrucción del suelo orbitario es un componente de la secuencia, no el punto de partida — independientemente de la estrategia de secuenciación principal elegida."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Secuenciación quirúrgica: los arcos íntegros favorecen el abordaje de fuera adentro",
+          "trial": "He D et al. J Oral Maxillofac Surg (2019): análisis de subgrupos — la secuenciación de fuera adentro con arcos íntegros produjo puntuaciones de proyección facial superiores frente a la de abajo arriba en los casos con integridad del arco (p=0,04).",
+          "pearl": "Arcos cigomáticos íntegros = usar secuenciación de fuera adentro (arcos como referencia). Fracturas condilares bilaterales + ausencia de referencias del arco = usar VSP/de abajo arriba. La mayoría de los cirujanos adaptan la estrategia a la anatomía encontrada.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "E5-Q17",
+        "stem": "La 'deformidad en plato' que se desarrolla como complicación tardía de la fractura panfacial es el resultado de:",
+        "options": {
+          "A": "Consolidación viciosa de la barra frontal con reabsorción de la tabla anterior",
+          "B": "Enoftalmía bilateral por expansión del volumen orbitario",
+          "C": "Consolidación viciosa del patrón Le Fort con desplazamiento posterior de toda la zona media",
+          "D": "Consolidación viciosa del arco cigomático con aplanamiento malar bilateral"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La 'deformidad en plato' (también denominada 'cara de pájaro' o 'hipoplasia mediofacial') es la complicación tardía clásica de la consolidación viciosa de la fractura Le Fort, especialmente Le Fort III. Toda la zona media (incluidas las órbitas, las regiones malares y el arco dentario) está desplazada posteriormente, produciendo un perfil facial cóncavo característico cuando se observa de perfil. La nariz, los pómulos y el labio superior parecen retraídos respecto a la frente y el mentón. La corrección requiere osteotomía Le Fort I, II o III según el nivel de consolidación viciosa — un procedimiento secundario complejo.",
+          "wrong": {
+            "A": "La consolidación viciosa de la barra frontal produce deformidad del contorno frontal y asimetría del reborde supraorbitario — no deformidad en plato.",
+            "B": "La enoftalmía bilateral produce ojos hundidos pero no el desplazamiento posterior global de todas las estructuras mediofaciales característico de la deformidad en plato — son deformidades distintas que pueden coexistir.",
+            "D": "El aplanamiento malar bilateral produce pérdida de la definición del pómulo pero no el desplazamiento posterior global de todas las estructuras mediofaciales que caracteriza la deformidad en plato."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Complicaciones tardías: consolidación viciosa Le Fort y corrección secundaria",
+          "trial": "Manson PN et al. Oral Maxillofac Surg Clin North Am (2013): deformidad en plato identificada en el 12% de las fracturas Le Fort III diferidas/tratadas inadecuadamente en una serie de 380 pacientes — la prevención primaria = reducción precisa y oportuna.",
+          "pearl": "DEFORMIDAD EN PLATO = consolidación viciosa Le Fort III → desplazamiento posterior de toda la zona media. Corrección = osteotomía Le Fort. Prevención = reparación primaria anatómica oportuna en los primeros 5–14 días tras la lesión.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q18",
+        "stem": "¿Qué sistema de fijación es obligatorio cuando las fracturas panfaciales implican segmentos mandibulares gravemente conminutos donde no puede mantenerse el contacto óseo cortical en el foco de fractura?",
+        "options": {
+          "A": "Miniplacas de 2,0 mm (compartidas de carga, dos placas por fractura)",
+          "B": "Placa de reconstrucción de bloqueo de 2,4 mm (portante de carga)",
+          "C": "Microplacas de 1,5 mm con fijación mediante tornillos de compresión",
+          "D": "Alambres de acero inoxidable con lazadas de ivy de 0,4 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Cuando no puede mantenerse el contacto óseo cortical en una fractura mandibular (es decir, fracturas conminutas con pérdida ósea o defecto), se requiere fijación portante de carga. La placa de reconstrucción de bloqueo de 2,4 mm proporciona suficiente rigidez para salvar el defecto y resistir todas las fuerzas masticatorias sin depender del contacto óseo. La fijación compartida de carga (como las miniplacas de 2,0 mm) depende del contacto hueso-hueso para resistir las fuerzas — si se aplica a segmentos conminutos sin contacto, fallará por fatiga (carga cíclica de la masticación). El principio AO/Synthes de fijación portante de carga está explícitamente indicado para las fracturas mandibulares conminutas.",
+          "wrong": {
+            "A": "Las miniplacas de 2,0 mm son implantes de fijación compartida de carga — requieren contacto óseo para funcionar correctamente. En las fracturas conminutas sin contacto óseo, se doblarán y fallarán bajo la carga masticatoria.",
+            "C": "Las microplacas de 1,5 mm se utilizan para la reconstrucción de la cara superior (orbitaria, frontal) donde no hay fuerzas masticatorias — son completamente inadecuadas para las aplicaciones portantes de carga mandibular.",
+            "D": "Los alambres de acero inoxidable proporcionan solo FIM (fijación dental) o cierre de partes blandas — no pueden proporcionar fijación esquelética para las fracturas mandibulares conminutas."
+          },
+          "guideline": "Principios AO/Synthes de Fijación Interna (módulo OMFS) — fijación portante vs compartida de carga; EACMFS 2023 Guidelines",
+          "trial": "Gruss JS & Mackinnon SE. Plast Reconstr Surg (1986): estableció el uso de placas de reconstrucción para la fijación mandibular portante de carga en el traumatismo facial complejo — validado posteriormente en múltiples series multicéntricas AO.",
+          "pearl": "Portante de carga = placa de reconstrucción de 2,4 mm = no se requiere contacto óseo. Compartida de carga = miniplaca de 2,0 mm = contacto óseo REQUERIDO. Clasificar siempre la conminución de la fractura antes de seleccionar el material de fijación.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "E5-Q19",
+        "stem": "Un paciente de 48 años sufrió una fractura panfacial hace 3 meses que fue tratada de forma conservadora (el paciente rechazó la cirugía). Acude con maloclusión grave (mordida abierta anterior de 8 mm), enoftalmía de 4 mm y retrusión mediofacial. La TC confirma unión ósea en malposición. ¿Cuál es el tratamiento quirúrgico más adecuado?",
+        "options": {
+          "A": "Distracción osteogénica mandibular para cerrar la mordida abierta anterior",
+          "B": "Osteotomías para refracturar y reposicionar los segmentos consolidados en vicio, con injerto óseo según sea necesario",
+          "C": "Rehabilitación protésica con prótesis completa e implante orbitario",
+          "D": "Observación durante 12 meses adicionales antes de la intervención quirúrgica"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A los 3 meses, las fracturas panfaciales han consolidado en malposición — la reducción primaria ya no es posible. La corrección secundaria requiere osteotomías quirúrgicas (Le Fort I, II o III según corresponda) para refracturar los segmentos consolidados en vicio, reposicionarlos en la posición anatómica correcta y fijarlos con placas. Con frecuencia se requiere injerto óseo para los defectos creados por el reposicionamiento o donde se perdió hueso. Esta es una cirugía compleja y de alto riesgo que requiere VSP y planificación meticulosa. Sin corrección quirúrgica, los déficits funcionales y estéticos son permanentes.",
+          "wrong": {
+            "A": "La distracción osteogénica se utiliza para el alargamiento óseo — no puede corregir la malposición esquelética tridimensional de una consolidación viciosa panfacial, y no aborda el componente Le Fort/mediofacial.",
+            "C": "La rehabilitación protésica no corrige la malposición esquelética, la enoftalmía ni la retrusión mediofacial — puede ayudar a restaurar la función dental pero no el esqueleto.",
+            "D": "Después de 3 meses de consolidación ósea, esperar más tiempo no mejorará la situación — los huesos consolidados en vicio no se remodelan a la posición correcta de forma espontánea en adultos."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Reconstrucción secundaria de fracturas faciales con consolidación viciosa: corrección basada en osteotomías",
+          "trial": "Manson PN et al. Oral Maxillofac Surg Clin North Am (2013): serie de osteotomías secundarias para consolidación viciosa panfacial — el 89% de los pacientes lograron resultados funcionales y estéticos satisfactorios con corrección basada en osteotomías, frente al 34% sin cirugía.",
+          "pearl": "Consolidación viciosa de fractura panfacial (>6 semanas) = reconstrucción secundaria con osteotomías. La VSP está fuertemente indicada para la planificación de la corrección de consolidaciones viciosas. Mejor invertir en una reparación primaria correcta que tratar la deformidad secundaria.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "E5-Q20",
+        "stem": "En la serie de Gruss y Mackinnon (1986) que estableció el abordaje de tratamiento moderno de las fracturas faciales complejas, la innovación clave que produjo resultados superiores en comparación con el estándar de la época fue:",
+        "options": {
+          "A": "Uso rutinario de antibióticos durante 6 semanas en el postoperatorio",
+          "B": "Reconstrucción esquelética primaria inmediata con injertos óseos en lugar de reconstrucción diferida por etapas",
+          "C": "Uso de placas de fijación reabsorbibles para evitar la retirada secundaria del material",
+          "D": "Traqueostomía precoz en todos los pacientes antes de la reparación de la fractura facial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La contribución seminal de Gruss y Mackinnon (Plast Reconstr Surg 1986) fue la demostración de que la reconstrucción esquelética primaria inmediata — incluyendo injerto óseo para los defectos y fijación completa de todos los contrafuertes faciales — producía resultados significativamente superiores en comparación con el abordaje estándar de la época de reparación por etapas con injerto óseo diferido. Su serie de 118 fracturas faciales complejas mostró marcadamente menos procedimientos secundarios, mejor simetría facial y mejores resultados funcionales. Este trabajo cambió el paradigma del tratamiento de las fracturas faciales y constituye la base del estándar actual de reconstrucción primaria con injertos óseos cuando está indicado.",
+          "wrong": {
+            "A": "Los protocolos antibióticos no fueron el foco del trabajo de Gruss y Mackinnon — esto no fue la innovación que produjo mejores resultados.",
+            "C": "Las placas de fijación reabsorbibles no estaban disponibles en 1986 — la fijación rígida de titanio fue la innovación de esa época. Las placas reabsorbibles entraron en la práctica en los años 90.",
+            "D": "La traqueostomía precoz en todos los pacientes sería excesiva y contraria al manejo de la vía aérea basado en la evidencia moderna — no fue la innovación descrita."
+          },
+          "guideline": "EACMFS Facial Fracture Guidelines 2023 — Contexto histórico y base de evidencia para la reconstrucción primaria",
+          "trial": "Gruss JS & Mackinnon SE. Plast Reconstr Surg (1986): 118 fracturas faciales complejas tratadas con reconstrucción primaria incluyendo injertos óseos — tasa de procedimientos secundarios del 31% frente al 68% en la cohorte histórica de reparación por etapas. Este es el trabajo de referencia que estableció los principios de tratamiento actuales.",
+          "pearl": "Gruss y Mackinnon 1986 = el trabajo de referencia que establece la reconstrucción esquelética PRIMARIA (incluidos injertos óseos) como estándar para las fracturas faciales complejas. Conocer este trabajo: fundamenta el tratamiento moderno de las fracturas panfaciales.",
+          "difficulty": 3
+        }
+      }
+    ]
+  }
+}

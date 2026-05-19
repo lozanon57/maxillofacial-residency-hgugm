@@ -1,0 +1,643 @@
+{
+  "id": "B4",
+  "title": "Genioplasty: Sliding Osteotomy and Chin Augmentation",
+  "subtitle": "Block B — Orthognathic and Skeletal Surgery",
+  "block": "B",
+  "block_name": "Orthognathic and Skeletal Surgery",
+  "level": "R2-4",
+  "reading_time_min": 32,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · AAOMS Parameters of Care 2023 · BAOMS Clinical Guidelines 2022",
+  "textbook_refs": [
+    "Trauner R, Obwegeser H. The surgical correction of mandibular prognathism and retrognenia. Oral Surg Oral Med Oral Pathol (1957)",
+    "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003)",
+    "Bell WH. Revascularization and bone healing after anterior mandibular osteotomy. J Oral Surg (1969)",
+    "Hofer O. Die Osteotomie der Unterkiefersymphyse. Österr Z Stomatol (1942)"
+  ],
+  "learning_objectives": [
+    "Describe the neurovascular anatomy relevant to genioplasty, including the mental nerve and the arteries supplying the chin segment",
+    "Explain the sliding osteotomy technique and the role of the muscle pedicle in maintaining chin viability",
+    "Compare alloplastic chin augmentation with osseous genioplasty in terms of indications and complications",
+    "Plan multidimensional chin movements (advancement, setback, impaction, vertical augmentation, asymmetry correction)",
+    "Recognise and manage complications including mental nerve injury, bony step deformity, and alloplastic implant problems"
+  ],
+  "sections": [
+    {
+      "id": "B4-S1",
+      "title": "Anatomy and Vascular Supply of the Chin",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The chin segment (mentum) is supplied by three principal vascular sources that must be considered during genioplasty planning to avoid avascular necrosis:\n\n1. **Submental artery** (branch of facial artery) — enters the chin from the superior aspect through the floor of mouth musculature attached to the genial tubercles\n2. **Inferior labial artery** — contributes via the labiomental soft tissue attachments\n3. **Sublingual and incisive arteries** — minor contributions via the lingual periosteum\n\nThe critical blood supply is maintained through the **muscle pedicle** — the suprahyoid musculature (genioglossus, geniohyoid, digastric anterior belly, mylohyoid) that attaches to the inferior border of the chin segment and genial tubercles. Bell's 1969 laboratory study demonstrated that osteotomy of the anterior mandible maintains viability as long as the muscle pedicle is preserved intact; stripping the inferior border periosteum and detaching the suprahyoid muscles risks avascular necrosis. This principle guides the standard technique: subperiosteal dissection stops at the inferior border, preserving the muscle attachment.\n\nThe **mental nerve** exits the mental foramen between the first and second premolars (typically below the apex of the second premolar). It then courses anteriorly and superiorly in the soft tissue before distributing to the lower lip and chin skin. The 'anterior loop' of the mental nerve extends anteriorly beyond the foramen before turning back — on average 0–5 mm anterior to the foramen. This must be considered when placing the osteotomy; the osteotomy should be at least 5 mm below the mental foramina to protect the nerve and its anterior loop."
+        },
+        {
+          "type": "table",
+          "title": "Genioplasty Neurovascular Anatomy: Structures at Risk",
+          "headers": ["Structure", "Location", "Injury Mechanism", "Consequence"],
+          "rows": [
+            ["Mental nerve", "Exits mental foramen between premolars; anterior loop extends 0–5 mm anterior to foramen", "Osteotomy too close to foramen; retractor pressure; drilling", "Lower lip/chin hypoaesthesia; paraesthesia"],
+            ["Submental artery", "Enters chin from superior (floor of mouth attachment)", "Detachment of muscle pedicle from inferior border", "Avascular necrosis of chin segment"],
+            ["Inferior labial artery", "Labiomental soft tissue anterior to chin", "Excessive subperiosteal dissection superiorly", "Soft tissue ischaemia; prolonged swelling"],
+            ["Genioglossus/geniohyoid", "Attaches to genial tubercles on lingual surface", "Detachment during muscle pedicle stripping", "Loss of vascular supply to chin segment"],
+            ["Tooth roots (lower incisors)", "3–6 mm above inferior border depending on alveolar height", "Osteotomy too superior; inadequate planning", "Root damage; pulp necrosis; tooth loss"]
+        ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Osteotomy Level",
+          "content": "The genioplasty osteotomy must be placed at least 5 mm below the mental foramina (to protect the anterior loop of the mental nerve) and at least 5 mm below the tooth root apices. On a lateral cephalogram, measure the distance from the foramen to the inferior border and plan the osteotomy in the safe zone between these constraints. If the symphysis is too short, genioplasty may be contraindicated or require modification."
+        }
+      ]
+    },
+    {
+      "id": "B4-S2",
+      "title": "Indications and Treatment Planning",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Genioplasty may be performed as an isolated procedure or as an adjunct to BSSO, Le Fort I osteotomy, or bimaxillary surgery. Isolated genioplasty corrects chin position and shape when the skeletal jaw relationships are otherwise acceptable; it is the appropriate procedure for **chin-specific deformities** diagnosed clinically and cephalometrically.\n\n**Clinical assessment** uses the rule of facial thirds (lower face = lower lip to menton, upper facial third = trichion to glabella, mid-face = glabella to subnasale; all should be roughly equal). The chin should be assessed in both AP and vertical dimensions, and any asymmetry noted. Lip competence at rest is assessed — chin advancement can improve lip competence by moving the mentolabial fold anteriorly.\n\n**Cephalometric assessment:** The **Pg (pogonion) to NB line** measures chin prominence: normal male 4 mm, female 2–3 mm ahead of NB. The **Holdforth ratio** (chin height: lower face height) assesses vertical chin proportion. The chin point (Pg or Me) position relative to the facial plane (Ricketts' E-plane) is evaluated.\n\n**Indications for osseous genioplasty over alloplastic augmentation:**\n- Multidimensional movement required (vertical reduction + horizontal advancement)\n- Significant asymmetry requiring correction\n- Combined with orthognathic surgery (same operative field)\n- Younger patients requiring a stable long-term result\n- Vertical chin reduction (alloplastic cannot reduce)\n\n**Indications for alloplastic augmentation:**\n- Isolated mild-moderate horizontal deficiency only (up to 8–10 mm)\n- Patient preference for less invasive procedure\n- Older patients not undergoing orthognathic surgery\n- Single-stage rhinoplasty and chin augmentation combinations"
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Combined Rhinoplasty and Genioplasty",
+          "content": "The profile balance between nose and chin is evaluated using the Ricketts E-plane (line from nasal tip to chin soft-tissue pogonion): upper lip 4 mm behind E-plane, lower lip 2 mm behind. In patients undergoing rhinoplasty for a prominent nose, simultaneous chin augmentation often produces superior aesthetic balance and greater patient satisfaction than rhinoplasty alone. This combination accounts for approximately 20–25% of chin procedures in aesthetic practice."
+        }
+      ]
+    },
+    {
+      "id": "B4-S3",
+      "title": "Sliding Osteotomy: Technique and Movements",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **sliding osseous genioplasty (Hofer-Trauner technique)** is performed under general or local anaesthesia with sedation. Via a labiovestibular incision (5–7 mm below the mucogingival junction across the midline between the canines), the chin is exposed subperiosteally. Dissection extends to expose the mental foramina bilaterally and the inferior border of the symphysis, stopping short of stripping the muscle attachments from the inferior border.\n\nA horizontal osteotomy is marked with a bur at least 5 mm below the mental foramina and 5 mm below tooth root apices. A step cut or step marking at the midline allows realignment after movement. The horizontal osteotomy is completed with a reciprocating saw, staying at least 5 mm below the foramina throughout. The chin segment is mobilised, remaining attached to the muscle pedicle from the floor of mouth.\n\n**Movements available with sliding genioplasty:**\n- **Advancement:** The chin segment is moved anteriorly. Can correct horizontal deficiency up to 15 mm. Soft tissue moves approximately 90–95% of the bony advancement at pogonion.\n- **Setback:** The chin is moved posteriorly. Soft tissue correction approximately 90% of bony setback. Setback is more prone to creating a 'witch's chin' deformity (ptosis of the chin soft tissue pad) if excessive.\n- **Impaction (vertical reduction):** A wedge of bone is removed from the superior cut to shorten chin height. This is the main advantage of osseous genioplasty over alloplastic augmentation, which cannot reduce chin height.\n- **Inferior repositioning (vertical augmentation):** An interpositional bone graft (autograft or allograft/beta-TCP) is placed between the chin segment and the body to increase chin height.\n- **Asymmetry correction:** Transverse movements of up to 4–5 mm are achievable; larger asymmetries require creative bone management.\n- **Combination movements:** Simultaneous advancement + impaction or advancement + transverse correction is possible by adjusting cut angles.\n\nFixation is achieved with a small titanium plate (miniplate or dedicated genioplasty plate) and monocortical screws. A pre-bent plate or custom-bent plate holds the segment in the planned position. Final check of symmetry and occlusion is performed before wound closure."
+        },
+        {
+          "type": "table",
+          "title": "Genioplasty Movements: Technical Details and Soft-Tissue Response",
+          "headers": ["Movement", "Technique", "Soft Tissue Ratio", "Notes"],
+          "rows": [
+            ["Advancement", "Slide chin forward; fix with plate spanning the step", "90–95% of bony movement at Pg", "Most stable movement; soft tissue follows well"],
+            ["Setback", "Slide chin back; may need ostectomy for large setbacks", "85–90% of bony movement", "Risk of chin pad ptosis if >6 mm; consider conservative approach"],
+            ["Vertical impaction", "Remove wedge from superior to inferior cut; close gap", "70–80% vertical reduction", "Excellent for long lower face; most reliable vertical change"],
+            ["Vertical augmentation", "Interpositional graft (bone/alloplast) between cuts", "50–70% vertical increase", "Graft resorption possible; DFDBA or beta-TCP used"],
+            ["Asymmetry correction (transverse)", "Lateral off-centre slide; step notch guide", "~70–80% of bony correction", ">5 mm transverse movements may be unstable"],
+            ["Advancement + impaction", "Two-vector movement; plate bent to hold both vectors", "90% AP, 70% vertical", "Requires careful plate bending; most common combination"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Soft Tissue Ratios",
+          "content": "Soft tissue response at pogonion for genioplasty advancement is approximately 90–95% of the bony movement — significantly higher than for Le Fort I or BSSO movements. This means chin soft tissue movements closely follow bony movements and can be predicted reliably from cephalometric planning. Vertical impaction produces approximately 70–80% soft tissue response; vertical augmentation with bone graft is less predictable due to graft resorption."
+        }
+      ]
+    },
+    {
+      "id": "B4-S4",
+      "title": "Alloplastic Chin Augmentation",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Alloplastic chin augmentation uses prefabricated or custom implants to augment chin projection without osteotomy. It is a simpler procedure with shorter operating time, local anaesthetic suitability, and lower morbidity in appropriate patients. However, it is limited in versatility and carries specific long-term complications.\n\n**Implant materials used:**\n- **Silicone (polydimethylsiloxane):** Most widely used; soft, shaped implants; easy removal. Risk of fibrous capsule formation and implant migration over time.\n- **Expanded polytetrafluoroethylene (ePTFE, Gore-Tex):** Softer feel; tissue ingrowth reduces migration risk; difficult to remove if required.\n- **Porous polyethylene (Medpor):** High tissue ingrowth; very difficult to remove; most stable long-term but irreversible.\n- **Custom titanium or PEEK:** Computer-designed for complex deformities; requires CBCT planning; highest cost.\n\n**Technique:** Access via labiovestibular or submental incision. Subperiosteal pocket is created over the anterior mandible. The implant is positioned symmetrically on the bone surface and secured with titanium screws or sutures depending on design. Pocket size must match implant precisely to prevent migration.\n\n**Complications specific to alloplastic augmentation:**\n- **Bone resorption under implant:** All materials produce some degree of bone resorption from continuous pressure; silicone implants produce mean 1–2 mm erosion over 10 years; porous materials less\n- **Implant migration:** Pocket inadequately sized or implant not fixed; presents with asymmetry; requires reoperation\n- **Infection:** 1–3% incidence; may require explantation; oral bacteria contamination is the primary source\n- **Mental nerve pressure:** Implant extending too far laterally compresses the mental nerve at the foramen; presents with hypoaesthesia; requires repositioning\n- **Soft tissue ptosis (witch's chin):** Subperiosteal pocket creation detaches mentalis muscle; ptosis if inadequate muscle resuspension at closure"
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Mentalis Muscle Resuspension",
+          "content": "Failure to resuspend the mentalis muscle during closure of chin surgery (both alloplastic and osseous genioplasty) produces 'witch's chin' deformity — downward ptosis of the chin soft tissue pad with a prominent mentolabial fold. The mentalis muscle must be reattached to the periosteum at or above its original insertion point using resorbable sutures. This is the most common preventable aesthetic complication of chin surgery."
+        }
+      ]
+    },
+    {
+      "id": "B4-S5",
+      "title": "Mental Nerve Anatomy and Protection",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The **mental nerve** is the terminal branch of the inferior alveolar nerve, exiting the mental foramen typically between (or just below) the premolars. Understanding its anatomy is essential for safe genioplasty.\n\n**Foramen position:** The mental foramen lies below the apex of the second premolar in approximately 60% of subjects; below the first premolar in 15%; and between the premolars in 25%. In older patients, alveolar resorption causes apparent superior migration of the foramen relative to the ridge.\n\n**Anterior loop:** After exiting the foramen, the mental nerve courses anteriorly within a bony canal extension for 0–5 mm (mean 2–3 mm) before turning posterolaterally toward the lower lip. This 'anterior loop' is at risk when the osteotomy is placed close to the foramen anteriorly.\n\n**Safe osteotomy distance:** To protect both the foramen exit and the anterior loop, the osteotomy should be placed a minimum of **5 mm below the mental foramen** measured vertically. In a short symphysis (reduced vertical dimension between tooth apices and inferior border), this 5 mm rule may not be achievable, limiting the scope for vertical movements.\n\n**Identifying the nerve:** Subperiosteal dissection should be carried superiorly only to the level of the foramen, not beyond it. The mental nerve is identified visually in the periosteal/soft tissue flap after exposure and protected with a small periosteal elevator or vessel loop during osteotomy.\n\n**Neurosensory outcomes:** Temporary mental nerve hypoaesthesia (lower lip numbness) occurs in virtually all patients (90–100%) post-genioplasty and typically resolves within 3–6 months. Permanent hypoaesthesia occurs in approximately 2–5% of cases in experienced hands — significantly less than after BSSO. The lower rate reflects the nerve being less tethered (exits the foramen freely) and the osteotomy being below rather than alongside the nerve canal."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Short Symphysis Planning",
+          "content": "In patients with a short symphysis (vertical distance from tooth apices to inferior border <12–15 mm), the required safety margins for the genioplasty osteotomy (5 mm below foramina AND 5 mm below root apices) may not be compatible. In these cases, orthodontic or surgical elongation of the lower face may be required first, or the vertical movement may need to be limited. Always measure the available vertical space on a lateral cephalogram or panoramic radiograph before planning genioplasty."
+        }
+      ]
+    },
+    {
+      "id": "B4-S6",
+      "title": "Complications and Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Genioplasty is generally well tolerated with a low serious complication rate. The main complications are:\n\n**Mental nerve injury:** Temporary hypoaesthesia (near universal); permanent deficit in 2–5%. Management: reassurance, neurosensory follow-up at 3, 6, 12 months. If no recovery by 12 months and neurotmesis is suspected, refer for microsurgical assessment.\n\n**Avascular necrosis (AVN) of chin segment:** Rare (<1% with correct technique); caused by excessive stripping of inferior border periosteum and detachment of muscle pedicle. Presents with persistent pain, sequestrum formation, exposed bone, or non-union. Management: conservative debridement, antibiotics; may require removal of necrotic segment and reconstruction.\n\n**Bony step deformity:** Visible step between the chin segment and the mandibular body, typically occurring when the chin has been advanced significantly and the lateral bony margins are not smoothed. Prevention: bone contouring/burring of the lateral step after fixation. Correction if symptomatic: burring under local anaesthesia.\n\n**Relapse:** Less common than BSSO relapse; studies report <5% skeletal relapse at 1 year for isolated genioplasty advancements up to 10 mm. Overcorrection by 1–2 mm is recommended for advancements >8 mm.\n\n**Non-union:** Rare with rigid plate fixation; more common with inadequate fixation or post-operative trauma. Treatment: revision ORIF with bone grafting if fibrous union persists at 6 months.\n\n**Infection:** 1–2% with osseous genioplasty; more common with alloplastic augmentation (1–3%). Management: antibiotics; implant/plate removal if recalcitrant.\n\n**Witch's chin (soft tissue ptosis):** Mentalis muscle dehiscence or failure of resuspension. Prevention by meticulous layered closure with mentalis muscle resuspension. Correction: secondary mentalis resuspension, direct excision of redundant skin (rarely needed)."
+        },
+        {
+          "type": "table",
+          "title": "Genioplasty Complications: Incidence, Cause, and Management",
+          "headers": ["Complication", "Incidence", "Primary Cause", "Management"],
+          "rows": [
+            ["Temporary mental nerve hypoaesthesia", "~100%", "Expected stretch/neuropraxia", "Reassurance; resolves 3–6 months"],
+            ["Permanent mental nerve deficit", "2–5%", "Osteotomy too close to foramen; direct nerve injury", "Neurosensory monitoring; rarely requires repair"],
+            ["Avascular necrosis of chin segment", "<1%", "Muscle pedicle stripping from inferior border", "Debridement; reconstruction if severe"],
+            ["Bony step deformity", "5–15%", "Inadequate lateral bone contouring after movement", "Burring under LA; often resolves with swelling"],
+            ["Witch's chin (soft tissue ptosis)", "3–8%", "Mentalis muscle not resuspended at closure", "Secondary resuspension; cosmetic revision"],
+            ["Skeletal relapse", "<5% at 1 year", "Overcorrection needed for >8 mm advancements", "Overcorrect 1–2 mm; stable if <10 mm movement"],
+            ["Implant migration (alloplastic)", "2–8%", "Oversized pocket; no fixation screws", "Repositioning and screw fixation"],
+            ["Bone resorption (alloplastic)", "~30% at 10 yr (minor)", "Implant pressure on cortical bone", "Monitor; significant resorption (>3 mm) may require change to osseous genioplasty"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Alloplastic Implant Infection",
+          "content": "Alloplastic chin implant infection typically presents weeks to months after surgery with progressive swelling, redness, and drainage over the chin or intraorally. Once established around silicone or ePTFE implants, infection rarely responds to antibiotics alone and usually requires explantation. The implant can be replaced after complete resolution (minimum 3 months). Porous polyethylene (Medpor) infections almost always require removal due to extensive tissue ingrowth preventing adequate debridement."
+        }
+      ]
+    },
+    {
+      "id": "B4-S7",
+      "title": "Genioplasty in Combination with Orthognathic Surgery",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Genioplasty is commonly performed simultaneously with BSSO, Le Fort I, or bimaxillary surgery to fine-tune the chin position after jaw repositioning. Planning genioplasty in combination requires careful consideration of the changed facial proportions that result from jaw movement.\n\n**Sequencing in bimaxillary surgery + genioplasty:** Typically, Le Fort I is completed and fixed first, then BSSO is completed and fixed with the surgical splint, followed by genioplasty as the final step. This ensures that the chin osteotomy is planned and executed after the upper and lower jaw are in their final planned positions. Alternatively, the genioplasty can be planned and performed before BSSO if access is easier, but the chin position must account for the planned mandibular movement.\n\n**Adjusting genioplasty planning for simultaneous jaw surgery:** When BSSO advancement brings the chin forward, the planned genioplasty advancement may need to be reduced accordingly. When BSSO setback moves the chin posteriorly, additional genioplasty advancement may be needed to maintain chin projection. Software simulation (Dolphin, Simplant OMS, or equivalent) allows combined planning of all jaw and chin movements simultaneously, predicting the soft-tissue result and allowing adjustment of each component.\n\n**Specific combination scenarios:**\n- **Class II + chin deficiency:** BSSO advancement + genioplasty advancement; care to not over-advance (the BSSO already brings the chin forward)\n- **Class III + chin excess:** BSSO setback + genioplasty impaction; reduces chin projection and vertical height simultaneously\n- **Vertical maxillary excess (VME) + long face:** Le Fort I impaction + BSSO autorotation + genioplasty impaction; triple-jaw approach for long face syndrome\n- **Open bite correction:** Le Fort I impaction + BSSO advancement ± genioplasty\n\nPatients should be informed that the chin result may not be finalised until all swelling resolves (3–6 months), and that the final assessment of genioplasty adequacy occurs at 6–12 months."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Long Face Syndrome Triple-Jaw",
+          "content": "Long face syndrome (vertical maxillary excess with anterior open bite, increased lower face height, lip incompetence, gummy smile) is optimally corrected with a triple-jaw approach: (1) Le Fort I maxillary impaction, (2) BSSO mandibular advancement via autorotation, (3) osseous genioplasty impaction to reduce chin height. Genioplasty impaction is the component that corrects vertical chin excess that persists after maxillary impaction and mandibular autorotation alone."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of genioplasty anatomy, technique, movements, and complications with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "B4-Q1",
+        "stem": "During osseous genioplasty, which structure provides the critical blood supply to the chin segment through the muscle pedicle, and must be preserved to avoid avascular necrosis?",
+        "options": {
+          "A": "Inferior labial artery via labiomental fold",
+          "B": "Submental artery entering via suprahyoid musculature attached to the inferior border",
+          "C": "Lingual artery via floor of mouth",
+          "D": "Facial artery via the buccal fat pad"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The critical blood supply to the chin segment during genioplasty is maintained through the muscle pedicle — the suprahyoid musculature (genioglossus, geniohyoid, anterior digastric, mylohyoid) that attaches to the inferior border and genial tubercles. The submental artery, a branch of the facial artery, enters the chin from the superior aspect through this muscle attachment. Bell's landmark 1969 revascularisation study demonstrated that osteotomy of the anterior mandible maintains viability as long as the inferior border periosteum and muscle pedicle are preserved.",
+          "wrong": {
+            "A": "The inferior labial artery contributes to the soft tissue anterior to the chin but is not the primary blood supply to the bony chin segment through the pedicle",
+            "C": "The lingual artery supplies the tongue and floor of mouth but is not the primary supply to the chin segment",
+            "D": "The facial artery is the origin of the submental artery, but the supply enters via the muscle pedicle (suprahyoid muscles), not the buccal fat pad"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Genioplasty technique — muscle pedicle preservation as fundamental principle",
+          "trial": "Bell WH. Revascularization and bone healing after anterior mandibular osteotomy: a study using adult Rhesus monkeys. J Oral Surg (1969): demonstrated viability of chin segment with intact muscle pedicle even after complete cortical osteotomy",
+          "pearl": "Genioplasty viability = preserved muscle pedicle (suprahyoid muscles at inferior border) = submental artery supply preserved. Never strip the inferior border periosteum or detach the floor-of-mouth musculature from the chin segment."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q2",
+        "stem": "The minimum vertical distance below the mental foramen at which the genioplasty horizontal osteotomy should be placed is:",
+        "options": {
+          "A": "2 mm",
+          "B": "5 mm",
+          "C": "10 mm",
+          "D": "15 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The genioplasty osteotomy must be placed at least 5 mm below the mental foramina to protect the mental nerve and, critically, its anterior loop. The anterior loop of the mental nerve extends anteriorly within the bone for 0–5 mm before turning posterolaterally at the foramen exit. Placing the osteotomy within 5 mm of the foramen risks cutting through the anterior loop of the nerve even if the foramen itself appears safely superior to the osteotomy line on the lateral view.",
+          "wrong": {
+            "A": "2 mm is insufficient to protect the anterior loop of the mental nerve — the loop can extend up to 5 mm anterior to the foramen",
+            "C": "10 mm is unnecessarily conservative and may not be achievable in patients with short symphyses; 5 mm is the evidence-based minimum",
+            "D": "15 mm would make genioplasty impossible in most patients with normal symphysis height"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Genioplasty — minimum 5 mm safety margin below mental foramina for osteotomy placement",
+          "trial": "Mardini S et al. The anterior loop of the mental nerve: a cadaveric and radiographic study. J Oral Maxillofac Surg (2000): anterior loop length 0–5.5 mm (mean 2.3 mm); 5 mm clearance below foramen protects 95th percentile of anterior loop lengths",
+          "pearl": "Genioplasty osteotomy: minimum 5 mm below mental foramina AND 5 mm below tooth root apices. Both constraints must be satisfied simultaneously. Measure on preoperative panoramic radiograph or CBCT."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q3",
+        "stem": "A 26-year-old woman presents with a long lower face (increased lower third facial height), deep mentolabial fold, and lip incompetence. Cephalometric analysis shows vertical maxillary excess with mandibular retrognathia on autorotation. She undergoes Le Fort I maxillary impaction, BSSO mandibular advancement via autorotation, and concurrent genioplasty. What genioplasty movement should be planned?",
+        "options": {
+          "A": "Chin advancement to further increase chin projection",
+          "B": "Chin impaction (vertical reduction) to reduce chin height",
+          "C": "Chin inferior repositioning (vertical augmentation) to increase lower face height",
+          "D": "No genioplasty — the bimaxillary surgery will correct all aspects of the deformity"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "In long face syndrome treated with Le Fort I impaction and BSSO mandibular autorotation, the maxillary impaction reduces the vertical dimension of the midface, and the mandibular autorotation closes the anterior open bite and reduces lower face height. However, the chin height — the component from the mentolabial fold to the menton — is not reduced by these movements. To achieve true reduction of the lower facial third proportions and improve the mentolabial fold depth, concurrent osseous genioplasty impaction (removing a horizontal wedge to reduce chin height) is required as the third component of the triple-jaw approach.",
+          "wrong": {
+            "A": "Chin advancement would worsen the appearance in a patient with an already prominent chin in a vertically long face — the chin needs to be shortened, not advanced",
+            "C": "Vertical augmentation would increase chin height, worsening the long face — the opposite of what is needed",
+            "D": "Without genioplasty impaction, the chin height will remain disproportionate after bimaxillary surgery — the triple-jaw approach specifically addresses this"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Long face syndrome — triple jaw surgery indications and sequencing",
+          "trial": "Proffit WR, Turvey TA, Phillips C. Orthognathic surgery: a hierarchy of stability. Int J Adult Orthod Orthognath Surg (1996): triple jaw approach for long face syndrome described; genioplasty impaction as essential third component",
+          "pearl": "Long face syndrome triple-jaw: (1) Le Fort I impaction → reduces gummy smile + upper face height, (2) BSSO autorotation → closes open bite + reduces lower face height, (3) Genioplasty IMPACTION → reduces chin height. All three required for optimal result."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q4",
+        "stem": "A patient undergoes alloplastic chin augmentation with a silicone implant placed in a subperiosteal pocket. At 18 months follow-up, plain radiograph shows approximately 1.5 mm of bone erosion at the implant contact surface. The patient is asymptomatic. What is the most appropriate management?",
+        "options": {
+          "A": "Immediate explantation due to significant bone resorption",
+          "B": "Continue monitoring — this is an expected and acceptable finding",
+          "C": "Convert to osseous genioplasty immediately",
+          "D": "Prescribe bisphosphonates to prevent further bone resorption"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Mild bone resorption (1–2 mm) at the implant-bone interface is a universal and expected finding with alloplastic chin implants, particularly silicone. Studies report mean bone resorption of 1–2 mm over 10 years with silicone implants, reflecting normal remodelling response to sustained implant pressure. At 18 months with 1.5 mm resorption, the patient is within the expected range for this material. As long as the patient is asymptomatic, the result is aesthetically satisfactory, and there is no implant migration or infection, continued monitoring is appropriate. Intervention is generally indicated when resorption exceeds 3–4 mm or becomes symptomatic.",
+          "wrong": {
+            "A": "1.5 mm bone resorption at 18 months is expected, not a reason for explantation — explantation is indicated for >3–4 mm resorption, migration, infection, or patient dissatisfaction",
+            "C": "Conversion to osseous genioplasty is not indicated for an asymptomatic, aesthetically satisfactory result with expected minor resorption",
+            "D": "Bisphosphonates are not used to manage implant-related bone resorption and have significant side effects; they are not indicated here"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Alloplastic chin augmentation follow-up — monitoring protocol for bone resorption",
+          "trial": "Friedland JA et al. Long-term follow-up of alloplastic chin augmentation. Plast Reconstr Surg (2003): mean bone resorption 1.2 mm at 5 years, 1.8 mm at 10 years with silicone implants; <3 mm resorption considered acceptable; no functional consequences in 97% of patients",
+          "pearl": "Alloplastic chin implant bone resorption: 1–2 mm at 10 years = expected, monitor. >3–4 mm = consider revision to osseous genioplasty or larger implant. Intervention trigger: symptomatic, aesthetic failure, migration, infection, or >4 mm resorption."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q5",
+        "stem": "A 28-year-old woman develops 'witch's chin' deformity (chin soft tissue ptosis and deep mentolabial fold) following osseous genioplasty advancement. What is the most likely technical cause of this complication?",
+        "options": {
+          "A": "Excessive chin advancement beyond the planned position",
+          "B": "Failure to resuspend the mentalis muscle during wound closure",
+          "C": "Avascular necrosis of the chin soft tissue",
+          "D": "Mental nerve injury causing denervation atrophy of chin musculature"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Witch's chin deformity (downward ptosis of the chin soft tissue pad, producing a hanging chin appearance with a deep or obliterated mentolabial fold) is caused by failure to reattach the mentalis muscle during closure. The mentalis muscle originates from the alveolar process near the incisors and inserts into the chin skin — it provides crucial support and elevation of the chin soft tissue pad. When the subperiosteal dissection detaches the mentalis from its periosteal origin and this is not resuspended at closure, the muscle droops inferiorly, pulling the skin pad downward with it. Prevention requires meticulous layered closure with mentalis sutures into the periosteum at or above the original attachment level.",
+          "wrong": {
+            "A": "Excess advancement produces increased chin projection, not ptosis of the soft tissue pad — bony over-advancement causes hard tissue protrusion, not the soft tissue droop of witch's chin",
+            "C": "Avascular necrosis of the soft tissue is extremely rare and would present with ischaemic changes, not ptosis",
+            "D": "Mental nerve injury causes sensory deficit (hypoaesthesia) — the mentalis muscle is motor-innervated by the marginal mandibular branch of the facial nerve, not the mental nerve; motor injury is very rare in genioplasty"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Genioplasty — mandatory mentalis muscle resuspension during closure",
+          "trial": "Zide BM, McCarthy JG. The mentalis muscle. Plast Reconstr Surg (1989): anatomical study documenting mentalis function and consequences of non-resuspension in chin surgery — witch's chin deformity in 100% of cadaveric specimens when mentalis not reattached",
+          "pearl": "Witch's chin = mentalis not resuspended at closure. Prevention: always resuspend mentalis to periosteum with resorbable sutures during chin surgery closure. This is the most common preventable aesthetic complication of genioplasty and alloplastic chin augmentation."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q6",
+        "stem": "A patient with Class II skeletal malocclusion and SNB 73° requires 7 mm of chin advancement for aesthetic balance following BSSO mandibular advancement of 5 mm. What is the most accurate estimate of soft tissue pogonion movement that can be expected from the 7 mm osseous genioplasty advancement?",
+        "options": {
+          "A": "3–4 mm (50% ratio)",
+          "B": "5–6 mm (70–80% ratio)",
+          "C": "6–7 mm (90–95% ratio)",
+          "D": "8–9 mm (110–120% ratio — soft tissue exceeds bony movement)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The soft tissue response at soft-tissue pogonion following osseous genioplasty advancement is approximately 90–95% of the bony movement. This is one of the highest soft tissue to bony movement ratios in orthognathic surgery because the chin soft tissue is closely adherent to the bone at the pogonion area and has minimal interposed fat or muscle over the bony pogonion itself. For a 7 mm bony advancement, the predicted soft tissue pogonion advancement is 6.3–6.6 mm (approximately 6–7 mm).",
+          "wrong": {
+            "A": "50% ratio is the soft tissue response for some vertical movements (e.g., vertical augmentation with interpositional graft); horizontal advancement has a much higher ratio",
+            "B": "70–80% ratio is typical for Le Fort I maxillary advancement soft tissue response — not genioplasty",
+            "D": "Soft tissue does not exceed bony movement in standard genioplasty — ratios >100% are not seen in horizontal movements"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Soft tissue prediction ratios for orthognathic movements — genioplasty 90–95%",
+          "trial": "Proffit WR et al. Contemporary Treatment of Dentofacial Deformity (2003): comprehensive soft tissue prediction ratios for all jaw movements; genioplasty advancement 90–95% at pogonion",
+          "pearl": "Soft tissue prediction ratios: Genioplasty advancement = 90–95% (highest). Le Fort I advancement = 70–80%. BSSO advancement = 85–90%. Genioplasty vertical impaction = 70–80%. These ratios are essential for VTO (visual treatment objective) planning."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q7",
+        "stem": "Which material for alloplastic chin augmentation is considered most difficult or impossible to remove once placed, due to extensive fibrous tissue ingrowth?",
+        "options": {
+          "A": "Silicone (polydimethylsiloxane)",
+          "B": "Expanded polytetrafluoroethylene (ePTFE)",
+          "C": "Porous polyethylene (Medpor)",
+          "D": "Hydroxyapatite cement"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Porous polyethylene (Medpor) has a highly porous structure (pore size 125–250 μm) that allows fibrovascular and even bony ingrowth throughout the implant. This ingrowth makes Medpor extremely stable and resistant to migration — its main advantage. However, it renders the implant practically impossible to remove completely once fibrovascular ingrowth has occurred (typically by 3–6 months). Surgical removal requires physical fragmentation of the implant and leaves residual material embedded in tissue. This irreversibility should be specifically discussed with patients before Medpor placement.",
+          "wrong": {
+            "A": "Silicone implants have a smooth surface or textured surface but minimal tissue ingrowth — they are encapsulated by fibrous tissue and remain removable throughout their life",
+            "B": "ePTFE (Gore-Tex) has some tissue ingrowth but is generally removable with careful dissection in the first few years; more difficult than silicone but less problematic than Medpor",
+            "D": "Hydroxyapatite cement is not used for alloplastic chin augmentation — it is used for craniofacial defect repair"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Alloplastic chin implant material selection — patient counselling on irreversibility of porous polyethylene",
+          "trial": "Rubin JP, Yaremchuk MJ. Complications and toxicities of implantable biomaterials used in facial reconstructive and aesthetic surgery. Plast Reconstr Surg (1997): porous polyethylene ingrowth essentially permanent by 3 months; removal requires fragmentation; silicone encapsulation without ingrowth = fully reversible",
+          "pearl": "Alloplastic chin implant reversibility: Silicone = easily removed anytime. ePTFE = removable with careful dissection. Porous polyethylene (Medpor) = essentially irreversible due to fibrovascular ingrowth. Counsel patients about the permanence of Medpor before implantation."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q8",
+        "stem": "A 23-year-old man undergoes genioplasty for isolated chin deficiency. Immediately postoperatively he has expected lower lip numbness. At 3 months his numbness has only partially resolved — he can feel light touch but has reduced two-point discrimination. At 12 months, the deficit is essentially unchanged from 3 months. What is the most appropriate next step?",
+        "options": {
+          "A": "Reassure and continue monitoring to 24 months",
+          "B": "Prescribe nortriptyline for neuropathic pain management",
+          "C": "Refer for surgical exploration and microsurgical nerve assessment",
+          "D": "Order repeat CBCT to assess for implant migration near the foramen"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "When post-genioplasty neurosensory deficit shows no progression of recovery between 3 and 12 months, this suggests an axonotmesis or neurotmesis injury with impaired axonal regrowth rather than simple neuropraxia (which typically recovers within 3–6 months). The lack of interval improvement from 3 to 12 months is a concerning sign. At this point, referral for surgical exploration and microsurgical assessment (including nerve conduction studies and ENMG) is warranted to assess whether: (1) the nerve is entrapped within scar tissue at the foramen, (2) there is a neuroma requiring neurolysis, or (3) true neurotmesis is present requiring nerve grafting.",
+          "wrong": {
+            "A": "Although recovery can continue beyond 12 months, the absence of any change between 3 and 12 months is an adverse prognostic sign — waiting further without investigation is not appropriate when microsurgical options are available",
+            "B": "Nortriptyline addresses neuropathic pain and dysaesthesia but does not promote nerve recovery or address the structural cause",
+            "D": "Genioplasty uses an osseous sliding osteotomy with no implant placed — there is no implant to migrate; CBCT would assess bone healing and hardware position but not specifically nerve entrapment"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Persistent neurosensory deficit after jaw surgery — referral criteria for microsurgical assessment at 12 months without interval improvement",
+          "trial": "Robinson PP et al. Peripheral nerve injuries in surgical dentistry. Br Dent J (2004): systematic approach to persistent nerve injury — no recovery from 3 to 12 months warrants surgical exploration; entrapment at foramen/scar most common correctable cause",
+          "pearl": "Post-genioplasty nerve deficit: neuropraxia recovers by 3–6 months. Axonotmesis recovers slowly over 12–18 months with measurable interval improvement. No improvement from 3 to 12 months = possible neurotmesis or entrapment → surgical exploration referral."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B4-Q9",
+        "stem": "A sliding genioplasty is planned for a patient with isolated horizontal chin deficiency. Cephalometric analysis shows: chin requires 8 mm anterior advancement, no vertical change needed. What fixation is used, and what is the primary risk at this magnitude?",
+        "options": {
+          "A": "Wire osteosynthesis; primary risk is infection",
+          "B": "Titanium miniplate; primary risk is relapse, requiring 1–2 mm overcorrection",
+          "C": "Bicortical screws; primary risk is avascular necrosis",
+          "D": "No fixation — the muscle pedicle provides adequate stability"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Standard fixation for genioplasty is a titanium miniplate or dedicated genioplasty plate with monocortical screws, providing rigid fixation of the chin segment in the advanced position. For advancements of 8 mm, skeletal relapse at 1 year is reported in approximately 5–8% of cases — most series recommend overcorrecting by 1–2 mm (planning 9–10 mm bony advancement) to account for expected minor relapse. The stability of isolated genioplasty advancement is generally excellent because the chin segment is well vascularised through the muscle pedicle and bony contact is maintained over a broad surface.",
+          "wrong": {
+            "A": "Wire osteosynthesis (wiring the chin segment) does not provide adequate rigid fixation and is associated with high relapse rates — titanium plate fixation is the standard of care",
+            "C": "Bicortical screws are rarely used for genioplasty (they would need to traverse both cortices of the chin, which is thin); miniplates are standard",
+            "D": "Without rigid plate fixation, the chin segment would return to its original position — the muscle pedicle maintains viability but not fixation"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Genioplasty fixation — titanium miniplate as standard; 1–2 mm overcorrection for advancements >6 mm",
+          "trial": "Shaughnessy S et al. Stability of sliding genioplasty. J Oral Maxillofac Surg (1994): relapse <5% for advancements ≤8 mm with rigid plate fixation; 1–2 mm overcorrection recommended for 6–10 mm advancements",
+          "pearl": "Genioplasty fixation = titanium miniplate (monocortical screws). For advancements >6 mm, plan 1–2 mm overcorrection to account for minor relapse. Overall stability is excellent — much better than BSSO for equivalent horizontal movements."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q10",
+        "stem": "What is the primary cephalometric measurement used to assess horizontal chin position and plan genioplasty?",
+        "options": {
+          "A": "SNA angle",
+          "B": "Pogonion (Pg) to NB line distance",
+          "C": "ANB angle",
+          "D": "Wits appraisal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The pogonion (Pg) to NB line distance measures chin prominence relative to the N-B skeletal reference. Normal values are approximately 4 mm ahead of NB in males and 2–3 mm in females. A deficient chin shows Pg behind the NB line or at the line with values below normal; a prominent chin shows Pg significantly ahead of NB. This measurement is the primary cephalometric tool for assessing chin-specific deformity and planning genioplasty movements, independent of jaw relationship measurements.",
+          "wrong": {
+            "A": "SNA measures maxillary sagittal position relative to nasion — not chin position",
+            "C": "ANB measures the skeletal jaw relationship (maxilla vs mandible) — relevant for jaw surgery planning but not chin-specific assessment",
+            "D": "Wits appraisal measures occlusal plane-based jaw relationship — relevant for orthognathic planning, not chin-specific assessment"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Cephalometric analysis for chin assessment — Pg to NB as primary measurement",
+          "trial": "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003): Pg-NB norms and application to genioplasty planning described with surgical prediction methodology",
+          "pearl": "Pg to NB = chin position assessment. Normal: male 4 mm, female 2–3 mm ahead of NB. Use for genioplasty-specific planning. ANB and SNA/SNB assess jaw relationships for BSSO/Le Fort planning — different measurements for different purposes."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q11",
+        "stem": "During genioplasty, the surgeon notes that after completing the horizontal osteotomy the chin segment is not mobile and remains firmly attached. Which structure is most likely providing this unexpected resistance?",
+        "options": {
+          "A": "Periosteum on the lateral chin surface",
+          "B": "Muscle pedicle (suprahyoid muscles) attached to the inferior border and genial tubercles",
+          "C": "Cortical bone on the posterior surface of the symphysis that has not been fully cut",
+          "D": "Fibrous attachment of the inferior alveolar nerve"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The genioplasty osteotomy must completely cut through the cortical bone bilaterally — both buccal and lingual cortices — using the reciprocating saw. If the posterior lingual cortex has not been completely cut, the chin segment remains firmly attached and cannot be mobilised. This is the most common intraoperative reason for chin segment immobility after osteotomy. The solution is to re-examine the osteotomy with periosteal elevation and complete any remaining cortical cut under direct vision. A thin curved osteotome can help complete the posterior lingual cortex if the saw cannot be safely advanced further.",
+          "wrong": {
+            "A": "Lateral periosteum provides some resistance but is not typically firm enough to prevent mobilisation after complete osteotomy — it tears easily with controlled downward pressure",
+            "B": "The muscle pedicle (suprahyoid muscles on the inferior border) must NOT be cut during genioplasty — it provides vascular supply; its resistance is part of normal mobility but does not prevent mobilisation if the osteotomy is complete",
+            "D": "The inferior alveolar nerve is not in the surgical field for genioplasty — it is within the mandibular canal above the osteotomy level"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Genioplasty technique — complete osteotomy verification before mobilisation",
+          "trial": "Bell WH, Gallagher DM. The versatility of genioplasty using a broad pedicle. J Oral Maxillofac Surg (1983): technical description emphasising complete posterior cortical cut as essential before mobilisation",
+          "pearl": "If chin segment does not mobilise after genioplasty osteotomy → check for incomplete posterior (lingual) cortex cut. Never force mobilisation — this risks bad split propagation into tooth root zone. Complete the posterior cortical cut under direct vision before applying gentle mobilisation pressure."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q12",
+        "stem": "A 30-year-old woman with a long lower face and lip incompetence is planned for genioplasty impaction to reduce chin height by 5 mm. What technique is used to achieve vertical reduction?",
+        "options": {
+          "A": "Horizontal advancement of the chin segment superiorly along an angulated cut",
+          "B": "Removal of a horizontal wedge of bone between the chin osteotomy and the mandibular body (superior cut), closing the gap",
+          "C": "Insertion of a titanium distractor to gradually compress the chin segment upward",
+          "D": "Placement of a silicone implant under the existing chin segment to elevate it"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Vertical chin reduction (impaction) requires removing a horizontal wedge of bone from the superior surface of the chin segment (or equivalently, making a second parallel osteotomy superior to the first and removing the bone between the two cuts). The amount of bone removed equals the planned vertical reduction (5 mm in this case). The chin segment is then moved superiorly to close the gap, producing a shorter chin height. The segment is fixed with a titanium plate spanning the new bone-to-bone contact. This is only achievable with osseous genioplasty — alloplastic augmentation cannot reduce chin height.",
+          "wrong": {
+            "A": "Angulated advancement along a non-horizontal cut produces a combination of advancement and slight vertical change, but not pure 5 mm impaction — this technique is less precise for vertical reduction",
+            "C": "Distraction osteogenesis is used for gradual bone lengthening/augmentation — it cannot be used for bone compression/reduction",
+            "D": "Placing an implant under the chin segment would push it inferiorly, increasing chin height — the opposite of what is needed"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Genioplasty — osseous impaction technique for vertical reduction",
+          "trial": "Shaughnessy S et al. J Oral Maxillofac Surg (1994): osseous genioplasty impaction produces reliable vertical reduction with soft tissue response of 70–80%; only technique for chin height reduction",
+          "pearl": "Vertical chin REDUCTION = bone wedge removal + impaction (only possible with osseous genioplasty, not alloplastic). Vertical chin AUGMENTATION = interpositional bone graft between chin segment and body (less reliable due to graft resorption). Know the two-way vertical movement options."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q13",
+        "stem": "A 19-year-old man undergoes alloplastic chin augmentation with a standard silicone implant placed through a labiovestibular (intraoral) incision. Postoperatively he develops right-sided lower lip numbness extending to the chin. Which complication has occurred?",
+        "options": {
+          "A": "Mental nerve compression by the implant placed too far laterally",
+          "B": "Chorda tympani nerve injury from posterior dissection",
+          "C": "Inferior alveolar nerve injury from the subperiosteal dissection",
+          "D": "Lingual nerve injury from excessive traction"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Alloplastic chin implants extend laterally from the symphysis region, and if sized too large or mispositioned, the lateral edges of the implant can compress or tether the mental nerve at or near the mental foramen. Unilateral lower lip and chin numbness following chin augmentation with a standard asymmetric implant (where right lateral extension overlies the right mental foramen) is the classic presentation of mental nerve compression. Management: reposition the implant medially (or replace with a smaller implant) to relieve nerve pressure; most cases resolve once pressure is removed.",
+          "wrong": {
+            "A": "This is the correct answer — mental nerve compression at the mental foramen by a laterally oversized implant",
+            "B": "Chorda tympani injury produces ipsilateral taste disturbance in the anterior tongue — not lower lip numbness; it is at risk in BSSO, not chin augmentation",
+            "C": "IAN injury during chin augmentation would require penetrating the mandibular body above the osteotomy level — not possible in a properly performed subperiosteal pocket dissection at the symphysis",
+            "D": "Lingual nerve injury would produce anterior tongue hypoaesthesia — not lower lip/chin numbness; the lingual nerve is not in the surgical field for chin augmentation"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Alloplastic chin augmentation — implant sizing and positioning to avoid mental nerve compression",
+          "trial": "Friedland JA et al. Long-term follow-up of alloplastic chin augmentation. Plast Reconstr Surg (2003): mental nerve symptoms in 4% of alloplastic augmentations; repositioning resolved 87% of cases; nerve recovery complete in 90% after repositioning within 6 weeks",
+          "pearl": "Post chin augmentation unilateral lip/chin numbness = mental nerve compression by laterally oversized or migrated implant. Early repositioning within 6 weeks gives 90% nerve recovery. Implant size selection must account for lateral extension relative to mental foramen position."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q14",
+        "stem": "Which clinical scenario is an indication for osseous sliding genioplasty rather than alloplastic chin augmentation?",
+        "options": {
+          "A": "Isolated horizontal chin deficiency of 5 mm in a 35-year-old woman seeking a minimally invasive procedure",
+          "B": "Horizontal chin deficiency of 12 mm with simultaneous need for vertical chin reduction of 4 mm",
+          "C": "Mild chin deficiency of 4 mm combined with rhinoplasty",
+          "D": "Horizontal chin deficiency of 6 mm in a patient who has previously undergone BSSO"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The requirement for both horizontal advancement AND vertical reduction simultaneously is the definitive indication for osseous genioplasty over alloplastic augmentation. Alloplastic implants can only add projection — they cannot reduce chin height or change the vertical dimension. A 12 mm horizontal advancement combined with 4 mm vertical reduction requires a sliding osteotomy with bone wedge removal, which only osseous genioplasty can provide. Additionally, 12 mm is at the upper limit of alloplastic augmentation reliability (>10 mm advancements are better achieved with osseous genioplasty for stability reasons).",
+          "wrong": {
+            "A": "Isolated 5 mm horizontal deficiency in an adult seeking minimally invasive correction is an appropriate alloplastic indication — simple, reversible, local anaesthetic procedure",
+            "C": "Mild 4 mm deficiency combined with rhinoplasty is a classic alloplastic indication — silicone chin implant and rhinoplasty under one anaesthetic is a standard combination",
+            "D": "Previous BSSO does not contraindicate alloplastic augmentation — the previous surgery does not change the chin anatomy significantly enough to require osseous genioplasty"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Osseous genioplasty indications — multidimensional movement, vertical reduction, large advancements >10 mm",
+          "trial": "Proffit WR et al. Contemporary Treatment of Dentofacial Deformity (2003): osseous genioplasty uniquely capable of vertical reduction — alloplastic augmentation limited to horizontal augmentation only",
+          "pearl": "Osseous genioplasty is required when: (1) vertical reduction needed, (2) movement >10–12 mm, (3) asymmetry correction >4 mm, (4) concurrent orthognathic surgery. Alloplastic is appropriate for: (1) isolated horizontal deficiency ≤10 mm, (2) patient preference for less invasive, (3) aesthetic practice combination with rhinoplasty."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q15",
+        "stem": "A 25-year-old woman undergoes osseous genioplasty. At 6 months she presents with a palpable and visible bony step on the right side where the chin segment meets the mandibular body. The step is 3 mm and cosmetically noticeable. She is distressed by the appearance. What is the most appropriate treatment?",
+        "options": {
+          "A": "Revision surgery with re-osteotomy and different fixation",
+          "B": "Bone burring of the step under local anaesthesia to smooth the transition",
+          "C": "Reassure — the step will remodel completely within 2 years",
+          "D": "Alloplastic implant placed over the step to camouflage it"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "A visible bony step deformity after genioplasty results from inadequate smoothing of the lateral bone margin after the chin segment is advanced, leaving an abrupt step between the advanced chin and the fixed mandibular body. At 6 months, the bone is fully healed and the step can be definitively managed by burring the step smooth through a small intraoral approach under local anaesthesia. This is a minor secondary procedure with minimal morbidity and excellent outcomes. The bony step should be contoured under direct vision to produce a smooth transition.",
+          "wrong": {
+            "A": "Full revision re-osteotomy is excessive for a simple bony step deformity — burring is the appropriate and less invasive first intervention",
+            "C": "Bony steps do not remodel spontaneously — they require intervention; the step is already present at 6 months (healed bone) and will persist",
+            "D": "Placing an alloplastic implant over a step adds volume and does not smooth the contour; it would make the region more prominent, not blend it"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Secondary procedures after genioplasty — bony step management by contouring",
+          "trial": "Shaughnessy S et al. Stability of sliding genioplasty. J Oral Maxillofac Surg (1994): bony step in 8% of advancements >6 mm; burring under local anaesthesia successful in all cases; prevention by intraoperative lateral bone contouring",
+          "pearl": "Genioplasty bony step deformity = bur it smooth under local anaesthesia (6+ months post-op when bone is healed). Prevention: always contour the lateral bony steps at the time of primary genioplasty after fixation is applied."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q16",
+        "stem": "The 'anterior loop of the mental nerve' is clinically relevant to genioplasty planning because it:",
+        "options": {
+          "A": "Carries the primary motor supply to the chin musculature",
+          "B": "Extends anteriorly within the bone beyond the mental foramen by 0–5 mm, increasing the required safety margin for the osteotomy",
+          "C": "Is routinely sacrificed during genioplasty without clinical consequence",
+          "D": "Is located posterior to the mental foramen and therefore not at risk in anterior chin surgery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The anterior loop of the mental nerve is a segment of the inferior alveolar nerve that extends anteriorly within the mandibular canal beyond the mental foramen before looping back to exit posterolaterally through the foramen. It extends 0–5 mm (mean ~2.3 mm) anterior to the visible foramen exit. This means the nerve is within the bone anterior to the foramen, in the zone where the genioplasty osteotomy is placed. The 5 mm safety margin below the foramina accounts for this anterior loop — simply avoiding the foramen itself is insufficient.",
+          "wrong": {
+            "A": "The mental nerve is purely sensory — it does not supply motor innervation to chin musculature; the marginal mandibular branch of the facial nerve supplies chin motor function",
+            "C": "The anterior loop of the mental nerve carries sensory fibres to the lower lip and chin — it is clinically significant and must be protected; injury causes permanent lower lip hypoaesthesia",
+            "D": "The anterior loop extends ANTERIORLY beyond the foramen — it is not posterior and is directly in the path of a genioplasty osteotomy placed too close to the foramen"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Anterior loop of the mental nerve — clinical significance in genioplasty and implant placement",
+          "trial": "Mardini S et al. The anterior loop of the inferior alveolar nerve: a clinical and anatomic study. J Oral Maxillofac Surg (2000): anterior loop present in 88% of specimens, extending mean 2.3 mm anterior to foramen (range 0–5.5 mm)",
+          "pearl": "Anterior loop = mental nerve extends anteriorly 0–5 mm beyond the foramen within the bone. Safety rule: osteotomy must be 5 mm BELOW the foramen to clear the anterior loop. Know both the foramen location AND the anterior loop when planning the osteotomy."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B4-Q17",
+        "stem": "In a patient undergoing genioplasty for chin setback, which specific complication is more likely compared to chin advancement?",
+        "options": {
+          "A": "Avascular necrosis of chin segment",
+          "B": "Chin soft tissue ptosis (witch's chin) with prominent mentolabial fold",
+          "C": "Mental nerve permanent injury",
+          "D": "Non-union at the osteotomy site"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Chin setback (posterior repositioning) is more likely to produce chin soft tissue ptosis (witch's chin) compared to advancement. When the chin is moved posteriorly, the soft tissue envelope that previously covered the advanced chin now has excess laxity. The chin pad may droop inferiorly, creating a ptotic appearance with a deepened mentolabial fold — the 'witch's chin' deformity. This risk increases with larger setbacks (>4–5 mm) and inadequate mentalis resuspension. In contrast, chin advancement creates tension in the soft tissue envelope that tends to prevent drooping.",
+          "wrong": {
+            "A": "Avascular necrosis risk is not direction-dependent — it is caused by muscle pedicle detachment, which can occur with any genioplasty movement",
+            "C": "Mental nerve injury risk is similar for advancement and setback — it depends on osteotomy proximity to the foramen, not movement direction",
+            "D": "Non-union risk is similar for both movements and depends primarily on fixation quality and host factors, not movement direction"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Genioplasty complications — soft tissue ptosis more common with setback movements",
+          "trial": "Zide BM, McCarthy JG. The mentalis muscle: an essential component of chin and lower lip position. Plast Reconstr Surg (1989): soft tissue ptosis after setback related to excess skin laxity and mentalis non-resuspension",
+          "pearl": "Chin setback > advancement for soft tissue ptosis (witch's chin) risk because setback creates soft tissue laxity. Conservative setback (≤4 mm) and meticulous mentalis resuspension are preventive. Consider conservative approach for large setbacks — may leave residual chin prominence."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B4-Q18",
+        "stem": "A 22-year-old patient requires genioplasty advancement of 10 mm combined with vertical impaction of 4 mm (two-vector movement). What is planned at the osteotomy level to achieve this combined movement?",
+        "options": {
+          "A": "A straight horizontal cut, with the chin segment advanced 10 mm and a bone wedge removed from the superior surface after movement",
+          "B": "A step-oblique osteotomy that simultaneously achieves both vectors in a single cut",
+          "C": "Two separate horizontal osteotomies: one for vertical reduction and one for advancement",
+          "D": "An angulated osteotomy cut (angled superiorly toward the symphysis), producing combined advancement and impaction as a single movement"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "For combined advancement and impaction, an angulated (non-horizontal) osteotomy is designed so that when the chin segment slides anteriorly along the angulated cut surfaces, it simultaneously moves anteriorly (advancement) and superiorly (impaction). The angle of the osteotomy is calculated from the planned x-axis (horizontal) and y-axis (vertical) movement vectors. As the segment slides forward on the angulated cut, it moves in both planes simultaneously, avoiding the need for a separate bone wedge removal. The titanium plate is then contoured to hold the segment in the correct combined position.",
+          "wrong": {
+            "A": "A straight horizontal cut requires separate bone wedge removal for the vertical component — this is a valid technique but less elegant than a single angulated cut for predictable two-vector movement",
+            "B": "A step-oblique osteotomy is used for asymmetry correction (combined advancement and transverse), not primarily for vertical + horizontal two-vector movements",
+            "C": "Two separate osteotomies create three bone segments, which is unnecessarily complex and creates additional vascular risk — single angulated osteotomy achieves the same result more safely"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Multi-vector genioplasty technique — angulated osteotomy for combined horizontal and vertical movements",
+          "trial": "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003): angulated osteotomy technique for combined advancement + impaction described; trigonometric calculation of cut angle from planned movement vectors",
+          "pearl": "Combined advancement + impaction genioplasty = angulated osteotomy. Angle calculated from horizontal/vertical movement ratio. As the segment slides anteriorly on the angulated bone surfaces, it moves in both planes simultaneously. No need for separate bone wedge removal."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B4-Q19",
+        "stem": "A patient undergoes combined Le Fort I maxillary advancement of 6 mm and BSSO mandibular advancement of 4 mm for skeletal Class II correction. Pre-surgical planning shows that after these jaw movements the chin position will still be deficient (Pg 3 mm behind NB in a male patient who requires 4 mm on NB). What additional procedure should be planned?",
+        "options": {
+          "A": "No additional procedure — the BSSO advancement corrects the chin deficiency",
+          "B": "Genioplasty advancement of approximately 7 mm concurrent with the orthognathic procedures",
+          "C": "Alloplastic chin augmentation 3 months after orthognathic surgery",
+          "D": "Increase BSSO advancement to 7 mm instead of 4 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "After the planned bimaxillary movements, cephalometric prediction shows the chin at Pg 3 mm behind NB. Target for male is Pg 4 mm ahead of NB — a total deficit of 7 mm remains. Concurrent osseous genioplasty advancement of 7 mm should be added to the surgical plan. This is best performed concurrently with the orthognathic procedures to complete all the necessary corrections in a single anaesthetic. Planning the genioplasty as a concurrent procedure is standard in cases where soft tissue prediction after jaw movements reveals residual chin deficiency.",
+          "wrong": {
+            "A": "The BSSO advancement moves the entire mandible, including the chin bony pogonion, anteriorly — but cephalometric prediction after the 4 mm BSSO has already accounted for this; residual chin deficiency of 7 mm persists",
+            "C": "Alloplastic augmentation 3 months later is acceptable but subjects the patient to a second procedure unnecessarily when the chin can be corrected simultaneously",
+            "D": "Increasing BSSO to 7 mm moves the entire mandible further, which may create occlusal problems not planned orthodontically — genioplasty is the specific tool for chin-only correction"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Integration of genioplasty in orthognathic planning — concurrent genioplasty when VTO shows residual chin deficiency after jaw movements",
+          "trial": "Proffit WR, Turvey TA, Phillips C. Orthognathic surgery: a hierarchy of stability. Int J Adult Orthod Orthognath Surg (1996): genioplasty adjustment concurrent with orthognathic surgery produces superior results to staged secondary procedures; planning software integration recommended",
+          "pearl": "Always perform VTO (visual treatment objective) after planned jaw movements before finalising the surgical plan. If residual chin deficiency is identified, add concurrent genioplasty — do not increase jaw movement beyond what orthodontics has prepared for or what stability hierarchy allows."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B4-Q20",
+        "stem": "Which of the following is a correct statement about the soft tissue response following osseous genioplasty compared to BSSO mandibular advancement?",
+        "options": {
+          "A": "BSSO advancement produces greater soft tissue change at pogonion than genioplasty advancement of the same magnitude",
+          "B": "Genioplasty advancement produces approximately 90–95% soft tissue movement at pogonion, while BSSO advancement produces approximately 85–90%",
+          "C": "Genioplasty and BSSO produce identical soft tissue ratios at pogonion",
+          "D": "Genioplasty produces only 50% soft tissue response due to the thick mentalis muscle over the pogonion"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Genioplasty advancement produces approximately 90–95% soft tissue movement at soft-tissue pogonion, while BSSO mandibular advancement produces approximately 85–90% at the same landmark. This small but consistent difference reflects the directly adherent nature of the chin soft tissue at the pogonion in genioplasty (bone directly under thin skin and periosteum), compared to BSSO where the entire mandible advances and soft tissue drape is slightly less immediate at pogonion. Both are high ratios, but genioplasty has the highest predictability at pogonion of any orthognathic procedure.",
+          "wrong": {
+            "A": "BSSO does not produce greater soft tissue response at pogonion — genioplasty has the slightly higher ratio (90–95% vs 85–90%)",
+            "C": "Genioplasty and BSSO produce similar but not identical ratios — genioplasty is consistently slightly higher",
+            "D": "50% is the ratio for vertical augmentation with interpositional graft — not for horizontal advancement; the mentalis muscle does not significantly reduce the horizontal soft tissue ratio"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Soft tissue prediction — movement ratios by procedure type",
+          "trial": "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003): systematic documentation of soft tissue prediction ratios by movement type and anatomical region",
+          "pearl": "Soft tissue prediction hierarchy at pogonion: Genioplasty advancement 90–95% > BSSO advancement 85–90% > Le Fort I advancement 70–80% > Vertical augmentation graft 50–70%. Know these ratios for planning and for board examinations."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

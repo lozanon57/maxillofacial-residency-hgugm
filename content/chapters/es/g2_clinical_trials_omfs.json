@@ -1,0 +1,612 @@
+{
+  "id": "G2",
+  "title": "Ensayos Clínicos en CMF: CONSORT, Diseño de ECA y Ética",
+  "subtitle": "Bloque G — Investigación y Desarrollo Académico",
+  "block": "G",
+  "block_name": "Investigación y Desarrollo Académico",
+  "level": "R2-5",
+  "reading_time_min": 26,
+  "guidelines_version": "CONSORT 2010 · Declaration of Helsinki 2013 · ICH GCP E6(R2) 2016 · UK Policy Framework for Health and Social Care Research 2017",
+  "textbook_refs": [
+    "Schulz KF et al. 'CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials.' BMJ (2010)",
+    "World Medical Association. 'Declaration of Helsinki: ethical principles for medical research involving human subjects.' JAMA (2013)",
+    "ICH Harmonised Guideline E6(R2). Good Clinical Practice. (ICH 2016)",
+    "Moher D et al. 'The CONSORT Statement: revised recommendations for improving the quality of reports of parallel-group randomised trials.' JAMA (1995)",
+    "Cook JA et al. 'The IDEAL framework for surgical innovation.' BMJ (2013)"
+  ],
+  "learning_objectives": [
+    "Describir los componentes fundamentales de un ECA y el propósito de cada elemento de diseño",
+    "Aplicar la lista de verificación CONSORT 2010 para evaluar la completitud de la comunicación de un ECA",
+    "Identificar los principios éticos que rigen la investigación clínica en CMF y su marco jurídico",
+    "Explicar el marco IDEAL para el desarrollo y la evaluación por etapas de las innovaciones quirúrgicas",
+    "Describir los requisitos regulatorios y de aprobación para realizar un ensayo clínico en el Reino Unido"
+  ],
+  "sections": [
+    {
+      "id": "G2-S1",
+      "title": "Anatomía de un Ensayo Clínico Aleatorizado",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Un **ensayo clínico aleatorizado (ECA)** es un estudio experimental prospectivo en el que los participantes se asignan aleatoriamente a dos o más grupos de intervención y se les hace seguimiento para medir resultados preespecificados. El ECA es el patrón oro para evaluar la efectividad de las intervenciones terapéuticas porque la aleatorización, cuando se implementa correctamente, equilibra tanto los factores de confusión medidos como los no medidos entre los grupos, haciendo posible la inferencia causal.\n\nLos componentes fundamentales de un ECA son: (1) **Criterios de elegibilidad** — criterios de inclusión y exclusión claramente definidos que especifican la población diana; (2) **Aleatorización** — el proceso de asignar aleatoriamente a los participantes a los grupos; (3) **Ocultación de la asignación** — garantizar que la secuencia de asignación se oculte a quienes incluyen a los participantes; (4) **Enmascaramiento** — ocultar a los participantes, cuidadores y/o evaluadores del resultado la asignación grupal; (5) **Grupo control** — el comparador (tratamiento activo, atención estándar o placebo); (6) **Seguimiento** — evaluación estandarizada de los resultados en momentos preespecificados; (7) **Resultado principal** — el único resultado más importante preespecificado antes de la recogida de datos; (8) **Cálculo del tamaño muestral** — cálculo del número mínimo de participantes necesario para detectar una diferencia clínicamente significativa con una potencia adecuada.\n\nEn CMF, los ECA se enfrentan a desafíos específicos: (1) el enmascaramiento de los participantes a las intervenciones quirúrgicas suele ser imposible; (2) las curvas de aprendizaje quirúrgico implican que los resultados en fases tempranas pueden no reflejar la verdadera efectividad de la técnica; (3) las afecciones poco frecuentes (tumores de glándulas salivales, tumores de la base del cráneo) tienen un número insuficiente de pacientes para ECA con potencia adecuada; (4) la variación entre cirujanos introduce sesgo de realización difícil de controlar. Estas limitaciones explican por qué la mayor parte de la evidencia en CMF permanece en Nivel 3–4 y por qué se desarrolló el marco IDEAL para la evaluación escalonada de la innovación quirúrgica."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Resultado Principal frente a Secundarios",
+          "content": "Un ECA debe tener UN único resultado principal preespecificado. Es el resultado en el que se basa el cálculo del tamaño muestral y el que determina si el ensayo es 'positivo' o 'negativo'. Los resultados secundarios aportan información de apoyo pero NO deben impulsar la conclusión principal. Cambiar los resultados principales después de ver los datos = sesgo de comunicación de resultados."
+        }
+      ]
+    },
+    {
+      "id": "G2-S2",
+      "title": "Aleatorización y Cálculo del Tamaño Muestral",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **aleatorización** garantiza que los participantes sean asignados a los grupos de tratamiento por azar, y no por elección de los investigadores o de los propios participantes. La aleatorización simple (lanzamiento de moneda, tabla de números aleatorios) produce grupos estadísticamente iguales en ensayos grandes, pero puede generar grupos desequilibrados por azar en ensayos más pequeños. La **aleatorización estratificada** (aleatorización dentro de estratos definidos por factores pronósticos importantes) garantiza el equilibrio en las variables clave — especialmente importante en CMF, donde la complejidad quirúrgica, el tipo de fractura o la edad del paciente pueden influir notablemente en los resultados. La **aleatorización en bloques** (aleatorización dentro de bloques de tamaño fijo) garantiza una asignación equilibrada en todos los momentos temporales, evitando el desequilibrio si el ensayo se detiene precozmente.\n\nEl **cálculo del tamaño muestral** es obligatorio para todos los ECA. El tamaño muestral necesario depende de: (1) **Tasa de eventos esperada (grupo control)** — la frecuencia estimada del resultado en el brazo de control; (2) **Diferencia clínicamente importante mínima (DCIM)** — la diferencia más pequeña que el ensayo está diseñado para detectar; (3) **Alfa (α)** — la tasa de error tipo I aceptable (convencionalmente 0,05 = tasa del 5% de falsos positivos); (4) **Potencia (1-β)** — la probabilidad de detectar la diferencia si realmente existe (convencionalmente 80–90%; el 80% significa que el ensayo perderá el 20% de las diferencias verdaderas); (5) **Desviación estándar** del resultado (para resultados continuos).\n\nLa fórmula para la comparación de dos grupos de proporciones: N = [(z_α + z_β)² × (p₁(1-p₁) + p₂(1-p₂))] / (p₁-p₂)². Para los resultados continuos, la desviación estándar y la DCIM determinan el N necesario. Un ensayo con escasa potencia estadística (demasiado pequeño) puede no detectar una diferencia de tratamiento real — un resultado negativo de un ensayo con escasa potencia NO significa que los tratamientos sean equivalentes; simplemente puede significar que el ensayo era demasiado pequeño para detectar el efecto."
+        },
+        {
+          "type": "table",
+          "title": "Cálculo del Tamaño Muestral — Parámetros Clave",
+          "headers": ["Parámetro", "Definición", "Valor Típico", "Efecto sobre el Tamaño Muestral"],
+          "rows": [
+            ["Alfa (α)", "Error tipo I: probabilidad de falso positivo", "0,05 (bilateral)", "α más pequeño → N mayor"],
+            ["Potencia (1-β)", "Probabilidad de detectar diferencia real", "0,80 o 0,90", "Mayor potencia → N mayor"],
+            ["DCIM", "Diferencia clínicamente importante mínima", "Específica del resultado", "DCIM más pequeña → N mayor"],
+            ["Tasa de eventos (control)", "Frecuencia basal del resultado", "Estimada del piloto/literatura", "Tasa más baja → N mayor"],
+            ["Desviación estándar (DE)", "Variabilidad del resultado continuo", "Del estudio piloto o literatura", "Mayor DE → N mayor"],
+            ["Ajuste por abandono", "Dropout/pérdida en el seguimiento esperada", "10–20% típico", "Inflar N en 1/(1−tasa de abandono)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G2-S3",
+      "title": "CONSORT 2010: Estándares de Comunicación para ECA",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **Declaración CONSORT (Consolidated Standards of Reporting Trials) 2010** es el estándar internacional para comunicar los ECA de grupos paralelos. Consta de una lista de verificación de 25 ítems y un diagrama de flujo. La lista de verificación garantiza que toda la información metodológica crítica se comunique de forma transparente, permitiendo a los lectores evaluar la validez interna y la aplicabilidad del ensayo. Todas las principales revistas médicas (incluidas BJOMS, JOM, EJSO) requieren el cumplimiento de CONSORT como condición para la publicación.\n\nEl diagrama de flujo CONSORT describe el flujo de participantes a través de cuatro etapas: **Incluidos** (evaluados para elegibilidad → elegibles → aleatorizados); **Asignados** (asignados a cada grupo — número que recibe la intervención y el que no); **Seguimiento** (número perdido en el seguimiento con razones); y **Analizados** (número incluido en el análisis principal con razones de exclusión). El diagrama de flujo hace transparente el abandono y permite evaluar el sesgo de desgaste.\n\nLos ítems CONSORT con frecuencia omitidos o comunicados inadecuadamente en los ensayos quirúrgicos incluyen: método de generación de la secuencia (cómo se realizó la aleatorización — tablas de números aleatorios, algoritmo informático); ocultación de la asignación (cómo se ocultó la asignación); enmascaramiento (quién fue enmascarado y cómo); cálculo del tamaño muestral (parámetros utilizados y resultado); y número de registro del ensayo (que confirma el registro prospectivo). Una revisión sistemática de los ECA en CMF (Meara et al.) encontró que menos del 50% de los ensayos publicados antes de 2010 comunicaban adecuadamente la ocultación de la asignación.\n\nExisten extensiones de CONSORT para diseños específicos: CONSORT-PILOT (estudios piloto/viabilidad), CONSORT-PRO (resultados comunicados por el paciente), CONSORT-HARMS (comunicación de eventos adversos) y CONSORT-SPI (intervenciones quirúrgicas y procedimentales)."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Lectura de un ECA en CMF",
+          "content": "Al evaluar un ECA de CMF, compruebe primero el diagrama de flujo CONSORT. Identifique: ¿cuántos fueron cribados, excluidos (y por qué), aleatorizados, perdidos en el seguimiento y analizados? Si se perdió >20% en el seguimiento, el sesgo de desgaste es una preocupación. Compruebe si el resultado principal está claramente establecido — cambiar de un resultado preespecificado a uno más favorable es una señal de alerta."
+        }
+      ]
+    },
+    {
+      "id": "G2-S4",
+      "title": "Ética de la Investigación Clínica: Declaración de Helsinki y BPC",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La ética de la investigación en CMF se rige por la **Declaración de Helsinki** (Asociación Médica Mundial, última revisión 2013) — el documento ético internacional fundacional para la investigación médica. Sus principios clave incluyen: (1) **Respeto a la autonomía** — los participantes deben dar un consentimiento libre, informado y voluntario; (2) **Beneficencia** — los beneficios potenciales de la investigación deben superar los riesgos; (3) **No maleficencia** — la investigación no debe exponer a los participantes a riesgos desproporcionados; (4) **Justicia** — las cargas y beneficios de la investigación deben distribuirse equitativamente; (5) **El protocolo de investigación debe ser aprobado** por un comité de ética independiente antes de comenzar; (6) Las **poblaciones vulnerables** (niños, presos, personas con capacidad disminuida) requieren protecciones adicionales.\n\nLa **directriz de Buenas Prácticas Clínicas de la ICH (BPC) E6(R2)** (Consejo Internacional para la Armonización, 2016) es el estándar regulatorio internacional para la realización de ensayos clínicos. Las BPC garantizan que los ensayos se diseñen, realicen, registren y comuniquen de modo que proporcionen seguridad de que los datos son creíbles y que se protegen los derechos, la seguridad y el bienestar de los participantes en el ensayo. El cumplimiento de las BPC es obligatorio para los ensayos presentados a las autoridades reguladoras (por ejemplo, MHRA, EMA, FDA).\n\nEn el Reino Unido, los ensayos clínicos con medicamentos en investigación (CTIMPs) requieren: (1) **Autorización del ensayo clínico de la MHRA (AEC)**; (2) **Aprobación del Comité de Ética de la Investigación (CER)** (a través del IRAS — Sistema Integrado de Solicitud de Investigación); (3) **Aprobación de I+D del NHS** para cada centro; y (4) cumplimiento del **Marco de Política del Reino Unido para la Investigación en Salud y Atención Social (2017)** (antes Marco de Gobernanza de la Investigación). Los ensayos sin medicamentos (la mayoría de los ECA quirúrgicos en CMF) requieren aprobación del CER y del NHS I+D, pero no AEC de la MHRA."
+        },
+        {
+          "type": "table",
+          "title": "Requisitos Regulatorios de Ensayos Clínicos en el Reino Unido",
+          "headers": ["Requisito", "Organismo", "Aplicable a", "Plazo"],
+          "rows": [
+            ["Solicitud IRAS", "Portal en línea IRAS", "Toda investigación con pacientes", "Primer paso en el proceso del RU"],
+            ["Aprobación del CER", "Comité de Ética de la Investigación del RU (HRA)", "Toda investigación con participantes humanos", "Objetivo de 28 días hábiles"],
+            ["Aprobación HRA", "Health Research Authority", "Toda investigación del NHS", "Simultánea a/después del CER"],
+            ["AEC de la MHRA", "Medicines and Healthcare products Regulatory Agency", "Solo CTIMPs (fármacos/dispositivos)", "30 días adicionales tras el CER"],
+            ["Aprobación I+D del NHS", "NHS Trust individual", "Toda investigación del NHS", "Tras la aprobación de la HRA, por centro"],
+            ["Registro del ensayo", "ISRCTN / ClinicalTrials.gov", "Todos los ECA (obligatorio para publicación)", "Antes de la inclusión del primer paciente"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G2-S5",
+      "title": "El Marco IDEAL para la Innovación Quirúrgica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La mayoría de las innovaciones quirúrgicas se introducen en la práctica clínica sin la evaluación rigurosa que se aplica a los tratamientos farmacéuticos. El **marco IDEAL** (Cook JA et al. BMJ 2013; Ergina PL et al. Lancet 2009) proporciona un marco estructurado para la evaluación escalonada de los procedimientos quirúrgicos, reconociendo que los ECA no son siempre el primer paso apropiado para las técnicas quirúrgicas novedosas.\n\nIDEAL comprende cinco etapas:\n**Etapa 1 — Idea**: el primer uso de un nuevo procedimiento quirúrgico en uno o pocos pacientes. Sin grupo control; informe de caso o pequeña serie de casos; la seguridad y la viabilidad son las principales preocupaciones. Comunicar como informe de caso de innovación quirúrgica.\n**Etapa 2a — Desarrollo**: desarrollo y perfeccionamiento inicial de la técnica. Series pequeñas (típicamente <20 pacientes). La técnica se modifica de forma iterativa; los resultados son variables. Serie de casos con recogida prospectiva de datos.\n**Etapa 2b — Exploración**: la técnica se vuelve más definida. Una serie prospectiva mayor o un estudio de cohortes compara los resultados con controles históricos o alternativas contemporáneas. Identificación de la curva de aprendizaje; criterios de selección de pacientes emergentes.\n**Etapa 3 — Evaluación**: evaluación comparativa formal. Aquí suele ser apropiado un ECA — la técnica está suficientemente estandarizada para ser reproducible y enseñable. Etapa 3 de IDEAL = ECA conforme a CONSORT.\n**Etapa 4 — Estudio a largo plazo**: resultados a largo plazo, complicaciones poco frecuentes, análisis de subgrupos. Datos de registros y estudios de cohortes de seguimiento a largo plazo. Monitorización permanente de daños inesperados.\n\nEl marco de recomendaciones IDEAL incluye: IDEAL-D (para dispositivos), IDEAL-C (para intervenciones complejas) y recomendaciones de diseño específicas para cada etapa. El mensaje clave de IDEAL es que la innovación quirúrgica debe introducirse de forma responsable: no prematuramente (antes de establecer la seguridad) y no evaluarse demasiado tarde (después de una adopción generalizada sin crítica). Los implantes de Proplast-Teflon para la ATM (retirados en 1990 por fallos catastróficos) representan lo que ocurre cuando no se siguen los principios IDEAL."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — ECA Prematuro para una Técnica Novedosa",
+          "content": "Realizar un ECA de una nueva técnica quirúrgica antes de la Etapa 2b (cuando la técnica aún está evolucionando) produce resultados poco fiables — el grupo de intervención recibe una técnica que cambiará y los resultados del ECA quedarán obsoletos. El marco IDEAL sugiere esperar hasta la Etapa 3 (la técnica está estandarizada y es reproducible) antes de realizar un ECA. Los estudios en fases tempranas (Etapas 1–2) deben centrarse en la seguridad, la viabilidad y el perfeccionamiento de la técnica."
+        }
+      ]
+    },
+    {
+      "id": "G2-S6",
+      "title": "Desafíos Específicos de los ECA Quirúrgicos en CMF",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los ECA quirúrgicos se enfrentan a desafíos metodológicos que no se encuentran en los ensayos farmacéuticos. Comprender estos desafíos — y las estrategias para abordarlos — es importante tanto para la realización como para la interpretación de la investigación en CMF.\n\n**1. Imposibilidad de enmascarar a los participantes**: los pacientes saben qué cirugía recibieron. Esto introduce sesgo de realización (los pacientes pueden cumplir de forma diferente con los cuidados postoperatorios) y sesgo de respuesta (los resultados comunicados por el paciente están influenciados por las expectativas del tratamiento). Mitigación: utilizar resultados principales objetivos (oclusión radiográfica, medición estandarizada de la fuerza de mordida) cuando sea posible; enmascarar a los evaluadores del resultado.\n\n**2. Curva de aprendizaje quirúrgico**: los primeros casos con una nueva técnica producen peores resultados que los casos posteriores. Si los cirujanos en un ECA aún están en la curva de aprendizaje, la nueva técnica parece inferior no porque sea intrínsecamente peor, sino porque no ha sido aprendida. Mitigación: exigir que los cirujanos demuestren competencia antes de entrar en el ensayo; usar ensayos con múltiples cirujanos; analizar el cirujano como efecto aleatorio.\n\n**3. Variación entre cirujanos**: diferentes cirujanos tienen diferentes habilidades y preferencias. En un ECA con múltiples cirujanos, la variación entre cirujanos puede ser mayor que la variación entre tratamientos, ocultando el efecto del tratamiento. Mitigación: aleatorización estratificada por cirujano; análisis de subgrupos preespecificado por experiencia del cirujano.\n\n**4. Contaminación**: los cirujanos del brazo de control adoptan elementos de la técnica experimental durante el ensayo. Mitigación: aleatorización por conglomerados (diferentes cirujanos realizan diferentes tratamientos) — aunque esto reduce la potencia estadística.\n\n**5. Equipoise**: los cirujanos deben creer genuinamente que cualquiera de los tratamientos puede ser superior para que la aleatorización esté éticamente justificada. Si los datos preliminares favorecen claramente un abordaje, los cirujanos no pueden aleatorizar éticamente. Esto ha impedido los ECA de muchas técnicas de CMF donde la evidencia de series de casos parece convincente (por ejemplo, colgajo libre frente a colgajo pediculado para la reconstrucción mandibular)."
+        }
+      ]
+    },
+    {
+      "id": "G2-S7",
+      "title": "Estudios Piloto y de Viabilidad",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Un **estudio piloto** (o estudio de viabilidad) es un pequeño estudio preliminar realizado antes de un ECA definitivo para comprobar la viabilidad del diseño del ensayo y estimar los parámetros necesarios para el cálculo del tamaño muestral del ensayo principal. Un estudio piloto bien realizado no es un ECA con escasa potencia estadística — tiene objetivos diferentes y debe interpretarse de forma diferente.\n\nLos objetivos principales de un estudio piloto son: (1) **Viabilidad** — ¿pueden incluirse participantes a la tasa requerida? ¿Es la intervención aplicable tal como se especifica? ¿Pueden medirse los resultados según lo previsto? ¿Cuál es la tasa de abandono? (2) **Estimación de parámetros** — estimar la tasa de eventos del control, la desviación estándar del resultado y la DCIM plausible para el cálculo del tamaño muestral del ensayo principal; (3) **Logística** — identificar problemas operativos (gestión de datos, formación del personal, equipamiento) antes de que comience el ensayo principal.\n\nLa extensión CONSORT-PILOT (2016) proporciona estándares de comunicación para estudios piloto. Un estudio piloto NO debe comunicarse como si fuera un ensayo de eficacia definitivo — no deben extraerse conclusiones de eficacia del mismo.\n\nUn uso indebido frecuente de los estudios piloto en CMF es realizar un pequeño estudio con escasa potencia estadística, encontrar un resultado no significativo y concluir que los tratamientos son equivalentes. Esto es incorrecto: la ausencia de un resultado estadísticamente significativo en un estudio con escasa potencia NO es evidencia de que no hay diferencia — es simplemente evidencia insuficiente. La respuesta correcta es realizar un ensayo definitivo con la potencia adecuada, utilizando los datos del piloto para calcular el tamaño muestral requerido."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Estudio Piloto frente a Ensayo Definitivo",
+          "content": "Un estudio piloto evalúa la VIABILIDAD — no la eficacia. Un resultado no significativo en un estudio piloto NO significa que los tratamientos sean equivalentes. Significa que el estudio era demasiado pequeño para detectar una diferencia. Compruebe siempre el tamaño muestral y la potencia al leer un ECA de CMF negativo — un ensayo con escasa potencia no proporciona evidencia de equivalencia."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Comprueba tus conocimientos sobre el diseño de ensayos clínicos en CMF con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "G2-Q1",
+        "stem": "La Declaración CONSORT 2010 se desarrolló principalmente para:",
+        "options": {
+          "A": "Proporcionar un método estadístico para agrupar los resultados de múltiples ensayos",
+          "B": "Estandarizar la comunicación de los ensayos clínicos aleatorizados para garantizar una publicación transparente y completa",
+          "C": "Proporcionar pautas éticas para la realización de la investigación clínica",
+          "D": "Definir los criterios para categorizar los niveles de evidencia en revisiones sistemáticas"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Declaración CONSORT 2010 es una lista de verificación de 25 ítems y un diagrama de flujo desarrollados para estandarizar y mejorar la comunicación de los ECA de grupos paralelos. Su propósito es garantizar que los lectores dispongan de la información necesaria para evaluar la validez interna (riesgo de sesgo) y la validez externa (generalización) de los ensayos publicados. CONSORT no proporciona métodos estadísticos — proporciona estándares de comunicación.",
+          "wrong": {
+            "A": "Agrupar resultados de múltiples ensayos es la función del metaanálisis — CONSORT no aborda esto.",
+            "C": "Las pautas éticas para la investigación las proporciona la Declaración de Helsinki y los marcos éticos nacionales — no CONSORT.",
+            "D": "Los criterios de nivel de evidencia los proporciona el OCEBM o GRADE — no CONSORT."
+          },
+          "guideline": "Declaración CONSORT 2010 (Schulz KF et al. BMJ 2010) — propósito y alcance",
+          "trial": "Schulz KF et al. BMJ (2010): actualización CONSORT 2010 — lista de verificación de 25 ítems como estándar internacional de comunicación.",
+          "pearl": "CONSORT = estándar de comunicación para ECA. Lista de verificación de 25 ítems + diagrama de flujo. Requerido por todas las principales revistas. No es un estándar de conducta — es un estándar de COMUNICACIÓN.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q2",
+        "stem": "El diagrama de flujo CONSORT representa el flujo de participantes a través de cuáles cuatro etapas:",
+        "options": {
+          "A": "Cribado, Inclusión, Tratamiento, Alta",
+          "B": "Inclusión, Asignación, Seguimiento, Análisis",
+          "C": "Aleatorización, Enmascaramiento, Evaluación del resultado, Publicación",
+          "D": "Consentimiento, Aleatorización, Intervención, Evaluación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El diagrama de flujo CONSORT estandariza la comunicación del flujo de participantes a través de cuatro etapas: (1) Inclusión — número evaluado para elegibilidad, excluido (con razones) y aleatorizado; (2) Asignación — número asignado a cada grupo, los que reciben la intervención y los que no; (3) Seguimiento — número perdido en el seguimiento con razones, número que discontinuó con razones; (4) Análisis — número analizado y cualquier exclusión del análisis con razones. Esta estructura hace visible el abandono y permite evaluar el sesgo de desgaste.",
+          "wrong": {
+            "A": "Cribado, Inclusión, Tratamiento, Alta no es el marco CONSORT.",
+            "C": "Aleatorización, Enmascaramiento, Evaluación del resultado, Publicación no es la estructura del diagrama de flujo CONSORT.",
+            "D": "Consentimiento, Aleatorización, Intervención, Evaluación no es el marco CONSORT."
+          },
+          "guideline": "Declaración CONSORT 2010 — Estructura del diagrama de flujo",
+          "trial": "Schulz KF et al. BMJ (2010): CONSORT 2010 — el diagrama de flujo es uno de los elementos más importantes, haciendo transparente el abandono.",
+          "pearl": "Diagrama de flujo CONSORT: INCLUSIÓN → ASIGNACIÓN → SEGUIMIENTO → ANÁLISIS. Cuatro etapas. Todo artículo de ECA debería incluir este diagrama. Diagrama de flujo ausente = comunicación CONSORT incompleta.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q3",
+        "stem": "En el marco IDEAL para la innovación quirúrgica, ¿en qué etapa es más apropiado un ensayo clínico aleatorizado?",
+        "options": {
+          "A": "Etapa 1 — Idea (primer uso en un único paciente)",
+          "B": "Etapa 2a — Desarrollo (serie pequeña, técnica en evolución)",
+          "C": "Etapa 3 — Evaluación (técnica estandarizada y reproducible)",
+          "D": "Etapa 4 — Estudio a largo plazo (monitorización post-adopción)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "En el marco IDEAL, la Etapa 3 (Evaluación) es cuando un ECA formal es apropiado. En esta etapa, la técnica quirúrgica está suficientemente estandarizada, es reproducible y enseñable, de modo que la intervención en el brazo experimental será consistente entre cirujanos y a lo largo de la duración del ensayo. Un ECA realizado antes de la Etapa 3 (cuando la técnica aún está evolucionando) generará resultados que quedarán obsoletos a medida que la técnica se perfeccione.",
+          "wrong": {
+            "A": "La Etapa 1 es una evaluación de seguridad/viabilidad en un solo paciente — no es posible ni apropiado ningún grupo de comparación.",
+            "B": "La Etapa 2a es una serie pequeña de casos con técnica en evolución — la aleatorización aquí consolidaría una técnica inmadura y produciría resultados poco fiables.",
+            "D": "La Etapa 4 es el seguimiento a largo plazo mediante registros y cohortes — los ECA no son típicamente el diseño para la monitorización a largo plazo."
+          },
+          "guideline": "Cook JA et al. BMJ (2013) — Marco IDEAL Etapa 3: indicación del ECA",
+          "trial": "Ergina PL et al. Lancet (2009): artículo conceptual IDEAL — Etapa 3 = el momento correcto para el ECA después de que la técnica alcance estabilidad.",
+          "pearl": "IDEAL: 1=Idea (informe de caso), 2a=Desarrollo (serie pequeña), 2b=Exploración (cohorte), 3=EVALUACIÓN (ECA), 4=Largo plazo (registro). ECA = Etapa 3 SOLO cuando la técnica está ESTANDARIZADA.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q4",
+        "stem": "La Declaración de Helsinki exige que la investigación con participantes humanos sea aprobada antes de su inicio por qué organismo:",
+        "options": {
+          "A": "El departamento de finanzas institucional (para evaluar el presupuesto)",
+          "B": "Un comité de ética independiente (Comité de Ética de la Investigación)",
+          "C": "El organismo regulador profesional del investigador principal (GMC en el Reino Unido)",
+          "D": "La empresa farmacéutica patrocinadora de la investigación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Declaración de Helsinki (AMM 2013, párrafo 23) requiere que un protocolo de investigación sea enviado a un comité de ética independiente para su revisión, comentarios, orientación y aprobación antes de que comience el estudio. El comité de ética debe tener la autoridad para rechazar, modificar o retirar la aprobación. Debe ser independiente del investigador, de la institución y del financiador. En el Reino Unido, esto lo proporcionan los Comités de Ética de la Investigación (CER) administrados a través de la Health Research Authority (HRA).",
+          "wrong": {
+            "A": "La aprobación del departamento de finanzas es un requisito administrativo institucional, pero no es el organismo de supervisión ética requerido por Helsinki.",
+            "C": "El GMC regula la práctica médica y la aptitud para ejercer — no proporciona aprobación de ética de la investigación.",
+            "D": "La revisión ética de un patrocinador supone un conflicto de intereses — la revisión ética independiente no puede ser proporcionada por el patrocinador."
+          },
+          "guideline": "Declaración de Helsinki 2013 (AMM) — Párrafo 23: requisito de aprobación del comité de ética",
+          "trial": "Asociación Médica Mundial. Declaración de Helsinki (2013): el documento fundacional — la aprobación del comité de ética es un requisito previo irrenunciable para toda investigación con participantes humanos.",
+          "pearl": "Helsinki Párrafo 23: aprobación del COMITÉ DE ÉTICA INDEPENDIENTE requerida ANTES de iniciar cualquier investigación con participantes humanos. Este es un requisito absoluto — sin excepciones, independientemente del riesgo percibido.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q5",
+        "stem": "¿Cuál es el concepto correcto del cálculo de la potencia para un ECA quirúrgico de dos brazos: si la potencia se establece en el 80% y el alfa en 0,05, ¿qué significa esto?",
+        "options": {
+          "A": "Existe un 80% de probabilidades de que el estudio no encuentre ninguna diferencia aunque no exista ninguna",
+          "B": "Existe una probabilidad del 5% de encontrar una diferencia cuando no existe NINGUNA y una probabilidad del 80% de detectar una diferencia real de la DCIM especificada",
+          "C": "Existe una probabilidad del 80% de que la hipótesis nula sea verdadera",
+          "D": "Existe una probabilidad del 5% de perder una diferencia real y una probabilidad del 80% de un falso positivo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Alfa (0,05) = tasa de error tipo I = la probabilidad de concluir que SÍ existe una diferencia cuando la diferencia verdadera es cero (tasa de falsos positivos). Potencia (0,80) = 1 - beta = la probabilidad de detectar una diferencia real de la DCIM especificada cuando realmente existe (tasa de verdaderos positivos). Establecer la potencia en el 80% significa que el ensayo tiene una probabilidad del 20% de perder una diferencia real del tamaño especificado (tasa de error tipo II = beta = 0,20). En conjunto: 5% de riesgo de falsa alarma (alfa); 80% de probabilidad de detección real (potencia); 20% de riesgo de perder una diferencia real (1 - potencia).",
+          "wrong": {
+            "A": "El 80% es la potencia para detectar una diferencia real — no la probabilidad de no encontrar ninguna diferencia.",
+            "C": "La potencia no estima la probabilidad de que la hipótesis nula sea verdadera — es un error conceptual frecuente sobre la estadística frecuentista.",
+            "D": "Alfa = tasa de falsos positivos (5%) y beta = tasa de falsos negativos (20% cuando la potencia es del 80%) — la respuesta tiene estos términos invertidos."
+          },
+          "guideline": "Cochrane Handbook v6.3 (2022) — Capítulo 6: Cálculos del tamaño muestral y la potencia",
+          "trial": "Schulz KF & Grimes DA. Lancet (2005): serie sobre tamaño muestral — explicación clara de alfa, beta y potencia en el diseño de ensayos clínicos.",
+          "pearl": "ALFA = error tipo I = tasa de falsos positivos (5%). BETA = error tipo II = tasa de falsos negativos (20% cuando potencia = 80%). POTENCIA = 1 − beta = probabilidad de detectar una diferencia real. Ensayo con escasa potencia = beta alto = riesgo de perder diferencia real.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q6",
+        "stem": "La aleatorización estratificada en un ECA quirúrgico garantiza que:",
+        "options": {
+          "A": "Todos los participantes reciban todos los tratamientos en secuencia (diseño cruzado)",
+          "B": "Los factores pronósticos importantes estén equilibrados entre los grupos en la aleatorización",
+          "C": "La intervención esté estandarizada en todos los centros del ensayo",
+          "D": "Los participantes no puedan predecir su asignación a partir del patrón de bloques"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La aleatorización estratificada divide a los participantes en subgrupos (estratos) definidos por factores pronósticos importantes (por ejemplo, tipo de fractura, grupo de edad, cirujano) y luego aleatoriza por separado dentro de cada estrato. Esto garantiza que la aleatorización produzca grupos equilibrados para estas variables clave, incluso en ensayos más pequeños donde el desequilibrio por azar es más probable. En CMF, los factores de estratificación típicos incluyen: clasificación de la fractura condílea, gravedad de la enfermedad, cirujano y centro del estudio (en ensayos multicéntricos).",
+          "wrong": {
+            "A": "Recibir todos los tratamientos en secuencia describe un diseño cruzado — no la aleatorización estratificada.",
+            "C": "Estandarizar la intervención en todos los centros es una cuestión de protocolo y formación — no lo que logra la estratificación.",
+            "D": "Impedir que los participantes predigan la asignación a partir del patrón de bloques es la razón para utilizar tamaños de bloque variables — una característica de la aleatorización en bloques, no de la estratificación específicamente."
+          },
+          "guideline": "CONSORT 2010 — Ítem 8b: Tipo de aleatorización: describir las variables de estratificación",
+          "trial": "Schulz KF & Grimes DA. Lancet (2002): serie sobre aleatorización — la estratificación elimina el desequilibrio por azar en ensayos de tamaño pequeño a mediano; recomendada cuando los ensayos tienen <200 participantes.",
+          "pearl": "Aleatorización ESTRATIFICADA: aleatorizar DENTRO de estratos definidos por factores pronósticos = garantiza equilibrio. Importante en ECA quirúrgicos donde la experiencia del cirujano o la gravedad de la fractura pueden confundir los resultados.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q7",
+        "stem": "Se está evaluando por primera vez una nueva técnica de CMF en un único paciente. Según el marco IDEAL, esto debe comunicarse como:",
+        "options": {
+          "A": "Un ensayo clínico aleatorizado que compare la nueva técnica con la atención estándar",
+          "B": "Un informe de caso que documente la innovación (Etapa 1 IDEAL)",
+          "C": "Un estudio de viabilidad con 10–20 pacientes consecutivos",
+          "D": "Una revisión sistemática de la evidencia de modelos animales existente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Etapa 1 IDEAL (Idea) representa el primer uso de un nuevo procedimiento quirúrgico en uno o pocos pacientes. El formato de informe apropiado es un informe de caso (o serie pequeña). El propósito principal es documentar que se intentó el procedimiento, describir la técnica y comunicar las observaciones iniciales de seguridad y viabilidad. En esta etapa no es apropiado ni necesario ningún grupo de comparación. Se aplican las directrices de comunicación IDEAL Etapa 1 / SCARE 2023 a tales informes de casos.",
+          "wrong": {
+            "A": "Realizar un ECA en la Etapa 1 es prematuro y metodológicamente inadecuado — la técnica está indefinida y cualquier resultado del ECA quedará obsoleto a medida que la técnica evolucione.",
+            "C": "Un estudio de viabilidad con 10–20 pacientes es apropiado para la Etapa 2a — la fase de Desarrollo — no la Etapa 1.",
+            "D": "Una revisión sistemática de datos en animales es evidencia de fondo — no es el informe apropiado para una primera innovación quirúrgica en humanos."
+          },
+          "guideline": "Cook JA et al. BMJ (2013) — IDEAL Etapa 1: informe de caso como formato de comunicación apropiado",
+          "trial": "Ergina PL et al. Lancet (2009): marco IDEAL — el primer uso en la Etapa 1 debe comunicarse de forma transparente para permitir el avance a través de las etapas posteriores.",
+          "pearl": "IDEAL ETAPA 1 = primer uso = INFORME DE CASO. IDEAL ETAPA 2 = serie pequeña = serie de casos prospectiva. IDEAL ETAPA 3 = técnica estandarizada = ECA. Empiece bien — no pase de informe de caso a reclamar eficacia.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q8",
+        "stem": "Las directrices de Buenas Prácticas Clínicas de la ICH (BPC) E6(R2) se aplican a qué tipo de investigación clínica:",
+        "options": {
+          "A": "Todos los estudios observacionales independientemente del diseño",
+          "B": "Principalmente ensayos clínicos de medicamentos en investigación (CTIMPs) presentados a autoridades reguladoras",
+          "C": "Revisiones sistemáticas y metaanálisis de datos existentes",
+          "D": "Estudios de investigación cualitativa en atención sanitaria"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "ICH BPC E6(R2) proporciona el estándar regulatorio internacional para la realización de ensayos clínicos con medicamentos en investigación (fármacos, biológicos y a veces dispositivos) cuando los datos se presentarán a las autoridades reguladoras (MHRA, EMA, FDA) para apoyar la autorización de comercialización. El cumplimiento de las BPC garantiza la integridad de los datos, la protección de los participantes y la aceptabilidad regulatoria. Aunque los principios de las BPC se adoptan ampliamente como mejor práctica en investigación no regulatoria (incluidos los ECA quirúrgicos), las BPC se exigen formalmente solo para los CTIMPs.",
+          "wrong": {
+            "A": "Los estudios observacionales no están sujetos a requisitos formales de BPC — aunque se aplican normas de conducta ética.",
+            "C": "Las revisiones sistemáticas analizan datos publicados existentes — no hay participantes implicados, por lo que las BPC no son aplicables.",
+            "D": "La investigación cualitativa no está sujeta a las BPC — se aplican principios éticos, pero las BPC son específicas de los ensayos clínicos con medicamentos."
+          },
+          "guideline": "ICH BPC E6(R2) 2016 — Alcance: ensayos clínicos de medicamentos en investigación",
+          "trial": "ICH Harmonised Guideline E6(R2) (2016): alcance definido como 'investigación clínica de la seguridad y eficacia de un producto en investigación en sujetos humanos con fines de registro.'",
+          "pearl": "BPC E6(R2) = requerida formalmente para CTIMPs (ensayos de fármacos). Ampliamente adoptada como mejor práctica para ECA quirúrgicos. Las BPC incluyen: adherencia al protocolo, consentimiento informado, comunicación de eventos adversos, integridad de los datos, cualificaciones del investigador.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q9",
+        "stem": "Un ECA de CMF compara dos técnicas de fijación de fracturas mandibulares. En el seguimiento a los 3 meses, 40 de 200 pacientes (20%) se han perdido en el seguimiento, predominantemente del grupo de tratamiento experimental. Esto amenaza principalmente:",
+        "options": {
+          "A": "La validez interna por sesgo de selección en la asignación",
+          "B": "La validez interna por sesgo de desgaste — el abandono diferencial puede sesgar el efecto del tratamiento estimado",
+          "C": "La validez externa por población no representativa",
+          "D": "La potencia estadística sin introducir sesgo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Cuando el abandono es diferencial (mayor en un grupo que en el otro) y la razón del abandono está relacionada con el resultado (por ejemplo, los pacientes perdidos del grupo experimental lo abandonaron porque su resultado fue malo), se introduce el sesgo de desgaste. Los pacientes restantes en el grupo experimental pueden ser sistemáticamente diferentes de los que abandonaron, haciendo que el grupo no sea representativo de los aleatorizados originalmente. El principio ITT mitiga el sesgo de desgaste incluyendo a todos los pacientes aleatorizados en el análisis — pero esto requiere un método para manejar los datos faltantes (imputación múltiple, última observación llevada hacia adelante).",
+          "wrong": {
+            "A": "El sesgo de selección en la asignación se previene mediante la aleatorización y la ocultación de la asignación — ya se ha abordado en la fase de diseño y no se aplica al abandono post-aleatorización.",
+            "C": "La validez externa se refiere a a quién se aplican los resultados (generalización) — el abandono diferencial es principalmente una preocupación de validez interna (sesgo).",
+            "D": "El abandono diferencial no solo reduce la potencia — introduce sesgo sistemático, lo que es más grave que la imprecisión."
+          },
+          "guideline": "Cochrane RoB 2 — Dominio 3: Sesgo por datos de resultado faltantes (sesgo de desgaste)",
+          "trial": "Hollis S & Campbell F. BMJ (1999): análisis de 249 ECA — solo el 48% utilizó análisis ITT; el abandono diferencial identificado como una fuente importante de sesgo en ensayos publicados.",
+          "pearl": "Abandono diferencial = SESGO DE DESGASTE. Especialmente problemático cuando las razones del abandono están relacionadas con el resultado. Mitigado por: análisis ITT + imputación de datos faltantes + minimización del abandono en el diseño del ensayo.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q10",
+        "stem": "Un cirujano desea realizar un ECA de CMF pero tiene incertidumbre sobre: (1) la tasa de reclutamiento en su centro; (2) la tasa de complicaciones del grupo control; y (3) el resultado principal apropiado. El primer paso correcto es:",
+        "options": {
+          "A": "Proceder directamente al ECA definitivo con una muestra grande",
+          "B": "Realizar un estudio piloto/de viabilidad para responder a estas preguntas específicas antes de diseñar el ensayo principal",
+          "C": "Realizar una auditoría retrospectiva para estimar estos parámetros",
+          "D": "Usar los valores de la literatura publicada sin realizar ningún trabajo preliminar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las tres incertidumbres (tasa de reclutamiento, tasa de eventos del control, selección del resultado) son objetivos legítimos de un estudio piloto/de viabilidad. Un estudio piloto realizado ANTES del ensayo definitivo: (1) comprueba si la tasa de reclutamiento requerida es alcanzable; (2) estima la tasa de eventos del grupo control necesaria para el cálculo del tamaño muestral; (3) comprueba si el resultado previsto puede medirse de forma fiable; y (4) identifica problemas logísticos. Proceder directamente a un gran ensayo definitivo con estas incertidumbres arriesga a realizar un ensayo con reclutamiento insuficiente, potencia inadecuada o diseño incorrecto.",
+          "wrong": {
+            "A": "Proceder a un gran ensayo definitivo con estas incertidumbres malgasta recursos y puede producir un resultado no interpretable.",
+            "C": "Una auditoría retrospectiva puede proporcionar estimaciones de la tasa de eventos, pero no puede comprobar la viabilidad del reclutamiento ni la fiabilidad de la medición del resultado.",
+            "D": "Los valores de la literatura pueden no reflejar las características locales de los pacientes, las técnicas quirúrgicas o los sistemas sanitarios — depender de ellos sin validación local arriesga un cálculo erróneo del tamaño muestral."
+          },
+          "guideline": "CONSORT-PILOT 2016 — Estudios piloto/de viabilidad: preguntas legítimas a abordar antes del ensayo principal",
+          "trial": "Thabane L et al. BMC Med Res Methodol (2010): marco para estudios piloto — tasa de reclutamiento, estimación de parámetros y viabilidad del resultado como los tres objetivos principales del piloto.",
+          "pearl": "Objetivos del ESTUDIO PILOTO: (1) viabilidad del reclutamiento; (2) estimación de parámetros para el tamaño muestral; (3) prueba de la medición del resultado. NO eficacia. Un estudio piloto NO proporciona conclusiones de eficacia — permite que el ensayo PRINCIPAL se diseñe correctamente.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q11",
+        "stem": "El principio ético del 'equipoise' en la investigación clínica significa:",
+        "options": {
+          "A": "Asignación aleatoria igualitaria de participantes a cada brazo de tratamiento (asignación 1:1)",
+          "B": "Incertidumbre genuina sobre la eficacia comparativa de los tratamientos del ensayo, que justifica la aleatorización",
+          "C": "Ponderación igual de todas las medidas de resultado en el análisis de criterios de valoración compuestos",
+          "D": "Equilibrio de los riesgos y beneficios de la participación en la investigación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El equipoise es la incertidumbre genuina en la comunidad médica experta sobre cuál de las intervenciones del ensayo es superior. Es la justificación ética para la aleatorización: si existe verdadera incertidumbre sobre la eficacia comparativa, es ético asignar aleatoriamente a los pacientes a cualquiera de los tratamientos. Si ya se sabe que un tratamiento es claramente superior, la aleatorización es contraria a la ética — los pacientes merecen el mejor tratamiento conocido. En CMF, muchos ECA quirúrgicos no pueden realizarse porque la evidencia preliminar de series de casos ha convencido a la comunidad quirúrgica de la superioridad antes de que se complete un ECA formal.",
+          "wrong": {
+            "A": "La aleatorización igualitaria (asignación 1:1) es una elección de diseño — no lo que significa el equipoise.",
+            "C": "La ponderación igual de las medidas de resultado es un concepto estadístico no relacionado con el equipoise.",
+            "D": "El equilibrio riesgo-beneficio es el principio de proporcionalidad de la Declaración de Helsinki — no el equipoise."
+          },
+          "guideline": "Declaración de Helsinki 2013 — Párrafo 26: requisito de equipoise para la aleatorización; Freedman B. N Engl J Med (1987): concepto de equipoise clínico",
+          "trial": "Freedman B. N Engl J Med (1987): 'Equipoise and the ethics of clinical research' — artículo seminal que define el equipoise clínico como base ética para los ensayos aleatorizados.",
+          "pearl": "EQUIPOISE = incertidumbre genuina = justificación ética para la aleatorización. Sin equipoise (un tratamiento claramente mejor) = la aleatorización es contraria a la ética. Muchos ECA de CMF no se realizan porque los datos preliminares destruyen el equipoise antes de que se diseñe un ensayo formal.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q12",
+        "stem": "La minimización como método de aleatorización se diferencia de la aleatorización simple porque:",
+        "options": {
+          "A": "Utiliza tamaños de bloque más pequeños para prevenir la predicción de la asignación",
+          "B": "Asigna dinámicamente a cada participante para minimizar el desequilibrio en múltiples factores preespecificados simultáneamente",
+          "C": "Aleatoriza dentro de estratos definidos por un único factor pronóstico",
+          "D": "Utiliza a un estadístico independiente para realizar la aleatorización de forma centralizada"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La minimización es un método de aleatorización adaptativa que asigna dinámicamente a cada nuevo participante al grupo de tratamiento que minimiza el desequilibrio global en un conjunto de factores pronósticos preespecificados. Para cada nuevo paciente, el algoritmo calcula qué asignación produciría el mejor equilibrio en todos los factores especificados y asigna en consecuencia (con un pequeño elemento aleatorio). Esto es superior a la aleatorización estratificada cuando se necesitan múltiples factores de estratificación — la aleatorización estratificada con 4+ factores crea demasiados estratos para ensayos pequeños (muchos estratos estarán vacíos). La minimización garantiza el equilibrio en todos los factores simultáneamente sin el problema de los estratos escasos.",
+          "wrong": {
+            "A": "Los tamaños de bloque variables se utilizan en la aleatorización en bloques para prevenir la predicción de la asignación — no es una característica de la minimización.",
+            "C": "La aleatorización dentro de un único estrato es la aleatorización estratificada — la minimización maneja múltiples factores simultáneamente.",
+            "D": "La aleatorización centralizada por un estadístico independiente es un método de ocultación de la asignación — no es la característica definitoria de la minimización."
+          },
+          "guideline": "CONSORT 2010 — Ítem 8b: la minimización como método de aleatorización aceptable con requisitos de descripción",
+          "trial": "Taves DR. Clin Pharmacol Ther (1974): artículo original sobre minimización — la asignación dinámica logra un mejor equilibrio de covariables que la aleatorización estratificada cuando se implican múltiples factores.",
+          "pearl": "MINIMIZACIÓN = aleatorización adaptativa = minimiza dinámicamente el desequilibrio en múltiples factores simultáneamente. Mejor que la estratificación cuando >3 factores pronósticos son importantes. Requiere descripción en la sección de métodos (Ítem CONSORT 8b).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q13",
+        "stem": "En el Reino Unido, ¿qué organización es responsable de proporcionar la aprobación ética para la investigación con pacientes del NHS?",
+        "options": {
+          "A": "Dirección de Investigación de NHS England",
+          "B": "Health Research Authority (HRA) a través de los Comités de Ética de la Investigación (CER)",
+          "C": "General Medical Council (GMC)",
+          "D": "NICE (National Institute for Health and Care Excellence)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En el Reino Unido, la investigación con pacientes o personal del NHS requiere aprobación ética de un Comité de Ética de la Investigación (CER) administrado por la Health Research Authority (HRA). Las solicitudes se envían a través del Sistema Integrado de Solicitud de Investigación (IRAS). El CER revisa los aspectos éticos de la investigación: consentimiento de los participantes, riesgos y beneficios, protección de datos y salvaguardias de vulnerabilidad. La revisión de la HRA también cubre los aspectos regulatorios. Se requiere la aprobación de la HRA (que combina la revisión ética del CER y la revisión regulatoria) antes de que pueda comenzar cualquier investigación del NHS.",
+          "wrong": {
+            "A": "La Dirección de Investigación de NHS England gestiona la estrategia de investigación del NHS, pero no proporciona aprobaciones éticas de estudios individuales.",
+            "C": "El GMC regula a los profesionales médicos, pero no proporciona aprobaciones de ética de la investigación.",
+            "D": "NICE elabora guías clínicas y evaluaciones tecnológicas — no proporciona aprobaciones de ética de investigación individuales."
+          },
+          "guideline": "Marco de Política del Reino Unido para la Investigación en Salud y Atención Social 2017 — Proceso de aprobación de la HRA",
+          "trial": "Health Research Authority. 'Research Ethics Service.' (HRA 2018): proceso de aprobación HRA/CER definido para la investigación del NHS.",
+          "pearl": "Ética de la investigación en el RU: solicitud IRAS → revisión CER (aprobación ética) → aprobación HRA → aprobación I+D del NHS en cada centro. Para CTIMPs: también AEC de la MHRA. Todos los pasos son necesarios antes de que comience el reclutamiento de pacientes.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "G2-Q14",
+        "stem": "Un análisis por protocolo en un ECA incluye solo a los participantes que:",
+        "options": {
+          "A": "Fueron aleatorizados originalmente, independientemente de la adherencia posterior",
+          "B": "Completaron el tratamiento asignado sin desviaciones del protocolo",
+          "C": "Se perdieron en el seguimiento y tuvieron sus resultados imputados",
+          "D": "Cumplieron los criterios de elegibilidad determinados tras la aleatorización"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El análisis por protocolo restringe el análisis a los participantes que completaron el tratamiento asignado según el protocolo — sin desviaciones importantes, cruces o falta de adherencia. Si bien el análisis por protocolo puede reflejar mejor la eficacia biológica (lo que ocurre cuando el tratamiento se administra correctamente), está sujeto a sesgo de selección: los pacientes que se desvían del protocolo pueden diferir sistemáticamente de los que lo completan. Por eso el análisis ITT es el análisis principal requerido y el por protocolo se comunica solo como secundario.",
+          "wrong": {
+            "A": "Analizar a todos los participantes aleatorizados independientemente de la adherencia = análisis ITT (intención de tratar) — no por protocolo.",
+            "C": "Imputar resultados para los participantes perdidos en el seguimiento es una característica del análisis ITT — no del por protocolo.",
+            "D": "Excluir a los participantes en base a una reevaluación de elegibilidad post-aleatorización es una forma de exclusión sesgada — ni ITT ni por protocolo estándar."
+          },
+          "guideline": "CONSORT 2010 — Ítem 12a: métodos estadísticos, ITT como principal; por protocolo como análisis secundario",
+          "trial": "Hollis S & Campbell F. BMJ (1999): análisis de ITT frente a por protocolo — el por protocolo tiene más probabilidades de mostrar beneficio del tratamiento debido a la selección de participantes adherentes (típicamente más sanos).",
+          "pearl": "ITT = TODOS los pacientes aleatorizados en su grupo asignado (análisis principal). POR PROTOCOLO = solo los que completaron sin desviaciones (análisis secundario, sesgado). ITT es el principal. Por protocolo solo como suplemento.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q15",
+        "stem": "Un ECA de CMF sobre el manejo de fracturas condíleas comunica un resultado positivo (RAFI superior al tratamiento cerrado), pero fue realizado en un único centro con un cirujano muy experimentado. ¿Qué aspecto de la validez del ensayo está más comprometido?",
+        "options": {
+          "A": "Validez interna — la aleatorización fue inadecuada",
+          "B": "Validez externa (generalización) — los resultados pueden no aplicarse a centros con cirujanos menos experimentados",
+          "C": "Validez estadística — el cálculo de la potencia fue incorrecto",
+          "D": "Validez de constructo — la medida del resultado no refleja la función clínica real"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La validez externa (generalización o aplicabilidad) se refiere a si los resultados del ensayo se aplican a otras poblaciones, entornos y cirujanos más allá de los estudiados. Un ensayo de un único centro realizado por un cirujano experto mundial puede mostrar resultados superiores para la RAFI en comparación con lo que otros cirujanos podrían lograr — porque los resultados reflejan la habilidad técnica del experto, no la técnica en sí. Esta es la distinción clásica entre 'eficacia' y 'efectividad': eficacia (lo que el tratamiento puede lograr en condiciones ideales) frente a efectividad (lo que logra en la práctica habitual). Los ECA quirúrgicos en centros expertos de gran volumen tienen validez externa limitada a los hospitales generales.",
+          "wrong": {
+            "A": "La validez interna se refiere a si el estudio mide correctamente el efecto de la intervención en la muestra específica del estudio — si la aleatorización fue adecuada, la validez interna no es la principal preocupación aquí.",
+            "C": "La validez estadística se refiere al uso correcto de los métodos estadísticos — no se especifica como un problema en este escenario.",
+            "D": "La validez de constructo se refiere a si el resultado mide realmente lo que afirma medir — no el problema en este escenario."
+          },
+          "guideline": "CONSORT 2010 — Consideraciones de generalización (validez externa) en la comunicación de ensayos",
+          "trial": "Eckelt U et al. J Craniomaxillofac Surg (2006): ECA sobre fractura condílea — realizado en centros de CMF especializados; las directrices EACMFS reconocen que los resultados pueden no aplicarse a entornos quirúrgicos generales.",
+          "pearl": "Validez INTERNA = ¿midió el estudio lo que pretendía medir (dentro del estudio)? Validez EXTERNA = ¿se aplican los resultados a otras poblaciones y entornos? ECA experto de un único centro = alta validez interna, validez externa limitada.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q16",
+        "stem": "¿Qué caso histórico ilustra mejor los peligros de no seguir los principios del marco IDEAL para la innovación quirúrgica?",
+        "options": {
+          "A": "ECA de Eckelt 2006 para fracturas condíleas",
+          "B": "Implantes totales de ATM de Proplast-Teflon — adopción generalizada antes de la evidencia de seguridad a largo plazo, fallo catastrófico, retirada en 1990",
+          "C": "Uso temprano del láser CO2 en la ablación de lesiones de CMF",
+          "D": "Introducción de la tomografía computarizada para la planificación en CMF"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los implantes aloplásticos de Proplast-Teflon para la ATM se introdujeron en la década de 1980 y se adoptaron ampliamente en CMF y cirugía oral para la sustitución del disco de la ATM y la prótesis total de la articulación antes de que hubiera datos de seguridad a largo plazo adecuados. En 1990, se hizo evidente que los implantes eran frágiles, se degradaban dentro del espacio articular y producían una reacción grave de células gigantes a cuerpo extraño con reabsorción condílea, destrucción articular y dolor intenso. Miles de pacientes resultaron gravemente perjudicados. La FDA retiró todos los implantes de Proplast-Teflon en 1990. Este es el ejemplo canónico de una innovación quirúrgica adoptada sin seguir los principios de evaluación escalonada — lo que motivó directamente el desarrollo del marco IDEAL.",
+          "wrong": {
+            "A": "Eckelt 2006 es un ejemplo positivo de realización correcta de ECA — no un caso de daño por adopción prematura.",
+            "C": "La introducción del láser CO2 en CMF fue incremental y no estuvo asociada a daños generalizados importantes por adopción prematura.",
+            "D": "La imagen por TC es una herramienta diagnóstica, no una técnica quirúrgica — su introducción no es un ejemplo cautivador del marco IDEAL."
+          },
+          "guideline": "Cook JA et al. BMJ (2013): marco IDEAL — implantes de Proplast-Teflon citados como el ejemplo histórico motivador",
+          "trial": "FDA MedWatch 1990: retirada de los implantes de ATM de Proplast-Teflon — miles de pacientes perjudicados por adopción acrítica sin evaluación escalonada de seguridad; motivó directamente el desarrollo del marco IDEAL.",
+          "pearl": "PROPLAST-TEFLON = el ejemplo cautivador de CMF de adopción quirúrgica prematura. Retirado en 1990 por reacciones catastróficas a cuerpo extraño. NUNCA utilizar Proplast-Teflon. El marco IDEAL se desarrolló en parte en respuesta a este desastre.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q17",
+        "stem": "El Ítem 13 de CONSORT requiere la comunicación de qué componente de un ECA:",
+        "options": {
+          "A": "Método de generación de la secuencia de aleatorización",
+          "B": "Fechas de reclutamiento y características basales de los participantes",
+          "C": "Análisis del resultado principal con intervalos de confianza",
+          "D": "El diagrama de flujo CONSORT que muestra la progresión de los participantes"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El Ítem 13 de CONSORT 2010 requiere específicamente el diagrama de flujo que muestra la progresión de los participantes a través de las cuatro etapas (inclusión, asignación, seguimiento, análisis), incluido el número cribado, excluido (con razones), aleatorizado, perdido en el seguimiento (con razones) y analizado. Este ítem garantiza una comunicación transparente del abandono y permite evaluar el sesgo de desgaste.",
+          "wrong": {
+            "A": "El método de generación de la secuencia de aleatorización es el Ítem 8a de CONSORT.",
+            "B": "Las fechas de reclutamiento y las características basales son los Ítems 14 y 15 de CONSORT respectivamente.",
+            "C": "El análisis del resultado principal con intervalos de confianza es el Ítem 17 de CONSORT."
+          },
+          "guideline": "CONSORT 2010 — Ítem 13: diagrama de flujo de participantes",
+          "trial": "Schulz KF et al. BMJ (2010): lista de verificación completa CONSORT 2010 — el Ítem 13 requiere explícitamente el diagrama de flujo.",
+          "pearl": "Diagrama de flujo CONSORT = Ítem 13. Inclusión → Asignación → Seguimiento → Análisis. Cuatro etapas. Requerido en TODOS los artículos de ECA. Ausente = cumplimiento CONSORT incompleto.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "G2-Q18",
+        "stem": "¿Cuál es la principal limitación del uso de criterios de valoración compuestos en los ECA quirúrgicos?",
+        "options": {
+          "A": "Siempre subestiman el efecto del tratamiento",
+          "B": "Pueden estar impulsados por componentes de menor importancia clínica, lo que dificulta la interpretación del resultado",
+          "C": "Requieren tamaños muestrales mucho mayores que los criterios de valoración únicos",
+          "D": "No son aceptables para los comités de ética de la investigación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los criterios de valoración compuestos combinan múltiples resultados individuales en un único evento (por ejemplo, 'muerte O rehospitalización O complicación mayor'). Si bien aumentan las tasas de eventos y reducen los requisitos de tamaño muestral, su principal limitación es la interpretabilidad: un resultado compuesto estadísticamente significativo puede estar impulsado en su totalidad por el componente de menor importancia clínica. Si el compuesto es positivo pero solo porque hay una pequeña diferencia en un componente menor (mientras el resultado importante — por ejemplo, la muerte — no muestra diferencia), el resultado es clínicamente engañoso. CONSORT recomienda que los componentes del compuesto se comuniquen individualmente y se ordenen por importancia clínica.",
+          "wrong": {
+            "A": "Los compuestos pueden sobreestimar el efecto del tratamiento (si capturan un beneficio trivial) — no siempre lo subestiman.",
+            "C": "Una ventaja clave de los criterios de valoración compuestos es que REDUCEN los tamaños muestrales necesarios al aumentar las tasas de eventos — lo contrario de esta opción.",
+            "D": "Los criterios de valoración compuestos son aceptables para los comités de ética y se utilizan ampliamente — no están prohibidos."
+          },
+          "guideline": "CONSORT 2010 — Resultados compuestos: todos los componentes deben comunicarse individualmente",
+          "trial": "Ferreira-González I et al. BMJ (2007): criterios de valoración compuestos en ensayos — el significado del compuesto estuvo impulsado por componentes menores en el 50% de los ensayos revisados; los resultados mayores no mostraron diferencia.",
+          "pearl": "Limitación del CRITERIO DE VALORACIÓN COMPUESTO: puede estar impulsado por componentes menos importantes. Mire siempre los componentes individuales por separado. Si el compuesto es significativo pero la muerte sola NO LO ES, el resultado puede ser clínicamente irrelevante.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q19",
+        "stem": "Según la Declaración de Helsinki (2013), la investigación en participantes que no pueden dar consentimiento informado (por ejemplo, pacientes traumatizados inconscientes) solo es permisible si:",
+        "options": {
+          "A": "La investigación no puede realizarse de forma viable en individuos competentes",
+          "B": "Un familiar proporciona consentimiento verbal por teléfono",
+          "C": "La investigación es aprobada por el comité de ética del patrocinador",
+          "D": "El incentivo económico para los participantes es suficiente para justificar la participación"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "La Declaración de Helsinki (2013, Párrafo 29) permite la investigación con participantes que no pueden dar consentimiento informado (por ejemplo, pacientes inconscientes, personas con deterioro cognitivo grave) solo si la investigación: (1) no puede realizarse de forma viable en individuos que puedan dar consentimiento; (2) conlleva solo un riesgo o daño mínimo; (3) tiene potencial beneficio para el individuo o para el grupo del que procede; y (4) un representante legal (no simplemente el consentimiento verbal de un familiar) proporciona el consentimiento cuando sea posible. La Ley de Capacidad Mental del Reino Unido de 2005 proporciona el marco jurídico específico para esto en Inglaterra y Gales.",
+          "wrong": {
+            "A": "Esta es la respuesta correcta — la investigación no debe ser factiblemente realizable en participantes competentes.",
+            "B": "El consentimiento verbal telefónico de un familiar no es suficiente — se requiere el asentimiento/consentimiento formal por escrito de un representante legal o la consulta con el CER según la legislación del Reino Unido.",
+            "C": "La aprobación del comité de ética del patrocinador supone un conflicto de intereses — se requiere la aprobación del comité de ética independiente.",
+            "D": "Los incentivos económicos no anulan la necesidad de consentimiento — la inducción a participar en una investigación sin consentimiento es contraria a la ética."
+          },
+          "guideline": "Declaración de Helsinki 2013 — Párrafo 29: investigación con participantes incompetentes; Ley de Capacidad Mental del Reino Unido 2005",
+          "trial": "Asociación Médica Mundial. Declaración de Helsinki (2013): Párrafo 29 — condiciones para la investigación en personas que no pueden dar consentimiento.",
+          "pearl": "Helsinki Párrafo 29: investigación en participantes incompetentes = permisible SOLO SI la investigación no puede realizarse en individuos competentes + riesgo mínimo + beneficio potencial + representante legal consultado. Ley del Reino Unido: marco de la Ley de Capacidad Mental 2005.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "G2-Q20",
+        "stem": "¿Cuál es el propósito principal del registro prospectivo del ensayo antes de la inclusión de pacientes?",
+        "options": {
+          "A": "Asegurar financiación de los consejos de investigación",
+          "B": "Prevenir la comunicación selectiva de resultados comprometiendo a los investigadores con los resultados y métodos preespecificados",
+          "C": "Informar a otros investigadores de que el ensayo está siendo realizado para evitar duplicaciones",
+          "D": "Proporcionar transparencia pública sobre los costes de la investigación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El registro prospectivo del ensayo antes de la inclusión compromete a los investigadores con su resultado principal preespecificado, resultados secundarios, plan de análisis y tamaño muestral. Esto previene la comunicación selectiva de resultados: el cambio posterior a la obtención de datos hacia resultados más favorables. El registro crea un registro público que puede compararse con el informe publicado — permitiendo la detección de cambios de resultado. Todas las principales revistas (BJOMS, NEJM, JAMA, BMJ) requieren el registro prospectivo como condición de publicación de los ECA.",
+          "wrong": {
+            "A": "La solicitud de financiación es un proceso separado — el registro no es necesario para la financiación, aunque algunos financiadores lo requieren.",
+            "C": "Evitar la duplicación de la investigación es un beneficio secundario del registro — no su propósito principal.",
+            "D": "La transparencia pública sobre los costes no es el propósito principal del registro de ensayos clínicos."
+          },
+          "guideline": "Requisitos ICMJE — Registro prospectivo obligatorio para la publicación de ECA; Ítem 23 de CONSORT 2010",
+          "trial": "Chan AW et al. JAMA (2004): el 62% de 102 ECA tenían discrepancias de resultados entre el registro y la publicación — estableció la necesidad de registro obligatorio.",
+          "pearl": "Propósito principal del REGISTRO DEL ENSAYO = prevenir la COMUNICACIÓN SELECTIVA DE RESULTADOS. Registrar ANTES del primer paciente. Comparar el resultado principal registrado con el publicado. Discrepancia = sesgo de comunicación. Obligatorio para la publicación en revistas.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

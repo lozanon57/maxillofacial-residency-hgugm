@@ -1,0 +1,680 @@
+{
+  "id": "A1",
+  "title": "Cáncer de cavidad oral: diagnóstico, estadificación y resección quirúrgica",
+  "subtitle": "Oncología de cabeza y cuello — TNM 8.ª edición, evaluación de márgenes, abordajes por mandibulotomía",
+  "block": "A",
+  "block_name": "Oncología de Cabeza y Cuello",
+  "level": "R2-4",
+  "reading_time_min": 45,
+  "guidelines_version": "NCCN Head and Neck Cancers v1.2024 · AJCC TNM 8th Edition 2017 · EACMFS 2023",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 4th ed. (2022)",
+    "Shah JP et al. Head and Neck Surgery and Oncology, 5th ed. (2020)",
+    "NCCN Clinical Practice Guidelines: Head and Neck Cancers v1.2024",
+    "Amin MB et al. AJCC Cancer Staging Manual, 8th ed. (2017)"
+  ],
+  "learning_objectives": [
+    "Aplicar la clasificación TNM de la 8.ª edición del AJCC para los cánceres de cavidad oral, incluido el concepto de profundidad de invasión (DOI)",
+    "Describir las indicaciones y los principios de la resección quirúrgica con márgenes adecuados para el carcinoma epidermoide de cavidad oral",
+    "Identificar los escenarios clínicos que requieren disección cervical electiva frente a terapéutica en el cáncer de cavidad oral",
+    "Explicar la justificación y la técnica de la resección compuesta, incluida la mandibulectomía marginal y segmentaria",
+    "Interpretar la evidencia del tratamiento adyuvante (radioterapia y quimiorradioterapia) en función de los factores de riesgo patológicos",
+    "Reconocer el papel de la invasión perineural, la invasión linfovascular y la extensión extracapsular como características de alto riesgo"
+  ],
+  "sections": [
+    {
+      "id": "A1-S1",
+      "title": "Epidemiología, etiología y anatomía de la cavidad oral",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**El carcinoma epidermoide de cavidad oral (CECO)** es la neoplasia maligna más frecuente en el ámbito de la cirugía oral y maxilofacial, con aproximadamente 300.000 nuevos casos anuales en todo el mundo. En España se diagnostican alrededor de 3.500 nuevos casos de cáncer de cavidad oral y orofaringe cada año, con una relación hombre:mujer de aproximadamente 3:1, aunque esta proporción se está reduciendo con el aumento del consumo de tabaco y alcohol en mujeres. A nivel global, la incidencia es más alta en el sur de Asia (especialmente India y Sri Lanka), donde el consumo de nuez de betel es prevalente. En los países occidentales, el tabaco y el alcohol siguen siendo los principales factores de riesgo, con un efecto multiplicativo sinérgico: los fumadores y bebedores intensos presentan un riesgo 35 veces mayor en comparación con quienes no consumen ninguna de las dos sustancias.\n\nLos límites anatómicos de la cavidad oral son fundamentales tanto para la estadificación como para la planificación quirúrgica. La cavidad oral se extiende desde el borde bermellón de los labios hasta la unión del paladar duro y blando en sentido superior, y hasta la línea de las papilas circunvaladas en sentido inferior. Comprende los siguientes subsitios diferenciados: **labio**, **mucosa bucal**, **reborde alveolar superior e inferior**, **trígono retromolar** (TRM), **suelo de boca** (SB), **paladar duro** y **lengua oral** (dos tercios anteriores). El TRM es particularmente importante porque los tumores en esta localización afectan frecuentemente la mandíbula y pueden ser contiguos con la amígdala o el paladar blando, creando ambigüedad en la estadificación entre cavidad oral y orofaringe.\n\nEl suelo de boca y la lengua oral son los dos sitios más frecuentes de CECO. La lengua oral presenta un rico drenaje linfático bilateral, especialmente en la punta y la porción anterior, que drena directamente a los ganglios cervicales de los niveles I y II. El suelo de boca drena principalmente hacia los niveles I y II de forma bilateral. Los tumores de línea media o próximos a ella presentan tasas más elevadas de afectación ganglionar bilateral. El paladar duro drena principalmente al nivel II, aunque las lesiones del trígono retromolar pueden drenar directamente al nivel III o IIb."
+        },
+        {
+          "type": "table",
+          "title": "Subsitios de la cavidad oral y anatomía quirúrgica clave",
+          "headers": ["Subsitio", "Límites", "Presentación habitual", "Nivel de drenaje ganglionar"],
+          "rows": [
+            ["Lengua oral (ant 2/3)", "Punta hasta papilas circunvaladas", "Úlcera en borde lateral", "I, II, III (bilateral si línea media)"],
+            ["Suelo de boca", "Bajo la lengua hasta el alveolo interno", "Placa ulcerada", "I, II (bilateral)"],
+            ["Mucosa bucal", "Mucosa de la mejilla interna", "Verrucosa o ulcerada", "I, II, III"],
+            ["Reborde alveolar inferior", "Encía mandibular", "Engrosamiento gingival", "I, II"],
+            ["Reborde alveolar superior", "Encía maxilar", "Afectación palatina", "II, III"],
+            ["Paladar duro", "Detrás de los incisivos hasta la unión paladar blando", "Masa submucosa o úlcera", "II"],
+            ["Trígono retromolar", "Detrás del último molar sobre la rama ascendente", "Infiltración profunda, trismo", "II, III (alto riesgo IIb)"],
+            ["Labio", "Bermellón hasta unión húmedo-seco", "Úlcera queratósica o masa labial", "I (submental si línea media)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Clasificación del trígono retromolar",
+          "content": "El trígono retromolar (TRM) es un subsitio de la cavidad oral, NO de la orofaringe. Sin embargo, los tumores en el TRM afectan frecuentemente el paladar blando y el pilar amigdalino anterior, que son estructuras orofaríngeas. Cuando los tumores cruzan este límite, se clasifican según el sitio predominante de origen. Esta distinción es relevante para el estudio de VPH (los tumores orofaríngeos se estudian con p16; los de cavidad oral no se estudian de forma rutinaria con fines de estadificación según la 8.ª edición del AJCC)."
+        }
+      ]
+    },
+    {
+      "id": "A1-S2",
+      "title": "Estadificación AJCC 8.ª edición — El papel de la profundidad de invasión",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **Manual de estadificación del cáncer del AJCC, 8.ª edición (2017)** introdujo un cambio de paradigma en la estadificación del cáncer de cavidad oral al incorporar la **profundidad de invasión (DOI)** en la clasificación T. La DOI es distinta del grosor tumoral: la DOI se mide desde el nivel de la membrana basal mucosa normal adyacente hasta el punto más profundo de invasión, excluyendo cualquier componente exofítico. Esta distinción es crítica y se evalúa con frecuencia en los exámenes.\n\nLa justificación para incluir la DOI es sólida: múltiples estudios demostraron que la DOI es un predictor más potente de metástasis ganglionares ocultas y supervivencia específica por enfermedad que el diámetro tumoral por sí solo. El análisis de referencia de Ebrahimi et al. (2011) demostró que cada incremento de 2 mm en la DOI se asociaba con un aumento significativo del riesgo de metástasis ganglionar. Según la 8.ª edición del AJCC, un tumor que mide solo 12 mm de diámetro pero con DOI >10 mm se clasifica como T3, mientras que una lesión exofítica grande de 30 mm de diámetro pero DOI ≤5 mm permanece en T2.\n\nPara la **clasificación T** según la 8.ª edición del AJCC: T1 = tumor ≤2 cm Y DOI ≤5 mm; T2 = tumor ≤2 cm con DOI >5 mm ≤10 mm, O tumor >2 cm ≤4 cm con DOI ≤10 mm; T3 = tumor >4 cm O cualquier tumor con DOI >10 mm; T4a = moderadamente avanzado — afecta estructuras adyacentes (a través del hueso cortical de mandíbula o maxilar, hacia los músculos profundos/extrínsecos de la lengua, seno maxilar, piel de la cara); T4b = muy avanzado — afecta el espacio masticador, las láminas pterigoideas o la base del cráneo, o rodea la arteria carótida interna.\n\nLa **clasificación N** para el cáncer de cavidad oral utiliza el sistema de ganglios linfáticos regionales: N1 = ganglio ipsilateral único ≤3 cm, sin extensión extracapsular (EEC); N2a = ganglio ipsilateral único 3-6 cm, sin EEC; N2b = múltiples ganglios ipsilaterales, todos ≤6 cm, sin EEC; N2c = ganglios bilaterales o contralaterales ≤6 cm, sin EEC; N3a = cualquier ganglio >6 cm, sin EEC; N3b = cualquier ganglio con EEC clínica o radiológica. La EEC patológica (EECp) supone una subida de estadio y obliga a quimiorradioterapia adyuvante — es el factor de riesgo patológico más importante para intensificar el tratamiento."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación T de la 8.ª edición del AJCC para el cáncer de cavidad oral",
+          "headers": ["Estadio T", "Criterio de tamaño", "Criterio DOI", "Invasión estructural", "Implicación clínica"],
+          "rows": [
+            ["T1", "≤2 cm", "DOI ≤5 mm", "Ninguna", "Escisión amplia local; disección cervical electiva controvertida"],
+            ["T2", "≤4 cm / cualquiera 2-4 cm", "DOI >5 mm y ≤10 mm", "Ninguna", "Resección + disección cervical electiva"],
+            ["T3", ">4 cm O cualquier tamaño", "DOI >10 mm", "Ninguna", "Resección + disección cervical + considerar PORT"],
+            ["T4a", "Cualquiera", "Cualquiera", "Hueso cortical, músculos extrínsecos de la lengua, seno maxilar, piel", "Resección compuesta; alto riesgo de quimioRT"],
+            ["T4b", "Cualquiera", "Cualquiera", "Espacio masticador, láminas pterigoideas, base de cráneo, rodea ACI", "Frecuentemente irresecable; considerar tratamiento sistémico"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error frecuente — DOI frente a grosor tumoral",
+          "content": "La profundidad de invasión (DOI) y el grosor tumoral NO son sinónimos. La DOI se mide desde el nivel de la membrana basal mucosa normal adyacente hacia abajo — NO incluye ningún componente exofítico (superficial). El grosor tumoral se mide desde la superficie del tumor hasta su punto más profundo. Para un tumor exofítico, DOI < grosor tumoral. Los patólogos deben estar informados de esta distinción al medir las muestras, ya que una medición incorrecta conducirá a infraestadificación. La 8.ª edición del AJCC utiliza la DOI, no el grosor."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Extensión extracapsular e intensificación del tratamiento",
+          "content": "La extensión extracapsular (EEC), ya sea clínica (EECc) o patológica (EECp), es un hallazgo crítico que orienta las decisiones terapéuticas. Cualquier EEC patológica obliga a quimiorradioterapia adyuvante (platino concomitante con RT) en lugar de solo radioterapia, según los ensayos RTOG 9501 y EORTC 22931. La EEC histológica a nivel microscópico (EECmi, ≤2 mm más allá de la cápsula) frente a la EEC macroscópica (EECma, >2 mm) puede tener diferentes implicaciones pronósticas, pero ambas obligan a quimiorradioterapia según las directrices actuales de la NCCN."
+        }
+      ]
+    },
+    {
+      "id": "A1-S3",
+      "title": "Principios de la resección quirúrgica — Márgenes y resección compuesta",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La resección quirúrgica con márgenes adecuados sigue siendo la modalidad de tratamiento primario para el cáncer de cavidad oral resecable. El objetivo es la **resección R0** — márgenes negativos en el examen patológico. El margen estándar aceptado es **≥5 mm** en la muestra del corte permanente. Un margen <1 mm se clasifica como afecto (positivo); 1-4 mm como próximo; ≥5 mm como libre. La distinción entre márgenes próximos y positivos es crítica porque los márgenes positivos obligan a la reescisión si es técnicamente factible, mientras que los márgenes próximos en pacientes de alto riesgo obligan a quimiorradioterapia adyuvante.\n\nEl **análisis de sección por congelación** juega un papel clave en la evaluación intraoperatoria de márgenes, pero tiene limitaciones. Las tasas de falsos negativos para las secciones por congelación en el cáncer de cavidad oral se han reportado entre el 10-20%, principalmente debido al artefacto de contracción (las muestras se contraen aproximadamente un 25-30% tras la escisión por retracción muscular y fijación), márgenes tumorales heterogéneos y error de muestreo en muestras grandes. Por tanto, los márgenes patológicos finales en cortes permanentes son el estándar para las decisiones de planificación del tratamiento.\n\nCuando el tumor aborda o invade la mandíbula, la decisión quirúrgica es entre la **mandibulectomía marginal** (preservación de la continuidad mandibular con extirpación de un reborde óseo) y la **mandibulectomía segmentaria** (resección discontinua con reconstrucción mediante colgajo libre). La mandibulectomía marginal es apropiada cuando el periostio está intacto y la invasión ósea cortical está ausente o es mínima; está contraindicada cuando hay erosión cortical franca, invasión medular o radioterapia previa sobre la mandíbula. La posición del conducto dentario inferior respecto al borde mandibular inferior es crítica — debe mantenerse una altura ósea adecuada (≥1 cm del borde inferior) para evitar fractura patológica tras la resección marginal.\n\nLa **resección compuesta** se refiere a la resección combinada del tumor primario con un segmento de mandíbula y/o suelo de boca y disección cervical realizados como una única muestra. Esto reduce el riesgo de márgenes positivos en la interfaz tumor-hueso y evita la resección por fragmentos. La **mandibulotomía** (osteotomía parasinfisaria o del cuerpo lateral para dividir la mandíbula y obtener acceso) se utiliza para tumores de la cavidad oral posterior que de otro modo requerirían resección ciega; es un abordaje quirúrgico de acceso, no una resección.",
+          "type": "text"
+        },
+        {
+          "type": "table",
+          "title": "Algoritmo de decisión para la resección mandibular",
+          "headers": ["Escenario clínico", "Estado del periostio", "Estado óseo", "Resección recomendada", "Reconstrucción"],
+          "rows": [
+            ["Tumor adyacente a la mandíbula, sin invasión", "Intacto", "Normal", "Escisión amplia, pelar periostio", "Cierre primario o colgajo local"],
+            ["Tumor invade solo el periostio", "Roto", "Córtex intacto", "Mandibulectomía marginal", "Colgajo local o CRAP delgado"],
+            ["Erosión cortical sin invasión medular", "Ausente", "Córtex erosionado", "Marginal vs segmentaria (criterio del cirujano)", "CRAP o colgajo DCIA"],
+            ["Invasión medular confirmada por imagen", "Ausente", "Afectación medular", "Mandibulectomía segmentaria", "Colgajo libre de peroné o DCIA"],
+            ["Afectación del conducto dentario inferior", "Ausente", "Nervio afectado", "Mandibulectomía segmentaria", "Colgajo libre de peroné"],
+            ["RT previa, osteorradionecrosis", "Ausente", "Variable", "Mandibulectomía segmentaria", "Transferencia de tejido libre obligatoria"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto clínico — Estrategia de sección por congelación intraoperatoria",
+          "content": "En las resecciones mayores de cavidad oral, tome secciones por congelación en los márgenes mucosos profundos, el margen muscular profundo y los márgenes óseos (corte raspado descalcificado de la superficie medular para la mandibulectomía segmentaria). Los márgenes mucosos periféricos suelen ser visibles y se pueden controlar por inspección; el margen profundo en la base de lengua o el suelo de boca es el más crítico y difícil de evaluar. Para los carcinomas de lengua con DOI profunda, incluya un margen muscular profundo generoso (≥1 cm si la anatomía lo permite) porque las células tumorales pueden extenderse a lo largo de los haces musculares más allá del límite visible de la lesión."
+        }
+      ]
+    },
+    {
+      "id": "A1-S4",
+      "title": "Manejo de los ganglios linfáticos cervicales — Disección cervical electiva y terapéutica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**Las metástasis en los ganglios linfáticos cervicales** son el factor pronóstico individual más importante en el cáncer de cavidad oral, reduciendo la supervivencia a 5 años aproximadamente un 50%. La decisión de realizar una disección cervical electiva (DCE) en un cuello clínicamente sin ganglios (cN0) se basa en la probabilidad estimada de metástasis ganglionar oculta. El umbral ampliamente aceptado para el tratamiento electivo es una tasa de metástasis ganglionar oculta del **≥20%**, por encima del cual los beneficios de la disección electiva superan la morbilidad.\n\nPara el carcinoma de lengua oral, la tasa de metástasis ganglionar oculta se correlaciona fuertemente con la DOI: DOI <4 mm presenta aproximadamente un 7-10% de tasa ganglionar oculta, mientras que DOI >4 mm presenta aproximadamente un 26-46%. El **ensayo SENTI-MELA** (D'Cruz et al., NEJM 2015) demostró que en el cáncer de lengua oral T1/T2 cN0, la DCE en el momento de la cirugía primaria mejoró la supervivencia libre de enfermedad (69,5% vs 45,9%) y la supervivencia global (80,0% vs 67,5%) en comparación con la vigilancia activa. Esto estableció la DCE como el estándar de atención para todos los cánceres de lengua oral independientemente del estadio T cuando es anatómicamente factible.\n\nLa extensión de la disección cervical electiva en el cáncer de cavidad oral está estandarizada: **disección cervical selectiva (DCS) niveles I-III** para tumores unilaterales; **DCS bilateral I-III** para tumores de línea media o próximos a ella (suelo de boca anterior, lengua ventral, comisura labial). Para los tumores del suelo de boca con DOI >4 mm, se recomienda la disección bilateral debido a la alta tasa de afectación ganglionar bilateral y contralateral (hasta el 25% en lesiones de línea media).\n\nLa **disección cervical terapéutica** en enfermedad cN+ debe incluir todos los niveles ganglionares afectados y en riesgo. Para la enfermedad clínica N1/N2 de un primario de cavidad oral, el estándar es DCS I-IV o disección cervical radical modificada (DCRM) según la carga ganglionar. La disección cervical radical (sacrificio de NC XI, VYI, ECM) se reserva para la invasión macroscópica de estas estructuras y no debe realizarse de forma rutinaria — la preservación del NC XI reduce drásticamente la morbilidad del hombro y no supone desventaja oncológica cuando el nervio no está directamente invadido por el tumor."
+        },
+        {
+          "type": "table",
+          "title": "Tasa de metástasis ganglionar oculta por subsitio de cavidad oral",
+          "headers": ["Subsitio", "T1", "T2", "T3", "Riesgo bilateral", "DCE estándar"],
+          "rows": [
+            ["Lengua oral", "20-26%", "30-46%", ">50%", ">25% si línea media", "DCS I-III bilateral si línea media"],
+            ["Suelo de boca", "15-20%", "25-35%", ">40%", ">20% si anterior", "DCS I-III bilateral"],
+            ["Mucosa bucal", "10-15%", "20-30%", "35-45%", "<10%", "DCS I-III ipsilateral"],
+            ["Reborde alveolar inferior", "10-15%", "20-25%", "30-40%", "Bajo", "DCS I-III ipsilateral"],
+            ["Paladar duro", "5-10%", "15-20%", "25-35%", "Bajo", "DCS I-III ipsilateral"],
+            ["Trígono retromolar", "15-20%", "25-40%", ">45%", "Bajo-moderado", "DCS I-III ± IV"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — Resultado clave del ensayo SENTI-MELA",
+          "content": "El ensayo SENTI-MELA (D'Cruz et al., NEJM 2015) aleatorizó a 500 pacientes con cáncer de lengua oral T1/T2 cN0 entre DCE inmediata y vigilancia activa con DCE al primer signo de recurrencia ganglionar. La DCE mejoró significativamente la supervivencia global a 3 años (80% vs 67,5%, HR 0,64, p=0,01) y la supervivencia libre de enfermedad (69,5% vs 45,9%). Esta es la evidencia de Nivel I definitiva que respalda la disección cervical electiva en el cáncer temprano de lengua oral. Todas las guías (NCCN 2024, EACMFS) recomiendan ahora la DCE como estándar para el cáncer de lengua oral."
+        }
+      ]
+    },
+    {
+      "id": "A1-S5",
+      "title": "Tratamiento adyuvante — Indicaciones y estratificación del riesgo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La decisión de añadir tratamiento adyuvante tras la resección curativa del cáncer de cavidad oral está determinada por los factores de riesgo patológicos. Las directrices actuales de la NCCN 2024 estratifican a los pacientes en tres grupos de riesgo: **riesgo bajo** (márgenes negativos, N0 o pN1 sin características adversas — solo observación); **riesgo intermedio** (ganglio positivo único sin EEC, pT3-T4 sin EEC, invasión perineural, invasión linfovascular, o afectación ganglionar en niveles IV-V — radioterapia adyuvante recomendada [60-66 Gy en 30-33 fracciones]); **alto riesgo** (márgenes quirúrgicos positivos O extensión extracapsular patológica — quimiorradioterapia adyuvante obligatoria).\n\nLos ensayos de referencia que establecen la quimiorradioterapia concomitante como estándar para los pacientes de alto riesgo son el **RTOG 9501** (Cooper et al., NEJM 2004) y el **EORTC 22931** (Bernier et al., NEJM 2004). Ambos ensayos demostraron independientemente que añadir cisplatino concomitante (100 mg/m² los días 1, 22, 43) a la radioterapia postoperatoria mejoró significativamente el control locorregional y, en el ensayo EORTC, la supervivencia global. El metaanálisis de Bernier y Cooper confirmó que el beneficio en supervivencia se debía al subgrupo con márgenes positivos y/o EEC — estos dos factores son ahora las características de alto riesgo universalmente aceptadas que obligan a la quimiorradioterapia.\n\nEl papel del **cetuximab adyuvante** no se ha establecido como equivalente a la quimiorradioterapia basada en cisplatino. El estudio piloto RTOG 0234 exploró regímenes basados en cetuximab, pero la superioridad definitiva sobre el cisplatino estándar no se ha demostrado. El cisplatino sigue siendo el agente concomitante preferido a menos que exista disfunción renal, neuropatía u otras contraindicaciones específicas del cisplatino, en cuyo caso se utiliza carboplatino como alternativa (aunque con menos evidencia).\n\n**El momento de inicio de la radioterapia adyuvante** es importante: la PORT debe comenzar dentro de las 6 semanas tras la cirugía. Los retrasos superiores a 6-8 semanas se asocian con un control locorregional significativamente peor en series retrospectivas."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error frecuente — Indicaciones de RT adyuvante frente a quimiorradioterapia",
+          "content": "Las dos características que obligan absolutamente a la QUIMIORRADIOTERAPIA CONCOMITANTE (no solo radioterapia) son: (1) márgenes quirúrgicos positivos (R1) y (2) extensión extracapsular patológica (EECp). Todas las demás características adversas — invasión perineural, invasión linfovascular, T3-4, ganglios en niveles IV-V, múltiples ganglios positivos — obligan a radioterapia adyuvante pero NO necesariamente a quimioterapia concomitante. Prescribir quimioterapia por IPN o ILV solos sin EEC ni márgenes positivos no tiene base en la evidencia y expone al paciente a toxicidad innecesaria."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto clínico — Cicatrización de heridas y momento del tratamiento adyuvante",
+          "content": "Debe lograrse una cicatrización adecuada de las heridas tras la cirugía ablativa de cavidad oral antes de iniciar la PORT. Habitualmente se requiere un mínimo de 3-4 semanas postoperatorias. La reconstrucción con colgajo libre añade complejidad: si se producen problemas de monitorización del colgajo o pérdida parcial, puede ser necesario retrasar la PORT, aumentando el riesgo de recurrencia. La discusión preoperatoria entre el equipo quirúrgico y el de oncología radioterápica sobre la reconstrucción planificada, el plazo realista de cicatrización y el retraso de tratamiento aceptable es obligatoria para todos los pacientes que requieran reconstrucción con colgajo libre."
+        }
+      ]
+    },
+    {
+      "id": "A1-S6",
+      "title": "Invasión perineural, invasión linfovascular e informe patológico",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La **invasión perineural (IPN)** se encuentra en aproximadamente el 25-30% de las muestras de CECO y es un predictor independiente de fracaso locorregional y mala supervivencia. La IPN se define como la presencia de células tumorales dentro de cualquiera de las tres capas de la vaina nerviosa (epineuro, perineuro, endoneuro), o células tumorales en estrecha proximidad a un nervio y que afectan al menos un tercio de la circunferencia del mismo. La **IPN de nervio nominado** (afectación de un nervio con nombre como el nervio lingual, el nervio dentario inferior o el nervio facial) es particularmente significativa, ya que puede representar una vía de diseminación intracraneal y puede extenderse a lo largo del nervio mucho más allá del margen visible del tumor. La IPN de nervio nominado obliga a obtener imagen de todo el trayecto del nervio y es una indicación de radioterapia adyuvante hasta la base del cráneo o el hueso petroso si el nervio sale por la base del cráneo.\n\nLa **invasión linfovascular (ILV)** — invasión de células tumorales en los vasos linfáticos o sanguíneos — está presente en aproximadamente el 20-30% del CECO. La ILV se asocia con metástasis ganglionares ocultas y riesgo de metástasis a distancia. Su detección depende significativamente de la tinción inmunohistoquímica (D2-40 para linfáticos, CD31 para vasos sanguíneos) además de la HE. La ILV sola es una característica de riesgo intermedio según las directrices de la NCCN.\n\nEl **informe patológico sinóptico** para el cáncer de cavidad oral debe incluir, según el protocolo del CAP (Colegio Americano de Patólogos): sitio primario y subsitio; tipo histológico y grado; tamaño tumoral en tres dimensiones; DOI medida; estado de todos los márgenes quirúrgicos (mucoso, profundo, óseo si aplica); número total de ganglios linfáticos examinados; número de ganglios linfáticos positivos; presencia y extensión de la EEC (ninguna, EECmi ≤2 mm, EECma >2 mm); IPN (nervio nominado vs no nominado); ILV; y distancias de los márgenes. La ausencia de cualquiera de estos elementos representa un informe patológico incompleto y debe motivar la aclaración con el patólogo."
+        },
+        {
+          "type": "table",
+          "title": "Factores de riesgo patológicos y tratamiento adyuvante recomendado",
+          "headers": ["Factor de riesgo", "Categoría", "Recomendación adyuvante", "Referencia de guía"],
+          "rows": [
+            ["Márgenes positivos (R1)", "Alto riesgo", "Quimiorradioterapia (cisplatino + RT 66 Gy)", "NCCN 2024; RTOG 9501"],
+            ["EEC patológica", "Alto riesgo", "Quimiorradioterapia (cisplatino + RT 60-66 Gy)", "NCCN 2024; EORTC 22931"],
+            ["pN2-3 sin EEC", "Riesgo intermedio", "Radioterapia sola (60-63 Gy)", "NCCN 2024"],
+            ["pN1 único sin EEC", "Riesgo intermedio", "RT si hay otras características adversas", "NCCN 2024"],
+            ["IPN (nervio nominado)", "Riesgo intermedio", "RT con extensión hasta base de cráneo", "NCCN 2024"],
+            ["IPN (nervio no nominado)", "Riesgo intermedio", "RT recomendada", "NCCN 2024"],
+            ["ILV", "Riesgo intermedio", "RT recomendada con otras características", "NCCN 2024"],
+            ["T3-T4 pN0, márgenes libres, sin EEC", "Riesgo intermedio", "RT a considerar según extensión", "NCCN 2024"],
+            ["pT1-T2 N0 márgenes libres sin características adversas", "Riesgo bajo", "Observación", "NCCN 2024"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A1-S7",
+      "title": "Seguimiento, vigilancia y manejo de la recurrencia",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La vigilancia estructurada tras el tratamiento del cáncer de cavidad oral es crítica porque la mayoría de las recurrencias ocurren en los primeros 2 años. El programa de seguimiento estándar según la NCCN 2024 es: cada 1-3 meses en el año 1; cada 2-6 meses en el año 2; cada 4-8 meses en los años 3-5; anualmente después del año 5. Las imágenes de referencia postratamiento (TC o RM con contraste del sitio primario y el cuello) deben realizarse 8-12 semanas después de completar el tratamiento definitivo o adyuvante para establecer una nueva línea de base para comparación.\n\nLa **PET-TC de vigilancia** se recomienda 3-6 meses después de la (quimio)radioterapia definitiva para los pacientes orofaríngeos y de cavidad oral seleccionados con el fin de evaluar la respuesta al tratamiento. Una PET-TC postratamiento negativa tiene un valor predictivo negativo muy alto (>95%) para la enfermedad ganglionar residual y puede obviar la disección cervical planificada. Sin embargo, esto se aplica principalmente al cáncer orofaríngeo tratado definitivamente con quimiorradioterapia; para el cáncer de cavidad oral tratado con cirugía, la vigilancia con PET-TC postratamiento se reserva típicamente para la monitorización tras la terapia adyuvante.\n\nLa **cirugía de rescate** para la recurrencia locorregional debe considerarse en todos los pacientes en buen estado general. La resección de rescate para la recurrencia locorregional aislada logra una supervivencia a 5 años del 15-30% en pacientes cuidadosamente seleccionados. La radioterapia previa aumenta significativamente la morbilidad quirúrgica — la cicatrización de heridas está deteriorada y la transferencia de tejido libre con tejido no irradiado es esencial. Para las metástasis a distancia, el tratamiento sistémico con regímenes basados en platino combinados con pembrolizumab (basado en KEYNOTE-048, Shah et al., Lancet 2018) es el tratamiento estándar actual de primera línea para el carcinoma epidermoide de cabeza y cuello recurrente/metastásico (R/M CEHC), independientemente del estado de PD-L1 para el brazo de pembrolizumab en la población con CPS ≥20.",
+          "type": "text"
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el examen — KEYNOTE-048 para CEHC recurrente/metastásico",
+          "content": "KEYNOTE-048 (Shah et al., Lancet 2018) estableció el pembrolizumab como tratamiento de primera línea para el CEHC recurrente/metastásico. En pacientes con CPS ≥20, la monoterapia con pembrolizumab fue superior al régimen EXTREME (cetuximab + platino + 5-FU). En pacientes con CPS ≥1, pembrolizumab + platino + 5-FU fue superior a EXTREME. En todos los pacientes independientemente del estado de PD-L1, pembrolizumab + quimioterapia fue no inferior a EXTREME. El CPS (combined positive score) de PD-L1 — no el TPS — es el sistema de puntuación relevante para la elegibilidad al pembrolizumab en el CEHC."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Ponga a prueba sus conocimientos sobre el manejo del cáncer de cavidad oral con 20 preguntas de tipo examen que cubren estadificación, técnica quirúrgica y tratamiento adyuvante.",
+    "questions": [
+      {
+        "id": "A1-Q1",
+        "stem": "Un hombre de 58 años presenta una lesión ulcerada de 2,8 cm en el borde lateral de la lengua oral. La biopsia confirma carcinoma epidermoide. En la TC no hay erosión cortical mandibular ni adenopatías, y la lesión parece tener 6 mm de profundidad de invasión en la RM. ¿Cuál es el estadio T correcto según la 8.ª edición del AJCC?",
+        "options": {
+          "A": "T1 — tumor ≤2 cm",
+          "B": "T2 — tumor ≤4 cm con DOI >5 mm y ≤10 mm",
+          "C": "T3 — DOI >10 mm independientemente del tamaño",
+          "D": "T4a — afectación de los músculos extrínsecos de la lengua"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La 8.ª edición del AJCC clasifica esto como T2. El tumor mide 2,8 cm (cumple el criterio ≤4 cm) y la DOI es de 6 mm (>5 mm pero ≤10 mm). Según la 8.ª edición, T2 = tumor ≤4 cm con DOI >5 mm pero ≤10 mm, O tumor de 2-4 cm con DOI ≤10 mm. Ambos criterios se aplican aquí. La innovación clave de la 8.ª edición es que la DOI modifica la clasificación T de forma independiente al diámetro tumoral.",
+          "wrong": {
+            "A": "T1 requiere tumor ≤2 cm Y DOI ≤5 mm. Este tumor mide 2,8 cm y la DOI es de 6 mm — ninguno de los criterios T1 se cumple.",
+            "C": "T3 requiere DOI >10 mm O tamaño tumoral >4 cm. Aquí la DOI es solo de 6 mm y el tamaño de 2,8 cm, por lo que los criterios de T3 no se cumplen.",
+            "D": "T4a requiere invasión de estructuras adyacentes, incluidos los músculos extrínsecos de la lengua (geniogloso, hiogloso, estilogloso, palatogloso). No se describe tal invasión aquí."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017) — Capítulo 7: Cavidad oral",
+          "trial": "Ebrahimi A et al. (Head Neck 2011): La DOI es un predictor independiente de metástasis ganglionares ocultas en el CEC de cavidad oral, lo que respalda su incorporación en la estadificación de la 8.ª edición del AJCC.",
+          "pearl": "La DOI se mide desde el nivel de la membrana basal mucosa normal adyacente hacia abajo — NO desde la superficie del tumor. Los componentes exofíticos se excluyen de la medición de la DOI.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q2",
+        "stem": "Una mujer de 65 años se somete a escisión amplia de un carcinoma epidermoide T2N0 del suelo de boca. La patología definitiva muestra un margen más próximo de 3 mm, invasión perineural que afecta a un nervio nominado (nervio lingual) y 2 de 18 ganglios linfáticos positivos sin extensión extracapsular. Según las directrices de la NCCN 2024, ¿cuál es el tratamiento adyuvante más apropiado?",
+        "options": {
+          "A": "Observación — los márgenes no son positivos y no hay EEC",
+          "B": "Radioterapia adyuvante (60-63 Gy) — características de riesgo intermedio sin características de alto riesgo",
+          "C": "Quimiorradioterapia concomitante adyuvante (cisplatino + 66 Gy) — márgenes positivos",
+          "D": "Quimiorradioterapia concomitante adyuvante (cisplatino + 60 Gy) — EEC presente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Esta paciente tiene características de riesgo intermedio (margen próximo de 3 mm, IPN de nervio nominado, pN2a sin EEC) pero ninguna característica de alto riesgo. La NCCN 2024 define las características de alto riesgo que requieren quimiorradioterapia como márgenes positivos (R1) y/o EEC patológica. Esta paciente no tiene ninguna: el margen más próximo es de 3 mm (próximo, no positivo — definido como <1 mm), y los 2 ganglios positivos no tienen EEC. Por tanto, la radioterapia adyuvante sola (60-63 Gy) es apropiada, cubriendo el sitio primario, el cuello bilateral y el trayecto del nervio lingual hasta la base del cráneo dada la IPN de nervio nominado.",
+          "wrong": {
+            "A": "La observación es inapropiada. Están presentes múltiples características de riesgo intermedio: margen próximo (3 mm), IPN de nervio nominado y enfermedad pN2a. Todas las categorías de la NCCN recomiendan tratamiento adyuvante para estas características.",
+            "C": "La quimiorradioterapia concomitante con cisplatino está indicada por márgenes POSITIVOS (R1) o EEC. El margen aquí es de 3 mm (próximo, no positivo — definido como <1 mm). Por tanto, la adición de cisplatino no está obligada por la guía, aunque algunos centros lo utilizan para márgenes muy próximos.",
+            "D": "No se describe extensión extracapsular en la patología. Los 2 ganglios positivos no tienen EEC. La EEC es la característica de alto riesgo clave que requiere quimioterapia concomitante."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principios de tratamiento postoperatorio (HNCO-E)",
+          "trial": "Bernier J et al. EORTC 22931 (NEJM 2004): Cisplatino concomitante + PORT vs PORT sola — beneficio en supervivencia limitado a pacientes con EEC y/o márgenes positivos.",
+          "pearl": "Las dos indicaciones absolutas para cisplatino concomitante con radioterapia adyuvante en el cáncer de cavidad oral son: (1) márgenes quirúrgicos positivos (resección R1) y (2) extensión extracapsular patológica (EECp). Todas las demás características adversas indican radioterapia sola.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q3",
+        "stem": "Un no fumador, no bebedor de 52 años presenta una lesión de 1,5 cm en la lengua oral lateral, con CEC confirmado por biopsia, y la exploración clínica y la TC no muestran evidencia de adenopatías cervicales (cN0). La RM estima la DOI en aproximadamente 5 mm. ¿Qué abordaje de manejo está más respaldado por evidencia de Nivel I?",
+        "options": {
+          "A": "Escisión local amplia de la lesión lingual únicamente, con vigilancia activa del cuello",
+          "B": "Escisión local amplia con biopsia de ganglio centinela para orientar el manejo cervical",
+          "C": "Escisión local amplia con disección cervical selectiva electiva niveles I-III ipsilateral",
+          "D": "Escisión local amplia seguida de radioterapia adyuvante para tratar electivamente el cuello"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La disección cervical electiva (DCS niveles I-III) en el momento de la cirugía primaria está respaldada por evidencia de Nivel I del ensayo SENTI-MELA (D'Cruz et al., NEJM 2015). Con una DOI de aproximadamente 5 mm, este tumor tiene una tasa de metástasis ganglionar oculta de aproximadamente el 20-25% — por encima del umbral para el tratamiento electivo. El ensayo SENTI-MELA demostró una supervivencia global significativamente mejorada (80% vs 67,5%) y libre de enfermedad con DCE inmediata frente a la vigilancia activa, estableciendo la DCE como estándar de atención para el cáncer de lengua oral T1/T2 cN0.",
+          "wrong": {
+            "A": "La vigilancia activa fue inferior a la DCE en el ensayo SENTI-MELA en cuanto a supervivencia global y SLE. Ya no es el estándar de atención para el cáncer de lengua oral T1/T2 con DOI ≥4 mm.",
+            "B": "La biopsia de ganglio centinela (BGC) es técnicamente factible para el cáncer temprano de lengua oral y puede ser apropiada en centros seleccionados con experiencia, pero sigue siendo un abordaje alternativo en investigación. La evidencia definitiva de Nivel I es para la DCE, no para la BGC. La BGC puede considerarse como parte de un ensayo clínico o en tumores muy tempranos.",
+            "D": "La radioterapia adyuvante al cuello no está indicada en un paciente pN0 con márgenes libres tras la disección cervical electiva, a menos que se encuentren otras características patológicas adversas. La radioterapia electiva upfront al cuello como alternativa a la cirugía no es el abordaje estándar para el cáncer de cavidad oral quirúrgicamente resecable."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Cáncer de cavidad oral (OC-3); EACMFS 2023",
+          "trial": "D'Cruz AK et al. SENTI-MELA (NEJM 2015): DCE vs DCT en cáncer de lengua oral T1/T2 cN0 — la DCE electiva mejoró la SG a 3 años (80% vs 67,5%, p=0,01) y la SLE a 3 años (69,5% vs 45,9%).",
+          "pearl": "SENTI-MELA es el único ECA para el manejo cervical electivo en el cáncer temprano de lengua oral. Estableció la DCE como práctica estándar para el CEC de lengua oral T1/T2 cN0. Recuerde: 500 pacientes aleatorizados, 30% menos de mortalidad con DCE inmediata.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A1-Q4",
+        "stem": "Durante la resección de un carcinoma epidermoide T3 del reborde alveolar inferior, el cirujano evalúa la afectación mandibular. La TC muestra erosión cortical pero sin invasión medular. El periostio no está intacto sobre el área afectada. La RM preoperatoria confirma que no hay afectación del nervio dentario inferior (NDI) y que queda >1,5 cm de borde mandibular inferior por debajo de la lesión. ¿Cuál es la resección ósea más apropiada?",
+        "options": {
+          "A": "Sin resección ósea — pelar el periostio y dejar el córtex",
+          "B": "Mandibulectomía marginal con preservación de la continuidad mandibular",
+          "C": "Mandibulectomía segmentaria con reconstrucción inmediata con colgajo libre de peroné",
+          "D": "Mandibulectomía segmentaria con reconstrucción diferida tras PORT"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La mandibulectomía marginal (resección en reborde con preservación de la continuidad mandibular) es apropiada cuando: el periostio está violado pero la erosión cortical es el grado de invasión; no hay afectación medular; el conducto del NDI no está afectado; y queda un borde mandibular inferior adecuado (>1 cm). Este caso cumple todos los criterios: solo erosión cortical, sin enfermedad medular, sin afectación del NDI y 1,5 cm de borde inferior restante. La mandibulectomía marginal evita la morbilidad de la resección segmentaria y la reconstrucción con colgajo libre, logrando a la vez la resección oncológica.",
+          "wrong": {
+            "A": "Simplemente pelar el periostio es inadecuado cuando hay erosión cortical — el córtex está invadido y debe resecarse para lograr márgenes R0 en el hueso.",
+            "C": "La mandibulectomía segmentaria está indicada para la invasión medular, la afectación del conducto del NDI o un borde inferior inadecuado restante. Ninguno de estos está presente aquí. Realizar una resección segmentaria innecesariamente añade morbilidad y requiere reconstrucción con colgajo libre.",
+            "D": "La reconstrucción diferida tras PORT se evita generalmente porque el tejido irradiado tiene escasa capacidad de cicatrización, aumentando drásticamente las tasas de complicaciones. Si se requiriera mandibulectomía segmentaria, la transferencia libre de tejido inmediata en el momento de la ablación es el estándar de atención."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principios quirúrgicos de la cavidad oral; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Sin ECA específico. Evidencia de Nivel III/IV: Slootweg PJ et al. (IJOMS 2000) estableció los criterios para mandibulectomía marginal vs segmentaria basados en el patrón de invasión.",
+          "pearl": "La mandibulectomía marginal es apropiada para la erosión cortical sin invasión medular. Las contraindicaciones clave son: invasión medular, afectación del conducto del NDI, radioterapia previa y borde inferior inadecuado (<1 cm). Evalúe siempre la posición del NDI en la TC preoperatoria.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q5",
+        "stem": "¿Cuál de las siguientes características, identificadas en la patología definitiva tras la resección de un carcinoma epidermoide T2N1 de la mucosa bucal, obligaría más claramente a añadir cisplatino concomitante a la radioterapia adyuvante?",
+        "options": {
+          "A": "Invasión perineural que afecta a pequeños nervios no nominados",
+          "B": "Invasión linfovascular en la muestra primaria",
+          "C": "Extensión extracapsular en el único ganglio cervical positivo",
+          "D": "Ganglio positivo único en nivel II sin otras características adversas"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La extensión extracapsular patológica (EECp) es una de las dos características de alto riesgo absolutas (junto con los márgenes quirúrgicos positivos R1) que obligan a la quimiorradioterapia concomitante con cisplatino en lugar de solo radioterapia, según la NCCN 2024 y el metaanálisis de RTOG 9501/EORTC 22931. La EEC representa el predictor independiente más potente de recurrencia locorregional y empeora significativamente el pronóstico. El beneficio en supervivencia de añadir cisplatino a la PORT en los ensayos RTOG 9501 y EORTC 22931 fue impulsado exclusivamente por los pacientes con EEC y/o márgenes positivos.",
+          "wrong": {
+            "A": "La IPN que afecta a nervios no nominados es una característica de riesgo intermedio que indica radioterapia adyuvante. Por sí sola no obliga a cisplatino concomitante a menos que también estén presentes EEC o márgenes positivos.",
+            "B": "La invasión linfovascular es una característica de riesgo intermedio que indica radioterapia adyuvante. No obliga a quimioterapia concomitante como indicación independiente según las directrices de la NCCN 2024.",
+            "D": "Un ganglio pN1 único sin EEC y con márgenes libres es un escenario de riesgo relativamente bajo. La mayoría de las guías recomiendan considerar la radioterapia pero no el cisplatino concomitante por este solo factor."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principios de tratamiento postoperatorio; Cooper JS et al. RTOG 9501 (NEJM 2004); Bernier J et al. EORTC 22931 (NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004) y EORTC 22931 (Bernier et al., NEJM 2004): Ambos demostraron independientemente que el cisplatino concomitante + PORT mejoraba el control locorregional. El análisis combinado confirmó que el beneficio se limitaba al subgrupo con EEC y/o márgenes positivos.",
+          "pearl": "Dos características obligan a quimiorradioterapia (no solo RT): márgenes positivos (R1) y extensión extracapsular (EECp). Otras características adversas (IPN, ILV, N2-3 sin EEC) obligan solo a RT. Este es el punto de decisión de tratamiento adyuvante más frecuentemente evaluado en los exámenes de COMFax.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A1-Q6",
+        "stem": "Una mujer de 70 años con CEC T4a de la lengua oral derecha con afectación del músculo geniogloso se planifica para resección. Es cN0 en TC y PET-TC. Tiene diabetes tipo 2 bien controlada. Tras la resección completa con reconstrucción mediante colgajo libre, la patología definitiva muestra márgenes negativos (más próximo 7 mm) y 0/24 ganglios linfáticos positivos. ¿Qué enunciado describe mejor el tratamiento adyuvante apropiado?",
+        "options": {
+          "A": "La quimiorradioterapia adyuvante está obligada por la clasificación T4a",
+          "B": "La radioterapia adyuvante sola se recomienda basándose en el estadio T4a",
+          "C": "Debe considerarse la radioterapia adyuvante sola dado el estadio T4",
+          "D": "La observación es apropiada si los márgenes son negativos y los ganglios son negativos"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "T4a pN0 con márgenes libres (≥5 mm) es un escenario de riesgo intermedio. La NCCN 2024 recomienda radioterapia adyuvante (no quimiorradioterapia) para la enfermedad T4a. Las características de alto riesgo (márgenes positivos, EECp) están ausentes. La clasificación T4a por sí sola (enfermedad local avanzada con invasión muscular) justifica PORT para reducir el riesgo de recurrencia locorregional, pero no está indicado cisplatino concomitante sin las características de alto riesgo. Una dosis de radiación de 60-63 Gy al sitio primario y al cuello electivo bilateral es el estándar.",
+          "wrong": {
+            "A": "T4a por sí solo NO obliga a quimiorradioterapia. La quimiorradioterapia está obligada por márgenes positivos o EECp, que están ausentes aquí. T4a con márgenes libres y pN0 es un escenario de riesgo intermedio.",
+            "B": "Esto es parcialmente correcto en el mecanismo (radioterapia adyuvante sola, no quimiorradioterapia) pero usa un lenguaje incorrecto ('obligada'). La RT adyuvante está fuertemente recomendada, no obligada, aunque prácticamente todos los centros de alto volumen la recomendarían.",
+            "D": "La observación sola tras la resección T4a no es apropiada incluso con márgenes libres y pN0 — la extensión local avanzada de la enfermedad (invasión muscular) justifica la radioterapia adyuvante para reducir el riesgo de recurrencia locorregional."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — OC-E: Radioterapia postoperatoria para el cáncer de cavidad oral",
+          "trial": "Metaanálisis de RT adyuvante en cáncer C&C: Langendijk JA et al. (Radiother Oncol 2004): La RT adyuvante mejora el control locorregional para la enfermedad T3-T4.",
+          "pearl": "El estadio T por sí solo no determina si se añade cisplatino a la radioterapia adyuvante. La decisión está impulsada por las características de riesgo patológico: solo los márgenes R1 y la EECp obligan a la quimioterapia concomitante.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q7",
+        "stem": "Un cirujano realiza una disección cervical selectiva electiva (niveles I-III) para un CEC T2N0 del suelo de boca anterior. El cuello contralateral no presenta anomalías. ¿Cuál es el límite anatómico correcto para la disección de nivel I y qué estructuras deben preservarse en la disección de nivel IA y IB?",
+        "options": {
+          "A": "El nivel I está limitado por el borde inferior de la mandíbula, el vientre anterior del digástrico bilateralmente; nivel IA = submentoniano, IB = submaxilar; deben preservarse el nervio marginal mandibular y el conducto de la glándula submaxilar",
+          "B": "El nivel I contiene solo el triángulo submentoniano; los niveles IA y IB no son separados; la arteria facial debe ligarse",
+          "C": "Nivel IA = entre los vientres anteriores del digástrico; Nivel IB = triángulo submaxilar; el nervio marginal mandibular debe identificarse y preservarse",
+          "D": "El nivel I está limitado inferiormente por el hueso hioides; todos los contenidos incluida la glándula submaxilar se extirpan en bloque"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El nivel IA (submentoniano) está limitado por los vientres anteriores de ambos músculos digástricos y el hueso hioides en posición inferior — contiene los ganglios submentonianos. El nivel IB (submaxilar) es el triángulo submaxilar, limitado por los vientres anterior y posterior del digástrico, la mandíbula superiormente y el hueso hioides inferiormente. En una disección estándar del nivel IB, se extirpa la glándula submaxilar. La rama marginal mandibular del nervio facial debe identificarse y preservarse — discurre a lo largo del borde inferior de la mandíbula y puede desplazarse inferiormente por el agrandamiento de la glándula submaxilar o la adenopatía.",
+          "wrong": {
+            "A": "El conducto de la glándula submaxilar (conducto de Wharton) no requiere 'preservación' específica de la misma manera que el nervio; en la disección del nivel IB, la glándula y su conducto se extirpan típicamente como parte de la muestra. La preservación del nervio marginal mandibular es correcta.",
+            "B": "Los niveles IA y IB son subniveles distintos. El nivel I no es solo el triángulo submentoniano. La arteria facial puede necesitar ligadura durante la extirpación de la glándula submaxilar, pero esto es un paso estándar, no una violación.",
+            "D": "El nivel I no está limitado inferiormente por el hueso hioides — ese es el límite inferior del nivel IA (submentoniano), no de todo el nivel I. El hioides es el borde inferior del nivel IA específicamente."
+          },
+          "guideline": "Robbins KT et al. Neck Dissection Classification Update (Arch Otolaryngol HNS 2002); AAOMS Neck Dissection Guidelines 2023",
+          "trial": "Shah JP. Head and Neck Surgery and Oncology 5th ed (2020): Límites anatómicos de los niveles ganglionares cervicales.",
+          "pearl": "El nervio marginal mandibular es la estructura más frecuentemente lesionada durante la disección del nivel IB. Discurre profundo al platisma a lo largo del borde mandibular inferior y puede descender por debajo del borde inferior de la mandíbula en su trayecto. Identifíquelo siempre de forma precoz y retráigalo superiormente con un lazo vascular.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q8",
+        "stem": "Una mujer de 45 años tiene una lesión de 3,5 cm en la lengua oral que afecta a la línea media. La biopsia muestra CEC bien diferenciado. La TC y la PET-TC no muestran adenopatías cervicales bilateralmente. La DOI en la RM se estima en 12 mm. ¿Cuál es la estadificación correcta y el manejo cervical más apropiado?",
+        "options": {
+          "A": "T2N0 — DCS electiva derecha niveles I-III únicamente",
+          "B": "T3N0 — DCS electiva bilateral niveles I-III",
+          "C": "T3N0 — DCS electiva derecha niveles I-IV",
+          "D": "T4aN0 — DCS bilateral niveles I-V"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una DOI de 12 mm (>10 mm) clasifica esto como T3 independientemente del tamaño tumoral (3,5 cm). La estadificación es T3N0M0 (Estadio III). Para los tumores de lengua oral en línea media o próximos a ella, el drenaje linfático bilateral y la alta tasa de metástasis ganglionares ocultas bilaterales (hasta el 25-30% contralateral) obligan a realizar una disección cervical selectiva electiva bilateral (DCS) niveles I-III. Los tumores de lengua en línea media tienen una tasa más alta de metástasis contralateral en comparación con los tumores lateralizados.",
+          "wrong": {
+            "A": "T2 es incorrecto: DOI >10 mm clasifica como T3. Además, para una lesión de lengua en línea media, el manejo cervical unilateral es inadecuado.",
+            "C": "La estadificación T es correcta (T3) pero extender la DCS al nivel IV para un primario de cavidad oral cN0 no es estándar. Los ganglios del nivel IV están en riesgo cuando los ganglios del nivel III o II son clínicamente positivos, o en patrones específicos de diseminación. Para la disección electiva en el cáncer de cavidad oral cN0, la DCS I-III es estándar.",
+            "D": "T4a requiere invasión estructural (músculos extrínsecos de la lengua, hueso cortical, etc.). La DOI >10 mm por sí sola no constituye T4a — es T3. La disección del nivel V no está indicada para el cáncer de lengua oral estándar."
+          },
+          "guideline": "AJCC 8.ª edición — T3 de cavidad oral: DOI >10 mm; NCCN Head and Neck Cancers v1.2024 — OC-3",
+          "trial": "Byers RM et al. (Am J Surg 1988): Metástasis en salto y afectación cervical bilateral en los tumores de lengua oral en línea media apoyan el manejo cervical electivo bilateral.",
+          "pearl": "DOI >10 mm = T3. Este es un punto de estadificación frecuentemente evaluado. Recuerde también: los tumores de lengua oral en línea media y del SB anterior requieren disección cervical electiva bilateral por los patrones de drenaje linfático bilateral y contralateral.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q9",
+        "stem": "¿Cuál es la definición de 'profundidad de invasión' (DOI) tal como se utiliza en la 8.ª edición del AJCC para la estadificación del cáncer de cavidad oral, y en qué se diferencia del grosor tumoral?",
+        "options": {
+          "A": "DOI = distancia vertical desde la superficie mucosa hasta el punto más profundo de invasión; grosor tumoral = la misma medición, términos sinónimos",
+          "B": "DOI = distancia desde la membrana basal mucosa normal adyacente hasta el punto más profundo de invasión, excluyendo los componentes exofíticos; el grosor tumoral incluye el componente exofítico",
+          "C": "DOI = profundidad de invasión medida por TC; grosor tumoral = medición patológica; la DOI siempre es mayor que el grosor",
+          "D": "La DOI y el grosor tumoral son mediciones idénticas utilizadas de forma intercambiable; la 8.ª edición del AJCC acepta cualquiera de los dos valores"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La DOI se mide desde el nivel de la membrana basal mucosa normal adyacente (proyectada horizontalmente) hacia abajo hasta el punto más profundo de invasión. Esto excluye cualquier componente exofítico (que eleva la superficie) del tumor. El grosor tumoral se mide desde la superficie del tumor (incluyendo el componente exofítico) hasta el punto más profundo, y siempre es ≥ DOI. La distinción importa: una lesión muy exofítica puede tener un grosor tumoral grande pero una DOI pequeña, reflejando una profundidad de invasión relativamente superficial, mientras que una lesión endofítica puede tener DOI y grosor casi iguales. La 8.ª edición del AJCC exige la DOI, no el grosor tumoral.",
+          "wrong": {
+            "A": "La DOI y el grosor tumoral NO son sinónimos. El grosor tumoral incluye el componente exofítico; la DOI no.",
+            "C": "La DOI es una medición patológica, no de TC. La TC y la RM pueden estimar la DOI, pero la medición definitiva es en la muestra patológica. La DOI siempre es ≤ el grosor tumoral (no mayor).",
+            "D": "La DOI y el grosor tumoral no son intercambiables. La 8.ª edición del AJCC establece específicamente que la DOI (no el grosor tumoral) es la medición relevante para la clasificación T."
+          },
+          "guideline": "AJCC Cancer Staging Manual 8th Edition (2017), Capítulo 7: Cavidad oral; CAP Oral Cavity Pathology Reporting Protocol 2023",
+          "trial": "Ebrahimi A et al. (Head Neck 2011): La DOI supera al grosor tumoral como predictor de metástasis ganglionares y supervivencia, lo que proporciona la base científica para su inclusión en la 8.ª edición del AJCC.",
+          "pearl": "En los exámenes: DOI ≤ grosor tumoral siempre. La DOI se mide desde la membrana basal normal adyacente, no desde la superficie del tumor. Un tumor exofítico puede tener un grosor grande pero una DOI pequeña.",
+          "difficulty": 1
+        }
+      },
+      {
+        "id": "A1-Q10",
+        "stem": "Un paciente de 60 años se somete a resección de un CEC de lengua oral T3N2b. La patología definitiva muestra márgenes negativos (más próximo 8 mm), 4 de 22 ganglios ipsilaterales positivos, todos sin extensión extracapsular, invasión perineural en nervios no nominados e invasión linfovascular. ¿Qué dosis y técnica de PORT refleja mejor las recomendaciones de la NCCN 2024?",
+        "options": {
+          "A": "60 Gy solo al sitio primario; el cuello no requiere radiación si se ha disecado quirúrgicamente",
+          "B": "66 Gy a volúmenes de alto riesgo; 60 Gy a volúmenes de riesgo intermedio; 54 Gy electivo",
+          "C": "Cisplatino concomitante 100 mg/m² días 1, 22, 43 con 66 Gy",
+          "D": "Vigilancia activa — los márgenes son negativos y la EEC está ausente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este paciente tiene características de riesgo intermedio (N2b sin EEC, IPN, ILV) pero ninguna característica de alto riesgo (no hay márgenes positivos, no hay EECp). Por tanto, está indicada la radioterapia adyuvante sola (sin cisplatino concomitante). La técnica PORT estándar utiliza un boost integrado simultáneo basado en IMRT (SIB): 66 Gy/30 fr al CTV de alto riesgo (lecho del tumor primario), 60 Gy/30 fr al CTV de riesgo intermedio (niveles ganglionares afectados), y 54 Gy/30 fr al CTV electivo de bajo riesgo (niveles cervicales no afectados). Este enfoque de 'pintura de dosis' es el estándar actual según los protocolos de la NCCN y el RTOG.",
+          "wrong": {
+            "A": "La radiación solo al sitio primario es inadecuada en la enfermedad N2b. Todos los niveles cervicales ipsilaterales afectados y el cuello electivo contralateral deben incluirse en los volúmenes PORT.",
+            "C": "El cisplatino concomitante no está indicado aquí. Las únicas indicaciones para la quimiorradioterapia en el contexto adyuvante son los márgenes positivos (R1) y la EECp. Ninguno está presente en este caso. Añadir cisplatino innecesariamente expone al paciente a nefrotoxicidad, ototoxicidad y mielodepresión sin beneficio basado en la evidencia.",
+            "D": "La vigilancia activa no es apropiada para la enfermedad pN2b con ILV e IPN. Estas características de riesgo intermedio obligan a radioterapia adyuvante para reducir el riesgo de recurrencia locorregional."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principios de dosis y volumen de RT postoperatoria; RTOG 0522",
+          "trial": "Bernier J et al. (NEJM 2004) EORTC 22931 + Cooper JS et al. (NEJM 2004) RTOG 9501: Beneficio de la quimiorradioterapia limitado al subgrupo de márgenes positivos/EEC. Radioterapia sola para otras características de alto riesgo.",
+          "pearl": "Pintura de dosis PORT: 66 Gy alto riesgo, 60 Gy riesgo intermedio, 54 Gy electivo. Sin cisplatino a menos que haya márgenes R1 o EECp. Este marco de dosis en tres niveles es el estándar SIB-IMRT postoperatorio para el CEHC.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q11",
+        "stem": "Un hombre de 67 años presenta enfermedad recurrente en el cuello (nivel IIa) 18 meses después del tratamiento inicial con cirugía y radioterapia adyuvante (60 Gy) por CEC de lengua oral T2N1. La recurrencia es un ganglio único de 2,5 cm sin evidencia de recurrencia en el sitio primario ni metástasis a distancia en la PET-TC. ¿Cuál es el mejor abordaje de tratamiento inicial?",
+        "options": {
+          "A": "Reirradiación del cuello a 60 Gy con cisplatino concomitante",
+          "B": "Tratamiento sistémico con pembrolizumab en monoterapia como primera línea",
+          "C": "Disección cervical de rescate si es técnicamente factible, seguida de evaluación para reirradiación",
+          "D": "Mejor cuidado de soporte — los pacientes previamente irradiados no son candidatos a cirugía de rescate"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La recurrencia regional aislada después de cirugía previa y radioterapia debe evaluarse primero para cirugía de rescate si es técnicamente factible. Una recurrencia ganglionar aislada única sin fracaso en el sitio primario es potencialmente curable con rescate quirúrgico. La disección cervical de rescate en pacientes previamente irradiados es técnicamente desafiante pero alcanzable con planificación cuidadosa. La reirradiación post-rescate (estereotáctica o basada en IMRT) puede considerarse después para pacientes seleccionados. La cirugía de rescate para la recurrencia ganglionar aislada logra una supervivencia a 5 años de aproximadamente el 20-35% en pacientes seleccionados.",
+          "wrong": {
+            "A": "La reirradiación sola sin resección quirúrgica de una recurrencia ganglionar resecable no es el abordaje inicial preferido. La enfermedad residual después de radioterapia previa responde mal a la reirradiación en cabeza y cuello sin desbridamiento quirúrgico.",
+            "B": "La monoterapia con pembrolizumab es el tratamiento sistémico de primera línea para el CEHC recurrente/metastásico no susceptible de cirugía o reirradiación. Este caso tiene una recurrencia localizada resecable — debe intentarse primero el rescate locorregional.",
+            "D": "La radiación previa no es una contraindicación absoluta para la cirugía cervical de rescate. La disección de rescate en cuellos previamente irradiados se realiza regularmente en centros de alto volumen, con mayor riesgo de complicaciones de herida manejado mediante cobertura con transferencia libre de tejido si es necesario."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Manejo de la recurrencia (OC-F)",
+          "trial": "KEYNOTE-048 (Shah et al., Lancet 2018): Pembrolizumab establecido para CEHC R/M no susceptible de tratamiento local. Para la recurrencia regional resecable, el rescate local tiene precedencia.",
+          "pearl": "Para la recurrencia locorregional resecable aislada después de RT previa: cirugía de rescate primero, luego considerar reirradiación. El tratamiento sistémico basado en pembrolizumab es para la enfermedad no susceptible de cirugía o reirradiación (recurrencia diseminada o irresecable).",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q12",
+        "stem": "El informe de patología de un CEC de lengua oral resecado describe afectación del nervio lingual, con células tumorales que se extienden proximalmente a lo largo de la vaina nerviosa hasta el espacio pterigomandibular. ¿Cuál es el manejo más apropiado para este hallazgo?",
+        "options": {
+          "A": "Sin cambios — la invasión perineural ya está contemplada en el campo PORT estándar",
+          "B": "Extender el campo PORT para incluir todo el trayecto del nervio lingual hasta el foramen oval y el ganglio de Gasser",
+          "C": "Reescisión para lograr márgenes nerviosos negativos antes de iniciar PORT",
+          "D": "Este hallazgo obliga a la reestadificación como T4b por afectación de la base del cráneo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La invasión perineural de un nervio nominado — especialmente del nervio lingual — requiere la extensión del campo de radiación para incluir todo el trayecto del nervio hasta su origen (foramen oval y ganglio de Gasser del NC V3). El nervio lingual es una rama del nervio mandibular (NC V3), que sale del cráneo por el foramen oval. La diseminación perineural puede alcanzar la base del cráneo e incluso llegar intracranialmente si no se trata. Los campos PORT estándar no cubren rutinariamente todo este trayecto anatómico; se requiere una modificación específica.",
+          "wrong": {
+            "A": "Los campos PORT estándar normalmente cubren el lecho del tumor primario y los ganglios cervicales, pero NO se extienden al foramen oval ni a la base del cráneo a menos que se modifiquen específicamente. La IPN de nervio nominado requiere esta extensión del campo.",
+            "C": "La reescisión para la IPN de nervio nominado generalmente no es técnicamente factible una vez que el tumor se ha extendido al espacio pterigomandibular o más allá, y la morbilidad quirúrgica de perseguir la liberación a nivel del nervio es prohibitiva. La extensión del campo PORT es el manejo estándar.",
+            "D": "T4b requiere afectación del espacio masticador, las láminas pterigoideas, la base del cráneo o el rodeo de la arteria carótida interna. La IPN de nervio nominado que se extiende en el espacio pterigomandibular no constituye automáticamente T4b a menos que la propia base del cráneo esté invadida."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principios de radioterapia para la diseminación perineural",
+          "trial": "Bhatt N et al. (Am J Clin Oncol 2009): La IPN de nervio nominado en el cáncer de cabeza y cuello requiere extensión del campo hasta la base del cráneo — mejor control locorregional con campos extendidos.",
+          "pearl": "IPN de nervio nominado en el cáncer de cavidad oral: extender PORT hasta el punto de entrada en la base del cráneo. Para el nervio lingual = foramen oval (NC V3). Para el NDI = foramen oval (NC V3, rama dentaria inferior). Especifique siempre 'IPN de nervio nominado con extensión proximal' en el informe patológico y comuníquese directamente con el oncólogo radioterapeuta.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q13",
+        "stem": "Una mujer de 55 años está programada para resección de un CEC T2N0 de la mucosa bucal posterior. Para el acceso quirúrgico, el cirujano está considerando un abordaje transmandibular (mandibulotomía). ¿Cuál es la localización y el tipo de mandibulotomía más apropiados para el acceso a la cavidad oral posterior?",
+        "options": {
+          "A": "Mandibulotomía en línea media a través de la sínfisis entre los incisivos centrales",
+          "B": "Mandibulotomía parasinfisaria lateral a la línea media, evitando el foramen mentoniano",
+          "C": "Mandibulotomía del cuerpo lateral a través de la región premolar entre el canino y el premolar",
+          "D": "Mandibulotomía a través del ángulo mandibular posterior al último molar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La mandibulotomía parasinfisaria (también conocida como abordaje mediano o paramediano con splitting labial y mandibulotomía) se realiza justo lateral a la línea media, entre el incisivo lateral y el canino, para evitar el foramen mentoniano y evitar dividir a través de la sínfisis de la línea media. La sínfisis de la línea media tiene un escaso aporte vascular y cicatriza mal. La localización parasinfisaria evita el paquete neurovascular mentoniano. Una división del labio inferior se combina con una incisión en el pliegue mentoniano para un acceso cosméticamente aceptable, y la osteotomía se fija con placas tras la resección del tumor.",
+          "wrong": {
+            "A": "La línea media verdadera (a través de la sínfisis entre los incisivos centrales) es una mala elección porque la línea media tiene un potencial osteogénico reducido y la incisión a través del frenillo y el labio en línea media es cosméticamente subóptima.",
+            "C": "Una mandibulotomía del cuerpo lateral a través de la región premolar altera más significativamente el arco dental y debilita la mandíbula, aumentando el riesgo de fractura patológica. No es estándar para el acceso a la cavidad oral posterior.",
+            "D": "Una mandibulotomía a través del ángulo, posterior al último molar, tiene un beneficio quirúrgico limitado para el acceso a la cavidad oral posterior y aumenta el riesgo de lesión del nervio dentario inferior."
+          },
+          "guideline": "Shah JP et al. Head and Neck Surgery and Oncology 5th ed (2020) — Abordajes de acceso por mandibulotomía",
+          "trial": "Spiro RH et al. (Am J Surg 1985): Mandibulotomía parasinfisaria para el acceso a la cavidad oral posterior — técnica quirúrgica y resultados.",
+          "pearl": "La mandibulotomía proporciona acceso a los tumores de la cavidad oral posterior y la orofaringe. La localización parasinfisaria (entre el incisivo lateral y el canino) es la preferida. Es un procedimiento de acceso quirúrgico — NO una resección — y la mandíbula se fija de nuevo con placas tras la extirpación del tumor.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q14",
+        "stem": "Un hombre de 72 años presenta una historia de 2 años de dificultad progresiva para abrir la boca. Tiene una masa de 4 cm en la región del trígono retromolar derecho, con biopsia que muestra CEC. La TC revela afectación del espacio masticador derecho y erosión de las láminas pterigoideas. ¿Cuál es el estadio T y la evaluación general de resecabilidad?",
+        "options": {
+          "A": "T3 — tumor grande; considerado borderline resecable",
+          "B": "T4a — afectación del espacio masticador; potencialmente resecable con resección extendida",
+          "C": "T4b — afectación del espacio masticador y las láminas pterigoideas; generalmente considerado irresecable",
+          "D": "T4b — afectación de la base del cráneo; irresecable; solo tratamiento sistémico"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La afectación del espacio masticador Y las láminas pterigoideas es T4b según la 8.ª edición del AJCC. El T4b se define por la afectación de: espacio masticador, láminas pterigoideas O base del cráneo; O rodeo de la arteria carótida interna. La enfermedad T4b se clasifica como 'muy avanzada' y generalmente se considera irresecable o no susceptible de resección quirúrgica estándar con intención curativa. Aunque algunos centros intentan la resección quirúrgica extendida para la enfermedad T4b, la mayoría de las guías recomiendan el tratamiento definitivo no quirúrgico (quimiorradioterapia) como terapia primaria para el cáncer de cavidad oral T4b.",
+          "wrong": {
+            "A": "T3 requiere tumor >4 cm O DOI >10 mm. La afectación del espacio masticador es una característica T4, no T3.",
+            "B": "T4a implica estructuras adyacentes que incluyen: hueso cortical de mandíbula/maxilar, músculos profundos/extrínsecos de la lengua, seno maxilar o piel de la cara. La afectación del espacio masticador clasifica como T4b, no T4a.",
+            "D": "T4b no requiere afectación de la base del cráneo — la afectación del espacio masticador o las láminas pterigoideas por sí sola es suficiente para T4b. El trismo en este caso respalda la afectación del espacio masticador, confirmada en la TC."
+          },
+          "guideline": "AJCC 8.ª edición — Criterios T4b de la cavidad oral; NCCN Head and Neck Cancers v1.2024 — OC-2",
+          "trial": "Las directrices de la NCCN recomiendan quimiorradioterapia definitiva no quirúrgica para la enfermedad T4b dado su carácter generalmente irresecable y la morbilidad quirúrgica anticipada sin un claro beneficio en supervivencia sobre la QRT definitiva.",
+          "pearl": "T4a = moderadamente avanzado (hueso cortical, músculos extrínsecos de la lengua, seno maxilar, piel facial). T4b = muy avanzado (espacio masticador, láminas pterigoideas, base del cráneo, rodeo de ACI). T4b = generalmente irresecable. Recuerde: el trismo es el signo clínico de afectación del espacio masticador.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q15",
+        "stem": "En el ensayo KEYNOTE-048 para el carcinoma epidermoide de cabeza y cuello recurrente/metastásico, ¿qué biomarcador se utilizó para seleccionar a los pacientes para monoterapia con pembrolizumab frente a pembrolizumab más quimioterapia, y qué umbral de puntuación se asoció con mejores resultados con la monoterapia?",
+        "options": {
+          "A": "Puntuación de proporción tumoral (TPS) ≥50% para PD-L1",
+          "B": "Puntuación positiva combinada (CPS) ≥20 para PD-L1",
+          "C": "Puntuación positiva combinada (CPS) ≥1 para PD-L1",
+          "D": "TMB-alto (≥10 mutaciones por megabase) por NGS en tejido"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En KEYNOTE-048, la monoterapia con pembrolizumab demostró una supervivencia global superior frente a EXTREME (cetuximab + platino + 5-FU) en pacientes con CPS ≥20. La Puntuación Positiva Combinada (CPS) cuenta las células positivas para PD-L1 (células tumorales + linfocitos + macrófagos) dividido por el total de células tumorales viables multiplicado por 100. Para el CEHC, CPS ≥20 es el umbral para la superioridad de la monoterapia con pembrolizumab. CPS ≥1 identificó la población donde pembrolizumab + quimioterapia fue superior a EXTREME. Nota: el TPS se utiliza para el CPNM, NO para el CEHC — el CPS es el biomarcador correcto para la elegibilidad al pembrolizumab en el CEHC.",
+          "wrong": {
+            "A": "El TPS (tumour proportion score) es el biomarcador PD-L1 utilizado en el CPNM (ej. KEYNOTE-024 para CPNM con TPS ≥50%). Para el CEHC se usa el CPS, no el TPS.",
+            "C": "CPS ≥1 es el umbral para la superioridad de pembrolizumab + quimioterapia sobre EXTREME (en KEYNOTE-048). CPS ≥20 es el umbral para la superioridad de la monoterapia. Son grupos clínicos distintos con diferentes recomendaciones de tratamiento.",
+            "D": "TMB-alto se usa como biomarcador para pembrolizumab en tumores TMB-altos (KEYNOTE-158) pero NO es el biomarcador estándar en KEYNOTE-048 para CEHC. El CPS de PD-L1 es el biomarcador recomendado por las guías."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Tratamiento sistémico del CEHC recurrente/metastásico; Aprobación FDA Pembrolizumab CEHC 2019",
+          "trial": "KEYNOTE-048 (Shah et al., Lancet 2018): Pembrolizumab ± platino/5-FU vs EXTREME en CEHC R/M. CPS ≥20: monoterapia con pembrolizumab superior (SG HR 0,61). CPS ≥1: pembrolizumab + quimio superior (SG HR 0,65). Todos los pacientes: combinación no inferior.",
+          "pearl": "Biomarcador PD-L1 en CEHC = CPS (no TPS). CPS ≥20 → monoterapia con pembrolizumab preferida. CPS ≥1 → pembrolizumab + quimioterapia. Todos los pacientes independientemente del CPS → pembrolizumab + quimioterapia es no inferior a EXTREME y también es aceptable.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q16",
+        "stem": "Un paciente de 48 años se somete a glosectomía total izquierda y disección cervical bilateral por CEC T4a pN2b de la lengua oral. La patología definitiva confirma un ganglio con extensión extracapsular (2,5 mm más allá de la cápsula). ¿Cuál es la dosis total de cisplatino y radioterapia más consistente con el protocolo RTOG 9501, que estableció la base de evidencia para la quimiorradioterapia en este contexto?",
+        "options": {
+          "A": "Cisplatino 40 mg/m² semanal × 6 semanas con 60 Gy en 30 fracciones",
+          "B": "Cisplatino 100 mg/m² los días 1, 22 y 43 con 60-66 Gy en 30-33 fracciones",
+          "C": "Carboplatino AUC 1,5 semanal con 60 Gy — el cisplatino es demasiado tóxico en pacientes post-glosectomía",
+          "D": "Cetuximab 400 mg/m² de carga y luego 250 mg/m² semanal con 66 Gy"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El ensayo RTOG 9501 utilizó cisplatino a dosis alta de 100 mg/m² los días 1, 22 y 43 (3 ciclos) concomitante con 60-66 Gy de radiación. Este régimen es el estándar de referencia para la quimiorradioterapia postoperatoria en el CEHC de alto riesgo. El ensayo demostró un control locorregional significativamente mejorado (82% vs 72% a 2 años) con quimiorradioterapia frente a radioterapia sola en pacientes con márgenes positivos y/o EEC. A pesar de la toxicidad, este sigue siendo el régimen preferido según la NCCN 2024 para pacientes en buen estado general (ECOG 0-1, función renal adecuada).",
+          "wrong": {
+            "A": "El cisplatino semanal 40 mg/m² se utiliza comúnmente en el contexto de quimiorradioterapia definitiva (no adyuvante) para el CEHC localmente avanzado. Aunque se usa fuera de indicación en algunos centros para PORT, la evidencia de Nivel I del RTOG 9501 es específicamente para cisplatino trisemanal a dosis alta. El cisplatino semanal no es el protocolo establecido en el RTOG 9501.",
+            "C": "El carboplatino se usa como alternativa para pacientes no elegibles para cisplatino, pero no hay evidencia de Nivel I que demuestre equivalencia al cisplatino en el contexto adyuvante del CEHC. El cisplatino debe usarse primero a menos que existan contraindicaciones específicas (aclaramiento de creatinina <50 mL/min, neuropatía preexistente, pérdida auditiva significativa).",
+            "D": "La quimiorradioterapia basada en cetuximab se exploró en el RTOG 0234 pero no demostró superioridad sobre el cisplatino. El cetuximab no es el agente concomitante recomendado por las guías para la quimiorradioterapia postoperatoria en el CEHC."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Principios de terapia sistémica; Cooper JS et al. RTOG 9501 (NEJM 2004)",
+          "trial": "RTOG 9501 (Cooper et al., NEJM 2004): Cisplatino 100 mg/m² días 1/22/43 + PORT (60-66 Gy) vs PORT sola. Mejor control locorregional (82% vs 72% a 2 años, p=0,01) y supervivencia libre de enfermedad. Beneficio limitado al subgrupo de EEC y/o márgenes positivos.",
+          "pearl": "Cisplatino a dosis alta (100 mg/m² × 3 ciclos los días 1, 22, 43) es el régimen del RTOG 9501 y el EORTC 22931. Dosis total de cisplatino = 300 mg/m². El cisplatino semanal a dosis baja (40 mg/m²) es una alternativa en pacientes menos en forma pero carece de evidencia de Nivel I en el contexto adyuvante.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q17",
+        "stem": "Un paciente de 63 años es evaluado en seguimiento 3 meses después de completar quimiorradioterapia adyuvante por CEC de lengua oral pT3N2c (afectación ganglionar bilateral, todos sin EEC, márgenes negativos). La PET-TC muestra captación bilateral en el cuello (nivel II bilateral). ¿Cuál es el siguiente paso más apropiado?",
+        "options": {
+          "A": "Disección cervical bilateral inmediata",
+          "B": "Biopsia del ganglio más hipermetabólico para confirmar enfermedad residual/recurrente antes de tratamiento adicional",
+          "C": "Repetir PET-TC en 6 semanas — la inflamación postratamiento temprana causa falsos positivos",
+          "D": "Tratamiento sistémico con pembrolizumab para enfermedad residual"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La captación bilateral en la PET-TC a los 3 meses después de la quimiorradioterapia requiere confirmación tisular antes de proceder a la disección cervical bilateral. Las tasas de falsos positivos en la PET-TC postratamiento precoz (a los 3 meses) pueden ser del 15-25% por los cambios inflamatorios post-radioterapia. La práctica actual es realizar citología por aspiración con aguja fina (PAAF) o biopsia con aguja gruesa del ganglio más sospechoso antes de planificar el rescate quirúrgico. Si es positivo, la disección cervical bilateral es apropiada; si es negativo, está indicada la repetición de imagen a los 6 meses. Realizar la disección cervical bilateral sin confirmación histológica arriesga morbilidad innecesaria.",
+          "wrong": {
+            "A": "Realizar la disección cervical bilateral inmediata sin confirmación tisular arriesga cirugía innecesaria en un paciente que puede tener cambios post-radioterapia inflamatorios en la PET-TC.",
+            "C": "Retrasar la repetición de imagen 6 semanas es apropiado si hay sospecha clínica de cambio inflamatorio, pero con captación bilateral en nivel II después de enfermedad ganglionar bilateral, una vía más rápida (biopsia tisular) es más apropiada para evitar el retraso en el diagnóstico de enfermedad residual verdadera.",
+            "D": "El pembrolizumab sistémico es para la enfermedad recurrente/metastásica confirmada no susceptible de tratamiento local. Iniciar terapia sistémica sin prueba histológica de enfermedad es prematuro e inapropiado."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Vigilancia tras QRT; Directrices de imagen postratamiento",
+          "trial": "PET-TC para evaluación de respuesta postratamiento: Mehanna H et al. PET-NECK trial (NEJM 2016): La gestión cervical guiada por PET-TC reduce la disección cervical innecesaria en el cáncer orofaríngeo tras QRT — el principio se aplica a la vigilancia postratamiento en el CEHC general.",
+          "pearl": "La PET-TC postratamiento a los 3 meses tiene una tasa de falsos positivos del 15-25% por inflamación por radiación. Confirme siempre con biopsia antes de proceder a la cirugía de rescate. El valor predictivo negativo de una PET-TC postratamiento es muy alto (>95%), lo que significa que una exploración negativa descarta de forma fiable la enfermedad.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q18",
+        "stem": "Un cirujano evalúa a un paciente con CEC T1 (1,8 cm, DOI 4 mm) del borde lateral derecho de la lengua oral. El paciente es un no fumador, no bebedor de 38 años sin factores de riesgo obvios. Además del estudio de VPH, ¿qué prueba de marcador molecular es más apropiada como parte del estudio estándar para evaluar el riesgo sindrómico o hereditario?",
+        "options": {
+          "A": "Amplificación de EGFR por FISH",
+          "B": "Inmunohistoquímica p16 para el cáncer orofaríngeo relacionado con VPH",
+          "C": "No está indicado estudio molecular rutinario para el CEC T1 de lengua oral",
+          "D": "Derivación para consejo genético y estudio germinal de BRCA2/genes de la anemia de Fanconi"
+        },
+        "correct": "D",
+        "explanation": {
+          "correct": "El CEC de lengua oral en un paciente joven (<45 años) sin factores de riesgo convencionales (tabaco, alcohol) debe despertar la sospecha de un trastorno germinal de reparación del ADN. La anemia de Fanconi (especialmente genes FANCA, FANCC, FANCD2) y las mutaciones de BRCA2 se asocian fuertemente con el CEHC de inicio temprano, especialmente en la cavidad oral. Los pacientes con anemia de Fanconi desarrollan CEHC a una edad media de ~30 años, décadas antes que la población general. La derivación para consejo genético y estudio germinal es apropiada en pacientes jóvenes sin factores de riesgo.",
+          "wrong": {
+            "A": "La amplificación de EGFR es un biomarcador de investigación. No forma parte del estudio clínico estándar del CEC de cavidad oral y no cambia el tratamiento guiado por guías en el contexto curativo.",
+            "B": "La IHQ p16 para el estudio del VPH se realiza para el carcinoma orofaríngeo (amígdala, base de lengua, pared posterior de faringe), no para los tumores de cavidad oral. El CEC de cavidad oral es generalmente VPH-negativo y el estudio p16 no tiene implicaciones de estadificación ni de tratamiento para los tumores de cavidad oral según la 8.ª edición del AJCC.",
+            "C": "En un paciente joven, no fumador, no bebedor con CEC de lengua oral, no realizar ningún estudio molecular es inapropiado. El escenario clínico debe desencadenar la evaluación de síndromes de predisposición hereditaria al cáncer."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Poblaciones especiales; NCCN Genetic/Familial High-Risk Assessment Guidelines",
+          "trial": "Kutler DI et al. (Ann Otol Rhinol Laryngol 2003): Los pacientes con anemia de Fanconi tienen un riesgo dramáticamente elevado de CEHC, especialmente CEC de lengua oral en la segunda y tercera décadas de la vida.",
+          "pearl": "CEC de lengua oral en jóvenes (<45 años) sin factores de riesgo = sospechar anemia de Fanconi o mutación de BRCA2. Derivar para consejo genético. Los pacientes con anemia de Fanconi tienen mayor sensibilidad a los agentes dañinos del ADN (cisplatino, radioterapia) — el tratamiento debe reducirse en dosis para evitar toxicidad catastrófica.",
+          "difficulty": 3
+        }
+      },
+      {
+        "id": "A1-Q19",
+        "stem": "Un hombre de 61 años se somete a resección de un CEC del suelo de boca con DCS bilateral niveles I-III. El informe de patología identifica un ganglio metastásico de 1,4 cm en el nivel IB derecho con un área focal de EEC que mide 1,3 mm más allá de la cápsula. ¿Cómo debe clasificarse y qué tratamiento está indicado?",
+        "options": {
+          "A": "EEC microscópica (EECmi) — sin cambio en el tratamiento, la radioterapia sola es suficiente",
+          "B": "EEC macroscópica (EECma) — quimiorradioterapia adyuvante obligada",
+          "C": "Cualquier EEC patológica (EECp, independientemente de la extensión) — quimiorradioterapia adyuvante obligada",
+          "D": "ECE incidental — observar con seguimiento cercano; la significación está en debate"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Según la NCCN 2024, cualquier extensión extracapsular patológica (EECp), independientemente de si es microscópica (EECmi ≤2 mm) o macroscópica (EECma >2 mm), obliga a la quimiorradioterapia concomitante adyuvante. Aunque se han explorado diferencias pronósticas entre EECmi y EECma (la EECma tiene peor pronóstico), ambas se clasifican como EECp y ambas desencadenan el requisito de quimiorradioterapia frente a radioterapia sola. Esta es una distinción frecuentemente evaluada: el umbral para la intensificación del tratamiento es CUALQUIER EEC, no solo la EEC macroscópica.",
+          "wrong": {
+            "A": "EECmi (≤2 mm) sigue constituyendo EECp y obliga a quimiorradioterapia según la NCCN 2024. La distinción entre EECmi y EECma es pronóstica pero no cambia la recomendación de tratamiento de quimiorradioterapia a radioterapia sola.",
+            "B": "Esto es parcialmente correcto (quimiorradioterapia obligada) pero la clasificación es incorrecta. Una EEC de 1,3 mm más allá de la cápsula clasifica como EECmi (≤2 mm), no EECma (>2 mm). Sin embargo, la recomendación de tratamiento (quimiorradioterapia) sigue siendo correcta.",
+            "D": "La EEC no es un hallazgo incidental a observar. Es una de las dos indicaciones más fuertes para la quimiorradioterapia adyuvante en el CEHC y requiere intensificación activa del tratamiento."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Clasificación de la EEC y tratamiento; AJCC 8.ª edición — Criterios N3b",
+          "trial": "Mermod M et al. (Head Neck 2016): EECmi vs EECma en CEHC — ambas son factores pronósticos significativos. Las directrices de la NCCN tratan ambas como igualmente obligatorias para la quimiorradioterapia.",
+          "pearl": "Cualquier EECp = quimiorradioterapia (no solo RT). EECmi ≤2 mm = misma recomendación de tratamiento que EECma >2 mm según la NCCN 2024. La diferencia pronóstica entre EECmi y EECma es real pero la decisión de tratamiento es la misma.",
+          "difficulty": 2
+        }
+      },
+      {
+        "id": "A1-Q20",
+        "stem": "Una mujer de 69 años tiene un CEC biopsiado del paladar duro. Se estadifica como T2N0M0 tras el estudio completo. Tiene mala dentición y pérdida ósea alveolar significativa. Quirúrgicamente, ¿qué abordaje de reconstrucción es más apropiado después de la maxilectomía de infraestructura y necesita tratamiento cervical electivo?",
+        "options": {
+          "A": "Cierre primario con prótesis obturadora; no se necesita tratamiento cervical electivo para el CEC de paladar duro T2N0",
+          "B": "Colgajo libre de antebrazo radial; DCS electiva bilateral niveles I-III recomendada",
+          "C": "Prótesis obturadora con rehabilitación dental; considerar DCS electiva ipsilateral niveles I-III",
+          "D": "Colgajo libre de peroné con implantes dentales; DCS electiva bilateral obligatoria"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Para la maxilectomía de infraestructura (Clase I/II de Brown), una prótesis obturadora es la reconstrucción estándar en pacientes apropiados — permite excelentes resultados funcionales, facilita la vigilancia tumoral y evita la morbilidad del colgajo libre. La rehabilitación dental sobre los dientes restantes o implantes colocados en el maxilar residual es factible. Para el CEC de paladar duro T2N0, debe considerarse la disección cervical electiva ipsilateral (DCS niveles I-III) dada la tasa de metástasis ganglionares ocultas de aproximadamente el 15-20%. La disección bilateral no se recomienda rutinariamente para los tumores de paladar duro lateralizados (que drenan principalmente de forma ipsilateral al nivel II).",
+          "wrong": {
+            "A": "Ningún tratamiento cervical electivo es inapropiado para el CEC de paladar duro T2N0. La tasa de metástasis ganglionares ocultas (~15-20%) supera marginalmente el umbral estándar del 20%, y las guías varían, pero la mayoría recomienda tratamiento ipsilateral electivo. La NCCN recomienda el tratamiento cervical electivo para el paladar duro T2.",
+            "B": "Un colgajo libre de antebrazo radial es apropiado para defectos mayores (Clase III/IV de Brown) o con afectación del suelo de la órbita. Para la maxilectomía de infraestructura con mucosa palatina intacta y paladar residual adecuado para la retención protésica, se prefiere un obturador y tiene menos morbilidad. La DCS bilateral es excesiva para un tumor de paladar duro lateralizado.",
+            "D": "Un colgajo libre de peroné para la reconstrucción del paladar duro se utiliza en la maxilectomía subtotal o total, no en la maxilectomía de infraestructura. La disección cervical bilateral no está indicada para los tumores T2N0 de paladar duro lateralizados."
+          },
+          "guideline": "NCCN Head and Neck Cancers v1.2024 — Manejo quirúrgico del cáncer de cavidad oral; EACMFS Maxillary Reconstruction Guidelines 2023",
+          "trial": "Brown JS et al. (IJOMS 2010): Clasificación de Brown para los defectos maxilares — Clase I/II apropiados para reconstrucción con obturador; Clase III/IV requiere colgajo libre.",
+          "pearl": "Reconstrucción del paladar duro: la prótesis obturadora es el estándar para la Clase I/II de Brown (maxilectomía de infraestructura sin suelo de órbita). El colgajo libre se reserva para defectos mayores. El obturador permite vigilancia, restauración dental y excelente función en pacientes adecuados.",
+          "difficulty": 2
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "id": "A6",
+  "title": "Reconstrucción Maxilar",
+  "subtitle": "Bloque A — Oncología de Cabeza y Cuello: Defectos de Maxilectomía, Obturadores y Reconstrucción con Colgajo Libre",
+  "block": "A",
+  "block_name": "Oncología de Cabeza y Cuello",
+  "level": "R3-5",
+  "reading_time_min": 38,
+  "guidelines_version": "EACMFS Reconstruction Guidelines 2023 · NCCN Head and Neck Cancers 2024 · AAOMS 2023",
+  "textbook_refs": [
+    "Brown JS et al. Maxillary Reconstruction — The Brown Classification (Head Neck 2000)",
+    "Okay DJ et al. Prosthetic Obturation versus Free Flap Reconstruction of the Maxilla (Head Neck 2001)",
+    "Cordeiro PG and Santamaria E. A Classification System and Algorithm for Reconstruction of Maxillectomy and Midfacial Defects (Plast Reconstr Surg 2000)",
+    "Rogers SN et al. Outcomes and Health-Related Quality of Life after Maxillectomy (Br J Oral Maxillofac Surg 2010)",
+    "Hanasono MM et al. Free Flap Reconstruction of the Midface (Head Neck 2012)"
+  ],
+  "learning_objectives": [
+    "Aplicar la clasificación de Brown y Shaw de los defectos de maxilectomía (clases I–IV con subdivisiones) para orientar la toma de decisiones reconstructivas",
+    "Comparar las prótesis obturadoras frente a la reconstrucción con colgajo libre para los defectos maxilares según la clase del defecto, los factores del paciente y los resultados funcionales",
+    "Describir la anatomía del paladar blando y su papel en la función velofaríngea tras la maxilectomía",
+    "Identificar las opciones apropiadas de colgajos libres para la reconstrucción maxilar (ALT, CLAA, recto abdominal, peroné, cresta ilíaca) y seleccionar según el defecto",
+    "Reconocer los principios de la exenteración orbitaria y la reconstrucción orbitaria"
+  ],
+  "sections": [
+    {
+      "id": "A6-S1",
+      "title": "Clasificación de los Defectos de Maxilectomía",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los defectos maxilares resultantes de la resección tumoral se clasifican para orientar la reconstrucción y predecir los resultados funcionales. El sistema más ampliamente adoptado es la **clasificación de Brown y Shaw** (Head Neck 2000), que describe los defectos en dimensiones vertical y horizontal. El componente vertical describe la extensión de la resección palatina y alveolar: la **Clase I** es una maxilectomía limitada que no afecta al paladar (infraestructura); la **Clase II** es una maxilectomía subtotal que afecta a un lado del paladar pero preserva el suelo orbitario; la **Clase III** es una maxilectomía total con extirpación del suelo orbitario pero preservación orbitaria; la **Clase IV** incluye la exenteración orbitaria. La extensión horizontal se categoriza alfabéticamente: 'a' designa afectación unilateral (hasta la línea media); 'b' afectación bilateral. La **clasificación de Cordeiro-Santamaria** (2000) adopta un enfoque diferente, definiendo cuatro tipos según las estructuras extirpadas: Tipo I = maxilectomía limitada; Tipo II = maxilectomía subtotal (pared baja + medial); Tipo III = maxilectomía total; Tipo IIIb = total + suelo orbitario; Tipo IV = total + exenteración orbitaria. La clasificación de Brown es la más utilizada en la práctica europea de cirugía oral y maxilofacial. Las consecuencias funcionales críticas de la maxilectomía son: (1) comunicación oroantrales u oronasales; (2) insuficiencia velofaríngea (afectación del paladar blando); (3) pérdida del soporte orbitario; (4) deficiencia del contorno facial. La clasificación orienta la decisión entre la rehabilitación mediante obturador y la reconstrucción con colgajo libre."
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Brown de los Defectos de Maxilectomía",
+          "headers": ["Clase", "Extensión Vertical", "Órbita", "Consecuencia Funcional Clave"],
+          "rows": [
+            ["I", "Infraestructura — alvéolo, paladar duro, +/- pared posterior; suelo nasal preservado", "No afectada", "Comunicación oroantrales; deficiencia dental"],
+            ["II", "Maxilectomía baja — un lado del paladar; suelo orbitario intacto", "No afectada", "Comunicación oronasal; función dental/palatina"],
+            ["III", "Maxilectomía total — suelo orbitario extirpado; contenidos orbitarios preservados", "Suelo extirpado, órbita preservada", "Enoftalmos; diplopía; pérdida de soporte orbitario"],
+            ["IV", "Maxilectomía total + exenteración orbitaria", "Ojo y contenidos extirpados", "Ceguera; importante desfiguración facial"],
+            ["a", "Unilateral (hasta la línea media)", "—", "Obturador factible en Clase I–IIa"],
+            ["b", "Bilateral o cruza la línea media", "—", "Reconstrucción con colgajo libre preferida"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Decisión Obturador frente a Colgajo Libre",
+          "content": "Las prótesis obturadoras se prefieren para los defectos de Clase I y IIa (unilaterales, limitados), especialmente en pacientes ancianos con múltiples comorbilidades. La reconstrucción con colgajo libre se prefiere para los defectos de Clase IIb, III y IV (bilaterales, con afectación orbitaria) y en pacientes jóvenes que requieren una rehabilitación funcional duradera. Los obturadores requieren cumplimiento, buena higiene oral y una dentición intacta para su retención."
+        }
+      ]
+    },
+    {
+      "id": "A6-S2",
+      "title": "Prótesis Obturadoras — Principios y Resultados",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Un **obturador** palatino es un dispositivo protésico que sella el defecto maxilar, restaurando el habla, la deglución y la competencia oral. Tras la maxilectomía se utilizan tres tipos de forma secuencial: el **obturador quirúrgico** (colocado en el momento de la intervención para mantener la forma de la herida y prevenir la contractura de los tejidos blandos), el **obturador provisional** (adaptado 1–6 semanas después de la operación conforme avanza la cicatrización) y el **obturador definitivo** (fabricado a medida 3–6 meses después de la cicatrización, incorporando restauración dental). El obturador se retiene mediante los dientes naturales restantes (grapas) o implantes en el alvéolo residual. Los **resultados** de la rehabilitación con obturador son generalmente buenos para los defectos de Clase I–IIa: la inteligibilidad del habla mejora hasta casi la normalidad en el 85% de los pacientes, la función deglutoria se restaura en el 90% y el tiempo de deglución se normaliza. Los estudios de calidad de vida (Rogers et al., Br J Oral Maxillofac Surg 2010) muestran que los pacientes con obturador tienen una CVS equivalente a los pacientes reconstruidos con colgajo libre para defectos limitados. Las **limitaciones** de los obturadores son: requieren limpieza regular (la colonización bacteriana causa mal olor), la retención es deficiente cuando quedan pocos dientes, los defectos extensos (IIb/III) no pueden sellarse adecuadamente y el paciente debe estar motivado y ser capaz de manejar la prótesis. Los **implantes dentales** en el maxilar residual pueden mejorar significativamente la retención del obturador y eliminar la necesidad de grapas. Los obturadores implantosoportados son especialmente valiosos en los pacientes edéntulos o con soporte dental restante limitado."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Momento del Obturador Quirúrgico",
+          "content": "El obturador quirúrgico debe fabricarse preoperatoriamente a partir de modelos dentales preoperatorios. Se inserta al final de la resección maxilar, suturado a la mucosa palatina residual y a la mejilla. Previene la contractura de la herida, permite la alimentación oral precoz y posibilita el habla inmediatamente después de la cirugía. Sin un obturador quirúrgico, el defecto se contrae drásticamente en las primeras 2 semanas, dificultando la futura rehabilitación protésica."
+        }
+      ]
+    },
+    {
+      "id": "A6-S3",
+      "title": "Reconstrucción del Maxilar con Colgajo Libre",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La reconstrucción del maxilar con colgajo libre se prefiere para los defectos complejos (Clase IIb, III, IV de Brown) y en pacientes que no pueden cumplir con un obturador o que han fracasado en la rehabilitación con obturador. Los objetivos de la reconstrucción maxilar con colgajo libre son: (1) separación de las cavidades oral y nasal/sinusal; (2) soporte del suelo orbitario; (3) restauración de la proyección facial; (4) plataforma para la rehabilitación dental. La selección del colgajo depende de los componentes del defecto. El **colgajo anterolateral del muslo (ALT)** es la opción más versátil para la reconstrucción maxilar — proporciona una paleta fasciocutánea grande y plegable para revestir las superficies palatinas y nasales, tiene un pedículo vascular fiable (arteria circunfleja femoral lateral, rama descendente, 6–10 cm) y puede obtenerse como colgajo quimérico con una porción del músculo vasto lateral para obliterar el espacio muerto. Para los defectos que requieren reconstrucción ósea del arco alveolar y el paladar (para soporte de implantes), el **colgajo libre de peroné** proporciona hueso para el alvéolo y el paladar duro con una paleta cutánea para el revestimiento mucoso. El **colgajo libre de antebrazo radial (CLAA)** es excelente para la reconstrucción maxilar de solo tejidos blandos (Brown I–IIa) cuando un obturador no es factible — su piel fina y plegable proporciona un excelente revestimiento mucoso. El **colgajo musculocutáneo de recto abdominal** proporciona gran volumen para los defectos de maxilectomía total (Clase III) con obliteración del suelo orbitario. Para los defectos de Clase IV con exenteración orbitaria, se utiliza injerto de piel parcial sobre la superficie del músculo recto o el colgajo ALT con volumen adecuado para rellenar la cavidad orbitaria y maxilar."
+        },
+        {
+          "type": "table",
+          "title": "Selección del Colgajo Libre para la Reconstrucción Maxilar",
+          "headers": ["Colgajo", "Componentes", "Mejor Para", "Limitación"],
+          "rows": [
+            ["ALT (fasciocutáneo)", "Paleta cutánea + opción de músculo VL", "Brown IIb/III; revestimiento versátil", "Hueso limitado (sin soporte óseo del paladar duro)"],
+            ["Peroné (osteomusculocutáneo)", "Hueso + paleta cutánea", "IIb/III que requieren hueso alveolar + implantes", "Inserción compleja; volumen de tejidos blandos limitado"],
+            ["CLAA", "Fasciocutáneo fino", "I–IIa revestimiento de tejidos blandos", "Sin hueso; riesgo de fractura del radio si osteomusculocutáneo"],
+            ["Recto abdominal", "Músculo + piel", "Grande III/IV; relleno orbitario", "El volumen puede comprometer el habla; morbilidad abdominal"],
+            ["ACIP (cresta ilíaca)", "Hueso con altura completa", "Reconstrucción alveolar posterior", "Pedículo corto; tejidos blandos limitados"],
+            ["Escápula (quimérico)", "Hueso + piel paraescapular + músculo DA", "IIId/IV complejo con pérdida masiva", "Sin obtención simultánea; reposicionamiento necesario"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — ALT como Colgajo Principal para la Reconstrucción Maxilar",
+          "content": "El colgajo ALT (rama descendente de la arteria circunfleja femoral lateral) es el colgajo libre más utilizado para la reconstrucción maxilar en los centros europeos. Longitud del pedículo 6–10 cm, diámetro 2–3 mm. Puede obtenerse con el vasto lateral para mayor volumen. La piel fina proporciona un excelente revestimiento mucoso. No proporciona hueso — combinar con peroné si se necesita reconstrucción ósea."
+        }
+      ]
+    },
+    {
+      "id": "A6-S4",
+      "title": "Reconstrucción del Paladar Blando y Competencia Velofaríngea",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **paladar blando** (velo) separa las cavidades oral y nasal durante el habla y la deglución mediante el **mecanismo velofaríngeo**. El músculo elevador del velo del paladar (músculo principal), el tensor del velo del paladar, el palatogloso, el palatofaríngeo y el músculo de la úvula actúan de forma concertada para elevar el paladar blando y contactar con la pared faríngea posterior. La pérdida de tejido del paladar blando — ya sea por afectación directa del tumor (carcinoma epidermoide palatino, tumores de glándulas salivales menores) o como parte de la maxilectomía de infraestructura o subtotal — produce **insuficiencia velofaríngea (IVF)**: escape de aire nasal durante el habla (hipernasal), regurgitación nasal de líquidos y deglución deteriorada. Los defectos pequeños del paladar blando (<30% del paladar) pueden cerrarse directamente; los defectos medianos (30–50%) se reconstruyen con colgajos locales (almohadilla grasa bucal, colgajo de isla palatina) o un colgajo faríngeo (de base superior). La **reconstrucción total del paladar blando** requiere un colgajo libre (antebrazo radial — fino y plegable, que permite algo de movimiento dinámico; o ALT). El objetivo es la restauración de la continuidad mucosa y el volumen que se aproxime a la pared faríngea posterior durante el cierre. La terapia del habla postoperatoria es esencial — los pacientes requieren 6–12 meses de rehabilitación para optimizar el habla y la deglución tras la reconstrucción del paladar blando. Cuando la IVF persiste tras la reconstrucción quirúrgica, puede ser necesaria una **prótesis elevadora del paladar** (obturador con extensión palatina) o un **colgajo faríngeo** (procedimiento secundario)."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Obturador Palatino en la IVF tras Pérdida del Paladar Blando",
+          "content": "Tras la pérdida del paladar blando, un obturador palatino estándar no puede restaurar la competencia velofaríngea porque es rígido y no se mueve. Se necesita una prótesis ELEVADORA del paladar (con extensión posterior que contacta físicamente con las paredes faríngeas) para el cierre velofaríngeo dinámico. Esta distinción es crítica — prescribir un obturador estándar a un paciente con pérdida del paladar blando no resolverá la hipernasal ni la regurgitación nasal."
+        }
+      ]
+    },
+    {
+      "id": "A6-S5",
+      "title": "Consideraciones Orbitarias y Reconstrucción",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La maxilectomía que afecta al suelo orbitario (Clase III de Brown) produce pérdida del soporte para los contenidos orbitarios, con riesgos de: **enoftalmos** (descenso posterior del globo), **diplopía** (función deteriorada de los músculos extraoculares) y epífora (drenaje nasolacrimal deteriorado). La decisión de sacrificar el suelo orbitario depende de la proximidad e implicación directa del periorbital. Cuando el periorbital está intacto (no infiltrado por el tumor), el suelo orbitario puede extirparse y reconstruirse. Cuando el tumor invade el periorbital o las estructuras intraorbitarias, puede requerirse la **exenteración orbitaria** (Clase IV). La **reconstrucción del suelo orbitario** tras la maxilectomía de Clase III tiene como objetivo sostener el globo a la altura correcta. Las opciones incluyen: malla de titanio (bajo perfil, resistente, fácilmente adaptable), materiales aloplásticos (polietileno poroso — Medpor) e injertos óseos autólogos (calvarial, ilíaco, costocondral). El enfoque preferido en la mayoría de los centros es una **malla de titanio** fijada al reborde orbitario, que proporciona un soporte fiable a largo plazo. La **exenteración orbitaria** (Clase IV) extirpa todos los contenidos orbitarios incluyendo el ojo, los músculos extraoculares, la glándula lacrimal y el periorbital. La cavidad resultante puede: (1) dejarse abierta con revestimiento mediante injerto de piel (para vigilancia); (2) obliterarse con un colgajo libre (recto abdominal o ALT) y una prótesis orbitaria; (3) reconstruirse con una prótesis orbitaria oseointegrada (implantes colocados en el reborde orbitario para soportar una prótesis anaplástica). Esta última proporciona el mejor resultado estético pero requiere una osteointegración meticulosa."
+        },
+        {
+          "type": "table",
+          "title": "Complicaciones Orbitarias tras Maxilectomía de Clase III",
+          "headers": ["Complicación", "Mecanismo", "Prevención", "Manejo"],
+          "rows": [
+            ["Enoftalmos", "El globo desciende al defecto maxilar", "Reconstrucción precisa del suelo orbitario", "Revisión con malla de titanio; injerto graso"],
+            ["Diplopía", "Tracción de músculo extraocular", "Reconstruir en la posición horizontal correcta", "Cirugía del estrabismo; gafas con prisma"],
+            ["Epífora", "Obstrucción nasolacrimal", "Preservar conducto nasolacrimal cuando sea posible", "DCR (dacriocistorrinostomía)"],
+            ["Ectropión del párpado inferior", "Contractura cicatricial que tracciona el párpado", "Cierre del párpado inferior sin tensión", "Injerto de piel de espesor total; cantopexia"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A6-S6",
+      "title": "Tumores Específicos que Requieren Reconstrucción Maxilar",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los principales tumores que requieren resección y reconstrucción maxilar son: (1) **Carcinoma epidermoide del alvéolo superior y del paladar duro** — habitualmente T2–T4, que requiere maxilectomía de infraestructura o total según la profundidad de la invasión ósea (TC con ventanas óseas esencial); (2) **Tumores de glándulas salivales menores del paladar duro** — con mayor frecuencia carcinoma mucoepidermoide y carcinoma adenoide quístico; la invasión perineural es frecuente en el CAQ y puede requerir la resección del nervio hasta la base del cráneo; (3) **Tumores sinonasales** — especialmente carcinoma epidermoide, carcinoma sinonasal indiferenciado (SNUC) y neuroblastoma olfatorio (estadificación de Kadish); estos frecuentemente requieren resección craneofacial (enfoque neuroquirúrgico y maxilofacial combinado); (4) **Ameloblastoma del maxilar** — infrecuente; requiere resección amplia con márgenes libres (mínimo 1 cm); (5) **Melanoma de mucosas** — muy agresivo; escisión local amplia; pronóstico desfavorable. Las pruebas de imagen son fundamentales para la planificación quirúrgica: la **TC del esqueleto facial** delimita la extensión ósea; la **RM con gadolinio** evalúa los tejidos blandos, la extensión perineural y la invasión intraorbitaria o intracraneal. La **PET-TC** se utiliza cada vez más para la estadificación y vigilancia postratamiento de las neoplasias malignas maxilares."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Carcinoma Epidermoide del Paladar Duro frente a Tumor de Glándula Salival Menor",
+          "content": "Lesiones del paladar duro: si es CE, la afectación ósea se evalúa mediante TC (la erosión cortical frente a la destrucción franca orienta la decisión de maxilectomía de infraestructura frente a total). Si se trata de un tumor de glándula salival menor (especialmente carcinoma adenoide quístico), la diseminación perineural a lo largo de los nervios palatino mayor y menor hacia la fosa pterigopalatina y el ganglio trigeminal es la preocupación crítica. La RM con gadolinio y supresión de grasa es esencial para evaluar la extensión de la invasión perineural antes de planificar la resección."
+        }
+      ]
+    },
+    {
+      "id": "A6-S7",
+      "title": "Resultados Funcionales y Calidad de Vida tras la Reconstrucción Maxilar",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los resultados funcionales tras la reconstrucción maxilar dependen de la clase del defecto, el tipo de reconstrucción y el tratamiento adyuvante. Los dominios clave evaluados incluyen: habla (hipernasal, inteligibilidad), deglución (tiempo de deglución, tolerancias de consistencia de alimentos), competencia oral, función dental y apariencia. Los estudios de Rogers et al. (Br J Oral Maxillofac Surg 2010) utilizando el cuestionario de CVS de la Universidad de Washington demuestran que: (1) para los defectos de Clase I–IIa, los resultados con obturador y colgajo libre son equivalentes al año; (2) para los defectos de Clase IIb–III, la reconstrucción con colgajo libre proporciona resultados superiores de deglución y habla frente a los obturadores; (3) la radioterapia adyuvante deteriora significativamente todos los resultados funcionales al año 1–2, pero se produce alguna mejoría hacia los 5 años. Los cuestionarios **DAHANCA, EORTC QLQ-H&N35 y UW-QoL** son las herramientas validadas para la medición de la CVS en el CEHC. La rehabilitación dental mejora significativamente la CVS a largo plazo: las prótesis implantosoportadas superan a las dentaduras removibles convencionales en fuerza de mordida, comodidad oral y función social. El **trismo** (limitación de la apertura oral) es una complicación tardía importante de la cirugía maxilar y la radioterapia, que afecta hasta al 40% de los pacientes que reciben >60 Gy en los músculos masticadores. Los ejercicios mandibulares precoces y sostenidos con dispositivos (Therabite, DynaSplint) reducen significativamente la gravedad del trismo."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla para el Examen — Base de Evidencia para la CVS",
+          "content": "Para Clase I–IIa: obturador = colgajo libre en resultados de CVS. Para Clase IIb/III/IV: colgajo libre significativamente superior. La radioterapia adyuvante ≥60 Gy en los músculos masticadores causa trismo en el 40% — prevenible con ejercicios mandibulares desde el día 1 post-radioterapia (protocolo Therabite). Las prótesis implantosoportadas mejoran la CVS frente a las dentaduras convencionales."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Pon a prueba tus conocimientos sobre reconstrucción maxilar — clasificación, obturadores, colgajos libres y resultados funcionales — con 20 preguntas tipo examen de residencia.",
+    "questions": [
+      {
+        "id": "A6-Q1",
+        "stem": "Un varón de 61 años se somete a maxilectomía total derecha por carcinoma epidermoide del seno maxilar derecho. La resección incluye todo el hemimaxilar derecho, el paladar derecho hasta la línea media y el suelo orbitario, pero los contenidos orbitarios están preservados. Usando la clasificación de Brown, ¿cuál es la clasificación correcta del defecto?",
+        "options": {
+          "A": "Brown Clase IIa",
+          "B": "Brown Clase IIb",
+          "C": "Brown Clase IIIa",
+          "D": "Brown Clase IVa"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La Clase III de Brown indica maxilectomía total incluyendo la extirpación del suelo orbitario pero con preservación de los contenidos orbitarios (sin exenteración). El sufijo 'a' indica afectación unilateral (hasta la línea media). Por tanto: maxilectomía total + suelo orbitario extirpado + contenidos orbitarios preservados + unilateral = Clase IIIa.",
+          "wrong": {
+            "A": "La Clase IIa es una maxilectomía baja (paladar afectado, suelo orbitario preservado) unilateral. Aquí el suelo orbitario fue extirpado — esto es Clase III, no II.",
+            "B": "La Clase IIb sería una maxilectomía baja bilateral — este paciente tiene afectación del suelo orbitario, situándolo en Clase III, y es unilateral (sufijo 'a').",
+            "D": "La Clase IV implica exenteración orbitaria (ojo y contenidos extirpados). Los contenidos orbitarios fueron preservados en este caso — la Clase IV no es aplicable."
+          },
+          "guideline": "Brown JS y Shaw RJ. Reconstruction of the Maxillary Defect (Head Neck 2000); clasificación actualizada (Head Neck 2010)",
+          "trial": "Rogers SN et al. (Br J Oral Maxillofac Surg 2010): resultados de calidad de vida tras maxilectomía usando la clasificación de Brown — los defectos de Clase III demostraron resultados funcionales significativamente peores que los de Clase II, confirmando la utilidad de la clasificación para predecir los requisitos de rehabilitación.",
+          "pearl": "Clasificación de maxilectomía de Brown: I = limitada/infraestructura (sin paladar); II = paladar afectado, suelo orbitario intacto; III = suelo orbitario extirpado (órbita preservada); IV = exenteración orbitaria. 'a' = unilateral; 'b' = bilateral."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q2",
+        "stem": "¿Cuál de los siguientes factores favorece más fuertemente la reconstrucción con colgajo libre frente a la prótesis obturadora para un defecto maxilar?",
+        "options": {
+          "A": "Edad del paciente mayor de 70 años con múltiples comorbilidades",
+          "B": "Defecto Brown Clase IIa con dentición residual adecuada",
+          "C": "Defecto Brown Clase IIb (afectación palatina bilateral)",
+          "D": "Ausencia de requisito de radioterapia adyuvante"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La Clase IIb de Brown (afectación palatina bilateral que cruza la línea media) es una indicación fuerte para la reconstrucción con colgajo libre frente al obturador. Un defecto bilateral crea una gran comunicación oronasal que no puede sellarse adecuadamente con una prótesis convencional, y la falta de bases de retención bilateral para la dentadura hace que la estabilidad del obturador sea deficiente. La reconstrucción con colgajo libre (ALT o CLAA) proporciona un cierre duradero del defecto y resultados funcionales superiores.",
+          "wrong": {
+            "A": "La edad avanzada y las comorbilidades favorecen REALMENTE el obturador frente al colgajo libre — el riesgo quirúrgico de un procedimiento de colgajo libre de 6–10 horas es significativamente mayor que la maxilectomía simple con obturador. Los pacientes mayores con comorbilidades son los candidatos ideales para el obturador.",
+            "B": "La Clase IIa con dentición adecuada es el escenario ideal para la rehabilitación con obturador — defecto unilateral, dientes presentes para la retención con grapas, criterios normales de éxito del obturador cumplidos.",
+            "D": "La necesidad o ausencia de radioterapia adyuvante no determina principalmente la selección de obturador frente a colgajo libre para defectos limitados. Sin embargo, los obturadores postradioterapia son más difíciles debido a la sequedad y los cambios mucosos."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; NCCN Head and Neck Cancers 2024; Brown JS Head Neck 2000",
+          "trial": "Okay DJ et al. (Head Neck 2001): obturador frente a colgajo libre para la reconstrucción maxilar — resultados equivalentes para defectos limitados; colgajo libre superior para defectos bilaterales, grandes o de Clase III.",
+          "pearl": "Obturador: ideal para Clase I, IIa en pacientes con buena dentición y cumplimiento. Colgajo libre: preferido para Clase IIb, III, IV, bilateral, pacientes jóvenes y aquellos con mal pronóstico para el obturador (sin dientes, bilateral, mal cumplimiento)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A6-Q3",
+        "stem": "Tras la maxilectomía total (Brown Clase IIIa) con reconstrucción con colgajo libre, un paciente desarrolla enoftalmos y diplopía en la mirada hacia arriba a los 3 meses del postoperatorio. La causa más probable es:",
+        "options": {
+          "A": "Neuropatía óptica inducida por radiación",
+          "B": "Reconstrucción inadecuada del suelo orbitario que permite el prolapso del globo hacia el defecto maxilar",
+          "C": "Sección inadvertida del nervio óptico durante la cirugía",
+          "D": "Resolución normal del edema postoperatorio que causa retracción aparente del globo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El enoftalmos (retracción del globo) y la diplopía tras la maxilectomía de Clase III indican un soporte inadecuado del suelo orbitario. Cuando el suelo orbitario se extirpa sin una reconstrucción adecuada, el globo desciende posterior e inferiormente hacia el defecto maxilar, causando enoftalmos y tracción del músculo recto inferior o del músculo oblicuo inferior, resultando en diplopía. La reconstrucción del suelo orbitario con malla de titanio o material aloplástico en el momento de la cirugía previene esta complicación.",
+          "wrong": {
+            "A": "La neuropatía óptica inducida por radiación causa pérdida visual (pérdida de visión monocular), no enoftalmos ni restricción del movimiento extraocular. Se presenta como pérdida progresiva del campo visual ipsilateral meses a años después de la radiación de alta dosis en el nervio óptico.",
+            "C": "La sección del nervio óptico causaría ceguera ipsilateral inmediata — no enoftalmos ni diplopía. Este sería un evento intraoperatorio catastrófico, no un hallazgo postoperatorio tardío.",
+            "D": "El edema se resuelve en las primeras 2–4 semanas. La posición del globo debe ser correcta tras la resolución del edema si el suelo fue correctamente reconstruido. El enoftalmos a los 3 meses no es normal e indica deficiencia estructural del suelo."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Orbital Reconstruction Parameters of Care 2023",
+          "trial": "Hanasono MM et al. (Head Neck 2012): reconstrucción del suelo orbitario tras maxilectomía total — la malla de titanio logra la mejor prevención del enoftalmos; el enoftalmos tardío ocurre en el 15–25% sin reconstrucción formal del suelo.",
+          "pearl": "Maxilectomía Clase III: SIEMPRE reconstruir el suelo orbitario (malla de titanio preferida) para prevenir el enoftalmos y la diplopía. Enoftalmos a los 3 meses = soporte del suelo inadecuado. Corregir con revisión de la malla de titanio ± injerto graso antes de que la cicatriz madure."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q4",
+        "stem": "¿Qué colgajo libre se selecciona con mayor frecuencia para la reconstrucción de los defectos maxilares Brown Clase IIb que requieren revestimiento mucoso de ambas superficies palatinas sin necesidad de reconstrucción ósea?",
+        "options": {
+          "A": "Colgajo de arteria circunfleja ilíaca profunda (ACIP)",
+          "B": "Colgajo fasciocutáneo anterolateral del muslo (ALT)",
+          "C": "Colgajo libre de peroné osteomusculocutáneo",
+          "D": "Colgajo libre gastroomental"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El colgajo anterolateral del muslo (ALT) es el colgajo libre más utilizado para la reconstrucción maxilar, especialmente para los defectos de Clase IIb y III que requieren grandes áreas de revestimiento mucoso. Sus ventajas incluyen: paleta cutánea grande y plegable para cobertura palatina bilateral; pedículo vascular fiable (rama descendente de la arteria circunfleja femoral lateral, 6–10 cm de longitud); opción de incluir el músculo vasto lateral para mayor volumen; y baja morbilidad del sitio donante. No proporciona hueso, lo cual es aceptable cuando no se requiere reconstrucción ósea.",
+          "wrong": {
+            "A": "El ACIP (cresta ilíaca) proporciona excelente hueso para la altura alveolar posterior pero muy escasos tejidos blandos (solo oblicuo interno). Para una reconstrucción palatina bilateral de tejidos blandos sin necesidades óseas, el ACIP es una mala elección.",
+            "C": "El peroné proporciona hueso y paleta cutánea y se elegiría cuando se necesita reconstrucción del arco alveolar con soporte de implantes — pero para el revestimiento palatino bilateral solo de tejidos blandos, la paleta cutánea del peroné suele ser insuficiente en tamaño y flexibilidad para una inserción compleja.",
+            "D": "El colgajo libre gastroomental se ha utilizado históricamente para la reconstrucción faríngea, pero no es estándar para los defectos maxilares. La longitud del pedículo omental y el volumen no están bien adaptados a la anatomía del defecto maxilar."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Hanasono MM et al. Head Neck 2012",
+          "trial": "Hanasono MM et al. (Head Neck 2012): colgajo ALT para la reconstrucción de la región media facial — tasa de éxito del 90%; identificado como la opción más versátil para los defectos maxilares de Clase II–III; el ALT quimérico con músculo VL es óptimo para la obliteración del espacio muerto.",
+          "pearl": "Colgajo ALT = caballo de batalla para la reconstrucción maxilar. Pedículo de la rama descendente de la arteria circunfleja femoral lateral, 6–10 cm. Piel grande y plegable para revestimiento bilateral. Añadir músculo VL para mayor volumen. Sin hueso — combinar con peroné/ACIP si también se necesita reconstrucción ósea."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q5",
+        "stem": "Una paciente con carcinoma mucoepidermoide del paladar duro se somete a maxilectomía de infraestructura y se le coloca un obturador quirúrgico en el momento de la cirugía. Seis semanas después de la operación, refiere regurgitación de líquidos por la nariz al beber. La exploración muestra una comunicación oronasal persistente. ¿Cuál es el siguiente paso más apropiado?",
+        "options": {
+          "A": "Retirar el obturador y permitir la cicatrización por segunda intención",
+          "B": "Colocar un obturador provisional con extensión posterior del paladar blando para abordar la insuficiencia velofaríngea",
+          "C": "Colocar un obturador definitivo ya que la herida está cicatrizada",
+          "D": "Cierre quirúrgico de urgencia con un colgajo de isla palatina"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "A las 6 semanas postmaxilectomía, la cicatrización de la herida está suficientemente madura para proceder a un obturador definitivo. La regurgitación nasal de líquidos es el síntoma esperado de una comunicación oronasal del defecto maxilar — esto es lo que el obturador está diseñado para sellar. La paciente requiere un obturador provisional o definitivo que cubra adecuadamente el defecto palatino y selle la comunicación oronasal. A las 6 semanas, los bordes de la herida son suficientemente estables para las impresiones definitivas.",
+          "wrong": {
+            "A": "Retirar el obturador sin reemplazo permitiría una comunicación oronasal sin impedimentos, haciendo imposible comer y hablar. La cicatrización por segunda intención de un defecto maxilar no cierra de forma fiable las fístulas oronasales — la rehabilitación con obturador es el estándar.",
+            "B": "Una extensión del paladar blando es necesaria específicamente para la insuficiencia velofaríngea (hipernasal, no regurgitación nasal de sólidos). Esta paciente tiene un defecto palatino inadecuadamente sellado — el obturador primario necesita cubrir el defecto palatino. Si esto solo resuelve la regurgitación (lo que debería para los defectos del paladar duro), no se necesita una extensión palatina.",
+            "D": "El colgajo de isla palatina de urgencia no es apropiado a las 6 semanas — la herida está cicatrizando normalmente con una comunicación oronasal esperada. La rehabilitación con obturador es la vía de tratamiento planificada y no necesita convertirse a cierre quirúrgico en esta etapa."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024; AAOMS Maxillary Rehabilitation Guidelines 2023",
+          "trial": "Okay DJ et al. (Head Neck 2001): enfoque sistemático para la rehabilitación con obturador maxilar — obturador quirúrgico día 0; provisional 2–6 semanas; definitivo 3–6 meses; la regurgitación nasal se resuelve con un sello adecuado del obturador en >90% de los pacientes de Clase I–IIa.",
+          "pearl": "Secuencia del obturador maxilar: (1) obturador quirúrgico en la intervención; (2) obturador provisional 2–6 semanas; (3) obturador definitivo 3–6 meses. Regurgitación nasal de líquidos = sello palatino inadecuado → colocar obturador definitivo. Solo añadir extensión del paladar blando cuando el PALADAR BLANDO está afectado y hay IVF (hipernasal)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q6",
+        "stem": "Un varón de 73 años se somete a maxilectomía de infraestructura derecha (Brown Clase IIa) por carcinoma epidermoide bien diferenciado. Tiene 6 dientes superiores restantes en el lado izquierdo. En el postoperatorio, se le coloca un obturador soportado por implantes dentales en el maxilar izquierdo. ¿Cuál es la principal ventaja de los obturadores implantosoportados frente a los soportados por dientes (retenidos por grapas)?",
+        "options": {
+          "A": "Menor coste de fabricación",
+          "B": "Evitar la toxicidad de la radiación en los implantes",
+          "C": "Mejor retención y estabilidad del obturador, especialmente para los pacientes edéntulos",
+          "D": "Los implantes evitan que el obturador interfiera con el habla"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Los obturadores implantosoportados proporcionan retención, estabilidad y satisfacción del paciente superiores en comparación con las prótesis retenidas por grapas sobre dientes, especialmente a medida que la dentición se va perdiendo progresivamente (por radiación, extracciones o enfermedad). Los implantes eliminan el balanceo y el desplazamiento que caracteriza a los obturadores retenidos por grapas sobre pocos dientes restantes. También eliminan la necesidad de grapas, que pueden dañar los dientes pilares. En los pacientes edéntulos, los obturadores implantosoportados son el único medio de lograr una retención adecuada.",
+          "wrong": {
+            "A": "Los obturadores implantosoportados son significativamente MÁS caros que los retenidos por grapas debido a la cirugía de implantes y los complejos componentes protésicos.",
+            "B": "La radiación puede en efecto causar complicaciones en los implantes, pero esto es una desventaja, no una ventaja. Los implantes en el maxilar irradiado tienen tasas de éxito más bajas y requieren el protocolo de OHB.",
+            "D": "Los obturadores no interfieren inherentemente con el habla — la restauran sellando la comunicación oronasal. La ventaja del implantosoportado es mecánica (retención), no relacionada con el habla."
+          },
+          "guideline": "AAOMS Dental Implants in Reconstructed Maxilla 2023; Rogers SN et al. Br J Oral Maxillofac Surg 2010",
+          "trial": "Roumanas ED et al. (J Prosthet Dent 2006): obturadores implantosoportados frente a convencionales tras maxilectomía — superior fuerza de mordida, retención y satisfacción del paciente; puntuaciones de CVS significativamente mejoradas en todos los dominios.",
+          "pearl": "Los obturadores implantosoportados son superiores a los retenidos por grapas para: retención, estabilidad, satisfacción del paciente, fuerza de mordida, CVS. Especialmente valiosos en pacientes edéntulos (sin dientes para grapas). Limitación principal: coste y riesgo relacionado con la radiación en los implantes si se planifica RTP."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A6-Q7",
+        "stem": "Durante la revisión de imágenes de un paciente con carcinoma adenoide quístico (CAQ) del paladar duro, la RM muestra diseminación perineural a lo largo del nervio palatino mayor. ¿Cuál es la estructura anatómica más crítica a la que es probable que llegue este tumor si no se reseca con un adecuado margen nervioso?",
+        "options": {
+          "A": "Tronco del nervio facial en el agujero estilomastoideo",
+          "B": "Ganglio trigeminal (ganglio de Gasser) a través de la fosa pterigopalatina y el agujero redondo",
+          "C": "Nervio hipogloso en la base del cráneo",
+          "D": "Nervio glosofaríngeo en el agujero yugular"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio palatino mayor (una rama de V2, división maxilar del nervio trigémino) discurre por el conducto palatino mayor para alcanzar la fosa pterigopalatina, y luego pasa a través del agujero redondo para unirse al ganglio de Gasser (trigeminal). El carcinoma adenoide quístico (CAQ) tiene una notoria predilección por la invasión perineural a lo largo de las vainas nerviosas. La diseminación perineural no tratada a lo largo del nervio palatino mayor hacia la fosa pterigopalatina y más allá hasta el ganglio trigeminal resulta en invasión de la base del cráneo y disfunción del nervio craneal V — un pronóstico dramáticamente diferente al de la enfermedad palatina localizada.",
+          "wrong": {
+            "A": "El tronco del nervio facial en el agujero estilomastoideo es el punto de salida terminal del NC VII del hueso temporal. El nervio palatino mayor es una rama del NC V2, no del NC VII — la afectación del nervio facial no es la preocupación principal con la diseminación perineural del nervio palatino.",
+            "C": "El nervio hipogloso (NC XII) discurre por la base del cráneo a través del conducto hipogloso y está implicado en la inervación de la lengua — no está en la vía anatómica de la diseminación perineural del nervio palatino mayor.",
+            "D": "El nervio glosofaríngeo (NC IX) sale por el agujero yugular y proporciona sensibilidad a la orofaringe y gusto a la parte posterior de la lengua. No está en la vía de diseminación del nervio palatino mayor."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Tumores de Glándulas Salivales Menores; EACMFS 2023",
+          "trial": "Garden AS et al. (Cancer 1995): CAQ de cabeza y cuello — invasión perineural presente en el 60–80% de los casos; la extensión de la diseminación perineural hasta la base del cráneo es el factor pronóstico más importante; requiere seguimiento del nervio hasta la base del cráneo con biopsias intraoperatorias por congelación.",
+          "pearl": "CAQ + paladar duro = seguir el nervio palatino mayor hasta la fosa pterigopalatina (V2) hasta el agujero redondo hasta el ganglio de Gasser. La RM con gadolinio y supresión de grasa es esencial para mapear la diseminación perineural. Las biopsias por congelación a lo largo del nervio al nivel del agujero redondo determinan los márgenes libres."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q8",
+        "stem": "Un paciente sometido a maxilectomía total con extirpación del suelo orbitario (Brown Clase IIIa) tiene el suelo orbitario reconstruido con una malla de titanio preadaptada fijada al reborde orbitario inferior. ¿En qué posición horizontal debe colocarse la malla para prevenir el enoftalmos postoperatorio?",
+        "options": {
+          "A": "5 mm por debajo del nivel del suelo orbitario contralateral",
+          "B": "Al nivel o 1–2 mm por encima del suelo orbitario contralateral",
+          "C": "A ras de la superficie interna del reborde infraorbitario",
+          "D": "Solo posterior al ecuador orbitario — el suelo anterior no requiere soporte"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La malla de titanio debe posicionarse al nivel o 1–2 mm por encima del nivel del suelo orbitario contralateral para proporcionar soporte adecuado al globo y prevenir el enoftalmos. Un posicionamiento demasiado bajo recrea la deficiencia del suelo; un posicionamiento demasiado alto causa hipoglobia (desplazamiento hacia arriba). La comparación intraoperatoria con la órbita contralateral y la comprobación de la posición del globo antes de la fijación definitiva de la placa es esencial. La planificación quirúrgica virtual guiada por TC permite la preadaptación de la malla al contorno correcto.",
+          "wrong": {
+            "A": "Colocar la malla 5 mm POR DEBAJO del suelo contralateral no daría soporte adecuado al globo y resultaría en enoftalmos — esto contradice el propósito de la reconstrucción del suelo orbitario.",
+            "C": "A ras del reborde infraorbitario es demasiado anterior — el suelo orbitario se extiende posterior al reborde, y la reconstrucción solo de la parte anterior no previene el prolapso posterior del globo. El área clave a reconstruir es el «escalón» del suelo posterior donde descansa la grasa orbitaria.",
+            "D": "El soporte del suelo posterior únicamente es insuficiente — el suelo anterior también proporciona soporte. Todo el defecto desde el reborde hasta la extensión posterior debe puentearse. El área más crítica es el «escalón» posterior en la transición hacia el vértice orbitario, pero el suelo anterior también es necesario."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Orbital Reconstruction Parameters of Care 2023",
+          "trial": "Novelli G et al. (J Craniomaxillofac Surg 2011): malla de titanio guiada por PQV para la reconstrucción del suelo orbitario logra una tasa de enoftalmos <5% frente al 15–20% con adaptación manual.",
+          "pearl": "Malla del suelo orbitario: posicionar al nivel/1–2 mm por encima del suelo contralateral. Comprobar la altura del globo intraoperatoriamente antes de fijar los tornillos. La PQV y la malla personalizada preadaptada reducen el enoftalmos a <5%. El «escalón» posterior del suelo orbitario es el punto de soporte más crítico."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q9",
+        "stem": "¿Cuál es la herramienta de evaluación de calidad de vida más validada diseñada específicamente para los pacientes con cáncer de cabeza y cuello, incluidos los sometidos a reconstrucción maxilar?",
+        "options": {
+          "A": "Solo EORTC QLQ-C30",
+          "B": "Encuesta de salud genérica SF-36",
+          "C": "EORTC QLQ-H&N35 y/o cuestionario de calidad de vida de la Universidad de Washington (UW-QoL)",
+          "D": "Módulo FACE-Q de rinoplastia"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El EORTC QLQ-H&N35 (módulo específico de cabeza y cuello, utilizado en conjunción con el EORTC QLQ-C30) y el cuestionario de calidad de vida de la Universidad de Washington (UW-QoL) son las dos medidas de resultados comunicadas por el paciente más validadas y utilizadas para la evaluación de la CVS en el cáncer de cabeza y cuello, incluyendo tras la reconstrucción maxilar. Ambos evalúan el habla, la deglución, el dolor, la apariencia y la función social — dominios críticos para la rehabilitación tras maxilectomía. El UW-QoL es particularmente utilizado en el Reino Unido y en los estudios europeos de resultados en COMFax.",
+          "wrong": {
+            "A": "El EORTC QLQ-C30 es una herramienta general de CVS en cáncer — requiere el suplemento H&N35 para capturar los dominios específicos de cabeza y cuello. Usar el C30 solo es insuficiente para los pacientes de cabeza y cuello.",
+            "B": "El SF-36 es una encuesta de salud genérica no adaptada al cáncer de cabeza y cuello. Omite dominios clave (habla, deglución, salivación) que son fundamentales para los resultados de la reconstrucción maxilar.",
+            "D": "El FACE-Q es una herramienta de resultados comunicados por el paciente para la cirugía estética facial (rinoplastia, lifting facial) — no está validada para los resultados de la reconstrucción maxilar oncológica."
+          },
+          "guideline": "Validación del EORTC QLQ-H&N35 (Bjordal 1994); Rogers SN et al. (Br J Oral Maxillofac Surg 2010) — UW-QoL para resultados maxilares; NCCN Head and Neck Cancers 2024",
+          "trial": "Rogers SN et al. (Br J Oral Maxillofac Surg 2010): UW-QoL en la reconstrucción maxilar — obturador frente a colgajo libre equivalentes para Clase I–II; colgajo libre superior para Clase III; capacidad discriminante validada confirmada.",
+          "pearl": "Herramientas de CVS en cabeza y cuello: EORTC QLQ-H&N35 (+ C30) y UW-QoL son los estándares de oro. Usados en todos los principales estudios europeos de resultados en cabeza y cuello. Evalúan habla, deglución, dolor, apariencia, función social — los dominios clave para la evaluación de la reconstrucción maxilar."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q10",
+        "stem": "La insuficiencia velofaríngea (IVF) resultante de la pérdida total del paladar blando tras maxilectomía se maneja mejor inicialmente con:",
+        "options": {
+          "A": "Obturador palatino estándar para sellar la comunicación oronasal",
+          "B": "Prótesis elevadora del paladar con extensión faríngea posterior para contactar con la pared faríngea posterior",
+          "C": "Taponamiento faríngeo durante 6 semanas para permitir la cicatrización espontánea",
+          "D": "Procedimiento de bypass laríngeo para desviar el flujo de aire del habla"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Tras la pérdida total del paladar blando, un obturador palatino ESTÁNDAR (estático) no puede restaurar la competencia velofaríngea porque carece de una extensión posterior que contacte con la pared faríngea posterior. Una PRÓTESIS ELEVADORA del paladar con una extensión faríngea posterior eleva físicamente y contacta con las paredes faríngeas posteriores, restaurando parcialmente el cierre velofaríngeo durante el habla y la deglución. Esto reduce la hipernasal y la regurgitación nasal. Si el manejo protésico es insuficiente, se puede realizar un colgajo faríngeo (de base superior) o una reconstrucción del paladar blando con colgajo libre (CLAA o ALT) como procedimiento secundario.",
+          "wrong": {
+            "A": "Un obturador palatino estándar (estático) sella el defecto del paladar duro pero no aborda la función velofaríngea dinámica del paladar blando. Sin una extensión posterior que contacte con las paredes faríngeas, persisten la hipernasal y la regurgitación nasal.",
+            "C": "El taponamiento faríngeo no es un manejo apropiado a largo plazo para la IVF — causa malestar al paciente, no permite el habla y los tapones no producen una cicatrización significativa de la ausencia del paladar blando.",
+            "D": "No existe tal procedimiento como el 'bypass laríngeo para la IVF' — esta no es una intervención quirúrgica o protésica reconocida."
+          },
+          "guideline": "AAOMS Soft Palate Reconstruction Guidelines 2023; EACMFS 2023",
+          "trial": "Aramany MA (J Prosthet Dent 1978): prótesis elevadora del paladar para la IVF tras maxilectomía — primera serie protésica que demuestra la restauración del habla inteligible en el 80% de los pacientes con pérdida total del paladar blando mediante extensión faríngea.",
+          "pearl": "IVF tras pérdida del paladar blando: Obturador estándar = inadecuado (sin extensión posterior). PRÓTESIS ELEVADORA del paladar con extensión faríngea = primera línea. Si insuficiente: colgajo faríngeo (cirugía secundaria). Reconstrucción del paladar blando con colgajo libre (CLAA/ALT) = opción quirúrgica definitiva."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q11",
+        "stem": "Una mujer de 58 años requiere maxilectomía total (Brown Clase IIIa) con reconstrucción con colgajo libre. El cirujano reconstructivo planifica un colgajo anterolateral del muslo (ALT). El vaso del pedículo del colgajo ALT es la:",
+        "options": {
+          "A": "Arteria femoral profunda",
+          "B": "Arteria femoral superficial",
+          "C": "Rama descendente de la arteria circunfleja femoral lateral",
+          "D": "Arteria circunfleja femoral medial"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El pedículo del colgajo ALT se basa en la rama descendente de la arteria circunfleja femoral lateral (ACFL), una rama de la arteria femoral profunda. La rama descendente de la ACFL discurre entre el músculo recto femoral y el músculo vasto lateral y proporciona perforantes septocutáneas o musculocutáneas a la piel del muslo lateral. La longitud del pedículo es típicamente de 6–10 cm con un diámetro arterial de 2–3 mm — bien adaptado para la anastomosis en el cuello.",
+          "wrong": {
+            "A": "La arteria femoral profunda es la arteria MADRE de la ACFL — el pedículo propio del ALT es la RAMA DESCENDENTE de la circunfleja femoral lateral, no la propia arteria femoral profunda.",
+            "B": "La arteria femoral superficial es la continuación principal de la arteria femoral — no es el pedículo del ALT y no se utiliza para la obtención del colgajo.",
+            "D": "La arteria circunfleja femoral medial irriga la cabeza femoral (en el contexto de la necrosis avascular) y el muslo medial — no es el pedículo del ALT."
+          },
+          "guideline": "Urken ML et al. Free Flap Atlas 2012; EACMFS Reconstruction Guidelines 2023",
+          "trial": "Wei FC et al. (Plast Reconstr Surg 1993): estudio anatómico del colgajo ALT — la rama descendente de la ACFL identificada como el pedículo dominante en el 87% de los casos; variante de rama transversa en el 13%; confirma el ALT como colgajo libre fiable de alto volumen.",
+          "pearl": "Pedículo del colgajo ALT = rama descendente de la arteria circunfleja femoral lateral (ACFL). Origen en la arteria femoral profunda. Discurre entre el recto femoral y el vasto lateral. Longitud del pedículo 6–10 cm, diámetro 2–3 mm. Perforantes: septocutáneas (obtención más fácil) o musculocutáneas (más frecuentes)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q12",
+        "stem": "El trismo tras la cirugía maxilar y la radioterapia adyuvante se previene de forma más efectiva mediante ¿qué intervención?",
+        "options": {
+          "A": "Protocolo profiláctico de pentoxifilina-vitamina E",
+          "B": "Ejercicios precoces y sostenidos de apertura mandibular con dispositivos mecánicos (Therabite, DynaSplint) iniciados durante la radioterapia",
+          "C": "Reducción de la dosis de radiación por debajo de 50 Gy en todos los pacientes",
+          "D": "Coronoidectomía bilateral profiláctica en el momento de la cirugía inicial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los ejercicios precoces y sostenidos de apertura mandibular con dispositivos mecánicos de estiramiento (Therabite, DynaSplint) iniciados durante o inmediatamente después de la radioterapia es la estrategia probada más eficaz para prevenir el trismo inducido por radiación. La fibrosis por radiación de los músculos masticadores (pterigoideos, masetero, temporal) es progresiva — el estiramiento mecánico precoz previene la contractura fibrótica. Los estudios muestran que los pacientes que cumplen con los protocolos de ejercicios mandibulares tienen significativamente mejor apertura oral a 1 y 2 años posradioterapia en comparación con los controles.",
+          "wrong": {
+            "A": "La pentoxifilina y la vitamina E tienen cierta evidencia para el tratamiento de la fibrosis por radiación establecida (reducción del trismo y mejora de la calidad tisular en los pacientes irradiados), pero no son la estrategia de prevención primaria. Se utilizan como complementos para el trismo establecido, no para la prevención primaria.",
+            "C": "Reducir la dosis de radiación no siempre es clínicamente apropiado — las dosis de radiación adyuvante están determinadas por factores tumorales (EEC, márgenes) y deben alcanzar los umbrales terapéuticos. Reducir arbitrariamente la dosis para prevenir el trismo podría comprometer el control tumoral.",
+            "D": "La coronoidectomía profiláctica se realiza en el trismo grave establecido no responsivo a la fisioterapia, no como medida profiláctica en la cirugía inicial. Elimina la inserción del músculo temporal para permitir una mayor apertura mandibular — un procedimiento quirúrgico secundario, no una estrategia de prevención primaria."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Rehabilitación; EACMFS 2023",
+          "trial": "Dijkstra PU et al. (Oral Oncol 2007): dispositivo de ejercicio mandibular Therabite frente a ejercicios estándar tras radioterapia de cabeza y cuello — el grupo Therabite tuvo significativamente mejor distancia interincisal máxima a los 12 meses (40 mm frente a 28 mm); el cumplimiento es el predictor clave del resultado.",
+          "pearl": "Prevención del trismo: Iniciar los ejercicios mandibulares DURANTE la radioterapia, no después. Therabite/DynaSplint 6–10 veces/día × 30 repeticiones. Trismo establecido (>3 meses post-RDT): pentoxifilina 400 mg TID + vitamina E 1000 UI + fisioterapia. Coronoidectomía: último recurso para trismo grave irreversible."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q13",
+        "stem": "Un varón de 68 años con maxilectomía Brown Clase IV derecha (maxilectomía total + exenteración orbitaria) se somete a cirugía. La cavidad se reconstruye con un colgajo libre musculocutáneo de recto abdominal para obliterar el defecto maxilar y orbitario combinado. ¿Cuál es la mejor opción reconstructiva tardía para mejorar la apariencia facial?",
+        "options": {
+          "A": "Craneoplastia aloplástica de PMMA para rellenar el defecto",
+          "B": "Implantes oseointegrados en el reborde orbitario para soportar una prótesis facial anaplástica",
+          "C": "Injerto de piel de espesor parcial solo en la superficie muscular — no se necesita ninguna otra reconstrucción",
+          "D": "Trasplante del ojo contralateral"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los implantes oseointegrados colocados en el hueso del reborde orbitario (hueso frontal, cigoma) tras la cicatrización proporcionan un anclaje estable para una prótesis orbitaria anaplástica (silicona) personalizada. Esta combinación (implantes + prótesis) proporciona el mejor resultado estético tras la exenteración orbitaria — la prótesis está fabricada con precisión para coincidir con el ojo contralateral y el contorno periorbital, y la retención con implante es muy superior a la retención solo con adhesivo. Este enfoque es el estándar de oro en los centros con experiencia en anaplastología.",
+          "wrong": {
+            "A": "La craneoplastia de PMMA se utiliza para los defectos de la bóveda craneal, no para la reconstrucción tras exenteración orbitaria. No abordaría el ojo perdido ni los tejidos blandos perioculares.",
+            "C": "El injerto de piel en la superficie muscular proporciona cobertura de la herida pero no ofrece ninguna mejora estética para el ojo perdido y el tejido periorbital — deja una concavidad evidente sin cobertura protésica.",
+            "D": "El trasplante de ojo no es actualmente una realidad clínica — el nervio óptico no puede reconectarse con éxito para restaurar la visión, y los protocolos de trasplante de ojo no están establecidos en humanos."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; AAOMS Facial Prosthetics Parameters of Care 2023",
+          "trial": "Nishimura RD et al. (J Prosthet Dent 1996): prótesis orbitarias implantosoportadas tras exenteración — superior retención, estabilidad y satisfacción del paciente frente a las prótesis retenidas con adhesivo; tasa de supervivencia de los implantes del 89% a los 5 años en el hueso orbitario.",
+          "pearl": "Reconstrucción tras exenteración orbitaria: Obliterar la cavidad (recto/ALT) → oseointegrar implantes en el reborde orbitario → prótesis de silicona anaplástica personalizada. Mejor resultado estético. Supervivencia del implante en hueso orbitario del 89% a los 5 años. Las prótesis retenidas con adhesivo son una alternativa si los implantes no son posibles."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q14",
+        "stem": "El obturador quirúrgico colocado en el momento de la maxilectomía sirve ¿cuál es su propósito principal en el postoperatorio inmediato?",
+        "options": {
+          "A": "Proporciona rehabilitación dental definitiva desde el día 1",
+          "B": "Previene la contractura de la herida del defecto, mantiene la altura facial y permite la alimentación oral precoz",
+          "C": "Sella permanentemente la comunicación oronasal para prevenir la neumonía postoperatoria",
+          "D": "Soporta el suelo orbitario tras la resección de Clase III"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El obturador quirúrgico (prefabricado antes de la cirugía a partir de modelos dentales preoperatorios) cumple tres funciones postoperatorias inmediatas principales: (1) prevención de la contractura de la herida — los bordes del defecto cicatrizan contra la forma del obturador, manteniendo las dimensiones para la adaptación protésica futura; (2) mantenimiento de la altura facial y prevención del colapso del tejido residual de la mejilla; (3) habilitación de la alimentación oral precoz y el habla inmediatamente después de la cirugía al proporcionar un sello temporal del defecto palatino.",
+          "wrong": {
+            "A": "El obturador quirúrgico es un dispositivo TEMPORAL — no es la prótesis definitiva. La rehabilitación dental definitiva (con restauraciones de corona y prótesis sobre implantes) es un proceso de 3–18 meses tras la finalización de la cicatrización.",
+            "C": "El obturador quirúrgico proporciona un sello oral temporal pero no previene «permanentemente» la comunicación oronasal — la herida sigue cicatrizando y el ajuste cambia durante las primeras semanas. La palabra «permanentemente» es incorrecta.",
+            "D": "El obturador quirúrgico es un dispositivo palatino/dental. No soporta estructuralmente el suelo orbitario — el soporte del suelo orbitario tras la resección de Clase III requiere malla de titanio o reconstrucción aloplástica."
+          },
+          "guideline": "AAOMS Maxillary Rehabilitation Guidelines 2023; Okay DJ et al. Head Neck 2001",
+          "trial": "Branemark PI et al. (Scand J Plast Reconstr Surg 1977): colocación precoz del obturador tras maxilectomía que demuestra una contracción del defecto significativamente reducida y mejores resultados de rehabilitación en comparación con la adaptación protésica diferida.",
+          "pearl": "Obturador quirúrgico: fabricar ANTES de la cirugía a partir de modelos dentales preoperatorios. Insertar al final de la resección. Propósito: prevenir contractura de la herida + mantener altura facial + permitir alimentación oral precoz. NO es una prótesis definitiva. Reemplaza con provisional → definitivo a lo largo de 3–6 meses."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "A6-Q15",
+        "stem": "¿Qué modalidad de imagen es más sensible para detectar la invasión perineural a lo largo del nervio palatino mayor hacia la fosa pterigopalatina en un paciente con CAQ del paladar duro?",
+        "options": {
+          "A": "OPG (ortopantomografía)",
+          "B": "TC de huesos faciales con ventanas óseas",
+          "C": "RM con contraste de gadolinio y secuencias de supresión de grasa",
+          "D": "PET-TC con FDG"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La RM con contraste de gadolinio y supresión de grasa (STIR, o T1 post-gadolinio con saturación de grasa) es la modalidad más sensible para detectar la invasión perineural (IPN) a lo largo de las vainas nerviosas. La supresión de grasa elimina la señal brillante de la grasa en la fosa pterigopalatina, permitiendo visualizar la captación de la vaina nerviosa (que capta con gadolinio cuando está invadida) sobre un fondo oscuro. La TC puede detectar cambios óseos del conducto palatino mayor (ensanchamiento, erosión) pero pasa por alto la diseminación perineural precoz antes de la afectación ósea.",
+          "wrong": {
+            "A": "La OPG es una radiografía panorámica dental bidimensional que proporciona información sobre la mandíbula y los senos maxilares pero tiene muy limitada resolución de tejidos blandos y no puede detectar la diseminación perineural.",
+            "B": "La TC con ventanas óseas detecta la erosión cortical del conducto palatino mayor — esto es útil para la evaluación de la extensión ósea, pero no es sensible para la diseminación perineural precoz antes de que se produzca la destrucción ósea.",
+            "D": "La PET-TC con FDG es útil para la estadificación ganglionar y la detección de metástasis a distancia en el CAQ, pero la captación de FDG es a menudo baja en el CAQ bien diferenciado, y la resolución de la PET es insuficiente para detectar la diseminación perineural a lo largo de pequeños nervios (<3 mm)."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Glándulas Salivales Menores; EACMFS 2023",
+          "trial": "Williams LS et al. (Radiology 2001): secuencias de gadolinio con supresión de grasa en RM para la invasión perineural en tumores de cabeza y cuello — sensibilidad del 95%, especificidad del 88% para invasión perineural; sensibilidad de la TC del 58% para la misma patología.",
+          "pearl": "Imagen de la invasión perineural: RM con gadolinio y supresión de grasa es el estándar de oro (sensibilidad 95%). La TC detecta solo el ensanchamiento del conducto óseo (signo tardío). CAQ: realizar siempre RM antes de la cirugía para mapear la extensión perineural hasta la base del cráneo antes de planificar los márgenes de resección."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q16",
+        "stem": "Un varón de 55 años tiene carcinoma sinonasal indiferenciado (SNUC) del seno maxilar derecho con erosión del suelo orbitario. La TC/RM no muestra afectación de la grasa intraorbitaria. ¿Cuál es el abordaje quirúrgico y la extensión de la resección apropiados?",
+        "options": {
+          "A": "Procedimiento de Caldwell-Luc — antrostomía y drenaje solamente",
+          "B": "Cirugía endoscópica de senos paranasales — adecuada para la resección del SNUC",
+          "C": "Maxilectomía total (Brown Clase IIIa) con reconstrucción del suelo orbitario, seguida de quimiorradioterapia adyuvante",
+          "D": "La exenteración orbitaria es obligatoria para cualquier erosión del suelo orbitario"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El carcinoma sinonasal indiferenciado (SNUC) es una neoplasia maligna agresiva de alto grado que requiere resección en bloque con márgenes libres. La erosión del suelo orbitario sin invasión de la grasa intraorbitaria indica afectación únicamente ósea — la exenteración orbitaria no se requiere si el periorbital está intacto. La maxilectomía total (Brown Clase IIIa) extirpa todo el maxilar incluyendo el suelo orbitario erosionado mientras preserva el globo. La quimiorradioterapia concurrente adyuvante es estándar para el SNUC dada su biología agresiva y el alto riesgo de recidiva local.",
+          "wrong": {
+            "A": "El Caldwell-Luc (antrostomía para la enfermedad sinusal benigna) es completamente inapropiado para el SNUC — proporciona una exposición inadecuada y no logra la resección en bloque requerida para la neoplasia maligna.",
+            "B": "La cirugía endoscópica de senos paranasales se utiliza para la enfermedad sinusal benigna y las neoplasias malignas sinonasales en estadio precoz seleccionadas — no proporciona la amplia resección en bloque necesaria para el SNUC y no abordaría adecuadamente la afectación del suelo orbitario.",
+            "D": "La exenteración orbitaria se requiere cuando el tumor invade los contenidos intraorbitarios (grasa orbitaria, músculos extraoculares, globo) o el periorbital está infiltrado. La erosión del HUESO del suelo orbitario con periorbital intacto no indica exenteración — el suelo se extirpa y reconstruye."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Tumores Sinonasales; EACMFS 2023",
+          "trial": "Rischin D et al. (J Clin Oncol 2007): quimiorradioterapia para las neoplasias malignas sinonasales localmente avanzadas — la QRT concurrente con cisplatino tras cirugía mejora significativamente el control locorregional en el SNUC; mediana de SG 27 meses con tratamiento multimodal.",
+          "pearl": "Manejo del SNUC: resección en bloque (maxilectomía total Clase IIIa si el suelo orbitario está erosionado) + QRT adyuvante con cisplatino. La erosión del suelo orbitario sola ≠ indicación de exenteración. Exenteración solo si el periorbital o los contenidos intraorbitarios están invadidos. El SNUC tiene biología agresiva — el tratamiento multimodal es obligatorio."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q17",
+        "stem": "Durante la maxilectomía de infraestructura (Brown Clase IIa), el cirujano diseca a lo largo del suelo orbitario. ¿Qué estructura debe identificarse y manejarse para prevenir la epífora postoperatoria?",
+        "options": {
+          "A": "Fisura orbitaria superior",
+          "B": "Conducto nasolacrimal",
+          "C": "Nervio cigomáticofacial",
+          "D": "Nervio infraorbitario (V2)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El conducto nasolacrimal discurre desde el saco lacrimal (canto medial) a través del conducto nasolacrimal en la pared medial del seno maxilar hasta abrirse en el meato inferior de la nariz. Durante la maxilectomía de infraestructura, el conducto nasolacrimal puede seccionarse en su extremo inferior. Si no se maneja, resulta en epífora (desbordamiento de lágrimas por la mejilla). Manejo en el momento de la cirugía: el conducto debe identificarse, su orificio entubado con un tubo nasolacrimal, o el conducto marsupializado en el revestimiento de la cavidad maxilar. La dacriocistorrinostomía (DCR) postoperatoria es una alternativa si la epífora persiste.",
+          "wrong": {
+            "A": "La fisura orbitaria superior está en el vértice orbitario posterior — muy alejada del campo quirúrgico de la maxilectomía de infraestructura. Transmite los NC III, IV, V1 y VI, y no está en riesgo en este procedimiento.",
+            "C": "El nervio cigomáticofacial es una rama sensitiva de V2 que sale del hueso cigomático — proporciona sensibilidad a la mejilla lateral. Su sección causa entumecimiento pero no epífora.",
+            "D": "El nervio infraorbitario (V2) sale por el agujero infraorbitario y proporciona sensibilidad al labio superior, la nariz lateral y el párpado inferior. Su daño causa pérdida sensitiva en esa distribución — no epífora."
+          },
+          "guideline": "EACMFS Head and Neck Oncology Surgical Guidelines 2023; AAOMS 2023",
+          "trial": "Koyama T et al. (Head Neck 1995): manejo del conducto nasolacrimal durante la maxilectomía — la intubación profiláctica del conducto reduce la epífora postoperatoria del 45% al 12%.",
+          "pearl": "Maxilectomía de infraestructura: identificar el conducto nasolacrimal en su extremo inferior (pared medial del seno maxilar). Entubar o marsupializar para prevenir la epífora. Sección del conducto no detectada = epífora → requiere DCR secundaria. Documentar siempre el manejo del conducto en el registro operatorio."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "A6-Q18",
+        "stem": "Un paciente requiere reconstrucción maxilar Brown Clase IIb (afectación palatina bilateral) tras resección total del paladar por carcinoma mucoepidermoide. Se realiza planificación preoperatoria con PQV. Se selecciona un colgajo fasciocutáneo ALT. ¿Cuáles son los vasos receptores más comúnmente utilizados para la anastomosis en el cuello?",
+        "options": {
+          "A": "Arteria carótida interna y seno sigmoide",
+          "B": "Arteria facial (término a término) y vena facial/yugular externa (término a término o término a lado con yugular interna)",
+          "C": "Tronco principal de la arteria carótida externa y vena innominada",
+          "D": "Solo arteria tiroidea superior — no se requiere drenaje venoso para el colgajo ALT"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Los vasos receptores estándar para la anastomosis del colgajo libre de cabeza y cuello (incluyendo el ALT para la reconstrucción maxilar) son: arterial — arteria facial (término a término preferido; tamaño compatible con la rama descendente de la ACFL a ~2–3 mm) o arteria tiroidea superior; venoso — vena facial, vena yugular externa (término a término) o vena yugular interna (término a lado). La arteria facial se liga durante la disección cervical y su extremo seccionado proporciona un excelente receptor arterial de tamaño compatible. La anastomosis venosa es la más crítica: la compatibilidad de tamaño de las venas concomitantes o la vena de drenaje del colgajo con la VYI o la vena facial es esencial.",
+          "wrong": {
+            "A": "La arteria carótida interna nunca se utiliza como arteria receptora para la anastomosis de colgajos libres (demasiado grande, conlleva un riesgo neurológico significativo). El seno sigmoide es una estructura venosa intracraneal — nunca se utiliza para el drenaje venoso del colgajo libre.",
+            "C": "El tronco de la arteria carótida externa también es demasiado grande (3–5 mm) para la anastomosis directa término a término con la mayoría de los pedículos de colgajos libres (2–3 mm). Una anastomosis término a lado a la ACE es posible pero no es la práctica estándar.",
+            "D": "Todos los colgajos libres requieren anastomosis TANTO arterial COMO venosa. La anastomosis venosa es obligatoria — sin drenaje venoso, la hipertensión venosa y la congestión del colgajo causan fracaso inmediato del colgajo."
+          },
+          "guideline": "EACMFS Reconstruction Guidelines 2023; Urken ML et al. Free Flap Atlas 2012",
+          "trial": "Schusterman MA et al. (Ann Plast Surg 1991): selección de vasos receptores para la reconstrucción con colgajo libre de cabeza y cuello — arteria facial la más comúnmente utilizada; arteria tiroidea superior como alternativa fiable; anastomosis venosa término a lado a VYI con las mayores tasas de permeabilidad.",
+          "pearl": "Vasos receptores estándar del colgajo libre: Arteria = arteria facial (primera elección) o arteria tiroidea superior. Vena = vena facial o vena yugular externa (término a término) o VYI término a lado. La arteria carótida interna y las venas innominadas NUNCA se utilizan. Las anastomosis tanto arterial COMO venosa son obligatorias."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q19",
+        "stem": "Una mujer de 64 años desarrolla tumefacción de la mejilla derecha indolora y trismo 6 meses después de completar la quimiorradioterapia por carcinoma epidermoide maxilar derecho. La TC muestra densidad aumentada de tejidos blandos en el espacio masticador sin evidencia de destrucción ósea ni recidiva en la PET-TC. ¿Cuál es el diagnóstico más probable?",
+        "options": {
+          "A": "Recidiva tumoral local",
+          "B": "Sarcoma inducido por radiación",
+          "C": "Fibrosis por radiación de los músculos masticadores con trismo",
+          "D": "Infección profunda cervical (absceso del espacio masticador)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La fibrosis por radiación de los músculos masticadores (pterigoideos, masetero, temporal) es la causa más frecuente del trismo progresivo que se presenta 3–12 meses después de la radioterapia de cabeza y cuello. La TC muestra densidad/firmeza aumentada de los músculos sin efecto de masa ni captación nodular. La PET-TC es negativa (sin actividad metabólica). Es un diagnóstico de exclusión tras descartar recidiva con PET-TC. El tratamiento es fisioterapia con dispositivos de estiramiento mandibular (Therabite), combinación de pentoxifilina-vitamina E e hiperbárica en casos graves.",
+          "wrong": {
+            "A": "La recidiva tumoral local mostraría una masa captante en TC/RM y actividad metabólica en PET-TC. Un cambio en los tejidos blandos PET-negativo y no captante es característico del efecto del tratamiento/fibrosis, no de recidiva.",
+            "B": "El sarcoma inducido por radiación ocurre años (típicamente 5–10 años) después de la radioterapia, no a los 6 meses. Se presenta como una masa ósea o de tejidos blandos destructiva con características de imagen agresivas — no como firmeza muscular difusa.",
+            "D": "El absceso del espacio masticador se presentaría con dolor, fiebre, tumefacción, trismo y sepsis sistémica. La TC mostraría una colección de líquido con realce periférico con cambios inflamatorios circundantes — no fibrosis muscular difusa."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Efectos Tardíos; EACMFS 2023",
+          "trial": "Dijkstra PU et al. (Oral Oncol 2007): trismo tras irradiación de cabeza y cuello — incidencia 25–40% al año; el inicio más precoz se correlaciona con la dosis más alta en los músculos pterigoideos; la fisioterapia con Therabite reduce significativamente la gravedad.",
+          "pearl": "Trismo por fibrosis por radiación: inicio progresivo 3–12 meses post-RDT; PET-negativo; TC muestra aumento de densidad muscular, sin masa. Tratamiento: Therabite + pentoxifilina 400 mg TID + vitamina E 1000 UI. Coronoidectomía para trismo refractario (<30 mm) no responsivo a medidas conservadoras."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "A6-Q20",
+        "stem": "Una mujer de 60 años sin enfermedad dental tiene un ameloblastoma que ocupa todo el seno maxilar derecho y el paladar duro, extendiéndose a la izquierda de la línea media. En la TC no se observa afectación del suelo orbitario. ¿Cuál es el tratamiento quirúrgico mínimo apropiado?",
+        "options": {
+          "A": "Enucleación y legrado — suficiente para todos los ameloblastomas",
+          "B": "Marsupialización para descomprimir la lesión antes de la cirugía definitiva",
+          "C": "Maxilectomía total con márgenes óseos libres (Brown Clase IIb) — resección amplia en bloque",
+          "D": "Resección endoscópica — evita incisiones externas"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El ameloblastoma maxilar es infrecuente pero se comporta de forma más agresiva que su homólogo mandibular debido a la proximidad a estructuras críticas (órbita, base del cráneo) y la naturaleza esponjosa del hueso maxilar. La resección amplia en bloque con márgenes óseos libres es el tratamiento de elección. La afectación palatina bilateral (cruza la línea media) clasifica este caso como Brown Clase IIb. La enucleación y el legrado se asocian con altas tasas de recidiva para el ameloblastoma maxilar (40–60% a los 5 años) y no son apropiados. El margen de resección debe ser un mínimo de 1 cm de hueso normal más allá de la extensión radiográfica/de TC.",
+          "wrong": {
+            "A": "La enucleación y el legrado son aceptables para los pequeños ameloblastomas quísticos unicísticos mandibulares, pero NO son apropiados para el ameloblastoma maxilar debido a la proximidad a estructuras críticas y las altas tasas de recidiva. La regla de 1 cm se aplica a todos los ameloblastomas maxilares.",
+            "B": "La marsupialización para descomprimir se utiliza en los grandes ameloblastomas quísticos de la mandíbula para reducir el tamaño antes de la cirugía definitiva — no tiene un papel establecido para el ameloblastoma maxilar y arriesga la siembra del sitio de descompresión.",
+            "D": "La resección endoscópica no permite los amplios márgenes óseos requeridos para el ameloblastoma y no proporciona retroalimentación táctil para identificar la infiltración tumoral en el hueso esponjoso."
+          },
+          "guideline": "NCCN Head and Neck Cancers 2024 — Lesiones Benignas de los Maxilares; AAOMS Management of Odontogenic Cysts and Tumours 2023",
+          "trial": "Nakamura N et al. (Oral Surg Oral Med Oral Pathol 1995): resultados del ameloblastoma maxilar — la resección en bloque con márgenes de 1 cm logró <10% de recidiva a los 5 años frente al 40–60% con legrado; confirma la resección amplia como estándar de atención.",
+          "pearl": "Ameloblastoma maxilar: resección amplia en bloque con márgenes de 1 cm obligatoria (no legrado). Mayor riesgo de recidiva que en la localización mandibular debido a la anatomía (menos hueso, proximidad a la órbita/base del cráneo). Brown Clase IIb aquí (afectación palatina bilateral). Reconstruir con colgajo libre (ALT o peroné)."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

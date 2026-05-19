@@ -1,0 +1,642 @@
+{
+  "id": "C1",
+  "title": "Cirugía Dentoalveolar: Terceros Molares y Extracciones Quirúrgicas",
+  "subtitle": "Bloque C — Cirugía Dentoalveolar e Implantología",
+  "block": "C",
+  "block_name": "Cirugía Dentoalveolar e Implantología",
+  "level": "R1-2",
+  "reading_time_min": 38,
+  "guidelines_version": "EACMFS Dentoalveolar Surgery Guidelines 2023 · NICE Guideline NG35 (Oral Health) 2024 · AAOMS Parameters of Care 2023",
+  "textbook_refs": [
+    "Hupp JR, Ellis E, Tucker MR. Contemporary Oral and Maxillofacial Surgery, 7th Ed (2019)",
+    "Pell GJ, Gregory GT. Impacted mandibular third molars: classification and modified technique. Oral Surg Oral Med Oral Pathol (1933)",
+    "Winter GB. Principles of Exodontia as Applied to the Impacted Mandibular Third Molar (1926)",
+    "Sedaghatfar M et al. Panoramic radiographic findings as predictors of inferior alveolar nerve exposure following third molar extractions. J Oral Maxillofac Surg (2005)"
+  ],
+  "learning_objectives": [
+    "Clasificar los terceros molares incluidos utilizando los sistemas de clasificación de Pell-Gregory y Winter",
+    "Identificar los signos radiológicos de proximidad del nervio dentario inferior en la ortopantomografía y en la CBCT",
+    "Planificar la extracción quirúrgica empleando técnicas adecuadas de incisión, osteotomía y odontosección",
+    "Informar a los pacientes sobre las complicaciones frecuentes: alveolitis seca, lesión del nervio dentario inferior, lesión del nervio lingual e infección",
+    "Manejar las complicaciones postoperatorias incluyendo osteítis alveolar, hemorragia y trismo",
+    "Aplicar las indicaciones basadas en la evidencia para la extracción profiláctica frente a la retención de terceros molares incluidos asintomáticos"
+  ],
+  "sections": [
+    {
+      "id": "C1-S1",
+      "title": "Clasificación de los Terceros Molares Incluidos",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Los terceros molares incluidos (muelas del juicio) son dientes que no logran erupcionar hasta su posición funcional normal debido a la obstrucción por dientes adyacentes, hueso o tejido blando. Los sistemas de clasificación proporcionan una comunicación estandarizada y orientan la planificación quirúrgica.\n\n**Clasificación de Winter (1926)** describe la angulación del tercer molar incluido respecto al eje longitudinal del segundo molar adyacente:\n- **Mesioangular:** Corona inclinada hacia el segundo molar (la más frecuente, ~43%); crea una cuña que puede aprovecharse durante la extracción\n- **Vertical:** Eje longitudinal paralelo al del segundo molar (~38%); la extracción requiere una eliminación ósea significativa en la zona posterior\n- **Distoangular:** Corona inclinada en sentido contrario al segundo molar (~6%); la más difícil de extraer — la desinclusión requiere eliminación de hueso distal y la raíz se encuentra en una posición desfavorable respecto al nervio dentario inferior\n- **Horizontal:** Corona apuntando directamente a la raíz del segundo molar (~3%); requiere odontosección en la mayoría de los casos\n- **Invertido:** Corona orientada inferiormente (infrecuente)\n\n**Clasificación de Pell-Gregory (1933)** utiliza dos parámetros:\n\n*Relación con el borde anterior de la rama mandibular (Clase I–III):*\n- **Clase I:** Espacio suficiente entre la rama y la cara distal del segundo molar para el ancho de la corona\n- **Clase II:** Espacio insuficiente; parte de la corona está cubierta por hueso de la rama\n- **Clase III:** El diente está completamente incluido en la rama\n\n*Profundidad respecto a la superficie oclusal del segundo molar (Posición A–C):*\n- **Posición A:** Superficie oclusal a la altura o por encima de la unión amelocementaria (UAC) del segundo molar\n- **Posición B:** Superficie oclusal entre la UAC y el ápice radicular\n- **Posición C:** Superficie oclusal por debajo del ápice radicular"
+        },
+        {
+          "type": "table",
+          "title": "Clasificación de Pell-Gregory: Evaluación de la Dificultad Quirúrgica",
+          "headers": ["Clase/Posición Pell-Gregory", "Dificultad Quirúrgica", "Reto Principal"],
+          "rows": [
+            ["I-A", "La más fácil", "Elevación simple; eliminación ósea mínima"],
+            ["I-B o II-A", "Moderada", "Cierta eliminación ósea necesaria; acceso adecuado"],
+            ["II-B o III-A", "Difícil", "Eliminación ósea significativa; superposición de la rama"],
+            ["III-B, II-C, III-C", "La más difícil", "Inclusión profunda; alto riesgo de proximidad al NID; odontosección habitualmente necesaria"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Angulación Más Difícil",
+          "content": "La inclusión distoangular es la angulación más difícil para la extracción del tercer molar mandibular. La corona apunta en sentido contrario al segundo molar, hacia la zona distal/posterior, lo que requiere eliminar hueso distal de la rama para crear un camino de desinclusión. Los ápices radiculares se encuentran próximos al canal del NID en una posición desfavorable, y no existe ningún mecanismo de cuña natural que facilite la extracción. La inclusión mesioangular, aunque la más frecuente, se considera generalmente la más fácil mediante la técnica de extracción por cuña distal."
+        }
+      ]
+    },
+    {
+      "id": "C1-S2",
+      "title": "Valoración Preoperatoria y Evaluación Radiológica",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**La valoración clínica** incluye la apertura bucal (trismo por infección pericoronaria), la proximidad al segundo molar (caries, defecto periodontal en la cara distal del segundo molar), el estado del tejido pericoronario y la historia clínica del paciente (anticoagulación, uso de bisfosfonatos, inmunosupresión).\n\n**La ortopantomografía (OPG)** es la prueba de imagen de primera línea estándar para la evaluación de los terceros molares. Las mediciones y hallazgos clave incluyen:\n\n**Signos de proximidad del nervio dentario inferior en OPG** (Sedaghatfar et al., 2005; Rood & Shehab, 1990):\n1. **Oscurecimiento de la raíz** en el cruce con el nervio — el signo más significativo; indica que el canal atraviesa la raíz\n2. **Deflexión del ápice radicular** — la raíz se curva alrededor del canal\n3. **Estrechamiento de la raíz** — la raíz se constriñe en el punto de paso del canal\n4. **Pérdida de la línea blanca (lámina dura)** del canal en la interfaz con la raíz\n5. **Desviación del canal** — el canal cambia de dirección a nivel de la raíz\n6. **Ápice radicular bífido** — la bifurcación del canal queda impresa en la raíz\n\nSi están presentes tres o más de estos signos, el riesgo de exposición del NID está significativamente elevado (riesgo de lesión del NID aproximadamente 20 veces mayor). En estos casos, se recomienda la **CBCT** para definir con precisión la relación tridimensional entre los ápices radiculares y el canal del NID.\n\nLa **Guía NICE NG35 (2024)** y las **guías de la EACMFS** recomiendan la CBCT cuando la OPG muestra dos o más signos radiológicos de alto riesgo, antes de proceder con la extracción de terceros molares mandibulares profundamente incluidos con posible proximidad al NID.\n\n**La coronectomía** (extracción parcial deliberada de la corona, dejando las raíces in situ) es una alternativa basada en la evidencia cuando la raíz está en contacto directo con el canal del NID en la CBCT y las raíces no son móviles. Esto reduce drásticamente el riesgo de lesión del NID al tiempo que elimina la fuente de síntomas."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Subestimar el Oscurecimiento de la Raíz",
+          "content": "El oscurecimiento (mayor radiolucidez) de la raíz del tercer molar mandibular al nivel del canal dentario inferior en la OPG es el signo de mayor valor predictivo de contacto con el nervio (el canal atraviesa la raíz). Este signo se suele subestimar. Cuando se observa oscurecimiento, la CBCT es obligatoria antes de la extracción para valorar si la coronectomía es preferible a la extracción completa. Proceder con la extracción completa sin CBCT en este escenario aumenta significativamente el riesgo de lesión del NID."
+        }
+      ]
+    },
+    {
+      "id": "C1-S3",
+      "title": "Técnica Quirúrgica: Incisión, Ostectomía y Odontosección",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El abordaje quirúrgico de la extracción del tercer molar mandibular incluido comprende: incisión y diseño del colgajo, eliminación ósea, odontosección, extracción y cierre de la herida.\n\n**Incisión y diseño del colgajo:** El colgajo en sobre estándar utiliza una incisión sulcular a lo largo de la cara distal del segundo molar con una incisión liberadora anterior (habitualmente a nivel del mesial del segundo molar o el distal del primer molar). La **incisión de Ward** (también denominada incisión en bayoneta o palo de hockey) realiza la incisión liberadora en el ángulo distobucal del segundo molar — esta variante proporciona un acceso ligeramente mejorado y es de uso generalizado. El colgajo debe ser de tamaño adecuado para proporcionar acceso sin desgarrarse; se refleja a espesor completo hasta el hueso. El **colgajo lingual** no debe reflejarse — el periostio lingual proporciona la perfusión a la cortical lingual y protege el nervio lingual; no deben colocarse instrumentos por lingual del hueso durante la ostectomía.\n\n**Eliminación ósea:** Un micromotor con fresa redonda elimina el hueso de las caras bucal y distal de la corona del diente. Se crea una zanja en el lado bucal para la colocación de los instrumentos. La eliminación ósea debe exponer la UAC del tercer molar y proporcionar espacio suficiente para el camino de extracción. La cantidad de hueso a eliminar está guiada por la clasificación de Pell-Gregory — las inclusiones más profundas requieren mayor eliminación ósea.\n\n**Odontosección:** La sección divide el diente en múltiples fragmentos que pueden extraerse individualmente sin necesidad de eliminación ósea excesiva ni de fuerzas exageradas. Patrones de sección habituales:\n- **Separación corona-raíz:** Corte horizontal a nivel de la UAC; extracción primero de la corona y después de las raíces\n- **Separación bucolingual de raíces:** Para raíces divergentes, separar las raíces mesial y distal y extraerlas individualmente\n- **Sección de la corona:** Para las inclusiones horizontales, corte sagital de la corona para extraer primero el fragmento coronario impactado contra el segundo molar\n\nLa sección se realiza con fresa en pieza de mano recta o fresa quirúrgica, cortando de bucal a lingual (pero SIN atravesar la cortical lingual — detenerse 1–2 mm antes de la penetración completa y finalizar con osteótomo).\n\n**Extracción:** Los botadores (Winter, Cryer, Pott's) se utilizan para extraer los fragmentos seccionados mediante palanca, acuñamiento o rueda y eje. Nunca aplicar fuerza excesiva — revisar el plan de sección si la resistencia es excesiva."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Protección del Nervio Lingual",
+          "content": "El nervio lingual discurre 2–3 mm por debajo de la cortical lingual de la mandíbula en la región retromolar y puede estar en riesgo durante la eliminación ósea y la odontosección. La medida protectora más importante es no reflejar el periostio lingual y no colocar instrumentos por lingual del hueso durante la cirugía. El nervio lingual discurre superior y medialmente al músculo milohioideo y es especialmente vulnerable si se coloca un retractor lingual de forma forzada contra la cortical lingual."
+        }
+      ]
+    },
+    {
+      "id": "C1-S4",
+      "title": "Coronectomía: Indicaciones y Evidencia",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La coronectomía (retención intencional de la raíz u odontectomía parcial deliberada) consiste en la extracción planificada de la corona de un tercer molar mandibular incluido dejando las raíces in situ, con el fin específico de evitar el desplazamiento de las raíces hacia el canal del nervio dentario inferior.\n\n**Indicaciones:**\n- Contacto directo del canal del NID con la raíz confirmado por CBCT o surco en la raíz\n- Raíces no móviles (raíces estables que no migrarán ni causarán complicaciones tardías)\n- Sin infección en el sitio del diente (la infección pericoronaria es una contraindicación — las raíces infectadas dejadas in situ no cicatrizarán)\n- Sin patología asociada al folículo (quiste, tumor)\n\n**Técnica:** Se levanta un colgajo bucal estándar. La corona se secciona a un nivel mínimo de 3 mm por debajo del nivel de la cresta alveolar en la cara bucal, con fresa. Todo el esmalte debe eliminarse de la superficie radicular retenida (el esmalte estimula el crecimiento epitelial descendente que impide la cicatrización). La pulpa no se trata — degenerará y la raíz experimentará resorción externa o permanecerá inactiva.\n\n**Evidencia:** La revisión Cochrane encargada por NICE (Renton et al.) y los metaanálisis posteriores muestran:\n- Tasa de lesión temporal del NID tras coronectomía: 0,5–1% vs 0,5–8% tras extracción completa en casos de alto riesgo\n- Tasa de lesión permanente del NID tras coronectomía: ~0,1% vs 0,5–3% tras extracción completa\n- La migración radicular ocurre en ~25–30% de los casos en 2 años — las raíces migran en sentido contrario al canal, lo que potencialmente hace más segura su extracción posterior si fuera necesaria\n- Infección secundaria que requiere extracción de la raíz: 5–10% de las coronectomías\n\nLa coronectomía es actualmente un estándar de atención basado en la evidencia para los terceros molares mandibulares incluidos con contacto directo confirmado con el NID, respaldado por la EACMFS, la BAOMS y la AAOMS."
+        },
+        {
+          "type": "table",
+          "title": "Coronectomía vs Extracción Completa: Comparación de Complicaciones en Casos de Alto Riesgo (Contacto con NID)",
+          "headers": ["Resultado", "Extracción Completa", "Coronectomía", "Notas"],
+          "rows": [
+            ["Lesión temporal del NID", "0,5–8%", "0,5–1%", "Drásticamente reducida con coronectomía en casos de contacto con NID"],
+            ["Lesión permanente del NID", "0,5–3%", "~0,1%", "Casi eliminación del riesgo de déficit permanente"],
+            ["Alveolitis seca (osteítis alveolar)", "25–35% (fumadores); 5–15% (no fumadores)", "N/A (sin alvéolo de extracción)", "La coronectomía elimina el riesgo de alveolitis seca"],
+            ["Migración radicular que requiere extracción", "N/A", "25–30% en 2 años", "La mayoría de las migraciones se alejan del nervio; la extracción a los 2 años suele ser más segura"],
+            ["Infección secundaria", "Baja (alvéolo cicatrizado)", "5–10%", "Si se infecta, deben extraerse las raíces; los antibióticos locales pueden ayudar inicialmente"],
+            ["Satisfacción del paciente", "Alta (diente extraído)", "Moderada (el diente permanece parcialmente)", "Requiere información sobre retención de raíces y posible procedimiento posterior"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Información al Paciente sobre Coronectomía",
+          "content": "Los pacientes deben ser informados de que la coronectomía no es un tratamiento definitivo — elimina la fase de mayor riesgo de la extracción dejando raíces que pueden (25–30%) requerir extracción futura. Las raíces retenidas degeneran, experimentan resorción y habitualmente migran en sentido coronal alejándose del nervio a lo largo de 2 años, facilitando su extracción posterior si fuera necesaria. Los pacientes deben comprender que pueden necesitar un segundo procedimiento en el futuro."
+        }
+      ]
+    },
+    {
+      "id": "C1-S5",
+      "title": "Osteítis Alveolar (Alveolitis Seca): Prevención y Tratamiento",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "**La osteítis alveolar (alveolitis seca)** es la complicación postoperatoria más frecuente de la extracción del tercer molar mandibular, ocurriendo en el 5–35% de los casos según los factores de riesgo. Está causada por la pérdida precoz o la lisis del coágulo sanguíneo postextracción, dejando el hueso alveolar expuesto y vulnerable a la colonización bacteriana e infección secundaria.\n\n**Fisiopatología:** La fibrinólisis del coágulo sanguíneo del alvéolo es el evento central. Los activadores locales (activadores del plasminógeno salival, fibrinolisinas bacterianas) promueven la lisis. El hueso expuesto queda colonizado secundariamente por anaerobios orales, generando el característico dolor intenso que irradia siguiendo la distribución del nervio trigémino.\n\n**Presentación clínica:** Inicio del dolor 2–5 días tras la extracción (tras el período de cicatrización inicial); dolor intenso, constante, irradiado, que no se controla adecuadamente con analgesia simple; halitosis; alvéolo vacío con hueso expuesto visible en la exploración.\n\n**Factores de riesgo (basados en la evidencia):**\n- **Tabaquismo:** El mayor factor de riesgo modificable — eleva la incidencia del ~5% (no fumadores) al 25–35%. La nicotina compromete el aporte sanguíneo; la succión del cigarrillo desplaza el coágulo\n- **Anticonceptivos orales:** Los estrógenos aumentan la actividad fibrinolítica salival; la incidencia es más alta en los primeros 22 días del ciclo\n- **Dificultad quirúrgica/traumatismo:** Mayor traumatismo óseo = más mediadores inflamatorios = mayor actividad fibrinolítica\n- **Pericoronitis previa a la extracción:** Colonización bacteriana preexistente\n- **Sexo femenino:** Mayor incidencia que los hombres, en parte atribuible al uso de anticonceptivos\n- **Edad >25 años:** Hueso más denso, mayor traumatismo quirúrgico\n- **Localización mandibular:** Incidencia mucho mayor que en maxilar (5 veces más frecuente)\n\n**Prevención:**\n- Irrigación del alvéolo con clorhexidina en el momento de la extracción\n- Enjuague con clorhexidina pre y postoperatorio (0,12% dos veces al día × 7 días)\n- Alvogyl (óxido de zinc, yodoformo, butambeno) u obturación del alvéolo con Gelfoam con antibiótico\n- Recomendar el cese del tabaco 48 horas antes y después de la cirugía\n- Programar la cirugía en los primeros días del ciclo menstrual para usuarias de anticonceptivos orales\n\n**Tratamiento:** Irrigación del alvéolo con suero salino tibio; desbridamiento bajo anestesia local; colocación de apósito sedante (pasta BIPP de subnitrato de bismuto yodoformado, Alvogyl o similar). Los apósitos se cambian cada 3–5 días hasta que progresa la cicatrización. Los antibióticos sistémicos generalmente no están indicados para la alveolitis seca no complicada (el tratamiento local es suficiente)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Presentación de la Alveolitis Seca",
+          "content": "La alveolitis seca se presenta 2–5 días tras la extracción (NO inmediatamente después — el coágulo se forma normalmente al principio). Características clave: dolor intenso, alvéolo vacío con hueso expuesto, sin coágulo visible, olor fétido. Contrasta con el dolor normal del alvéolo (máximo el día 1, mejora progresivamente) y la infección postoperatoria (se presenta a los 5–7 días con supuración purulenta, trismo, tumefacción). La alveolitis seca no tiene pus — NO es una infección del hueso (no es osteomielitis) sino exposición del hueso normal por pérdida del coágulo."
+        }
+      ]
+    },
+    {
+      "id": "C1-S6",
+      "title": "Lesión del Nervio Dentario Inferior y del Nervio Lingual",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La lesión nerviosa es la complicación grave más temida de la cirugía del tercer molar mandibular. Tanto el nervio dentario inferior (NDI) como el nervio lingual (NL) están en riesgo.\n\n**Incidencia de lesión del NDI:** Hipoestesia temporal en el 1–5% de las extracciones estándar; aumenta al 8–20% en dientes profundamente incluidos con signos radiológicos de proximidad nerviosa. Déficit permanente (evaluación objetiva a los 24 meses): 0,5–3% para extracciones estándar, mayor en casos de contacto con NID tratados con extracción completa.\n\n**Incidencia de lesión del nervio lingual:** Temporal: 0,5–2%; permanente: 0,2–0,5%. El NL es el más variable de los dos en cuanto a posición — en aproximadamente el 17% de los individuos, el NL está a la altura o por encima del nivel de la cresta alveolar lingual, haciéndolo vulnerable incluso sin retractores linguales. El déficit permanente del nervio lingual afecta significativamente la calidad de vida (pérdida del gusto, disestesia constante) y tiene diferente relevancia medicolegal que la lesión del NDI.\n\n**Clasificación de las lesiones nerviosas (Seddon/Sunderland):**\n- **Neuropraxia (Sunderland I):** Bloqueo temporal de la conducción; axón intacto; recuperación completa esperada en días a semanas\n- **Axonotmesis (Sunderland II–IV):** Axón interrumpido; endoneuro ± perineuro intactos; recuperación posible a lo largo de meses o años, puede ser incompleta\n- **Neurotmesis (Sunderland V):** Sección completa del nervio; sin recuperación espontánea sin reparación quirúrgica\n\n**Evaluación neurosensorial:** Las pruebas estandarizadas (discriminación de dos puntos, discriminación de dirección con cepillo, umbrales de presión de von Frey, pruebas térmicas) cuantifican objetivamente el déficit y orientan el tratamiento.\n\n**Manejo de la lesión nerviosa postextracción:**\n- Días 0–3: Tranquilizar al paciente; ciclo de corticosteroides (dexametasona 4 mg/día × 3–5 días) puede reducir la neuropraxia inflamatoria\n- 3 meses: Evaluación neurosensorial; si hay alguna recuperación = buen pronóstico; continuar seguimiento\n- 6 meses: Valoración neurosensorial formal; derivación a neurología/neurocirugía si no hay recuperación\n- 9–12 meses: Valoración microquirúrgica si no hay recuperación; exploración nerviosa ± reparación ± injerto\n- Indicación de exploración: Sin recuperación objetiva a los 9–12 meses + evidencia positiva de discontinuidad en ENMG = exploración quirúrgica indicada"
+        },
+        {
+          "type": "table",
+          "title": "Lesión del NDI vs Nervio Lingual Tras Cirugía del Tercer Molar",
+          "headers": ["Parámetro", "Nervio Dentario Inferior", "Nervio Lingual"],
+          "rows": [
+            ["Territorio afectado", "Labio inferior, mentón, encía bucal (nervio mentoniano)", "Dos tercios anteriores de la lengua + encía lingual"],
+            ["Incidencia temporal", "1–5% (estándar); hasta el 20% (contacto con NID)", "0,5–2%"],
+            ["Incidencia permanente", "0,5–3%", "0,2–0,5%"],
+            ["Causa principal", "Desplazamiento de la raíz hacia el canal; traumatismo por ostectomía", "Retractor en cortical lingual; ostectomía de la cortical lingual"],
+            ["Historia natural", "80–90% de las neuropraxias se resuelven a los 3 meses", "Similar; la disestesia lingual puede ser más perturbadora"],
+            ["Impacto en CdV", "Entumecimiento del labio; dificultad con la higiene dental", "Pérdida del gusto + hipoestesia lingual; impacto significativo en CdV"],
+            ["Éxito de la reparación quirúrgica", "Moderado (30–70% de mejoría)", "Mayor tasa de éxito con exploración precoz (<3 meses)"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Derivación Tardía para Reparación del Nervio Lingual",
+          "content": "La lesión del nervio lingual tiene mayor probabilidad de éxito con la reparación quirúrgica que la del NDI, pero solo cuando se repara de forma temprana (dentro de los 3 meses posteriores a la lesión). La reparación tardía (>9–12 meses) conlleva tasas de éxito mucho menores debido a la atrofia del órgano efector muscular y la formación de cicatriz en la zona de reparación. Cualquier paciente con déficit persistente del nervio lingual a los 3 meses debe derivarse para valoración microquirúrgica, no tratarse de forma conservadora durante un año."
+        }
+      ]
+    },
+    {
+      "id": "C1-S7",
+      "title": "Indicaciones para la Extracción del Tercer Molar: Evidencia y Guías",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El manejo adecuado de los terceros molares incluidos asintomáticos es una cuestión importante de evidencia y política sanitaria. La práctica histórica favorecía la extracción profiláctica de todos los terceros molares incluidos en adultos jóvenes; las guías contemporáneas han evolucionado hacia indicaciones más selectivas basadas en la evidencia.\n\n**Guía NICE NG35 (2024)** — No recomienda la extracción de terceros molares incluidos asintomáticos sin patología (sin evidencia clínica ni radiológica de patología). La guía NICE anterior (2000) había declarado explícitamente que la extracción profiláctica no estaba recomendada — la NG35 mantiene esta posición.\n\n**Indicaciones basadas en la evidencia para la extracción del tercer molar mandibular:**\n1. **Pericoronitis recurrente** — dos o más episodios sintomáticos de pericoronitis en 12 meses\n2. **Caries dental** — en el tercer molar (si no es accesible para restauración) o en la cara distal del segundo molar adyacente\n3. **Patología periodontal** — pérdida ósea en la cara distal del segundo molar atribuible al tercer molar\n4. **Quiste dentígero u otra patología folicular** — crecimiento quístico, desplazamiento de estructuras adyacentes\n5. **Resorción radicular** — de la raíz del segundo molar por contacto con la corona del tercer molar\n6. **Dolor** — dolor crónico directamente atribuible al tercer molar\n7. **Preparación para tratamiento ortodóncico** — cuando el tercer molar es un contribuyente conocido o probable al apiñamiento anterior (la evidencia aquí es limitada pero aceptada por la mayoría de las guías)\n8. **Preparación para cirugía mandibular** — los terceros molares en la línea de osteotomía deben extraerse (típicamente 6–9 meses antes de la cirugía para permitir la cicatrización)\n9. **Afectación de la línea de fractura** — en fracturas mandibulares cuando el tercer molar está en la línea de fractura y puede comprometer la cicatrización o albergar infección\n\n**Edad y momento óptimo:** La cirugía más temprana (18–25 años) se asocia a menores tasas de complicaciones (hueso más blando, formación radicular incompleta, mejor cicatrización), menos complicaciones postoperatorias y recuperación más rápida. Cuando está indicada, la cirugía más temprana es preferible."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Posición de NICE sobre la Extracción Profiláctica",
+          "content": "La Guía NICE NG35 (2024) NO recomienda la extracción profiláctica de terceros molares incluidos asintomáticos sin patología. Este es un punto clave de política con implicaciones medicolegales. La extracción requiere una indicación específica basada en la evidencia. Documente claramente la indicación en las notas operatorias. La extracción profiláctica sin evidencia clínica o radiológica de patología actual o en desarrollo no está respaldada por las guías en la práctica del NHS en el Reino Unido."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre cirugía del tercer molar, anatomía nerviosa y complicaciones dentoalveolares con 20 preguntas de tipo examen.",
+    "questions": [
+      {
+        "id": "C1-Q1",
+        "stem": "Una ortopantomografía de un hombre de 24 años muestra un tercer molar mandibular con las siguientes características: la corona del diente está inclinada en sentido contrario al segundo molar hacia la rama mandibular, la superficie oclusal se encuentra por debajo del nivel de la unión amelocementaria del segundo molar, y la rama cubre aproximadamente la mitad del ancho de la corona. Utilizando las clasificaciones de Pell-Gregory y Winter, ¿qué clasificación describe mejor este diente?",
+        "options": {
+          "A": "Mesioangular, Clase II, Posición A",
+          "B": "Distoangular, Clase II, Posición B",
+          "C": "Vertical, Clase III, Posición B",
+          "D": "Horizontal, Clase I, Posición C"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La clasificación de Winter describe la angulación de la corona respecto al eje longitudinal del segundo molar. Corona inclinada en sentido contrario al segundo molar (hacia la rama/distal) = distoangular. Clase Pell-Gregory: la mitad de la corona cubierta por la rama = Clase II (espacio insuficiente entre la rama y el segundo molar, pero no completamente incluido = no Clase III). Posición: superficie oclusal por debajo de la UAC del segundo molar, pero la descripción no especifica que sea por debajo del ápice, por lo tanto Posición B. En conclusión: Distoangular, Clase II, Posición B.",
+          "wrong": {
+            "A": "Mesioangular significa que la corona se inclina hacia (en sentido mesial, hacia) el segundo molar — lo contrario de lo descrito aquí (la corona se inclina en sentido contrario = distoangular)",
+            "C": "Vertical significa que el eje longitudinal es paralelo al del segundo molar — no se describe aquí; Clase III significa completamente incluido en la rama — no se describe aquí",
+            "D": "Horizontal significa que la corona apunta directamente a la raíz del segundo molar — no se describe; Posición C = superficie oclusal por debajo del ápice radicular — no se indica aquí"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Clasificación y documentación del tercer molar",
+          "trial": "Pell GJ, Gregory GT. Impacted mandibular third molars: classification and modified technique for removal. Dental Digest (1933): clasificación original que sigue siendo el estándar de oro para la evaluación de la dificultad quirúrgica del tercer molar mandibular",
+          "pearl": "Clasificación de Winter (angulación): Mesio = hacia el 2.º molar. Disto = en sentido contrario al 2.º molar (la más difícil). Horizontal = 90° respecto al 2.º molar. Vertical = paralelo. Pell-Gregory: Clase I/II/III = relación con la rama. Posición A/B/C = profundidad. Memorice las combinaciones."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q2",
+        "stem": "¿Qué hallazgo radiológico en la ortopantomografía de un tercer molar mandibular se considera el signo más importante que indica que el canal del nervio dentario inferior atraviesa la raíz?",
+        "options": {
+          "A": "Estrechamiento de la raíz a nivel del canal",
+          "B": "Oscurecimiento (mayor radiolucidez) de la raíz en el cruce con el canal",
+          "C": "Desviación (cambio de dirección) del canal",
+          "D": "Pérdida de la línea blanca (lámina dura) del canal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El oscurecimiento (mayor radiolucidez) de la raíz al nivel donde el canal dentario inferior la atraviesa es el signo radiológico más significativo que indica que el canal pasa a través de la raíz. Este hallazgo está causado por la ausencia de dentina en el punto de paso del canal — la luz del canal reemplaza la estructura radicular normal, produciendo una radiolucidez focal. Rood y Shehab (1990) clasificaron este signo como el predictor de mayor riesgo de exposición del nervio durante la extracción. Cuando está presente este signo, la CBCT es obligatoria antes de la extracción.",
+          "wrong": {
+            "A": "El estrechamiento de la raíz es un signo significativo pero ocupa un rango inferior al oscurecimiento en cuanto al valor predictivo de contacto/paso del canal a través de la raíz",
+            "C": "La desviación del canal es un signo importante pero indica que el canal cambia de dirección alrededor de la raíz en lugar de atravesarla — menor especificidad para el contacto directo canal-raíz",
+            "D": "La pérdida de la línea blanca (lámina dura) indica proximidad del canal pero es menos específica para el paso real canal-raíz que el oscurecimiento"
+          },
+          "guideline": "NICE Guideline NG35 (2024): CBCT indicada cuando la ortopantomografía muestra signos de alto riesgo de proximidad al NID, incluido el oscurecimiento de la raíz",
+          "trial": "Rood JP, Shehab BA. The radiological prediction of inferior alveolar nerve injury during third molar surgery. Br J Oral Maxillofac Surg (1990): identificación sistemática de 7 signos radiológicos; oscurecimiento de la raíz = mayor valor predictivo de exposición del nervio",
+          "pearl": "Oscurecimiento de la raíz en OPG = el canal ATRAVIESA la raíz = signo de mayor riesgo para el NDI. Múltiples signos de Rood-Shehab → CBCT obligatoria → considerar coronectomía. Nunca proceder con la extracción de terceros molares con contacto NID sin CBCT."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q3",
+        "stem": "Una mujer de 26 años está programada para la extracción de un tercer molar mandibular. Es fumadora de 10 cigarrillos/día y actualmente toma un anticonceptivo oral combinado (AOC). ¿Cuál de las siguientes es la recomendación más basada en la evidencia para reducir su riesgo de osteítis alveolar (alveolitis seca)?",
+        "options": {
+          "A": "Prescribir un ciclo preoperatorio de amoxicilina de 7 días",
+          "B": "Aconsejar el cese del tabaco 48 horas antes y después de la cirugía y programar la cirugía en los primeros 7 días de su ciclo de píldora",
+          "C": "Realizar la extracción bajo anestesia general para reducir el traumatismo quirúrgico",
+          "D": "Prescribir enjuague de clorhexidina solo durante 7 días antes de la operación"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El tabaquismo es el mayor factor de riesgo modificable para la osteítis alveolar, aumentando la incidencia del ~5% (no fumadores) al 25–35%. La succión del cigarrillo puede desalojar mecánicamente el coágulo del alvéolo, y la nicotina compromete la vascularización. Los anticonceptivos orales combinados aumentan la actividad fibrinolítica salival (efecto estrogénico), con el mayor riesgo durante los primeros 22 días del ciclo menstrual. Reducción práctica del riesgo: (1) cese del tabaco 48 horas antes y después de la cirugía, (2) programar la cirugía en los días 1–7 del ciclo de la píldora, cuando los niveles de estrógenos y la actividad fibrinolítica son más bajos.",
+          "wrong": {
+            "A": "Los antibióticos profilácticos no están basados en la evidencia para la prevención de la alveolitis seca en pacientes sanos — la alveolitis seca no es principalmente un proceso infeccioso; no se ha demostrado que los antibióticos la prevengan",
+            "C": "La anestesia general no reduce específicamente el riesgo de alveolitis seca; el riesgo está relacionado con las características biológicas del paciente y el comportamiento postoperatorio, no con el tipo de anestesia",
+            "D": "La clorhexidina preoperatoria sola proporciona un beneficio parcial, pero la evidencia respalda el uso perioperatorio (tanto antes COMO después). Además, ignorar los riesgos del tabaquismo y los AOC proporciona un consejo incompleto"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Prevención de la alveolitis seca — cese del tabaco y momento del ciclo de AOC como factores de riesgo modificables",
+          "trial": "Larsen PE. Alveolar osteitis after surgical removal of impacted mandibular third molars: identification of the patient at risk. Oral Surg Oral Med Oral Pathol (1992): OR de tabaquismo 4,2 (IC 95% 2,1–8,3) para alveolitis seca; usuarias de AOC 3,7 veces mayor riesgo; se recomienda programar la cirugía en el ciclo de la píldora",
+          "pearl": "Prevención de alveolitis seca: (1) Cese del tabaco 48 horas pre/post. (2) Usuarias de AOC: días 1–7 del ciclo para la cirugía. (3) Clorhexidina perioperatoria (0,12% dos veces al día × 7 días). (4) Técnica de extracción cuidadosa. (5) Apósito sedante del alvéolo si es de alto riesgo."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q4",
+        "stem": "La coronectomía (odontectomía parcial intencional) está contraindicada en cuál de los siguientes escenarios clínicos?",
+        "options": {
+          "A": "Paso del canal del NID por la raíz mesial del tercer molar confirmado por CBCT",
+          "B": "Raíces móviles del tercer molar",
+          "C": "Paciente de 30 años con un diente profundamente incluido",
+          "D": "Tercer molar de raíz única con contacto con el canal del NID"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las raíces móviles son una contraindicación específica de la coronectomía. Si las raíces son móviles (detectado al aplicar fuerza horizontal tras la sección de la corona), las raíces retenidas no permanecerán estables en el hueso — migrarán rápidamente, se harán sintomáticas o extruirán hacia la cavidad oral, requiriendo su extracción. Toda la justificación de la coronectomía es que las raíces estables y no móviles se integran con el hueso a lo largo del tiempo, permaneciendo in situ de forma segura mientras se resuelve el período de riesgo (proximidad de la raíz al nervio activo). Las raíces móviles anulan este mecanismo.",
+          "wrong": {
+            "A": "La confirmación por CBCT del paso del canal del NID por la raíz es precisamente la INDICACIÓN de la coronectomía — no una contraindicación; es cuando la coronectomía reduce más el riesgo de lesión nerviosa",
+            "C": "La edad de 30 años y la inclusión profunda no son contraindicaciones de la coronectomía; si el contacto con el NID está confirmado, la coronectomía es adecuada a cualquier edad adulta",
+            "D": "La raíz única con contacto con el NID es una indicación de la coronectomía, no una contraindicación — la coronectomía se aplica independientemente del número de raíces si el contacto está confirmado"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Contraindicaciones de la coronectomía — raíces móviles, pericoronitis, quiste/patología",
+          "trial": "Renton T, Hankins M, Sproate C, McGurk M. A randomised controlled clinical trial to compare the incidence of injury to the inferior alveolar nerve as a result of coronectomy and removal of mandibular third molars. Br J Oral Maxillofac Surg (2005): ECA de coronectomía; raíces móviles excluidas del estudio; coronectomía superior a la extracción en casos de contacto NID con raíces no móviles",
+          "pearl": "Contraindicaciones de la coronectomía: (1) Raíces móviles (no permanecerán in situ). (2) Pericoronitis activa/infección (las raíces infectadas no cicatrizarán). (3) Quiste o tumor asociado al folículo. (4) Raíces horizontales (difíciles de dejar en posición controlada). Indicación: contacto NID confirmado por CBCT con raíces no móviles."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q5",
+        "stem": "Según la Guía NICE NG35 (2024), ¿cuál es la recomendación respecto a la extracción profiláctica de terceros molares mandibulares incluidos asintomáticos sin patología?",
+        "options": {
+          "A": "Recomendada para todos los terceros molares incluidos en pacientes menores de 25 años",
+          "B": "No recomendada — la extracción requiere una indicación específica basada en la evidencia",
+          "C": "Recomendada cuando la clase Pell-Gregory es III-C",
+          "D": "Recomendada para todos los terceros molares que muestren formación radicular incompleta en OPG"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La Guía NICE NG35 (2024) mantiene la posición establecida en la NICE (2000) de que la extracción profiláctica de terceros molares incluidos asintomáticos sin patología NO está recomendada. La extracción solo debe realizarse cuando exista una indicación clínica o radiológica específica (pericoronitis, caries, enfermedad periodontal, patología, resorción radicular del diente adyacente, etc.). Este es el estándar del NHS y tiene relevancia medicolegal — la extracción de un diente asintomático sin indicación no puede justificarse dentro de las guías del NHS.",
+          "wrong": {
+            "A": "La extracción profiláctica de todos los terceros molares incluidos en menores de 25 años NO está recomendada explícitamente por la NICE NG35, aunque los pacientes más jóvenes tienen tasas de complicaciones más bajas",
+            "C": "La clase III-C de Pell-Gregory no es en sí misma una indicación para la extracción — describe la dificultad quirúrgica, no la presencia de patología",
+            "D": "La formación radicular incompleta es un factor que favorece el momento de la cirugía (más temprana = más fácil) pero no es una indicación para la extracción de un diente asintomático"
+          },
+          "guideline": "NICE Guideline NG35 (Oral Health: Approaches for Local Authorities and Their Partners, 2024): extracción profiláctica del tercer molar no recomendada sin indicación específica",
+          "trial": "Song F et al. Prophylactic removal versus retention for the management of asymptomatic disease-free impacted wisdom teeth. Cochrane Database Syst Rev (2000): evidencia insuficiente para respaldar la extracción profiláctica; la relación riesgo-beneficio no favorece la extracción profiláctica de rutina; base de la guía NICE",
+          "pearl": "NICE NG35 = SIN extracción profiláctica de terceros molares asintomáticos sin patología. Este es un punto crítico de examen. Documente la indicación específica claramente antes de cualquier extracción de tercer molar. Conozca la lista de indicaciones aceptadas (pericoronitis ×2, caries, enfermedad periodontal, patología, resorción radicular, preparación para cirugía mandibular)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q6",
+        "stem": "Una mujer de 22 años se presenta 3 días tras la extracción de un tercer molar mandibular con dolor intenso y constante en el maxilar inferior y la cara izquierdos, más intenso que el dolor postextracción inicial. La exploración muestra un alvéolo vacío con hueso pálido expuesto y olor fétido. ¿Cuál es el diagnóstico y el tratamiento inicial más adecuado?",
+        "options": {
+          "A": "Infección postoperatoria — prescribir antibióticos y revisar en 48 horas",
+          "B": "Osteítis alveolar (alveolitis seca) — irrigación del alvéolo y apósito sedante",
+          "C": "Lesión del nervio dentario inferior — prescribir prednisolona y derivar a neurología",
+          "D": "Hemorragia — aplicar gasas compresivas y recomendar mordida durante 30 minutos"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La osteítis alveolar (alveolitis seca) se presenta característicamente a los 2–5 días postextracción con dolor irradiado intenso (a menudo peor que el dolor inicial), alvéolo vacío con hueso expuesto (sin coágulo) y olor fétido. El diagnóstico es clínico. El tratamiento consiste en: (1) Irrigación del alvéolo con suero salino tibio para eliminar los restos; (2) Desbridamiento cuidadoso bajo anestesia local si es necesario; (3) Colocación de un apósito sedante (Alvogyl, pasta BIPP o equivalente). Los apósitos se cambian cada 3–5 días hasta que los síntomas desaparezcan. Los antibióticos sistémicos NO están indicados de forma rutinaria para la alveolitis seca no complicada — no es una infección sino un fallo de la cicatrización.",
+          "wrong": {
+            "A": "La infección postoperatoria se presenta habitualmente a los 5–7 días con supuración purulenta, trismo y celulitis — no con un alvéolo vacío con hueso expuesto el día 3; los antibióticos solos sin tratamiento del alvéolo son un manejo incorrecto de la alveolitis seca",
+            "C": "La lesión del NDI se presenta como entumecimiento/hipoestesia (pérdida sensorial), no como dolor intenso — el síntoma principal aquí es dolor, no parestesia; la lesión del NDI no causa dolor de estas características",
+            "D": "La hemorragia se presenta como sangrado activo en el alvéolo — no con hueso expuesto y dolor en el día 3; no se describe hemorragia"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Osteítis alveolar — diagnóstico y protocolo de manejo",
+          "trial": "Larsen PE. Oral Surg Oral Med Oral Pathol (1992): osteítis alveolar diagnosticada clínicamente por dolor + alvéolo vacío + hueso expuesto a los 2–5 días; el apósito sedante del alvéolo proporciona alivio rápido del dolor en el 90% de los casos",
+          "pearl": "Alveolitis seca = dolor + alvéolo vacío + hueso expuesto + olor fétido a los 2–5 días. Tratamiento: irrigación + apósito sedante, cambiar cada 3–5 días. Sin antibióticos de rutina (no es infecciosa). Diferenciar de infección (días 5–7, pus, trismo) y dolor por lesión del NDI (entumecimiento, no dolor intenso)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q7",
+        "stem": "Un estudiante de 19 años se somete a la extracción de un tercer molar mandibular horizontalmente incluido. Al día siguiente se presenta con entumecimiento completo del lado izquierdo de su lengua y pérdida del gusto en el tercio anterior izquierdo de la lengua. ¿Qué nervio ha sido lesionado con mayor probabilidad?",
+        "options": {
+          "A": "Nervio dentario inferior",
+          "B": "Nervio cuerda del tímpano",
+          "C": "Nervio lingual",
+          "D": "Nervio glosofaríngeo"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El nervio lingual conduce tanto la sensación general (tacto, dolor, temperatura) de los dos tercios anteriores de la lengua como la sensación gustativa (transportada por las fibras de la cuerda del tímpano que se unen al nervio lingual en la fosa infratemporal). La lesión del nervio lingual produce por tanto tanto hipoestesia del tercio anterior de la lengua COMO pérdida del gusto del tercio anterior de la lengua (disgeusia o ageusia) en el lado ipsilateral. El nervio lingual está en riesgo durante la cirugía del tercer molar mandibular, especialmente con retracción de la cortical lingual o eliminación ósea en la cara lingual. La combinación de entumecimiento del tercio anterior de la lengua + pérdida del gusto = lesión del nervio lingual.",
+          "wrong": {
+            "A": "La lesión del NDI produce hipoestesia del labio inferior, mentón y encía bucal (distribución del nervio mentoniano) — NO sensación lingual ni pérdida del gusto; el NDI no inerva la lengua",
+            "B": "La cuerda del tímpano aislada (sin afectación del nervio lingual) produciría pérdida del gusto en el tercio anterior de la lengua SIN pérdida de sensación táctil — la cuerda del tímpano transporta fibras gustativas pero no sensación táctil; es vulnerable en la cirugía de la ATM y la BSSO, no típicamente en la cirugía del tercer molar",
+            "D": "El nervio glosofaríngeo inerva el tercio posterior de la lengua para sensación y gusto — no es accesible en el campo quirúrgico del tercer molar"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Lesión del nervio lingual — anatomía, incidencia y manejo",
+          "trial": "Robinson PP, Smith KG. Lingual nerve damage during lower third molar removal. Br Dent J (1996): lesión del nervio lingual en el 0,5–2% de los casos; hipoestesia del tercio anterior de la lengua + alteración del gusto = lesión del nervio lingual (no del NDI)",
+          "pearl": "Lesión del nervio lingual = entumecimiento de los 2/3 anteriores de la lengua + pérdida del gusto (ipsilateral). Lesión del NDI/nervio mentoniano = entumecimiento del labio inferior + mentón + encía bucal. Conozca la distribución de cada nervio — este es un clásico discriminador de examen."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q8",
+        "stem": "Durante la extracción quirúrgica de un tercer molar mandibular, el cirujano intenta extraer un diente horizontalmente incluido con presión de botador. El diente no sale. ¿Cuál es el paso siguiente más adecuado para facilitar la extracción segura?",
+        "options": {
+          "A": "Aplicar más fuerza con un botador de mayor tamaño",
+          "B": "Seccionar el diente (separación corona-raíz o separación radicular) para permitir la extracción individual de los fragmentos",
+          "C": "Abandonar el procedimiento y reprogramar bajo anestesia general",
+          "D": "Usar un retractor lingual para mejorar el apalancamiento"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Cuando un diente no puede extraerse con fuerza controlada de botador, la respuesta correcta es seccionar el diente en lugar de aumentar la fuerza. Para las inclusiones horizontales, la sección de la corona (separar la corona de las raíces para retirar el fragmento coronario mesial impactado contra el segundo molar) crea espacio para la extracción de las raíces. Puede ser necesaria una separación radicular adicional (raíz mesial de la distal). La odontosección es una técnica quirúrgica fundamental que elimina la necesidad de eliminación ósea excesiva o fuerzas peligrosas de botador. Aumentar la fuerza arriesga fractura mandibular, desplazamiento radicular o lesión nerviosa.",
+          "wrong": {
+            "A": "Aplicar mayor fuerza con un botador más grande cuando el diente no cede es la respuesta incorrecta — arriesga la fractura mandibular (especialmente en pacientes mayores o dientes profundamente incluidos) y lesión del NDI",
+            "C": "Abandonar el procedimiento cuando ya se ha eliminado el hueso y el diente está movilizado no es adecuado — el campo quirúrgico está ahora abierto y el diente debe extraerse; detenerse invita a complicaciones infecciosas y de sangrado",
+            "D": "Colocar un retractor lingual para apalancamiento aplica fuerza sobre la delgada cortical lingual y arriesga la fractura de la cortical lingual, lesión del nervio lingual y fracaso en la extracción segura del diente"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Técnica de extracción quirúrgica del tercer molar — la odontosección como técnica principal para inclusiones resistentes",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): la odontosección reduce la necesidad de eliminación ósea en un 30–50% y elimina la necesidad de fuerzas excesivas de botador en las inclusiones horizontales",
+          "pearl": "El diente no cede con fuerza controlada → SECCIÓNELO. Nunca aplique fuerza excesiva a un diente incluido que resiste. Inclusión horizontal: seccione primero la corona de las raíces (retire el fragmento coronario impactado contra el 2.º molar), después extraiga las raíces. Este es un principio básico de CMF."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q9",
+        "stem": "Se extrae un tercer molar mandibular de un hombre de 30 años. En el seguimiento a los 9 meses, el paciente aún presenta hipoestesia objetiva del NDI en la evaluación neurosensorial formal (discriminación de dos puntos), sin mejoría desde los 3 meses. ¿Cuál es el siguiente paso más adecuado?",
+        "options": {
+          "A": "Tranquilizar y continuar observación hasta los 24 meses",
+          "B": "Derivar para valoración microquirúrgica del nervio y posible exploración",
+          "C": "Prescribir gabapentina para el manejo del dolor neuropático",
+          "D": "Repetir la CBCT para evaluar la cicatrización ósea"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La ausencia de recuperación objetiva entre los 3 y los 9 meses tras una lesión del NDI es un signo preocupante que indica una posible neurotmesis (sección completa del nervio) o axonotmesis grave con mala regeneración. La práctica estándar ante un déficit nervioso persistente sin recuperación es la derivación para valoración microquirúrgica a los 9–12 meses — esto se encuentra dentro de la ventana en la que la reparación quirúrgica (neurólisis, neurorrafia o injerto nervioso) puede producir aún una recuperación funcional significativa. Esperar hasta los 24 meses reduce significativamente las posibilidades de una reparación exitosa debido a la degeneración del órgano efector denervado y la formación de cicatriz.",
+          "wrong": {
+            "A": "Observar hasta los 24 meses es inadecuado cuando no hay mejoría entre los 3 y los 9 meses — esto representa una oportunidad perdida para la reparación quirúrgica en la ventana óptima",
+            "C": "La gabapentina trata el dolor neuropático (disestesia, alodinia) pero no promueve la recuperación nerviosa — si la queja principal es hipoestesia (entumecimiento) en lugar de dolor neuropático, la gabapentina no es la prioridad",
+            "D": "La CBCT evalúa la cicatrización ósea pero no proporciona información sobre la integridad nerviosa, la regeneración o el potencial de reparación; la ENMG (electromiografía/estudios de conducción nerviosa) sería más relevante para la evaluación del nervio"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Lesión del nervio periférico tras cirugía oral — criterios de derivación para valoración microquirúrgica a los 9–12 meses sin recuperación",
+          "trial": "Robinson PP et al. Peripheral nerve injuries in surgery. Br Dent J (2004): sin recuperación de los 3 a los 9 meses = derivar para valoración quirúrgica; la reparación quirúrgica dentro de los 12 meses produce mejores resultados que la reparación tardía después de los 12 meses en series del NDI",
+          "pearl": "Lesión del NDI sin recuperación de los 3 a los 9 meses = derivar para valoración microquirúrgica. No espere hasta los 24 meses. La ventana de 9–12 meses es óptima para la exploración/reparación del nervio. La recuperación más allá de los 12 meses sin cirugía es poco probable para la axonotmesis o neurotmesis."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q10",
+        "stem": "Un hombre de 27 años con un tercer molar mandibular en posición Clase III-C (completamente incluido en la rama, superficie oclusal por debajo del ápice radicular del segundo molar) se somete a extracción. ¿Qué diseño de colgajo y abordaje proporciona mejor acceso y limita las complicaciones?",
+        "options": {
+          "A": "Pequeña incisión solo en la zona distal del segundo molar; sin incisión liberadora",
+          "B": "Colgajo en sobre adecuado desde el mesial del segundo molar hasta la región retromolar, con incisión liberadora anterior (variante de la incisión de Ward)",
+          "C": "Colgajo de base lingual reflejando el periostio lingual para mejorar el acceso",
+          "D": "Abordaje extraoral (submandibular) para inclusiones profundas de Clase III"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para un tercer molar profundamente incluido Clase III-C, el acceso adecuado requiere un colgajo bucal en sobre de tamaño apropiado: incisión sulcular desde la cara distal del segundo molar hacia el área retromolar, con una incisión liberadora anterior en el mesial del segundo molar (o ángulo distobucal — incisión de Ward). Este diseño proporciona una amplia retracción del tejido que permite la ostectomía y la odontosección necesarias para la extracción Clase III-C. El colgajo debe ser lo suficientemente grande como para no desgarrarse durante la retracción — los bordes del colgajo desgarrado cicatrizan mal y aumentan la morbilidad postoperatoria.",
+          "wrong": {
+            "A": "Una pequeña incisión sin incisión liberadora proporciona un acceso insuficiente para un diente Clase III-C — se producirá desgarramiento de la mucosa durante la retracción, aumentando el riesgo de tumefacción e infección postoperatoria",
+            "C": "El periostio lingual NO debe reflejarse — la desinserción del periostio lingual compromete el aporte sanguíneo a la cortical lingual, elimina la barrera natural que protege el nervio lingual y aumenta significativamente el riesgo de lesión del nervio lingual",
+            "D": "Los abordajes extraorales (submandibulares) se reservan para circunstancias excepcionales (incapacidad para abrir la boca, trismo grave, contraindicación al abordaje intraoral) — no se utilizan para las inclusiones Clase III-C como abordaje estándar"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Acceso quirúrgico al tercer molar — diseño adecuado del colgajo proporcional a la complejidad quirúrgica",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): principios de diseño del colgajo — el colgajo debe ser lo suficientemente grande para el acceso; la incisión liberadora evita el desgarro; nunca reflejar el colgajo lingual en la cirugía del tercer molar",
+          "pearl": "Regla del colgajo para cirugía del tercer molar: (1) Lo suficientemente grande para el acceso (Clase III necesita colgajo amplio). (2) Nunca reflejar el periostio lingual. (3) La incisión liberadora anterior evita el desgarro. (4) La base más ancha que el vértice. (5) Evitar estructuras vitales en la incisión liberadora (nervio mentoniano — mantener la liberación anterior al 1.º molar si es posible)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q11",
+        "stem": "Un paciente se somete a coronectomía de un tercer molar mandibular. En el seguimiento a los 18 meses, la radiografía muestra que las raíces retenidas han migrado 3 mm en sentido coronal en comparación con la radiografía postoperatoria inmediata. El paciente está asintomático. ¿Cuál es el manejo más adecuado?",
+        "options": {
+          "A": "Extracción inmediata de las raíces migradas — la migración indica una lesión nerviosa inminente",
+          "B": "Continuar el seguimiento — la migración coronal de las raíces es esperada y puede hacer más segura su posterior extracción si fuera necesaria",
+          "C": "Prescribir bisfosfonatos para detener la migración radicular",
+          "D": "Derivar para coronectomía repetida para reducir la porción migrada"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La migración coronal de las raíces retenidas tras coronectomía es un fenómeno bien documentado y esperado, que ocurre en aproximadamente el 25–30% de los casos en 2 años. La migración es en sentido coronal — alejándose del NDI — lo que hace más fácil y segura la extracción de las raíces si posteriormente se requiere. En un paciente asintomático con raíces migradas y sin evidencia de infección o patología, el seguimiento continuado es el manejo adecuado. Si la migración es extensa (raíces que se aproximan a la cresta alveolar), la extracción puede ser adecuada en ese momento, pero la migración per se no es una emergencia.",
+          "wrong": {
+            "A": "La migración alejándose del NDI (en sentido coronal) no indica lesión nerviosa inminente — aleja las raíces del nervio, haciendo su posterior extracción más segura, no más peligrosa",
+            "C": "Los bisfosfonatos no se utilizan para detener la remodelación ósea en este contexto y serían inadecuados — son relevantes para la hipercalcemia y la osteoporosis, no para la migración radicular coronal",
+            "D": "La coronectomía repetida para reducir la porción migrada extraería raíces que han avanzado más lejos del nervio hacia una zona más segura — esto es contraproducente e innecesariamente invasivo en un paciente asintomático"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Seguimiento post-coronectomía — la migración radicular es esperada y se asocia a mayor seguridad para la posterior extracción si se requiere",
+          "trial": "Renton T et al. Br J Oral Maxillofac Surg (2005): migración coronal en el 26% de los casos de coronectomía a los 2 años; raíces migradas más alejadas del NDI; sin mayor riesgo de lesión nerviosa en comparación con la posición postoperatoria inmediata",
+          "pearl": "Migración radicular post-coronectomía = esperada (25–30%), en sentido CORONAL (alejándose del NDI), asintomático = seguimiento. La migración hace más SEGURA la futura extracción, no más peligrosa. Criterios de intervención: infección, extrusión hacia la cavidad oral, o preferencia del paciente por la extracción definitiva."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q12",
+        "stem": "¿Cuál es la complicación inmediata más frecuente que requiere manejo de urgencia tras la extracción del tercer molar mandibular?",
+        "options": {
+          "A": "Lesión del nervio dentario inferior",
+          "B": "Hemorragia primaria del alvéolo de extracción",
+          "C": "Alveolitis seca",
+          "D": "Trismo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La hemorragia primaria — sangrado del alvéolo que no cesa con la presión inicial — es la complicación inmediata (intraoperatoria e inmediata postoperatoria) más frecuente que requiere manejo activo. Surge típicamente de: (1) vasos seccionados en el tejido blando (arteria dentaria inferior, ramas de la arteria lingual), (2) vascularización ósea, o (3) trastornos hemorrágicos subyacentes. Manejo inicial: presión directa (gasa compresiva durante 15–20 minutos), sutura del alvéolo, hemostáticos tópicos (Surgicel, Gelfoam) y vasoconstrictores. La alveolitis seca, la lesión del NDI y el trismo ocurren de forma tardía (días a semanas) — no son complicaciones inmediatas.",
+          "wrong": {
+            "A": "La lesión del NDI es una complicación perioperatoria (ocurre durante la cirugía) pero no es una 'urgencia que requiere manejo' en el mismo sentido agudo — es una lesión nerviosa evaluada y tratada de forma conservadora en el período postoperatorio",
+            "C": "La alveolitis seca ocurre a los 2–5 días postextracción — es una complicación tardía, no inmediata",
+            "D": "El trismo puede ocurrir inmediatamente por tumefacción o lesión del pterigoideo medial por la aguja, pero no es la urgencia más frecuente — la hemorragia primaria es mucho más común como problema inmediato de manejo"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Complicaciones postoperatorias — protocolo de manejo de la hemorragia",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): hemorragia primaria en el 1–5% de las extracciones del tercer molar; manejada con medidas locales en >95% de los casos",
+          "pearl": "Complicaciones inmediatas tras extracción del 3.º molar: hemorragia primaria (la urgencia aguda más frecuente). Complicaciones tardías: alveolitis seca (días 2–5), infección (días 5–7), lesión del NDI/NL (aparente inmediatamente pero de manejo tardío). Conozca cuándo ocurre cada una."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q13",
+        "stem": "Un tercer molar mandibular está en posición Pell-Gregory Clase I-A con angulación mesioangular. El paciente está sano sin comorbilidades. El cirujano aplica un botador de Winter en la superficie mesial del tercer molar y lo rota en sentido distal (principio de rueda y eje). El diente se moviliza. ¿Cuál es el siguiente paso adecuado?",
+        "options": {
+          "A": "Aplicar un botador Cryer a la pared distal del alvéolo y palanca en sentido superior",
+          "B": "Realizar la extracción con fórceps usando fórceps para tercer molar inferior con movimiento de balanceo controlado",
+          "C": "Seccionar la corona de las raíces antes de continuar",
+          "D": "Realizar eliminación ósea adicional en sentido distal antes de la extracción"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para una inclusión mesioangular Clase I-A en la que el diente ya ha sido movilizado con el uso del botador, el siguiente paso es la extracción controlada con fórceps. Se aplican los fórceps para tercer molar inferior (de pico de loro o similar) y el diente se extrae con un movimiento de balanceo controlado bucal, lingual y rotacional siguiendo el camino de menor resistencia. Las inclusiones mesioangulares Clase I-A son la categoría más fácil y la mayoría pueden extraerse sin sección tras la elevación inicial. La sección se reserva para los casos en que el diente no puede extraerse de forma segura con fórceps.",
+          "wrong": {
+            "A": "El botador Cryer actúa enganchando el tabique entre las paredes del alvéolo — en un alvéolo de tercer molar donde la pared distal es hueso de la rama en lugar de un diente adyacente, la técnica de Cryer no se aplica a la extracción del tercer molar de la misma manera que para los dientes multirradiculares con tabique interradicular",
+            "C": "La sección es innecesaria para un diente I-A mesioangular movilizado — debe utilizarse solo cuando la extracción con fórceps fracasa o cuando no hay espacio suficiente",
+            "D": "La eliminación ósea adicional en sentido distal es innecesaria si el diente ya está móvil con posición Clase I-A — la eliminación ósea excesiva aumenta las complicaciones postoperatorias"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Técnica de extracción del tercer molar — abordaje escalonado: elevación → fórceps → sección",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): I-A mesioangular — más del 80% extraíble sin sección tras elevación adecuada; extracción con fórceps como segundo paso tras la elevación",
+          "pearl": "Técnica escalonada para terceros molares: (1) Botador (aflojar), (2) Extracción con fórceps, (3) Odontosección si es necesario. I-A mesioangular = el más fácil = más probable de extraerse en el paso 2 (fórceps) sin sección. III-C distoangular = el más difícil = casi siempre requiere sección."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q14",
+        "stem": "¿Qué condición sistémica aumenta más significativamente el riesgo de lesión del nervio dentario inferior durante la extracción del tercer molar mandibular al comprometer la recuperación nerviosa post-lesión, y requiere información preoperatoria específica?",
+        "options": {
+          "A": "Diabetes mellitus tipo 2",
+          "B": "Hipotiroidismo",
+          "C": "Anemia",
+          "D": "Hipertensión"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "La diabetes mellitus tipo 2 compromete la recuperación del nervio periférico a través de varios mecanismos: (1) La enfermedad microvascular reduce el flujo sanguíneo endoneural, comprometiendo el crecimiento axonal tras la lesión. (2) Los productos finales de la glicosilación avanzada (AGE) afectan la función de las células de Schwann y la síntesis de mielina. (3) El estrés oxidativo aumenta la susceptibilidad a la lesión nerviosa con umbrales de traumatismo más bajos. Los pacientes diabéticos con neuropatía periférica tienen un compromiso nervioso previo, lo que hace más probable la lesión del NDI ante un nivel dado de traumatismo quirúrgico y la recuperación significativamente más lenta e incompleta. Esto debe documentarse en el consentimiento preoperatorio y debe influir en la decisión sobre coronectomía vs extracción en casos límite.",
+          "wrong": {
+            "A": "Esta es la respuesta correcta",
+            "B": "El hipotiroidismo puede causar neuropatía periférica en casos graves pero no tiene la vasculopatía específica y el compromiso nervioso que produce la diabetes",
+            "C": "La anemia compromete la cicatrización de heridas en general, pero no aumenta específicamente el riesgo de lesión nerviosa durante la extracción",
+            "D": "La hipertensión afecta el riesgo hemorrágico (especialmente con medicamentos antihipertensivos) pero no compromete directamente los mecanismos de recuperación nerviosa"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Condiciones médicas que afectan a la cirugía del tercer molar — diabetes como modificador del riesgo de lesión nerviosa y la recuperación",
+          "trial": "Karadag E et al. The effect of diabetes mellitus on inferior alveolar nerve injury after surgical removal of impacted mandibular third molars. J Oral Maxillofac Surg (2013): los pacientes diabéticos mostraron una tasa 2,3 veces mayor de déficit persistente del NDI a los 12 meses en comparación con los controles no diabéticos (OR 2,3, IC 95% 1,2–4,4)",
+          "pearl": "Diabetes mellitus + extracción del tercer molar = mayor tasa de lesión del NDI Y recuperación más lenta/incompleta. Informe específicamente a los pacientes diabéticos sobre el mayor riesgo nervioso. Para diabéticos con terceros molares con contacto NID, el umbral de coronectomía debe ser más bajo que para los no diabéticos."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "C1-Q15",
+        "stem": "La clasificación de Sunderland de las lesiones del nervio periférico tiene 5 grados. ¿Qué grado describe la sección completa (neurotmesis) sin posibilidad de recuperación espontánea?",
+        "options": {
+          "A": "Sunderland Grado I",
+          "B": "Sunderland Grado III",
+          "C": "Sunderland Grado V",
+          "D": "Sunderland Grado II"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El Grado V de Sunderland corresponde a la neurotmesis en la clasificación de Seddon — sección completa del nervio, incluidos todos los axones, endoneuro, perineuro y epineuro. No hay continuidad del nervio a través del sitio de lesión y no es posible ninguna recuperación espontánea. La reparación quirúrgica (neurorrafia o injerto nervioso) es necesaria para cualquier posibilidad de recuperación. Grado I de Sunderland = neuropraxia (bloqueo de conducción, recuperación completa). Grado II = axonotmesis con endoneuro intacto (regeneración axonal a lo largo de los tubos intactos posible, habitualmente recuperación completa). Grados III y IV = alteración progresiva del endoneuro y perineuro (recuperación parcial posible). Grado V = sección completa (sin recuperación sin reparación).",
+          "wrong": {
+            "A": "Sunderland Grado I = neuropraxia — bloqueo temporal de la conducción con estructura nerviosa completamente intacta; recuperación espontánea completa esperada",
+            "B": "Sunderland Grado III = axonotmesis con endoneuro alterado pero perineuro intacto — recuperación parcial posible dependiendo de la extensión",
+            "D": "Sunderland Grado II = axonotmesis con tubos endoneurales intactos — regeneración axonal a lo largo de los tubos intactos; buena recuperación esperada"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Clasificación de lesiones del nervio periférico para la toma de decisiones quirúrgicas",
+          "trial": "Sunderland S. A classification of peripheral nerve injuries producing loss of function. Brain (1951): sistema de clasificación definitivo; Grado V = sección completa sin recuperación espontánea; reparación quirúrgica requerida",
+          "pearl": "Clasificación de Sunderland: I=Neuropraxia (recuperación completa). II=Axonotmesis, endoneuro intacto (buena recuperación). III=Endoneuro alterado (recuperación parcial). IV=Perineuro alterado (mala recuperación). V=Neurotmesis=sección completa (sin recuperación sin cirugía). Conozca los grados I, II y V para los exámenes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q16",
+        "stem": "Una paciente de 20 años se presenta con pericoronitis recurrente alrededor del tercer molar inferior derecho — su tercer episodio en 18 meses. Entre episodios está libre de síntomas y la OPG muestra una inclusión mesioangular Clase I-A de Pell-Gregory sin signos de proximidad nerviosa de Rood-Shehab. ¿Cuál es el manejo más adecuado?",
+        "options": {
+          "A": "Operculectomía (extirpación del tejido del opérculo) como tratamiento definitivo",
+          "B": "Extracción del tercer molar mandibular",
+          "C": "Antibióticos e irrigación en cada episodio; más seguimiento",
+          "D": "Extraer tanto el tercer molar inferior derecho como el superior derecho"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La pericoronitis recurrente — definida como dos o más episodios sintomáticos en 12 meses — es una indicación basada en la evidencia de la NICE NG35 y la EACMFS para la extracción del tercer molar mandibular. Esta paciente ha tenido tres episodios en 18 meses. Los factores técnicos (Clase I-A mesioangular, sin signos de proximidad nerviosa) hacen que la extracción sea sencilla con bajo riesgo de complicaciones. El tercer molar superior se extrae junto con el inferior cuando no tiene contacto oclusal funcional y ocluye sobre el opérculo inflamado del tercer molar inferior — en este caso, si se extrae el superior depende de si cumple criterios de indicación independientes.",
+          "wrong": {
+            "A": "La operculectomía (extirpación del colgajo gingival suprayacente) no es un tratamiento definitivo para la pericoronitis — la encía volverá a crecer sobre la corona parcialmente erupcionada y la pericoronitis recurrirá; la operculectomía es adecuada solo para dientes con erupción leve donde se predice la erupción completa",
+            "C": "El manejo de cada episodio con antibióticos sin extraer el diente no está basado en la evidencia para la pericoronitis recurrente — retrasa el tratamiento definitivo y expone al paciente a ciclos repetidos de antibióticos",
+            "D": "La extracción del tercer molar superior se considera cuando no tiene función y ocluye sobre el opérculo — pero esto es secundario; el tratamiento principal es la extracción del tercer molar inferior; el superior no se extrae automáticamente sin indicación independiente"
+          },
+          "guideline": "NICE Guideline NG35 (2024): Pericoronitis recurrente (≥2 episodios en 12 meses) = indicación específica para la extracción del tercer molar",
+          "trial": "Song F et al. Cochrane Database Syst Rev (2000): la pericoronitis recurrente como la indicación más sólida para la extracción del tercer molar — el tratamiento quirúrgico es superior al manejo médico repetido",
+          "pearl": "Pericoronitis recurrente ≥2 episodios/12 meses = indicación respaldada por NICE para la extracción del tercer molar. Esta es una de las indicaciones más claras en los exámenes. Conozca la lista completa de indicaciones: pericoronitis, caries, enfermedad periodontal, patología, resorción radicular, línea de fractura, preparación para cirugía mandibular."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "C1-Q17",
+        "stem": "Durante la extracción de un tercer molar mandibular, el ápice de la raíz del diente se fractura y en la comprobación radiológica parece estar en estrecha proximidad al canal dentario inferior. El fragmento radicular mide 3 mm. El paciente no tiene síntomas y el fragmento parece no infectado. ¿Cuál es el manejo más adecuado?",
+        "options": {
+          "A": "Extraer inmediatamente el fragmento con un excavador curvo pequeño o instrumento de Wardell",
+          "B": "Dejar el fragmento in situ; seguimiento con radiografías anuales — el riesgo de extracción supera al beneficio para pequeños fragmentos apicales no infectados",
+          "C": "Derivar urgentemente para extracción guiada por TC bajo anestesia general",
+          "D": "Prescribir un ciclo de amoxicilina de 7 días para prevenir la infección del fragmento retenido"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para pequeños fragmentos radiculares (≤3–4 mm) no infectados, no móviles, en estrecha proximidad al canal del NDI, la evidencia respalda dejar el fragmento in situ con seguimiento en lugar de intentar una extracción forzada. Los intentos de extracción de fragmentos apicales adyacentes al canal del NDI conllevan un riesgo significativo de lesión del NDI mayor que el riesgo de dejar el fragmento. La mayoría de los pequeños fragmentos apicales no causan complicaciones a largo plazo — sufren resorción o permanecen inactivos. El paciente debe ser informado, el fragmento documentado en las notas operatorias y el seguimiento radiológico anual organizado.",
+          "wrong": {
+            "A": "La instrumentación ciega adyacente al canal del NDI para recuperar un pequeño fragmento apical arriesga la lesión del NDI — el riesgo de daño nervioso iatrogénico supera al riesgo del propio fragmento si es pequeño y no está infectado",
+            "C": "La extracción guiada por TC bajo AG es una escalada innecesariamente invasiva para un fragmento asintomático de 3 mm — este abordaje se reserva para fragmentos grandes o casos sintomáticos",
+            "D": "Los antibióticos profilácticos para los fragmentos radiculares retenidos no están basados en la evidencia y no están recomendados — los antibióticos no previenen la secuestración de un fragmento asintomático no infectado"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Fragmentos radiculares retenidos — algoritmo de manejo; pequeños fragmentos no infectados adyacentes al NDI = retención con seguimiento recomendada",
+          "trial": "Liedholm R et al. Mandibular third molar root fragments left in situ: a study of oral health outcomes. J Oral Maxillofac Surg (1999): fragmentos radiculares pequeños retenidos (<4 mm) — el 92% no causó complicaciones a largo plazo; la lesión del NDI por intento de extracción ocurrió en el 11% de los casos donde se intentó la extracción cerca del canal",
+          "pearl": "Pequeño (<4 mm) fragmento apical radicular no infectado cerca del NDI = dejar in situ + seguimiento. Riesgo de extracción > riesgo de retención. Documentar en las notas. OPG anual. Extraer solo si: sintomático, infectado, formación quística, o el paciente insiste tras consentimiento informado sobre el riesgo de lesión nerviosa."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q18",
+        "stem": "¿Cuál es el mecanismo principal por el que el tabaquismo aumenta el riesgo de osteítis alveolar tras la extracción del tercer molar mandibular?",
+        "options": {
+          "A": "La nicotina destruye directamente el coágulo sanguíneo mediante actividad proteolítica",
+          "B": "El efecto de succión del tabaquismo desaloja el coágulo, y la vasoconstricción inducida por la nicotina compromete la vascularización del coágulo",
+          "C": "El monóxido de carbono del humo del cigarrillo induce coagulopatía",
+          "D": "El tabaquismo causa osteonecrosis del hueso alveolar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El tabaquismo aumenta el riesgo de osteítis alveolar a través de dos mecanismos principales: (1) La presión negativa (succión) generada durante el acto de fumar puede desalojar mecánicamente el coágulo sanguíneo del alvéolo — a los pacientes se les aconseja no fumar durante 48 horas tras la extracción específicamente para evitar esto. (2) La nicotina causa vasoconstricción de los vasos mucosos del alvéolo, comprometiendo la vascularización inicial del coágulo sanguíneo necesaria para la retención estable del coágulo y la cicatrización precoz. Además, los componentes del humo del cigarrillo pueden aumentar la actividad fibrinolítica salival.",
+          "wrong": {
+            "A": "La nicotina no es un agente proteolítico directo contra los componentes del coágulo; la lisis del coágulo está mediada a través de vías fibrinolíticas, no por proteólisis directa de la nicotina",
+            "C": "El monóxido de carbono se une a la hemoglobina y reduce la liberación de oxígeno, pero no causa una coagulopatía suficiente para explicar las tasas dramáticamente aumentadas de alveolitis seca en fumadores",
+            "D": "La osteonecrosis relacionada con el tabaquismo (si ocurre) es una entidad diferente y mucho más rara — no explica el mecanismo del aumento agudo del riesgo de alveolitis seca"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Tabaquismo y alveolitis seca — explicación del mecanismo dual para el mayor riesgo",
+          "trial": "Larsen PE. Oral Surg Oral Med Oral Pathol (1992): tabaquismo OR 4,2 para alveolitis seca; se identifican la succión mecánica y la vasoconstricción por nicotina como mecanismos principales",
+          "pearl": "Tabaquismo → alveolitis seca mediante: (1) Desalojo mecánico del coágulo por succión, (2) Vasoconstricción por nicotina que compromete la vascularización del coágulo. Aconsejar: no fumar 48 horas antes y después de la extracción. Este es el factor de riesgo modificable más importante para la alveolitis seca."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q19",
+        "stem": "Un tercer molar mandibular incluido desarrolla un quiste dentígero de 2,5 cm en la OPG. El quiste es asintomático y se descubrió en una radiografía de rutina en un hombre de 28 años. ¿Cuál es el manejo más adecuado?",
+        "options": {
+          "A": "Solo observación — los quistes asintomáticos no requieren intervención",
+          "B": "Extracción del tercer molar y enucleación del quiste",
+          "C": "Antibióticos y radiografía de control en 3 meses",
+          "D": "Marsupialización sola, dejando el diente in situ"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Un quiste dentígero (folicular) asociado a un tercer molar mandibular incluido es una indicación específica basada en la evidencia para la extracción del diente y la enucleación del quiste. Los quistes dentígeros tienen potencial de crecimiento, riesgo de expansión y fractura patológica, y raro potencial de transformación maligna (ameloblastoma, carcinoma de células escamosas en el revestimiento quístico). Un quiste de 2,5 cm es significativo y no debe manejarse con observación. Para un paciente de 28 años con un quiste de este tamaño, la enucleación completa bajo anestesia general es adecuada, con examen histopatológico del revestimiento quístico.",
+          "wrong": {
+            "A": "Asintomático no significa inocuo para los quistes — los quistes dentígeros crecen progresivamente y pueden causar expansión mandibular, perforación cortical o (raramente) transformación maligna; la observación sola es inadecuada para un quiste de 2,5 cm",
+            "C": "Los antibióticos no tienen efecto sobre un quiste dentígero — los quistes no son lesiones infecciosas; la prescripción de antibióticos sin manejo quirúrgico es inadecuada",
+            "D": "La marsupialización sola (creación de una ventana para descomprimir el quiste) puede considerarse para quistes muy grandes donde la enucleación arriesga la lesión de estructuras importantes — para un quiste de 2,5 cm en un adulto joven, esta no es la primera opción; la enucleación + extracción es definitiva"
+          },
+          "guideline": "EACMFS Dentoalveolar Surgery Guidelines (2023): Quiste dentígero como indicación específica para extracción del tercer molar + enucleación",
+          "trial": "Curran AE et al. Dentigerous cysts associated with lower third molars. Oral Surg Oral Med Oral Pathol (2002): quiste dentígero = indicación para extracción + enucleación con histopatología; el revestimiento quístico contiene ameloblastoma en el 1–2% de los casos",
+          "pearl": "Quiste dentígero ≥2 cm = extracción + enucleación + histopatología (obligatoria — el 1–2% contiene ameloblastoma). Todo el tejido folicular del tercer molar debe enviarse para histopatología. Esta es una indicación específica para la extracción del tercer molar según NICE NG35 y EACMFS."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "C1-Q20",
+        "stem": "El trismo (apertura bucal limitada) es una complicación frecuente tras la cirugía del tercer molar mandibular. ¿Qué músculo se ve afectado con mayor frecuencia por la inflamación postquirúrgica que causa el trismo postoperatorio precoz?",
+        "options": {
+          "A": "Temporal",
+          "B": "Pterigoideo medial",
+          "C": "Masetero",
+          "D": "Pterigoideo lateral"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El trismo post-extracción del tercer molar está causado más frecuentemente por espasmo e inflamación del músculo pterigoideo medial. El pterigoideo medial se inserta en la superficie medial de la rama mandibular — precisamente la zona donde se realizan el colgajo quirúrgico, la ostectomía y el uso de botadores para la extracción del tercer molar mandibular. La inyección del bloqueo del nervio dentario inferior también penetra en el espacio pterigomandibular inmediatamente adyacente al pterigoideo medial, y el hematoma por la colocación de la aguja puede contribuir. Además, el espacio pericoronario alrededor de los terceros molares incluidos se comunica directamente con el espacio pterigomandibular donde se encuentra el pterigoideo medial.",
+          "wrong": {
+            "A": "El músculo temporal se inserta en la apófisis coronoides anterosuperior — no es el sitio principal de actividad quirúrgica para la extracción del tercer molar; puede verse afectado por una infección pericoronaria grave que se extiende al espacio infratemporal, pero no es la causa principal del trismo postoperatorio",
+            "C": "El masetero se inserta en la rama lateral y el cigoma — está en proximidad pero el campo quirúrgico es principalmente medial; la afectación del masetero ocurre con cirugía relacionada con la cortical lateral o infección grave",
+            "D": "El pterigoideo lateral se inserta en el cuello condilar y el disco articular — causa trismo cuando hay afectación de la articulación temporomandibular, no principalmente por la extracción del tercer molar"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Trismo postoperatorio — anatomía y manejo tras cirugía del tercer molar",
+          "trial": "Hupp JR et al. Contemporary Oral and Maxillofacial Surgery (2019): pterigoideo medial identificado como músculo principal involucrado en el trismo post-tercer molar; calor local y ejercicios de apertura mandibular pasiva efectivos en el 95% en 2 semanas",
+          "pearl": "Trismo post-tercer molar = espasmo del pterigoideo medial (el campo quirúrgico está en el espacio pterigomandibular). Manejo: calor local, AINEs, ejercicios de apertura mandibular pasiva (Therabite o depresor lingual). Se resuelve en 2–4 semanas. Trismo persistente (>6 semanas) = investigar hematoma, infección o patología de la ATM."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

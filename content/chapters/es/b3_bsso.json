@@ -1,0 +1,682 @@
+{
+  "id": "B3",
+  "title": "Osteotomía Sagital de Rama Bilateral (BSSO)",
+  "subtitle": "Bloque B — Cirugía Ortognática y Esquelética",
+  "block": "B",
+  "block_name": "Cirugía Ortognática y Esquelética",
+  "level": "R3-5",
+  "reading_time_min": 40,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · AAOMS Parameters of Care 2023 · BAOMS Clinical Guidelines 2022",
+  "textbook_refs": [
+    "Proffit WR, White RP, Sarver DM. Contemporary Treatment of Dentofacial Deformity (2003)",
+    "Trauner R, Obwegeser H. The surgical correction of mandibular prognathism and retrognenia. Oral Surg Oral Med Oral Pathol (1957)",
+    "Dal Pont G. Retromolar osteotomy for the correction of prognathism. J Oral Surg (1961)",
+    "Hunsuck EE. A modified intraoral sagittal splitting technique for correction of mandibular prognathism. J Oral Surg (1968)",
+    "Epker BN. Modifications in the sagittal osteotomy of the mandible. J Oral Maxillofac Surg (1977)",
+    "Obwegeser HL. Surgical correction of small or retrodisplaced maxillae. Plast Reconstr Surg (1969)"
+  ],
+  "learning_objectives": [
+    "Describir las bases anatómicas de la BSSO y el trayecto del nervio alveolar inferior en la división sagital",
+    "Explicar la modificación de Obwegeser-Dal Pont y sus ventajas respecto a la técnica original",
+    "Identificar los factores de riesgo de mala división y describir el manejo intraoperatorio",
+    "Comparar los tornillos de posición y las miniplacas en términos de control de la posición condilar",
+    "Manejar el torque y el descenso condilar y sus efectos sobre el resultado oclusal",
+    "Asesorar adecuadamente a los pacientes sobre las tasas de lesión del nervio alveolar inferior y el pronóstico de recuperación"
+  ],
+  "sections": [
+    {
+      "id": "B3-S1",
+      "title": "Desarrollo Histórico y Principios Anatómicos",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La osteotomía sagital de la rama mandibular fue descrita por primera vez por **Trauner y Obwegeser** en 1957, representando un avance fundamental en la cirugía ortognática. La técnica original situaba el corte medial en la superficie lingual de la rama y el corte lateral a través del borde oblicuo externo, creando una fractura sagital que permitía reposicionar el segmento distal dentado. **Dal Pont** modificó la técnica en 1961 extendiendo la osteotomía lateral anteriormente a lo largo del borde oblicuo externo hasta la región del primer molar, aumentando significativamente la superficie de contacto óseo y mejorando la estabilidad de la fijación. La **modificación de Hunsuck** (1968) acortó el corte medial justo más allá de la língula, reduciendo el riesgo de lesión del paquete neurovascular alveolar inferior. **Epker** (1977) refinó aún más la técnica añadiendo un corte de parada vertical en la cortical bucal posterior al primer molar, creando la variante contemporánea Obwegeser-Dal Pont-Epker utilizada en la actualidad.\n\nLa base anatómica de la BSSO se apoya en la estructura única de la rama mandibular: un núcleo medular de hueso esponjoso entre dos láminas corticales que permite una fractura sagital controlada cuando se ejecuta correctamente. El segmento **lingual** (proximal) conserva el cóndilo mandibular y las estructuras articulares; el segmento **distal** (portador de los dientes) se reposiciona para corregir la relación intermaxilar. El nervio alveolar inferior entra en el canal mandibular a través del foramen mandibular justo por debajo de la língula y discurre por el hueso esponjoso de la rama y el cuerpo, saliendo finalmente como nervio mentoniano por el foramen mentoniano (entre premolares, habitualmente bajo el ápice del segundo premolar). La clave de una BSSO segura es mantener el nervio dentro del segmento distal durante toda la división, protegiéndolo del osteotomo al atravesar el espacio medular."
+        },
+        {
+          "type": "table",
+          "title": "Evolución de la Técnica BSSO: Modificaciones Principales",
+          "headers": ["Autor", "Año", "Modificación", "Ventaja"],
+          "rows": [
+            ["Trauner & Obwegeser", "1957", "División sagital original, cortes lingual y lateral", "Primera técnica intraoral; evita incisión facial"],
+            ["Dal Pont", "1961", "Extensión del corte lateral anterior al borde oblicuo externo (hasta 1.er molar)", "Mayor contacto óseo; mejor estabilidad; mayor rango de movimiento"],
+            ["Hunsuck", "1968", "Acortamiento del corte medial — se detiene justo tras la língula", "Reduce el riesgo de lesión del NIA; preserva el periostio medial"],
+            ["Epker", "1977", "Añade corte de parada vertical bucal posterior al 1.er molar", "Controla el extremo de la división; reduce malas divisiones; técnica más utilizada hoy"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Modificación de Dal Pont",
+          "content": "La modificación de Dal Pont (1961) extiende el corte cortical lateral a lo largo del borde oblicuo externo hasta la región del primer molar. Esto aumenta la superficie de contacto óseo entre los segmentos proximal y distal aproximadamente 3 veces respecto a la técnica original de Obwegeser, mejorando la estabilidad postoperatoria y permitiendo mayor libertad de movimiento."
+        }
+      ]
+    },
+    {
+      "id": "B3-S2",
+      "title": "Anatomía del Nervio Alveolar Inferior y su Protección",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El **nervio alveolar inferior (NIA)** es la estructura crítica en riesgo en la BSSO. Entra en el canal mandibular a través del foramen mandibular, situado en la superficie medial de la rama aproximadamente a la altura del plano oclusal mandibular, justo superior y anterior a la **língula** (la espina ósea que cubre el foramen). El nervio discurre anteriormente por el hueso esponjoso del cuerpo mandibular, típicamente 5–10 mm por debajo de los ápices de los dientes posteriores, saliendo finalmente como nervio mentoniano por el foramen mentoniano (entre premolares, habitualmente bajo el ápice del segundo premolar).\n\nDurante la BSSO, el corte medial (lingual) se realiza superior a la língula y al foramen mandibular para garantizar que el NIA entre en el segmento distal con los dientes. Tras la división, el nervio debe yacer sobre el periostio del segmento distal en el canal mandibular. La exposición del nervio durante la división es frecuente (hasta el 60–80% de los casos intraoperatorios) y no indica necesariamente lesión — el objetivo es un manejo delicado evitando estiramiento, compresión y lesión térmica.\n\nLos **déficits neurosensitivos** tras la BSSO son la complicación clínicamente más significativa. La **hipoestesia temporal** (sensación alterada en el labio inferior y el mentón en la distribución del nervio mentoniano) ocurre en prácticamente todos los pacientes postoperatoriamente (75–100%) debido al estiramiento y la manipulación. Las tasas de **alteración neurosensitiva permanente** (definida como pruebas objetivas anómalas a los 12–24 meses) oscilan entre el **5 y el 35%** según la técnica, la dirección y magnitud del movimiento y el rigor del seguimiento. La parestesia permanente referida por los pacientes se comunica en el 5–15% de los casos en series contemporáneas. Los factores de riesgo incluyen avances grandes (>10 mm), reposicionamiento inferior, posición alta del canal en TC preoperatoria y exposición intraoperatoria del nervio con compresión."
+        },
+        {
+          "type": "table",
+          "title": "Lesión del NIA Tras BSSO: Factores de Riesgo y Tasas",
+          "headers": ["Factor", "Bajo Riesgo", "Alto Riesgo", "Mecanismo"],
+          "rows": [
+            ["Tipo de movimiento", "Retroceso <6 mm", "Avance >10 mm / reposicionamiento inferior", "Estiramiento del nervio en el avance; compresión en el retroceso"],
+            ["Posición del canal", "Bien por debajo de los ápices", "Canal alto (cerca de los ápices)", "Menor amortiguación esponjosa; lesión directa por osteotomía"],
+            ["Tipo de división", "División en tallo verde limpia", "Mala división a través de la región del canal", "Laceración o compresión directa del nervio"],
+            ["Método de fijación", "Miniplacas (rígidas)", "Torque excesivo de tornillo de posición", "Compresión del nervio en el canal por tornillos apretados en exceso"],
+            ["Experiencia del cirujano", ">50 casos/año", "Cirujanos de bajo volumen", "Precisión técnica; reconocimiento de la exposición nerviosa"],
+            ["Tasa de déficit temporal", "—", "75–100% de todos los pacientes", "Estiramiento/neuropraxia; la mayoría se resuelve a los 3–6 meses"],
+            ["Tasa de déficit permanente", "5–10% (alteración leve)", "Hasta 35% (pruebas objetivas)", "Axonotmesis; recuperación en 12–18 meses"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Posición del Corte Medial",
+          "content": "Situar el corte medial (lingual) demasiado inferior — por debajo del nivel de la língula y el foramen mandibular — arriesga seccionar el canal mandibular y transecar directamente el NIA. El corte medial debe realizarse superior a la língula (por encima del foramen) para garantizar que el nervio entre en el segmento distal. Confirmar el nivel correcto con la elevación periostal y la visualización directa antes de la osteotomía."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Mapeo Nervioso Preoperatorio",
+          "content": "La CBCT o TC preoperatoria permite identificar la trayectoria del canal mandibular, su proximidad a los ápices dentarios y la posición del canal relativa a la línea de osteotomía planificada. Una posición alta del canal (canal a menos de 2 mm de la osteotomía propuesta) aumenta el riesgo de lesión del NIA y debe comentarse con el paciente durante el consentimiento informado, documentando el riesgo en la historia clínica."
+        }
+      ]
+    },
+    {
+      "id": "B3-S3",
+      "title": "Técnica Quirúrgica: Paso a Paso",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La BSSO se realiza bajo anestesia general mediante intubación nasotraqueal, que permite la evaluación intraoperatoria de la oclusión y el asentamiento de la férula. El paciente se posiciona en decúbito supino con ligera elevación de la cabeza (Trendelenburg inverso 10–15°) para reducir la congestión venosa.\n\n**Incisión y exposición:** Se realiza una incisión mucoperióstica a lo largo del borde anterior de la rama, desde el borde oblicuo externo (aproximadamente al nivel del primer o segundo molar) superiormente hacia la región retromolar y anteriormente 1–2 cm a lo largo del vestíbulo bucal. La disección subperiótica expone la superficie medial de la rama (por encima y alrededor de la língula), el borde posterior de la rama y la superficie lateral a lo largo del borde oblicuo externo hasta la región del primer molar.\n\n**Corte medial (lingual):** Con sierra reciprocante o fresa, se realiza un corte horizontal en la superficie medial de la rama, comenzando justo por encima del nivel de la língula y extendiéndose hacia atrás. El corte debe limitarse a la cortical medial (aproximadamente 2–3 mm de profundidad), sin penetrar prematuramente en el espacio medular. Este corte debe terminar aproximadamente en el punto medio de la rama en sentido anteroposterior.\n\n**Corte lateral (bucal):** El borde oblicuo externo se corta verticalmente con sierra reciprocante desde el vestíbulo bucal al nivel del primer molar hacia atrás en dirección al ángulo. Este corte penetra todo el grosor de la cortical bucal.\n\n**Corte de conexión:** Una osteotomía vertical conecta los cortes medial y lateral en la unión de la rama anterior/borde oblicuo externo, completando el diseño tridimensional de la osteotomía.\n\n**División:** Se introducen osteotomos finos secuenciales — comenzando con un instrumento de 4 mm y progresando hasta un separador de 12–15 mm — en la osteotomía y se giran para propagar suavemente la fractura a través del hueso esponjoso. La punta del osteotomo sigue la capa esponjosa, no la cortical; la visión directa es importante para verificar que el nervio permanece en el segmento distal. La división avanza simétricamente con presión cuidadosa, evitando el apalancamiento brusco que produce malas divisiones.\n\n**Reposicionamiento y fijación:** El segmento distal se mueve a la posición planificada usando la férula quirúrgica como guía y los cóndilos se asientan. Se aplica fijación rígida con **tornillos bicorticales de posición** (2 o 3 por lado, en patrón en L o L invertida) o **miniplacas** (1 o 2 por lado). La verificación oclusal final y la retirada de la férula quirúrgica completan el procedimiento."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Secuencia de Osteotomos",
+          "content": "La división debe comenzar con osteotomos pequeños (4 mm) para iniciar el plano de fractura, progresando a separadores de mayor tamaño. El osteotomo siempre debe dirigirse a lo largo del hueso esponjoso medular, nunca forzado apicalmente a través de hueso cortical denso. Palpar la cortical lingual mientras la división avanza confirma que la fractura progresa en el plano sagital correcto dentro del espacio esponjoso."
+        }
+      ]
+    },
+    {
+      "id": "B3-S4",
+      "title": "Patrones de División y Malas Divisiones",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La división ideal de la BSSO produce **la fractura de la cortical lingual como una pieza única con el segmento proximal portador del cóndilo**, mientras que **la cortical bucal y el segmento portador de dientes forman la pieza distal**. En este patrón óptimo, una generosa capa de hueso esponjoso permanece en ambos segmentos, maximizando el área de contacto para la cicatrización y la fijación.\n\nUna **mala división** (fractura desfavorable) ocurre cuando la osteotomía se propaga fuera del plano sagital previsto, produciendo líneas de fractura inadvertidas que comprometen el contacto óseo, la posición condilar o la integridad del nervio. La incidencia de malas divisiones oscila entre el 0,5 y el 3,5% en grandes series. Los patrones descritos incluyen:\n\n- **Fractura de la lámina lingual (más frecuente):** La cortical lingual se fractura de forma separada, reduciendo el área de contacto óseo en el segmento proximal. Si el fragmento proximal incluye una gran porción de hueso lingual, puede necesitar fijación independiente.\n- **Fractura de la lámina bucal:** Menos frecuente; ocurre cuando el borde oblicuo externo se divide hacia bucal, especialmente con hueso cortical denso o fuerza excesiva.\n- **Fractura condilar:** Poco frecuente pero la más grave — si la fractura se extiende al cuello condilar, el caso debe abandonarse o convertirse, aplicando fijación rígida al fragmento condilar. Se requiere traqueotomía y vigilancia estrecha.\n- **Fractura en tallo verde:** División incompleta con inserción periostal conservada; habitualmente manejable completando la osteotomía.\n\n**Los factores de riesgo de mala división** incluyen pacientes con hueso cortical denso (varones, pacientes de mayor edad, pacientes en tratamiento con bisfosfonatos), mandíbulas estrechas, cirugía mandibular previa y anatomía medular escasamente visualizada. **La CBCT preoperatoria** identifica la anatomía de alto riesgo (cortical gruesa, espacio medular ausente o estrecho) y permite planificar modificaciones técnicas (corte medial más corto, menor presión del osteotomo).\n\n**Manejo intraoperatorio:** Las malas divisiones menores se manejan completando la osteotomía suavemente y aplicando tornillos o placas de fijación adicionales para estabilizar todos los fragmentos. Si se produce una fractura condilar, el caso no debe continuar con el movimiento planificado; en su lugar, los fragmentos se fijan en su posición actual, se aplica un período de FMM o fijación esquelética y la cirugía ortognática se pospone 3–6 meses."
+        },
+        {
+          "type": "table",
+          "title": "Patrones de Mala División: Clasificación y Manejo",
+          "headers": ["Patrón", "Incidencia", "Causa", "Manejo"],
+          "rows": [
+            ["Fractura de lámina lingual", "Más frecuente (1–2%)", "Hueso denso, fuerza excesiva del osteotomo", "Completar la división; añadir tornillo de fijación suplementario al fragmento lingual"],
+            ["Fractura de lámina bucal", "0,3–0,5%", "Presión lateral excesiva; borde oblicuo externo denso", "Fijar el fragmento bucal; puede reducir el área de contacto"],
+            ["Fractura condilar", "0,1–0,3%", "Fractura que se propaga al cuello condilar", "Abandonar el movimiento; fijar todos los fragmentos; diferir la cirugía ortognática 3–6 meses"],
+            ["Fractura en tallo verde", "1–3%", "Liberación periostal incompleta; hueso blando", "Completar la osteotomía; habitualmente sin fijación adicional"],
+            ["Lesión de la raíz dentaria", "0,5–1%", "Osteotomía lateral demasiado anterior; ápices altos", "Evaluación endodóntica; seguimiento; raramente sintomático"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Forzar el Osteotomo",
+          "content": "Aplicar movimiento de palanca forzado para completar una división resistente es la causa más frecuente de malas divisiones. Si la fractura no se propaga libremente con suave presión tripoidal del osteotomo, verificar: (1) los tres cortes de osteotomía están completos y conectados, (2) el corte lateral es lo suficientemente profundo, (3) el hueso cortical lingual denso puede requerir trabajo adicional con fresa. No aplicar nunca un torque brusco — esto propaga líneas de fractura no controladas hacia el cuello condilar."
+        }
+      ]
+    },
+    {
+      "id": "B3-S5",
+      "title": "Fijación: Tornillos de Posición Frente a Miniplacas",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "En la BSSO contemporánea se utilizan dos métodos principales de fijación: **tornillos bicorticales de posición** y **miniplacas monocorticales**. Cada uno tiene ventajas e inconvenientes específicos en cuanto a rigidez, control de la posición condilar, dificultad técnica y reversibilidad.\n\nLos **tornillos bicorticales de posición** (habitualmente 2,0 mm de diámetro, 12–18 mm de longitud; generalmente 3 por lado en un patrón en L invertida) anclan ambas corticales y proporcionan alta estabilidad con un perfil de material mínimo. Los tornillos pueden colocarse transbucalmente mediante un sistema de trocar. Sin embargo, la colocación del tornillo a través de ambas corticales conlleva riesgo de compresión del NIA dentro del canal si se coloca demasiado inferiormente o se aprieta en exceso. La fijación con tornillos proporciona **compresión pasiva** de la interfaz ósea, excelentes tasas de consolidación y menor recidiva que la fijación solo con placas en la mayoría de los estudios. La principal desventaja es la incapacidad de ajustar la posición condilar tras la fijación sin retirar y reemplazar los tornillos — el descenso condilar debe corregirse antes de la inserción del tornillo.\n\nLas **miniplacas monocorticales** (habitualmente sistema 2,0 mm, placa en L o placa de refuerzo) anclan solo la cortical externa y se colocan con tornillos monocorticales más cortos. Las placas son técnicamente más fáciles de aplicar y permiten el ajuste de la posición condilar durante la fijación. Presentan tasas de recidiva ligeramente superiores en algunos estudios debido a su menor rigidez, aunque los metaanálisis no muestran diferencias estadísticamente significativas en estabilidad esquelética para los retrocesos de Clase III. Las placas evitan el riesgo de compresión del NIA por tornillos bicorticales. Se prefieren en los avances de Clase II donde el control de la posición condilar durante la fijación es más crítico.\n\nUna **revisión sistemática Cochrane (Joss y Thüer 2008, actualizada)** no encontró superioridad clara de los tornillos frente a las placas en términos de estabilidad esquelética o tasas de complicaciones para la corrección de Clase III. La práctica actual en muchos centros utiliza **3 tornillos bicorticales para el retroceso** y **miniplacas para el avance** (Clase II) para optimizar el asentamiento condilar durante el movimiento anterior, más exigente."
+        },
+        {
+          "type": "table",
+          "title": "Fijación en BSSO: Tornillos de Posición Frente a Miniplacas",
+          "headers": ["Parámetro", "Tornillos Bicorticales", "Miniplacas Monocorticales"],
+          "rows": [
+            ["Rigidez", "Mayor (anclaje bicortical)", "Moderada (solo monocortical)"],
+            ["Riesgo de compresión del NIA", "Sí — si se colocan inferiormente o se aprietan en exceso", "No — monocortical, alejada del canal"],
+            ["Posición condilar", "Fijada en el momento de inserción del tornillo — sin ajuste posterior", "Ajustable durante el doblado de la placa y la fijación"],
+            ["Estabilidad esquelética", "Equivalente o ligeramente mejor en el retroceso", "Equivalente en la mayoría de los metaanálisis"],
+            ["Indicación preferida", "Retroceso de Clase III (≤8 mm)", "Avance de Clase II; cualquier caso con problemas de posición condilar"],
+            ["Retirada del material", "Raramente necesaria; perfil bajo", "Puede requerir retirada si es prominente o palpable"],
+            ["Dificultad técnica", "Requiere asentamiento condilar preciso antes de la fijación", "Más tolerante con la posición condilar durante la aplicación"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Descenso Condilar",
+          "content": "El descenso condilar ocurre cuando el cóndilo cae inferiormente dentro de la fosa glenoidea durante la fijación, típicamente por fatiga muscular o gravedad. Si los tornillos se insertan con el cóndilo en posición descendida, el paciente presentará postoperatoriamente una mordida abierta posterior en el lado contralateral (contacto prematuro en el lado ipsilateral). Asentar manualmente el cóndilo en posición superior dentro de la fosa justo antes de apretar cada tornillo previene esta complicación."
+        }
+      ]
+    },
+    {
+      "id": "B3-S6",
+      "title": "BSSO para la Corrección de Clase II y Clase III",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La BSSO puede utilizarse tanto para correcciones de **Clase II** (retrognatia mandibular, avance) como de **Clase III** (prognatismo mandibular, retroceso), ya sea como procedimiento de un solo maxilar o combinada con osteotomía de Le Fort I en cirugía bimaxilar.\n\n**Avance de Clase II (avance de BSSO):** El avance mandibular es la indicación más frecuente de BSSO en adultos, típicamente para maloclusión esquelética de Clase II con SNB <76° y resalte >6 mm. La estabilidad **depende de la magnitud del movimiento**: los avances ≤5 mm son estables (recidiva <5%), mientras que los avances >8 mm presentan tasas de recidiva esquelética del 10–20% al año. Los avances >10 mm conllevan riesgo significativo de recidiva y se manejan mejor con **distracción osteogénica** (DO). La cirugía bimaxilar combinada (Le Fort I + BSSO) distribuye el movimiento entre los maxilares, reduciendo el riesgo de recidiva para cada movimiento individual. El **torque condilar** es una complicación específica del avance: si el segmento proximal no queda correctamente asentado, el cóndilo puede rotar medialmente (torque interno) o lateralmente (torque externo), produciendo carga condilar asimétrica y disfunción temporomandibular o recidiva a largo plazo.\n\n**Retroceso de Clase III (retroceso de BSSO):** El retroceso mandibular corrige el prognatismo (ANB <0°, inversión positiva del análisis de Wits). El retroceso ≤5–6 mm alcanza excelente estabilidad (recidiva <3–5%). Los retrocesos >8 mm presentan recidiva esquelética del 15–30% al año, y los retrocesos >10 mm se asocian a alta recidiva y efectos sobre la vía aérea (reposicionamiento posterior de la base lingual, aumento de la resistencia de la vía aérea superior). **El retroceso sagital reduce el espacio aéreo posterior** — esto es una consideración crítica en pacientes con SAOS existente o vía aérea límite. Debe considerarse un estudio del sueño preoperatorio para retrocesos grandes.\n\nLas tasas de **lesión nerviosa** difieren según el tipo de movimiento: el avance estira el NIA a lo largo de mayores distancias y produce mayores tasas de alteración neurosensitiva (hasta el 40% a los 6 meses) en comparación con el retroceso (20–25% a los 6 meses). La recuperación suele ser completa a los 12–18 meses en el 80–90% de los pacientes afectados."
+        },
+        {
+          "type": "table",
+          "title": "Estabilidad de la BSSO: Dirección y Magnitud del Movimiento",
+          "headers": ["Movimiento", "Magnitud", "Tasa de Recidiva (1 año)", "Notas"],
+          "rows": [
+            ["Avance (Clase II)", "≤5 mm", "<5%", "Más estable; magnitud preferida"],
+            ["Avance (Clase II)", "5–8 mm", "5–15%", "Riesgo moderado; la cirugía bimaxilar puede distribuir la carga"],
+            ["Avance (Clase II)", ">8–10 mm", "15–25%", "Alto riesgo; considerar DO o cirugía bimaxilar"],
+            ["Retroceso (Clase III)", "≤6 mm", "<5%", "Muy estable"],
+            ["Retroceso (Clase III)", "6–10 mm", "10–20%", "Considerar cirugía bimaxilar para reducir el movimiento por maxilar"],
+            ["Retroceso (Clase III)", ">10 mm", "20–35%", "Alta recidiva; efectos sobre la vía aérea; considerar DO"],
+            ["Corrección de asimetría", "≤4 mm", "<10%", "Mayor recidiva con movimientos asimétricos de mayor magnitud"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Contexto Clínico — Efectos del Retroceso de BSSO sobre la Vía Aérea",
+          "content": "El retroceso mandibular de la BSSO desplaza posteriormente la base de la lengua, reduciendo el espacio aéreo posterior una media de 2–5 mm. En pacientes con apnea obstructiva del sueño (SAOS), un retroceso grande puede empeorar significativamente el IAH. Debe realizarse polisomnografía preoperatoria cuando se planea un retroceso de Clase III >7 mm en pacientes con ronquido, obesidad (IMC >30) o circunferencia cervical >40 cm. El avance maxilomandibular (AMM) es el abordaje ortognático preferido cuando el SAOS coexiste con maloclusión de Clase III por hipoplasia maxilar."
+        }
+      ]
+    },
+    {
+      "id": "B3-S7",
+      "title": "Complicaciones, Resultados y Seguimiento a Largo Plazo",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La BSSO presenta una tasa de complicaciones de aproximadamente el 10–20% en grandes series, siendo la alteración neurosensitiva la más frecuente. Una clasificación sistemática de las complicaciones es esencial para el asesoramiento y el manejo.\n\n**Complicaciones nerviosas:** La hipoestesia temporal del NIA/nervio mentoniano afecta a prácticamente todos los pacientes. La alteración neurosensitiva permanente (ANP) definida como déficit sensorineural objetivo a los 24 meses ocurre en el 5–15% de los pacientes en series modernas con pruebas neurosensitivas. La recuperación progresa durante 6–18 meses; los pacientes deben ser reevaluados formalmente a los 3, 6, 12 y 24 meses postoperatoriamente. Si no se observa recuperación a los 12 meses, el pronóstico de mejoría adicional es malo. La lesión de la cuerda del tímpano (por disección subperiostal posterior al tercer molar) puede producir sabor metálico o alteración del gusto en los dos tercios anteriores de la lengua, ocurriendo en aproximadamente el 5–10% y habitualmente resolviéndose espontáneamente.\n\n**Recidiva esquelética:** Como se ha comentado, la magnitud y dirección del movimiento son los principales predictores. La recidiva ocurre típicamente en los primeros 6–12 meses y se debe al estiramiento muscular, remodelado condilar y acabado ortodóncico postquirúrgico inadecuado. La recidiva tardía (>3 años) puede reflejar resorción condilar — entidad específica que afecta a mujeres jóvenes, avances de Clase II, ángulos FMA elevados y eminencias articulares escarpadas. La **resorción condilar idiopática (RCI)** se presenta con mordida abierta anterior progresiva y recidiva de Clase II entre 1–5 años tras la cirugía; incidencia comunicada del 5–10% en pacientes de alto riesgo.\n\n**Disfunción temporomandibular (DTM):** La BSSO puede empeorar o inducir DTM en pacientes susceptibles. El chasquido articular, el bloqueo o el dolor preoperatorios deben investigarse y tratarse antes de la cirugía ortognática. El desplazamiento discal sin reducción (estadio IV de Wilkes) puede requerir artrocentesis o artroscopia antes o de forma simultánea a la BSSO. En general, los pacientes correctamente seleccionados refieren mejoría de los síntomas de DTM tras la corrección de la discrepancia esquelética en la mayoría de las series.\n\n**Complicaciones relacionadas con el material:** La fractura de tornillos es poco frecuente (<1%); el aflojamiento o migración de placas ocurre en el 2–5% de los casos. La retirada del material sintomático está indicada; los sistemas modernos permiten una retirada sencilla del tornillo bajo anestesia local tras 6–12 meses.\n\n**Resultados:** La estabilidad esquelética a largo plazo, la mejoría estética facial y la corrección de la maloclusión se logran en el 85–95% de los pacientes tras BSSO bimaxilar o de un solo maxilar. Las tasas de satisfacción del paciente superan el 90% en la mayoría de los estudios de calidad de vida. El UW-QoL, el OQLQ (Cuestionario de Calidad de Vida Ortognática) y el JFLS-8 son herramientas de resultado validadas para pacientes ortognáticos."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Error Frecuente — Riesgo de Resorción Condilar Idiopática",
+          "content": "La resorción condilar idiopática (RCI) debe comentarse específicamente con los pacientes de alto riesgo antes del avance de BSSO: mujeres jóvenes (edad 15–25), Clase II ángulo alto con FMA >35°, altura facial posterior corta, bruxismo nocturno y aplanamiento condilar preexistente en las imágenes. El paciente debe entender el riesgo de recidiva progresiva debida a resorción condilar y la posibilidad de cirugía de revisión o prótesis articular total si se desarrolla una RCI grave."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Perla de Examen — Cuestionario OQLQ",
+          "content": "El Cuestionario de Calidad de Vida Ortognática (OQLQ) es la medida de resultado comunicada por el paciente validada y diseñada específicamente para pacientes de cirugía ortognática. Evalúa cuatro dominios: aspectos sociales de la deformidad dentofacial, estética facial, función oral y conciencia de la deformidad dentofacial. Los estudios muestran consistentemente mejoras significativas en todos los dominios del OQLQ tras una BSSO exitosa, con las mayores ganancias en los dominios social y estético."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre anatomía, técnica, divisiones, fijación y complicaciones de la BSSO con 20 preguntas tipo examen.",
+    "questions": [
+      {
+        "id": "B3-Q1",
+        "stem": "Un varón de 24 años es sometido a BSSO para corrección de prognatismo de Clase III. Durante el corte medial (lingual) de la rama, el cirujano realiza la osteotomía horizontal al nivel de la língula en lugar de por encima de ella. ¿Cuál es la consecuencia más probable de este error?",
+        "options": {
+          "A": "Contacto óseo insuficiente entre los segmentos proximal y distal",
+          "B": "Lesión directa del nervio alveolar inferior al entrar en el foramen mandibular",
+          "C": "Propagación de la fractura hacia el cuello condilar",
+          "D": "Incapacidad del corte lateral para conectarse con el corte medial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio alveolar inferior entra en el canal mandibular a través del foramen mandibular justo por debajo de la língula. Situar el corte medial al nivel o por debajo de la língula arriesga transecar el nervio al entrar en el foramen. El corte medial debe situarse superior a la língula para garantizar que el NIA pase al segmento distal (portador de dientes), protegido dentro del canal mandibular.",
+          "wrong": {
+            "A": "El contacto óseo insuficiente se debe más frecuentemente a un patrón de mala división (p. ej., fractura de lámina lingual), no a un corte medial situado inferiormente",
+            "C": "La fractura del cuello condilar resulta del apalancamiento forzado del osteotomo o de la propagación de una mala división, no directamente del nivel del corte medial",
+            "D": "El fallo en la conexión de los cortes medial y lateral es un error técnico relacionado con el corte de conexión vertical anterior, no con el nivel del corte horizontal medial"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Osteotomías Mandibulares — Estándares Técnicos para la Protección del NIA",
+          "trial": "Steenen SA et al. Nerve injury after sagittal split osteotomy: a systematic review of the literature. Int J Oral Maxillofac Surg (2016): el corte medial por encima de la língula fue identificado como el paso protector crítico en la preservación del NIA",
+          "pearl": "El corte medial (lingual) en la BSSO DEBE situarse POR ENCIMA de la língula y el foramen mandibular para proteger el nervio alveolar inferior. Este único paso es la maniobra técnica más importante para evitar la lesión nerviosa directa."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q2",
+        "stem": "¿Qué modificación de la técnica de división sagital original de Obwegeser es la principal responsable de aumentar el área de contacto óseo entre los segmentos proximal y distal, mejorando la estabilidad?",
+        "options": {
+          "A": "Modificación de Hunsuck — acortamiento del corte medial justo más allá de la língula",
+          "B": "Modificación de Dal Pont — extensión del corte lateral anteriormente hasta la región del primer molar",
+          "C": "Modificación de Epker — adición de un corte de parada vertical en la cortical bucal",
+          "D": "Modificación de Trauner — colocación del corte lateral a través del borde oblicuo externo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La modificación de Dal Pont (1961) extiende la osteotomía cortical lateral anteriormente a lo largo del borde oblicuo externo hasta la región del primer molar. Esto aumenta significativamente la superficie de contacto óseo entre los segmentos proximal y distal — aproximadamente 3 veces respecto a la técnica original — mejorando la estabilidad y permitiendo mayor libertad de movimiento sagital.",
+          "wrong": {
+            "A": "La modificación de Hunsuck reduce el riesgo de lesión del NIA acortando el corte medial, pero no aumenta significativamente el área de contacto óseo",
+            "C": "La modificación de Epker añade un corte de parada vertical para controlar el extremo de la división y reducir las malas divisiones — no principalmente para aumentar el área de contacto",
+            "D": "Trauner fue coautor de la técnica original (con Obwegeser) — no es una modificación con nombre propio"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Sección 3.2 de Osteotomías Mandibulares",
+          "trial": "Dal Pont G. Retromolar osteotomy for the correction of prognathism. J Oral Surg (1961): descripción original que muestra un aumento 3 veces mayor del área de contacto y mejores resultados de estabilidad",
+          "pearl": "Dal Pont (1961) = mayor área de contacto (corte lateral anterior al primer molar). Hunsuck (1968) = menor riesgo del NIA (corte medial más corto). Epker (1977) = control de malas divisiones (corte de parada vertical). Conocer el propósito de cada modificación."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q3",
+        "stem": "Una mujer de 28 años con retrognatia esquelética de Clase II (SNB 72°, ANB 10°) es sometida a avance de BSSO de 12 mm. En la visita postoperatoria a los 18 meses presenta mordida abierta anterior progresiva y recidiva de Clase II. La TC muestra aplanamiento condilar bilateral. ¿Cuál es el diagnóstico más probable?",
+        "options": {
+          "A": "Recidiva esquelética por fijación inadecuada",
+          "B": "Resorción condilar idiopática",
+          "C": "Hiperplasia condilar",
+          "D": "Desplazamiento del disco de la articulación temporomandibular"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La resorción condilar idiopática (RCI) es una complicación específica del avance de BSSO caracterizada por resorción condilar progresiva que lleva a la pérdida de altura condilar vertical, mordida abierta anterior y recidiva de Clase II. El perfil de mayor riesgo es: mujer joven (15–30 años), Clase II ángulo alto, avance grande (>8–10 mm), anomalía condilar preexistente. La TC que muestra aplanamiento condilar bilateral confirma el diagnóstico. La RCI suele manifestarse entre 1–5 años postoperatoriamente.",
+          "wrong": {
+            "A": "La recidiva por fijación ocurre precozmente (en los primeros 6 meses), no se asocia a pérdida de hueso condilar y no mostraría cambios en TC de aplanamiento condilar",
+            "C": "La hiperplasia condilar causa sobrecrecimiento condilar y progresión de Clase III, no resorción condilar y recidiva de Clase II",
+            "D": "El desplazamiento discal puede coexistir pero no causa pérdida bilateral de hueso condilar en TC"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Resorción condilar como complicación reconocida del avance mandibular; seguimiento obligatorio",
+          "trial": "Wolford LM et al. Factors associated with subcondylar fractures and idiopathic condylar resorption. J Oral Maxillofac Surg (2003): sexo femenino joven, FMA alto, avance grande identificados como factores de riesgo independientes para RCI",
+          "pearl": "Factores de riesgo de RCI: mujer joven + Clase II ángulo alto (FMA >35°) + avance grande de BSSO (>8–10 mm). Prevención: considerar cirugía bimaxilar para reducir el movimiento por maxilar; asesorar preoperatoriamente sobre el riesgo de recidiva progresiva que puede requerir revisión o prótesis articular total."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q4",
+        "stem": "Durante la BSSO, tras completar los tres cortes de osteotomía, el cirujano aplica presión con el osteotomo y la división se propaga como una fractura en tallo verde — los segmentos no se separan completamente. ¿Cuál es el siguiente paso más apropiado?",
+        "options": {
+          "A": "Aplicar un osteotomo separador grande de forma forzada para completar la fractura",
+          "B": "Abandonar el procedimiento y diferir la finalización a una segunda intervención",
+          "C": "Completar suavemente la inserción cortical restante con fresa o fino osteotomo bajo visión directa",
+          "D": "Aplicar fijación en la posición de tallo verde y esperar que el remodelado complete la separación"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Una fractura en tallo verde (división incompleta con inserción cortical o periostal residual) se maneja mejor identificando la inserción restante bajo visión directa y completándola suavemente con una pequeña fresa o un fino osteotomo curvo. La clave es la finalización controlada sin apalancamiento forzado, que propagaría líneas de fractura no controladas hacia el cóndilo. La desinserción periostal adicional del segmento insertado facilita la finalización suave con osteotomo.",
+          "wrong": {
+            "A": "Aplicar un separador grande con fuerza arriesga propagar la fractura de forma incontrolada hacia el cuello condilar — la complicación de mala división más grave",
+            "B": "La diferenciación no es necesaria para una fractura en tallo verde; es un hallazgo intraoperatorio manejable",
+            "D": "Aplicar fijación en una mandíbula incompletamente dividida no permitirá el movimiento planificado hasta la posición objetivo"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Manejo de complicaciones intraoperatorias en BSSO",
+          "trial": "Precious DS et al. An analysis of 3,660 sagittal ramus osteotomies. J Oral Maxillofac Surg (1992): la finalización de la fractura en tallo verde con técnica controlada no resultó en mayor tasa de complicaciones respecto a divisiones limpias",
+          "pearl": "Las fracturas en tallo verde en BSSO son frecuentes y manejables — siempre completar suavemente bajo visión directa con fresa o fino osteotomo, no con separación forzada. El osteotomo debe cortar, no apalancar."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q5",
+        "stem": "Un cirujano planifica BSSO para un varón de 30 años con prognatismo de Clase III que requiere 9 mm de retroceso mandibular. La CBCT preoperatoria muestra una posición alta del canal mandibular con el canal a menos de 2 mm de la línea de osteotomía planificada. ¿Qué factor aumenta más el riesgo de lesión permanente del nervio alveolar inferior en este paciente?",
+        "options": {
+          "A": "Edad del paciente >25 años",
+          "B": "Posición alta del canal en la CBCT",
+          "C": "Sexo masculino",
+          "D": "Relación mandibular de Clase III"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La posición alta del canal mandibular — definida como el canal a menos de 2 mm de la línea de osteotomía planificada — es el predictor independiente más potente de lesión directa del NIA durante la BSSO. Un canal alto reduce el amortiguamiento de hueso esponjoso que normalmente protege el nervio durante la división, aumentando la probabilidad de que la osteotomía o el osteotomo de división encuentren directamente el nervio. Este hallazgo en la CBCT preoperatoria requiere documentación específica en el consentimiento informado y puede requerir modificación de la técnica (corte medial más corto o modificado, división más cuidadosa).",
+          "wrong": {
+            "A": "La edad más joven se asocia a hueso más blando, lo que reduce el riesgo de mala división — la edad >25 se asocia a hueso más denso aumentando el riesgo de mala división, pero es menos predictiva de lesión nerviosa que la posición del canal",
+            "C": "El sexo masculino se correlaciona con hueso más denso y mayor riesgo de mala división, pero la posición del canal es más directamente predictiva de lesión nerviosa",
+            "D": "La relación mandibular de Clase III en sí misma no aumenta el riesgo de lesión del NIA — el tipo de movimiento (retroceso frente a avance) importa más que la clase"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Imagen preoperatoria para evaluación del riesgo del NIA; CBCT recomendada cuando se sospecha posición alta del canal",
+          "trial": "Verweij JP et al. Inferior alveolar nerve injury following BSSO: systematic review. Int J Oral Maxillofac Surg (2016): posición alta del canal en TC/CBCT identificada como factor de riesgo independiente para alteración neurosensitiva permanente (OR 3,2; IC 95% 1,4–7,1)",
+          "pearl": "La CBCT antes de BSSO está indicada cuando se sospecha posición alta del canal clínicamente o en imagen 2D. Una distancia canal-osteotomía <2 mm aumenta significativamente el riesgo de lesión del NIA y debe comentarse durante el consentimiento informado."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q6",
+        "stem": "Durante la fijación de la BSSO con tornillos bicorticales de posición, el cirujano inserta los tornillos con el cóndilo en posición ligeramente descendida. Postoperatoriamente el paciente presenta mordida abierta posterior en el lado derecho y contacto prematuro en el izquierdo. ¿Cuál es la causa más probable?",
+        "options": {
+          "A": "Fallo del material — retirar y reemplazar los tornillos del lado izquierdo",
+          "B": "Descenso condilar del lado derecho durante la inserción de tornillos del lado izquierdo",
+          "C": "Movimiento planificado asimétrico",
+          "D": "Lesión del NIA derecho que produce pérdida de propiocepción mandibular derecha"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El descenso condilar ocurre cuando el cóndilo cae inferiormente dentro de la fosa glenoidea durante la fijación, típicamente por fatiga muscular o gravedad con el paciente en decúbito supino. Si el cóndilo derecho estaba en posición descendida cuando se insertaron los tornillos del lado derecho, la mandíbula queda fijada con el cóndilo derecho artificialmente bajo. Postoperatoriamente, cuando los músculos se relajan y el cóndilo se asienta correctamente, el lado derecho sube, abriendo la mordida posteriormente en el lado derecho y creando contacto prematuro en el izquierdo. Prevención: asentar manualmente cada cóndilo en posición superior dentro de la fosa glenoidea inmediatamente antes de apretar cada juego de tornillos.",
+          "wrong": {
+            "A": "Un fallo del material (fractura o aflojamiento del tornillo) no produciría un patrón predecible de mordida abierta unilateral — el fallo del material es infrecuente y se presenta de forma diferente",
+            "C": "Un movimiento planificado asimétrico que produce este patrón habría sido detectable en la férula quirúrgica en el momento de la fijación",
+            "D": "La lesión del NIA afecta a la sensación, no a la propiocepción ni a la posición mandibular; la propiocepción en el movimiento mandibular depende de los mecanorreceptores del ligamento periodontal"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Principios de fijación en BSSO — técnica de asentamiento condilar",
+          "trial": "Epker BN (1977) — descripción original del mecanismo de descenso condilar y técnica de prevención: asentamiento manual del cóndilo antes de la inserción de cada tornillo",
+          "pearl": "Descenso condilar = descenso derecho → mordida abierta posterior derecha + contacto prematuro izquierdo. Prevenir asentando manualmente cada cóndilo en posición superior dentro de la fosa glenoidea inmediatamente antes de apretar la fijación. Esto es especialmente crítico con tornillos de posición, donde la posición queda bloqueada en el momento de la inserción."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q7",
+        "stem": "Una mujer de 22 años con retrognatia esquelética de Clase II requiere 11 mm de avance mandibular. Según los datos publicados de recidiva, ¿qué abordaje terapéutico conlleva el menor riesgo de recidiva esquelética comparado con el avance de BSSO de un solo maxilar de 11 mm?",
+        "options": {
+          "A": "Avance de BSSO de 11 mm con fijación de tornillos bicorticales",
+          "B": "Cirugía bimaxilar (impactación maxilar de Le Fort I + avance de BSSO de 6 mm)",
+          "C": "Avance de BSSO de 11 mm con fijación de miniplacas",
+          "D": "Avance de BSSO de 11 mm con 8 semanas de FMM postoperatoria"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Para correcciones de Clase II grandes que requieren >8–10 mm de movimiento total del maxilar, la cirugía bimaxilar distribuye la corrección entre el maxilar superior (impactación/avance mediante Le Fort I) y la mandíbula (avance mediante BSSO). Al reducir el movimiento por maxilar a 6 mm de avance de BSSO, el riesgo de recidiva esquelética cae por debajo del 10% (frente al 15–25% para el avance de un solo maxilar de 11 mm). Este es el abordaje basado en la evidencia avalado tanto por las guías de la EACMFS como de la AAOMS para correcciones >10 mm.",
+          "wrong": {
+            "A": "Los tornillos bicorticales para avance de un solo maxilar de 11 mm siguen presentando un 15–25% de recidiva; el tipo de fijación por sí solo no reduce la recidiva cuando la magnitud del movimiento es excesiva",
+            "C": "Las miniplacas para avance de 11 mm presentan recidiva similar o ligeramente superior a la de los tornillos — el tipo de fijación es menos importante que la magnitud del movimiento",
+            "D": "La FMM postoperatoria proporciona apoyo a los tejidos blandos pero no previene la recidiva esquelética; la tracción muscular mandibular durante la FMM puede contribuir incluso a la recidiva"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Para correcciones >10 mm totales, se prefiere la cirugía bimaxilar para distribuir el movimiento y optimizar la estabilidad",
+          "trial": "Proffit WR, Turvey TA, Phillips C. Orthognathic surgery: a hierarchy of stability. Int J Adult Orthod Orthognath Surg (1996): la cirugía bimaxilar que distribuye el movimiento entre los maxilares logra estabilidad superior comparada con los procedimientos de un solo maxilar para correcciones grandes",
+          "pearl": "Cuando la corrección total de Clase II supera 8–10 mm, la cirugía bimaxilar (Le Fort I + BSSO) distribuyendo el movimiento logra una recidiva significativamente menor que la BSSO de un solo maxilar. Este es el estándar basado en guías para correcciones grandes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q8",
+        "stem": "Se produce una mala división durante la BSSO en la que la fractura se propaga hacia el cuello condilar, produciendo una fractura subcondílea en el lado derecho. El paciente está bajo anestesia general. ¿Cuál es el manejo inmediato más apropiado?",
+        "options": {
+          "A": "Completar la división sagital planificada en el lado derecho y proceder con el movimiento ortognático",
+          "B": "Abandonar el movimiento mandibular planificado; fijar rígidamente todos los fragmentos en posición actual; diferir la cirugía ortognática 3–6 meses",
+          "C": "Completar la división solo en el lado izquierdo y proceder con BSSO unilateral",
+          "D": "Aplicar solo FMM y convertir al manejo cerrado de la fractura condilar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una fractura del cuello condilar resultante de la propagación de una mala división durante la BSSO es una complicación grave que requiere abandonar el movimiento ortognático planificado. El fragmento condilar debe fijarse rígidamente en su posición anatómica actual (RAFI de la fractura condilar) para garantizar la cicatrización y la integridad condilar. La cirugía ortognática se difiere con seguridad 3–6 meses una vez que la fractura condilar ha consolidado y la anatomía es estable. Proceder con el movimiento mandibular planificado aplicaría fuerzas al cóndilo fracturado, con riesgo de desplazamiento, necrosis avascular y compromiso grave del resultado final.",
+          "wrong": {
+            "A": "Proceder con el movimiento planificado tras una fractura condilar sometería el cóndilo fracturado a carga patológica y arriesga necrosis avascular, desplazamiento grave o pseudoartrosis",
+            "C": "La finalización de BSSO unilateral crearía un movimiento mandibular asimétrico imposible de estabilizar con seguridad y seguiría aplicando carga al cóndilo derecho fracturado mediante FMM",
+            "D": "El manejo cerrado con FMM solo es inadecuado para una fractura condilar producida por mala división — se requiere RAFI; el manejo cerrado retrasa la cicatrización y aumenta el riesgo de pseudoartrosis"
+          },
+          "guideline": "BAOMS Clinical Guidelines (2022): Manejo de complicaciones intraoperatorias — protocolo de fractura condilar durante BSSO",
+          "trial": "Precious DS et al. Bad splits in sagittal ramus osteotomies: a retrospective review of 3,660 procedures. J Oral Maxillofac Surg (1992): fractura condilar = 0,1% de incidencia; protocolo: fijación in situ, diferir ortognática 3–6 meses con tasa de éxito del 100% al seguir el protocolo",
+          "pearl": "Fractura condilar (mala división hacia el cuello condilar) = abandonar el movimiento planificado + RAFI de todos los fragmentos en posición actual + diferir la cirugía ortognática 3–6 meses. Nunca proceder con el movimiento planificado tras esta complicación."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B3-Q9",
+        "stem": "Tras BSSO para corrección de Clase III con 7 mm de retroceso, una mujer de 25 años desarrolla alteración del gusto en los dos tercios anteriores de la lengua en el lado derecho (sabor metálico). ¿Qué nervio fue probablemente lesionado durante la cirugía?",
+        "options": {
+          "A": "Nervio lingual",
+          "B": "Nervio de la cuerda del tímpano",
+          "C": "Nervio alveolar inferior",
+          "D": "Nervio glosofaríngeo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El nervio de la cuerda del tímpano transporta la sensación gustativa de los dos tercios anteriores de la lengua y discurre por la fosa infratemporal, descendiendo entre los músculos pterigoideo medial y lateral antes de unirse al nervio lingual. Durante la BSSO, la disección subperiostal posterior al tercer molar en el espacio pterigomandibular puede estirar o dañar la cuerda del tímpano. La lesión produce sabor metálico o ageusia (ausencia del gusto) en los dos tercios anteriores de la lengua ipsilateral. Es distinta de la lesión del NIA (que produce hipoestesia del labio inferior) y ocurre en aproximadamente el 5–10% de los casos de BSSO.",
+          "wrong": {
+            "A": "La lesión del nervio lingual produce hipoestesia/parestesia de la lengua anterior ipsilateral (tacto, dolor, temperatura) — no de la sensación gustativa; el nervio lingual transporta las fibras del gusto aportadas por la cuerda del tímpano pero las fibras sensitivas son diferentes",
+            "C": "La lesión del NIA produce hipoestesia del labio inferior, el mentón y la encía bucal (distribución del nervio mentoniano) — no alteración del gusto",
+            "D": "El nervio glosofaríngeo inerva el gusto del tercio posterior de la lengua — no accesible en el campo quirúrgico de la BSSO"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Riesgos de lesión nerviosa en BSSO — cuerda del tímpano identificada como riesgo secundario al NIA",
+          "trial": "Phillips C et al. Neurosensory deficits following orthognathic surgery. Int J Adult Orthod Orthognath Surg (1990): síntomas de la cuerda del tímpano en ~8% de los pacientes de BSSO; la mayoría se resuelve en 6–12 meses",
+          "pearl": "Sabor metálico o alteración del gusto en los 2/3 anteriores de la lengua tras BSSO = lesión de la cuerda del tímpano, no del NIA. La cuerda del tímpano está en riesgo por la disección subperiostal posterior en el espacio pterigomandibular. La mayoría de los casos se resuelve espontáneamente en 6–12 meses."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q10",
+        "stem": "¿Qué método de fijación se prefiere generalmente para el avance de BSSO (corrección de Clase II) comparado con el retroceso mandibular, y cuál es la razón principal?",
+        "options": {
+          "A": "Tornillos bicorticales de posición; la mayor rigidez reduce la recidiva en el avance",
+          "B": "Miniplacas monocorticales; permite el ajuste de la posición condilar durante la fijación",
+          "C": "Osteosíntesis con alambres; preserva el aporte sanguíneo periostal a los fragmentos",
+          "D": "Placas reabsorbibles; evita una segunda cirugía de retirada"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las miniplacas monocorticales se prefieren generalmente para el avance de BSSO porque permiten el ajuste y la verificación de la posición condilar (asentamiento) durante la aplicación de la placa y la inserción del tornillo. En el avance de Clase II, el segmento proximal con el cóndilo debe reposicionarse cuidadosamente para evitar el descenso, el torque o la distracción condilares. Las miniplacas pueden colocarse con el cóndilo correctamente asentado y los problemas de posición corregidos antes de la fijación final. Los tornillos bicorticales de posición bloquean la posición condilar en el momento de la inserción, dificultando la corrección posterior. Además, las miniplacas evitan el riesgo de compresión del NIA por tornillos bicorticales.",
+          "wrong": {
+            "A": "Si bien los tornillos bicorticales proporcionan excelente rigidez, su principal desventaja en el avance es bloquear el descenso/torque condilar si no están perfectamente asentados; los metaanálisis muestran estabilidad equivalente a las placas en la mayoría de los movimientos",
+            "C": "La osteosíntesis con alambres es obsoleta para la BSSO — la rigidez insuficiente lleva a tasas de recidiva inaceptables y requiere FMM prolongada",
+            "D": "Las placas reabsorbibles no son estándar para la BSSO ya que sus propiedades de degradación y capacidad de carga son inferiores al titanio; la retirada de placas de titanio raramente es necesaria"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Selección del método de fijación para BSSO — miniplacas preferidas para el avance para permitir el ajuste de la posición condilar",
+          "trial": "Joss CU, Thüer UW. Stability of hard tissue profile after mandibular advancement in sagittal split osteotomies: a systematic review. Eur J Orthod (2008): sin diferencia significativa en estabilidad esquelética entre tornillos y placas, pero placas preferidas para el avance por ventajas en el control condilar",
+          "pearl": "Miniplacas preferidas para avance de BSSO (Clase II): permite el ajuste de la posición condilar durante la fijación. Tornillos bicorticales preferidos para retroceso de BSSO (Clase III): excelente rigidez, perfil de material pequeño, sin riesgo de compresión del NIA si se colocan cuidadosamente superiores al canal."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q11",
+        "stem": "Un varón de 19 años es sometido a BSSO para corrección de maloclusión esquelética de Clase II con avance de 8 mm. En su visita postoperatoria a los 3 meses refiere entumecimiento completo del labio inferior y el mentón derechos. ¿Cuál es el manejo más apropiado?",
+        "options": {
+          "A": "Reexplorar inmediatamente el nervio alveolar inferior derecho",
+          "B": "Tranquilizar al paciente y programar pruebas neurosensitivas; se espera que la recuperación continúe hasta los 18–24 meses",
+          "C": "Prescribir metilprednisolona durante 7 días para reducir el edema neural",
+          "D": "Derivar de inmediato para reparación microquirúrgica del nervio"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La hipoestesia temporal del NIA/nervio mentoniano ocurre en prácticamente todos los pacientes (75–100%) tras BSSO por estiramiento, compresión y neuropraxia nerviosa. A los 3 meses del postoperatorio, la parestesia persistente no es inesperada y no indica lesión permanente. La recuperación neural tras neuropraxia o axonotmesis progresa a aproximadamente 1–3 mm/día de regeneración axonal; la mayoría de los pacientes con ANP relacionada con BSSO continúan mejorando hasta los 12–18 meses. La respuesta apropiada es la tranquilización, las pruebas neurosensitivas formales (discriminación de dos puntos, prueba de dirección con cepillo, umbrales de von Frey) y revisiones cada 3–6 meses. Si no se evidencia recuperación a los 12 meses, el pronóstico de mejoría adicional es malo.",
+          "wrong": {
+            "A": "La reexploración del nervio a los 3 meses no está indicada para hipoestesia postoperatoria esperada — expondría el nervio a trauma adicional sin evidencia de lesión por neurotmesis que requiera reparación",
+            "C": "Los corticosteroides se usan perioperatoriamente (en las primeras 24–72 horas) para reducir la inflamación alrededor del nervio; no tienen beneficio a los 3 meses",
+            "D": "La reparación microquirúrgica del nervio (neurorrafia o injerto) se reserva para neurotmesis documentada (sección completa del nervio) que no muestra recuperación — la derivación prematura a los 3 meses para un hallazgo postoperatorio esperado es inapropiada"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Consentimiento informado y seguimiento de lesión del NIA tras BSSO — reevaluación a los 3, 6, 12, 24 meses",
+          "trial": "Ylikontiola L et al. Recovery of inferior alveolar nerve function after BSSO. Int J Oral Maxillofac Surg (2000): el 85% de los pacientes con ANP post-BSSO muestran recuperación medible a los 18 meses; intervención quirúrgica no recomendada antes de los 12 meses",
+          "pearl": "Hipoestesia post-BSSO a los 3 meses = esperada y probable resolución. Monitorizar con pruebas neurosensitivas formales a los 3, 6, 12, 24 meses. Considerar exploración/reparación del nervio solo si se sospecha neurotmesis Y sin recuperación a los 12 meses."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q12",
+        "stem": "Una mujer de 23 años con prognatismo de Clase III es sometida a retroceso de BSSO de 8 mm para corrección. Su IAH preoperatorio en polisomnografía era de 6 eventos/hora (normal). En su revisión a los 6 meses refiere incremento del ronquido y somnolencia diurna. La polisomnografía de repetición muestra un IAH de 22 eventos/hora. ¿Cuál es la explicación más probable?",
+        "options": {
+          "A": "Aumento de peso desde la cirugía",
+          "B": "Reposicionamiento posterior de la base lingual con reducción del espacio aéreo superior tras el retroceso mandibular",
+          "C": "Obstrucción nasal por intubación durante la anestesia general",
+          "D": "Trastorno de ansiedad posquirúrgica que causa arousal durante el sueño"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El retroceso mandibular de la BSSO desplaza hacia atrás la mandíbula y su musculatura asociada (particularmente el geniogloso y los músculos suprahioideos), desplazando la base lingual hacia la vía aérea orofaríngea. Esto reduce el espacio aéreo posterior una media de 2–5 mm, lo que puede desencadenar o empeorar la apnea obstructiva del sueño. El riesgo es mayor con retrocesos grandes (>7 mm) y en pacientes con anatomía de vía aérea límite. Esta paciente no tenía SAOS previo pero desarrolló una elevación significativa del IAH (22/hora = SAOS moderado) tras un retroceso de 8 mm.",
+          "wrong": {
+            "A": "El aumento de peso puede empeorar el SAOS, pero no es la explicación principal a los 6 meses de la cirugía en ausencia de aumento de peso documentado — el momento y el contexto quirúrgico indican una causa relacionada con el procedimiento",
+            "C": "El traumatismo nasal por intubación es transitorio y se resuelve en semanas; no causa SAOS persistente a los 6 meses",
+            "D": "Los trastornos de ansiedad no causan apneas obstructivas en la polisomnografía; los trastornos del sueño por ansiedad producen arousal sin eventos obstructivos"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Efectos sobre la vía aérea del retroceso de BSSO — cribado preoperatorio de SAOS recomendado para retrocesos >7 mm",
+          "trial": "Riley RW et al. Obstructive sleep apnea and the hyoid: a revised surgical procedure. Otolaryngol Head Neck Surg (1994): el retroceso de BSSO reduce el EAP una media de 2,5 mm; estudios relevantes muestran un aumento del IAH del 50–300% tras retrocesos grandes en pacientes susceptibles",
+          "pearl": "El retroceso mandibular de la BSSO reposiciona posteriormente la base lingual, reduciendo el espacio aéreo posterior y precipitando o empeorando el SAOS. Cribar a todos los pacientes para SAOS antes de retrocesos grandes (>7 mm). Cuando la maloclusión de Clase III coexiste con SAOS existente, el avance maxilomandibular (AMM) puede ser tanto el tratamiento ortognático como el tratamiento del SAOS."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q13",
+        "stem": "¿Qué referencia anatómica en la superficie medial de la rama mandibular sirve como punto de referencia crítico para la colocación correcta del corte de osteotomía superior (medial) durante la BSSO?",
+        "options": {
+          "A": "Escotadura mandibular",
+          "B": "Língula",
+          "C": "Gonion",
+          "D": "Borde oblicuo externo"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La língula es la espina ósea en la superficie medial de la rama mandibular que recubre el foramen mandibular y el punto de entrada del nervio alveolar inferior. El corte horizontal medial (lingual) en la BSSO debe situarse superior a la língula para garantizar que el NIA entre en el segmento distal portador de dientes. La língula se palpa y se visualiza tras la elevación subperiostal de la rama medial, proporcionando la referencia anatómica directa que define el nivel seguro para el corte medial.",
+          "wrong": {
+            "A": "La escotadura mandibular es la concavidad entre los procesos condilar y coronoideo en la rama lateral/superior — es relevante para la osteotomía vertical intraoral de la rama (IVRO), no para la colocación del corte medial de la BSSO",
+            "C": "El gonion es el ángulo posteroinferior de la mandíbula — un punto cefalométrico, no una referencia quirúrgica para la colocación del corte medial",
+            "D": "El borde oblicuo externo es la referencia para el corte lateral (bucal) en la BSSO, no el corte medial"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Técnica de BSSO — identificación de la língula como paso esencial antes del corte medial",
+          "trial": "Trauner R, Obwegeser H. Oral Surg Oral Med Oral Pathol (1957): la descripción original identifica la língula como punto de referencia anatómica para el corte medial horizontal superior en la técnica de división sagital",
+          "pearl": "Língula = referencia para el corte medial de BSSO. Corte POR ENCIMA de la língula = NIA en el segmento distal (portador de dientes). Corte A LA ALTURA o POR DEBAJO de la língula = lesión del NIA. Palpar la língula bajo visión directa antes de cada corte medial."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q14",
+        "stem": "Un varón de 29 años requiere BSSO para corrección de Clase III con 10 mm de retroceso. La CBCT preoperatoria muestra un espacio medular estrecho en toda la rama con hueso cortical denso bilateral. ¿Qué modificación de la técnica estándar reduciría más el riesgo de mala división en este paciente?",
+        "options": {
+          "A": "Uso de un osteotomo de 20 mm más grande para aumentar la fuerza de división",
+          "B": "Trabajo adicional con fresa a lo largo de la línea de fractura planificada para debilitar el hueso cortical antes de la división",
+          "C": "Conversión a una osteotomía vertical intraoral de la rama (IVRO) en lugar de BSSO",
+          "D": "Añadir FMM temporal antes de la división para estabilizar los fragmentos"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Cuando las imágenes preoperatorias muestran hueso cortical denso con espacio medular estrecho o ausente, la base anatómica para una división sagital fiable no existe — el hueso esponjoso medular que normalmente guía el plano de división está ausente. En este escenario, la conversión a una **osteotomía vertical intraoral de la rama (IVRO)** es la alternativa más segura para el retroceso de Clase III, ya que la IVRO no depende de la presencia de un plano de división esponjoso. La IVRO realiza una osteotomía vertical a través de la rama desde la escotadura sigmoide hasta el ángulo sin requerir fractura sagital, y por tanto no se ve afectada por la densidad del hueso cortical. Sus desventajas incluyen menor versatilidad de movimientos y ausencia de fijación (requiriendo 6 semanas de FMM), pero evita el alto riesgo de mala división en hueso denso.",
+          "wrong": {
+            "A": "Usar un osteotomo más grande aumenta la fuerza y hace las malas divisiones más probables, no menos — el osteotomo debe cortar a través del espacio esponjoso suavemente, no a través del hueso cortical denso con fuerza",
+            "B": "El trabajo adicional con fresa puede ayudar, pero en ausencia de espacio medular no puede crear un plano de división fiable — reduce pero no elimina el riesgo de mala división",
+            "D": "La FMM antes de la división no tiene efecto sobre la densidad ósea cortical ni sobre el riesgo de patrón de división"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Osteotomías alternativas (IVRO) recomendadas cuando la CBCT muestra espacio medular ausente y alto riesgo de mala división",
+          "trial": "Wolford LM, Davis WM. The mandibular inferior border split: a modification in the sagittal split osteotomy. J Oral Maxillofac Surg (1990): describe las modificaciones de técnica e indicaciones de conversión a IVRO para hueso denso; la IVRO produce una corrección de Clase III equivalente sin riesgo de mala división",
+          "pearl": "Hueso cortical denso + espacio medular estrecho/ausente en CBCT = alto riesgo de mala división para BSSO. Considerar la conversión a IVRO para retroceso de Clase III en estos pacientes. Revisar siempre la densidad ósea en CBCT antes de planificar BSSO en varones mayores, pacientes con bisfosfonatos o con radioterapia mandibular previa."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B3-Q15",
+        "stem": "La modificación de Epker de la BSSO añade un corte vertical a través de la cortical bucal posterior al primer molar. ¿Cuál es el objetivo principal de este corte?",
+        "options": {
+          "A": "Aumentar el área de contacto óseo entre los segmentos proximal y distal",
+          "B": "Proporcionar un extremo controlado para la fractura cortical lateral y reducir las malas divisiones no controladas",
+          "C": "Proteger el nervio alveolar inferior de la osteotomía lateral",
+          "D": "Permitir un mayor rango de movimiento de retroceso mandibular"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El corte de parada vertical de Epker (1977) se sitúa en la cortical bucal posterior a la región del primer molar, en el extremo posterior previsto de la osteotomía cortical lateral. Su objetivo principal es crear un punto final controlado para la propagación de la fractura lateral, evitando que la fractura discurra posteriormente y superiormente a lo largo del borde oblicuo externo hacia el cuello condilar de forma incontrolada. Esto reduce significativamente el riesgo de malas divisiones con propagación posterior desfavorable hacia el cóndilo.",
+          "wrong": {
+            "A": "El aumento del área de contacto óseo es el objetivo de la modificación de Dal Pont (extensión del corte lateral anteriormente) — no el corte de parada vertical de Epker",
+            "C": "La protección del NIA se logra principalmente situando el corte medial por encima de la língula — el corte de Epker está en el lado bucal/lateral, lejos del nervio",
+            "D": "El rango de movimiento mandibular está determinado principalmente por la extensión anterior del corte lateral de Dal Pont y el corte medial posterior — no por el corte de parada de Epker"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Modificación de Epker como componente estándar de la técnica contemporánea de BSSO",
+          "trial": "Epker BN. Modifications in the sagittal osteotomy of the mandible. J Oral Maxillofac Surg (1977): descripción original que muestra la reducción de la tasa de mala división (particularmente la propagación posterior) con el corte de parada vertical",
+          "pearl": "Modificación de Epker (1977) = corte de parada vertical en cortical bucal posterior al 1.er molar = controla el extremo de la propagación de la fractura lateral = reduce las malas divisiones. Conocer el objetivo de cada una de las 4 modificaciones principales de BSSO: Obwegeser (original), Dal Pont (área de contacto), Hunsuck (protección del NIA), Epker (control de malas divisiones)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q16",
+        "stem": "¿Qué tasa de alteración neurosensitiva permanente del nervio alveolar inferior (definida como déficit objetivo a los 24 meses) debe comunicarse a los pacientes antes de la BSSO en la práctica contemporánea?",
+        "options": {
+          "A": "Menos del 1%",
+          "B": "5–15%",
+          "C": "30–50%",
+          "D": "Más del 60%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las revisiones sistemáticas contemporáneas comunican consistentemente alteración neurosensitiva permanente (ANP) — definida como déficit objetivo en pruebas neurosensitivas formales a los 24 meses — en aproximadamente el 5–15% de los casos de BSSO. Esto es distinto de la hipoestesia temporal, que afecta al 75–100% de los pacientes postoperatoriamente pero se resuelve en gran medida en 12–18 meses. La parestesia permanente referida por los pacientes (subjetiva) es típicamente menor, en torno al 5–10%. La tasa específica depende del tipo de movimiento (avance > retroceso para ANP), la magnitud y la experiencia del cirujano.",
+          "wrong": {
+            "A": "Menos del 1% subestima enormemente el riesgo de ANP permanente — esta cifra solo sería apropiada para movimientos muy pequeños en manos expertas, no como cifra general de asesoramiento",
+            "C": "30–50% representa la tasa de ANP temporal a los 3–6 meses, no el déficit permanente a los 24 meses",
+            "D": "Más del 60% es la tasa de cualquier cambio neurosensitivo medible inmediatamente postoperatoriamente — no la tasa de déficit permanente a los 24 meses"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Tasas de lesión del NIA para consentimiento informado — 5–15% de ANP permanente a los 24 meses (pruebas objetivas)",
+          "trial": "Verweij JP et al. Inferior alveolar nerve injury following BSSO: systematic review and meta-analysis. Int J Oral Maxillofac Surg (2016): tasa de ANP permanente agrupada 9,3% (IC 95% 6,8–11,8%) a los 24 meses en series contemporáneas",
+          "pearl": "Asesorar a los pacientes de BSSO: entumecimiento temporal (~80% al mes, resolución en 12–18 meses) frente a déficit permanente (~5–15% pruebas objetivas a los 24 meses). Queja permanente subjetiva: ~5–10%. Estas cifras deben documentarse en el registro de consentimiento informado."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B3-Q17",
+        "stem": "Tras el retroceso mandibular de BSSO de 9 mm para prognatismo de Clase III, una paciente desarrolla recidiva progresiva de Clase II y mordida abierta anterior a lo largo de 2 años. La RM muestra aplanamiento condilar bilateral con altura condilar reducida. La paciente es una mujer de 23 años con ángulo FMA alto (38°). ¿Qué hallazgo en la anamnesis preoperatoria habría sido más importante documentar y comentar durante el consentimiento informado?",
+        "options": {
+          "A": "Soplo cardíaco preexistente",
+          "B": "Bruxismo y apretamiento nocturno",
+          "C": "Antecedentes familiares de prognatismo mandibular",
+          "D": "Historia previa de tratamiento ortodóncico"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El bruxismo nocturno es un factor de riesgo reconocido para la resorción condilar idiopática (RCI) tras cirugía ortognática. La carga parafuncional del bruxismo combinada con la biomecánica condilar alterada tras el retroceso de BSSO crea fuerzas compresivas excesivas sobre el cartílago articular, predisponiendo a la resorción condilar. Otros factores de riesgo en esta paciente (mujer joven, FMA alto 38°, retroceso grande) agravan aún más el riesgo. La documentación preoperatoria del bruxismo es esencial y debe comentarse específicamente durante el consentimiento informado, con discusión de la terapia con férula, la toxina botulínica para la hipertrofia del masetero y la posible necesidad de vigilancia a largo plazo.",
+          "wrong": {
+            "A": "El soplo cardíaco es relevante para la planificación anestésica pero no tiene relación con el riesgo de resorción condilar",
+            "C": "Los antecedentes familiares de prognatismo son relevantes para predecir la recurrencia de la recidiva esquelética por crecimiento mandibular — no la RCI; los antecedentes familiares de resorción condilar serían más relevantes",
+            "D": "La historia de tratamiento ortodóncico previo es relevante para la posición dentaria y la salud periodontal pero no tiene relación directa con el riesgo de RCI"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Evaluación del riesgo de RCI — bruxismo, sexo femenino, FMA alto, avance grande como factores de riesgo modificables/no modificables",
+          "trial": "Hoppenreijs TJ et al. Condylar resorption after Le Fort I and bimaxillary osteotomies in patients with anterior open bite. Int J Oral Maxillofac Surg (1999): bruxismo identificado como factor de riesgo independiente para resorción condilar tras cirugía ortognática (OR 2,8; p=0,03)",
+          "pearl": "Lista de verificación de riesgo de RCI antes de BSSO: (1) mujer joven ✓, (2) FMA alto (>35°) ✓, (3) avance/retroceso grande ✓, (4) bruxismo nocturno ✓, (5) anomalía condilar preexistente en TC/RM. Documentar y asesorar sobre todos los factores de riesgo identificables."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B3-Q18",
+        "stem": "Un cirujano que realiza BSSO observa que el nervio alveolar inferior está expuesto en la superficie del segmento distal tras la división, en lugar de permanecer dentro del canal mandibular. ¿Cuál es la respuesta más apropiada?",
+        "options": {
+          "A": "Recolocar inmediatamente el nervio en el canal con pinzas",
+          "B": "Abandonar el procedimiento para evitar lesión nerviosa adicional",
+          "C": "Continuar con manejo delicado, evitar estiramiento y compresión, y documentar el hallazgo",
+          "D": "Transecar el nervio limpiamente y derivar para reparación microquirúrgica inmediata"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La exposición nerviosa intraoperatoria — en la que el NIA es visible en la superficie ósea del segmento distal tras la división — ocurre en aproximadamente el 60–80% de los casos de BSSO y NO indica lesión nerviosa ni requiere abandono del procedimiento. El nervio se expone con mayor frecuencia en la porción inferior del segmento distal donde el canal está próximo al borde inferior. La respuesta apropiada es el manejo delicado, evitando cualquier estiramiento, compresión o lesión térmica del nervio expuesto durante la movilización y la fijación. Este hallazgo debe documentarse en el registro operatorio. El seguimiento neurosensitivo es importante, pero la mayoría de los pacientes con exposición nerviosa intraoperatoria tienen resultados equivalentes a los que no la presentan.",
+          "wrong": {
+            "A": "Intentar recolocar el nervio con pinzas arriesga la lesión nerviosa por las propias pinzas — el nervio debe protegerse in situ, no recolocarse",
+            "B": "El abandono no está indicado para la exposición nerviosa intraoperatoria, que es frecuente y esperada — el abandono se reserva para la neurotmesis o la fractura condilar",
+            "D": "Transecar un nervio íntegro pero expuesto crearía una lesión por neurotmesis — nunca transecar un nervio íntegro"
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines (2023): Manejo de la exposición intraoperatoria del NIA durante BSSO",
+          "trial": "Steenen SA et al. Int J Oral Maxillofac Surg (2016): exposición nerviosa intraoperatoria en el 62% de los casos; la exposición per se no se asoció independientemente a mayores tasas de ANP permanente tras controlar por magnitud del movimiento",
+          "pearl": "La exposición intraoperatoria del NIA durante la BSSO es frecuente (60–80%) y NO es una complicación que requiera abandono del procedimiento. Tratar con extremo cuidado: sin estiramiento, sin compresión, sin presión de retractor sobre el nervio. Documentar el hallazgo. El seguimiento neurosensitivo es importante pero el pronóstico no es necesariamente peor que sin exposición."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q19",
+        "stem": "Una mujer de 22 años con maloclusión esquelética de Clase II (SNB 73°, ANB 9°, FMA 32°) y SAOS grave (IAH 45 eventos/hora) es remitida para corrección quirúrgica. ¿Qué abordaje quirúrgico ortognático corrige simultáneamente la relación esquelética de Clase II y trata la apnea obstructiva del sueño?",
+        "options": {
+          "A": "Avance mandibular de BSSO solo",
+          "B": "Avance maxilomandibular (AMM): avance maxilar de Le Fort I + avance mandibular de BSSO",
+          "C": "Avance maxilar de Le Fort I solo",
+          "D": "Avance mandibular de BSSO + uvulopalatofariyngoplastia concurrente"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El avance maxilomandibular (AMM) — avance maxilar de Le Fort I combinado con avance mandibular de BSSO — corrige simultáneamente la maloclusión esquelética de Clase II y trata eficazmente el SAOS grave. Al avanzar ambos maxilares juntos, el AMM amplía toda la vía aérea faríngea (desde el paladar blando hasta la base lingual) tensionando anteriormente las paredes faríngeas. Los metaanálisis comunican una reducción media del IAH del 86% y una tasa de curación (IAH <5) de aproximadamente el 43% tras AMM para SAOS. Es el tratamiento quirúrgico más eficaz para el SAOS y proporciona corrección esquelética definitiva de la deformidad mandibular en el mismo procedimiento.",
+          "wrong": {
+            "A": "El avance mandibular de BSSO solo proporciona algún beneficio sobre la vía aérea pero no avanza el maxilar; el paladar blando y la vía aérea superior no se tratan completamente — menos eficaz que el AMM bimaxilar para el SAOS",
+            "C": "El avance maxilar de Le Fort I solo no avanza la mandíbula ni la base lingual — tratamiento inadecuado del SAOS",
+            "D": "La UPPP aborda solo los tejidos blandos (úvula, amígdalas, paladar blando) pero no la retrognatia esquelética que causa la obstrucción de la base lingual — corrección esquelética inadecuada"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): AMM como tratamiento quirúrgico de referencia para SAOS en pacientes de Clase II; reducción del IAH del 86% (metaanálisis)",
+          "trial": "Holty JE, Guilleminault C. Maxillomandibular advancement for the treatment of obstructive sleep apnea: a systematic review and meta-analysis. Sleep Med Rev (2010): el AMM logra una reducción media del IAH de 63 a 9 eventos/hora (reducción del 86%); tasa de curación del 43%",
+          "pearl": "AMM (Le Fort I + avance de BSSO) trata simultáneamente la Clase II esquelética y el SAOS. Es el tratamiento quirúrgico más eficaz para el SAOS con reducción del IAH del 86% — superior a las tasas de adherencia a CPAP a los 5 años en candidatos quirúrgicos motivados. Considerar en todos los pacientes jóvenes de Clase II con SAOS moderado-grave."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B3-Q20",
+        "stem": "Durante la BSSO, tras insertar tornillos bicorticales de posición para la fijación en el lado izquierdo, el cirujano observa que el lado derecho muestra una mordida abierta posterior de aproximadamente 2 mm con contacto prematuro izquierdo. La férula quirúrgica sigue colocada. ¿Cuál es el diagnóstico más probable y el siguiente paso?",
+        "options": {
+          "A": "Fallo del material — retirar y reemplazar los tornillos del lado izquierdo",
+          "B": "Descenso condilar del lado izquierdo — retirar los tornillos, asentar el cóndilo en posición superior y reinsertar los tornillos",
+          "C": "Mala división del lado derecho — obtener radiografía intraoperatoria para confirmar",
+          "D": "Férula quirúrgica incorrecta — reemplazar con la férula correcta y refixar"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Una mordida abierta posterior en el lado derecho con contacto prematuro en el izquierdo, observada tras insertar los tornillos del lado izquierdo con la férula aún colocada, es la presentación clásica de descenso condilar izquierdo durante la fijación. El cóndilo izquierdo estaba en posición descendida cuando se insertaron los tornillos, fijando la mandíbula con el cóndilo izquierdo artificialmente bajo. El posterior relajamiento muscular agravará aún más la mordida abierta. La solución es retirar los tornillos bicorticales izquierdos, asentar manualmente el cóndilo izquierdo en posición superior dentro de la fosa glenoidea y reinsertar los tornillos con el cóndilo correctamente asentado. Esto debe verificarse con la férula retirada para comprobar la oclusión antes del cierre.",
+          "wrong": {
+            "A": "El fallo del material (fractura o aflojamiento del tornillo) no produciría un patrón predecible de mordida abierta — el fallo del material es infrecuente y se presenta de forma diferente",
+            "C": "Una mala división del lado derecho afectaría al patrón de fijación y división del lado derecho — no explicaría el patrón clásico de descenso condilar por la inserción de tornillos del lado izquierdo",
+            "D": "Una férula incorrecta habría producido una discrepancia oclusal desde el inicio del proceso de fijación — el hallazgo tras la inserción de tornillos del lado izquierdo localiza el problema en el cóndilo izquierdo"
+          },
+          "guideline": "AAOMS Parameters of Care (2023): Evaluación oclusal intraoperatoria tras fijación de BSSO; manejo del descenso condilar",
+          "trial": "Epker BN. Modifications in the sagittal osteotomy of the mandible. J Oral Maxillofac Surg (1977): mecanismo de descenso condilar descrito sistemáticamente por primera vez; técnica de asentamiento manual del cóndilo descrita y validada",
+          "pearl": "Hallazgo intraoperatorio: mordida abierta posterior en el lado opuesto a los tornillos recién fijados = descenso condilar en el lado fijado. Solución: retirar tornillos, asentar manualmente el cóndilo, reinsertar tornillos. Verificar siempre la oclusión tras la fijación de cada lado antes de pasar al lado contralateral."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

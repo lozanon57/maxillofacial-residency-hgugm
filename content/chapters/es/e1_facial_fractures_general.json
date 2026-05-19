@@ -1,0 +1,621 @@
+{
+  "id": "E1",
+  "title": "Fracturas Faciales: Principios Generales",
+  "subtitle": "Bloque E — Evaluación ATLS, Imagen, Manejo de la Vía Aérea, Epidemiología",
+  "block": "E",
+  "block_name": "Traumatismo Facial",
+  "level": "R1-3",
+  "reading_time_min": 35,
+  "guidelines_version": "ATLS 10ª Edición (ACS 2018) · EACMFS Facial Trauma Guidelines 2021 · BAOMS Maxillofacial Trauma Guidelines 2020",
+  "textbook_refs": [
+    "Miloro M et al. Peterson's Principles of Oral and Maxillofacial Surgery, 3ª ed. (2012)",
+    "Manson PN et al. Fracturas faciales. En: Grabb and Smith's Plastic Surgery, 7ª ed. (2013)",
+    "Advanced Trauma Life Support (ATLS) Student Course Manual, 10ª ed. (ACS 2018)",
+    "Hogg NJV et al. Facial fractures in polytrauma patients. J Trauma (2004)"
+  ],
+  "learning_objectives": [
+    "Aplicar los principios de la valoración primaria ATLS al paciente con traumatismo facial, priorizando vía aérea, respiración y control de la hemorragia",
+    "Describir la epidemiología de las fracturas faciales y las etiologías frecuentes según el contexto geográfico y demográfico",
+    "Seleccionar las exploraciones radiológicas apropiadas para las fracturas faciales e interpretar los hallazgos clave",
+    "Identificar las complicaciones inmediatamente amenazantes para la vida de las fracturas faciales, incluyendo la obstrucción de la vía aérea y la hemorragia masiva",
+    "Reconocer los patrones de lesión de partes blandas asociados a fracturas faciales y aplicar los principios de manejo de heridas",
+    "Comprender los principios temporales para la reparación de fracturas faciales: indicaciones de cirugía inmediata, precoz y diferida"
+  ],
+  "sections": [
+    {
+      "id": "E1-S1",
+      "title": "Epidemiología y Etiología de las Fracturas Faciales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas faciales suponen aproximadamente el 5% de todos los ingresos por traumatismo y representan una de las lesiones más frecuentes manejadas por los cirujanos orales y maxilofaciales en todo el mundo. La epidemiología varía significativamente según la región geográfica, reflejando diferencias en infraestructura, legislación de seguridad vial y factores culturales. En países de renta alta con programas eficaces de seguridad vial, la violencia interpersonal (agresión) ha superado a los accidentes de tráfico (AT) como causa principal en los centros urbanos — especialmente en el Reino Unido, donde la agresión representa el 40–60% de todas las fracturas faciales. Los accidentes de tráfico siguen siendo la etiología dominante en países de renta baja y media, así como en áreas rurales y entre poblaciones con infraestructura de seguridad vial limitada.\n\nLa distribución por edad y sexo refleja el mecanismo: la incidencia máxima se da en varones de 15 a 35 años para las fracturas relacionadas con agresiones, mientras que los pacientes de edad avanzada (>65 años) presentan cada vez más fracturas faciales por caídas — un patrón demográfico en aumento a medida que envejecen las poblaciones. Las caídas son la principal etiología en pacientes mayores de 65 años y en niños menores de 5. Las fracturas relacionadas con el deporte alcanzan su pico en varones de 20 a 40 años y suponen una proporción significativa de las fracturas nasales y cigomáticas. La intoxicación etílica es un factor contribuyente importante en todas las etiologías de fracturas faciales — presente en hasta el 50% de los casos relacionados con agresiones.\n\nEl hueso facial fracturado con mayor frecuencia es el hueso nasal (40–50% de las fracturas faciales), seguido de la mandíbula (20–30%), el complejo cigomático (15–20%), el suelo orbitario (10–15%) y las fracturas de macizo facial/Le Fort (5–10%). La mandíbula se fractura con mayor frecuencia a nivel parasinfisario y condilar. En niños, las fracturas faciales son proporcionalmente menos frecuentes debido a la protección relativa que ofrecen el tejido adiposo del esqueleto facial, la menor mineralización ósea (mayor plasticidad) y el efecto protector de los dientes no erupcionados sobre la mandíbula."
+        },
+        {
+          "type": "table",
+          "title": "Distribución de Fracturas Faciales por Hueso y Etiología Frecuente",
+          "headers": ["Localización de la Fractura", "Frecuencia", "Etiología Frecuente", "Predominio de Género"],
+          "rows": [
+            ["Hueso nasal", "40-50% de las fracturas faciales", "Golpe directo en nariz (agresión, deporte, caídas)", "Igual (ligero predominio masculino)"],
+            ["Mandíbula", "20-30%", "Agresión (parasínfisis); AT (cóndilo); caídas (ángulo/cuerpo)", "Varones 3:1"],
+            ["Complejo cigomático (CCZ)", "15-20%", "Agresión (golpe directo malar), AT", "Predominio masculino"],
+            ["Suelo orbitario / estallido", "10-15%", "Compresión directa del globo o impacto en mejilla", "Predominio masculino"],
+            ["Le Fort I/II/III", "5-10%", "AT de alta velocidad, caídas desde altura", "Predominio masculino"],
+            ["Seno frontal", "5-10%", "Impacto de alta velocidad (AT, agresión con arma)", "Predominio masculino"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Fractura Facial Más Frecuente — Hueso Nasal",
+          "content": "El hueso nasal es el hueso facial fracturado con mayor frecuencia (40-50% de todas las fracturas faciales) porque es la estructura facial más prominente con escasa protección de partes blandas. Sin embargo, la mayoría de las fracturas nasales son manejadas por ORL o médicos de urgencias, no por CCMF. Las fracturas manejadas por CCMF más importantes son las mandibulares, cigomáticas, Le Fort, orbitarias y de seno frontal. Las fracturas nasales se manejan con reducción cerrada bajo anestesia local en la primera semana o diferida 7-10 días para que remita la inflamación."
+        }
+      ]
+    },
+    {
+      "id": "E1-S2",
+      "title": "Abordaje ATLS en el Traumatismo Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El marco del Advanced Trauma Life Support (ATLS) proporciona el abordaje sistemático a todos los pacientes politraumatizados, incluidos los que presentan lesiones faciales. Las fracturas faciales raramente causan por sí solas una lesión inmediatamente amenazante para la vida, pero pueden acompañar o provocar tres complicaciones críticas que requieren manejo inmediato: compromiso de la vía aérea, hemorragia masiva y lesión intracraneal asociada.\n\nLa **valoración primaria** (ABCDE) se realiza de forma simultánea con la reanimación: (A) Vía aérea con protección de la columna cervical — las fracturas faciales pueden comprometer la vía aérea por hemorragia, desplazamiento de fragmentos óseos, prolapso lingual (fracturas bilaterales parasinfisarias con pérdida de la suspensión lingual) o edema; (B) Respiración — valorar neumotórax a tensión, hemotórax (asociados a fracturas costales en traumatismos de alta energía); (C) Circulación con control de la hemorragia — las fracturas faciales pueden causar hemorragia masiva, especialmente desde las arterias maxilar/etmoidal en fracturas del macizo facial y desde la arteria alveolar inferior en fracturas mandibulares; (D) Estado neurológico — valoración GCS, exploración pupilar (pupilas asimétricas sugieren lesión intracraneal — siempre realizarla en traumatismo facial); (E) Exposición — exposición completa del cuerpo para identificar lesiones asociadas.\n\nDebe asumirse lesión de la columna cervical y mantener la inmovilización hasta descartarla radiológicamente. La 10ª edición de ATLS (2018) indica que hasta el 4% de los pacientes con fracturas faciales presentan lesión asociada de la columna cervical — mayor riesgo con Le Fort II/III de alta energía y fracturas panfaciales. La vía nasofaríngea, la vía orofaríngea o la intubación de secuencia rápida (ISR) son opciones de manejo de la vía aérea; la vía aérea quirúrgica (cricotirotomía) está indicada cuando la intubación es imposible ('no puedo intubar, no puedo oxigenar'). La intubación nasotraqueal está contraindicada cuando hay fracturas del macizo facial (riesgo de colocación intracraneal a través de una fractura de la lámina cribosa)."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Intubación Nasotraqueal — Contraindicación Absoluta en Fracturas del Macizo Facial",
+          "content": "La intubación nasotraqueal está ABSOLUTAMENTE CONTRAINDICADA cuando hay una fractura del macizo facial (Le Fort II, Le Fort III, seno frontal o fractura sospechada de la lámina cribosa). El tubo nasotraqueal puede atravesar una fractura de la lámina cribosa y entrar directamente en la fosa craneal anterior, provocando una colocación intracraneal catastrófica y contaminación del LCR. En fracturas del macizo facial, utilizar: intubación orotraqueal (ISR), intubación submentoniana, o vía aérea quirúrgica (cricotirotomía/traqueostomía)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Fractura Bilateral Parasinfisaria — Riesgo de Vía Aérea 'Asa de Cubo'",
+          "content": "Las fracturas mandibulares bilaterales parasinfisarias (fractura en 'asa de cubo') pueden causar obstrucción de la vía aérea con riesgo vital al permitir que el segmento mandibular central (que lleva la lengua mediante la inserción del músculo geniogloso) caiga hacia atrás, bloqueando la faringe. Esto es más peligroso en decúbito supino. Manejo de urgencia: tracción anterior de la lengua (sutura lingual o tracción manual), colocar al paciente en posición sentada si es posible, y asegurar la vía aérea. Este mecanismo explica por qué las fracturas bilaterales parasinfisarias constituyen una indicación relativa de reparación quirúrgica precoz."
+        }
+      ]
+    },
+    {
+      "id": "E1-S3",
+      "title": "Control de la Hemorragia en el Traumatismo Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La hemorragia facial de origen fracturario puede ser potencialmente mortal, especialmente en lesiones del macizo facial de alta energía. El aporte sanguíneo al macizo facial procede de la arteria maxilar interna (rama de la arteria carótida externa), que da origen a las arterias palatina descendente, esfenopalatina, infraorbitaria y palatina mayor. Las arterias etmoidales anterior y posterior (ramas de la arteria oftálmica, territorio de la carótida interna) también irrigan el macizo facial y se lesionan con frecuencia en las fracturas naso-orbito-etmoidales (NOE). Una hemorragia significativa puede producirse hacia la nasofaringe, la cavidad oral y el espacio retrofaríngeo.\n\nEl manejo de la hemorragia facial sigue la secuencia de control hemorrágico del ATLS: presión directa (en heridas externas), taponamiento nasal (anterior y posterior) para la epistaxis, y taponamiento con balón (sonda Foley en nasofaringe o balón de epistaxis comercial) para la epistaxis posterior. La reducción y estabilización de las fracturas del macizo facial desplazadas (incluso mediante reducción manual y fijación temporal) reduce el sangrado arterial al restaurar los planos tisulares y proporcionar taponamiento. **La radiología intervencionista (embolización)** de la arteria maxilar o sus ramas está indicada en hemorragias no controladas con taponamiento y reducción de la fractura. Las ramas de la arteria carótida interna (arterias etmoidales) no pueden embolizarse y pueden requerir ligadura quirúrgica.\n\nLa formación de pseudoaneurismas es una complicación tardía (días a semanas) de las fracturas del macizo facial y de la pared orbitaria. Se presenta como epistaxis tardía (secundaria), a menudo grave, que aparece 7–14 días tras la lesión. Se requieren de forma urgente angio-TC e intervención radiológica para embolización. La arteria maxilar interna y sus ramas son los vasos afectados con mayor frecuencia."
+        },
+        {
+          "type": "table",
+          "title": "Algoritmo de Manejo de la Hemorragia en el Traumatismo Facial",
+          "headers": ["Gravedad", "Presentación Clínica", "Tratamiento de Primera Línea", "Escalada"],
+          "rows": [
+            ["Epistaxis leve", "Sangrado anterior, no abundante", "Presión directa, taponamiento nasal anterior", "Spray vasoconstrictor (oximetazolina), cauterización"],
+            ["Epistaxis moderada", "Sangrado posterior, persistente", "Taponamiento nasal posterior o balón (Rapid Rhino)", "Valoración ORL; revisar reducción de la fractura"],
+            ["Hemorragia facial grave", "Abundante, depleción de volumen, compromiso hemodinámico", "Reducción de la fractura + taponamiento + hemoderivados", "Embolización (radiología intervencionista)"],
+            ["Pseudoaneurisma (tardío)", "Epistaxis grave diferida 7-14 días tras la lesión", "Angio-TC", "Embolización; raramente ligadura quirúrgica"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E1-S4",
+      "title": "Imagen en las Fracturas Faciales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "La selección de la técnica de imagen para las fracturas faciales depende de la presentación clínica, el patrón de fractura sospechado y si se planifica un manejo quirúrgico. Las modalidades disponibles son:\n\n**Radiografías simples**: En gran medida superadas en el ámbito urgente, aunque ciertas proyecciones mantienen utilidad en entornos con recursos limitados. La ortopantomografía (OPG) sigue siendo el estándar para las fracturas mandibulares. La proyección occipito-mentoniana (Waters) a 30° y 45° proporciona un cribado útil para fracturas cigomáticas y del macizo facial, mostrando los rebordes orbitarios, los arcos cigomáticos y los senos maxilares. La proyección submentovertex visualiza los arcos cigomáticos en sentido axial.\n\n**TC multicorte (TCMC)** con reconstrucciones axial, coronal y volumétrica 3D es el gold standard para el diagnóstico y la planificación quirúrgica de las fracturas faciales. Proporciona la siguiente información crítica: localización, patrón y grado de desplazamiento de la fractura; afectación de las paredes orbitarias (suelo, pared medial), del canal óptico y de la lámina cribosa; patología intracraneal (hematoma, neumoencéfalo); lesión de partes blandas (hematoma, herniación de grasa orbitaria, atrapamiento del músculo extraocular); e identificación de cuerpos extraños. Las reconstrucciones 3D son esenciales para comprender patrones complejos de fractura (panfacial, Le Fort, CCZ) y para la planificación quirúrgica virtual.\n\n**CBCT** proporciona un detalle óseo de alta resolución con menor dosis de radiación que el TCMC, pero no es adecuado para el traumatismo agudo (requisitos de posicionamiento del paciente, adquisición más lenta). Es útil para la planificación electiva de reparaciones diferidas de fracturas faciales.\n\n**RM** está indicada para la valoración específica de lesiones de partes blandas: atrapamiento del músculo extraocular (cuando se sospecha fractura de estallido con ojo blanco), lesión del nervio óptico, hematoma orbitario y lesión intracraneal. No es de primera línea en la valoración aguda de fracturas."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Proyección de Waters — Radiografía Simple Estándar para el Macizo Facial",
+          "content": "La proyección occipito-mentoniana (Waters) a 30° es la radiografía clásica de cribado del macizo facial: proyecta claramente las órbitas, los arcos cigomáticos, los senos maxilares y los rebordes orbitarios. Hallazgos clave: nivel hidroaéreo en seno maxilar (hemoseno) = fractura de suelo o estallido orbitario hasta que se demuestre lo contrario; signo de la 'gota colgante' = grasa orbitaria herniada a través de una fractura del suelo; deformidad en 'asa de cubo' del arco cigomático = fractura del CCZ. Sin embargo, la TC ha reemplazado en gran medida la proyección de Waters en los centros de traumatología con recursos adecuados."
+        }
+      ]
+    },
+    {
+      "id": "E1-S5",
+      "title": "Lesiones de Partes Blandas en el Traumatismo Facial",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las lesiones de partes blandas faciales acompañan a las fracturas en aproximadamente el 60% de los casos y requieren una valoración y un manejo sistemáticos. Las heridas se evalúan en cuanto a: profundidad e implicación de estructuras subyacentes (músculo, conducto parotídeo, nervio facial, sistema lagrimal), contaminación (restos de asfalto, cristal, fragmentos dentales), presencia de tejido desvitalizado y antigüedad de la herida (el 'período de oro' para el cierre primario es generalmente dentro de las 24 horas).\n\nLas laceraciones en la región facial pueden cerrarse primariamente hasta 24–48 horas después de la lesión gracias al excelente aporte sanguíneo de la cara, que confiere una resistencia significativa a la infección. Este principio de cierre primario diferido difiere del manejo de las heridas en extremidades. La irrigación profusa (mínimo 500 mL de suero salino a presión por herida), el desbridamiento del tejido claramente desvitalizado (conservador en la cara — desbridamiento mínimo por la vascularización) y el cierre por planos (suturas absorbibles profundas para músculo y dermis profunda, monofilamento no absorbible superficial para piel) son el estándar. La profilaxis antibiótica está indicada en heridas muy contaminadas, mordeduras (humanas y animales) y heridas que implican la cavidad oral.\n\nLas estructuras anatómicas específicas que requieren inspección y manejo cuidadosos incluyen: **conducto parotídeo** (discurre desde la glándula parótida hasta la mucosa oral siguiendo una línea desde el trago hasta el punto medio del filtrum — las lesiones que cruzan esta línea deben examinarse para descartar afectación ductal); **ramas del nervio facial** (la función motora debe evaluarse antes y después de la reparación de la herida — se recomienda neurorrafi a primaria inmediata o marcado para reparación diferida si se identifica lesión de rama del VII par); **sistema lagrimal** (las laceraciones del canto medial pueden afectar los canalículos lagrimales — la lesión requiere dacriocistorrinostomía o intubación con stent de silicona para prevenir epífora); y **laceraciones palpebrales** (las laceraciones palpebrales de espesor completo requieren reparación cuidadosa del tarso además del cierre cutáneo)."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Lesión del Conducto Parotídeo — Zona de Sospecha",
+          "content": "El conducto parotídeo (conducto de Stensen) discurre desde la glándula parótida anteriormente hasta abrirse en la mucosa oral al nivel del segundo molar superior. Sigue aproximadamente una línea desde el trago de la oreja hasta el punto medio del labio superior. CUALQUIER laceración que cruce esta línea debe hacer sospechar una lesión del conducto parotídeo. Diagnóstico: expresar saliva desde el orificio ductal y observar si hay fuga salival en la herida. Manejo: reparación primaria sobre un stent (sonda lagrimal) o ligadura ductal (la parótida accesoria drena por canales separados en algunos pacientes). Una lesión del conducto parotídeo no diagnosticada produce sialocelio o fístula salival cutánea."
+        }
+      ]
+    },
+    {
+      "id": "E1-S6",
+      "title": "Momento de la Reparación de las Fracturas Faciales",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "El momento de la reparación quirúrgica de las fracturas faciales viene determinado por el estado del paciente, el tipo de fractura, la urgencia funcional y los factores logísticos. Las fracturas se clasifican en tres grupos temporales:\n\n**Cirugía inmediata (en horas)**: Indicada ante complicaciones potencialmente mortales: hemorragia no controlada que requiere reducción de la fractura para taponamiento, compromiso de la vía aérea que requiere estabilización definitiva de la fractura (fracturas bilaterales parasinfisarias mandibulares), compromiso visual por hematoma orbitario que requiere descompresión, y fractura de estallido orbitaria con 'ojo blanco' con atrapamiento del recto inferior (especialmente en niños — urgencia quirúrgica).\n\n**Cirugía precoz (24–72 horas)**: Momento ideal para la mayoría de las fracturas faciales en pacientes estables. La reparación precoz permite el tratamiento definitivo antes de que se desarrolle un edema significativo, lo que reduce la dificultad quirúrgica y mejora los resultados. Las fracturas nasales, los estallidos orbitarios y las fracturas cigomáticas se reparan idealmente antes de las 72 horas, antes de que comience la unión fibrosa. La mayoría de las fracturas mandibulares y Le Fort I/II/III pueden repararse dentro de las 72 horas.\n\n**Cirugía diferida (1–2 semanas tras la lesión)**: Empleada cuando el paciente está médicamente inestable (traumatismo craneal, politraumatismo), cuando el edema es demasiado intenso para una reparación primaria segura, o cuando se opta inicialmente por manejo conservador con reevaluación posterior. Esperar más de 2 semanas aumenta el riesgo de unión fibrosa/ósea en el foco de fractura, lo que complica la reducción anatómica exacta y aumenta el riesgo de pseudoartrosis con vicio de consolidación que requeriría osteotomía secundaria.\n\n**Reconstrucción secundaria** (meses a años): Para fracturas con consolidación viciosa significativa o manejadas inicialmente con reducción cerrada. Se emplean osteotomías secundarias, injertos óseos y relleno aloplástico para la corrección tardía de la deformidad."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Fractura de Estallido con Ojo Blanco — Urgencia Quirúrgica Pediátrica",
+          "content": "La fractura de estallido orbitario con 'ojo blanco' en niños es una urgencia quirúrgica (reparación en 24-48 horas). En niños, la fractura del suelo orbitario puede atrapar el músculo recto inferior en una fractura en trampa (el hueso pediátrico elástico vuelve a su posición tras la fractura, atrapando el músculo). El ojo aparece blanco (sin hematoma periorbitario por la elasticidad del hueso — de ahí 'ojo blanco'), hay una grave restricción de la supraducción, y el niño presenta náuseas/vómitos por el reflejo oculocardiaco. La demora produce necrosis isquémica del músculo y diplopía permanente. Los estallidos orbitarios en adultos generalmente pueden esperar hasta 2 semanas para la reparación."
+        }
+      ]
+    },
+    {
+      "id": "E1-S7",
+      "title": "Lesiones Intracraneales Asociadas",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Las fracturas faciales se asocian con frecuencia a lesiones intracraneales, especialmente en mecanismos de alta energía. Hasta el 20–30% de los pacientes con fracturas faciales presentan lesiones intracraneales en la TC, que van desde contusiones cerebrales y daño axonal difuso hasta hematomas epidurales y subdurales. La relación es especialmente fuerte en: fracturas del seno frontal (las fracturas de la tabla posterior comunican directamente con la fosa craneal anterior), fracturas Le Fort III (afectan la órbita y la base del cráneo), fracturas panfaciales (mecanismo de alta energía) y lesiones penetrantes.\n\nLa rinorrea de LCR — secreción acuosa y clara por la nariz — es un signo de fractura de la base del cráneo a través de la lámina cribosa o del techo del etmoides, creando una comunicación entre el espacio subaracnoideo y la cavidad sinonasal. La prueba de beta-2 transferrina (electroforesis que identifica la proteína beta-2 transferrina específica del SNC) es el test confirmatorio de referencia para la fuga de LCR. La TC de alta resolución con cisternografía confirma la localización de la fuga de LCR para la planificación quirúrgica. La mayoría de las rinorreas de LCR por fracturas del seno frontal se resuelven espontáneamente en 7–10 días con reposo en cama, elevación de la cabecera y antibioterapia profiláctica. La fuga persistente más allá de 7 días o la fuga recurrente requieren reparación neuroquirúrgica o endoscópica endonasal. El riesgo de meningitis bacteriana por una fuga de LCR no reparada es aproximadamente del 10% a los 10 años.\n\nLa hipertensión intracraneal (monitorización de la PIC), la coagulopatía por traumatismo craneal y la necesidad de terapia antiplaquetaria o anticoagulante en el período poslesional requieren una coordinación multidisciplinar cuidadosa entre neurocirujanos, intensivistas y el equipo de maxilofacial a la hora de planificar el momento de la reparación de las fracturas faciales en pacientes politraumatizados."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Evalúa tus conocimientos sobre los principios generales de las fracturas faciales con 20 preguntas tipo MIR.",
+    "questions": [
+      {
+        "id": "E1-Q1",
+        "stem": "Un varón de 22 años es trasladado al servicio de urgencias tras un accidente de moto a alta velocidad. Presenta un GCS de 14, está hemodinámicamente estable y tiene inflamación facial obvia e inestabilidad del macizo facial. Respira de forma espontánea. El equipo de trauma está planificando el manejo de la vía aérea. ¿Qué intervención sobre la vía aérea está CONTRAINDICADA en este paciente?",
+        "options": {
+          "A": "Intubación de secuencia rápida (ISR) por vía orotraqueal",
+          "B": "Intubación orotraqueal con fibroscopio en paciente despierto",
+          "C": "Intubación nasotraqueal",
+          "D": "Cricotirotomía quirúrgica"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "La intubación nasotraqueal está absolutamente contraindicada en un paciente con inestabilidad del macizo facial (que sugiere fractura Le Fort II o III) porque el tubo puede atravesar una fractura de la lámina cribosa y entrar en la fosa craneal anterior, provocando una colocación intracraneal catastrófica. En cualquier paciente con fracturas del macizo facial, fracturas de la base del cráneo o sospecha de afectación de la lámina cribosa, no debe intentarse la intubación nasotraqueal. La ISR orotraqueal, la intubación orotraqueal con fibroscopio en paciente despierto, o la vía aérea quirúrgica son las alternativas seguras.",
+          "wrong": {
+            "A": "La ISR por vía orotraqueal es segura y apropiada para este paciente — es el abordaje de urgencia estándar ante vía aérea comprometida con fracturas del macizo facial.",
+            "B": "La intubación orotraqueal con fibroscopio en paciente despierto es segura y ofrece la ventaja de preservar la ventilación espontánea durante el procedimiento. Apropiada si la ISR no es factible de inmediato.",
+            "D": "La cricotirotomía quirúrgica es la vía aérea de rescate ante 'no puedo intubar, no puedo oxigenar' — es una intervención segura en este escenario."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — intubación nasotraqueal absolutamente contraindicada en fracturas del macizo facial/sospecha de fractura de la lámina cribosa",
+          "trial": "Majernick TG et al. Cervical spine movement during orotracheal intubation. Ann Emerg Med (1986): la ISR orotraqueal con estabilización en línea es segura ante sospecha de lesión cervical; el paso del tubo nasotraqueal a través de fracturas de la lámina cribosa es una complicación catastrófica documentada",
+          "pearl": "Fractura del macizo facial = INTUBACIÓN NASOTRAQUEAL CONTRAINDICADA. Riesgo: el tubo entra en la fosa craneal anterior por la fractura de la lámina cribosa. Alternativas seguras: ISR orotraqueal, fibroscopio orotraqueal en paciente despierto, intubación submentoniana, vía aérea quirúrgica. Esta es la contraindicación de vía aérea más importante en el traumatismo facial."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q2",
+        "stem": "Un trabajador de la construcción de 45 años sufre fracturas mandibulares bilaterales parasinfisarias al caer. En la sala de recuperación, a pesar del oxígeno suplementario, presenta dificultad respiratoria progresiva y la saturación de oxígeno desciende al 87%. Está en decúbito supino. ¿Cuál es la causa más probable de su compromiso de la vía aérea?",
+        "options": {
+          "A": "Aspiración de sangre de las laceraciones gingivales",
+          "B": "Prolapso posterior del segmento mandibular central que arrastra la base de la lengua",
+          "C": "Fractura laríngea por la caída",
+          "D": "Neumotórax a tensión por fracturas costales"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Las fracturas mandibulares bilaterales parasinfisarias (la clásica fractura en 'asa de cubo') interrumpen la inserción anterior de los músculos geniogloso y genihioideo en las espinas mentonianas del mentón. Sin este anclaje óseo anterior, la lengua pierde su suspensión anterior y el fragmento central puede caer hacia atrás en decúbito supino, provocando obstrucción faríngea. Este es el mecanismo clásico de compromiso de la vía aérea por fracturas bilaterales parasinfisarias. Tratamiento inmediato: tracción anterior de la lengua (sutura lingual), colocar al paciente en posición lateral/prono, o reducir manualmente y estabilizar el segmento de fractura.",
+          "wrong": {
+            "A": "La aspiración de sangre puede comprometer la vía aérea, pero se presenta de forma más gradual. El mecanismo de la fractura bilateral parasinfisaria es el riesgo agudo específico en este caso.",
+            "C": "La fractura laríngea por caída es posible, pero el patrón específico de fractura bilateral parasinfisaria es el mecanismo más relevante y directamente responsable de este cuadro clínico.",
+            "D": "El neumotórax a tensión se presentaría con desviación traqueal, ausencia de murmullo vesicular y compromiso hemodinámico (hipotensión, ingurgitación yugular) — un cuadro clínico diferente."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) y EACMFS Trauma Guidelines (2021) — fracturas bilaterales parasinfisarias: mecanismo clásico en 'asa de cubo' para obstrucción faríngea en decúbito supino",
+          "trial": "Hogg NJV et al. Facial fractures and airway compromise in polytrauma. J Trauma (2004): las fracturas bilaterales parasinfisarias se identificaron como riesgo específico de la vía aérea por pérdida de suspensión del geniogloso",
+          "pearl": "Fracturas bilaterales parasinfisarias = mecanismo 'asa de cubo' = LA LENGUA CAE HACIA ATRÁS en decúbito supino = OBSTRUCCIÓN DE LA VÍA AÉREA. Tratamiento: sutura/tracción lingual + paciente en posición lateral/prono + estabilización urgente de la fractura. Esta es una indicación RELATIVA de RAFI precoz — para restaurar la suspensión lingual."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q3",
+        "stem": "Una mujer de 35 años presenta secreción acuosa clara por el orificio nasal izquierdo tras una fractura Le Fort II manejada de forma conservadora. Está afebril. La prueba más específica para confirmar la rinorrea de LCR es:",
+        "options": {
+          "A": "Test con tira de glucosa oxidasa (Dextrostix)",
+          "B": "Inmunoelectroforesis de beta-2 transferrina",
+          "C": "RM cerebral sin contraste",
+          "D": "Endoscopia nasal bajo anestesia local"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La inmunoelectroforesis de beta-2 transferrina (también denominada proteína tau) es el test confirmatorio de referencia para detectar LCR en la secreción nasal o aural. La beta-2 transferrina se produce exclusivamente en el LCR por la actividad de la neuraminidasa sobre la transferrina sérica normal — está ausente en el moco nasal, la sangre y las lágrimas. Un resultado positivo confirma la fuga de LCR por un defecto dural. La prueba requiere solo un volumen de muestra pequeño (>0,5 mL) y tiene una sensibilidad >95% y una especificidad ~100% para el LCR.",
+          "wrong": {
+            "A": "La tira de glucosa oxidasa se utilizaba históricamente (el LCR contiene glucosa, a diferencia del moco nasal en solitario). Sin embargo, tiene una especificidad muy baja — la contaminación con sangre, las lágrimas y el moco pueden dar resultados positivos. Ya no se recomienda como test confirmatorio.",
+            "C": "La RM cerebral puede mostrar cambios intracraneales pero no confirma ni localiza directamente la rinorrea de LCR. La TC de alta resolución con cisternografía es la modalidad de imagen utilizada para localizar el punto de fuga.",
+            "D": "La endoscopia nasal puede visualizar la fuga de LCR cuando está activa, pero no es un test diagnóstico confirmatorio — puede mostrar líquido claro pero no puede distinguir el LCR de otros fluidos claros."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — beta-2 transferrina: prueba de referencia para la confirmación de fuga de LCR",
+          "trial": "Bachmann-Harildstad G et al. Beta-2 transferrin vs glucose test for CSF leak identification. Emerg Med J (2007): sensibilidad de beta-2 transferrina 100%, especificidad 95% vs sensibilidad de tira de glucosa 92%, especificidad 38%",
+          "pearl": "Confirmación de rinorrea de LCR = prueba de BETA-2 TRANSFERRINA. Estándar de referencia. Sensibilidad 100%, especificidad ~100%. NO tira de glucosa (baja especificidad). Se necesita una muestra pequeña. También denominada prueba de proteína beta-traza (alternativa). Riesgo de meningitis por fuga de LCR no reparada: ~10% a los 10 años."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q4",
+        "stem": "Según la 10ª edición del ATLS, ¿qué porcentaje de los pacientes con fracturas faciales tienen lesión cervical asociada?",
+        "options": {
+          "A": "1%",
+          "B": "4%",
+          "C": "15%",
+          "D": "25%"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La 10ª edición del ATLS (2018) cita que aproximadamente el 4% de los pacientes con fracturas faciales tienen lesiones asociadas de la columna cervical. Esto es superior a la población traumatológica general (aproximadamente el 2%), lo que refleja que las fuerzas necesarias para fracturar el esqueleto facial a menudo se transmiten a la columna cervical. La asociación es más fuerte para las fracturas Le Fort II/III de alta energía, las panfaciales y las del seno frontal. Todos los pacientes con traumatismo facial deben tratarse con inmovilización cervical hasta completar el descarte clínico y radiológico.",
+          "wrong": {
+            "A": "El 1% subestima el riesgo citado en la 10ª edición del ATLS.",
+            "C": "El 15% sobreestima significativamente la asociación.",
+            "D": "El 25% está muy por encima de la tasa notificada."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — lesión cervical en el 4% de los pacientes con fracturas faciales; inmovilización cervical obligatoria hasta descartarla",
+          "trial": "Davidson JS et al. Facial fractures and concomitant injuries in trauma patients. Laryngoscope (1989): lesión de columna cervical en el 3,9% de los pacientes con fracturas faciales, máxima en traumatismo panfacial",
+          "pearl": "ATLS: el 4% de los pacientes con fractura facial tienen lesión cervical. Inmovilizar siempre la columna cervical en el traumatismo facial hasta descartarla. Mayor riesgo: fracturas panfaciales, Le Fort II/III, mecanismos de alta energía."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q5",
+        "stem": "La causa más frecuente de fracturas faciales en los centros urbanos del Reino Unido es:",
+        "options": {
+          "A": "Accidentes de tráfico",
+          "B": "Violencia interpersonal (agresión)",
+          "C": "Lesiones deportivas",
+          "D": "Caídas desde altura"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "En el Reino Unido, la violencia interpersonal (agresión) ha superado a los accidentes de tráfico como causa principal de fracturas faciales en los centros urbanos, representando aproximadamente el 40-60% de todas las fracturas faciales en los servicios de urgencias metropolitanos. Esto refleja la eficacia de la legislación de seguridad vial, las limitaciones de velocidad, las leyes sobre el cinturón de seguridad y el control de la conducción bajo la influencia del alcohol para reducir el traumatismo facial relacionado con los AT, junto con la persistente tasa elevada de lesiones por agresión en las poblaciones urbanas.",
+          "wrong": {
+            "A": "Los AT siguen siendo una causa importante a nivel mundial y en el Reino Unido rural, pero en los centros urbanos del Reino Unido, la agresión ha superado a los AT como causa principal.",
+            "C": "Las lesiones deportivas son una causa importante, pero no superan a la agresión en los centros urbanos.",
+            "D": "Las caídas son la principal causa en los pacientes de edad avanzada (>65) y en los niños, pero no la causa dominante en la población adulta urbana general del Reino Unido."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — epidemiología en el Reino Unido: agresión como causa principal en zonas urbanas; AT como causa principal en zonas rurales y a nivel global",
+          "trial": "Banks P et al. Facial fracture epidemiology in Scotland. Br J Oral Maxillofac Surg (2000): agresión en el 52% de las fracturas faciales en la población urbana escocesa; AT en el 22%",
+          "pearl": "Fracturas faciales en el Reino Unido urbano = AGRESIÓN la más frecuente (40-60%). Países de renta baja y entornos rurales = AT la más frecuente. Ancianos = CAÍDAS la más frecuente. El alcohol está implicado en hasta el 50% de los casos por agresión."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q6",
+        "stem": "Un niño de 9 años sufre un golpe directo en la mejilla derecha en una lesión deportiva y se presenta con limitación de la supraducción del ojo derecho, náuseas y vómitos. El ojo aparece blanco (sin hematoma periorbitario). La TC muestra una fractura del suelo orbitario derecho con aparente herniación tisular. ¿Cuál es el manejo apropiado?",
+        "options": {
+          "A": "Manejo conservador con observación durante 2 semanas antes de decidir la cirugía",
+          "B": "Reparación quirúrgica urgente en 24-48 horas",
+          "C": "Corticosteroides sistémicos y crioterapia durante 72 horas; cirugía si no hay mejoría",
+          "D": "Enucleación inmediata del ojo derecho para aliviar la presión"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Este niño tiene una fractura de estallido orbitario en trampa clásica con 'ojo blanco' — una urgencia quirúrgica pediátrica. El suelo orbitario pediátrico elástico se flexiona y vuelve a su posición tras la fractura (mecanismo en trampa), atrapando el músculo recto inferior en el defecto. El ojo blanco (sin hematoma periorbitario — el hueso elástico no provocó disrupción de partes blandas), la restricción de la supraducción y el reflejo oculocardiaco (náuseas/vómitos por estimulación vagal del músculo atrapado) son patognomónicos. La reparación quirúrgica inmediata en 24-48 horas es necesaria para liberar el músculo atrapado antes de que se produzca necrosis isquémica. El retraso causa fibrosis permanente del músculo extraocular y diplopía.",
+          "wrong": {
+            "A": "Esperar 2 semanas en un niño con atrapamiento muscular producirá necrosis isquémica del recto inferior y diplopía permanente. Los estallidos orbitarios en adultos pueden esperar 2 semanas; las lesiones en trampa pediátricas no.",
+            "C": "Los corticosteroides no liberan un músculo mecánicamente atrapado. Este retraso es inadecuado y causará daño permanente.",
+            "D": "La enucleación es completamente inapropiada y destruiría un ojo sano. El problema es el atrapamiento muscular en la fractura del suelo, no el ojo en sí."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — estallido orbitario pediátrico con 'ojo blanco' y atrapamiento muscular: urgencia quirúrgica, reparación en 24-48 horas",
+          "trial": "Egbert JE et al. Direct correlation of white eye blowout fracture with urgent repair and late diplopia. Arch Ophthalmol (2000): la reparación diferida >48h se asoció con una tasa del 100% de diplopía permanente en el atrapamiento muscular en trampa",
+          "pearl": "Estallido con OJO BLANCO en NIÑO = URGENCIA QUIRÚRGICA (24-48 horas). Tríada clásica: ojo blanco (sin hematoma) + restricción de supraducción + náuseas/vómitos (reflejo oculocardiaco). Mecanismo en trampa que atrapa el recto inferior. Cirugía URGENTE = buen pronóstico. Cirugía DIFERIDA = diplopía permanente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q7",
+        "stem": "Un varón de 28 años presenta una laceración que cruza la línea desde el trago hasta el punto medio del filtrum. La exploración revela líquido claro expresado desde la herida con el masaje facial. ¿Qué estructura ha sido lesionada?",
+        "options": {
+          "A": "Rama temporal del nervio facial",
+          "B": "Conducto parotídeo (conducto de Stensen)",
+          "C": "Arteria facial",
+          "D": "Rama bucal del nervio facial"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El conducto parotídeo (conducto de Stensen) discurre desde la glándula parótida anteriormente hasta abrirse en la mucosa oral frente al segundo molar superior. Sigue aproximadamente una línea desde el trago hasta el punto medio del filtrum. Una laceración que cruza esta línea, con líquido claro (saliva) expresado con el masaje facial, confirma una lesión del conducto parotídeo. El líquido es saliva, expresada al masajear la glándula parótida. Manejo: reparación primaria sobre un stent de silicona o sonda lagrimal para mantener la permeabilidad del lumen; si no es reparable, ligadura ductal. Una lesión no diagnosticada produce sialocelio o fístula salival cutánea.",
+          "wrong": {
+            "A": "La rama temporal del nervio facial discurre desde la región del agujero estilomastoideo hasta el cuero cabelludo temporal — superior a la línea descrita. Su lesión causa debilidad del frontal/orbicular superior, no fuga salival.",
+            "C": "La arteria facial discurre desde la región submandibular hasta el canto medial — sangraría, no produciría líquido claro.",
+            "D": "La lesión de la rama bucal produciría déficit motor (debilidad del buccinador/orbicular de la boca), no líquido claro."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — zona del conducto parotídeo: cualquier laceración a lo largo de la línea trago-filtrum debe examinarse para descartar lesión ductal",
+          "trial": "Lazaridou M et al. Salivary gland trauma. J Trauma Acute Care Surg (2012): lesión del conducto parotídeo identificada en el 3% de las laceraciones faciales que cruzan la línea ductal; la reparación sobre stent reduce la tasa de sialocelio del 78% al 8%",
+          "pearl": "El conducto parotídeo (de Stensen) discurre TRAGO → PUNTO MEDIO DEL FILTRUM. CUALQUIER laceración que cruce esta línea → examinar lesión ductal. Test confirmatorio: expresar saliva de la herida masajeando la parótida. Tratamiento: reparación sobre sonda lagrimal como stent. NUNCA pasarlo por alto — una lesión ductal no diagnosticada causa una fístula salival cutánea persistente."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q8",
+        "stem": "¿Cuál es la técnica de imagen de referencia para el diagnóstico y la planificación quirúrgica de las fracturas faciales complejas?",
+        "options": {
+          "A": "Combinación de OPG y proyección de Waters",
+          "B": "TC multicorte con reconstrucciones axial, coronal y volumétrica 3D",
+          "C": "RM del esqueleto facial",
+          "D": "CBCT en el servicio de urgencias"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La TC multicorte (TCMC) con reconstrucciones axial, coronal (o reconstrucción coronal a partir de datos axiales) y volumétrica 3D es el estándar de referencia para el diagnóstico y la planificación quirúrgica de las fracturas faciales. Proporciona: caracterización precisa de la fractura en 3D, identificación de lesiones intracraneales, detección de herniación de grasa orbitaria y atrapamiento del músculo extraocular, valoración del canal óptico y de la lámina cribosa, y los datos necesarios para la planificación quirúrgica virtual y la cirugía sobre modelos. Está disponible en todos los centros de traumatología importantes.",
+          "wrong": {
+            "A": "La OPG + proyección de Waters proporciona información limitada y es aceptable únicamente para el cribado de fracturas mandibulares o del macizo facial aisladas en entornos con recursos limitados. No aporta información tridimensional y pasa por alto muchas fracturas.",
+            "C": "La RM proporciona excelente detalle de partes blandas pero escaso detalle óseo — no es adecuada como imagen primaria de fracturas. Se usa como complemento para preguntas específicas de partes blandas (músculo extraocular, nervio óptico).",
+            "D": "El CBCT proporciona excelente detalle óseo pero tiene limitaciones de posicionamiento del paciente (requiere que el paciente esté de pie/sentado), lo que lo hace inadecuado para el traumatismo agudo. Se utiliza para la planificación electiva."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — TC multicorte con reconstrucción 3D: estándar de referencia para el diagnóstico y la planificación quirúrgica de fracturas faciales",
+          "trial": "Hogg NJV et al. CT in facial fractures. J Trauma (2004): la TC con reconstrucción 3D identificó un 34% más de fracturas que las radiografías simples en pacientes con traumatismo facial",
+          "pearl": "Imagen de REFERENCIA en fracturas faciales = TC MULTICORTE + AXIAL + CORONAL + RECONSTRUCCIÓN 3D. No RM (solo partes blandas). No radiografías simples (limitadas). La TC detecta simultáneamente lesiones intracraneales — fundamental en el traumatismo de alta energía."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q9",
+        "stem": "Un varón de 55 años sufrió una fractura del seno frontal en un accidente de tráfico hace 10 días. Ahora acude con cefalea intensa, fotofobia, rigidez de nuca y fiebre (38,9°C). ¿Qué complicación ha ocurrido?",
+        "options": {
+          "A": "Sinusitis posttraumática",
+          "B": "Meningitis bacteriana por fuga de LCR",
+          "C": "Hematoma epidural",
+          "D": "Celulitis orbitaria con extensión intracraneal"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La presentación de cefalea, fotofobia, rigidez de nuca y fiebre a los 10 días de una fractura del seno frontal (que comunica con la fosa craneal anterior a través de la tabla posterior) es clásica de meningitis bacteriana por fuga de LCR. La fractura del seno frontal ha creado un desgarro dural que permite a las bacterias (comúnmente S. pneumoniae, H. influenzae) acceder al espacio subaracnoideo. Manejo inmediato: punción lumbar y análisis del LCR para confirmar la meningitis, antibioterapia IV (cefotaxima + dexametasona) y derivación a neurocirugía para reparación dural. El riesgo del 10% de meningitis a lo largo de la vida por fuga de LCR no tratada subraya la importancia de manejar la rinorrea de LCR.",
+          "wrong": {
+            "A": "La sinusitis posttraumática se presenta con dolor facial, congestión nasal y fiebre de bajo grado — no la tríada clásica de meningismo con cefalea/fotofobia/rigidez de nuca.",
+            "C": "El hematoma epidural se presenta de forma aguda (intervalo lúcido y luego deterioro del GCS) poco después de la lesión, no 10 días después con meningismo.",
+            "D": "La celulitis orbitaria con extensión intracraneal es una vía de infección diferente — típicamente desde la sinusitis etmoidal con progresión a trombosis del seno cavernoso. El contexto de la fractura del seno frontal apunta a meningitis."
+          },
+          "guideline": "BAOMS Maxillofacial Trauma Guidelines (2020) — fuga de LCR por fracturas del seno frontal: riesgo de meningitis ~10% a los 10 años; profilaxis antibiótica y reparación de la fuga persistente",
+          "trial": "Friedman JA et al. Posttraumatic cerebrospinal fluid leakage: a review. World Neurosurg (2001): la meningitis ocurre en el 10% de las rinorreas de LCR no tratadas en el seguimiento a largo plazo; la meningitis diferida (7-21 días) es la más frecuente",
+          "pearl": "Fractura del seno frontal + fuga de LCR → riesgo de MENINGITIS. Presentación diferida clásica: 7-21 días tras la lesión. Signos: meningismo (cefalea + fotofobia + rigidez de nuca) + fiebre. Tratamiento: punción lumbar URGENTE + antibioterapia IV + neurocirugía. Prevención: identificar y reparar las fugas de LCR que no se resuelven en 7 días."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q10",
+        "stem": "¿Qué representa el signo de 'hemoseno' en la radiografía simple (proyección de Waters) y cuál es su significado?",
+        "options": {
+          "A": "Nivel hidroaéreo en el seno maxilar que indica sangre en el seno, sugestivo de fractura del suelo orbitario o del macizo facial",
+          "B": "Opacificación de los senos etmoidales por sinusitis crónica",
+          "C": "Hiperaireación del seno frontal tras una fractura de estallido",
+          "D": "Opacificación del seno esfenoidal por pólipos inflamatorios"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "El hemoseno hace referencia a sangre en el interior de una cavidad sinusal, que aparece como un nivel hidroaéreo en una radiografía en bipedestación o como opacificación sinusal completa en la TC. En la proyección de Waters, un nivel hidroaéreo u opacificación del seno maxilar tras un traumatismo es un hallazgo muy significativo que indica disrupción de las paredes del seno (fractura del suelo orbitario, fractura del CCZ, fractura Le Fort). La sangre se acumula de los vasos mucosos y óseos desgarrados. Un hemoseno en la proyección de Waters siempre debe motivar una investigación adicional (TC) para identificar la fractura subyacente. El signo de la 'gota colgante' — una densidad de partes blandas en forma de lágrima que cuelga hacia el seno maxilar desde el suelo orbitario — es un signo específico de fractura de estallido orbitario con herniación de grasa orbitaria.",
+          "wrong": {
+            "B": "La sinusitis crónica causa engrosamiento mucoso, no un nivel hidroaéreo agudo. No está relacionada con el traumatismo.",
+            "C": "Las fracturas de estallido causan descompresión — el seno puede estar AIREADO y no hiperaireado. La hiperaireación no es un signo específico.",
+            "D": "Los pólipos del seno esfenoidal causan opacificación bilateral en un patrón no traumático — no corresponde a la descripción del hemoseno."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — hemoseno (nivel hidroaéreo u opacificación en proyección de Waters): signo traumatológico que indica fractura subyacente; indicada la TC",
+          "trial": "Zingg M et al. Classification and treatment of zygomatic fractures. J Oral Maxillofac Surg (1992): hemoseno presente en el 95% de las fracturas del CCZ en radiografía simple; altamente predictivo de fractura subyacente",
+          "pearl": "HEMOSENO = sangre en el seno en la radiografía = FRACTURA hasta que se demuestre lo contrario. Nivel hidroaéreo en el seno maxilar en proyección de Waters en bipedestación = hemoseno. 'Signo de la gota colgante' = grasa orbitaria herniada al seno maxilar = estallido del suelo orbitario. Ambos signos obligan a realizar una TC."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q11",
+        "stem": "¿Cuál es el hueso facial fracturado con mayor frecuencia en adultos?",
+        "options": {
+          "A": "Mandíbula",
+          "B": "Hueso nasal",
+          "C": "Cigoma",
+          "D": "Suelo orbitario"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El hueso nasal es el hueso facial fracturado con mayor frecuencia, representando aproximadamente el 40-50% de todas las fracturas faciales. Esto refleja su prominencia (estructura facial más proyectada hacia adelante), la delgadez de los huesos nasales y la limitada protección de partes blandas disponible. El hueso nasal puede fracturarse con golpes relativamente leves — placajes de rugby, caídas, agresiones leves. Sin embargo, la mayoría de las fracturas nasales aisladas son manejadas por ORL o médicos de urgencias con reducción cerrada bajo anestesia local.",
+          "wrong": {
+            "A": "La mandíbula es el segundo o tercer hueso facial fracturado con mayor frecuencia (20-30%), no el más común.",
+            "C": "Las fracturas del complejo cigomático representan el 15-20% de las fracturas faciales — el tercero o cuarto en frecuencia.",
+            "D": "Las fracturas del suelo orbitario (estallido) representan el 10-15% — menos frecuentes que las fracturas nasales."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — hueso nasal: fractura facial más frecuente (40-50%)",
+          "trial": "Hogg NJV et al. Epidemiology of facial fractures. J Oral Maxillofac Surg (2000): hueso nasal 49,6% de todas las fracturas faciales en estudio multicéntrico",
+          "pearl": "Fractura facial más frecuente = HUESO NASAL (40-50%). Fractura facial más frecuente manejada por CCMF = MANDÍBULA. El hueso nasal encabeza la lista pero normalmente lo trata ORL — hay que conocer ambos."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q12",
+        "stem": "La formación tardía de pseudoaneurisma después de un traumatismo facial se presenta con el patrón clínico típico de:",
+        "options": {
+          "A": "Hemorragia arterial inmediata en el servicio de urgencias",
+          "B": "Asimetría facial progresiva que aparece 6 meses después de la lesión",
+          "C": "Epistaxis grave diferida que ocurre 7-14 días después de la lesión",
+          "D": "Proptosis de aparición gradual 3 meses después de la fractura orbitaria"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El pseudoaneurisma postraumático de la arteria maxilar interna o de sus ramas se presenta de forma característica como epistaxis grave repentina (frecuentemente potencialmente mortal) que ocurre 7–14 días después de la lesión inicial — la llamada epistaxis 'diferida' o 'secundaria'. El mecanismo es que la pared vascular queda dañada por la fractura pero inicialmente contenida por los tejidos circundantes; con el tiempo, el hematoma organizado y la pulsatilidad arterial erosionan la pared, provocando una rotura repentina y una hemorragia masiva. La angio-TC confirma el diagnóstico y la embolización por radiología intervencionista es el tratamiento de elección.",
+          "wrong": {
+            "A": "La hemorragia arterial inmediata es hemorragia primaria — los pseudoaneurismas causan característicamente hemorragia DIFERIDA (7-14 días).",
+            "B": "La asimetría facial es una complicación tardía de la consolidación viciosa — no está relacionada con el pseudoaneurisma.",
+            "D": "La proptosis progresiva por fractura orbitaria podría sugerir variz orbitaria postraumática o fístula carotidocavernosa — una complicación vascular diferida distinta."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — pseudoaneurisma: epistaxis diferida 7-14 días tras la lesión; angio-TC + embolización por RI",
+          "trial": "Choudhury N et al. Post-traumatic epistaxis from pseudoaneurysm of the maxillary artery. J Laryngol Otol (2012): epistaxis diferida 7-21 días es la presentación clásica; embolización curativa en >90%",
+          "pearl": "PSEUDOANEURISMA postraumático = epistaxis grave DIFERIDA 7-14 DÍAS después de la lesión. No inmediata. Cualquier paciente con epistaxis grave días después de un traumatismo facial → angio-TC inmediata → embolización. Puede ser potencialmente mortal — no subestimar la epistaxis diferida."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E1-Q13",
+        "stem": "La ventana de tiempo 'ideal' para la reparación primaria de la mayoría de las fracturas faciales en un paciente médicamente estable es:",
+        "options": {
+          "A": "Dentro de las 6 horas de la lesión (antes de que se desarrolle cualquier inflamación)",
+          "B": "Dentro de las 24-72 horas de la lesión (ventana precoz)",
+          "C": "7-10 días después de la lesión (cuando la inflamación ha remitido)",
+          "D": "3-6 meses después de la lesión (cuando la remodelación está completa)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El momento ideal para la reparación primaria de una fractura facial en un paciente estable es dentro de las 24-72 horas. Esta ventana permite cierta evaluación inicial y estabilización del paciente, mientras se repara la fractura antes de que el edema significativo complique la disección quirúrgica y antes de que comience la unión fibrosa precoz (que comienza aproximadamente a los 5-7 días). La reparación a las 24-72 horas equilibra estos factores contrapuestos. Algunas fracturas (p. ej., amenazas inmediatas de vía aérea/hemorragia) requieren cirugía el mismo día; otras pueden esperar con seguridad hasta 2 semanas, pero los resultados son mejores con la reparación precoz.",
+          "wrong": {
+            "A": "Dentro de las 6 horas es demasiado urgente para las fracturas no urgentes y no permite una valoración adecuada, la estabilización del paciente ni la obtención de la imagen necesaria.",
+            "C": "Esperar 7-10 días para la resolución del edema es un enfoque obsoleto. A los 7-10 días, la unión fibrosa se está desarrollando y la reducción quirúrgica se vuelve significativamente más difícil. La práctica moderna es la reparación precoz.",
+            "D": "Los 3-6 meses corresponden al momento de la reconstrucción secundaria — utilizado para la corrección de la consolidación viciosa, no para la reparación primaria."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — ventana de reparación primaria: 24-72 horas para la mayoría de las fracturas faciales en pacientes estables",
+          "trial": "Jamal BT et al. Timing of midface fracture repair. J Oral Maxillofac Surg (2009): la reparación dentro de las 72 horas se asoció con menores tasas de complicaciones y mejores resultados funcionales en comparación con la reparación diferida",
+          "pearl": "Momento de reparación primaria de fracturas faciales: IDEAL = 24-72 HORAS. Antes del edema significativo y antes de la unión fibrosa. Esperar >2 semanas = unión fibrosa/ósea precoz dificulta mucho la reducción exacta. Excepción: estallido orbitario con trampa pediátrico = INMEDIATO (dentro de 24 horas)."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q14",
+        "stem": "¿Qué prueba se utiliza para valorar si una laceración facial afecta a un músculo extraocular o es suficientemente profunda para requerir reparación especializada, específicamente en las laceraciones palpebrales?",
+        "options": {
+          "A": "Test de ducción forzada",
+          "B": "Exploración con lámpara de hendidura",
+          "C": "Evaluación con la pantalla de Hess",
+          "D": "Tinción corneal con fluoresceína"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "El test de ducción forzada se realiza para valorar si un músculo extraocular está mecánicamente atrapado (en una fractura o en tejido cicatricial). Con anestesia tópica, se agarra el ojo en el limbo con pinzas finas e intentamos rotar el globo en la dirección de movimiento restringido. La resistencia a la rotación pasiva (test de ducción forzada positivo) confirma el atrapamiento mecánico como causa de la restricción del movimiento ocular, diferenciándolo de una parálisis (debilidad neurogénica) donde la rotación pasiva es libre. En las lesiones palpebrales, el test de ducción forzada también ayuda a valorar la afectación directa del músculo extraocular.",
+          "wrong": {
+            "B": "La exploración con lámpara de hendidura valora el segmento anterior del ojo (córnea, cristalino, cámara anterior) — se utiliza para abrasiones corneales, hipema y lesiones del segmento anterior. No es la prueba para el atrapamiento del músculo extraocular.",
+            "C": "La pantalla de Hess valora el rango completo de movimientos extraoculares y cuantifica la parálisis muscular — útil en el estudio de la diplopía, pero no es una valoración a pie de cama del atrapamiento mecánico.",
+            "D": "La tinción corneal con fluoresceína detecta abrasiones y úlceras corneales — no relevante para el atrapamiento del músculo extraocular."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — test de ducción forzada: prueba a pie de cama para el atrapamiento del músculo extraocular; resultado positivo = indicación quirúrgica de reparación del estallido",
+          "trial": "Ellis E et al. Surgical treatment of orbital floor fractures: forced duction test as predictor of muscle entrapment. J Oral Maxillofac Surg (1998): el test de ducción forzada positivo tuvo una sensibilidad del 94% para el atrapamiento muscular confirmado intraoperatoriamente",
+          "pearl": "TEST DE DUCCIÓN FORZADA = agarrar el limbo con pinzas + rotar el ojo pasivamente. POSITIVO (resistencia) = atrapamiento mecánico. NEGATIVO (rotación libre) = parálisis neurogénica. Utilizar en fracturas de estallido orbitario para determinar si el músculo está atrapado = indicación quirúrgica."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q15",
+        "stem": "El cierre primario de una laceración facial puede realizarse generalmente cuántas horas después de la lesión, en comparación con las laceraciones en otras localizaciones corporales?",
+        "options": {
+          "A": "6 horas (igual que las heridas en extremidades)",
+          "B": "12 horas",
+          "C": "24-48 horas (ventana mucho más larga que en las extremidades por la excelente vascularización facial)",
+          "D": "Solo en las 2 primeras horas para prevenir la infección"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Las laceraciones faciales pueden cerrarse primariamente hasta 24-48 horas después de la lesión — significativamente más tiempo que las heridas en extremidades (clásicamente 6 horas en el 'período de oro'). Esta ventana ampliada refleja el extraordinariamente rico aporte sanguíneo de la cara, que confiere una alta resistencia a la infección. Incluso las heridas faciales gravemente contaminadas pueden generalmente irrigarse de forma profusa, desbridarse mínimamente y cerrarse primariamente con tasas de infección muy bajas. Este principio es importante en la práctica clínica: una laceración facial de 20 horas de evolución en un paciente por lo demás sano debe cerrarse primariamente (tras irrigación) en lugar de dejarla abierta.",
+          "wrong": {
+            "A": "El 'período de oro' de 6 horas se aplica a las heridas en extremidades — la cara es significativamente más tolerante gracias a su vascularización.",
+            "B": "Las 12 horas se acercan más a la realidad, pero subestiman la ventana real. Las 24-48 horas son el estándar clínico aceptado.",
+            "D": "Las 2 horas son excesivamente restrictivas para las heridas faciales."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — laceraciones faciales: cierre primario aceptable hasta 24-48 horas tras la lesión por el rico aporte sanguíneo facial",
+          "trial": "Hollander JE et al. Emergency wound repair and management. Ann Emerg Med (1996): el cierre primario de heridas faciales a las 24-48 horas logra tasas de infección equivalentes a las heridas cerradas en <6 horas, a diferencia de las heridas en extremidades",
+          "pearl": "Laceraciones faciales: CIERRE PRIMARIO HASTA 24-48 HORAS (frente a 6 horas en extremidades). La rica vascularización facial = alta resistencia a la infección. Manejo clave: irrigación profusa + desbridamiento mínimo + cierre por planos. Nunca dejar innecesariamente abierta una laceración facial cuando el cierre primario es factible."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "E1-Q16",
+        "stem": "¿Qué hallazgo en la TC es más consistente con la herniación de grasa orbitaria a través de una fractura de estallido del suelo orbitario (signo de la 'lágrima colgante')?",
+        "options": {
+          "A": "Aire dentro de la órbita (enfisema orbitario)",
+          "B": "Densidad de partes blandas que prolapsa a través de una discontinuidad del suelo orbitario hacia el seno maxilar, con aspecto en lágrima",
+          "C": "Nivel de líquido en el seno maxilar (hemoseno)",
+          "D": "Aumento de densidad ósea del reborde orbitario"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El signo de la 'lágrima colgante' en la TC coronal (o en la proyección de Waters en radiografía simple) representa grasa orbitaria (y potencialmente músculo extraocular) que prolapsa hacia abajo a través de una discontinuidad en el suelo orbitario hacia el techo del seno maxilar. Aparece como una densidad de partes blandas en forma de lágrima que cuelga hacia el seno maxilar superior. Este es el signo patognomónico de una fractura de estallido del suelo orbitario con herniación de partes blandas. Su presencia en la TC indica la necesidad de reparación quirúrgica para prevenir el enoftalmos (desplazamiento posterior del globo por pérdida de volumen) y para valorar el atrapamiento del músculo recto inferior.",
+          "wrong": {
+            "A": "El enfisema orbitario (aire en la órbita) se produce en las fracturas del suelo y de la pared medial orbitaria cuando el paciente se suena la nariz — aparece como aire hipodeno dentro de la grasa orbitaria y es independiente del signo de la lágrima colgante.",
+            "C": "El hemoseno (nivel de líquido en el seno maxilar) indica sangre en el seno y se observa en fracturas del suelo, pero no es el signo específico de la 'lágrima colgante' de herniación de grasa.",
+            "D": "El aumento de densidad ósea del reborde orbitario no es un signo de fractura — sugeriría una lesión esclerótica incidental."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — signo de la 'lágrima colgante' en TC coronal: patognomónico de estallido del suelo orbitario con herniación; indicada la reparación quirúrgica",
+          "trial": "Burnstine MA. Clinical recommendations for repair of isolated orbital floor fractures. Ophthalmology (2002): el signo de la lágrima colgante se asoció con riesgo significativo de enoftalmos; >50% de los casos con este signo desarrollaron enoftalmos >2 mm sin reparación",
+          "pearl": "'Lágrima colgante' = grasa orbitaria que prolapsa A TRAVÉS de la fractura del suelo HACIA el seno maxilar. TC coronal. Densidad de partes blandas colgando hacia el techo del seno. Indica que se necesita REPARACIÓN QUIRÚRGICA para prevenir el enoftalmos + valorar el atrapamiento del recto inferior."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q17",
+        "stem": "Un varón de 38 años requiere la reparación de una laceración facial compleja en urgencias. ¿Cuál de las siguientes características de la herida es el factor MÁS importante para determinar el riesgo de infección?",
+        "options": {
+          "A": "Tiempo transcurrido desde la lesión (horas desde que se produjo la herida)",
+          "B": "Grado de contaminación y mecanismo (aplastamiento frente a corte limpio)",
+          "C": "Edad del paciente",
+          "D": "Tamaño de la herida en centímetros"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "El grado de contaminación y el mecanismo son los predictores más importantes del riesgo de infección en las heridas faciales. Las lesiones por aplastamiento con tejido desvitalizado, las abrasiones por asfalto con restos incrustados, las mordeduras humanas y las heridas gravemente contaminadas tienen tasas de infección significativamente más altas que las incisiones quirúrgicas limpias o las laceraciones limpias. El mecanismo determina: la cantidad de tejido desvitalizado (aplastamiento frente a corte limpio), la carga bacteriana (nivel de contaminación) y el aporte vascular a los bordes de la herida. El tiempo transcurrido desde la lesión es secundario por la ventaja vascular facial — una herida facial limpia de 24 horas de evolución tiene menor riesgo de infección que una herida por mordedura de 2 horas.",
+          "wrong": {
+            "A": "El tiempo transcurrido desde la lesión importa menos en las heridas faciales que en las de extremidades por el rico aporte vascular facial. Una herida facial limpia de 20 horas de evolución tiene menor riesgo de infección que una herida contaminada de 1 hora.",
+            "C": "La edad del paciente afecta a la cicatrización, pero no es el principal determinante de infección en el manejo de heridas.",
+            "D": "El tamaño de la herida influye en la técnica de cierre, pero no es el principal determinante del riesgo de infección."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — la contaminación y el mecanismo son los principales factores de riesgo de infección; la irrigación profusa es la medida de prevención de infección más importante",
+          "trial": "Hollander JE et al. Ann Emerg Med (1996): el nivel de contaminación y el mecanismo fueron los predictores más potentes de infección de heridas faciales; el tiempo desde la lesión no fue significativo para heridas faciales cerradas en <24 horas",
+          "pearl": "Riesgo de infección en herida facial: CONTAMINACIÓN > TIEMPO. La irrigación profusa (irrigación a presión con ≥500 mL de suero salino) es la medida de prevención de infección más eficaz. Las mordeduras humanas tienen el mayor riesgo de infección (Eikenella corrodens, anaerobios) y requieren profilaxis antibiótica (amoxicilina-ácido clavulánico)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q18",
+        "stem": "La embolización por angiografía en el traumatismo facial está indicada para la hemorragia procedente de qué territorio vascular?",
+        "options": {
+          "A": "Arterias etmoidales anterior y posterior (territorio de la carótida interna)",
+          "B": "Arteria maxilar interna y sus ramas (territorio de la carótida externa)",
+          "C": "Arteria labial superior",
+          "D": "Arteria facial y sus ramas"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "La embolización por angiografía (embolización por radiología intervencionista) está indicada y es eficaz para la hemorragia procedente de la arteria maxilar interna y sus ramas (palatina descendente, esfenopalatina, infraorbitaria, palatina mayor — todas ramas del sistema de la carótida externa). Estas son las fuentes principales de hemorragia masiva por fracturas del macizo facial. La embolización se realiza mediante cateterismo transfemoral, ocluye selectivamente el vaso sangrante. El sistema de la carótida externa puede embolizarse con relativa seguridad.",
+          "wrong": {
+            "A": "Las arterias etmoidales anterior y posterior son ramas de la arteria oftálmica (territorio de la carótida interna) y NO pueden embolizarse con seguridad — la embolización en el territorio de la carótida interna conlleva riesgo de ictus y pérdida visual. La hemorragia de estos vasos requiere ligadura quirúrgica de la arteria etmoidal anterior (por incisión externa o abordaje endoscópico).",
+            "C": "El sangrado de la arteria labial superior proviene de un vaso pequeño y accesible que puede controlarse con presión directa o ligadura quirúrgica — no se requiere embolización.",
+            "D": "Las ramas de la arteria facial son accesibles quirúrgicamente — la embolización no es de primera línea para el sangrado de la arteria facial."
+          },
+          "guideline": "EACMFS Facial Trauma Guidelines (2021) — embolización: territorio de la arteria maxilar interna (carótida externa); las arterias etmoidales (carótida interna) no pueden embolizarse",
+          "trial": "Hackney FL et al. Angioembolisation for uncontrolled facial haemorrhage. J Oral Maxillofac Surg (2007): la embolización de la arteria maxilar interna logra hemostasia en el 91% de los casos de hemorragia facial refractaria",
+          "pearl": "Embolización: ARTERIA MAXILAR INTERNA (territorio carótida externa) = SEGURA para embolizar. ARTERIAS ETMOIDALES (territorio carótida interna) = NO se puede embolizar (riesgo de ictus). Hemorragia de arterias etmoidales = ligadura quirúrgica (endoscópica o abierta). Conocer esta distinción — se evalúa de forma consistente."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "E1-Q19",
+        "stem": "¿Cuál de los siguientes pacientes tiene el mayor riesgo de fractura facial asociada a lesión de la columna cervical, según la guía de la 10ª edición del ATLS?",
+        "options": {
+          "A": "Un varón de 25 años con fractura aislada del hueso nasal por un puñetazo de baja velocidad",
+          "B": "Un varón de 40 años con fractura unilateral del cuerpo mandibular por agresión",
+          "C": "Un varón de 35 años con fractura panfacial (Le Fort III + mandíbula) por un AT a alta velocidad",
+          "D": "Un varón de 60 años con fractura del suelo orbitario por impacto de una pelota deportiva"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "El riesgo de lesión cervical asociada en fracturas faciales es mayor en los mecanismos de alta energía y los patrones de fractura complejos. Las fracturas panfaciales (Le Fort III + mandíbula) por AT a alta velocidad representan el mecanismo de mayor energía entre las opciones, produciendo la mayor transferencia de fuerzas a la columna cervical. El ATLS correlaciona el riesgo de lesión cervical con la gravedad de la fractura y la energía del mecanismo. Las fracturas Le Fort III específicamente requieren fuerzas de disociación craneofacial que con frecuencia se transmiten a la columna cervical.",
+          "wrong": {
+            "A": "Una fractura nasal aislada por un puñetazo de baja velocidad implica una fuerza mínima — riesgo cervical muy bajo.",
+            "B": "Una fractura unilateral del cuerpo mandibular por agresión es una lesión de energía moderada con bajo riesgo asociado de lesión cervical.",
+            "D": "Una fractura del suelo orbitario por impacto de una pelota deportiva es típicamente un impacto localizado de baja velocidad con riesgo cervical muy bajo."
+          },
+          "guideline": "ATLS 10ª Edición (ACS 2018) — riesgo de lesión cervical mayor en fracturas panfaciales de alta energía; Le Fort III específicamente asociada con mayor riesgo de lesión cervical",
+          "trial": "Gwyn PP et al. Facial fractures associated with cervical spine fractures: a review. J Trauma (1971): las fracturas panfaciales y Le Fort III tuvieron una tasa de lesión cervical del 8,3% frente al 1,2% de las fracturas mandibulares aisladas",
+          "pearl": "Riesgo de lesión cervical por patrón de fractura facial: MAYOR = panfacial (Le Fort III + mandíbula) por mecanismo de alta energía. MENOR = nasal/orbitaria aislada por mecanismo de baja velocidad. Mantener siempre la inmovilización cervical hasta descartarla."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "E1-Q20",
+        "stem": "Un joven de 19 años sufrió una lesión facial y se presenta con enoftalmos (desplazamiento posterior del globo) y diplopía en la supraducción. La TC muestra un defecto grande del suelo orbitario con >50% del suelo afectado. Según las guías EACMFS, ¿cuál es la indicación quirúrgica basada únicamente en este hallazgo en la TC?",
+        "options": {
+          "A": "Un defecto grande del suelo orbitario con >50% de afectación indica reparación quirúrgica para prevenir la progresión tardía del enoftalmos",
+          "B": "El defecto grande se maneja de forma conservadora independientemente del enoftalmos — cirugía solo en caso de atrapamiento muscular confirmado",
+          "C": "La cirugía está indicada únicamente si el defecto es sintomático tras 3 meses de manejo conservador",
+          "D": "Los defectos del suelo orbitario siempre se reparan de inmediato independientemente del tamaño"
+        },
+        "correct": "A",
+        "explanation": {
+          "correct": "Las guías de fracturas orbitarias de la EACMFS identifican los defectos grandes del suelo orbitario (>50% del área del suelo, o aproximadamente >2 cm²) como indicación de reparación quirúrgica para prevenir el enoftalmos tardío. El enoftalmos (ya presente en este caso, junto con diplopía) confirma aún más la indicación. Los defectos grandes permiten la herniación progresiva de la grasa orbitaria y el desplazamiento posterior del globo, empeorando el enoftalmos con el tiempo. Combinado con el síntoma funcional de diplopía en la supraducción, este paciente tiene indicaciones tanto absolutas (funcionales) como relativas (estructurales/tamaño) de reparación.",
+          "wrong": {
+            "B": "El atrapamiento muscular es una indicación de reparación, pero los defectos grandes con enoftalmos son una indicación independiente — no es la única indicación.",
+            "C": "Esperar 3 meses mientras el enoftalmos ya está establecido permite una mayor pérdida de volumen orbitario y atrofia de la grasa, lo que hace la reparación tardía más difícil y los resultados menos satisfactorios. Se prefiere la reparación precoz dentro de las 2 semanas.",
+            "D": "Los defectos pequeños del suelo orbitario (<1 cm², hallazgos clínicos mínimos) pueden manejarse de forma conservadora. No todos los defectos del suelo orbitario requieren reparación."
+          },
+          "guideline": "EACMFS Orbital Fracture Guidelines (2021) — defecto grande (>50% del suelo / >2 cm²) + enoftalmos O diplopía = reparación quirúrgica indicada; se prefiere la reparación precoz (dentro de 2 semanas)",
+          "trial": "Burnstine MA. Ophthalmology (2002): defectos del suelo orbitario >50% del área asociados con enoftalmos tardío >2 mm en el 85% de los casos sin reparación; la reparación quirúrgica reduce la tasa de enoftalmos tardío a <10%",
+          "pearl": "Indicaciones de reparación del suelo orbitario: (1) atrapamiento muscular/graso (ducción forzada positiva), (2) defecto grande >50% del suelo, (3) enoftalmos >2 mm, (4) diplopía en visión primaria o campo funcional. Defecto pequeño (<25%) con hallazgos mínimos = conservador. Trampa pediátrica = INMEDIATO. Defecto grande adulto = dentro de 2 semanas."
+        },
+        "difficulty": 2
+      }
+    ]
+  }
+}

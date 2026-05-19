@@ -1,0 +1,622 @@
+{
+  "id": "B2",
+  "title": "Le Fort I Osteotomy",
+  "subtitle": "Block B — Orthognathic & Skeletal Surgery: Surgical Technique, Complications, and Outcomes",
+  "block": "B",
+  "block_name": "Orthognathic & Skeletal Surgery",
+  "level": "R3-5",
+  "reading_time_min": 38,
+  "guidelines_version": "EACMFS Orthognathic Surgery Guidelines 2023 · BAOMS 2022",
+  "textbook_refs": [
+    "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics, 6th ed. (Mosby 2018)",
+    "Posnick JC. Orthognathic Surgery: Principles and Practice (Saunders 2014)",
+    "Bell WH. Revascularization and bone healing after anterior maxillary osteotomy (J Oral Surg 1969)",
+    "Drommer R. The history of the Le Fort I osteotomy (J Maxillofac Surg 1986)",
+    "Rachmiel A et al. Maxillary osteotomy healing and stability (Int J Oral Maxillofac Surg 2001)"
+  ],
+  "learning_objectives": [
+    "Describe the surgical anatomy relevant to the Le Fort I osteotomy, including blood supply to the maxilla, and adjacent at-risk structures",
+    "Explain the step-by-step Le Fort I technique from incision to rigid fixation",
+    "Identify the movements achievable by Le Fort I osteotomy and the principles of applying each",
+    "Recognise and manage intraoperative and post-operative complications of Le Fort I osteotomy",
+    "Describe the healing biology of the maxilla after osteotomy, including vascular supply and bone union timescales"
+  ],
+  "sections": [
+    {
+      "id": "B2-S1",
+      "title": "Historical Development and Indications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The Le Fort I osteotomy (also called the horizontal maxillary osteotomy or Wassmund-Obwegeser osteotomy) is named after René Le Fort, who described fracture lines through the maxilla following facial trauma (1901). The surgical procedure as performed today was systematically developed by Obwegeser (1960) and popularised for maxillary repositioning by Bell and Epker in the 1970s. Bell's landmark laboratory studies (J Oral Surg 1969) demonstrated that the maxilla maintains viability after complete mobilisation, provided the palatal mucoperiosteum is preserved — this is the key vascular pedicle for the osteotomised maxilla. The Le Fort I osteotomy transects the maxilla at the level of the maxillary sinus, approximately 3–5 mm above the apices of the maxillary teeth, through the lateral maxillary walls, across the posterior walls of the maxillary sinuses, through the nasal septum (just above the nasal floor), and through the pterygomaxillary junctions. This allows the entire tooth-bearing lower maxilla (dentoalveolar block) to be freely repositioned in all planes — anteriorly, posteriorly, superiorly (impaction), inferiorly (inferior repositioning), laterally, and in yaw. Indications: all forms of maxillary skeletal discrepancy requiring vertical, sagittal, transverse, or rotational correction as part of orthognathic or trauma surgery. Also used in cleft surgery for maxillary advancement (Le Fort I with distraction osteogenesis for large cleft-related maxillary deficiencies)."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Bell's Revascularisation Study",
+          "content": "Bell WH (J Oral Surg 1969): demonstrated that complete mobilisation of the maxilla is compatible with bone viability provided the palatal mucoperiosteum is preserved. The descending palatine artery (a branch of the maxillary artery entering the greater palatine foramen) within the palatal flap is the primary blood supply to the osteotomised maxilla. This is why the palatal mucosa must never be incised or torn during Le Fort I."
+        }
+      ]
+    },
+    {
+      "id": "B2-S2",
+      "title": "Surgical Anatomy — Blood Supply and Structures at Risk",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Understanding the vascular anatomy of the maxilla is essential for safe Le Fort I osteotomy. The blood supply to the maxilla has multiple contributions: (1) **Descending palatine artery** (branch of maxillary artery via greater palatine canal) — the most important vessel for the osteotomised maxilla; it runs within the palatal mucoperiosteum and provides the critical vascular pedicle that sustains the mobilised maxilla. (2) **Posterior superior alveolar artery** (branch of maxillary artery) — supplies the posterior maxillary teeth and buccal gingiva. (3) **Anterior superior alveolar artery** (branch of infraorbital artery) — supplies the anterior maxillary teeth. (4) **Facial artery** — small contribution via the nasopalatine anastomosis. The osteotomy transects the inferior portions of all these arteries except the descending palatine, which is protected within the intact palatal flap. **Structures at risk during Le Fort I**: (1) Infraorbital nerve (V2) — exits the infraorbital foramen approximately 4–7 mm below the infraorbital rim; at risk during dissection at the nasal floor and lateral sinus wall if dissection is carried too superiorly; (2) Descending palatine artery — in the greater palatine canal; at risk during pterygomaxillary dysjunction if the curved osteotome is placed too anteriorly (should be directed posterolaterally); (3) Pterygoid venous plexus — profuse haemorrhage during pterygomaxillary separation; managed with pressure and local anaesthetic with vasoconstrictors; (4) Internal maxillary artery (or one of its major branches) — rare catastrophic haemorrhage if the curved pterygoid osteotome passes superior to the pterygomaxillary junction into the pterygopalatine fossa."
+        },
+        {
+          "type": "table",
+          "title": "Structures at Risk During Le Fort I Osteotomy",
+          "headers": ["Structure", "Location / Risk", "Consequence of Injury", "Prevention"],
+          "rows": [
+            ["Descending palatine artery", "Greater palatine canal; palatal mucoperiosteum", "Ischaemia / necrosis of mobilised maxilla", "Preserve palatal mucosa intact throughout"],
+            ["Infraorbital nerve (V2)", "4–7 mm below infraorbital rim", "Numbness upper lip, cheek, side of nose", "Keep horizontal cut ≥5 mm below infraorbital rim"],
+            ["Pterygoid venous plexus", "Pterygomaxillary area", "Significant haemorrhage", "Vasoconstrictor infiltration; pack and pressure"],
+            ["Internal maxillary artery", "Pterygopalatine fossa, superior to pterygomaxillary junction", "Catastrophic haemorrhage; possible fatal", "Curved osteotome placed accurately; avoid superior direction"],
+            ["Nasolacrimal duct", "Anteromedial maxillary wall to nasal cavity", "Epiphora (rare)", "Anteromedial osteotomy cut kept low on pyriform rim"],
+            ["Tooth roots", "Within 3–5 mm of osteotomy line", "Root damage; tooth devitalisation", "Cephalometric/CBCT confirmation of tooth root positions"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2-S3",
+      "title": "Surgical Technique — Step by Step",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The standard Le Fort I osteotomy technique proceeds as follows: (1) **Infiltration** — local anaesthetic with 1:100,000 adrenaline subperiosteally along the maxillary vestibule and bilateral infraorbital foramina; (2) **Incision** — horizontal mucosal incision in the maxillary vestibule (labial sulcus), 4–5 mm above the mucogingival junction from first molar to first molar, with bilateral vertical releasing incisions; (3) **Subperiosteal dissection** — elevation of the mucoperiosteal flap superiorly, exposing the anterior maxillary face, piriform rims, lateral nasal walls, and zygomatic buttresses bilaterally. The infraorbital neurovascular bundles are identified and protected. The nasal mucosa on the floor is elevated; (4) **Osteotomy** — using a reciprocating saw or oscillating saw (protected blade), the horizontal osteotomy is made 3–5 mm above tooth apices (confirmed on preoperative CBCT): lateral walls of maxillary sinus from piriform rim posteriorly to the pterygomaxillary junction bilaterally. The nasal septum is cut with a septal osteotome; (5) **Pterygomaxillary dysjunction** — the curved osteotome is placed at the inferior aspect of the pterygomaxillary fissure and tapped posterolaterally, separating the pterygoid plates from the maxillary tuberosity. This is the most critical and dangerous step; (6) **Mobilisation** — the maxilla is mobilised downward (down-fracture) with finger pressure or Rowe's disimpaction forceps. Mobilisation must be gentle and progressive; (7) **Intermediate splint** is placed if two-jaw surgery is planned; (8) **Repositioning** — the maxilla is moved to the planned position, guided by the surgical splint; (9) **Fixation** — titanium miniplates (four-point: bilateral piriform rims + bilateral zygomatic buttresses) and screws secure the maxilla in the new position. Bone grafts are used if inferior repositioning creates a gap >3 mm."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Pterygomaxillary Dysjunction Technique",
+          "content": "The curved osteotome for pterygomaxillary separation must be directed POSTEROLATERALLY and placed at the INFERIOR aspect of the pterygomaxillary fissure. If placed too superiorly or directed medially toward the pterygopalatine fossa, the internal maxillary artery can be transected, causing catastrophic haemorrhage. Always confirm osteotome position with bimanual palpation. Never use excessive mallet force — a controlled, progressive separation is correct."
+        }
+      ]
+    },
+    {
+      "id": "B2-S4",
+      "title": "Movements and Applications",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The Le Fort I osteotomy allows movement of the maxilla in multiple planes: (1) **Anterior advancement** — for maxillary retrognathia (Class III) or cleft sequelae. Maximum 8–10 mm with standard osteotomy; larger advancements require distraction osteogenesis. (2) **Posterior repositioning** — less commonly required; risks maxillary artery territory ischaemia if posterior displacement is >2–3 mm. (3) **Superior repositioning (impaction)** — for vertical maxillary excess (gummy smile, anterior open bite correction). Requires removal of bone from the sinus floor; must be planned accurately as it affects the nose, dental show, and lower face height. (4) **Inferior repositioning** — to increase dental show or lower face height; requires bone graft at the osteotomy site (iliac crest or alloplastic material) to fill the gap; less stable than impaction. (5) **Transverse widening** — limited transverse widening (2–3 mm) can be achieved by surgically separating the midpalatal suture during Le Fort I; for larger transverse deficiencies, SARPE is a prerequisite. (6) **Rotational corrections (cant)** — asymmetric amounts of impaction/advancement on each side corrects occlusal plane cants. (7) **Combined multi-vector movements** — most clinical cases require simultaneous impaction + advancement + rotation, all planned virtually in VSP. The **alar base width** increases approximately 1 mm per 3 mm of maxillary advancement (due to nasal base widening). An alar cinch suture (V-Y closure of the vestibular incision) is placed before final wound closure to prevent alar flaring and nasal tip elevation."
+        },
+        {
+          "type": "table",
+          "title": "Le Fort I Movements and Clinical Applications",
+          "headers": ["Movement", "Bone Management", "Clinical Indication", "Key Consideration"],
+          "rows": [
+            ["Anterior advancement", "No bone removal/addition", "Class III, cleft maxillary hypoplasia", "Max 8–10 mm; >10 mm = DO"],
+            ["Impaction (superior)", "Bone removed from sinus floor", "VME (gummy smile), AOB", "Alar cinch suture; nasal tip rotation"],
+            ["Inferior repositioning", "Bone graft fills gap", "Hypodivergent, short face", "Less stable; graft required"],
+            ["Cant correction", "Asymmetric impaction ± advancement", "Facial asymmetry, canted occlusal plane", "VSP essential for asymmetric planning"],
+            ["Setback (posterior)", "Not routinely performed", "Rarely needed", "Risk of vascular compromise; avoid >3 mm"]
+          ]
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Alar Cinch Suture",
+          "content": "The alar cinch suture is a deep suture placed through the alar base tissue before wound closure. It prevents the nasal alar bases from widening after Le Fort I osteotomy (alar flaring increases by ~1 mm per 3 mm of maxillary advancement). Without the alar cinch suture, the nose widens, which is aesthetically undesirable in patients with normal or wide alar bases."
+        }
+      ]
+    },
+    {
+      "id": "B2-S5",
+      "title": "Complications — Recognition and Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Complications of Le Fort I osteotomy are classified by timing and system. **Intraoperative complications**: (1) **Excessive haemorrhage** from pterygoid venous plexus or internal maxillary artery — manage with pressure packing; if arterial, may require interventional embolisation. (2) **Unfavourable fracture** — crack extending toward the orbital floor, pterygoid, or nasal root; usually managed conservatively with additional fixation plates. (3) **Root damage** — if the osteotomy cut is too low; confirm preoperatively with CBCT and intraoperatively if necessary. **Early post-operative complications**: (1) **Haematoma/bleeding** — most within 24 hours; if expanding, return to theatre. (2) **Infection/sinusitis** — maxillary sinusitis post-Le Fort I occurs in 3–5%; treat with antibiotics and decongestants; rarely requires sinus washout. (3) **Sensory nerve dysfunction** — infraorbital nerve paraesthesia in 30–50% post-operatively; most resolves by 6–12 months. Permanent sensory loss occurs in <5%. **Late complications**: (1) **Skeletal relapse** — depends on magnitude and direction of movement; counteract with rigid 4-point fixation, dental elastics, and post-surgical orthodontics. (2) **Aseptic necrosis of the maxilla** — extremely rare (<0.1%); caused by devascularisation of the maxilla from torn palatal mucosa; presents as necrosis of the palate and teeth weeks post-operatively. (3) **Nasal airway compromise** — impaction shortens the upper nasal airway; rhinoseptoplasty may be needed. (4) **Hardware palpability or exposure** — titanium plates are palpable in thin patients; removal after 12–18 months when bone union is complete. (5) **Periodontal changes** — rare; associated with excessive tension on the mucosal flap closure."
+        },
+        {
+          "type": "callout",
+          "variant": "warning",
+          "title": "Common Pitfall — Palatal Mucosa Integrity",
+          "content": "Avascular necrosis of the maxilla is catastrophic and almost entirely preventable. The palatal mucoperiosteum is the main blood supply to the osteotomised maxilla. Any tear, perforation, or excessive tension on the palatal flap risks devascularisation. Always dissect the nasal floor mucosa carefully. If a palatal perforation is made, it should be repaired immediately and the case reconsidered if large."
+        }
+      ]
+    },
+    {
+      "id": "B2-S6",
+      "title": "Healing Biology and Post-Operative Management",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Bone healing after Le Fort I follows standard fracture healing biology with additional considerations for the osteotomised maxilla. The healing timeline: (1) Inflammatory phase (0–7 days): haematoma formation, inflammatory cell influx, angiogenesis begins; (2) Soft callus phase (1–3 weeks): fibroblasts and chondroblasts form fibrocartilaginous bridge; (3) Hard callus phase (3–8 weeks): woven bone deposition at the osteotomy lines; (4) Bone remodelling (3–12 months): lamellar bone replaces woven bone, plates can be removed after 12 months. Radiographic union is typically visible at 6–8 weeks. Post-operative management: **Diet** — liquid diet for 2 weeks, soft diet for 6 weeks (no hard foods), normal diet at 12 weeks; **Elastic traction** — small inter-maxillary elastics post-operatively guide minor occlusal discrepancies and maintain the planned occlusion; **Oral hygiene** — chlorhexidine mouthwash for 2–4 weeks; **Activity restriction** — no contact sports for 12 weeks; **Nasal care** — saline irrigation, decongestants to reduce sinusitis risk after maxillary impaction; **Follow-up imaging** — OPG at 6 weeks to confirm plate position and bone healing."
+        },
+        {
+          "type": "callout",
+          "variant": "clinical",
+          "title": "Clinical Context — Return to Normal Diet",
+          "content": "Patients are commonly discharged on a liquid diet for 2 weeks post-Le Fort I. Advancing to soft diet at 2–6 weeks and normal diet at 12 weeks ensures bone healing without plate fracture or displacement from early hard food loading. Patients frequently ask about eating — clearly explain the dietary restrictions as non-compliance risks implant failure before bone union is complete."
+        }
+      ]
+    },
+    {
+      "id": "B2-S7",
+      "title": "Multi-Piece Le Fort I and Special Situations",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The standard single-piece Le Fort I osteotomy moves the entire dentoalveolar maxilla as one unit. In certain situations, the maxilla can be divided into multiple segments (multi-piece Le Fort I) to allow differential repositioning of different segments and to manage transverse discrepancies within the arch. The most common multi-piece modification is the **segmental Le Fort I** (2-3 pieces): the maxilla is divided in the midline (parasagittal palatal cuts) or at a premolar extraction site, allowing expansion or constriction of different portions of the arch simultaneously with the anterior-posterior and vertical repositioning. This is used when: (1) significant transverse arch discrepancy cannot be managed with SARPE alone; (2) differential vertical positioning of different segments is needed (e.g., levelling an uneven arch). **Risks of multi-piece osteotomy**: higher risk of vascular compromise to individual segments (smaller pedicles), higher relapse rate, risk of bone necrosis between segments. Multi-piece Le Fort I requires meticulous planning with VSP. **High Le Fort I (Le Fort II/III equivalent)**: for syndromic midface hypoplasia (Crouzon, Apert), a midface Le Fort III advancement (or monobloc procedure) is performed, moving the entire midface including the orbits — this is outside the scope of standard orthognathic surgery and is performed in craniofacial units."
+        },
+        {
+          "type": "callout",
+          "variant": "pearl",
+          "title": "Board Pearl — Distraction Osteogenesis for Large Advancements",
+          "content": "For maxillary advancements >10 mm (common in cleft patients with severe maxillary hypoplasia), acute single-stage Le Fort I advancement is associated with high relapse rates and soft tissue tension. Distraction osteogenesis (DO) after Le Fort I cuts allows gradual advancement (1 mm/day activation over 10–14 days) with simultaneous bone regeneration, significantly lower relapse, and reduced soft tissue tension. Transport DO uses a device activated daily through a buried or external mechanism."
+        }
+      ]
+    }
+  ],
+  "consolidation": {
+    "intro": "Test your knowledge of Le Fort I osteotomy — anatomy, technique, complications, and healing — with 20 board-style questions.",
+    "questions": [
+      {
+        "id": "B2-Q1",
+        "stem": "The primary blood supply to the maxilla after Le Fort I osteotomy is maintained via which vessel and its associated tissue?",
+        "options": {
+          "A": "Anterior superior alveolar artery via the buccal mucoperiosteum",
+          "B": "Descending palatine artery within the intact palatal mucoperiosteum",
+          "C": "Infraorbital artery via the labial mucosa flap",
+          "D": "Internal maxillary artery via the pterygomaxillary junction periosteum"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Bell's revascularisation studies (J Oral Surg 1969) demonstrated that the descending palatine artery, running within the intact palatal mucoperiosteum, is the critical vascular pedicle maintaining maxillary viability after complete mobilisation. Provided the palatal mucosa is kept intact and under no tension, the maxilla remains adequately perfused even with all other vascular connections transected.",
+          "wrong": {
+            "A": "The anterior superior alveolar artery (from the infraorbital artery) supplies the anterior maxillary teeth but its inferior connections are transected at the osteotomy — it is not the primary post-osteotomy blood supply.",
+            "C": "The labial mucosa flap (vestibular incision) is elevated during approach and its mucosal contribution is diminished during the procedure — this is not the critical pedicle.",
+            "D": "The pterygomaxillary junction periosteum is incised and the pterygoid plates are separated during the procedure — this is not the preserved vascular pedicle."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Bell WH. J Oral Surg 1969",
+          "trial": "Bell WH (J Oral Surg 1969): landmark laboratory study demonstrating maxillary viability after complete Le Fort I osteotomy when palatal mucosa preserved; established the surgical principle that intact palatal flap = adequate perfusion.",
+          "pearl": "Maxilla blood supply after Le Fort I: descending palatine artery within intact palatal mucoperiosteum = the critical pedicle. Never tear or perforate the palatal mucosa. Palatal perforation = risk of avascular necrosis of the entire maxilla."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q2",
+        "stem": "During Le Fort I osteotomy, the horizontal osteotomy cut should be placed at what minimum distance above the apices of the maxillary teeth?",
+        "options": {
+          "A": "1 mm",
+          "B": "3–5 mm",
+          "C": "8–10 mm",
+          "D": "15 mm"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The Le Fort I horizontal osteotomy is placed 3–5 mm above the apices of the maxillary teeth. This ensures tooth root integrity while staying below the infraorbital foramen and leaving sufficient bone for fixation plate placement. The exact position must be confirmed preoperatively on CBCT, as root apex positions vary between patients — particularly important for patients with long canine roots.",
+          "wrong": {
+            "A": "1 mm above the apices risks root transection during the osteotomy cut, causing tooth devitalisation.",
+            "C": "8–10 mm above apices would likely breach the infraorbital floor (infraorbital foramen is approximately 7 mm below the infraorbital rim) and would reduce the bone available for the osteotomy segment.",
+            "D": "15 mm above apices would be at the level of the orbital floor — this would convert the osteotomy to a Le Fort II (pyramidal fracture) level, which is not intended."
+          },
+          "guideline": "Posnick JC. Orthognathic Surgery (Saunders 2014); EACMFS Guidelines 2023",
+          "trial": "Rachmiel A et al. (Int J Oral Maxillofac Surg 2001): anatomical study of Le Fort I osteotomy levels — 3–5 mm above root apices confirmed as optimal for tooth protection and sufficient fixation bone.",
+          "pearl": "Le Fort I osteotomy level: 3–5 mm above maxillary tooth root apices. Confirm with CBCT preoperatively — canine roots are often highest. Keep cut below infraorbital foramen (infraorbital n. 7 mm below infraorbital rim). 4-point fixation: piriform rims + zygomatic buttresses."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q3",
+        "stem": "Which fixation approach provides the most stable Le Fort I fixation and is currently standard practice?",
+        "options": {
+          "A": "Wire osteosynthesis (circumferential wiring through drill holes)",
+          "B": "Two-point titanium miniplate fixation (bilateral zygomatic buttresses only)",
+          "C": "Four-point titanium miniplate fixation (bilateral piriform rims and bilateral zygomatic buttresses)",
+          "D": "Bone cement (PMMA) at the osteotomy line"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Four-point titanium miniplate fixation — two plates at the bilateral piriform rims (anterior) and two plates at the bilateral zygomatic buttresses (posterior) — provides the most stable Le Fort I fixation, distributing masticatory and surgical forces across four points on the maxillary skeleton. This has replaced wire osteosynthesis, which had significantly higher relapse rates and required prolonged intermaxillary fixation (IMF) post-operatively.",
+          "wrong": {
+            "A": "Wire osteosynthesis was the historical technique — it required 6 weeks of IMF (jaw wiring), is less stable, and has higher relapse rates. It is no longer used for standard orthognathic surgery.",
+            "B": "Two-point fixation (zygomatic buttresses only) is insufficient for anterior stability — the piriform rim plates provide critical anterior support against the downward pull of the anterior maxillary soft tissues.",
+            "D": "Bone cement is not used for orthognathic fixation — it cannot withstand masticatory forces and does not allow bone healing at the osteotomy site."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Proffit WR et al. (Am J Orthod Dentofacial Orthop 1996): rigid internal fixation vs wire osteosynthesis after Le Fort I — rigid fixation had significantly lower relapse rates and eliminated need for 6-week IMF.",
+          "pearl": "Le Fort I fixation: 4 titanium miniplates — bilateral piriform rims + bilateral zygomatic buttresses. Standard screws: 1.5–2.0 mm self-tapping. Advantages over wire: immediate jaw mobility, no IMF, lower relapse. Plates removed at 12+ months if symptomatic."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q4",
+        "stem": "An alar cinch suture is placed at the end of a Le Fort I osteotomy with 5 mm maxillary advancement. What is the primary purpose of this suture?",
+        "options": {
+          "A": "To close the palatal incision if palatal mucosal access was required",
+          "B": "To prevent post-operative alar base widening (nasal flaring) secondary to maxillary advancement",
+          "C": "To reduce post-operative nasal septal deviation",
+          "D": "To compress the maxillary sinus cavity to prevent haematoma"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Maxillary advancement causes the soft tissue alar bases to widen (flare laterally) due to the advancement of the soft tissue attached to the anterior maxilla. The relationship is approximately 1 mm of alar widening per 3 mm of maxillary advancement. The alar cinch suture (a deep resorbable suture placed between the bases of the alae before vestibular wound closure) cinches the alar bases together, preventing post-operative widening. Without the alar cinch, patients develop an undesirably widened nasal base.",
+          "wrong": {
+            "A": "Palatal incision closure is not the purpose of the alar cinch suture — the palatal mucosa is accessed through the vestibular incision in standard Le Fort I, and the palatal mucosa itself is not incised.",
+            "C": "Nasal septal deviation is addressed by a concurrent septoplasty or through specific osteotomy adjustments, not by the alar cinch suture.",
+            "D": "Sinus haematoma prevention is not related to suture placement — nasal packs or sinus drainage may be used if sinusitis is anticipated."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Precious DS et al. (Int J Adult Orthod Orthognath Surg 1993): alar base changes after Le Fort I — without alar cinch, mean alar widening 2.4 mm with 5 mm advancement; cinch suture reduced widening to 0.4 mm.",
+          "pearl": "Alar cinch suture: prevents alar base widening after Le Fort I advancement. ~1 mm widening per 3 mm of advancement without cinch. Place BEFORE wound closure through alar base tissue. Also use V-Y closure of the vestibular incision to prevent upper lip thinning."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q5",
+        "stem": "A patient develops avascular necrosis of a portion of the anterior maxilla following Le Fort I osteotomy. The most likely intraoperative cause is:",
+        "options": {
+          "A": "Excessive use of electrocautery to the buccal gingiva",
+          "B": "Tear or perforation of the palatal mucoperiosteum during nasal floor dissection",
+          "C": "Placement of too many fixation screws in the piriform area",
+          "D": "Extended operating time (>4 hours)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Avascular necrosis of the maxilla after Le Fort I is caused by devascularisation of the osteotomised maxilla, which occurs when the palatal mucoperiosteum (containing the descending palatine artery) is torn, perforated, or placed under excessive tension. A palatal perforation disrupts the only remaining vascular pedicle to the mobilised maxilla. Operating time and the number of fixation screws do not cause devascularisation.",
+          "wrong": {
+            "A": "Electrocautery to the buccal gingiva may cause local gingival injury but does not devascularise the maxilla — the palatal pedicle remains intact.",
+            "C": "Fixation screw placement in the piriform area is standard technique. The number of screws does not compromise blood supply from the palatal pedicle.",
+            "D": "Extended operating time alone does not cause maxillary avascular necrosis provided the palatal mucosa is intact. The duration of surgery is not the key variable — pedicle integrity is."
+          },
+          "guideline": "Bell WH J Oral Surg 1969; EACMFS Guidelines 2023",
+          "trial": "Lanigan DT et al. (J Oral Maxillofac Surg 1990): avascular necrosis after Le Fort I — all reported cases associated with palatal mucosal tears or excessive tension; confirmed palatal perforation as the primary aetiology.",
+          "pearl": "Avascular necrosis prevention: NEVER tear, perforate, or place tension on the palatal mucoperiosteum. If a palatal perforation occurs, repair immediately with sutures. If large perforation: reconsider procedure or add interim support until vascularity confirmed. Incidence <0.1% at experienced centres."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q6",
+        "stem": "Infraorbital nerve paraesthesia following Le Fort I osteotomy is reported in what proportion of patients post-operatively, and what is the typical natural history?",
+        "options": {
+          "A": "5% of patients; permanent in most cases",
+          "B": "30–50% of patients; most resolve by 6–12 months",
+          "C": "70–80% of patients; permanent in all",
+          "D": "Less than 1% of patients; rarely occurs"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Infraorbital nerve (V2) paraesthesia occurs in 30–50% of patients following Le Fort I osteotomy due to traction, stretch, or minor trauma to the nerve during subperiosteal dissection or osteotomy close to the infraorbital foramen. The vast majority (>90%) resolve by 6–12 months. Permanent sensory loss occurs in <5%. This is an important complication to discuss in pre-operative consent.",
+          "wrong": {
+            "A": "5% incidence is far too low — ION paraesthesia occurs in 30–50% of cases. It is not permanent in most cases.",
+            "C": "70–80% is an overestimate, and 'permanent in all' is categorically incorrect — the vast majority resolve.",
+            "D": "Less than 1% dramatically underestimates the true incidence. ION paraesthesia is one of the most common post-operative neurological events after Le Fort I."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; BAOMS Standards 2022",
+          "trial": "Colella G et al. (Int J Oral Maxillofac Surg 2007): systematic review of neurosensory disturbances after orthognathic surgery — ION paraesthesia in 30–40% post-Le Fort I; >90% recovery at 12 months; permanent loss <5%.",
+          "pearl": "ION paraesthesia post-Le Fort I: 30–50% incidence. Natural history: >90% recovery by 12 months. Permanent loss <5%. Document pre-operatively, counsel patient, reassure at follow-up. If no improvement at 12 months: consider nerve mapping and formal neurosensory testing."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q7",
+        "stem": "For a Le Fort I impaction procedure (superior repositioning) of 4 mm to correct vertical maxillary excess, which bone management step is required?",
+        "options": {
+          "A": "Bone graft is placed at the osteotomy site to fill the superior gap",
+          "B": "4 mm of bone is removed from the superior aspect of the osteotomy (from the sinus floor and lateral sinus walls) before repositioning",
+          "C": "No bone management is required — the maxilla is simply compressed superiorly",
+          "D": "The piriform rim is cut away to allow upward movement without bone contact"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For superior repositioning (impaction), the bone that the maxilla will move into must be removed first. A 4 mm impaction requires removing 4 mm of bone from the superior edges of the osteotomy (the inferior sinus floor and lower lateral maxillary walls). Without bone removal, the maxilla cannot move superiorly — the bony walls would block the movement. The amount of bone removed equals the planned impaction amount.",
+          "wrong": {
+            "A": "Bone grafts are used for INFERIOR repositioning (to fill the gap created when the maxilla is moved DOWN). For impaction (moving UP), bone is REMOVED, not added.",
+            "C": "The maxilla cannot be 'simply compressed superiorly' without bone removal — the rigid bony walls prevent superior movement without creating space by bone removal.",
+            "D": "The piriform rims are preserved for fixation plate placement — they are not removed. The bone removal is from the SUPERIOR aspect of the osteotomy (sinus floor), not the piriform rim."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Stec M et al. (Int J Oral Maxillofac Surg 2007): Le Fort I impaction for VME — 1:1 relationship between bone removal (mm) and maxillary impaction achieved; confirmed standard technique of superior bone removal.",
+          "pearl": "Le Fort I impaction: Remove bone from SUPERIOR aspect of osteotomy = amount of impaction desired. Le Fort I inferior repositioning: Bone GRAFT fills the inferior gap. Impaction = most stable movement. Inferior repositioning = least stable (requires graft)."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q8",
+        "stem": "Pterygomaxillary dysjunction is the step during Le Fort I when the curved osteotome separates the pterygoid plates from the maxillary tuberosity. In which direction should the osteotome be directed to avoid internal maxillary artery injury?",
+        "options": {
+          "A": "Directly superior and medial toward the skull base",
+          "B": "Directly posterior along the midline",
+          "C": "Posterolateral, placed at the INFERIOR aspect of the pterygomaxillary fissure",
+          "D": "Anterosuperior toward the infraorbital foramen"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The curved osteotome for pterygomaxillary dysjunction should be directed POSTEROLATERALLY and placed at the INFERIOR aspect of the pterygomaxillary fissure. This direction separates the pterygomaxillary junction safely, away from the internal maxillary artery and its branches in the pterygopalatine fossa superiorly. If the osteotome is placed too superiorly or directed medially/superiorly, it can enter the pterygopalatine fossa and lacerate the internal maxillary artery.",
+          "wrong": {
+            "A": "Superior and medial direction would drive the osteotome directly toward the internal maxillary artery and the pterygopalatine fossa — the most dangerous possible direction.",
+            "B": "Directly posterior would produce a non-anatomical fracture and risk posterior maxillary artery injury.",
+            "D": "Anterosuperior toward the infraorbital foramen would not separate the pterygomaxillary junction at all — this is the wrong structure and direction."
+          },
+          "guideline": "Posnick JC. Orthognathic Surgery 2014; EACMFS Guidelines 2023",
+          "trial": "Lanigan DT and Tubman DE (J Oral Maxillofac Surg 1987): internal maxillary artery injuries during Le Fort I — all cases associated with osteotome placed superiorly or directed medially; posterolateral direction with inferior placement is safe.",
+          "pearl": "Pterygomaxillary dysjunction: curved osteotome, tip placed at INFERIOR pterygomaxillary fissure, directed POSTEROLATERALLY. Gentle mallet taps — progressive separation. If resistance: do not force — re-check position. IMA injury is life-threatening. Use bimanual palpation to confirm correct placement."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q9",
+        "stem": "A Le Fort I osteotomy with 8 mm advancement for a cleft patient results in significant post-operative skeletal relapse of 4 mm (50%) at 12 months. Which technique modification would have been most likely to prevent this relapse?",
+        "options": {
+          "A": "Adding concurrent BSSO to balance the forces",
+          "B": "Using distraction osteogenesis (DO) instead of acute advancement",
+          "C": "Increasing the number of fixation screws from 4 to 8 per plate",
+          "D": "Performing the surgery at an earlier age (16 instead of 22)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "For maxillary advancements >8–10 mm (particularly common in cleft patients with severe maxillary hypoplasia), acute single-stage Le Fort I is associated with high relapse due to: (1) excessive soft tissue tension (lip, cheek, pharyngeal musculature) pulling the maxilla back; (2) insufficient bone contact at the osteotomy site; (3) difficulty achieving rigid fixation under tension. Distraction osteogenesis (DO) allows gradual advancement at 1 mm/day, with simultaneous bone formation filling the gap, minimising soft tissue tension, and achieving bone contact throughout. Relapse after DO for cleft maxillary advancement is significantly lower (10–15% vs 40–60% for acute 8+ mm Le Fort I).",
+          "wrong": {
+            "A": "Adding BSSO does not address maxillary skeletal relapse — the BSSO moves the mandible, not the maxilla. Maxillary relapse is a maxillary stability issue.",
+            "C": "Increasing screw number from 4 to 8 per plate does not significantly improve stability of large acute advancements where the primary issue is soft tissue tension pulling the maxilla back.",
+            "D": "Performing surgery earlier (at 16 in a cleft patient) risks relapse from continued growth — cleft patients often have growth potential extending into the early 20s. Earlier surgery would be inappropriate."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Rachmiel A et al. Int J Oral Maxillofac Surg 2001",
+          "trial": "Rachmiel A et al. (Int J Oral Maxillofac Surg 2001): DO vs acute Le Fort I advancement in cleft maxillary hypoplasia — DO: mean relapse 12% at 2 years; acute: mean relapse 48% for >8 mm advancements; established DO as the preferred technique for large cleft advancements.",
+          "pearl": "Large maxillary advancement (>10 mm, common in cleft): use distraction osteogenesis. Activation rate 1 mm/day; latency 5–7 days; consolidation 3 months. Relapse rate 10–15% vs 40–60% for acute Le Fort I in cleft. DO standard for cleft teams."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q10",
+        "stem": "The standard Le Fort I vestibular incision is placed at which anatomical level?",
+        "options": {
+          "A": "Through the attached gingiva, 1 mm from the gingival margin",
+          "B": "In the mucogingival junction",
+          "C": "In the labial vestibule, 4–5 mm above the mucogingival junction (in mobile mucosa)",
+          "D": "Through the palatal mucosa at the junction of hard and soft palate"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The Le Fort I vestibular incision is placed in the mobile labial mucosa of the maxillary vestibule, approximately 4–5 mm above the mucogingival junction. This location: (1) provides adequate mucosal cuff for wound closure without tension; (2) avoids the gingival margin (which would create periodontal problems); (3) leaves a mucosal cuff on the flap side for closure; (4) provides adequate access to the anterior maxillary face for subperiosteal dissection.",
+          "wrong": {
+            "A": "Incision through the attached gingiva would compromise the gingival sulcus and cause periodontal defects — never appropriate for orthognathic incision.",
+            "B": "Incision at the mucogingival junction leaves inadequate mucosal cuff on the gingival side for wound closure, risking wound breakdown and periodontal exposure.",
+            "D": "The palatal mucosa is not incised in standard Le Fort I — it is the critical vascular pedicle and must be preserved intact throughout."
+          },
+          "guideline": "Posnick JC. Orthognathic Surgery 2014; EACMFS Guidelines 2023",
+          "trial": "Standard technique description confirmed by Posnick JC (Orthognathic Surgery Principles and Practice, Saunders 2014) as the universally accepted incision placement for Le Fort I — 4–5 mm above mucogingival junction in mobile mucosa.",
+          "pearl": "Le Fort I incision: horizontal in maxillary vestibule, 4–5 mm above mucogingival junction, first molar to first molar with bilateral vertical releases. This leaves adequate mucosal cuff on tooth side for wound closure. Never incise the palatal mucosa — it is the blood supply."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q11",
+        "stem": "Following Le Fort I osteotomy, on which post-operative week should patients typically transition from liquid to soft diet?",
+        "options": {
+          "A": "Day 3–5 post-operatively",
+          "B": "2 weeks post-operatively",
+          "C": "6 weeks post-operatively",
+          "D": "12 weeks post-operatively (normal diet)"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Standard post-Le Fort I dietary protocol: liquid diet for 2 weeks (allows initial inflammatory phase and early soft callus formation without load); soft diet from weeks 2–6 (woven bone is forming but full load tolerance not yet achieved); normal diet at 12 weeks (hard callus and early remodelling complete, plate fixation is secure). The transition to soft diet at 2 weeks coincides with the beginning of the reparative phase.",
+          "wrong": {
+            "A": "Day 3–5 is far too early — the bone is in the acute inflammatory phase with only haematoma present; premature loading risks plate displacement.",
+            "C": "6 weeks is when soft diet transitions to normal is considered — not when liquid transitions to soft. Waiting 6 weeks for any solid food is unnecessarily prolonged.",
+            "D": "12 weeks is when the patient can eat normally (full diet) — this is the full diet timeline, not the liquid-to-soft transition."
+          },
+          "guideline": "EACMFS Orthognathic Post-operative Care Guidelines 2023; Posnick JC 2014",
+          "trial": "Standard clinical protocol from Posnick JC Orthognathic Surgery 2014 and BAOMS standards — liquid ×2 weeks, soft ×2–6 weeks, normal ×12 weeks; based on bone healing biology timeline.",
+          "pearl": "Post-Le Fort I diet: Liquid ×2 weeks → Soft ×6 weeks → Normal at 12 weeks. Elastics from week 1. Orthodontic appointments resume at 4–8 weeks. No contact sports ×12 weeks. Plate removal at 12+ months if symptomatic."
+        },
+        "difficulty": 1
+      },
+      {
+        "id": "B2-Q12",
+        "stem": "Intraoperative massive haemorrhage during Le Fort I pterygomaxillary dysjunction most commonly involves which vessel?",
+        "options": {
+          "A": "External carotid artery",
+          "B": "Internal maxillary artery or pterygoid venous plexus",
+          "C": "Inferior alveolar artery",
+          "D": "Transverse facial artery"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "The most common source of significant haemorrhage during Le Fort I pterygomaxillary dysjunction is the pterygoid venous plexus (diffuse venous bleeding from the pterygoid space) or, in more serious cases, the internal maxillary artery or one of its branches (which lies in the pterygopalatine fossa, superior to the pterygomaxillary junction). Minor pterygoid venous plexus bleeding is common and controlled by pressure. Internal maxillary artery injury is rare (<0.1%) but catastrophic.",
+          "wrong": {
+            "A": "External carotid artery is not in the operative field of Le Fort I — it is the parent vessel of the internal maxillary artery but is not exposed during orthognathic surgery.",
+            "C": "Inferior alveolar artery enters the mandibular foramen — it is not in the maxillary surgical field of Le Fort I.",
+            "D": "Transverse facial artery is a branch of the superficial temporal artery supplying the lateral face — it is not encountered during Le Fort I osteotomy."
+          },
+          "guideline": "Lanigan DT et al. J Oral Maxillofac Surg 1990; EACMFS Guidelines 2023",
+          "trial": "Lanigan DT and Tubman DE (J Oral Maxillofac Surg 1987): analysis of 1500 Le Fort I osteotomies — significant haemorrhage in 0.8%; source: pterygoid venous plexus (most), IMA injury (rare); IMA injury required intervention in all cases.",
+          "pearl": "Le Fort I bleeding: pterygoid venous plexus (common, controlled with pressure) vs IMA injury (rare, catastrophic). If uncontrolled arterial haemorrhage: pack, call for interventional radiology (embolisation). Prevention: accurate osteotome placement, preoperative adrenaline, avoid superior direction."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q13",
+        "stem": "Following Le Fort I with 5 mm maxillary advancement, the patient reports significant nasal airway improvement. What is the anatomical explanation?",
+        "options": {
+          "A": "The nasal septum is straightened by the advancement movement",
+          "B": "The anterior nasal spine advances forward with the maxilla, enlarging the nasal base and improving nasal airflow",
+          "C": "Swelling resolves after 2 weeks, mechanically opening the airway",
+          "D": "The nasal turbinates are removed as part of the Le Fort I procedure"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "When the maxilla advances in a Le Fort I osteotomy, the anterior nasal spine (which is part of the mobilised maxillary segment) also advances forward. This enlarges the anterior nasal aperture (piriform aperture), improves nasal tip projection, and may reduce nasal airway resistance in patients who had a narrow pyriform aperture. Additionally, rotation of the nasal tip and changes in the nasolabial angle accompany maxillary advancement and contribute to airway and aesthetic changes.",
+          "wrong": {
+            "A": "Nasal septum straightening does not automatically occur with Le Fort I advancement — the nasal septum is cut at the floor level during the procedure, but its superior deviation (if present) is unaffected unless concurrent septoplasty is performed.",
+            "C": "Post-operative swelling typically REDUCES airflow in the first weeks — improvement due to swelling resolution is a late change (>4 weeks), not the primary mechanism.",
+            "D": "Turbinates are not removed as part of Le Fort I — they remain intact. Turbinate reduction is a separate procedure (turbinoplasty) sometimes performed concurrently if indicated."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Proffit WR Contemporary Orthodontics 2018",
+          "trial": "Kahnberg KE et al. (Int J Oral Maxillofac Surg 2001): nasal airway changes after Le Fort I maxillary advancement — significant improvement in nasal airway cross-sectional area correlating with piriform aperture widening; confirmed anterior nasal spine advancement as primary mechanism.",
+          "pearl": "Le Fort I advancement effects on nose: (1) Alar base widening (prevent with alar cinch); (2) Nasal tip rotation (upward, increases nasolabial angle); (3) Piriform aperture widening (improves nasal airway); (4) ANS advances with maxilla. All must be considered in surgical planning and patient counselling."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q14",
+        "stem": "In the context of Le Fort I osteotomy healing, what is the typical timeframe for radiographic bone union to be visible at the osteotomy sites?",
+        "options": {
+          "A": "1–2 weeks",
+          "B": "4–6 weeks",
+          "C": "6–8 weeks",
+          "D": "6 months"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Radiographic bone union (visible bone bridging at the osteotomy lines on OPG or CT) typically appears at 6–8 weeks following Le Fort I osteotomy. This corresponds to the hard callus phase of healing, when woven bone is sufficiently mineralised to be visible on plain radiography. Clinical union (ability to chew soft foods without plate displacement) is usually achieved by 6 weeks, though mechanical strength approaches normal at 12 weeks.",
+          "wrong": {
+            "A": "1–2 weeks corresponds to the inflammatory phase — only soft tissue healing is occurring; bone bridging is not yet radiographically visible.",
+            "B": "4–6 weeks is slightly early — the soft callus at 4–6 weeks contains osteoid and early woven bone but may not be reliably visible on OPG. 6–8 weeks is the more accurate timeframe.",
+            "D": "6 months is during the remodelling phase — by this stage, lamellar bone is replacing woven bone and the osteotomy lines may be completely obliterated radiographically. Visible union occurs much earlier."
+          },
+          "guideline": "EACMFS Orthognathic Post-operative Care Guidelines 2023",
+          "trial": "Bell WH (Oral Surg Oral Med Oral Pathol 1977): histological and radiographic bone healing studies after maxillary osteotomy — radiographic union at 6–8 weeks; histological union (lamellar bone) at 3–6 months; plate removal safe after 12 months.",
+          "pearl": "Le Fort I healing timeline: Inflammatory 0–1 week; soft callus 1–4 weeks; woven bone (radiographic union) 6–8 weeks; lamellar bone (full strength) 3–6 months; remodelling complete 12 months. Plates removable at 12+ months. Orthodontic forces resumed at 4–8 weeks."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q15",
+        "stem": "A multi-piece Le Fort I (segmental Le Fort I with midline split) is performed to simultaneously correct a transverse maxillary discrepancy. Compared to single-piece Le Fort I, which complication risk is INCREASED with the multi-piece technique?",
+        "options": {
+          "A": "Infraorbital nerve paraesthesia",
+          "B": "Maxillary sinus infection",
+          "C": "Avascular necrosis of individual segments and higher skeletal relapse rate",
+          "D": "Pterygoid venous plexus bleeding"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "When the maxilla is divided into multiple pieces (multi-piece segmental Le Fort I), each piece has a smaller palatal mucosal pedicle than the whole maxilla. The blood supply to individual segments is reduced, increasing the risk of partial segment necrosis. Additionally, multiple osteotomy sites create more bone healing interfaces, each with potential for non-union or partial relapse, resulting in a higher overall skeletal relapse rate compared to single-piece Le Fort I.",
+          "wrong": {
+            "A": "Infraorbital nerve paraesthesia risk is not significantly increased by multi-piece technique — the nerve is at the same anatomical level regardless of how many maxillary pieces are created.",
+            "B": "Maxillary sinus infection risk is similar in single vs multi-piece Le Fort I — both expose the sinus interior. Multi-piece has more osteotomy sites but this does not directly increase sinusitis risk.",
+            "D": "Pterygoid venous plexus bleeding risk is the same — the pterygomaxillary dysjunction step is identical in single vs multi-piece Le Fort I."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Turvey TA and Hall DJ (J Oral Maxillofac Surg 1982): multi-piece Le Fort I complications — higher rate of dental devitalisation and segment necrosis vs single-piece; careful pedicle preservation reduces but does not eliminate this risk.",
+          "pearl": "Multi-piece Le Fort I risks: smaller pedicles per segment = higher necrosis risk; more bone healing sites = higher relapse potential. Advantages: simultaneous correction of transverse + vertical + sagittal in one procedure. Reserved for experienced surgeons with careful VSP planning."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q16",
+        "stem": "After Le Fort I osteotomy, the surgeon notes that the maxillary midline has shifted 2 mm to the left of planned. During which part of the procedure should this have been detected and corrected?",
+        "options": {
+          "A": "During wound closure — the sutures can be adjusted to shift the midline",
+          "B": "After final plate fixation — additional screws can redirect the midline",
+          "C": "Before final fixation — after splint placement and seating, the midline should be confirmed with facial landmarks before applying plates",
+          "D": "This cannot be corrected — midline shifts after Le Fort I are permanent"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "After placing the surgical splint and seating the maxilla, the surgeon must confirm the maxillary midline against facial reference points (facial midline, philtrum, nasal septum) BEFORE applying fixation plates. If a 2 mm midline shift is detected at this stage, the maxilla can simply be repositioned and the splint re-seated. Once the fixation plates are applied and the screws tightened, the maxilla is fixed — correcting a midline error after plate fixation is much more difficult (requires plate removal and repositioning).",
+          "wrong": {
+            "A": "Wound sutures do not affect the maxillary bone position — sutured mucosa cannot redirect a fixed bony segment.",
+            "B": "After final plate fixation, the bone is already secured. Adding more screws cannot shift the bone position — it can only further fix the current (incorrect) position.",
+            "D": "Midline shifts CAN be corrected — the key is detecting them before fixation. Post-fixation correction requires plate removal and re-osteotomy, which is a major revision procedure."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC 2014",
+          "trial": "Baan F et al. (J Craniomaxillofac Surg 2016): analysis of Le Fort I positioning errors — midline shifts most commonly detected intraoperatively if systematic post-splint check is performed before fixation; recommend standardised intraoperative check protocol.",
+          "pearl": "Before applying Le Fort I fixation plates: check — (1) midline (vs nasal septum and philtrum); (2) vertical height (vs planned and contralateral reference); (3) symmetry. These checks must be systematic BEFORE committing to plate placement. Post-fixation corrections require revision surgery."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q17",
+        "stem": "Which additional procedure is routinely performed concurrent with Le Fort I impaction to prevent changes to nasal tip morphology and alar base width?",
+        "options": {
+          "A": "Septoplasty only",
+          "B": "Turbinectomy (inferior turbinate reduction)",
+          "C": "Alar cinch suture and V-Y closure of the vestibular incision",
+          "D": "Nasal bone osteotomy (lateral rhinotomy)"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "The alar cinch suture (prevents alar base widening) and V-Y closure of the vestibular incision (prevents upper lip thinning and eversion) are both performed routinely with Le Fort I impaction and advancement to manage the predictable nasal changes. The V-Y closure adds fullness to the upper lip and compensates for the tendency of the lip to thin during vestibular incision closure.",
+          "wrong": {
+            "A": "Septoplasty addresses nasal septal deviation — it is performed concurrently if the patient has a significant deviated septum causing nasal obstruction, but is not a routine part of every Le Fort I.",
+            "B": "Turbinectomy (turbinoplasty or inferior turbinate reduction) is performed concurrently if there is hypertrophic inferior turbinate contributing to nasal obstruction — it is not a routine procedure for every Le Fort I impaction.",
+            "D": "Nasal bone osteotomy (lateral osteotomies) is a rhinoplasty step to narrow a wide nasal dorsum — it is not part of Le Fort I osteotomy and is not routinely performed during orthognathic surgery."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Precious DS et al. Int J Adult Orthod 1993",
+          "trial": "Precious DS et al. (Int J Adult Orthod Orthognath Surg 1993): alar changes after Le Fort I — alar cinch suture reduces widening from mean 2.4 mm to 0.4 mm; V-Y closure prevents upper lip thinning.",
+          "pearl": "Le Fort I routine wound closure: (1) Alar cinch suture (deep, bilateral alar bases) to prevent widening; (2) V-Y advancement of vestibular mucosa to prevent upper lip thinning. Both are simple additions that significantly improve aesthetic outcomes."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q18",
+        "stem": "A 24-year-old woman undergoes Le Fort I for skeletal Class III maxillary retrognathia (8 mm advancement planned). During mobilisation with Rowe's disimpaction forceps, an audible crack is heard and the surgeon notes an unexpected fracture extending toward the pterygoid plates, creating a free-floating posterior maxillary fragment. What is the most appropriate immediate management?",
+        "options": {
+          "A": "Abandon the procedure immediately and plan revision at 12 months",
+          "B": "Remove the fractured fragment — it will be replaced by bone graft",
+          "C": "Gently complete the mobilisation, assess the fragment, and add additional fixation plates to stabilise both the main segment and the fractured piece",
+          "D": "Pack the area and convert to a Le Fort II osteotomy"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "An unfavourable fracture during Le Fort I mobilisation (a crack extending beyond the planned osteotomy line) is managed by: (1) gently completing the mobilisation to ensure full freedom of the maxilla; (2) carefully assessing the fractured fragment (most unfavourable fractures involve the pterygoid plates or posterior sinus wall and remain vascularised via the palatal pedicle); (3) repositioning both the main maxillary segment and the fractured piece; (4) applying additional fixation plates to stabilise the fracture. In most cases, the fractured piece remains viable and heals without sequelae with additional fixation.",
+          "wrong": {
+            "A": "Abandoning the procedure and planning revision at 12 months is overly conservative — most unfavourable fractures can be managed intraoperatively with additional fixation.",
+            "B": "Removing the fractured fragment would leave a defect requiring bone graft, and removes vascularised bone that can heal if properly fixed — unnecessary tissue removal.",
+            "D": "Converting to Le Fort II (which includes the orbital floor) is not indicated for a posterior maxillary unfavourable fracture — this would dramatically extend the procedure and increase morbidity."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; Posnick JC. Orthognathic Surgery 2014",
+          "trial": "Fonseca RJ et al. (Oral Maxillofac Surg Clin North Am 2004): management of unfavourable fractures during orthognathic surgery — additional plate fixation achieves normal healing in 95% of cases; fragment removal is rarely required.",
+          "pearl": "Unfavourable Le Fort I fracture: complete mobilisation gently, assess fragment viability (palatal pedicle intact = viable), reposition + additional fixation plates. Most heal uneventfully. Document in operative record. Post-op monitor for signs of devascularisation (colour change, pain)."
+        },
+        "difficulty": 3
+      },
+      {
+        "id": "B2-Q19",
+        "stem": "For a Le Fort I osteotomy, the typical titanium plate screw diameter and length used for fixation is:",
+        "options": {
+          "A": "3.5 mm cortical screws, 16 mm length",
+          "B": "1.5–2.0 mm self-tapping screws, 5–7 mm length (monocortical)",
+          "C": "6.0 mm cancellous screws, 30 mm length (bicortical)",
+          "D": "4.5 mm locking screws, 12 mm length"
+        },
+        "correct": "B",
+        "explanation": {
+          "correct": "Le Fort I fixation uses standard miniplate systems with 1.5 mm or 2.0 mm self-tapping screws (monocortical), typically 5–7 mm in length. These are designed for mid-face fixation where the bone is relatively thin (2–5 mm cortex). Monocortical fixation is sufficient as the plates provide load-bearing stability without requiring bicortical purchase. Larger screws (3.5 mm cortical or 4.5 mm) are used for mandibular or cranial fixation — they would be inappropriate and damaging in the thin maxillary bone.",
+          "wrong": {
+            "A": "3.5 mm cortical screws are mandibular fixation screws — far too large for the thin maxillary walls.",
+            "C": "6.0 mm cancellous screws at 30 mm are for long bone (orthopaedic) fixation — entirely inappropriate for facial skeleton use.",
+            "D": "4.5 mm locking screws are used in mandibular reconstruction plates — too large for midface Le Fort I fixation."
+          },
+          "guideline": "EACMFS Orthognathic Surgery Guidelines 2023; DePuy Synthes Orthognathic Plating System Technical Guide",
+          "trial": "Standard clinical protocol — Le Fort I fixation with titanium miniplates and 1.5–2.0 mm monocortical self-tapping screws is universally accepted per EACMFS 2023 and all major orthognathic surgery texts.",
+          "pearl": "Midface (Le Fort I) fixation: 1.5 mm or 2.0 mm titanium mini-plates with self-tapping monocortical screws 5–7 mm length. Four-point fixation: bilateral piriform rims + bilateral zygomatic buttresses. Mandibular (BSSO): 2.0 mm plates or bicortical 2.0 mm self-drilling screws."
+        },
+        "difficulty": 2
+      },
+      {
+        "id": "B2-Q20",
+        "stem": "A Le Fort I osteotomy for VME correction (3 mm impaction) is completed with four-point miniplate fixation. The post-operative splint is kept in place for 6 weeks. At 8 weeks, the orthodontist notes 1.5 mm of skeletal relapse (maxilla re-descended inferiorly). What is the most likely explanation?",
+        "options": {
+          "A": "Plate fracture from chewing hard food too early",
+          "B": "Normal physiological remodelling — all Le Fort I impactions relapse completely",
+          "C": "Normal physiological bone remodelling at the sinus floor — expected minor relapse of 0–1.5 mm is within the normal range",
+          "D": "Splint kept in place for too long, causing supraeruption of the teeth"
+        },
+        "correct": "C",
+        "explanation": {
+          "correct": "Minor skeletal relapse of 0–1.5 mm following Le Fort I impaction is within the expected range of normal physiological bone remodelling. Impaction is one of the most stable Le Fort I movements (5–10% relapse), and 1.5 mm relapse from a 3 mm impaction represents 50% — at the upper end of normal but within reported ranges. Bone at the sinus floor undergoes remodelling as it re-establishes the vertical maxillary dimension. True relapse beyond 2 mm at 8 weeks warrants reassessment. The patient should be monitored as post-surgical orthodontics will be adjusted to accommodate residual minor discrepancies.",
+          "wrong": {
+            "A": "Plate fracture from early hard food chewing would produce significant sudden relapse or deformity at the time of the event — not a gradual 1.5 mm at 8 weeks. Post-op diet restrictions (liquid ×2 weeks, soft ×6 weeks) prevent this.",
+            "B": "Complete relapse of all Le Fort I impactions is a false statement — most Le Fort I impactions are highly stable with <10% relapse. Complete relapse is uncommon.",
+            "D": "Supraeruption of teeth from splint immobilisation is a real concern with prolonged IMF, but a 6-week splint with regular orthodontic follow-up does not cause significant supraeruption in orthognathic patients who have excellent dental occlusal contacts guided by the splint."
+          },
+          "guideline": "Proffit WR. Semin Orthod 2007; EACMFS Guidelines 2023",
+          "trial": "Proffit WR et al. (Semin Orthod 2007): long-term stability after Le Fort I — impaction relapse 5–10%; mean 0.5–1.5 mm at 12 months; within this range is expected physiological remodelling; intervention not required unless clinically significant.",
+          "pearl": "Le Fort I impaction relapse: 5–10%, mean 0.5–1.5 mm. Within this range = normal bone remodelling. Significant relapse (>2 mm) = investigate: plate failure? Patient compliance? Continued growth? Post-surgical ortho adjusts for minor residual discrepancies. Document and monitor at 3, 6, 12 months."
+        },
+        "difficulty": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-05-19",
+  "description": "Knowledge base topic index for HGUGM Cirugía Oral y Maxilofacial residency course.",
+  "authors": "HGUGM · Residentes — Servicio de Cirugía Oral y Maxilofacial.",
+  "total_topics": 10,
+  "topics": [
+    {
+      "id": "KB-A-001",
+      "title": "TNM 8th Edition Staging for Oral Cavity Cancer",
+      "block": "A",
+      "block_name": "Head & Neck Oncology",
+      "related_chapters": ["A1"],
+      "keywords": ["TNM", "staging", "oral cavity", "depth of invasion", "AJCC 8th"],
+      "summary": "AJCC 8th edition incorporates depth of invasion (DOI) into T classification for oral cavity cancer. DOI >10 mm = T3 regardless of size.",
+      "guidelines": ["NCCN Head and Neck Cancers 2024", "AJCC 8th Edition 2017"]
+    },
+    {
+      "id": "KB-A-002",
+      "title": "Neck Dissection Classification",
+      "block": "A",
+      "block_name": "Head & Neck Oncology",
+      "related_chapters": ["A4"],
+      "keywords": ["neck dissection", "levels I-V", "MRND", "SND", "RND"],
+      "summary": "Academy/AHNS classification of neck dissections. Levels I-VI. Radical, modified radical, selective, and extended neck dissections.",
+      "guidelines": ["AAOMS Neck Dissection Guidelines 2023", "EACMFS 2023"]
+    },
+    {
+      "id": "KB-A-003",
+      "title": "Free Flap Reconstruction — Fibula Free Flap",
+      "block": "A",
+      "block_name": "Head & Neck Oncology",
+      "related_chapters": ["A5"],
+      "keywords": ["fibula free flap", "FFF", "mandibular reconstruction", "microvascular", "CAD/CAM"],
+      "summary": "Fibula free flap as gold standard for mandibular reconstruction. CAD/CAM virtual surgical planning. Monitoring and salvage protocols.",
+      "guidelines": ["EACMFS Reconstruction Guidelines 2023"]
+    },
+    {
+      "id": "KB-B-001",
+      "title": "Orthognathic Surgery — Virtual Surgical Planning",
+      "block": "B",
+      "block_name": "Orthognathic & Skeletal Surgery",
+      "related_chapters": ["B1"],
+      "keywords": ["VSP", "virtual surgical planning", "3D planning", "CAD/CAM splints", "cephalometry"],
+      "summary": "Virtual surgical planning allows 3D simulation of orthognathic movements. CAD/CAM fabricated surgical splints. Comparison with model surgery.",
+      "guidelines": ["EACMFS Orthognathic Surgery Guidelines 2023"]
+    },
+    {
+      "id": "KB-C-001",
+      "title": "Third Molar Classification — Pell-Gregory and Winter",
+      "block": "C",
+      "block_name": "Dentoalveolar & Implantology",
+      "related_chapters": ["C1"],
+      "keywords": ["third molar", "wisdom tooth", "Pell-Gregory", "Winter", "impaction"],
+      "summary": "Pell-Gregory (depth A/B/C, class I/II/III) and Winter (mesioangular, vertical, distoangular, horizontal) classification for third molar impaction.",
+      "guidelines": ["AAOMS Third Molar White Paper 2016"]
+    },
+    {
+      "id": "KB-D-001",
+      "title": "TMJ Disorders — Wilkes Classification",
+      "block": "D",
+      "block_name": "Temporomandibular Joint",
+      "related_chapters": ["D1"],
+      "keywords": ["TMJ", "Wilkes", "internal derangement", "disc displacement", "arthroscopy"],
+      "summary": "Wilkes classification stages I-V for TMJ internal derangement. Stage I/II: non-surgical. Stage III/IV: arthroscopic lysis/lavage. Stage V: open arthroplasty or total joint replacement.",
+      "guidelines": ["AAOMS TMJ Disorders Parameters of Care 2023"]
+    },
+    {
+      "id": "KB-E-001",
+      "title": "Le Fort Fracture Classification",
+      "block": "E",
+      "block_name": "Facial Trauma",
+      "related_chapters": ["E3"],
+      "keywords": ["Le Fort I", "Le Fort II", "Le Fort III", "midface", "pterygoid", "craniofacial dysjunction"],
+      "summary": "Le Fort I: transverse maxillary fracture above teeth. Le Fort II: pyramidal fracture through nasal bones. Le Fort III: craniofacial disjunction.",
+      "guidelines": ["ATLS 10th Edition 2018", "EACMFS Facial Trauma Guidelines"]
+    },
+    {
+      "id": "KB-F-001",
+      "title": "Cleft Lip and Palate — Timing of Repair",
+      "block": "F",
+      "block_name": "Cleft & Craniofacial",
+      "related_chapters": ["F1"],
+      "keywords": ["cleft lip", "cleft palate", "Millard", "Furlow", "timing", "presurgical orthodontics"],
+      "summary": "Cleft lip repair at 3 months ('rule of 10s'). Palate repair at 9-12 months to optimize speech. Two-stage palate repair in wide clefts.",
+      "guidelines": ["ACPA Parameters for Evaluation and Treatment 2023", "EACMFS Cleft Guidelines 2023"]
+    },
+    {
+      "id": "KB-G-001",
+      "title": "Evidence-Based OMFS — Critical Appraisal",
+      "block": "G",
+      "block_name": "Research in OMFS",
+      "related_chapters": ["G1"],
+      "keywords": ["EBM", "GRADE", "RCT", "systematic review", "bias", "CONSORT"],
+      "summary": "GRADE framework for evidence quality. CONSORT for RCT reporting. Common biases in surgical trials. Hierarchy of evidence.",
+      "guidelines": ["GRADE 2011", "CONSORT 2010"]
+    },
+    {
+      "id": "KB-G-002",
+      "title": "Statistical Methods in OMFS Research",
+      "block": "G",
+      "block_name": "Research in OMFS",
+      "related_chapters": ["G2", "G3"],
+      "keywords": ["sample size", "power", "survival analysis", "propensity score", "NNT"],
+      "summary": "Sample size calculation, power analysis, survival analysis methods in OMFS outcomes research.",
+      "guidelines": ["CONSORT 2010", "TRIPOD 2015"]
+    }
+  ],
+  "note": "Knowledge base topic index for HGUGM Cirugía Oral y Maxilofacial residency course."
+}
